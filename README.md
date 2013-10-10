@@ -1,4 +1,1 @@
-DigitalEarth
-============
-
-DigitalEarth
+see https://dresdenlabs.appspot.com/earth
