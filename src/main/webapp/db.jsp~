@@ -1,0 +1,44 @@
+<%@page import="java.io.*" %><%@page import="com.almworks.sqlite4java.*"%>
+var cachedCubes=true;
+var root=1;
+var ocTree={
+<%
+ //e.g.: 89001:{m:1,c:[88002,94001,95001,99001,100001,100002,101001,102001]},
+
+ SQLiteConnection db = new SQLiteConnection(new File("/home/rawa/tmpsql/cub"));
+ db.open(true);
+
+ SQLiteStatement st;
+ //st = db.prepare("INSERT INTO cube VALUES (?,?,?)");
+ st = db.prepare("SELECT * FROM cube order by CreatedAt");
+/**
+ st = db.prepare(//"SELECT * FROM cubes WHERE order by LastEditAt");
+ //st.executeUpdate(
+   "CREATE TABLE cube (key INT,"+
+   "c000 INT,"+
+   "material BYTE)");
+**/
+ try {
+/*  st.bind(1, 1);
+  st.bind(2, 1);
+  st.bind(3, 1);
+  st.step();*/
+  while (st.step()) {
+%><%=st.columnLong(1)%>:{m:<%=st.columnLong(2)%>,c:[<%=
+ st.columnLong(3)%>,<%=
+ st.columnLong(4)%>,<%=
+ st.columnLong(5)%>,<%=
+ st.columnLong(6)%>,<%=
+ st.columnLong(7)%>,<%=
+ st.columnLong(8)%>,<%=
+ st.columnLong(9)%>,<%=
+ st.columnLong(10)%>]},
+<%
+  }
+/*  st = db.prepare("SELECT count(*) FROM cube");
+  st.step();*/
+ } finally {
+  st.dispose();
+ }
+ db.dispose();
+%>};
