@@ -1,1 +1,1 @@
-see https://dresdenlabs.appspot.com/earth
+see http://planet.SL4.eu/
