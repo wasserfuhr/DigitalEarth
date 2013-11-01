@@ -1,2 +1,7 @@
 (fn [request response]
- "HelloWorld/4")
+ (str "HelloPlanet - you (" (mind.Hash/getHash (.getId (.getSession request))) ") are on "
+;// (str "HelloPlanet - you (" (mind.Hash/getHash (.getId (.getSession request))) ") are on "
+  (if 
+   (.startsWith (.toString (.getRequestURL request)) "http://planet.sl4.eu:9999/")
+   "dev"
+   "prod")))
