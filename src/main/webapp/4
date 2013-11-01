@@ -1,7 +1,55 @@
 (fn [request response]
- (str "HelloPlanet - you (" (mind.Hash/getHash (.getId (.getSession request))) ") are on "
-;// (str "HelloPlanet - you (" (mind.Hash/getHash (.getId (.getSession request))) ") are on "
-  (if 
-   (.startsWith (.toString (.getRequestURL request)) "http://planet.sl4.eu:9999/")
-   "dev"
-   "prod")))
+ (if (.startsWith (.getRequestURI request) "/5")
+  (let [
+    ff (slurp "/home/rawa/DigitalEarth/src/main/webapp/5")]
+   ((eval (read-string ff)) request response))
+  (let [
+   knownUsers {
+     (keyword "4860fb9b865339f4647cff7d6cb9c8a2fdbcb696") 
+      {:user "RaWa" :server "prod" :UserAgent "" :WebDevice "TinesHp"}
+     :f408e710918e9ce92cb84c4bb8e77c5dfe2d5c83
+      {:user "RaWa" :server "dev" :UserAgent "" :WebDevice "TinesHp"}
+     (keyword "47d663e5921ba3cd0c833c22ca358a132dc9f456")
+      {:user "RaWa" :server "dev" :UserAgent "" :WebDevice "ChromOs"}
+    }
+   sessHash (mind.Hash/getHash (.getId (.getSession request)))
+   user ((keyword sessHash) knownUsers)
+   UserAgent (.getHeader request "User-Agent")
+   five (.getParameter request "5")
+  ]
+ (do
+  (.info (java.util.logging.Logger/getLogger "planet")
+   (str sessHash " " UserAgent))
+  (if (and five user)
+   (let [
+     f (java.io.PrintWriter. "/home/rawa/DigitalEarth/src/main/webapp/5")]
+    (do
+     (.println f five)
+     (.close f))))
+  (str "<html><!-- " sessHash "-->
+   <h1>DigitalPlanet</h1>
+    Hello from DigitalPlanet ("
+    (if
+     (.startsWith (.toString (.getRequestURL request)) "http://planet.sl4.eu:9999/")
+     "dev"
+     "prod")
+    ") to " (.getRemoteAddr request) ". - you are " 
+   (if user
+    (str "<a href=\"http://sl4.eu/wiki/" (:user user) "\">" (:user user) "</a> "
+     "from " (:WebDevice user) " "
+     "with UserAgent <code>" UserAgent "</code>")
+    sessHash) "."
+   (if five
+    (str "<p>You submitted <pre>" five "</pre></p>"))
+"  <form>
+   <table>
+    <tr>
+     <td>Edit <code>TerraFs/5</code>:<br/> 
+      <textarea name='5'>" (if five five) "</textarea/>
+     <td><input type='submit'/></td>
+    </tr>
+   </table>
+  </form>
+ </body>
+</html>
+")))))

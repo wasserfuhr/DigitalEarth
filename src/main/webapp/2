@@ -7,6 +7,9 @@
  <welcome-file-list>
    <welcome-file>i</welcome-file>
  </welcome-file-list>
+<session-config>
+    <session-timeout>-1</session-timeout>
+    </session-config>
  <init-param>
   <param-name>welcomeServlets</param-name>
   <param-value>false</param-value>
