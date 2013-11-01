@@ -157,6 +157,10 @@ log(root);
   var delay = new goog.async.Delay(animate, delay);
   delay.start();
  }
+/*
+URGENT!: TerraChallenge
+(16384-8416)*1000/(1383073200000-new Date().getTime())
+*/
 
  var landmarks={
   'CristoRedentor' :{lat:-22.95194, lon:-43.21056, alt:700},

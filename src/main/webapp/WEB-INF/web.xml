@@ -4,12 +4,19 @@
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" 
    version="2.5">
+<!--welcome-file-list>
+   <welcome-file>i</welcome-file>
+   </welcome-file-list-->
+<init-param>
+  <param-name>welcomeServlets</param-name>
+  <param-value>false</param-value>
+  </init-param>
  <servlet>
-  <servlet-name>earthOp</servlet-name>
-  <jsp-file>/earthOp.jsp</jsp-file>
+  <servlet-name>i</servlet-name>
+  <jsp-file>1.jsp</jsp-file>
  </servlet>
  <servlet-mapping>
-  <servlet-name>earthOp</servlet-name>
-  <url-pattern>/earthOp</url-pattern>
+  <servlet-name>i</servlet-name>
+  <url-pattern>/*</url-pattern>
  </servlet-mapping>
 </web-app>

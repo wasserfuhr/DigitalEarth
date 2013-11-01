@@ -1,6 +1,6 @@
-0;136;0c<html>
+<html>
  <head>
-  <title>DigitalEarth</title>
+  <title>DigitalPlanet</title>
   <link rel="canonical" href="http://earth.sl4.eu/"/>
   <style>
 #landmarks a {
@@ -200,7 +200,7 @@
      </div>
     </td>
     <td style="vertical-align:top;font-family:courier;font-size:8pt">
-     <h1>DigitalEarth</h1>
+     <h1>DigitalPlanet</h1>
      <p>Now with <span id="cubeCount"><i>n</i></span> cubes:
      <table >
       <tr>
@@ -234,7 +234,7 @@
   <!--script src="https://dresdenlabs.appspot.com/cubes.js"></script-->
   <!--script src="https://bigtablenomic.googlecode.com/svn/trunk/cubes.js"></script-->
   <!--script src="https://bigtablenomic.googlecode.com/files/cubes.js"></script-->
-  <script src="db.jsp"></script>
+  <script src="cubes.jsp"></script>
   <script src="planet.js"></script>
   <!--script src="https://bigtablenomic.googlecode.com/files/RecentCubes.js"></script>
   <script src="RecentCubes.js"></script>
