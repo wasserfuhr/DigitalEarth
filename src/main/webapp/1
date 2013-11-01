@@ -17,6 +17,11 @@
       <artifactId>jetty-server</artifactId>
       <version>${jettyVersion}</version>
     </dependency>
+<dependency>
+  <groupId>org.clojure</groupId>
+  <artifactId>clojure</artifactId>
+  <version>1.5.1</version>
+</dependency>
     <dependency>
       <groupId>com.almworks.sqlite4java</groupId>
       <artifactId>sqlite4java</artifactId>
@@ -35,6 +40,11 @@
       <type>dll</type>
       <version>${sqlite4java.version}</version>
     </dependency>
+    <dependency>
+      <groupId>org.mozilla</groupId>
+      <artifactId>rhino</artifactId>
+      <version>1.7R4</version>
+    </dependency>
   </dependencies> 
   <build>
     <plugins>
@@ -43,6 +53,11 @@
         <groupId>org.mortbay.jetty</groupId>
         <artifactId>jetty-maven-plugin</artifactId>
         <version>${jettyVersion}</version>
+        <configuration>
+         <webAppSourceDirectory>${basedir}</webAppSourceDirectory>
+         <webXml>${basedir}/2</webXml>
+         <!--webXml>${basedir}/src/main/webapp/2</webXml-->
+	</configuration>
       </plugin>
       <plugin>
         <groupId>org.codehaus.mojo</groupId>
