@@ -3,10 +3,10 @@
    UserAgent (.getHeader request "User-Agent")
    sessHash (mind.Hash/getHash (.getId (.getSession request)))
    knownUsers {
-     (keyword "283f19f60f4faea4a925985b45ef8f2b5d12e4dd")
+     (keyword "3207c100da4c233a966fd87e4856fd6ebbd66466")
       {:user "RaWa" :server "prod" :WebDevice "ChromOs"
        :UserAgent "Mozilla/5.0 (X11; CrOS armv7l 4537.118.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36"}
-     (keyword "0fe2b8f073fa225446f4ccef47a8c28435f8212c")
+     (keyword "ff814b7cb65b2ffc23025f39f2c0fc2c0512058d")
       {:user "RaWa" :server "dev" :WebDevice "ChromOs"
        :UserAgent "Mozilla/5.0 (X11; CrOS armv7l 4537.118.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36"}
      (keyword "4860fb9b865339f4647cff7d6cb9c8a2fdbcb696") 

@@ -11,7 +11,7 @@
       {:user "RaWa" :server "dev" :UserAgent "" :WebDevice "TinesHp"}
      (keyword "32f24990d07e77c240c245d5d2752c1a991a70d4")
       {:user "RaWa" :server "prod" :UserAgent "" :WebDevice "ChromOs"}
-     (keyword "6720deef28fbd44de27ca49404aca799df806f8e")
+     (keyword "4480ee9c2c78d2df74b6799f4014b733fda10b1d")
       {:user "RaWa" :server "dev" :UserAgent "" :WebDevice "ChromOs"}
     }
    sessHash (mind.Hash/getHash (.getId (.getSession request)))
