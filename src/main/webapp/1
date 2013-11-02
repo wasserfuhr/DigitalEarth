@@ -8,20 +8,18 @@
  <packaging>jar</packaging>
  <name>DigitalPlanet</name>
  <properties>
-  <!--jettyVersion>9.1.0.RC0</jettyVersion-->
-  <!--jettyVersion>8.1.13.v20130916</jettyVersion-->
-  <!--jettyVersion>7.2.0.v20101020</jettyVersion-->
+  <stage>dev</stage>
  </properties>
  <dependencies>
-  <!--dependency>
-   <groupId>org.mortbay.jetty</groupId>
-   <artifactId>jetty-server</artifactId>
-   <version>${jettyVersion}</version>
-  </dependency-->
   <dependency>
    <groupId>org.clojure</groupId>
    <artifactId>clojure</artifactId>
    <version>1.5.1</version>
+  </dependency>
+  <dependency>
+   <groupId>javax.servlet</groupId>
+   <artifactId>servlet-api</artifactId>
+   <version>2.5</version>
   </dependency>
   <!--dependency>
    <groupId>org.mozilla</groupId>
@@ -32,24 +30,37 @@
  <build>
   <plugins>
    <plugin>
+    <artifactId>maven-antrun-plugin</artifactId>
+    <version>1.7</version>
+    <executions>
+     <execution>
+      <phase>validate</phase>
+      <configuration>
+       <target>
+        <copy file="3" tofile="src/main/java/S.java"/>
+       </target>
+      </configuration>
+      <goals>
+       <goal>run</goal>
+      </goals>
+     </execution>
+    </executions>
+   </plugin>
+   <plugin>
     <groupId>org.eclipse.jetty</groupId>
     <artifactId>jetty-maven-plugin</artifactId>
-    <!--version>${jettyVersion}</version>
-<version>7.4.3.v20110701</version-->
     <configuration>
      <webAppSourceDirectory>${basedir}</webAppSourceDirectory>
      <webXml>${basedir}/2</webXml>
-      <!--sessionHandler implementation="org.mortbay.jetty.servlet.SessionHandler">
-       <sessionManager implementation="org.mortbay.jetty.servlet.HashSessionManager"-->
      <webAppConfig implementation="org.eclipse.jetty.maven.plugin.JettyWebAppContext">
       <sessionHandler implementation="org.eclipse.jetty.server.session.SessionHandler">
        <sessionManager implementation="org.eclipse.jetty.server.session.HashSessionManager">
-        <storeDirectory>${basedir}/JettySessions</storeDirectory>
+        <storeDirectory>${basedir}/JettySessions/${stage}</storeDirectory>
         <idleSavePeriod>1</idleSavePeriod>
        </sessionManager>
       </sessionHandler>
      </webAppConfig>
-     <jettyXml>${basedir}/WEB-INF/jetty.xml</jettyXml>
+     <!--jettyXml>${basedir}/WEB-INF/jetty.xml</jettyXml-->
     </configuration>
    </plugin>
   </plugins>

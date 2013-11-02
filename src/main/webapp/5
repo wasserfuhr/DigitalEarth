@@ -1,21 +1,37 @@
 (fn [request response]
  (let [
    UserAgent (.getHeader request "User-Agent")
-   sessHash (mind.Hash/getHash (.getId (.getSession request)))
+   sessId (.getId (.getSession request))
+   cs
+    (apply str
+     (map 
+      (fn [c]
+       (if (.equals "TerraCookie" (.getName c))
+        (.getValue c)))
+      (.getCookies request)))
+   userId (if (.isEmpty cs) sessId cs)
+   sessHash (mind.Hash/getHash userId)
+   c
+    (doto
+     (javax.servlet.http.Cookie.
+      "TerraCookie"
+      sessId)
+     (.setMaxAge (* 30 24 60 60)))
    ChromOsUa "Mozilla/5.0 (X11; CrOS armv7l 4537.118.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36"
+   TinesHpChrome "Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36"
    knownUsers {
     (keyword "3207c100da4c233a966fd87e4856fd6ebbd66466") {
      :user "RaWa" :server "prod" :WebDevice "ChromOs"
      :UserAgent ChromOsUa}
-    (keyword "8bba89d34358dd33446d99d8d9545d380e080147") {
+    (keyword "246778b0f2fd903acf797b47303203d59e3a4bd9") {
      :user "RaWa" :server "dev" :WebDevice "ChromOs"
      :UserAgent ChromOsUa}
-    (keyword "4860fb9b865339f4647cff7d6cb9c8a2fdbcb696") {
+    (keyword "462cc3d82cec67f84deb20999e52247ef567771e") {
      :user "RaWa" :server "prod" :WebDevice "TinesHp"
-     :UserAgent "?"}
-    (keyword "f408e710918e9ce92cb84c4bb8e77c5dfe2d5c83") {
+     :UserAgent TinesHpChrome}
+    (keyword "ffe66f500b99a86f28b6cd233d27ba6c00509c8b") {
      :user "RaWa" :server "dev" :WebDevice "TinesHp"
-     :UserAgent "?"}}
+     :UserAgent TinesHpChrome}}
    user ((keyword sessHash) knownUsers)
    fiveName "/home/rawa/DigitalEarth/src/main/webapp/5"
    five (.getParameter request "5")
@@ -31,6 +47,7 @@
    (if (and user (.startsWith (.getRequestURI request) "/x5"))
     ((eval (read-string ff)) request response)
     (do
+     (.addCookie response c)
      (.setCharacterEncoding response "UTF-8")
      (.setContentType response "text/html; charset=UTF-8")
      (.info (java.util.logging.Logger/getLogger "planet")
@@ -63,5 +80,6 @@
     </tr>
    </table>
   </form>
- </body>
+ " (.substring sessId 0 4)
+" </body>
 </html>"))))))

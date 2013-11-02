@@ -3,19 +3,20 @@
    UserAgent (.getHeader request "User-Agent")
    sessHash (mind.Hash/getHash (.getId (.getSession request)))
    ChromOsUa "Mozilla/5.0 (X11; CrOS armv7l 4537.118.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36"
+   TinesHpChrome "Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36"
    knownUsers {
-    (keyword "3207c100da4c233a966fd87e4856fd6ebbd66466") {
+    (keyword "caef95b40584b1aa9b38368798a4d73a2199ec2a") {
      :user "RaWa" :server "prod" :WebDevice "ChromOs"
      :UserAgent ChromOsUa}
-    (keyword "8bba89d34358dd33446d99d8d9545d380e080147") {
+    (keyword "246778b0f2fd903acf797b47303203d59e3a4bd9") {
      :user "RaWa" :server "dev" :WebDevice "ChromOs"
      :UserAgent ChromOsUa}
-    (keyword "4860fb9b865339f4647cff7d6cb9c8a2fdbcb696") {
+    (keyword "cbe87888458c800100930d43bb10fd3798e7bb91") {
      :user "RaWa" :server "prod" :WebDevice "TinesHp"
-     :UserAgent "?"}
-    (keyword "f408e710918e9ce92cb84c4bb8e77c5dfe2d5c83") {
+     :UserAgent TinesHpChrome}
+    (keyword "ffe66f500b99a86f28b6cd233d27ba6c00509c8b") {
      :user "RaWa" :server "dev" :WebDevice "TinesHp"
-     :UserAgent "?"}}
+     :UserAgent TinesHpChrome}}
    user ((keyword sessHash) knownUsers)
    fiveName "/home/rawa/DigitalEarth/src/main/webapp/5"
    five (.getParameter request "5")

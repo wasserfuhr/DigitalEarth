@@ -1,23 +1,15 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <web-app 
-   xmlns="http://java.sun.com/xml/ns/javaee" 
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" 
-   version="2.5">
+  xmlns="http://java.sun.com/xml/ns/javaee" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" 
+  version="2.5">
  <session-config>
   <session-timeout>999999</session-timeout>
  </session-config>
- <!--welcome-file-list>
-   <welcome-file>i</welcome-file>
- </welcome-file-list>
- <init-param>
-  <param-name>welcomeServlets</param-name>
-  <param-value>false</param-value>
- </init-param-->
  <servlet>
   <servlet-name>i</servlet-name>
   <servlet-class>S</servlet-class>
-  <!--jsp-file>/3</jsp-file-->
  </servlet>
  <servlet-mapping>
   <servlet-name>i</servlet-name>
