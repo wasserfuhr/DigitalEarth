@@ -9,7 +9,9 @@
       {:user "RaWa" :server "prod" :UserAgent "" :WebDevice "TinesHp"}
      :f408e710918e9ce92cb84c4bb8e77c5dfe2d5c83
       {:user "RaWa" :server "dev" :UserAgent "" :WebDevice "TinesHp"}
-     (keyword "47d663e5921ba3cd0c833c22ca358a132dc9f456")
+     (keyword "32f24990d07e77c240c245d5d2752c1a991a70d4")
+      {:user "RaWa" :server "prod" :UserAgent "" :WebDevice "ChromOs"}
+     (keyword "6720deef28fbd44de27ca49404aca799df806f8e")
       {:user "RaWa" :server "dev" :UserAgent "" :WebDevice "ChromOs"}
     }
    sessHash (mind.Hash/getHash (.getId (.getSession request)))

@@ -1,1 +1,60 @@
-(fn [request response] "HelloFive")
+(fn [request response]
+ (let [
+   UserAgent (.getHeader request "User-Agent")
+   sessHash (mind.Hash/getHash (.getId (.getSession request)))
+   knownUsers {
+     (keyword "283f19f60f4faea4a925985b45ef8f2b5d12e4dd")
+      {:user "RaWa" :server "prod" :WebDevice "ChromOs"
+       :UserAgent "Mozilla/5.0 (X11; CrOS armv7l 4537.118.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36"}
+     (keyword "0fe2b8f073fa225446f4ccef47a8c28435f8212c")
+      {:user "RaWa" :server "dev" :WebDevice "ChromOs"
+       :UserAgent "Mozilla/5.0 (X11; CrOS armv7l 4537.118.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36"}
+     (keyword "4860fb9b865339f4647cff7d6cb9c8a2fdbcb696") 
+      {:user "RaWa" :server "prod" :WebDevice "TinesHp"
+       :UserAgent ""}
+     :f408e710918e9ce92cb84c4bb8e77c5dfe2d5c83
+      {:user "RaWa" :server "dev" :WebDevice "TinesHp"
+       :UserAgent ""}
+    }
+   user ((keyword sessHash) knownUsers)
+   five (.getParameter request "5")
+   ff (slurp "/home/rawa/DigitalEarth/src/main/webapp/5")
+   escapedFf
+     (.replace
+      (.replace ff "<" "\u0026lt;")
+      "<" "<")]
+  (if (and user (.startsWith (.getRequestURI request) "/x5"))
+   ((eval (read-string ff)) request response))
+   (do
+    (.info (java.util.logging.Logger/getLogger "planet")
+     (str sessHash " " UserAgent))
+    (if (and user five)
+     (let [
+       f (java.io.PrintWriter. "/home/rawa/DigitalEarth/src/main/webapp/5")]
+      (do
+       (.println f five)
+       (.close f))))
+    (str "<html><!-- " sessHash "-->
+   <h1>DigitalPlanet</h1>
+    Hello from DigitalPlanet ("
+    (if
+     (.startsWith (.toString (.getRequestURL request)) "http://planet.sl4.eu:9999/")
+     "dev"
+     "prod")
+    ") to " (.getRemoteAddr request) ". - you are " 
+   (if user
+    (str "<a href=\"http://sl4.eu/wiki/" (:user user) "\">" (:user user) "</a> "
+     "from " (:WebDevice user) " "
+     "with UserAgent <code>" UserAgent "</code>")
+    sessHash) "."
+"  <form method='post'>
+   <table>
+    <tr>
+     <td>Edit <code>TerraFs/<a href='/5'>5</a></code>:<br/> 
+      <textarea name='5' cols='80' rows='40'>" escapedFf "</textarea/>
+     <td style='vertical-align:top'><input type='submit'/></td>
+    </tr>
+   </table>
+  </form>
+ </body>
+</html>"))))

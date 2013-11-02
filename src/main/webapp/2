@@ -4,16 +4,16 @@
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" 
    version="2.5">
- <welcome-file-list>
+ <session-config>
+  <session-timeout>999999</session-timeout>
+ </session-config>
+ <!--welcome-file-list>
    <welcome-file>i</welcome-file>
  </welcome-file-list>
-<session-config>
-    <session-timeout>-1</session-timeout>
-    </session-config>
  <init-param>
   <param-name>welcomeServlets</param-name>
   <param-value>false</param-value>
- </init-param>
+ </init-param-->
  <servlet>
   <servlet-name>i</servlet-name>
   <servlet-class>S</servlet-class>

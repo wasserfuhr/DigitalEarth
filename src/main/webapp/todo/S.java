@@ -18,7 +18,7 @@ public class S extends HttpServlet {
   //message = "Hello World";
  }
 
- public void doGet(HttpServletRequest request, HttpServletResponse response)
+ public void service(HttpServletRequest request, HttpServletResponse response)
   throws ServletException, IOException {
 // Set response content type
      InputStream lis=new FileInputStream(new File("/home/rawa/DigitalEarth/src/main/webapp/4"));
