@@ -2,59 +2,66 @@
  (let [
    UserAgent (.getHeader request "User-Agent")
    sessHash (mind.Hash/getHash (.getId (.getSession request)))
+   ChromOsUa "Mozilla/5.0 (X11; CrOS armv7l 4537.118.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36"
    knownUsers {
-     (keyword "3207c100da4c233a966fd87e4856fd6ebbd66466")
-      {:user "RaWa" :server "prod" :WebDevice "ChromOs"
-       :UserAgent "Mozilla/5.0 (X11; CrOS armv7l 4537.118.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36"}
-     (keyword "ff814b7cb65b2ffc23025f39f2c0fc2c0512058d")
-      {:user "RaWa" :server "dev" :WebDevice "ChromOs"
-       :UserAgent "Mozilla/5.0 (X11; CrOS armv7l 4537.118.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36"}
-     (keyword "4860fb9b865339f4647cff7d6cb9c8a2fdbcb696") 
-      {:user "RaWa" :server "prod" :WebDevice "TinesHp"
-       :UserAgent ""}
-     :f408e710918e9ce92cb84c4bb8e77c5dfe2d5c83
-      {:user "RaWa" :server "dev" :WebDevice "TinesHp"
-       :UserAgent ""}
-    }
+    (keyword "3207c100da4c233a966fd87e4856fd6ebbd66466") {
+     :user "RaWa" :server "prod" :WebDevice "ChromOs"
+     :UserAgent ChromOsUa}
+    (keyword "8bba89d34358dd33446d99d8d9545d380e080147") {
+     :user "RaWa" :server "dev" :WebDevice "ChromOs"
+     :UserAgent ChromOsUa}
+    (keyword "4860fb9b865339f4647cff7d6cb9c8a2fdbcb696") {
+     :user "RaWa" :server "prod" :WebDevice "TinesHp"
+     :UserAgent "?"}
+    (keyword "f408e710918e9ce92cb84c4bb8e77c5dfe2d5c83") {
+     :user "RaWa" :server "dev" :WebDevice "TinesHp"
+     :UserAgent "?"}}
    user ((keyword sessHash) knownUsers)
+   fiveName "/home/rawa/DigitalEarth/src/main/webapp/5"
    five (.getParameter request "5")
-   ff (slurp "/home/rawa/DigitalEarth/src/main/webapp/5")
-   escapedFf
-     (.replace
-      (.replace ff "<" "\u0026lt;")
-      "<" "<")]
-  (if (and user (.startsWith (.getRequestURI request) "/x5"))
-   ((eval (read-string ff)) request response))
+   ff (slurp fiveName)
+   escapedFf (.replace ff "<" "\u0026lt;")]
+  (if (and user five)
    (do
-    (.info (java.util.logging.Logger/getLogger "planet")
-     (str sessHash " " UserAgent))
-    (if (and user five)
-     (let [
-       f (java.io.PrintWriter. "/home/rawa/DigitalEarth/src/main/webapp/5")]
-      (do
-       (.println f five)
-       (.close f))))
-    (str "<html><!-- " sessHash "-->
-   <h1>DigitalPlanet</h1>
-    Hello from DigitalPlanet ("
+    (doto
+     (java.io.PrintWriter. fiveName)
+     (.println five)
+     (.close))
+    (.sendRedirect response "/5?message=saved")))
+   (if (and user (.startsWith (.getRequestURI request) "/x5"))
+    ((eval (read-string ff)) request response)
+    (do
+     (.setCharacterEncoding response "UTF-8")
+     (.setContentType response "text/html; charset=UTF-8")
+     (.info (java.util.logging.Logger/getLogger "planet")
+      (str sessHash " " UserAgent))
+     (str "<!DOCTYPE html>
+<html><!-- " sessHash "-->
+ <head>
+  <title>DigitalPlanet</title>
+  <meta content='text/html;charset=utf-8' http-equiv='Content-Type'/>
+ </head>
+ <body>
+  <h1><a href='/'>DigitalPlanet</a></h1>
+  <p>Hello from DigitalPlanet ("
     (if
      (.startsWith (.toString (.getRequestURL request)) "http://planet.sl4.eu:9999/")
      "dev"
      "prod")
-    ") to " (.getRemoteAddr request) ". - you are " 
+    ") to " (.getRemoteAddr request) ". - you are "
    (if user
     (str "<a href=\"http://sl4.eu/wiki/" (:user user) "\">" (:user user) "</a> "
      "from " (:WebDevice user) " "
      "with UserAgent <code>" UserAgent "</code>")
-    sessHash) "."
-"  <form method='post'>
+    sessHash) ".</p>
+  <form method='post'>
    <table>
     <tr>
-     <td>Edit <code>TerraFs/<a href='/5'>5</a></code>:<br/> 
-      <textarea name='5' cols='80' rows='40'>" escapedFf "</textarea/>
+     <td>Edit <code>TerraFs/<a href='/5'>5</a></code>:<br/>
+      <textarea name='5' cols='80' rows='40'>" escapedFf "</textarea>
      <td style='vertical-align:top'><input type='submit'/></td>
     </tr>
    </table>
   </form>
  </body>
-</html>"))))
+</html>"))))))
