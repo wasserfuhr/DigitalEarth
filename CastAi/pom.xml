@@ -1,0 +1,68 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" 
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+ <modelVersion>4.0.0</modelVersion>
+ <groupId>eu.sl4</groupId>
+ <artifactId>castai</artifactId>
+ <version>1</version>
+ <packaging>jar</packaging>
+ <name></name>
+ <properties>
+  <stage>dev</stage>
+ </properties>
+ <dependencies>
+  <dependency>
+   <groupId>org.clojure</groupId>
+   <artifactId>clojure</artifactId>
+   <version>1.5.1</version>
+  </dependency>
+  <dependency>
+   <groupId>javax.servlet</groupId>
+   <artifactId>servlet-api</artifactId>
+   <version>2.5</version>
+  </dependency>
+  <!--dependency>
+   <groupId>org.mozilla</groupId>
+   <artifactId>rhino</artifactId>
+   <version>1.7R4</version>
+  </dependency-->
+ </dependencies> 
+ <build>
+  <plugins>
+   <plugin>
+    <artifactId>maven-antrun-plugin</artifactId>
+    <version>1.7</version>
+    <executions>
+     <execution>
+      <phase>validate</phase>
+      <configuration>
+       <target>
+        <copy file="3" tofile="src/main/java/S.java"/>
+       </target>
+      </configuration>
+      <goals>
+       <goal>run</goal>
+      </goals>
+     </execution>
+    </executions>
+   </plugin>
+   <plugin>
+    <groupId>org.eclipse.jetty</groupId>
+    <artifactId>jetty-maven-plugin</artifactId>
+    <configuration>
+     <webAppSourceDirectory>${basedir}</webAppSourceDirectory>
+     <webXml>${basedir}/2</webXml>
+     <webAppConfig implementation="org.eclipse.jetty.maven.plugin.JettyWebAppContext">
+      <sessionHandler implementation="org.eclipse.jetty.server.session.SessionHandler">
+       <sessionManager implementation="org.eclipse.jetty.server.session.HashSessionManager">
+        <storeDirectory>${basedir}/JettySessions/${stage}</storeDirectory>
+        <idleSavePeriod>1</idleSavePeriod>
+       </sessionManager>
+      </sessionHandler>
+     </webAppConfig>
+     <!--jettyXml>${basedir}/WEB-INF/jetty.xml</jettyXml-->
+    </configuration>
+   </plugin>
+  </plugins>
+ </build>
+</project>
