@@ -61,15 +61,4 @@ var TerraDrive={
 2de1b246dd33ea8d90943c72769eaa846d1da329.jpg
 594f0d0e37db32922a853937fe61f81b4a5fc99d.png
 8d972587a19fc69e328529b283c6243ed5a9845c.mp4
-
-hoffe Du vergisst Deinen OberProgrammierLehrer nicht ganz- wünsche Dir auf jeden 
-fall einen erfolgreichen EngelsTag *ZartKuss* 
-
-jetzt wieder besser - sehn wir uns denn noch davor? ;)
-
-
-//"rubens" doch ein DickChenKomplex? ;)
-
-da freue ich mich, harre Ihrer rehabilitation und hoffe auf baldiges wiedersehen ;) *GeneseKuss*
-
 */
