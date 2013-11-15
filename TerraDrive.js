@@ -1,4 +1,4 @@
-var TerraDrive={
+{
  "00f4cb9e52707bd1d298f95e73e1e4293f9eddf6":{
   MediaType:"mp4",
   FileSize:10710769,
@@ -52,8 +52,8 @@ var TerraDrive={
   FileSize:12313603,
   CastId:"19S7",
   ContextUrl:"http://www.screenr.com/19S7",
-  SourceUrl:"http://www.screenr.com/screencast/download/19S7"},
-};
+  SourceUrl:"http://www.screenr.com/screencast/download/19S7"}
+}
 
 /* 
 0724ead894cfb653ad54f971445a6ac2a9e20d89
