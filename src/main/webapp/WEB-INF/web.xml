@@ -7,12 +7,12 @@
  <session-config>
   <session-timeout>999999</session-timeout>
  </session-config>
- <servlet>
+ <!--servlet>
   <servlet-name>i</servlet-name>
   <servlet-class>S</servlet-class>
  </servlet>
  <servlet-mapping>
   <servlet-name>i</servlet-name>
   <url-pattern>/*</url-pattern>
- </servlet-mapping>
+ </servlet-mapping-->
 </web-app>

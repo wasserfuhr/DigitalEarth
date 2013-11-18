@@ -59,9 +59,9 @@
     <artifactId>jetty-maven-plugin</artifactId>
     <version>${jettyVersion}</version>
     <configuration>
-     <webAppSourceDirectory>${basedir}</webAppSourceDirectory>
+     <!--webAppSourceDirectory>${basedir}</webAppSourceDirectory>
      <webXml>${basedir}/2</webXml>
-     <!--webXml>${basedir}/src/main/webapp/2</webXml-->
+     <webXml>${basedir}/src/main/webapp/2</webXml-->
      <sessionHandler implementation="org.eclipse.jetty.server.session.SessionHandler">
       <sessionManager implementation="org.eclipse.jetty.server.session.HashSessionManager">
        <storeDirectory>${basedir}/target/jetty-sessions</storeDirectory>
