@@ -8,21 +8,26 @@
  <packaging>jar</packaging>
  <name>DigitalPlanet</name>
  <properties>
-    <jettyVersion>7.2.0.v20101020</jettyVersion>
-    <sqlite4java.version>0.282</sqlite4java.version>
-  </properties>
-  <dependencies>
-    <dependency>
-      <groupId>org.eclipse.jetty</groupId>
-      <artifactId>jetty-server</artifactId>
-      <version>${jettyVersion}</version>
-    </dependency>
-<dependency>
+  <jettyVersion>7.2.0.v20101020</jettyVersion>
+  <sqlite4java.version>0.282</sqlite4java.version>
+ </properties>
+ <dependencies>
+  <dependency>
+   <groupId>org.eclipse.jetty</groupId>
+   <artifactId>jetty-server</artifactId>
+   <version>${jettyVersion}</version>
+ </dependency>
+ <dependency>
   <groupId>org.clojure</groupId>
   <artifactId>clojure</artifactId>
   <version>1.5.1</version>
-</dependency>
-    <dependency>
+ </dependency>
+ <dependency>
+  <groupId>org.apache.derby</groupId>
+  <artifactId>derby</artifactId>
+  <version>10.10.1.1</version>
+ </dependency>
+ <dependency>
       <groupId>com.almworks.sqlite4java</groupId>
       <artifactId>sqlite4java</artifactId>
       <type>jar</type>
