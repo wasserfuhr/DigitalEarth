@@ -23,7 +23,7 @@ Prohi
    rotMat=matMult(rotMat,mat);
   }
   draw();
- }
+}
 
  function modulo(v,pow) {
   return (v>>pow)<<pow;
@@ -901,7 +901,7 @@ Prohi
    altS=(Math.abs(alt)/1000).toFixed(2)+' km';
   }
   // http://wiki.openstreetmap.org/wiki/Static_map_images
-  var imgBase='http://pafciu17.dev.openstreetmap.org/?module=map&width=260&height=250&';
+  var imgBase='http://staticmap.openstreetmap.de/staticmap.php?module=map&width=260&height=250&';
   imgBase+='&zoom='+(24-cursorLevel);
   imgBase+='&lat='+lat;
   imgBase+='&lon='+lon;
@@ -1194,6 +1194,7 @@ Prohi
 
  function init() {
   if (null==ctx) {
+ //     alert("ie");
    document.getElementById('browser').style.display='block';
   } else {
    findOrphanes();
