@@ -24,12 +24,12 @@
 <%
  String[] files1=dir1.list();
  String[] files2=dir2.list();
- String pn[]={"p1","p2"};
+ String pn[]={p1,p2};
  String files[][]={files1,files2};
  for (int i=0;i<2;i++) {
   for (int fi=0; fi<files[i].length; fi++) {
    String hash=files[i][fi].substring(0,40);
-   String datafile=p1+files[i][fi];
+   String datafile=pn[i]+files[i][fi];
    long len=new File(datafile).lastModified();
 %>if (!h["<%=hash%>"])h["<%=hash%>"]={};h["<%=hash%>"].p<%=i+1%>=<%=len%>;
 <%}
@@ -42,7 +42,8 @@
   cell0.innerHTML=hs[t];
   var cell1 = row.insertCell(1);
   cell1.innerHTML=""+h[hs[t]].p1;
-h[hs[t]].p2;
+  var cell2 = row.insertCell(2);
+  cell2.innerHTML=""+h[hs[t]].p2;
  }
   </script>
  </body>
