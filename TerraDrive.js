@@ -94,6 +94,7 @@ var terraDrive = {
   DcTitle:"TweetsZip"},
  "c895d79293477749edf951aaae04fcb8f58ccab5":{
   MediaType:"webm",
+  FileSize:44688486,
   DcTitle:"GrossFuge",
   ContextUrl:"https://www.youtube.com/watch?v=6s0Mp7LFI-k"},
  "d627c61d2de7981dfcc686a2d5274263ee04c9b1":{
@@ -115,6 +116,7 @@ var terraDrive = {
   ContextUrl:"https://www.youtube.com/watch?v=EHV4C5W0slw"},
  "ee69dc2cf356ccd6580b6a29185d1b7b43c645a7":{
   ContextUrl:"https://code.google.com/p/bigtablenomic/downloads/detail?name=DoorSix.3gp",
+  FileSize:931167,
   TagCloud:"DoorSix",
   MediaType:"3gp"},
  "f22e94b3742d4123e4204715ba10e0c5869bd1cf":{
@@ -123,7 +125,7 @@ var terraDrive = {
   CastId:"19S7",
   ContextUrl:"http://www.screenr.com/19S7",
   SourceUrl:"http://www.screenr.com/screencast/download/19S7"}
-}
+};
 /* CopyPaste-template:
   MediaType:"zip",
   FileSize:,
@@ -131,18 +133,11 @@ var terraDrive = {
   DcTitle:""},
 */
 
-/* 
+/* HashQuest:
 0724ead894cfb653ad54f971445a6ac2a9e20d89
 241a600f2da43968fbb366b92322072d1fac5b45
 2de1b246dd33ea8d90943c72769eaa846d1da329.jpg
 594f0d0e37db32922a853937fe61f81b4a5fc99d.png
-8d972587a19fc69e328529b283c6243ed5a9845c.mp4
-*/
-
-/*
-
-
 76c701d5a2442ca1b0cc6a6edd664ca1e851441c
-
-
+8d972587a19fc69e328529b283c6243ed5a9845c.mp4
 */
