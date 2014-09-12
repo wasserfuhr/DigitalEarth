@@ -13,7 +13,7 @@ var terraDrive = {
  "152dd6c8588cbfae38c17ad9bd127cd5ecd16d52":{
   MediaType:"zip",
   FileSize:12749760,
-  DateHint:"04.05.2014 22:50",
+  DateHint:"2014-05-04 22:50",
   FileName:"ZeGgPoucke-1.mp3",
   DcTitle:""},
  "2de1b246dd33ea8d90943c72769eaa846d1da329":{
