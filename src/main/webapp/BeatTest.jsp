@@ -9,25 +9,13 @@
  goog.require('goog.Uri.QueryData');
 
  function remoteGet() {
-  var request = new goog.net.XhrIo();
-  var data = goog.Uri.QueryData.createFromMap(new goog.structs.Map({"a":"b"}));
-
-  goog.events.listen(request, 'complete', function() {
-   if (request.isSuccess()) {
-    var json=request.getResponseJson();
-    //log(json);
-    if ('error'==json.status) {
-     warn("Server failed: "+ request.getStatusText());
-     //ToDo
-    } else {
-     alert("-");
-    }
-   } else {
-    warn("Server failed: "+ request.getStatusText());
-   }
+  goog.net.XhrIo.send("/beat.jsp", function(e) {
+      var xhr = e.target;
+      var obj = xhr.getResponseJson();
+      log('Received Json data object with title property of "' +  
+          obj['title'] + '"'); 
+      alert(obj['content']);
   });
-  request.send('/beat.jsp', 'POST', data.toString());
-  return false;
  }
  remoteGet();
 </script>
