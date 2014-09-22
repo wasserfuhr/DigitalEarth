@@ -102,8 +102,15 @@ var terraDrive = {
  "c895d79293477749edf951aaae04fcb8f58ccab5":{
   MediaType:"webm",
   FileSize:44688486,
+  DcAuthor:"BeetHoven",
   DcTitle:"GrossFuge",
   ContextUrl:"https://www.youtube.com/watch?v=6s0Mp7LFI-k"},
+ "d1ef60e0ba93f1eaa1741a22f1360f8cd11cab16":{
+  MediaType:"zip",
+  FileSize:270202,
+  DownloadUrl:"http://www.nfllab.com/sums/sums611.zip",
+  ContextUrl:"http://blog.nfllab.com/archives/152-Win32-native-md5sum,-sha1sum,-sha256sum-etc..html",
+  FileName:"sums611.zip"},
  "d627c61d2de7981dfcc686a2d5274263ee04c9b1":{
   MediaType:"zip",
   ContextUrl:"https://www.facebook.com/settings",

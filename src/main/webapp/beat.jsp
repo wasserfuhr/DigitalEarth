@@ -1,2 +1,4 @@
-{"status":"ok",
-"beat":"d0d6ddeca2a54d923122a8b099d91a43efad9fd9"}
+{"parent":"5078abb8b988e9470775adaa54abefa94649748c",
+ "BeatCount":0,
+ "ClaimTime":<%=new java.util.Date().getTime()%>,
+ "SevenSlaves":{}}
