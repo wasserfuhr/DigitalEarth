@@ -59,7 +59,7 @@
     <td>
      <div style="position:relative">
       <img style="z-index:2;left:0px;top:0;position:relative" alt="DigitalPlanetSplash"
-       src="https://cdn.rawgit.com/wasserfuhr/DigitalEarth/master/img/DigitalPlanetSplash.png"/>
+       src="/img/DigitalPlanetSplash.png"/>
       <div style="z-index:4;left:0px;top:0;position:absolute">
        <canvas id="pane" width="780" height="600" onclick="click(this)"></canvas>
        <div id="browser" style="z-index:5;left:75px;top:195px;position:relative;background:white;padding:8px;display:none">
@@ -137,8 +137,7 @@
           <td>
            <a onclick="hot('LockSchuppen')" href='#'>
             <img alt="LockSchuppen"
-             src="https://cdn.rawgit.com/wasserfuhr/DigitalEarth/master/img/LockSchuppenCropped.png
-"/><br/>
+             src="/img/LockSchuppenCropped.png"/><br/>
 <!-- former https://bigtablenomic.googlecode.com/files/LockSchuppenCropped.png -->
              LockSchuppen</a></td>
          </tr>
@@ -307,7 +306,8 @@
   <!--script src="https://dresdenlabs.appspot.com/cubes.js"></script-->
   <!--script src="https://bigtablenomic.googlecode.com/svn/trunk/cubes.js"></script-->
   <!--script src="https://bigtablenomic.googlecode.com/files/cubes.js"></script-->
-  <script src="cubes.js"></script>
+  <!--script src="cubes.js"></script-->
+  <script src="allCubes.js"></script>
   <!--script src="https://bigtablenomic.googlecode.com/files/RecentCubes.js"></script-->
   <!--script src="DigitalPlanetOne.js"></script-->
   <script src="TerraMind.js"></script>

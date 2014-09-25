@@ -12,8 +12,7 @@
       (map #(format "%02x" (bit-and % 0xff))
        hash)))
    st0 (.prepare db "SELECT id FROM HashChain order by CreatedAt desc")
-   latestHashS (do (.step st0) (.columnBlob st0 0))
-   ;latestHash (.getBytes latestHashS)
+   latestHash (do (.step st0) (.columnBlob st0 0))
 
    ;http://stackoverflow.com/questions/10062967/clojures-equivalent-to-pythons-encodehex-and-decodehex
    unhexify
@@ -47,7 +46,7 @@
     hash
     (hash
      (str
-      (formatHash latestHashS) " "
+      (formatHash latestHash) " "
       "0 "
       now " " 
       "1 " ;RaWa
@@ -55,7 +54,7 @@
     st (.prepare db (str "insert into HashChain (id,parent,isRoot,createdAt,createdBy,scriptSize,script) "
      "values (?,?,?,?,?,?,?)"))]
     (.bind st 1 hash)
-    (.bind st 2 latestHashS)
+    (.bind st 2 latestHash)
     (.bind st 3 0)
     (.bind st 4 now)
     (.bind st 5 1)
@@ -81,11 +80,17 @@
     (.columnLong st 4) " "
     (.columnString st 5)
     )))
+ (do
+  (.setContentType rs "text/html; charset=UTF-8")
   (hiccup.core/html "<!DOCTYPE html>"
    [:html
+    [:head
+     [:meta {:http-equiv "Content-type"
+             :content "text/html; charset=utf-8"}]
+     [:title "FreeCubes"]]
     [:body
      [:h1 "HelloCubes!"]
-     [:small "HashBeat: " [:span {:style "font-family:monospace"} (formatHash latestHashS)]]
+     [:small "HashBeat: " [:span {:style "font-family:monospace"} (formatHash latestHash)]]
      [:form
       [:textarea {:name "script"}]
       [:input {:type "checkbox" :name "isRoot"}]
@@ -94,5 +99,6 @@
      [:table {:style "font-family:monospace"}
       [:tr
        [:th "id"]
-       [:th "parent"]]
-      rows]]])))))
+       [:th "parent"]
+       [:th]]
+      rows]]]))))))
