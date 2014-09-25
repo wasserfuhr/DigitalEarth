@@ -9,8 +9,7 @@ com.almworks.sqlite4java.SQLiteConnection,
 clojure.lang.Compiler,
 clojure.lang.IFn,
 clojure.lang.LispReader,
-clojure.lang.RT"%>
-<%
+clojure.lang.RT"%><%
 SQLiteConnection db=null;
 try {
  //Cookie c=new Cookie("UnCookie","1");
