@@ -15,14 +15,14 @@ try {
  //Cookie c=new Cookie("UnCookie","1");
  //c.setMaxAge(60*60*24*30); 
  //response.addCookie(c);
- SQLite.setLibraryPath("/home/rawa/DigitalEarth/target/lib");
+ SQLite.setLibraryPath("/home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/target/lib");
  db = new SQLiteConnection(new File("/home/rawa/UrBase"));
  db.open(true);
  db.exec("PRAGMA foreign_keys = ON");
 
  //http://stackoverflow.com/questions/326390/how-to-create-a-java-string-from-the-contents-of-a-file
  String code=new String(java.nio.file.Files.readAllBytes(
-  java.nio.file.Paths.get("/home/rawa/DigitalEarth/boot.clj")));
+  java.nio.file.Paths.get("/home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/boot.clj")));
  
  //eval CloJure:
  RT.loadResourceScript("hiccup/core.clj");
