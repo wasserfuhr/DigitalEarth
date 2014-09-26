@@ -13,6 +13,8 @@
        hash)))
    st0 (.prepare db "SELECT id FROM a2 order by CreatedAt desc")
    latestHash (do (.step st0) (.columnBlob st0 0))
+   cookie (apply str (map (fn [c] (if (.equals "SemperCookie" (.getName c)) (.getValue c))) (.getCookies rq)))
+
 
    ;http://stackoverflow.com/questions/10062967/clojures-equivalent-to-pythons-encodehex-and-decodehex
    unhexify
@@ -24,8 +26,14 @@
        (partition 2 s))))
 
    ;;;;;;;;;;;
-   ;ToDo: check UnCookie 6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b
+   ;ToDo: check UnCookie 
+
    ;;;;;;;;;;;
+   user
+    (if (.equals "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+     (formatHash (hash cookie)))
+     (str "RaWa (IpAddress: " (.getRemoteAddr rq) ")")
+     (.getRemoteAddr rq))
 
    st (.prepare db "SELECT id,parent,createdAt FROM a2 order by createdAt asc")
    iter
@@ -56,15 +64,16 @@
       now " " 
       "1 " ;RaWa
       (.length s) " " s))
-    st (.prepare db (str "insert into a2 (id,parent,isRoot,createdAt,createdBy,scriptSize,script) "
-     "values (?,?,?,?,?,?,?)"))]
+    st (.prepare db (str "insert into a2 (id,parent,isRoot,createdAt,createdBy,ipAddress,scriptSize,script) "
+     "values (?,?,?,?,?,?,?,?)"))]
     (.bind st 1 hash)
     (.bind st 2 latestHash)
     (.bind st 3 0)
     (.bind st 4 now)
     (.bind st 5 1)
     (.bind st 6 (.length s))
-    (.bind st 7 s)
+    (.bind st 7 (.getRemoteAddr rs))
+    (.bind st 8 s)
     (.step st)
     (.dispose st)
     (.sendRedirect rs "http://base.sl4.eu/"))
@@ -87,6 +96,12 @@
     )))
  (do
   (.setContentType rs "text/html; charset=UTF-8")
+  (let [c (javax.servlet.http.Cookie. "SemperCookie" "1")]
+   (.setMaxAge c (* 60 60 24 30))
+   (.addCookie rs c))
+(.setAttribute
+  (.getServletContext (.getSession rq))
+   "session1" "hello")
   (hiccup.core/html "<!DOCTYPE html>"
    [:html
     [:head
@@ -95,12 +110,17 @@
      [:title "SemperBase"]]
     [:body
      [:h1 "SemperBase"]
-     [:p "EternalComputing from IpAd " (.getRemoteAddr rq)]
+     [:h2 "EternalComputing"]
+     [:p "WelCome " user]
      [:small "(HashBeat: " [:span {:style "font-family:monospace"} (formatHash latestHash)")"]]
+     [:h2 "ScriptEditor:"]
      [:form
-      [:textarea {:name "script"}]
-      [:input {:type "checkbox" :name "isRoot"}]
-      [:input {:type "submit"}]]
+      [:table
+       [:tr
+        [:td {:style "vertical-align:top"} "script:" [:br] [:textarea {:name "script"}]]
+        [:td {:style "vertical-align:top"} "tag:" [:br] [:input {:name "tag"}] [:br]
+            [:input {:type "checkbox" :name "isRoot"}]  [:small "isRoot?"] [:br] ]
+        [:td {:style "vertical-align:top"} [:br] [:input {:type "submit"}]]]]]
      [:h2 "HashChain:"]
      [:table {:style "font-family:monospace"}
       [:tr
