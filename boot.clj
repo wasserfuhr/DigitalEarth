@@ -11,24 +11,25 @@
      (apply str
       (map #(format "%02x" (bit-and % 0xff))
        hash)))
-   st0 (.prepare db "SELECT id FROM HashChain order by CreatedAt desc")
+   st0 (.prepare db "SELECT id FROM a2 order by CreatedAt desc")
    latestHash (do (.step st0) (.columnBlob st0 0))
 
    ;http://stackoverflow.com/questions/10062967/clojures-equivalent-to-pythons-encodehex-and-decodehex
    unhexify
     (fn [s]
      (into-array Byte/TYPE
-      (map (fn [[x y]]
-                    (unchecked-byte (Integer/parseInt (str x y) 16)))
-                       (partition 2 s))))
+      (map
+       (fn [[x y]]
+        (unchecked-byte (Integer/parseInt (str x y) 16)))
+       (partition 2 s))))
 
-   st (.prepare db "SELECT id,parent,createdAt FROM HashChain order by CreatedAt asc")
+   st (.prepare db "SELECT id,parent,createdAt FROM a2 order by createdAt asc")
    iter
     (fn [a]
      (if (.step st)
       (recur (cons
         [:tr
-         [:td [:a {:href (str "/FreeCubes.jsp?raw&hash=" (formatHash (.columnBlob st 0)))}
+         [:td [:a {:href (str "/SemperBase.jsp?raw&hash=" (formatHash (.columnBlob st 0)))}
             (.substring (formatHash (.columnBlob st 0)) 0 8) "..."]]
          [:td (if (.columnBlob st 1) (str (.substring (formatHash (.columnBlob st 1)) 0 8) "..."))]
          [:td
@@ -51,7 +52,7 @@
       now " " 
       "1 " ;RaWa
       (.length s) " " s))
-    st (.prepare db (str "insert into HashChain (id,parent,isRoot,createdAt,createdBy,scriptSize,script) "
+    st (.prepare db (str "insert into a2 (id,parent,isRoot,createdAt,createdBy,scriptSize,script) "
      "values (?,?,?,?,?,?,?)"))]
     (.bind st 1 hash)
     (.bind st 2 latestHash)
@@ -62,14 +63,14 @@
     (.bind st 7 s)
     (.step st)
     (.dispose st)
-    (.sendRedirect rs "/FreeCubes.jsp"))
+    (.sendRedirect rs "http://base.sl4.eu/"))
  (if (.getParameter rq "raw")
   (if (.equals "063bd77036b211daede5108a33b3c19b6fc26db09f1a4906fd86749f3883e78e"
         (.getParameter rq "hash"))
    "HashBeat"
    (let [
      h (.getParameter rq "hash")
-     st (.prepare db "SELECT parent,isRoot,createdAt,createdBy,scriptSize,script FROM HashChain where id=?")]
+     st (.prepare db "SELECT parent,isRoot,createdAt,createdBy,scriptSize,script FROM a2 where id=?")]
     (.bind st 1 (unhexify h))
     (.step st)
     (str
@@ -87,10 +88,11 @@
     [:head
      [:meta {:http-equiv "Content-type"
              :content "text/html; charset=utf-8"}]
-     [:title "FreeCubes"]]
+     [:title "SemperBase"]]
     [:body
-     [:h1 "HelloCubes!"]
-     [:small "HashBeat: " [:span {:style "font-family:monospace"} (formatHash latestHash)]]
+     [:h1 "SemperBase"]
+     [:p "EternalComputing from IpAd " (.getRemoteAddr rq)]
+     [:small "(HashBeat: " [:span {:style "font-family:monospace"} (formatHash latestHash)")"]]
      [:form
       [:textarea {:name "script"}]
       [:input {:type "checkbox" :name "isRoot"}]
