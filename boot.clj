@@ -6,6 +6,7 @@
       (. hash update (.getBytes msg))
       (.digest hash)))
    s (.getParameter rq "script")
+   t (.getParameter rq "tag")
    formatHash
     (fn [hash]
      (apply str
@@ -14,7 +15,6 @@
    st0 (.prepare db "SELECT id FROM a2 order by CreatedAt desc")
    latestHash (do (.step st0) (.columnBlob st0 0))
    cookie (apply str (map (fn [c] (if (.equals "SemperCookie" (.getName c)) (.getValue c))) (.getCookies rq)))
-
 
    ;http://stackoverflow.com/questions/10062967/clojures-equivalent-to-pythons-encodehex-and-decodehex
    unhexify
@@ -35,7 +35,7 @@
      (str "RaWa (IpAddress: " (.getRemoteAddr rq) ")")
      (.getRemoteAddr rq))
 
-   st (.prepare db "SELECT id,parent,createdAt FROM a2 order by createdAt asc")
+   st (.prepare db "SELECT id,parent,createdAt,tag FROM a2 order by createdAt asc")
    iter
     (fn [a]
      (if (.step st)
@@ -48,6 +48,7 @@
           (.format
            (java.text.SimpleDateFormat. "yyyy-MM-dd HH:mm:ss")
             (java.util.Date. (.columnLong st 2)))]
+         [:td (.columnString st 3)]
          ] a))
       a))
    rows (iter "")
@@ -60,19 +61,20 @@
     (hash
      (str
       (formatHash latestHash) " "
-      "0 "
       now " " 
       "1 " ;RaWa
+      "1 " ;RaWa
+      t " "
       (.length s) " " s))
-    st (.prepare db (str "insert into a2 (id,parent,isRoot,createdAt,createdBy,ipAddress,scriptSize,script) "
+    st (.prepare db (str "insert into a2 (id,parent,createdAt,createdBy,session,tag,scriptSize,script) "
      "values (?,?,?,?,?,?,?,?)"))]
     (.bind st 1 hash)
     (.bind st 2 latestHash)
-    (.bind st 3 0)
-    (.bind st 4 now)
+    (.bind st 3 now)
+    (.bind st 4 1)
     (.bind st 5 1)
-    (.bind st 6 (.length s))
-    (.bind st 7 (.getRemoteAddr rs))
+    (.bind st 6 t)
+    (.bind st 7 (.length s))
     (.bind st 8 s)
     (.step st)
     (.dispose st)
@@ -83,17 +85,17 @@
    "HashBeat"
    (let [
      h (.getParameter rq "hash")
-     st (.prepare db "SELECT parent,isRoot,createdAt,createdBy,scriptSize,script FROM a2 where id=?")]
+     st (.prepare db "SELECT parent,createdAt,createdBy,session,tag,scriptSize,script FROM a2 where id=?")]
     (.bind st 1 (unhexify h))
     (.step st)
     (str
      (formatHash (.columnBlob st 0)) " "
-     (if (= 0 (.columnInt st 1)) 0 1) " "
-    (.columnLong st 2) " "
-    (.columnLong st 3) " "
-    (.columnLong st 4) " "
-    (.columnString st 5)
-    )))
+     (.columnLong st 1) " "
+     (.columnLong st 2) " "
+     (.columnLong st 3) " "
+     (.columnString st 4) " "
+     (.columnLong st 5) " "
+     (.columnString st 6))))
  (do
   (.setContentType rs "text/html; charset=UTF-8")
   (let [c (javax.servlet.http.Cookie. "SemperCookie" "1")]
@@ -110,11 +112,11 @@
      [:title "SemperBase"]]
     [:body
      [:h1 "SemperBase"]
+     [:small "(HashBeat: " [:span {:style "font-family:monospace"} (formatHash latestHash)")"]]
      [:h2 "EternalComputing"]
      [:p "WelCome " user]
-     [:small "(HashBeat: " [:span {:style "font-family:monospace"} (formatHash latestHash)")"]]
      [:h2 "ScriptEditor:"]
-     [:form
+     [:form {:method "post"}
       [:table
        [:tr
         [:td {:style "vertical-align:top"} "script:" [:br] [:textarea {:name "script"}]]
