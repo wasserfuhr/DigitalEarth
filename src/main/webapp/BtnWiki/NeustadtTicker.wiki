@@ -1,0 +1,2 @@
+ * HomePage: http://www.neustadt-ticker.de/
+ * MindOne: JanFrintert

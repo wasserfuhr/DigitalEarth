@@ -1,0 +1,5 @@
+ * IsA: TopManager
+ * BornIn: 1963
+ * InterWiki: [WikiPedia:Sanjay_Jha]
+ * WorkFor: MotorolaMobility GloFo
+ * TriBy: https://twitter.com/GLOBALFOUNDRIES/status/420313317388070912

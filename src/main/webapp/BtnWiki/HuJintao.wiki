@@ -1,0 +1,4 @@
+ * IsA: MinisTer
+ * BirthDay: 09-21
+ * BornIn: 1942
+ * WikiPedia: https://en.wikipedia.org/wiki/Hu_Jintao

@@ -1,0 +1,111 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: rainerwasserfuhr@googlemail.com
+Received: by 10.58.23.65 with SMTP id k1csp84544vef;
+        Sat, 28 Jul 2012 22:26:40 -0700 (PDT)
+Return-Path: <isc124@googlemail.com>
+Received-SPF: pass (google.com: domain of isc124@googlemail.com designates 10.60.169.138 as permitted sender) client-ip=10.60.169.138
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of isc124@googlemail.com designates 10.60.169.138 as permitted sender) smtp.mail=isc124@googlemail.com; dkim=pass header.i=isc124@googlemail.com
+Received: from mr.google.com ([10.60.169.138])
+        by 10.60.169.138 with SMTP id ae10mr6623023oec.7.1343539600178 (num_hops = 1);
+        Sat, 28 Jul 2012 22:26:40 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=qkcY38g4FwLliIFGUPfczLoSKvu4n3eTwRb1bnRmaxw=;
+        b=ZRS1y0IRFihn1OyfctgvKGBpIi6JnZm3UNr+RzqCsnGmlz5y256t99GP0bwdy00GB6
+         t4zewhwgzRO+wIKE/NPGv9+bVF9TSk1m0J/TztiLpkuwH+HuTZqctJFs+VUz4zd1Xj3p
+         Cklgo19YP6bONlzfrSyW7JK4E7auzgCwqs48rFYazslKzriBZxuy1qTuMpV0qDdh5yPw
+         T+3HEKx9uxU0WiKZTAoG5xkLNumrKtYlBm/I2Bagtw9Bu1a6MLKszpnN64FDq40yGCCO
+         m2CXI+DR6JPwaIuu9QQK2Nn3j8/UnbWNfdH1EVlBKZlIDnOiTX9sdI9s8dJrIsDfe3+O
+         5zDA==
+MIME-Version: 1.0
+Received: by 10.60.169.138 with SMTP id ae10mr6623023oec.7.1343539600172; Sat,
+ 28 Jul 2012 22:26:40 -0700 (PDT)
+Received: by 10.76.144.169 with HTTP; Sat, 28 Jul 2012 22:26:40 -0700 (PDT)
+Received: by 10.76.144.169 with HTTP; Sat, 28 Jul 2012 22:26:40 -0700 (PDT)
+In-Reply-To: <bcaec50161b164ebfc04c5f125d4@google.com>
+References: <bcaec50161b164ebfc04c5f125d4@google.com>
+Date: Sun, 29 Jul 2012 07:26:40 +0200
+Message-ID: <CAOsTc-K=Bhm+x7ZW2yX8MNKSx416wO-qxjCunZ=gvsN7_4yQ5A@mail.gmail.com>
+Subject: Re: You have been mentioned at WebChat
+From: =?ISO-8859-1?Q?Iris_Sch=F6ne?= <isc124@googlemail.com>
+To: RainerWasserfuhr <rainerwasserfuhr@googlemail.com>
+Content-Type: multipart/alternative; boundary=bcaec54fae629c271e04c5f130e8
+
+--bcaec54fae629c271e04c5f130e8
+Content-Type: text/plain; charset=ISO-8859-1
+
+Bin in der Sommerfrische.
+Ab 8.8. wieder zu erreichen.
+Am 29.07.2012 07:23 schrieb "RainerWasserfuhr" <
+rainerwasserfuhr@googlemail.com>:
+
+> Hi isc124, you have been mentioned in the WebChat
+> at  https://flavourcity.appspot.**com/chat<https://flavourcity.appspot.com/chat>:
+> mag IrIs nachher einen TeaCake in der L:TraumWohnung?
+>
+
+--bcaec54fae629c271e04c5f130e8
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<p>Bin in der Sommerfrische. <br>
+Ab 8.8. wieder zu erreichen.</p>
+<div class=3D"gmail_quote">Am 29.07.2012 07:23 schrieb &quot;RainerWasserfu=
+hr&quot; &lt;<a href=3D"mailto:rainerwasserfuhr@googlemail.com">rainerwasse=
+rfuhr@googlemail.com</a>&gt;:<br type=3D"attribution"><blockquote class=3D"=
+gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-=
+left:1ex">
+Hi isc124, you have been mentioned in the WebChat<br>
+at =A0<a href=3D"https://flavourcity.appspot.com/chat" target=3D"_blank">ht=
+tps://flavourcity.appspot.<u></u>com/chat</a> :<br>
+mag IrIs nachher einen TeaCake in der L:TraumWohnung?<br>
+</blockquote></div>
+
+--bcaec54fae629c271e04c5f130e8--
+
+                                                                                                                                                                                                                                                
+Delivered-To: rainerwasserfuhr@googlemail.com
+Received: by 10.58.23.65 with SMTP id k1csp203224vef;
+        Sun, 15 Jul 2012 06:03:23 -0700 (PDT)
+Return-Path: isc124@googlemail.com
+Received-SPF: pass (google.com: domain of isc124@googlemail.com designates 10.60.12.37 as permitted sender) client-ip=10.60.12.37
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of isc124@googlemail.com designates 10.60.12.37 as permitted sender) smtp.mail=isc124@googlemail.com; dkim=pass header.i=isc124@googlemail.com
+Received: from mr.google.com ([10.60.12.37])
+        by 10.60.12.37 with SMTP id v5mr10724585oeb.25.1342357403403 (num_hops = 1);
+        Sun, 15 Jul 2012 06:03:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=1UX53h/YIkHd41oaCWOVCnpXOepMkIlkMttolnkWLNM=;
+        b=qHZpcYmoLSNo5qF6IDSEbduRpq3e4OQxuPOooBj48S9RVDI/PdWJ5wMGQwxSPr75KU
+         fPW4ibKcCh/cQ1OIn3rWC4HEE7vS73quCFc3Px5P6gIpr6fqV67AD1xVH3xPnluqwlit
+         zvsAcNiTw3PPQP9gxYIupTJr1qNQ2pxJamc70xe9lTWpYag+CJenEBDfaNTJ6Gn3opWo
+         lZVw24JDWJ/lGmC7veVUYAeq2RHRFrsQknXvacDfwxrLzlVkarZu9XfNg7Kz4XSqhaAc
+         dIsOKKtLDcrGakiZZ1ryrZmo1j+BqeribFF/SCVZTZZwQJZUga/tV8tJHfIga7aYRyAc
+         wV2A==
+MIME-Version: 1.0
+Received: by 10.60.12.37 with SMTP id v5mr10724585oeb.25.1342357403398; Sun,
+ 15 Jul 2012 06:03:23 -0700 (PDT)
+Received: by 10.76.144.169 with HTTP; Sun, 15 Jul 2012 06:03:23 -0700 (PDT)
+Date: Sun, 15 Jul 2012 15:03:23 +0200
+Message-ID: <CAOsTc-K6ONpbUbp6hu74M5Z4ACgTe6SVO=GMVTP+4yUdZiCKBg@mail.gmail.com>
+Subject: =?ISO-8859-1?Q?Ausnahmsweise_k=F6nnte_ich_Kuchen_zum_Kaffee_mitbring?=
+	=?ISO-8859-1?Q?en=2E_Soll_ich=3F?=
+From: =?ISO-8859-1?Q?Iris_Sch=F6ne?= <isc124@googlemail.com>
+To: Rainer Wasserfuhr <rainerwasserfuhr@gmail.com>, 
+	Rainer Wasserfuhr <rainerwasserfuhr@googlemail.com>
+Content-Type: multipart/alternative; boundary=e89a8f83a73530f2af04c4ddf09e
+
+--e89a8f83a73530f2af04c4ddf09e
+Content-Type: text/plain; charset=ISO-8859-1
+
+
+
+--e89a8f83a73530f2af04c4ddf09e
+Content-Type: text/html; charset=ISO-8859-1
+
+
+
+--e89a8f83a73530f2af04c4ddf09e--

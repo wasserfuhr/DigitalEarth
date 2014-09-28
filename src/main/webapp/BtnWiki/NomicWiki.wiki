@@ -1,0 +1,9 @@
+AgoraNomic BigTableNomic PerlNomic TwitterNomic WaveNomic WikiaNomic
+
+http://www.nomic.net/~nomicwiki/ :
+ Fatal Error:
+ lib/WikiDB/SQL.php:25 Error: Assigning the return value of new by reference is deprecated
+
+ Warning: "substr() expects parameter 3 to be long, string given"
+
+ lib/WikiDB/SQL.php:25 Error: Assigning the return value of new by reference is deprecated

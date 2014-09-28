@@ -1,0 +1,5 @@
+ * IsA: PowerWoman
+ * BornIn: 1949
+ * BirthDay: 02-28
+ * InterWiki: [DeWikiPedia:Gisela_Schwarz_(Sachsen)]
+ * PartyWiki: SpdWiki

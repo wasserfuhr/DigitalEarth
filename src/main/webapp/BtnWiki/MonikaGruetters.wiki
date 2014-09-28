@@ -1,0 +1,8 @@
+ * IsA: PowerWoman
+ * BornIn: 1962
+ * BirthDay: 01-09
+ * InterWiki: [DeWikiPedia:Monika_Grütters]
+ * ParteiWiki: CduWiki
+ * TriBy: TagesSchau
+
+post BerndNeumann2

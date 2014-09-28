@@ -1,0 +1,3 @@
+ * WikiPedia: https://en.wikipedia.org/wiki/Face_Recognition_Vendor_Test
+
+CogniTec EtAl

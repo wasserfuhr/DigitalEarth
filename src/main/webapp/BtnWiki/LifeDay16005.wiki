@@ -1,0 +1,17 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16006 « 2013-03-22 » LifeDay16004
+ * OmAg: LifeDay15975
+ * HaTa: TiSt SiHo? KaLa? DrLohr LuSch
+ * BoPa: TrWo ParkHotel GoerlitzStrasse TrWo
+
+AffenTheater cam 488
+
+kleines spielchen für heute/morgen abend zu unserer grossen KommuneParty bei mir in der TraumWohung:
+auf fast jedem halbwegs modernen AnDroid-SmartPhone
+kann man mittlerweile ziemlich EinFach einen öffentlichen HotSpot
+für nachbarn oder andere menschen in WiFi-Reichweite einrichten (bei mir getestet auf einem 90,-EuRo gerät für AnDroid 2.3.6).
+Und zwar per "Settings > Wireless & networks > Tethering & portable hotspot" das häkchen bei "Portable Wi-Fi hotspot" aktivieren und
+unter "Portable Wi-Fi hotspot settings > Configure Wi-Fi hotspot"
+eintragen: "Network SSID: DelphiNet<n>" und "Security: Open".
+wobei das "<n>" in "DelphiNet<n>" zu ersetzen ist durch Eure
+MindId - also zB ich = DelphiNet1, DelphiNet2, EtCetera.

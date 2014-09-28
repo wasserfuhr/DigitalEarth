@@ -1,0 +1,4 @@
+ * IsA: MindSquare
+ * PartOf: InnerStadt
+
+https://en.wikipedia.org/wiki/Heldenplatz

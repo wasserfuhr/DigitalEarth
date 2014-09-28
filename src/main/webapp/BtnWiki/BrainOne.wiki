@@ -1,0 +1,20 @@
+ * IsA: HumanBrain
+ * PartOf: BodyOne
+
+http://bigtablenomic.googlecode.com/files/BrainOne.png
+
+http://bigtablenomic.googlecode.com/files/BrainOne512x384p8.png
+
+during RrcRt
+
+The central question of the AiBook:
+Will it be possible to create a DigitalTwin of BrainOne
+that will be able to 
+ * pass a TuringTest for LongBetOne,
+ * have a 32 min VideoChat with DaPo
+
+EmotivEpoc PerCeive
+
+http://www.screenr.com/zKX8
+
+MindMap

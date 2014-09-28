@@ -1,0 +1,19 @@
+TuDresden:
+ * Science:
+  * Science: BernhardGanter
+ * Humanities and Social Science
+  * Literature, Linguistics and Cultural Studies: KarlheinzJakob
+  * Arts, Humanities and Social Science: BrunoKlein
+  * Education: GiselaWiesner
+  * Law: HorstPeterGoetting
+  * Business and Economics: SusanneStrahringer
+ * Engineering:
+  * InforMatik: StefanGumhold
+  * Electrical and Computer Engineering: KlausJanschek
+  * Mechanical Engineering: EckhardBeyer
+  * Civil Engineering: RainerSchach
+  * Architecture: HansGeorgLippert
+  * Transportation and Traffic Sciences "FriedrichList": ChristianLippold
+  * Forest, Geo and Hydro Sciences: HansGerdMaas
+ * Medicine
+  * Medicine CarlGustavCarus: HeinzReichmann

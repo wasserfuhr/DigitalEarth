@@ -1,0 +1,9 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16214 « 2013-10-16 » LifeDay16212
+ * OneMonthAgo: LifeDay16183
+ * OneYearAgo: LifeDay15848
+ * HappyBirthday: 
+ * RevNum: r19257
+ * BoPa: TrWo:1437
+ * CurrentProject: RainerTest DigitalEarth
+ * WahrTraum: SiBe HochZeit grosses gebäude

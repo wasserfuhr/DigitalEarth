@@ -1,0 +1,17 @@
+compute LifeDay for an UnId entity:
+
+{{{
+    lifeDay
+     (fn [e]
+      (let [
+        bd (.getProperty e "BirthDay")
+        yyyy (.getProperty e "BornIn")
+        mm (- (Integer. (.substring bd 0 2)) 1)
+        dd (Integer. (.substring bd 3 5))
+        today (.getTimeInMillis (java.util.GregorianCalendar.))
+        born (.getTimeInMillis (java.util.GregorianCalendar. yyyy mm dd))]
+       (long (/ (- today born) 86400000.0))))
+...
+"Happy " [:a {:href (str "/wiki/LifeDay" (lifeDay e))} "LifeDay" (lifeDay e)]
+
+}}}

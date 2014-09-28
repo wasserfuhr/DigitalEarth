@@ -1,0 +1,3 @@
+ * WikiPedia: https://en.wikipedia.org/wiki/Two-phase_commit_protocol
+
+http://c2.com/cgi/wiki?TwoPhaseCommit

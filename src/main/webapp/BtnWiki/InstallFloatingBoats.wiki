@@ -1,0 +1,16 @@
+FloatingBoats is a new SocialOperatingSystem for GoogleAppEngine.
+
+InstallFloatingBoats:
+ * make sure that you have a GoogleAccount (e.g. for GoogleMail GooglePlus or YouTube)
+ * go to https://appengine.google.com/ and SignIn. If you do this the first time, you will be asked for an identification via ShortMessageService.
+ * choose "create new application"
+ * choose an AppId 
+ * at "Administration" menu go to the "Permissions" section and "Invite a user to collaborate on this application"
+
+For the rest of the installation, RainerWasserfuhr might help you:
+ * add RainerWasserfuhr ("rainerwasserfuhr@gmail.com") as a developer 
+ * ask RainerWasserfuhr to deploy the StartUpEngine and do the initial installation.
+ * wait for his response
+ * enjoy your new FloatingBoats WebApp!
+
+Otherwise, DownLoad the WebArchive

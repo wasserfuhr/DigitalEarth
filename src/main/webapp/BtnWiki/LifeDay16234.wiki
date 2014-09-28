@@ -1,0 +1,10 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16235 « 2013-11-06 » LifeDay16233
+ * HappyBirthday: RobertMusil
+ * OneMonthAgo: LifeDay16204
+ * OneYearAgo: LifeDay15869
+ * RevNum: r19637
+ * BoPa: TrWo:1212 H:BuSt LinieSechs:DvbTram2717:2533 AlbertPlatz BarRoute66 ThaliaDresden SwGa:2555 LebowskiBar BlueNote KatysGarage BarRoute66 AlbertPlatz LinieSechs:DvbTram2529:2620 H:BuSt TrWo
+ * CuPr: RainerTest TerraDrive CarpeOctem
+ * WahrTraum: Party enge tür grosser raum reste osaft chips? gelb geruch international "candy" leer
+ * CheckSum: eb3da7640e512f3fd77013eee7a2c3115171f136

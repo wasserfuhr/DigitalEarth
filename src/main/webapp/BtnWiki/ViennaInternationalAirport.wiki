@@ -1,0 +1,3 @@
+ * IsA: AirPort
+ * WikiPedia: https://en.wikipedia.org/wiki/Vienna_International_Airport
+ * IaTa: VIE

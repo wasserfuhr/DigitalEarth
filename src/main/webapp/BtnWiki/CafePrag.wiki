@@ -1,0 +1,4 @@
+ * IsA: MindPlace
+ * InterWiki: [DeWikiPedia:Café_Prag_(Dresden)]
+ * NamedAfter: StadtPrag
+ * ConNect: SeeStrasse

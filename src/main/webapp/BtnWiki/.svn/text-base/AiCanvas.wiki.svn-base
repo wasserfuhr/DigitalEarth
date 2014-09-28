@@ -1,0 +1,29 @@
+Fundamental challenge: TotalyImmersive TwinSync
+
+NewMind DomainModel:
+ * IsA
+ * MindDay
+ * MiNd
+ * MindPattern
+ * MindProp
+ * PageLink
+ * PayMent
+ * ReVision
+ * ThoughtAbout
+ * VoXel
+ * WikiPage
+  * PageAlias
+
+Secondary Pattern:
+ * ActionGraph
+ * Actor
+ * EpisodicMemory
+ * HappyNess
+ * Phonem
+ * ProGram
+ * SceneGraph 
+ * Sensor
+ * SpatialMemory
+ * Word
+
+BrainStorm: AiWikiWall DingAnSich IchDenke LoewenJagd MindPixel PanOrama RdfSemantics SmEph SpeechSynthesis ThinkingMachine WorldModel

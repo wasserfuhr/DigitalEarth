@@ -1,0 +1,12 @@
+https://en.wikipedia.org/wiki/Fortune_Global_500
+
+|| 1||WalMart||
+|| 2||RoyalDutchShell||
+|| 3||ExxonMobil||
+|| 4||BP||
+|| 5||Sinopec||
+|| 6||ChinaNationalPetroleum||
+|| 7||StateGrid||
+|| 8||ToyotaMotorCorporation||
+|| 9||JapanPostHoldings||
+||10||Chevron||

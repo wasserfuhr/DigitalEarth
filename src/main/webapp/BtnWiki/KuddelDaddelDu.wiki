@@ -1,0 +1,3 @@
+ * IsA: MindPlace
+ * PartOf: ElbePark
+ * HomePage: http://www.kuddeldaddeldu.de/dresden/kuddeldaddeldu.html

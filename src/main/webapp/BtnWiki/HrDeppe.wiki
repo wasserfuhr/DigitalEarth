@@ -1,0 +1,2 @@
+ * IsA: TopManager
+ * BirthDay: 12-21

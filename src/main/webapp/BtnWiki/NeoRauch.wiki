@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * BornIn: 1960
+ * BirthDay: 04-18
+ * InterWiki: [WikiPedia:Neo_Rauch]

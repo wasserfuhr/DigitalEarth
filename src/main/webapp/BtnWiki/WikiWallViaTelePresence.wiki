@@ -1,0 +1,28 @@
+Now we continue the WikiWall via TelePresence:
+
+The latest version is at http://sl4.eu/WikiWall
+
+You can suggest a WikiWallCandidate (most important first):
+
+ProposedBy RainerWasserfuhr:
+ * JohannKoenitz AbundanceWikiWall ArtWikiWall UnParty SemanticSixSigma IbrahimPlan FabVille MarigoRaftopoulos SemiCon GitCoin FreeSilicon GlobalWikiWall BigTableNomic MichaelAnissimov GoetzWerner PatentWiki
+
+(more at http://sl4.eu/wiki/WikiWallCandidate )
+
+ProposedBy RalfLippold:
+ * WigeWall
+ * AbundanceWikiWall
+
+Next you have to nominate a replacement for your candidates.
+As soon as two WikiWall player have agreed on a replacement, the replacement will be executed by RaWa via BigTableNomic:
+ * RaWa: UlrichDeppendorf
+ * RaWa: FrankHaring
+ * RaWa: SpiEssEr
+ * RaLi: ???
+
+WikiWallBacklog:
+ * 2011-11-15: c1: HeidiMorgenstern for WalterRiester
+ * 2011-02-19: p6: SemperOper for LockTeam
+ * 2011-02-19: PhilippeGreier for PiHaus
+ * 2011-02-19: JohnRobb for MySpace
+ * 2011-02-1?: NewEgypt for BeatZentrale

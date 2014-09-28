@@ -1,0 +1,5 @@
+https://github.com/ThreeTen/threeten/blob/master/src/main/java/javax/time/Instant.java
+
+private final long seconds;
+
+AtomicTime

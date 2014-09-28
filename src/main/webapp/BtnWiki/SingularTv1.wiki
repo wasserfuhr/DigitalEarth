@@ -1,0 +1,2 @@
+ * IsA : SendeStation
+ * HomePage: http://wiki.apache.org/couchdb/Rewriting_urls

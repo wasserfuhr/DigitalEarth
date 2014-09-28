@@ -1,0 +1,3 @@
+ * IsA: MinisTer
+ * WikiPedia: https://en.wikipedia.org/wiki/Peter_Altmeier
+ * BirthDay: 08-12

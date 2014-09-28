@@ -1,0 +1,3 @@
+ * IsA: EntrePreneur VorBestrafter
+ * WikiPedia: https://en.wikipedia.org/wiki/Reinhold_W%C3%BCrth
+ * BirthDay: 04-20

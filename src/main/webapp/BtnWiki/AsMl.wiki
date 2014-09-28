@@ -1,0 +1,9 @@
+ * IsA: EnterPrise
+ * IsIn: NL0006034001
+ * WikiPedia: https://en.wikipedia.org/wiki/ASML_Holding
+ * MindOne: EricMeurice
+ * TwittEr: https://twitter.com/ASMLcompany
+
+SemiConductor
+
+EighteenInch: http://www.eetimes.com/electronics-blogs/semi-conscious/4390109/ASML--We-won-t-get-fooled-again

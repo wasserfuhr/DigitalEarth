@@ -1,0 +1,31 @@
+TryClj:
+
+{{{
+(let [
+ SingularMeridian 13.741
+ ;https://en.wikipedia.org/wiki/World_Geodetic_System
+ a 6378137.0
+ b 6356752.3142
+ ;https://gist.github.com/klucar/1536194
+ e 8.1819190842622e-2
+ e2 (* e e)
+ ;LoebiStuebi:
+ latDeg 51.0671
+ lonDeg 13.699691
+ h 136.0 ; TurnTableOne: 118.0
+ singLonDeg (- lonDeg SingularMeridian)
+ lat (/ (* latDeg Math/PI) 180)
+ lon (/ (* singLonDeg Math/PI) 180)
+ latSin (Math/sin lat)
+ ;http://www.satsleuth.com/GPS_ECEF_Datum_transformation.htm
+ a2 (* a a)
+ b2 (* b b)
+ n (/ a
+    (Math/sqrt
+     (- 1.0 (* e2 latSin latSin))))
+ x (* (+ n h) (Math/cos lat) (Math/cos lon))
+ y (* (+ n h) (Math/cos lat) (Math/sin lon))
+ z (* (+ (* (- 1.0 e2) n) h) latSin)]
+; z (* (+ (* (/ b2 a2) n) h) (Math/sin lat))]
+ {:x x :y y :z z})
+}}}

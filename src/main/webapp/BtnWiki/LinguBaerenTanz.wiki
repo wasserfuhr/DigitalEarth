@@ -1,0 +1,5 @@
+ * IsA: MindEvent
+ * PartOf: BrigadeAbend
+ * HomePage: https://www.facebook.com/events/483640925089689/?ref_dashboard_filter=upcoming
+
+#PflichtTermin

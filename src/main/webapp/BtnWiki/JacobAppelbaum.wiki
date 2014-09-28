@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * WikiPedia: https://en.wikipedia.org/wiki/Jacob_Appelbaum
+
+HackerSpace with MitchAltman

@@ -1,0 +1,4 @@
+ * IsA: MindStreet
+ * ConNect: KleinBruedergasse TheaterPlatz SchlossStrasse
+
+TaschenBerg

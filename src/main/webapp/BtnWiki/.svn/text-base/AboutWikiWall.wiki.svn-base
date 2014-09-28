@@ -1,0 +1,7 @@
+The WikiWall is a tool created by RalfLippold and RainerWasserfuhr.
+
+We use it as the central canvas to focus on the LockSchuppen.
+
+It consists of 256 WikiWallCard's with links to WikiPage's, arranged like a ChessBoard as a 16x16 matrix.
+
+Each WikiPage is a part of a SemanticWiki.

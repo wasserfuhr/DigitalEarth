@@ -1,0 +1,4 @@
+ * IsA: MindCity
+ * EtymoLogia: from Nahuatl language Aca-pōl-co
+ * InterWiki: [WikiPedia:Acapulco]
+ * PartOf: MexiCo

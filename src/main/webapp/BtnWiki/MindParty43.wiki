@@ -1,0 +1,8 @@
+ * IsA: MindParty
+ * WikiLender: 2012-05-28
+ * MindPlace: TraumPartyPlace
+
+Please vote for your preferred TraumPartyPlace by editing this WikiPage:
+
+|| *Guest*         || *TraumPartyPlace*||
+||ChristineSchlinck||LatLon: 51.076 13.772||

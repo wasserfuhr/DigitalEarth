@@ -1,0 +1,13 @@
+SemWeb id?
+
+What is the best way to name yourself?
+
+We ask the FoafGod's:
+||DanBrickley ||http://danbri.org/foaf.rdf#danbri||
+||MartinGaedke||http://vsr.informatik.tu-chemnitz.de/people/gaedke/foaf.xml#mg||
+||MartinRoell ||http://www.roell.net/foaf.rdf#martinroell ?||
+||MorFr       ||http://www.wasab.dk/morten/foaf.rdf#mortenf ||
+||LeoSauermann||http://www.leobard.net/rdf/foaf.xml#me||
+||LibbyMiller ||http://swordfish.rdfweb.org/people/libby/rdfweb/webwho.xrdf#me||
+||StefanDecker||http://www.deri.ie/fileadmin/scripts/foaf.php?id=12 ??||
+||TimBl       ||http://www.w3.org/People/Berners-Lee/card#i||

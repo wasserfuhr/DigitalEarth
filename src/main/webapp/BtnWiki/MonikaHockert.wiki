@@ -1,0 +1,3 @@
+ * IsA: PowerWoman
+ * BornIn: 1943
+ * BirthDay: 01-22

@@ -1,0 +1,10 @@
+2013-08-16 BallChefBriefing
+2013-08-24 DresdenAirport FraAirport
+2013-08-24 FraAirport JfkAirport
+2013-08-25 BreakfastAtTiffanies
+2013-08-25 JfkAirport LasVegas
+2013-08-26 WeddingOfTheMillenium
+2013-08-27 LasVegas SfoAirport
+2013-08-28 SfoAirport HonoLulu
+2013-08-29 EliasAufHawaii
+2018-01-05 InspirationMars

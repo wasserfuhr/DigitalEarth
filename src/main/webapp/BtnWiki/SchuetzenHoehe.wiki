@@ -1,0 +1,2 @@
+ * IsA: MindStreet
+ * OpenStreetMap: http://www.openstreetmap.org/browse/way/23338715

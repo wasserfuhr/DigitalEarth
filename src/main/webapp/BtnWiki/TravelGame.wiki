@@ -1,0 +1,13 @@
+As a player, you start by choosing your first AirPort.
+
+AirPlane with a capacity of 256 seats.
+
+You can fly between the 32 WorldsBusiestAirportsByPassengerTraffic
+
+Goals:
+ * attract a large number of players, actually WorLd's largest NomicGame.
+ * collaboratively develop a NomicEngine
+
+PassengerDemand
+
+DomainModel: TransPorter TransPort

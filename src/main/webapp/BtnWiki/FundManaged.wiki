@@ -1,0 +1,16 @@
+https://en.wikipedia.org/wiki/List_of_venture_capital_firms
+
+||m UsDollar||
+||12100||ThreeAye||
+||8400||OakInvestmentPartners||
+||7600||InsightVenturePartners||
+||6000||AccelPartners||
+||6800||IdgVentures||
+||6000||NewEnterpriseAssociates||
+||5000||DraperFisherJurvetson||
+||5000||IntellectualVentures||
+||1800||AdvancedTechnologyVentures||
+||1000||AtlasVenture||
+||950||AndreessenHorowitz||
+
+VentureCapital

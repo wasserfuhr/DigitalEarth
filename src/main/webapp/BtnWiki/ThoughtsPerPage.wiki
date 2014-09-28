@@ -1,0 +1,3 @@
+How many MachineReadable thoughts (aka RdF-StateMent's) does a WikiPage of the BtnWiki on average contain?
+
+#ThoughtsPerSecond

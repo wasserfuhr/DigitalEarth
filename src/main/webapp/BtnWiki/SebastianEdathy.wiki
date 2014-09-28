@@ -1,0 +1,8 @@
+ * IsA: PerSon
+ * BornIn: 1969
+ * BirthDay: 09-05
+ * InterWiki: [WikiPedia:Sebastian_Edathy]
+ * PartyWiki: SpdWiki
+ * TriBy: https://www.facebook.com/siggi.becker/posts/10152247553163324?comment_id=30286386&offset=0&total_comments=3
+
+#AlanDieHard

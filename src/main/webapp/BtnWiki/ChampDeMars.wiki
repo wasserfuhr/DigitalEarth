@@ -1,0 +1,3 @@
+ * IsA: MindPlace
+ * WikiPedia: https://en.wikipedia.org/wiki/Champ_de_Mars
+ * PartOf: ParIs

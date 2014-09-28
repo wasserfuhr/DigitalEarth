@@ -1,0 +1,5 @@
+NewMind SourceCode ProGram
+
+SymbolGround: 4x4x{0|1}? VanityCode NooCode QrCode LanguageOfThought
+
+http://jsbin.com/bit

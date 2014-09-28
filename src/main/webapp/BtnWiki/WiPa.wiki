@@ -1,0 +1,10 @@
+WikiPath:
+ LongBetOne
+ AnFang
+  AcceleratingChange
+  RayKurzweil
+   IsA
+    MindProps
+     WikiPage
+      MindWiki
+       RainerWasserfuhr

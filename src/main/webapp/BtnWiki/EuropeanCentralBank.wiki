@@ -1,0 +1,5 @@
+ * IsA: LegalEntity
+ * InterWiki: [WikiPedia:European_Central_Bank]
+ * MindOne: MarioDraghi
+
+EuropeanUnion StaatsBank MoneySupply EuRo

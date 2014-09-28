@@ -1,0 +1,11 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16270 « 2013-12-11 » LifeDay16268
+ * HpBd: HectorBerlioz EmilRathenau RobertKoch MaxBorn FiorelloLaGuardia AlexanderSolschenizyn HeinzSchenk PaulGreengard HeinzFlorianOertel JeanLouisTrintignant FerdinandAlexanderPorsche FrankSchoebel ReinholdKliegl ViswanathanAnand
+ * OmAg: LifeDay16239
+ * OyAg: LifeDay15904
+ * ReNu: r20476
+ * CuPr: LifeWiki
+ * BoPa: TrWo:1047 LoebiNetto:2054 LoeSt TrWo H:BuSt M:LinieSieben:DvbTram2804:2347 AlbertPlatz WqBar ThaliaBar ElCubanito TheLud AlbertPlatz M:LinieSechs:DvbTram2506:2906 H:BuSt TrWo
+ * HaTa: SaZi BuRi FeGe RinKa
+ * HoTo: AnGo
+ * CheckSum: b765faa94b5d1a042f126ce83db4babedac

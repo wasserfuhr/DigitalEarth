@@ -1,0 +1,600 @@
+AboutSemperNote
+
+08-15
+StudiVz
+Sonya~
+GruenderFoyer42
+L:TraumWohnung
+L:TunickTerrain
+P:CityBeach
+L:CvjmBaracke 18515 wh~
+
+08-14
+L:BalkonEuropas
+L:MarienBruecke
+HasSeen PieschenBiber
+L:CvjmBaracke
+RtdTla
+L:TunickTerrain
+HaTa MaSch~
+P:PaelzerStubb
+L:MicktenAldi
+L:TraumWohnung
+
+08-13
+StartUpEngine
+P:CityBeach
+Akkordeon JungeKommBaldWieder
+DaveDudley~
+L:CvjmBaracke
+L:MicktenAldi
+L:MicktenRewe
+L:ElbvillenWeg~
+HerzoginGarten
+P:PaelzerStubb~
+L:OschatzerStrasse
+HasSeen FrauAnke
+L:GeheStrasse
+
+
+08-12
+LookAlike ~Bunke
+LookAlike JoergSiekmann
+L:HiltonDresden
+L:BalkonEuropas
+L:SwissOtel
+CvjmKwh 18229
+P:PuroBeach
+PieschenBankApp DomainModel MindId BilderBerg
+LeapMotion
+AnJa~
+SchiebRuhigKugel
+RuhigKugel LangMarsch
+L:TunickTerrain
+L:PieschenMole
+L:TraumWohnung
+
+08-11
+L:TraumWohnung
+L:ElbCenter
+
+08-08
+KoenigsNetto
+
+08-07
+Orbs
+
+=2012-08-05=
+SciFoo
+BrotUndStaatsSpiele
+ZiGa72
+MvpTla
+L:HartigStrasse
+
+=2012-08-04=
+DdTt163 as LinieNeun
+H:ElbePark
+DdVb614 as DvbLinie80
+H:Flutrinnenbruecke
+
+=2012-08-02=
+L:PieschenGateBridge
+H;ElbCenter
+M:DvbTram2634 as LinieDreizehn
+H:ElbePark
+L:ElbePark
+L:PieschenerStrasse
+HaTa BjoernBergelt
+L:SchiefBank
+P:PieschenGateBridge
+L:TraumWohnung
+L:PieschenNetto
+L:HartigStrasse
+L:TraumWohnung
+
+=2012-08-01=
+2012-08-08
+L:PieschenNetto
+KiRw321
+L:MoritzburgerStrasse
+L:TraumWohnung
+
+
+
+=2012-07-29=
+L:SwissOtel
+L:PostPlatz
+L:SchuetzenPlatz
+
+L:ZwergenSchloss
+MilleTellerMachine
+L:ZwergenSchloss
+L:Arda~
+H:BonhoefferPlatz
+DvbBus DdTt383 As linie90
+H:TharandterStrasse
+P:GrossmarktHalle~
+MeiDs888
+H:PostPlatz
+M:DvbTram2515 as LinieSechs
+H:AntonLeipziger
+WochenKarte
+P:CvjmBaracke
+DolphinDynamicPlus
+L:PuroBeach
+L:CityBeach
+RoeschenHof DrMabe
+DdGd1275~
+L:PuschkinPlatz
+L:TraumWohnung
+ToLa520573
+DdRc200
+L:GeheStrasse
+DdEw5852
+LTraumWohnung
+
+
+
+=2012-07-29=
+L:TraumWohnung
+
+=2012-07-28=
+L:TraumWohnung
+L:PieschenNetto
+L:TraumWohnung
+
+=2012-07-27=
+L:ZwergenSchloss
+DdTk277
+L:CosseBaude
+L:TraumWohnung
+
+=2012-07-26=
+L:AlaunStrasse
+L:KunsthofPassage
+
+=2012-07-25=
+L:HauptStrasse
+L:EiscafeVenezia
+WikiData
+DefinitionOfDone
+CafeNeustadt
+RaLi AppEngine
+L:BalkonEuropas
+L:MuenzGasse
+L:NeuMarkt
+L:AltmarktGalerie
+HasSeen FloKl
+P:DvbTram2513 as LinieVier
+L:PostPlatz
+GislevRejser
+L:DresdenZwinger
+L:TavernaAkropolis
+WegFrage TheaterPlatz
+SilberBlondine
+WoFoKoAg
+SilberBlondine
+L:AltMarkt
+DdGd2530
+P:DvbTram2714 as LinieZwei
+SwissOtel
+PoliZei
+DdGd9057
+DdKk706H HeadSet
+L:AugustusBruecke
+LookAlike EtchRusse
+ThomasScheufler
+ObamaInDresden
+MartinsHorn
+L:GlockenspielPavillion
+LookAlike JuAn
+LuGlo GloFo
+ThoughtsPerSecond
+L:MarienBruecke
+LookAlike StaGo
+P:CvjmBaracke
+WegFrage JugendSchiff
+LookAlike YuzoLein
+MindHack
+ErfurzerStrasse
+L:ErfurterStrasse
+SevenSeven
+L:GeheStrasse
+L:TraumWohnung
+P:PuroBeach
+LastenTraeger
+P:CvjmBaracke
+HappyBirthday
+
+=2012-07-24=
+SingularityMind
+FbList
+L:KaiserUfer
+L:BalkonEuropas
+DdEz7572
+SocialGame
+AroundSocial MaZu
+L:HalleschStrasse
+
+
+BoTn
+WikiLove
+ProEngineer IrIs
+RePly MarkusKlemm MineCraft
+RiCarda
+UteOne
+FlavourChat
+JfApp
+SiBe ShockPoint SingularChat
+L:TraumWohnung
+P:CityBeach
+L:NeuMarkt
+L:PragerStrasse
+MarissaMayer YaHoo
+L:NossenerBruecke
+
+=2012-07-23=
+SpittaStrasse
+L:ZwergenSchloss
+L:KesselsdorferStrase
+L:ZwergenSchloss
+H:TharandterStrasse
+M:DvbTram2527 as LinieZwoelf
+H:PostPlatz
+MeiFe111
+L:AugustusBruecke
+L:TraumWohnung
+
+=2012-07-22=
+HirnSchrittMacher
+P:BallhausWatzke
+LookAlike ChristophNollau
+L:LeipzigerStrasse
+L:TorgauerStrasse
+DdGd4554
+DdGd4679
+L:KonkordienStrasse
+
+=2012-07-21=
+PensionKasimir
+SiKne
+WdVs
+
+=2012-07-20=
+DdGd5857
+DdGd3050
+AdSc
+AdAc
+DdGd4023
+P:GarageOne
+
+=2012-07-19=
+AiWinterMaerchen
+DdGd
+DdDg990
+DdGd9016
+DdGd2341
+DdXx906
+L:StrasseDes17Juni
+GoettingerGruppe KuBi
+MoHo XingLe
+K:Gleis
+L:BahnhofNeustadt
+L:BahniLidl
+H:BahnhofNeustadt
+M:DvbTram2813 aa LinieDrei
+H:ListStrasse
+L:PieschenAral
+L:TraumWohnung
+SpnDd79
+L:TraumWohnung
+TobaccoLand
+ToLa520573
+KmYh63
+DdPp1203
+
+=2012-07-18=
+L:TraumWohnung
+DdMf2506
+L:PieschenNetto
+CorpusDelicti
+L:TraumWohnung
+
+=LifeDay15757= 
+L:TavernaAkropolis
+L:AlaunPark
+P:SuppenBar
+H:BautznerTor
+LookAlike NaehTiger
+H:AlbertPlatz
+LookAlike BeSa
+H:BahnhofNeustadt
+M:DvbTram2713 as LinieSechs
+H:AntonLeipziger
+M:DvbTram2582 as LinieVier
+H:PuschkinPlatz
+DdGd9867
+L:EisenbergerStrasse
+L:WeimarischStrasse
+L:HartigStrasse
+DdGd8888 HeadSet
+L:GeheStrasse
+L:TraumBad
+SpnDd79
+DayOne
+L:TraumWohnung
+
+=2012-07-16=
+L:TraumWohnung
+BeinWunder~
+L:PieschenNetto
+PirZz66
+Rohat
+HaTa DanielHo~
+L:TraumWohnung
+
+=2012-07-14=
+L:PieschenNetto
+L:PieschenGateBridge
+L:TunickTerrain
+L:EiisenbergerStrasse
+L:TraumWohnung
+
+=2012-07-13=
+L:TraumWohnung
+L:PieschenNetto
+L:PieschenGateBridge
+DdGd2666
+L:EisenbergerStrasse
+L:TraumWohnung
+
+=2012-07-12=
+L:TraumWohnung
+DdDr1406
+L:GeheStrasse
+
+=2012-07-09=
+P:2618
+H:LockSchuppen
+M:DvbTram2820 as LinieDrei
+H:HstSynagoge
+P:DvbTram2810
+PirAb2
+L:NeuMarkt
+H:DresdenHbf~
+M:DvbTram2606 as LinieAcht
+H:NuernbergerEi
+BelRtage~
+H:AlbertPlatz
+M:DvbTram2826 as LinieSieben
+H:TharandterStrasse
+SchlinckRealEstate
+ChSc bis 2012-10-11: 1000 € for 10000 KaGr
+L:ZwergenSchloss
+L:ArdaKebapHaus
+
+
+
+=2012-07-09=
+P:2618
+H:LockSchuppen
+M:DvbTram2820 as LinieDrei
+H:HstSynagoge
+P:DvbTram2810
+PirAb2
+L:NeuMarkt
+H:DresdenHbf~
+M:DvbTram2606 as LinieAcht
+H:NuernbergerEi
+BelEtage~
+H:AlbertPlatz
+M:DvbTram2826 as LinieSieben
+H:TharandterStrasse
+SchlinckRealEstate
+ChSc bis 2012-10-11: 1000 € for 10000 KaGr
+L:ZwergenSchloss
+L:ArdaKebapHaus
+
+=2012-07-09=
+H:BonhoefferPlatz
+M:DvbLinie90
+H:TharandterStrasse
+MuseumsSommerNacht
+M:DvbTram2515 as LinieSechs
+H:AntonLeipziger
+LoeschFrage
+FeindInDeinemWiki
+P:DvbTram2623 as LinieNeun
+H:AntonLeipziger
+VariablenUndConstraints
+NearestTramStop
+M:DvbTram2533 as LinieVier
+H:PuschkinPlatz
+L:HalleachStrasse
+GizHub
+L:GeheStrasse
+L:TraumWohnung
+=2012-07-08=
+L:
+H:ListStrasse
+M:2623 as LinieDreizehn
+
+H:BischofsPlatz
+
+P:DvbTram2544 as LinieVier PsdBank
+L:ElbCenter
+L:CvjmBaracke
+FbLeak
+L:HansaStrasse4
+L:LockSchuppen
+DdGd6907
+L:BahniLidl
+BahnbauGruppe
+L:BahnhofNeustadt
+DdGd6222
+DvbTram2811
+L:HansaStrasse
+P:DvbTram2510
+DdGd3714
+L:CityBeach
+DdGd9631
+L:EisenbergerStrasse
+DdGd2426
+L:GeheStrasse
+L:TraumWohnung
+TischKultur
+L:ZwergenSchloss
+
+=2012-07-07=
+L:ZwergenSchloss
+VersteckSpiel
+H.TharandterStrasse
+M:DvbTram2821 as LinieZwoelf
+H:PostPlatz
+M:DvbTram2583 as LinieVier
+L:PieschenNetto
+L:TraumWohnung
+
+
+=2012-07-03=
+L:TraumWohnung
+
+=2012-07-02=
+P:InterShopShop
+H:PuschkinPlatz
+M:DvbTram2502 as LinieVier
+Chrystal?
+FreizeitgruppeDresden
+H:AntonLeipziger
+M:DvbTram2637 as LinieSechs
+H:TharandterStrasse
+SecurityCode
+NettoKom
+StrategyTree
+L:ZwergenSchloss
+DdQl164
+CarolinWuerfel?
+L:AutoBahn17
+KiTa?
+H:ProhlisGleisschleife
+ElEcktra
+H:HuelsseStrasse
+L:OtReick
+H:HugoBuerknerStrasse~
+TraumMutter
+GutManier
+PrimaDonna
+PieschenRobotics
+VirtuvianMan
+M:DvbTram2537 as LinieDreizehn
+H:NordBad
+L:RothenburgerStrasse
+L:LouisenStrasse
+ScaleModel
+L:LutherStrasse
+SingularPieschen
+L:LutherPlatz
+DdTp2301
+DdEd8991
+HasSeen CafeBuchMan
+HasSeen Archi stefan~
+L:CafeNeustadt
+L:AlbertPlatz
+L:EiscafeVenezia~
+L:HauptStrasse
+DdIa105
+H:NeustaedterMarkt
+H:PalaisPlatz
+DdVb210
+SbKv120
+M:DvbTram2529 as LinieVier
+H:PuschkinPlatz
+L:PieschenNetto
+L:HartigStrasse
+L:GeheStrasse21
+L:TraumWohnung
+OccupyUnPartei
+ProgramOrBeProgrammed~
+JavaRalf
+SaxonianGeekArmy
+HuschHusch
+PlanungsHorizont
+KniSi
+LiebesDienst
+FlavourCity
+MarketMaker
+PieschenRobotics
+LockApp
+JavaRalf
+GrubePlan
+OnkelRainer
+PaBe~
+SchweigePflicht
+LoSchuppenOpening
+HueffChen
+Aperol
+AnniversaireRoyal
+TotalRecall
+CafeNeustadt
+PowerSingularity
+L:TraumWohnung
+L:WeimarischStrasse
+L:GeheStrasse
+L:HartigStrasse
+L:LeipzigerStrasse
+H:PuschkinPlatz
+M:DvbTram2547 as LinieVier
+H:PostPlatz
+M:DvbTram2617 as LinieZwoelf
+H:TharandterStrasse
+L:BonhoefferPlatz
+ThomasHerrmann~ pulver
+PieschenRobotics
+BauBall
+
+=2012-07-01=
+TineMisu
+HaSchult
+PhaetonBallett
+FabViewBet
+GoetzWiedmann~
+EndoMondo~
+L:ZwergenSchloss
+H:BonhoefferPlatz
+M:DdTt103 as DvbLinie90
+DdOo202
+GeoCode
+H:TharandterStrasse
+P:CottaerStrasse
+DdHochSechs
+NeuroBalance
+LookAlike WolfgangDonsbach
+ElbeFlut
+TrueLove
+VerLies
+LookAlike PuschKatze
+ArtilectWar
+TransparentMan
+AdFc
+MarLo
+P:HofKirche
+ThoughtsPerSecond
+L:AugustusBruecke
+WikiLove
+BrainMap
+P:GoldenReiter
+UnFriend
+M:DvbTram2518 as LinieSechs
+LookAlike WilliSchroll
+L:AntonLeipziger
+M:DvbTram2516 as LinieNeun
+FahrschuleRoulett
+L:LeipzigerStrasse
+DdGd2666
+L:EisenbergerStrasse
+L:HalleschStrasse
+LookAlike DavidBrin
+L:HartigStrasse
+L:GeheStrasse
+L:WeimarischStrasse
+L:TraumWohnung

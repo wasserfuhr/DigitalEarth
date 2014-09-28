@@ -1,0 +1,3 @@
+ * IsA: MindStreet
+ * OpenStreetMap: http://www.openstreetmap.org/browse/way/8029654
+ * PartOf: StadtWien

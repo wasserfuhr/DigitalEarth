@@ -1,0 +1,14 @@
+  s.executeUpdate("create table BaseUser ("+
+   "id integer PRIMARY KEY GENERATED ALWAYS AS IDENTITY,"+
+   "name varchar)");
+  s.executeUpdate("create table BaseFn ("+
+   "id integer PRIMARY KEY GENERATED ALWAYS AS IDENTITY,"+
+   "fn long varchar)");
+  s.executeUpdate("create table BaseLog ("+
+   "id integer PRIMARY KEY GENERATED ALWAYS AS IDENTITY,"+
+   "t bigint,"+
+   "hash char(20),"+
+    //hash(id)=hash(id-1)+"_"+fn(id)+"_"+pl(id)
+    //hash(1)=""
+   "fn integer references BaseFn,"+
+   "pl long varchar)");

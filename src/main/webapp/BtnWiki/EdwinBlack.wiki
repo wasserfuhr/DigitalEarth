@@ -1,0 +1,8 @@
+ * IsA: PerSon
+
+https://en.wikipedia.org/wiki/Edwin_Black
+
+ChildOf: Edjya from BialyStok
+
+
+BrainStorm: VivekWadhwa

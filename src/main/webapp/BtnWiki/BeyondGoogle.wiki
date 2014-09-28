@@ -1,0 +1,14 @@
+ * InterWiki: [MartinsWiki:GroesserAlsGoogle]
+
+Currently, FloatingBoats heavily relies on technologies from GoogleInc.
+
+GoogleInc has created an InsaneNumber and ByFar the largest computing cluster and an ultra-scalable database technology, that will
+very likely shape and dominate the early TwentyFirstCentury.
+
+The goal of FloatingBoats is to create true ImPact. Therefore we rely on the best tools and technologies available.
+
+If you are not comfortable with this, FloatingBoats might not be the right thing for you at this moment.
+
+As players of BigTableNomic, we bet on our strategy to EmbraceAndExtend.
+
+#DataLiberation #AppScale #LockCloud

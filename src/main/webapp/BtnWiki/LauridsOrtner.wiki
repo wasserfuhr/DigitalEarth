@@ -1,0 +1,4 @@
+ * IsA: ArchiTect ProFessor
+ * BornIn: 1941
+ * BirthDay: 05-26
+ * InterWiki: [DeWikiPedia:Laurids_Ortner]

@@ -1,0 +1,5 @@
+ * IsA: MindBook
+ * WikiPedia: https://en.wikipedia.org/wiki/Halting_State
+ * DcAuthor: CharlesStross
+
+InterWiki: http://webseitz.fluxent.com/wiki/HaltingState

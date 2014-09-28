@@ -1,0 +1,16 @@
+LockVar1
+
+RefPt1: average height of the upper surface at the center of the former rails of TurnTableOne.
+InertialSystem: WGS84
+
+RefPt2: center of the cylindric MonoLith.
+
+RefPt1.lat=RefPt2.lat
+RefPt1.lon=RefPt2.lon
+RefPt1.elev+0.8=RefPt2.elev
+
+SingularLeuchtTurm
+
+DsCf1649
+
+#SingularDresden

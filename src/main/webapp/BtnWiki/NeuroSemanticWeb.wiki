@@ -1,0 +1,12 @@
+http://sl4.eu/wiki/NeuroSemanticWeb
+
+ * PiAll: Wir können wir uns das vorstellen?
+ * TrueMan: Ich habe es mal "ThoughtsPerSecond" genannt. Angefangen bei
+  * MrAristotle, der die PraedikatenLogik schuf, über
+  * MrPlato, der mit der IdeenLehre die GrundLage für die UnterScheid'ung von "Ideen" und ihrer Repräsentation, über
+  * GottfriedWilhelmLeibniz
+  * ImmanuelKant
+  * EdmundHusserl
+  * LudwigWittgenstein
+ * PiAll: Und wo stehen wir da heute? Wann findet ein "Thought" statt? Genauer gesagt: Wann wird das zugrundeliegende MindPattern aktiviert? 
+ * TrueMan: Es ist essentiell, wie wir MindPattern identifizieren und kommunizieren können. Dazu bedarf es einer KunstSprache, deren Grundzüge mir seit ca AnnoDomini2007 ein ganzes Stück klarer geworden sind: Etwa wenn ich an eine bestimmte PerSon denke oder mit JeMand über sie spreche. Dann hat sich meine KunstSprache im Laufe der letzten Jahre und Monate immer weiter verfeinert: Orte Bücher Filme UnterNehmen VerhaltensMuster Themen Wörter JahresZahlen Events. Als ich vor einiger Zeit bei einem grossem HalbLeiter-UnterNehmen als WikiAngel engagiert war, konnte ich mit unserem Ansatz sogar die wichtigsten Aspekte eines des wohl WeltWeit ComPlex'esten Fertigungsprozesses abbilden.

@@ -1,0 +1,5 @@
+ * IsA: PerSon
+ * BirthDay: 02-09
+ * DeWikiPedia: https://de.wikipedia.org/wiki/Rainer_Bomba
+ * PartyWiki: CduWiki
+ * TriBy: https://twitter.com/tagesschau/status/372010939501260800

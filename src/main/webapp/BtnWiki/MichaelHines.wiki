@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * HomePage: http://www.cs.yale.edu/people/hines.html
+
+DbLp: http://www.dblp.org/db/indices/a-tree/h/Hines:Michael_L=.html

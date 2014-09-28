@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * BirthDay: 01-06
+ * InterWiki: [WikiPedia:Bernd_Neumann]
+ * ParteiWiki: CduWiki

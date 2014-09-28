@@ -1,0 +1,11 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16280 « 2013-12-21 » LifeDay16278
+ * HappyBirthday: 
+ * OneMonthAgo: LifeDay16249
+ * OneYearAgo: LifeDay15914
+ * RevNum: r20617
+ * CuPr: LifeCast LifeWiki
+ * BoPa: TrWo LoebiNetto LoeSt TrWo:2459
+ * WahrTraum: ?
+ * HaTa: LadySchoen
+ * CheckSum: 62158798bcfd0a91a2bc35f6426c2bd534fc1945

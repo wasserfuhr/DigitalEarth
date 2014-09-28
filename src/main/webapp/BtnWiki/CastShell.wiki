@@ -1,0 +1,5 @@
+{{{
+export CastAuth=
+export CastBase=http://www.screenr.com/screencast/download                                                               
+CAST=Er5H;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "#CastHash:||$sha||$CAST||";ls --block-size=1 -s $CAST.mp4; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+}}}

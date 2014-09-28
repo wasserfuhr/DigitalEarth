@@ -1,0 +1,11 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16232 « 2013-11-03 » LifeDay16230
+ * HappyBirthday: EikeBatista RoBa HubertusHeil
+ * OneMonthAgo: LifeDay16201
+ * OneYearAgo: LifeDay15866
+ * RevNum: r19xxx
+ * BoPa: TrWo:1057 TrWo:1316 WtcDd:1745 TrWo:1843
+ * HaGr: NachBar1965:1312
+ * CuPr: RainerTest SemperBase
+ * ZichtelIdee: BigSemperTable:1314
+ * HaTa: 

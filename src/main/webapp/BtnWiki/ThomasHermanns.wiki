@@ -1,0 +1,6 @@
+ * IsA: PerSon
+ * BornIn: 1963
+ * BirthDay: 03-05
+ * HaTa: ChSc
+ * WikiPedia: https://en.wikipedia.org/wiki/Thomas_Hermanns
+ * TriBy: https://www.facebook.com/photo.php?fbid=10152081793170550&set=np.201341310.509034915&type=1&ref=notif&notif_t=close_friend_activity&theater

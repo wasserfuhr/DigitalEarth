@@ -1,0 +1,8 @@
+ * WikiPedia: https://en.wikipedia.org/wiki/Sovereign_wealth_fund
+
+Examples:
+ * AdIa
+ * CdPq
+ * EmiratesInvestmentAuthority
+ * MagnonFund
+EtCetera

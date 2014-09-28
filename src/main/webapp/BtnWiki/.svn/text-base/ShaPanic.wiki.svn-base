@@ -1,0 +1,6 @@
+caution with OpenSsl!:
+
+rawa@149-190-47-212:~$ cat S117.mp4 |openssl sha
+accfa3806e02d30d65d5a3c612eb4a5f16a60e45
+rawa@149-190-47-212:~$ cat S117.mp4 |openssl sha1
+8d972587a19fc69e328529b283c6243ed5a9845c

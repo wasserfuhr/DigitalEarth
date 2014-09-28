@@ -1,0 +1,11 @@
+http://blog.nfllab.com/archives/152-Win32-native-md5sum,-sha1sum,-sha256sum-etc..html
+
+NagyFerencLaszlo ShaOne
+
+d1ef60e0ba93f1eaa1741a22f1360f8cd11cab16
+dc49259c4719a29fe760ba237cb8fc6135386cd8
+31e027515b71caf7ea4f5e033844ff244cf177e1
+
+471327ad4659be353f1b27049c517c08
+084278e7e5ba38cabba976359d8395f6
+8055fb66e1ee2b0d6b3161dab5f53414

@@ -1,0 +1,3 @@
+http://www.openstreetmap.org/?lat=1.370552&lon=103.928708&zoom=18&layers=M
+
+GloFo

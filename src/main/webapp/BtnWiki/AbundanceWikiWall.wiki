@@ -1,0 +1,17 @@
+The intend of the AbundanceWikiWall is to capture all the mentioned persons in the AbundanceBook and create a "knowledge canvas" AKA [https://singularacademy.appspot.com/WikiWall WikiWall].
+
+Persons mentioned in the book up to page 67, per 2012-04-11 (RalfLippold)
+
+Volunteering is highly appreciated: See as it goes via an example:
+
+||    || *a*           || *b*       || *c*       || *d*         || *e*        || *f*        || *g*        || *h*||
+|| *1*||PeterDiamandis ||JohnDewey  ||ElonMusk ||JayForrester ||RuthBenedict||JohnOldfield||MattRidley  ||SergeyBrin||
+|| *2*||AlexanderKing  ||DavidEagleman||DeanKamen||CraigVenter  ||KenRobinson ||IsisNyongo  ||JohnMcDevitt||FriedrichHayek||
+|| *3*||AurelioPeccei  ||MarcSiegel||RatanTata||RobinDunbar||JohnRoberts||HansRosling||NicholasNegroponte||ArthurClarke||
+|| *4*||AnoushehAnsari ||LarryPage  ||BurtRutan||PierreOmidyar||StevenPinker||BillGates    ||MaxWertheimer||LarryPage||
+|| *5*||JuergenHabermas||PauloFreire||RobertAngusSmith||ThorHeyerdahl|| *AbundanceBook*||ScottHassan||PeterGleick||ThomasFriedman||
+|| *6*||JayWitherspoon ||AmartyaSen ||RayKurzweil||JaredCohen   ||PatrickQuirk   ||ThomasGilovich||SimonWorden||GarryKasparov||
+|| *7*||MarkZuckerberg ||PaulEhrlich||TomSwift||AmosTversky||GarrisonKeillor||StevenLevy||MikeWing||BradTempleton||
+|| *8*||SeymourPapert  ||BradfordDeLong||KevinKelly||GordonMoore||DanielKahneman||CraigVenter||VintCerf||BarackObama||
+
+via https://www.facebook.com/groups/398301593513802/398591230151505/

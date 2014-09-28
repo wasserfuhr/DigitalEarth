@@ -1,0 +1,14 @@
+Via https://www.facebook.com/RainerWasserfuhr/posts/10150960346649916 :
+
+Wie am "RT" erkennbar handelt es sich bei vielen Einträgen auf der FbWall von RaWa um ReTweet's. RaWa importiert seine tweets und ReTweet's in FaceBook-NewsFeed seiner FbWall per
+ * FriendFeed und
+ * TwittEr-FbApp
+die aber beide unzuverlässig arbeiten.
+
+Dabei scheint jeder TwittEr-user seine eigene HashTag-strategie zu haben.
+
+Das HashTag "#dzf5" zB hat RaWa verwendet, damit seine tweets auch von FutureForum-Interessierten oder -besuchern WahrNehm'bar waren.
+
+Bei CamelCase-HashTag's handelt es sich meist um korrespondierende PageName's im MindWiki.
+
+Grundsätzlich sind für CamelCase in tweets oft solche WikiPage's vorhanden oder angedacht.

@@ -1,0 +1,13 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16169 « 2013-09-01 » LifeDay16167
+ * OneYearAgo: LifeDay15803
+ * HappyBirthday: HolgerKnaak
+ * HasSeen: DdGe9906:1655 PeZi MartinDulig:2014 AsmDd WiLu PeZi JanMauer:2134
+ * HaTa: HerrFelin FrauFelin
+ * HasTouched: WiLu
+ * HoechstForm: MeckPomRaus
+ * MasterPiece: MeckPomRaus
+ * HaGr: 
+ * BoPa: TrWo CasaFelin TrWo ConTainer593955858:1721 TrWo ConTainer593955858:1732 BuSt:1737 SichtBetongWueste PostPlatz DresdenZwinger NapoleonStein LutherPlatz RosenGarten LutherPlatz AlaunPark SwingerGate:2134 AlbertPlatz NapoleonStein TheaterPlatz KarlMayBar PostPlatz TrWo
+ * CurrentProject: RainerTest DigitalEarth
+ * HoTo: CarpeNoctem

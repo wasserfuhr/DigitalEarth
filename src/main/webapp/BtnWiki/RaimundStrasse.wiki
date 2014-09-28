@@ -1,0 +1,4 @@
+ * IsA: MindStreet
+ * ConNect: LoensWeg TonbergStrasse
+
+https://www.openstreetmap.org/browse/way/4925730

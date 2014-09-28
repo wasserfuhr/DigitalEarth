@@ -1,0 +1,7 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16130 « 2013-07-24 » LifeDay16128
+ * HappyBirthday: PatrickBreitenbach
+ * HasSeen: LadyKaschner LadyHo
+ * HaTa: LadyMarecki
+ * BodyPath: TrWo SingularGate:1033 LoebiAldi LoeSt SingularGate:1059 TrWo LoebiRewe TrWo
+ * CurrentProject: RainerTest TerraCubes PartyDesJahres2059

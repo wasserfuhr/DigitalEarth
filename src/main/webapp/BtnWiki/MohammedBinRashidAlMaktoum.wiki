@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * WikiPedia: https://en.wikipedia.org/wiki/Mohammed_bin_Rashid_Al_Maktoum
+ * BirthDay: 07-22
+ * TwittEr: https://twitter.com/HHShkMohd

@@ -1,0 +1,21 @@
+Dear friends,
+after many years of ReSearch and experiments I now feel that it is the right time to start the WorLd's first truly OpenSocialNetwork that 
+ * is free
+ * is open
+ * has a high quality
+ * is SelfGovern'ing
+ * respects your PostProvacy
+ * is planned go grow fast and SusStain'ably
+ * is going to have a built-in SocialCurrency
+ * heavily relies on SemanticWeb technologies
+
+FAQ
+ * We have embedded gamification from the ground up.
+ * We want make a living for a large base of people with a much broader wealth pyramid than ToDay (ForExample FaceBook: a few billionaires, maybe a 1000 millionaires ([http://www.reuters.com/article/2012/02/02/us-facebook-wealth-managers-idUSTRE8112BR20120202 1], [http://techcrunch.com/2007/11/12/counting-the-google-millionaires/ 2]) and 3-5000 people earning money as employees).
+ * We support both LogIn with a PsydoNym or your RealName, but in some
+areas you will only be able to participate with your RealName.
+
+ * LukaszKaczmarek: So how do you want to make money?
+ * RaWa: Did you ask this question to JimmyWales in 2001?
+ * LukaszKaczmarek: Well, no - I was occupied with my own StartUp.
+ * RaWa: Sustainable growth. To build the WorLd's first truly OpenSocialNetwork. But: We think there are quite a lot of opportunities to drive away some from the closed monolithic SocialNetwork's of YesterDay. First: We have *no* privacy. You will never be able to hack us, because any data we have is public by default.

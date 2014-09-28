@@ -1,0 +1,2 @@
+ * IsA: SchriftSteller
+ * WikiPedia: https://en.wikipedia.org/wiki/Haruki_Murakami

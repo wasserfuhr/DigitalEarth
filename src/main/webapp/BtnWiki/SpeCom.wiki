@@ -1,0 +1,3 @@
+ * IsA: EventSeries
+
+http://www.specom.nw.ru/

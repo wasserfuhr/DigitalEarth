@@ -1,0 +1,4 @@
+ * IsA: ArchiTect
+ * BornIn: 1789
+ * BirthDay: 11-03
+ * DeWikiPedia: http://de.wikipedia.org/wiki/Joseph_Th%C3%BCrmer

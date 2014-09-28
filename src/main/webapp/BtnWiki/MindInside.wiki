@@ -1,0 +1,47 @@
+To build our FriendlyAi at SingularAcademy, we will not start with an abstract DomainModel, but with the actual data we have at hand and then PrepareToEvolve step by step into more advanced models.
+
+InSide many BigTableNomic based WebApp's you will see a "MindInside" notice. This MiNd refers to a very first ReLease
+of a DigitalTwin of RainerWasserfuhr and other players of SingularVille.
+The initial data consists of "mind-20110104.zip" (SHA1 CheckSum:9bf345b2d0d7e42c547e6aaa25376c545fd00e65) that is contained in the folder "WEB-INF/lib" of each BigTableNomic WebApp. It contains 13380 text files (".txt") that were compiled by RainerWasserfuhr between 2006 and 2011.
+The oldest TimeStamp of a file is 2007-05-05 and newest 2011-01-04.
+
+Each WikiPage IsA MindPattern that was known and used at least once in the MiNd of RainerWasserfuhr between 2007 and 2011.
+
+You can access it with this example code:
+{{{
+(let [
+  wikiPageName "AlanTuring"
+  is (.getResourceAsStream (RT/baseLoader)
+   (str "mind/" wikiPageName ".txt"))
+  lr
+   (java.io.LineNumberReader.
+    (java.io.InputStreamReader. is "UTF-8"))
+  lines (line-seq lr)]
+  ...)
+}}}
+
+ForExample, the WikiPage "AlanTuring" has this PageContent:
+{{{
+* IsA: SingularityMind
+* InterWiki: [DeWikiPedia:Alan_Turing] [WikiPedia:Alan_Turing]
+* MindQuote: ""At the end of the century, the use of words and general educated opinion will have changed so much that one will be able to speak of „machines thinking“ without expecting to be ContraDict'ed." - 1950
+* BornIn: 1912
+* BirthDay: 06-23
+* DiedIn: 1954
+* DbLp: http://dblp.uni-trier.de/rec/pid/t/AlanMTuring
+* MindFaves: TuringMaschine
+* DoctoralAdvisor: AlonzoChurch
+}}}
+
+Explanations:
+ * A SingularityMind IsA PerSon that is demonstrably familiar and sympathizing with the ConCept of TheSingularity.
+ * InterWiki points to one or more WikiPage's in other WiKi's.
+ * DbLp is a huge DataBase of PerSon's, articles and conferences in ComputerScience and related fields
+
+BrainStorm:
+ * MindMachine ThoughtsPerSecond IntEl AmDe
+ * MindPattern HasA WikiName.
+ * A MiNd with a SelfModel is embedded in a UniVerse.
+ * SelfModel HasA DigitalTwin.
+ * ConVerg'ence of MindThought and WikiName.
+ * later: functional terms, e.g. the "waiter in madrid who looked like MrBean"

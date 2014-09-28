@@ -1,0 +1,4 @@
+ * IsA: PowerWoman
+ * BornIn: 1979
+ * BirthDay: 09-08
+ * InterWiki: [WikiPedia:Pink_(singer)]

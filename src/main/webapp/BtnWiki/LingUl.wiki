@@ -1,0 +1,11 @@
+ * IsA: UnLimited
+
+the LinguWerk holding
+
+ShareHolder:
+||330||KaMat||
+||330||RiPet||
+||330||HuHa||
+||9||PaLa||
+||1||RaLi?||
+||1||RaWa||

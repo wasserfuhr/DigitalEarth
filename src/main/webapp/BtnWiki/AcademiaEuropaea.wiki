@@ -1,0 +1,38 @@
+ * HomePage: http://www.ae-info.org/
+ * MindOne: ArnoldBurgen
+
+https://en.wikipedia.org/wiki/Academia_Europaea
+
+HermannMaurer EtAl
+
+JspWiki!!
+
+A WikiAcademy for EurOpa?
+
+SeeAlso: SingularAcademy
+
+MitWirkende:
+KarlOttoApel
+Paul J. Crutzen
+Gerhard Ertl
+Michail Gromow
+Harald zur Hausen
+László Lovász
+Hartmut Michel
+ChristianeNuessleinVolhard
+NiklausWirth
+Kurt Wüthrich
+
+|| *AeId*|| *MindWiki*   || *JspWiki*||
+||   1||ArnoldBurgen     ||http://www.ae-info.org/ae/User/Burgen_Arnold||
+||  77||RudolfMoessbauer ||http://www.ae-info.org/ae/User/M%C3%B6ssbauer_Rudolf||
+|| 284||KlausVonKlitzing ||http://www.ae-info.org/ae/User/Klitzing_Klaus||
+|| 304||ManfredEigen     ||http://www.ae-info.org/ae/User/Eigen_Manfred||
+|| 311||CarlAdamPetri    ||http://www.ae-info.org/ae/User/Petri_Carl_Adam||
+|| 612||JuergenHabermas  ||http://www.ae-info.org/ae/User/Habermas_J%C3%BCrgen||
+|| 914||SeltenReinhard   ||http://www.ae-info.org/ae/User/Selten_Reinhard||
+||1345||AnthonyGiddens   ||http://www.ae-info.org/ae/User/Giddens_Anthony||
+||1544||ManuelCastells   ||http://www.ae-info.org/ae/User/Castells_Manuel||
+||1673||NoamChomsky      ||http://www.ae-info.org/ae/User/Chomsky_Noam||
+||1807||JamesWatson      ||http://www.ae-info.org/ae/User/Watson_James||
+||2003||HermannMaurer    ||http://www.ae-info.org/ae/User/Maurer_Hermann||

@@ -1,0 +1,4 @@
+ * IsA: ProFessor
+ * BirthDay: 07-07
+ * WikiPedia: https://en.wikipedia.org/wiki/William_Feller
+ * MindSkill: ProBab

@@ -1,0 +1,15 @@
+https://en.wikipedia.org/wiki/Traceroute
+
+
+  1     2 ms     1 ms    <1 ms  static.209.192.4.46.clients.your-server.de [46.4.192.209] 
+  2    <1 ms    <1 ms    <1 ms  hos-tr1.juniper1.rz13.hetzner.de [213.239.224.1] 
+  3    10 ms     9 ms     9 ms  hos-bb1.juniper4.ffm.hetzner.de [213.239.240.230] 
+  4    19 ms    19 ms    19 ms  tengigabitethernet9-4.ar3.fra3.gblx.net [207.138.95.9] 
+  5    19 ms    19 ms    19 ms  po2-20G.ar4.FRA3.gblx.net [67.16.133.34] 
+  6     5 ms     5 ms     5 ms  de-fra01a-ri2-xe-4-3-0.aorta.net [213.46.179.117] 
+  7    19 ms    20 ms    19 ms  84.116.133.113 
+  8    19 ms    19 ms    19 ms  84.116.136.105 
+  9    20 ms    19 ms    19 ms  at-vie-xion-pe02-vl-2051.upc.at [84.116.229.2] 
+ 10    19 ms    19 ms    64 ms  at-vie-xion-pe03-vl-2054.upc.at [84.116.228.202] 
+ 11    19 ms    19 ms    19 ms  lac3-viech3.inode.at [62.99.170.18] 
+ 12    51 ms    51 ms    51 ms  85-127-86-193.dynamic.xdsl-line.inode.at [85.127.86.193]

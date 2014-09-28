@@ -1,0 +1,5 @@
+SemanticSixSigma uses a TimeAxis that overcomes the LeapSecond errors of UniversalCoordinatedTime compared to AtomicTime.
+
+SourceCode: MindTime
+
+BrainStorm: FabTime TaiInstant ModifiedJulianDate UnixTime ThreeTen

@@ -1,0 +1,7 @@
+ * IsA: PerSon
+ * HasSex: ♂
+ * BornIn: 1948
+ * BirthDay: 03-12
+ * InterWiki: [WikiPedia:Ozzy_Osbourne]
+
+BlackSabbath

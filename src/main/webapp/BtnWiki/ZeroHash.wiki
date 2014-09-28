@@ -1,0 +1,10 @@
+smallest known ShaOne: 
+
+000d6415bc141e9bd5372ff96838f3d4a22ce0cd 20 tmp/btn/wiki/WikiMagie.wiki
+001c2c22925f84903894b9e509666386c2b7ff64 38 tmp/btn/wiki/PsyChe.wiki
+001c79ab5fecc93aa4b3933a326606905ffb71e9 405482 DiebesGott\\DCIM\\100LGDSC\\CAM00153.jpg
+0033652399cffa8d47592cd147ccef176c75b31a 5 tmp/btn/wiki/WeMo5.wiki
+00bfc00a6bdab5311cbc0de24d7f516e369d81a1 14151680 CastId:XKiH
+00f4cb9e52707bd1d298f95e73e1e4293f9eddf6 10710769 CastId:0ZD
+
+BitCoin ProofOfWork

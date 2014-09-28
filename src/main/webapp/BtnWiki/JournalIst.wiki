@@ -1,0 +1,2 @@
+ * KindOf: PerSon
+ * WikiPedia: https://en.wikipedia.org/wiki/Journalist

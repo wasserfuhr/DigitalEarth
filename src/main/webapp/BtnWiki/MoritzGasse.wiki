@@ -1,0 +1,3 @@
+ * IsA: MindStreet
+ * OpenStreetMap: https://www.openstreetmap.org/way/4621442
+ * ConNect: NeuMarkt

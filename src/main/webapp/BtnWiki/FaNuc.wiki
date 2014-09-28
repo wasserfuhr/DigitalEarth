@@ -1,0 +1,6 @@
+ * IsA: EnterPrise
+ * EtymoLogia: Factory Automatic Numerical ContRol
+ * IsIn: JP3802400006
+ * WikiPedia: https://de.wikipedia.org/wiki/FANUC
+
+via https://www.facebook.com/RainerWasserfuhr/posts/301333179963793

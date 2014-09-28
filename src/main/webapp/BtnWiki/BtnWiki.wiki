@@ -1,0 +1,23 @@
+The BigTableNomic WiKi, hosted on GoogleProjectHosting.
+
+The BtnWiki is an interim SemanticWiki for the transition of the MindWiki from EcZwo to GoogleAppEngine.
+
+It has BtnWikiUser.
+
+Important RuleSet, please:
+ * when you create a new WikiPage, only use a CamelCase PageName
+ * if possible, please write in EngLish
+ * if the same PageName already exists in the MindWiki, add the DeepLink at the first line of the PageContent (example: SiggiBecker)
+ * don't use a PageLabel or a PageSummary
+ * DontRepeatYourself
+ * install the SingularBooster to read corresponding MindWiki WikiPage's
+ * use MindProps
+ * DeclensionIsDead
+ * NeverDelete
+ * CommaIsDead
+
+InterWiki: https://code.google.com/p/bigtablenomic/wiki/%s
+
+RecentChanges from SubVersion: svn --xml -v log tmp/btn/wiki|more
+
+#SuperWiki

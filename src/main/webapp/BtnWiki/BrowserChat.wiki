@@ -1,0 +1,6 @@
+Chatting with RealTime WikiPage s is a good idea...
+
+FeatureRequest:
+ * FriPa: a RecentChanges Link on each page should be available
+
+UnGame?

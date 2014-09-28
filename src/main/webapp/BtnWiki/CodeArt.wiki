@@ -1,0 +1,60 @@
+Hallo künftiger designierter ChiefTechnologyOfficer
+von MindBroker.
+
+Ich habe ein ConCept für die weitere Entwicklung der PieschenBank ausgearbeitet. Technisch basiert alles auf GoogleAppEngine.
+
+Auf der untersten Ebene handelt es sich dort um eine herkömmliche WebApp 
+mit vertrauten Bausteinen wie "WEB-INF", "web.xml" und Java-libs.
+Gebaut wird die WebApp mit ApacheMaven.
+
+Der grösste Anteil der WebApp wird aber direkt in die AppEngine gesteckt, und zwar als CloJure-SourceCode. Deshalb hat die WebApp
+im Wesentlichen auch nur eine minimalistische "index.jsp", die nichts 
+anderes macht, als einen RootHandler aus der BigTable auszulesen, der so aussieht:
+{{{
+(fn [request response] ...)
+}}}
+
+Wir setzen direkt auf der Low-Level-DataStore-API auf:
+Der DataStore besteht aus Entity-Tabellen.
+
+Eines der fundamentalen Prinzipien von BigTableNomic ist Transparenz.
+Idealerweise sollten Änderungen "monoton wachsend" sein:
+Alle bisherigen Datenzustände sollten recover-fähig sein.
+Leider gibt das AppEngine-SandBox-Konzept dies nicht ganz her.
+
+Das hochladen steht jedermann offen, wird dann von einem Commiter reviewed.
+Das Ausführen (eval) bleibt bis dahin dem Commiter vorbehalten.
+
+Zum Schutz führen wir eine WhiteList:
+{{{
+ChristianLangreiter DanielBruessler DanielPoodratchi DirkRiehle MartinGaedke MartinRoell MatthiasJugel StephanSchmidt
+}}}
+
+Einträge in dieser Liste stehen im MindWiki und haben dort eine FbId hinterlegt.
+
+Dabei muss sichergestellt werden, dass zB durch Code-Injection keine Löschungen an den Revisionsdaten erfolgt.
+
+Relativ sicher gegen solche Angriffe wären wir, da der gesamte DataStore-Dump regelmässig zum DownLoad bereitgestellt wird.
+
+Based on the BigTableNomic SourceCode and principles, we are going to build up
+  * NooPolis: an open distributed variant of the SocialGraph
+  * PieschenBank: an open and TransParent PayMent system as the basis for more ComPlex economic institutions like a StockExchange and a PredictionMarket
+
+As identities we use:
+  * FaceBook
+  * GoogleAccount
+  * OpenId
+  * Twitter
+  
+But these are complemented by a MindId, a highly reliable additional identification mechanism based on a WebOfTrust.
+
+=Creating your own WebApp=
+You can either create your own WebApp
+  * from Source (by check out from SubVersion) or
+  * directly download a packaged WebArchive (war)
+The WebArchive contains the required jars.
+The only thing you have to change is the name of your WebApp.
+
+Enter it as "application" to WEB-INF/app-engine.xml
+
+_GeSpuer für ProGram'me, die sich ReCur'siv entfalten_

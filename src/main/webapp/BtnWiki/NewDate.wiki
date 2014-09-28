@@ -1,0 +1,47 @@
+rawa@149-190-47-212:~/DigitalEarth$ git push
+Username:
+Password:
+Counting objects: 6, done.
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 483 bytes, done.
+Total 4 (delta 1), reused 0 (delta 0)
+To https://github.com/wasserfuhr/DigitalEarth
+   b69c4ec..bd1ada5  master -> master
+rawa@149-190-47-212:~/DigitalEarth$ sha
+sha1sum    sha224sum  sha256sum  sha384sum  sha512sum  shasum
+rawa@149-190-47-212:~/DigitalEarth$ sha1sum SemperBase/init.sql
+579a96810d2658218c28fc4a47e2fe945d8c7065  SemperBase/init.sql
+rawa@149-190-47-212:~/DigitalEarth$
+rawa@149-190-47-212:~/DigitalEarth$ date +%s
+1383521554
+rawa@149-190-47-212:~/DigitalEarth$ date +%s
+1383521563
+rawa@149-190-47-212:~/DigitalEarth$ date +%s
+1383522063
+rawa@149-190-47-212:~/DigitalEarth$ sha1sum SemperBase/init.sql
+579a96810d2658218c28fc4a47e2fe945d8c7065  SemperBase/init.sql
+rawa@149-190-47-212:~/DigitalEarth$ date +%s
+1383524326
+rawa@149-190-47-212:~/DigitalEarth$ date +%s
+1383525729
+rawa@149-190-47-212:~/DigitalEarth$ #LeLa#LeLa
+rawa@149-190-47-212:~/DigitalEarth$ date +%s
+1383526281
+rawa@149-190-47-212:~/DigitalEarth$ date +%s
+1383527864
+rawa@149-190-47-212:~/DigitalEarth$ date +%s
+1383528438
+rawa@149-190-47-212:~/DigitalEarth$ #LiPs
+rawa@149-190-47-212:~/DigitalEarth$ #LiPs
+rawa@149-190-47-212:~/DigitalEarth$ date +%s
+1383528602
+rawa@149-190-47-212:~/DigitalEarth$ date +%s
+1383529787
+rawa@149-190-47-212:~/DigitalEarth$ #TheLud?
+rawa@149-190-47-212:~/DigitalEarth$ date +%s
+1383529798
+rawa@149-190-47-212:~/DigitalEarth$
+rawa@149-190-47-212:~/DigitalEarth$ #RuheZustand!
+rawa@149-190-47-212:~/DigitalEarth$ date +%s
+1383529826
+rawa@149-190-47-212:~/DigitalEarth$

@@ -1,0 +1,3 @@
+ * IsA: PerSon
+ * BirthDay: 03-10
+ * WikiPedia: https://en.wikipedia.org/wiki/Karl_Wilhelm_Friedrich_Schlegel

@@ -1,0 +1,2 @@
+ * IsA: SurveyPoint
+ * OpenStreetMap: https://www.openstreetmap.org/browse/node/1619854441

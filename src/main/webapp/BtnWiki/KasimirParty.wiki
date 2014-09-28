@@ -1,0 +1,33 @@
+=ExPose=
+Die KasimirParty ist ein spielerischer VerSuch,
+das bekannte SixDegreesOfSeparation-Experiment des amerikanischen Sozialpsychologen StanleyMilgram als amuesantes PartyKonzept umzusetzen.
+
+Zentrale Frage des Abends sind:
+ * *Wer hat wen schon mal gekuesst?*
+ * wie gross ist die KussDistanz unter den Gaesten, und 
+ * wer oder was um Himmels willen ist "Kasimir"?
+
+Als zentrale Versuchsperson tritt der
+"MannOhneGeheimnisse" auf, ueber den auch ein Artikel in BrandEins interessierten Gaesten zur Lektuere angeboten wird.
+
+Gaeste bekommen beim Einlass eine "KasimirCard", auf welcher der 
+RealName oder ein verkuerzter CamelCase-DeckName angegeben wird.
+
+Ziel der KasimirParty ist, fuer moeglichst viele Gaeste den kuerzest moeglichen KasimirPfad (Also: "MannOhneGeheimnisse hat A gekuesst", "A hat B gekuesst"... "X hat Y gekuesst" und "Y hat Gast gekuesst") und dessen Laenge, die KasimirNummer zu ermitteln.
+
+Neben dem MannOhneGeheimnisse werden 2-4 "KasimirFreunde" anwesend sein,
+also Menschen, die vom MannOhneGeheimnisse schon mal gekuesst wurden.
+
+Beim Verlassen der KasimirParty steckt jeder Gast dann seine KasimirCard auf die grosse KasimirWall, die dann natuerlich abgelichtet und zeitnah auf FaceBook zum Taggen freigegeben wird.
+
+EinTritt:
+ * KasimirNummer 0: Organisator
+ * KasimirNummer 1: bekommt 1024 KayGroschen
+ * KasimirNummer 2: bekommt 512 KayGroschen 
+ * KasimirNummer 3: zahlt 4 EuRo
+ * KasimirNummer 4: zahlt 6 EuRo
+ * KasimirNummer 5+: zahlt 8 EuRo
+
+BrainStorm: JohnHolger OliverTschentscher PeterLehmann SvenEchtermeyer
+
+FbPost: https://www.facebook.com/RainerWasserfuhr/posts/10150412082244916

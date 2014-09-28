@@ -1,0 +1,2 @@
+ * HomePage: http://www.mbc-dresden.de/
+ * NamedAfter: MaxBergmann

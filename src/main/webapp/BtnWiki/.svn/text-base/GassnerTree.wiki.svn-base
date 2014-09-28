@@ -1,0 +1,10 @@
+http://dbpedia.org/sparql
+
+select distinct ?parent count(distinct ?child) as ?ct where {
+ ?parent rdf:type foaf:Person.
+ ?parent dbpprop:children ?child.
+} order by desc(?ct) LIMIT 100
+
+ ?child rdf:type yago:LivingPeople
+
+#WorldFamilyTree

@@ -1,0 +1,4 @@
+ * TriBy: ChSc
+ * IsA: PerSon
+
+Attila_Hildmann

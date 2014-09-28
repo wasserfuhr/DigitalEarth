@@ -1,0 +1,4 @@
+ * IsA: PowerWoman
+ * BornIn: 1981
+ * BirthDay: 09-26
+ * InterWiki: [WikiPedia:Collien_Ulmen-Fernandes]

@@ -1,0 +1,6 @@
+ * IsA: PerSon
+ * WikiPedia: https://en.wikipedia.org/wiki/Richard_Lugner
+
+StadtWien OpernBall
+
+RaWa HasSeen?

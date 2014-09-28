@@ -1,0 +1,5 @@
+ * IsA: HochSchule
+ * WikiPedia: https://en.wikipedia.org/wiki/Masdar_Institute_of_Science_and_Technology
+ * MindPlace: MasdarCity
+
+http://www.thenational.ae/news/uae-news/technology/moores-law-is-breaking-down-maybe-the-problem-is-silicon

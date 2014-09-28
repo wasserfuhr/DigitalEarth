@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * WorkFor: GloFo
+
+ * XingLe: ?

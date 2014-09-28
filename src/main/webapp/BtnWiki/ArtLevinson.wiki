@@ -1,0 +1,3 @@
+ * IsA: EntrePreneur TopManager
+ * BirthDay: 03-31
+ * WikiPedia: https://en.wikipedia.org/wiki/Arthur_D._Levinson

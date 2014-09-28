@@ -1,0 +1,3 @@
+ * IsA: MindPlace
+ * WikiPedia: https://en.wikipedia.org/wiki/Bingham_Canyon_Mine 
+ * PartOf: JuTah

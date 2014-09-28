@@ -1,0 +1,16 @@
+ * WikiPedia: https://en.wikipedia.org/wiki/Verlag
+
+||Title                        ||Lang||RoleModel||LeadAuthor||
+||NooSphere                    ||de||DerTurm||RaWa||
+||AiBook                       ||en||AiMa||RaWa||
+||TraumBetriebsWirtschaftsLehre||de|| || ||
+||DrMallard                    ||de||HarryPotter||
+||CloudProgrammersGuide        ||en||PaIp|| ||
+||LeanThinkersGuide            ||en||?||RaLi||
+||SuperBachelor                ||de|| || ||
+
+PieschenMediaGroup
+
+TrueMan sich viele Monate lang ImmerWieder für in die SlUb begeben.
+hunderte von eifrigen StudiOs'i, erhaschte aus ihren Gesprächen.
+WinterSemester titelte die TuDresden auf ihrer mit "8996" StudiOs'a.

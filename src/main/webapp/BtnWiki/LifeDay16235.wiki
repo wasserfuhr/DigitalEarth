@@ -1,0 +1,12 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16236 « 2013-11-07 » LifeDay16234
+ * HappyBirthday: KarlGamper OliverWittenburg StefanNitzsche 
+ * OneMonthAgo: LifeDay16205
+ * OneYearAgo: LifeDay15870
+ * RevNum: r196xx
+ * HaSe: LadyBenz RouteElfe:2629
+ * HaTa: LadyKaestner SaZi AnGo
+ * BoPa: TrWo:1149 BuenauStrasse TrWo LoebiAldi:1644 LoeSt TrWo OneSingularSquare:1812 TrWo:1841 H:BuSt LinieSechs:DvbTram2506:2613 AlbertPlatz TrWo
+ * ZichtelIdee: UrApp:2447
+ * CuPr: RainerTest SemperBase
+ * FuffiBank: Z76377552516

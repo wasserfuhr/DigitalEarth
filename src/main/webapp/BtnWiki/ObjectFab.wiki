@@ -1,0 +1,3 @@
+ * IsA: EnterPrise
+ * HomePage: http://www.objectfab.de/
+ * MindOne: SteffenGemkow

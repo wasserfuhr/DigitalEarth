@@ -1,0 +1,1561 @@
+http://lifeboat.com/ex/boards
+
+||chris.abani||Chris Abani, Ph.D.||
+||waleed.abdulla||Waleed Abdulla, M.Sc.||
+||keith.abney||Keith Abney, M.A.||
+||carol.abrahamson||Carol Abrahamson, MBA||
+||michael.b.abramowicz||Michael B. Abramowicz, J.D.||
+||nancy.ellen.abrams||Nancy Ellen Abrams, J.D.||
+||frank.adamek||Frank Adamek||
+||jimmy.adams||Jimmy Adams||
+||bipin.b.agravat||Bipin B. Agravat, M.A.||
+||anthony.aguirre||Anthony Aguirre, Ph.D.||
+||ehud.ahissar||Ehud Ahissar, Ph.D.||
+||ishfaq.ahmad||Ishfaq Ahmad, Ph.D., FIEEE||
+||anna.akbari||Anna Akbari, Ph.D.||
+||kemal.akman||Kemal Akman||
+||igor.v.alabugin||Igor V. Alabugin, Ph.D.||
+||miguel.alcubierre||Miguel Alcubierre, Ph.D.||
+||zeresenay.zeray.alemseged||Zeresenay "Zeray" Alemseged, Ph.D.||
+||colin.allen||Colin Allen, Ph.D.||
+||abigail.alling||Abigail Alling, M.S.||
+||damian.gregory.allis||Damian Gregory Allis, Ph.D.||
+||redwan.m.alqasemi||Redwan M. Alqasemi, Ph.D.||
+||gil.alterovitz||Gil Alterovitz, Ph.D.||
+||joaquin.alvira.enriquez||Joaqu&iacute;n Alvira Enr&iacute;quez||
+||jose.i.alvelo||Jose I. Alvelo, M.S.||
+||eyal.amir||Eyal Amir, Ph.D.||
+||ronen.amit||Ronen Amit, MBA||
+||deborah.j.anderson||Deborah J. Anderson, Ph.D.||
+||janna.quitney.anderson||Janna Quitney Anderson, M.A.||
+||michael.l.anderson||Michael L. Anderson, Ph.D.||
+||monica.anderson||Monica Anderson, MSc||
+||philip.anderson||Philip Anderson||
+||athena.andreadis||Athena Andreadis, Ph.D.||
+||trond.andresen||Trond Andresen, MSc||
+||arlan.andrews.sr||Arlan Andrews, Sr., DSc, PE||
+||zane.b.andrews||Zane B. Andrews, Ph.D.||
+||amara.d.angelica||Amara D. Angelica||
+||michael.anissimov||Michael Anissimov||
+||michael.archer||Michael Archer, BA(mcl), PhD, AM, FAA, FRSN, FRZSNSW, FACE, FWAAS||
+||itamar.arel||Itamar Arel, Ph.D., M.B.A.||
+||bruce.aronow||Bruce Aronow, Ph.D.||
+||igor.s.aronson||Igor S. Aronson, Ph.D., FAPS||
+||sonia.arrison||Sonia Arrison, M.A.||
+||gordon.arthur||Gordon Arthur, Ph.D.||
+||catherine.asaro||Catherine Asaro, Ph.D.||
+||peter.mario.asaro||Peter Mario Asaro, Ph.D.||
+||david.j.asher||David J. Asher, D.Phil.||
+||scott.atran||Scott Atran, Ph.D.||
+||adriano.v.autino||Adriano V. Autino||
+||joseph.ayers||Joseph Ayers, Ph.D.||
+||sami.ayyorgun||Sami Ayyorgun, Ph.D.||
+||carlos.r.b.azevedo||Carlos R. B. Azevedo, MSc||
+||tipu.z.aziz||Tipu Z. Aziz, BSc, MD, MBBS, FRCS||
+||yasemin.b||Yasemin B., MSc||
+||bernard.j.baars||Bernard J. Baars, Ph.D.||
+||james.bach||James Bach||
+||joscha.bach||Joscha Bach, Ph.D.||
+||tom.baehr-jones||Tom Baehr-Jones, Ph.D.||
+||lawrence.a.baines||Lawrence A. Baines, Ph.D.||
+||leo.baldwin||Leo Baldwin, B.Sc.||
+||rene.balle||Ren&eacute; Balle, MBA||
+||lajos.lou.balogh||Lajos "Lou" Balogh, Ph.D.||
+||aaron.balogun||Aaron Balogun, M.A.||
+||matt.bamberger||Matt Bamberger||
+||anirban.bandyopadhyay||Anirban Bandyopadhyay, Ph.D.||
+||marcus.barber||Marcus Barber, MSc||
+||yechezkel.chezy.barenholz||Yechezkel "Chezy" Barenholz, Ph.D.||
+||jamie.l.barger||Jamie L. Barger, Ph.D.||
+||john.perry.barlow||John Perry Barlow||
+||john.a.barnden||John A. Barnden, Ph.D.||
+||samuel.h.barondes||Samuel H. Barondes, M.D.||
+||matt.barrie||Matt Barrie, BE (Hons I), BSc (Hons I), GDipAppFin, MAppFin, MSEE (Stanford), GAICD||
+||andrzej.bartke||Andrzej Bartke, Ph.D.||
+||lale.basarir||Lale Basarir, MSc||
+||jeffrey.bates||Jeffrey Bates||
+||jason.batt||Jason Batt||
+||serafim.batzoglou||Serafim Batzoglou, Ph.D.||
+||keith.a.bauer||Keith A. Bauer, M.S.W., Ph.D.||
+||eric.b.baum||Eric B. Baum, Ph.D.||
+||seth.d.baum||Seth D. Baum, M.S.||
+||robin.baumgarten||Robin Baumgarten, MSc||
+||marco.baumgartl||Marco Baumgartl, Ph.D.||
+||nicholas.c.l.beale||Nicholas C. L. Beale, MA (Cantab), FRSA||
+||elizabeth.bear||Elizabeth Bear||
+||greg.bear||Greg Bear||
+||slade.beard||Slade Beard||
+||mario.beauregard||Mario Beauregard, Ph.D.||
+||andrew.w.beckwith||Andrew W. Beckwith, Ph.D.||
+||ed.begley.jr||Ed Begley, Jr.||
+||marios.g.belibassakis||Marios G. Belibassakis, M.S.||
+||danny.belkin||Danny Belkin, B.Sc., Ph.D., MBA||
+||sherry.e.bell||Sherry E. Bell, Ph.D.||
+||tom.w.bell||Tom W. Bell, J.D.||
+||haym.benaroya||Haym Benaroya, Ph.D., FASME, FBIS||
+||walter.bender||Walter Bender, M.S.||
+||gregory.benford||Gregory Benford, Ph.D.||
+||simon.benita||Simon Benita, Ph.D.||
+||james.c.bennett||James C. Bennett||
+||james.benoit||James Benoit, M.A., B.Sc. (Hons)||
+||peter.j.bentley||Peter J. Bentley, Ph.D.||
+||daniel.j.berleant||Daniel J. Berleant, Ph.D.||
+||carl.r.berman.jr||Carl R. Berman, Jr., Ph.D.||
+||marcos.bernat||Marcos Bernat, MBA||
+||david.berreby||David Berreby||
+||kevin.m.berry||Kevin M. Berry, MS, PMP||
+||florent.berthet||Florent Berthet, M.A.||
+||david.m.berube||David M. Berube, Ph.D.||
+||ryan.bethencourt||Ryan Bethencourt, MBE||
+||margrit.betke||Margrit Betke, Ph.D.||
+||craig.bettles||Craig Bettles, M.A.||
+||joydeep.joy.bhattacharya||Joydeep "Joy" Bhattacharya, Ph.D.||
+||mark.h.bickhard||Mark H. Bickhard, Ph.D.||
+||santiago.bilinkis||Santiago Bilinkis||
+||robert.r.birge||Robert R. Birge, Ph.D.||
+||peter.c.bishop||Peter C. Bishop, Ph.D., APF||
+||don.v.black||Don V. Black, Ph.D.||
+||russell.blackford||Russell Blackford, Ph.D., Dip.Ed, LLB (Hons)||
+||dave.blakely||Dave Blakely, M.S.||
+||colin.blakemore||Colin Blakemore, Ph.D., FMedSci, FRS||
+||james.blodgett||James Blodgett, M.A., M.B.A., M.S.||
+||howard.bloom||Howard Bloom||
+||paul.bloom||Paul Bloom, Ph.D.||
+||jason.bobe||Jason Bobe, B.A., MSIS||
+||alexander.bobrovnikov||Alexander Bobrovnikov||
+||collin.r.bockman||Collin R. Bockman, J.D.||
+||margaret.a.boden||Margaret A. Boden, OBE, ScD, PhD, 2 Hon DScs, 1 Hon DUniv, FBA, MAE, FAAAI||
+||alan.alon.bodner||Alan (Alon) Bodner, M.S.||
+||john.bohannon||John Bohannon, Ph.D.||
+||richard.glen.boire||Richard Glen Boire, J.D.||
+||vicente.boix||Vicente Boix||
+||david.bolinsky||David Bolinsky||
+||james.bonaiuto||James Bonaiuto, Ph.D.||
+||antonello.bonci||Antonello Bonci, M.D.||
+||jeff.bone||Jeff Bone||
+||giampiero.bonfiglio||Giampiero Bonfiglio, MSc||
+||scott.borg||Scott Borg||
+||lera.boroditsky||Lera Boroditsky, Ph.D.||
+||robert.c.bourge||Robert C. Bourge, M.D.||
+||ben.bova||Ben Bova, Ph.D., FBIS, FAAAS||
+||phil.bowermaster||Phil Bowermaster, MSc.||
+||edward.s.boyden||Edward S. Boyden, Ph.D.||
+||michelle.s.bradbury||Michelle S. Bradbury, M.D., Ph.D.||
+||jean-claude.bradley||Jean-Claude Bradley, Ph.D.||
+||sheryl.brahnam||Sheryl Brahnam, Ph.D.||
+||marshall.brain||Marshall Brain, M.S.||
+||j.andrew.braswell||J. Andrew Braswell||
+||robert.v.brazell||Robert V. Brazell||
+||michael.breazeale||Michael Breazeale, CFA||
+||pablo.brenner||Pablo Brenner||
+||roger.brent||Roger Brent, Ph.D.||
+||david.brin||David Brin, Ph.D.||
+||jon.britton||Jon Britton||
+||jamie.bronstein||Jamie Bronstein, Ph.D.||
+||emma.brooke||Emma Brooke||
+||andrew.zoz.brooks||Andrew "Zoz" Brooks, Ph.D.||
+||mikita.brottman||Mikita Brottman, Ph.D.||
+||geoff.brown||Geoff Brown||
+||paul.brown||Paul Brown, Ph.D.||
+||scott.v.brown||Scott V. Brown||
+||matt.browne||Matt Browne, M.S.||
+||philippe.brunet||Philippe Brunet, Ph.D.||
+||joanna.j.bryson||Joanna J. Bryson, Ph.D.||
+||sven.bulterijs||Sven Bulterijs||
+||scott.c.bunce||Scott C. Bunce, Ph.D.||
+||mark.bunger||Mark Bunger||
+||steven.g.burgess||Steven G. Burgess||
+||carolyn.l.burke||Carolyn L. Burke, MA, CISSP, CISM||
+||william.e.burrows||William E. Burrows, M.A.||
+||renata.g.bushko||Renata G. Bushko, M.S.||
+||dennis.m.bushnell||Dennis M. Bushnell, M.S., FASME, FAIAA, FRAS||
+||gyorgy.buzsaki||Gy&ouml;rgy Buzs&aacute;ki, M.D., Ph.D., FAAAS||
+||erik.brynjolfsson||Erik Brynjolfsson, Ph.D.||
+||dongsheng.cai||Dongsheng Cai, M.D., Ph.D.||
+||josh.calder||Josh Calder, MA||
+||nigel.calder||Nigel Calder, FRAS, FAAAS||
+||stuart.r.g.calimport||Stuart R.G. Calimport, M.Sc., M.A.||
+||sylvain.calinon||Sylvain Calinon, Ph.D.||
+||gemma.a.calvert||Gemma A. Calvert, DPhil||
+||jean-luc.cambier||Jean-Luc Cambier, 2 PhDs, J Civ USAF AFMC AFRL/RZSA||
+||riccardo.campa||Riccardo Campa, Ph.D.||
+||angelo.cangelosi||Angelo Cangelosi, Ph.D.||
+||lincoln.cannon||Lincoln Cannon, MBA||
+||antonella.canonico||Antonella Canonico||
+||james.canton||James "Jayme" Canton, Ph.D.||
+||federico.capasso||Federico Capasso, Ph.D., Hon DEng||
+||arthur.l.caplan||Arthur L. Caplan, Ph.D., FAAAS||
+||liesl.capper||Liesl Capper, BA (Psychology), Grad Cert venture Development, GAICD||
+||frank.capri||Frank Capri||
+||pier.luigi.capucci||Pier Luigi Capucci||
+||curtis.d.carbonell||Curtis D. Carbonell, Ph.D.||
+||david.a.cardwell||David A. Cardwell, BSc, MA, PhD, FInstP, CPhys, FIET, CEng||
+||robert.carlson||Robert Carlson, Ph.D.||
+||david.l.carroll||David L. Carroll, Ph.D.||
+||rita.carter||Rita Carter||
+||brian.cartmell||Brian Cartmell||
+||david.casacuberta||David Casacuberta, Ph.D.||
+||manuel.f.casanova||Manuel F. Casanova, M.D.||
+||bernard.didier.f.casse||Bernard Didier F. Casse, Ph.D.||
+||justine.cassell||Justine Cassell, Ph.D.||
+||peter.cassidy||Peter Cassidy||
+||michael.cassutt||Michael Cassutt||
+||maria.catalina||Maria Catalina||
+||lawrence.catchpole||Lawrence Catchpole||
+||adriano.cavalcanti||Adriano Cavalcanti, Ph.D.||
+||ebrima.n.ceesay||Ebrima N. Ceesay, MS, Ph.D.||
+||alexandru.celac||Alexandru Celac||
+||jennifer.n.cha||Jennifer N. Cha, Ph.D.||
+||marco.chacin||Marco Chacin, Ph.D.||
+||dhaval.chadha||Dhaval Chadha||
+||charles.m.chafer||Charles M. Chafer||
+||dennis.chamberland||Dennis Chamberland, M.S.||
+||james.chartres||James Chartres, Ph.D.||
+||hamid.chbouki||Hamid Chbouki, Ph.D.||
+||antonio.chella||Antonio Chella, Ph.D.||
+||fanqing.frank.chen||Fanqing "Frank" Chen, Ph.D.||
+||huanyang.chen||Huanyang Chen, B.Sc., Ph.D.||
+||jingkuang.chen||Jingkuang Chen, Ph.D.||
+||gregory.s.chirikjian||Gregory S. Chirikjian, Ph.D.||
+||john.d.chisholm||John D. Chisholm, MS, MBA||
+||myung-haing.cho||Myung-Haing Cho, DVM, Ph.D.||
+||howie.m.choset||Howie M. Choset, Ph.D.||
+||brian.chow||Brian Chow, Ph.D.||
+||david.c.k.chu||David C.K. Chu, Ph.D.||
+||patricia.smith.churchland||Patricia Smith Churchland, D. Litt. (hon), B. Phil., LLD (hon)||
+||robert.b.cialdini||Robert B. Cialdini, Ph.D.||
+||neva.ciftcioglu||Neva Ciftcioglu, Ph.D.||
+||milan.m.cirkovic||Milan M. &#262;irkovi&#263;, Ph.D.||
+||robert.citron||Robert Citron||
+||andy.clark||Andy Clark, BA, DPhil, FRSE||
+||jason.vaughn.clark||Jason Vaughn Clark, Ph.D.||
+||alexander.taylor.clayton||Alexander Taylor Clayton||
+||philip.clayton||Philip Clayton, Ph.D.||
+||axel.cleeremans||Axel Cleeremans, Ph.D.||
+||carol.e.cleland||Carol E. Cleland, Ph.D.||
+||mark.j.clement||Mark J. Clement, Ph.D.||
+||jeff.clune||Jeff Clune, Ph.D.||
+||t.w.clyne||T. W. Clyne, Ph.D.||
+||joseph.f.coates||Joseph F. Coates, M.S., Hon D., FWAAS, FAAAS||
+||stephen.euin.cobb||Stephen Euin Cobb||
+||didier.coeurnelle||Didier Coeurnelle||
+||dan.cohen||Dan Cohen, M.S.||
+||brooks.cole||Brooks Cole||
+||juan.r.i.cole||Juan R. I. Cole, Ph.D.||
+||timothy.w.coleman||Timothy W. Coleman, MBA, MPIA||
+||allan.m.collins||Allan M. Collins, Ph.D., FAAAI||
+||jeffrey.h.collins||Jeffrey H. Collins, Ph.D.||
+||samuel.gerald.collins||Samuel Gerald Collins, Ph.D.||
+||thomas.colthurst||Thomas Colthurst, Ph.D.||
+||alastair.compston||Alastair Compston, MBBS, Ph.D., FRCP, FRSA, FMedSci, FIBiol||
+||hailin.cong||Hailin Cong, Ph.D.||
+||alberto.conti||Alberto Conti, Ph.D.||
+||craig.a.cooney||Craig A. Cooney, Ph.D.||
+||brenda.cooper||Brenda Cooper||
+||edwin.b.cooper.jr||Edwin B. Cooper, Jr., M.D., P.A.||
+||jose.luis.cordeiro||Jos&eacute; Luis Cordeiro, MBA, Ph.D.||
+||jay.cornell||Jay Cornell||
+||anne.corwin||Anne Corwin||
+||justin.corwin||Justin Corwin||
+||william.j.cosgrove||William J. Cosgrove||
+||moheb.costandi||Moheb Costandi||
+||sorin.dan.cotofana||Sorin Dan Cotofana, Ph.D.||
+||carlos.cotta||Carlos Cotta, Ph.D.||
+||iain.d.couzin||Iain D. Couzin, BSc, Ph.D., M.A.||
+||david.t.cramb||David T. Cramb, Ph.D.||
+||ian.a.crawford||Ian A. Crawford, Ph.D., FRAS||
+||molly.j.crockett||Molly J. Crockett||
+||lee.cronin||Lee Cronin, Ph.D.||
+||steve.cronin||Steve Cronin, MS||
+||william.crossman||William Crossman, M.A.||
+||robert.j.crowley||Robert J. Crowley||
+||antonei.b.csoka||Antonei B. Csoka, Ph.D.||
+||miron.cuperman||Miron Cuperman||
+||steven.a.curley||Steven A. Curley, M.D., F.A.C.S.||
+||stephen.j.curran||Stephen J. Curran, B.Sc. (Hons), M.Sc., Tekn.lic, Ph.D.||
+||irene.j.dabrowski||Irene J. Dabrowski, Ph.D.||
+||yasmin.dada-jones||Yasmin Dada-Jones, PhD, MPH, MSc||
+||liming.dai||Liming Dai, Ph.D.||
+||patrizia.anna.dalessio||Patrizia Anna d'Alessio, M.D., Ph.D.||
+||damon.damore||Damon D'Amore||
+||nikola.danaylov||Nikola Danaylov, M.A.||
+||henry.daniell||Henry Daniell, Ph.D., FAAAS||
+||thomas.e.daniels||Thomas E. Daniels, Ph.D.||
+||mehdi.m.dastani||Mehdi M. Dastani, Ph.D.||
+||kerstin.dautenhahn||Kerstin Dautenhahn, Ph.D.||
+||simone.davalos||Simone Davalos||
+||richard.m.david||Richard M. David||
+||ruth.sara.david||Ruth Sara David, B.A., 2 M.A.s||
+||sagie.davidovich||Sagie Davidovich||
+||aaron.davidson||Aaron Davidson, BSc, MSc||
+||simon.g.davies||Simon G. Davies, FBCS||
+||eric.w.davis||Eric W. Davis, Ph.D., FBIS||
+||andrew.j.davison||Andrew J. Davison, Ph.D.||
+||kenneth.a.dawson||Kenneth A. Dawson, BSc, MSc, D.Phil||
+||david.w.deamer||David W. Deamer, Ph.D.||
+||peter.de.blanc||Peter de Blanc||
+||mayel.de.borniol||Mayel de Borniol||
+||walter.de.brouwer||Walter De Brouwer, Ph.D.||
+||beatrice.de.gelder||Beatrice de Gelder, Ph.D.||
+||aubrey.de.grey||Aubrey de Grey, Ph.D., FGSA||
+||peter.de.jager||Peter de Jager||
+||christopher.de.la.torre||Christopher de la Torre||
+||ilia.delio||Ilia Delio, OSF, 2 Ph.D.s||
+||gabriella.de.lucia||Gabriella De Lucia, Ph.D.||
+||joao.pedro.de.magalhaes||Jo&atilde;o Pedro de Magalh&atilde;es, Ph.D.||
+||mike.demaio||Mike DeMaio||
+||daniel.c.dennett||Daniel C. Dennett, D.Phil.||
+||kathryn.denning||Kathryn Denning, Ph.D.||
+||murilo.saraiva.de.queiroz||Murilo Saraiva de Queiroz, M.Sc.||
+||bill.desmedt||Bill DeSmedt, MA, MS||
+||guy.deutscher||Guy Deutscher, Ph.D.||
+||christopher.dewdney||Christopher Dewdney||
+||aschwin.de.wolf||Aschwin de Wolf, M.S.||
+||david.dexter||David Dexter, BSc, Ph.D.||
+||anind.k.dey||Anind K. Dey, Ph.D.||
+||ali.dhinojwala||Ali Dhinojwala, Ph.D.||
+||braulio.medina.dias||Braulio Medina Dias||
+||eric.di.benedetto||Eric Di Benedetto, MBA||
+||william.t.dickens||William T. Dickens, Ph.D.||
+||bradford.c.dickerson||Bradford C. Dickerson, M.D., M.MSc (Clinical Investigation)||
+||michael.dickey||Michael Dickey||
+||connor.dickie||Connor Dickie||
+||edward.j.dillenschneider||Edward J. Dillenschneider, M.A.||
+||stefanie.dimmeler||Stefanie Dimmeler, Ph.D.||
+||ivan.k.dimov||Ivan K. Dimov, Ph.D.||
+||haris.dindo||Haris Dindo, Ph.D.||
+||rudolph.a.dirven||Rudolph A. Dirven||
+||gordana.dodig-crnkovic||Gordana Dodig-Crnkovic, 2 Ph.D.s||
+||meredith.doig||Meredith Doig, Ph.D.||
+||jack.dongarra||Jack Dongarra, Ph.D., FAAAS, FACM, FIEEE, FSIAM||
+||richard.dooling||Richard Dooling, J.D.||
+||marco.dorigo||Marco Dorigo, Ph.D.||
+||james.douma||James Douma||
+||richard.doyle||Richard Doyle, Ph.D.||
+||plamen.dragozov||Plamen Dragozov, MSc||
+||wlodzislaw.wlodek.duch||W&#322;odzis&#322;aw "Wlodek" Duch, Ph.D., DSc.||
+||sumeet.dua||Sumeet Dua, B.E., M.S., Ph.D.||
+||juerg.dual||J&uuml;rg Dual, Ph.D., FASME||
+||alberto.dubois||Alberto Dubois, MBA||
+||etienne.thillaye.du.boullay||Etienne Thillaye du Boullay, J.D., M.A.||
+||david.ewing.duncan||David Ewing Duncan||
+||jason.j.dunn||Jason J. Dunn, M.S.||
+||jean-pierre.dupuy||Jean-Pierre Dupuy, Ph.D.||
+||benjamin.duranske||Benjamin Duranske, J.D.||
+||george.p.dvorsky||George P. Dvorsky||
+||jeska.dzwigalski||Jeska Dzwigalski, M.A.||
+||nathan.n.eagle||Nathan N. Eagle, Ph.D.||
+||david.m.eagleman||David M. Eagleman, Ph.D.||
+||sylvia.a.earle||Sylvia A. Earle, Ph.D., 2 D.H.L.s, 10 D.Sc.s (h.c.), LL.D., FAAAS||
+||touradj.ebrahimi||Touradj Ebrahimi, Ph.D.||
+||peter.eckersley||Peter Eckersley||
+||amnon.h.eden||Amnon H. Eden, Ph.D.||
+||aaron.edsinger||Aaron Edsinger, Ph.D.||
+||mark.r.edwards||Mark R. Edwards, MBA, Ph.D.||
+||costas.efthimiou||Costas Efthimiou, Ph.D.||
+||garth.d.ehrlich||Garth D. Ehrlich, Ph.D.||
+||h.henrik.ehrsson||H. Henrik Ehrsson, M.D., Ph.D.||
+||adam.eivy||Adam Eivy||
+||paul.ekman||Paul Ekman, Ph.D., Hon LHD||
+||alexandra.a.elbakyan||Alexandra A. Elbakyan||
+||menachem.elimelech||Menachem Elimelech, Ph.D.||
+||eitan.eliram||Eitan Eliram, Ph.D.||
+||john.r.elliott||John R. Elliott, Ph.D.||
+||george.f.r.ellis||George F. R. Ellis, Ph.D., FRS||
+||martin.s.elvis||Martin S. Elvis, Ph.D.||
+||frederic.emam-zade||Frederic Emam-Zad&eacute;||
+||rob.enderle||Rob Enderle||
+||sylvia.engdahl||Sylvia Engdahl||
+||jan.b.engelmann||Jan B. Engelmann, Ph.D.||
+||roger.entner||Roger Entner, MBA||
+||maria.entraigues||Maria Entraigues||
+||jonathan.erez||Jonathan Erez||
+||bill.erickson||Bill Erickson||
+||aaron.ericsson||Aaron Ericsson, DVM||
+||edzard.ernst||Edzard Ernst, MD, PhD, FRCP, FRCPEd||
+||richard.rj.h.eskow||Richard "RJ" H. Eskow||
+||jalila.essaidi||Jalila Essa&iuml;di||
+||preston.w.pete.estep.iii|| Preston W. "Pete" Estep III, Ph.D.||
+||dylan.evans||Dylan Evans, Ph.D.||
+||james.p.evans||James P. Evans, M.D., Ph.D.||
+||woody.evans||Woody Evans||
+||stuart.eves||Stuart Eves, Ph.D., FRAS||
+||gadi.evron||Gadi Evron||
+||matvey.ezhov||Matvey Ezhov||
+||evan.m.h.faber||Evan M. H. Faber||
+||gregory.m.fahy||Gregory M. Fahy, Ph.D.||
+||alden.fairley||Alden Fairley||
+||william.faloon||William Faloon||
+||travis.falstad||Travis Falstad, MBA||
+||nicholas.x.fang||Nicholas X. Fang, Ph.D.||
+||robin.farmanfarmaian||Robin Farmanfarmaian||
+||omid.c.farokhzad||Omid C. Farokhzad, M.D.||
+||russell.a.faust||Russell A. Faust, Ph.D., MD, FAAP, ABIHM||
+||ann.feeney||Ann Feeney, CAE||
+||kevin.m.fickenscher||Kevin M. Fickenscher, M.D., CPE, FACPE, FAAFP||
+||devin.fidler||Devin Fidler, MBA||
+||alex.fielding||Alex Fielding||
+||dean.filipovich||Dean Filipovich, LLB, MBA||
+||daniel.finfer||Daniel Finfer||
+||hannah.alicorn.finley||Hannah "Alicorn" Finley||
+||kevin.fischer||Kevin Fischer||
+||simon.e.fisher||Simon E. Fisher, D.Phil.||
+||james.fiske||James Fiske||
+||paul.b.fitzgerald||Paul B. Fitzgerald, M.B.B.S., M.P.M., Ph.D., F.R.A.N.Z.C.P||
+||kv.fitzpatrick||KV Fitzpatrick||
+||owen.flanagan.jr||Owen Flanagan, Jr., Ph.D.||
+||michael.fleischmann||Michael Fleischmann||
+||dario.floreano||Dario Floreano, Ph.D.||
+||luciano.floridi||Luciano Floridi, Ph.D.||
+||jerry.e.fluellen.jr||Jerry E. Fluellen, Jr.||
+||james.r.flynn||James R. Flynn, M.A., Ph.D.||
+||anne.foerst||Anne Foerst, Th.D.||
+||susan.fonseca-klein||Susan Fonseca-Klein, J.D., B.A.||
+||richard.foreman||Richard Foreman, B.A., MFA, Hon D||
+||tom.foremski||Tom Foremski||
+||nico.forraz||Nico Forraz, B.Sc. (Hons), Ph.D.||
+||david.forrest||David Forrest||
+||morten.foss||Morten Foss, Ph.D.||
+||michael.b.fossel||Michael B. Fossel, M.D., Ph.D., M.A., FACEP||
+||alan.dean.foster||Alan Dean Foster, M.F.A.||
+||ian.foster||Ian Foster, Ph.D., FBCS, FAAAS, Hon DSc||
+||barry.fox||Barry Fox||
+||joshua.fox||Joshua Fox, Ph.D.||
+||vadim.fraifeld||Vadim Fraifeld, Ph.D., M.D.||
+||guy.fraker||Guy Fraker, MBA||
+||paul.h.frampton||Paul H. Frampton, Ph.D., DSc, FAPS, FBIP, FAAAS||
+||julian.g.franco||Julian G. Franco, M.S.||
+||markus.h.frank||Markus H. Frank, M.D.||
+||stan.franklin||Stan Franklin, Ph.D.||
+||jonas.fransson||Jonas Fransson, Ph.D.||
+||robert.a.freitas.jr||Robert A. Freitas Jr., J.D., FLF||
+||jacque.fresco||Jacque Fresco||
+||beth.r.friedland||Beth R. Friedland, M.D.||
+||james.friend||James Friend, Ph.D.||
+||oren.froy||Oren Froy, Ph.D.||
+||ivette.fuentes||Ivette Fuentes, Ph.D.||
+||markus.fuhrmann||Markus Fuhrmann||
+||leigh.fulwood||Leigh Fulwood, J.D.||
+||matt.funk||Matt Funk, BSc, MA, MFA, FLS||
+||john.d.furber||John D. Furber, M.Sc.||
+||allister.furey||Allister Furey, M.Sc.||
+||rod.furlan||Rod Furlan||
+||medard.gabel||Medard Gabel||
+||ruby.gadelrab||Ruby Gadelrab||
+||greg.gaither||Greg Gaither, M.A.||
+||ole.peter.galaasen||Ole Peter Galaasen||
+||lisa.galarneau||Lisa Galarneau, M.Sc.||
+||francesco.galietti||Francesco Galietti, MSc||
+||g.ian.gallicano||G. Ian Gallicano, Ph.D.||
+||ashok.k.gangadean||Ashok K. Gangadean, Ph.D.||
+||james.n.gardner||James N. Gardner, B.A. (Yale Scholar of the House), J.D.||
+||peter.garretson||Peter Garretson||
+||deon.garrett||Deon Garrett, Ph.D.||
+||jay.e.gary||Jay E. Gary, Ph.D.||
+||frederick.w.gaston||Frederick W. Gaston, J.D.||
+||azar.gat||Azar Gat, Ph.D.||
+||antonietta.m.gatti||Antonietta M. Gatti, Ph.D.||
+||giorgio.gaviraghi||Giorgio Gaviraghi||
+||leonid.a.gavrilov||Leonid A. Gavrilov, Ph.D.||
+||natalia.s.gavrilova||Natalia S. Gavrilova, Ph.D.||
+||franz.gayl||Franz Gayl, M.S.||
+||ehud.gazit||Ehud Gazit, Ph.D.||
+||pawel.gburzynski||Pawel Gburzynski, Ph.D.||
+||ille.c.gebeshuber||Ille C. Gebeshuber, Ph.D.||
+||david.gelernter||David Gelernter, Ph.D.||
+||pamela.atlas.geller||Pamela "Atlas" Geller||
+||iddo.genuth||Iddo Genuth, M.A.||
+||mark.s.george||Mark S. George, M.D.||
+||robert.m.geraci||Robert M. Geraci, Ph.D.||
+||eddie.germino||Eddie Germino, MPP||
+||david.gerrold||David Gerrold||
+||alan.gevins||Alan Gevins, Ph.D.||
+||marsal.gifra||Marsal Gifra, MBA||
+||mazin.e.gilbert||Mazin E. Gilbert, Ph.D, MBA||
+||suzanne.gildert||Suzanne Gildert, Ph.D.||
+||james.k.gimzewski||James K. Gimzewski, Ph.D., Ph.D. hc, FRS, CPhys, FIoN, FInstP, FWIF, FREng||
+||joyce.l.gioia||Joyce L. Gioia, MBA, CMC, CSP||
+||michele.giugliano||Michele Giugliano, Ph.D.||
+||marcelo.gleiser||Marcelo Gleiser, Ph.D., FAPS||
+||jerome.c.glenn||Jerome C. Glenn||
+||linda.macdonald.glenn||Linda MacDonald Glenn, J.D., LL.M.||
+||leisa.glispy||Leisa Glispy, MBA||
+||al.globus||Al Globus||
+||dwayne.w.godwin||Dwayne W. Godwin, Ph.D.||
+||ben.goertzel||Ben Goertzel, Ph.D.||
+||nick.gogerty||Nick Gogerty, MBA||
+||ken.goldberg||Ken Goldberg, Ph.D., FIEEE, FWTN||
+||elizabeth.goldring||Elizabeth Goldring, BA, M-Ed||
+||alan.h.goldstein||Alan H. Goldstein, Ph.D.||
+||jeff.goldstein||Jeff Goldstein||
+||diego.a.golombek||Diego A. Golombek, Ph.D.||
+||faustino.gomez||Faustino Gomez, Ph.D.||
+||bruno.miguel.tavares.goncalves||Bruno Miguel Tavares Gon&ccedil;alves, Ph.D.||
+||santiago.gonzalez||Santiago Gonz&aacute;lez||
+||noah.d.goodman||Noah D. Goodman, Ph.D.||
+||adam.gordon||Adam Gordon, MS, MBA||
+||stephen.t.gordon||Stephen T. Gordon, J.D., MBA||
+||theodore.jay.gordon||Theodore Jay Gordon||
+||babak.govan||Babak Govan, Ph.D., M.A.O.B.||
+||venu.govindaraju||Venu Govindaraju, Ph.D., FIEEE, FIAPR||
+||katja.grace||Katja Grace||
+||david.h.gracias||David H. Gracias, Ph.D.||
+||richard.k.graf||Richard K. Graf||
+||jordan.grafman||Jordan Grafman, Ph.D., FAPA||
+||william.b.grant||William B. Grant, Ph.D.||
+||a.c.grayling||A. C. Grayling, M.A., D.Phil, FRSL, FRSA||
+||chris.grayson||Chris Grayson||
+||tony.greenberg||Tony Greenberg||
+||joshua.d.greene||Joshua D. Greene, Ph.D.||
+||robert.greene||Robert Greene||
+||susan.greenfield||Baroness Susan Greenfield, Ph.D., CBE||
+||m.a.greenstein||M. A. "Doc Gee" Greenstein, Ph.D., R.Y.T.||
+||odette.gregory||Odette Gregory, MBA||
+||john.grencer||John Grencer||
+||virgil.griffith||Virgil Griffith||
+||terry.grim||Terry Grim, MS||
+||georges.g.grinstein||Georges G. Grinstein, Ph.D.||
+||stanislav.grof||Stanislav Grof, M.D., Ph.D.||
+||linda.j.groff||Linda J. Groff, Ph.D.||
+||mark.d.gross||Mark D. Gross, Ph.D.||
+||terry.grossman||Terry Grossman, M.D.||
+||tom.gruber||Tom Gruber, Ph.D.||
+||sebastien.guenneau||Sebastien Guenneau, Ph.D.||
+||edward.f.guinan||Edward F. Guinan, Ph.D.||
+||mina.s.guirguis||Mina S. Guirguis, Ph.D.||
+||james.e.gunn||James E. Gunn, M.A.||
+||shaun.gurmin||Shaun Gurmin||
+||lee.gutkind||Lee Gutkind, Hon LHD||
+||sam.gutterman||Sam Gutterman, FSA, FCAS, MAAA, FCA, HonFIA||
+||mads.haahr||Mads Haahr, Ph.D.||
+||andrew.j.hacker||Andrew J. Hacker||
+||patric.hagmann||Patric Hagmann, M.D., Ph.D.||
+||bernard.haisch||Bernard Haisch, Ph.D., FRAS||
+||william.e.halal||William E. Halal, Ph.D.||
+||martin.d.halbert||Martin D. Halbert, Ph.D., MLIS||
+||joe.haldeman||Joe Haldeman||
+||alan.hale||Alan Hale, Ph.D.||
+||alon.y.halevy||Alon Y. Halevy, Ph.D., FACM||
+||chris.k.haley||Chris K. Haley||
+||j.storrs.josh.hall||J. Storrs "Josh" Hall, Ph.D.||
+||maurice.b.hallett||Maurice B. Hallett, Ph.D., FRMS||
+||edward.ned.m.hallowell||Edward "Ned" M. Hallowell, M.D.||
+||justin.p.halberda||Justin P. Halberda, Ph.D.||
+||jack.halpern||Jack Halpern||
+||john.h.halpern||John H. Halpern, M.D.||
+||stuart.r.hameroff||Stuart R. Hameroff, M.D.||
+||julien.gbboy.hamonic||Julien "Gbboy" Hamonic, MSc||
+||xue.han||Xue Han, Ph.D.||
+||roger.b.handberg||Roger B. Handberg, Ph.D.||
+||jacob.d.haqq-misra||Jacob D. Haqq-Misra, Ph.D.||
+||cesar.harada||Cesar Harada, M.A.||
+||arthur.m.harkins||Arthur M. Harkins, Ph.D.||
+||henry.c.harpending||Henry C. Harpending, Ph.D., FAAAS||
+||jonathan.harris||Jonathan Harris||
+||kenneth.w.harris||Kenneth W. Harris||
+||noah.harris||Noah Harris, MAOMD||
+||wesley.l.harris||Wesley L. Harris, Ph.D., NAE||
+||albert.a.harrison||Albert A. Harrison, Ph.D.||
+||david.e.harrison||David E. Harrison, Ph.D.||
+||anastasios.john.hart||Anastasios John Hart, Ph.D.||
+||david.hart||David Hart, M.S.||
+||demis.hassabis||Demis Hassabis||
+||kostas.hatalis||Kostas Hatalis||
+||kristina.hathaway||Kristina Hathaway||
+||aharon.hauptman||Aharon Hauptman, Ph.D.||
+||stefan.p.hau-riege||Stefan P. Hau-Riege, Ph.D.||
+||marc.d.hauser||Marc D. Hauser, Ph.D.||
+||nick.j.hay||Nick J. Hay, M.S.||
+||wei.he||Wei He||
+||frode.hegland||Frode Hegland, MSc.||
+||walter.hehl||Walter Hehl, Ph.D.||
+||ari.heljakka||Ari Heljakka, MSc.||
+||martin.e.hellman||Martin E. Hellman, Ph.D., FIEEE||
+||james.a.hendler||James A. Hendler, Ph.D., FAAAI||
+||sheldon.saul.hendler||Sheldon Saul Hendler, Ph.D., M.D., FACP, FACN, FAIC||
+||pablo.h.hennings-yeomans||Pablo H. Hennings-Yeomans, Ph.D.||
+||winfried.k.hensinger||Winfried K. Hensinger, MSc, Grad Cert Ed, Ph.D.||
+||h.keith.henson||H. Keith Henson||
+||luis.carlos.reyes.hernandez||Luis Carlos Reyes Hernandez, MBA||
+||jane.herndon||Jane Herndon, MBA||
+||luis.herrera||Luis Herrera, MS||
+||marcello.herreshoff||Marcello Herreshoff||
+||jeffrey.herrlich||Jeffrey Herrlich||
+||jay.herson||Jay Herson, Ph.D.||
+||aaron.hertzmann||Aaron Hertzmann, Ph.D.||
+||denise.l.herzing||Denise L. Herzing, Ph.D.||
+||andrew.hessel||Andrew Hessel, MSc||
+||francis.heylighen||Francis Heylighen, Ph.D.||
+||bill.hibbard||Bill Hibbard, Ph.D.||
+||glen.hiemstra||Glen Hiemstra, M.S.||
+||charles.m.higgins||Charles M. Higgins, Ph.D.||
+||nidal.hilal||Nidal Hilal, BEng (Hons), MSc, PhD, DSc, Eur Ing, CEng, FIChemE||
+||claus.c.hilgetag||Claus C. Hilgetag, Ph.D.||
+||rodney.c.hill||Rodney C. Hill, M.Arch.||
+||rafaela.hillerbrand||Rafaela Hillerbrand, Ph.D.||
+||dean.ho||Dean Ho, Ph.D.||
+||michael.hochberg||Michael Hochberg, Ph.D.||
+||matthew.hoey||Matthew Hoey||
+||rudi.hoffman||Rudi Hoffman, CFP, CLU, ChFC||
+||jim.hoft||Jim Hoft||
+||kevin.hogan||Kevin Hogan, Psy.D.||
+||neville.j.hogan||Neville J. Hogan, Ph.D., 2 Hon DScs||
+||tad.hogg||Tad Hogg, Ph.D.||
+||daniel.hohle||Daniel H&ouml;hle, M.Sc.||
+||owen.holland||Owen Holland||
+||c.s.buzz.holling||C.S. "Buzz" Holling, Ph.D., 2 Hon DScs, FRSC||
+||graham.c.holt||Graham C. Holt, MSc, Ph.D.||
+||brian.holtz||Brian Holtz, BSc, MSc||
+||vasant.honavar||Vasant Honavar, Ph.D.||
+||dennis.w.hong||Dennis W. Hong, Ph.D.||
+||dan.hooper||Dan Hooper, Ph.D.||
+||mark.hopkins||Mark Hopkins, M.A.||
+||damon.horowitz||Damon Horowitz, Ph.D.||
+||david.m.howard||David M. Howard, BSc (Eng), PhD, CEng, FIET, FIOA, MAES||
+||keith.a.hoyes||Keith A. Hoyes||
+||sarah.a.hoyt||Sarah A. Hoyt, M.A.||
+||michael.hrenka||Michael Hrenka||
+||feng.hsu||Feng Hsu, Ph.D.||
+||ming.hsu||Ming Hsu, Ph.D.||
+||jiping.huang||Jiping Huang, Ph.D.||
+||barbara.marx.hubbard||Barbara Marx Hubbard, Ph.D.||
+||edward.m.hubbard||Edward M. Hubbard, Ph.D.||
+||timothy.l.hubbard||Timothy L. Hubbard, Ph.D.||
+||anne.hudson||Anne Hudson||
+||todd.huffman||Todd Huffman, MSc||
+||paul.hughes||Paul Hughes, MA, LMFT, AVP||
+||dan.dongeun.huh||Dan Dongeun Huh, Ph.D.||
+||bill.hunt||Bill Hunt||
+||garry.e.hunt||Garry E. Hunt, Ph.D., DSc, FInst D, CSci, CMath, FIMA, FRMS||
+||richard.g.hunter||Richard G. Hunter, Ph.D.||
+||eric.hunting||Eric Hunting||
+||william.b.hurlbut||William B. Hurlbut, M.D.||
+||allen.hutchison||Allen Hutchison||
+||luke.hutchison||Luke Hutchison, M.S.||
+||marcus.hutter||Marcus Hutter, Ph.D. (physics), Habil (informatics)||
+||paul.hynek||Paul Hynek, MBA||
+||licia.iacoviello||Licia Iacoviello, M.D., Ph.D.||
+||matthew.o.ikle||Matthew O. Ikl&eacute;, Ph.D.||
+||stefan.immler||Stefan Immler, Ph.D.||
+||sohail.inayatullah||Sohail Inayatullah, Ph.D.||
+||alicia.j.isaac||Alicia J. Isaac||
+||joel.d.isaacson||Joel D. Isaacson||
+||ruth.itzhaki||Ruth Itzhaki, MSc, Ph.D., MA||
+||yuri.ivanov||Yuri Ivanov, Ph.D.||
+||chid.s.iyer||Chid S. Iyer, M.S.Ch.E, M.S.C.S., J.D.||
+||john.a.jackson||John A. Jackson, M.A.||
+||robert.j.k.jacob||Robert J.K. Jacob, Ph.D.||
+||douglas.w.jacobson||Douglas W. Jacobson, Ph.D.||
+||neil.jacobstein||Neil Jacobstein, B.S. (Summa cum Laude), M.S.||
+||derek.jacoby||Derek Jacoby||
+||victoria.jaguar||Victoria Jaguar||
+||kevin.jain||Kevin Jain||
+||naveen.jain||Naveen Jain, MBA||
+||ramesh.jain||Ramesh Jain, Ph.D., FACM, FIEEE, FIAPR, FAAAI, FSPIE||
+||marcin.jakubowski||Marcin Jakubowski, Ph.D.||
+||teena.james||Teena James||
+||pekka.janhunen||Pekka Janhunen, Ph.D.||
+||jeffrey.d.janus||Jeffrey D. Janus, M.B.A., BSc.||
+||niklas.jarvstrat||Niklas J&auml;rvstr&aring;t, Ph.D.||
+||suwan.jayasinghe||Suwan Jayasinghe, Ph.D.||
+||odest.chadwicke.jenkins||Odest Chadwicke Jenkins, Ph.D.||
+||carl.jensen.iii||Carl Jensen III, Ph.D.||
+||j.david.jentsch||J. David Jentsch, Ph.D.||
+||ulrich.d.jentschura||Ulrich D. Jentschura, Ph.D., Habil (Theoretical Physics)||
+||mary.lou.jepsen||Mary Lou Jepsen, Ph.D.||
+||natalie.h.m.jeremijenko||Natalie H.M. Jeremijenko, Ph.D.||
+||david.jevans||David Jevans, MSc.||
+||shun-jie.ji||Shun-jie Ji, Ph.D.||
+||michael.jin||Michael Jin||
+||anders.johansen||Anders Johansen, Ph.D.||
+||george.john||George John, Ph.D.||
+||morris.johnson||Morris Johnson||
+||summer.johnson||Summer Johnson, Ph.D.||
+||reese.jones||Reese Jones||
+||roderick.jones||Roderick Jones, B.A., M.Phil.||
+||steve.ty.jones||Steve Ty Jones||
+||jan.jungclaus||Jan Jungclaus, Ph.D.||
+||igor.jurisica||Igor Jurisica, Ph.D.||
+||roi.cohen.kadosh||Roi Cohen Kadosh, Ph.D.||
+||james.b.kadtke||James B. Kadtke, Ph.D.||
+||peter.h.kahn.jr||Peter H. Kahn, Jr., Ph.D.||
+||ted.m.kahn||Ted M. Kahn, Ph.D.||
+||lukasz.kaiser||&#321;ukasz Kaiser, Ph.D.||
+||nicholas.kaiser||Nicholas Kaiser, Ph.D.||
+||subhash.kak||Subhash Kak, Ph.D.||
+||jeevan.j.kalanithi||Jeevan J. Kalanithi, M.S.||
+||peter.w.kalivas||Peter W. Kalivas, Ph.D.||
+||marcelo.kallmann||Marcelo Kallmann, Ph.D.||
+||charlie.kam||Charlie Kam||
+||anke.kamrath||Anke Kamrath, M.S.||
+||eiman.kanjo||Eiman Kanjo, Ph.D.||
+||hilbert.j.kappen||Hilbert J. Kappen, Ph.D.||
+||sandeep.s.karajanagi||Sandeep S. Karajanagi, Ph.D.||
+||jim.karkanias||Jim Karkanias||
+||jeffrey.m.karp||Jeffrey M. Karp, Ph.D.||
+||alexander.sasha.kashlinsky||Alexander "Sasha" Kashlinsky, Ph.D.||
+||james.f.kasting||James F. Kasting, Ph.D., FAAAS||
+||kattesh.v.katti||Kattesh V. Katti, M.Sc.Ed, Ph.D., DSc, FRSC||
+||kavita.katti||Kavita Katti||
+||daniel.s.katz||Daniel S. Katz, Ph.D.||
+||mollie.katzen||Mollie Katzen||
+||stuart.a.kauffman||Stuart A. Kauffman, M.D.||
+||doug.kaye||Doug Kaye||
+||charles.r.keeton.ii||Charles R. Keeton II, Ph.D.||
+||david.a.kekich||David A. Kekich||
+||christopher.t.kello||Christopher T. Kello, Ph.D.||
+||james.kent||James Kent||
+||garrett.t.kenyon||Garrett T. Kenyon, Ph.D.||
+||samuel.h.kenyon||Samuel H. Kenyon||
+||ayesha.khanna||Ayesha Khanna, MS||
+||gaurav.khanna||Gaurav Khanna, Ph.D.||
+||oussama.khatib||Oussama Khatib, Ph.D., FIEEE||
+||khaled.kilzie||Khaled Kilzie||
+||moon.j.kim||Moon J. Kim, Ph.D.||
+||tae.kook.kim||Tae Kook Kim, Ph.D.||
+||ali.khademhosseini||Ali Khademhosseini, MASc, Ph.D.||
+||brad.king||Brad King, Ph.D.||
+||michael.r.king||Michael R. King, Ph.D.||
+||nick.king||Nick King, Ph.D., LLM Environmental Law||
+||laszlo.kish||Laszlo Kish, Ph.D.||
+||max.van.kleek||Max Van Kleek, M.Eng.||
+||bruce.j.klein||Bruce J. Klein||
+||joshua.w.klein||Joshua W. Klein, M.S.||
+||jeff.kleiser||Jeff Kleiser||
+||david.s.kliger||David S. Kliger, Ph.D.||
+||harry.doc.kloor||Harry "Doc" Kloor, Ph.D. Ph.D.||
+||loren.knapp||Loren Knapp, Ph.D.||
+||jonathan.knowles||Jonathan Knowles||
+||christof.koch||Christof Koch, Ph.D.||
+||randal.a.koene||Randal A. Koene, Ph.D.||
+||harold.g.koenig||Harold G. Koenig, MD, MHSc||
+||david.r.koepsell||David R. Koepsell, J.D., Ph.D.||
+||nagesh.kolishetti||Nagesh Kolishetti, Ph.D.||
+||maria.konovalenko||Maria Konovalenko, M.Sc.||
+||andras.kornai||Andr&aacute;s Kornai, 2 Ph.D.s||
+||michael.f.korns||Michael F. Korns||
+||kenneth.s.kosik||Kenneth S. Kosik, M.D.||
+||stephen.m.kosslyn||Stephen M. Kosslyn, Ph.D., Hon DSc, FAPA, FAPS, FAAAS||
+||raphael.raph.koster||Raphael "Raph" Koster, B.A, M.F.A.||
+||steven.kotler||Steven Kotler, M.A.||
+||darrell.n.kotton||Darrell N. Kotton, M.D.||
+||mirko.kovac||Mirko Kova&#269;, Ph.D.||
+||michael.kraft||Michael Kraft, Ph.D.||
+||petr.kral||Petr Kr&aacute;l, Ph.D.||
+||janos.kramar||J&aacute;nos Kram&aacute;r||
+||nancy.kress||Nancy Kress, M.S., M.A.||
+||bob.krone||Bob Krone, Ph.D.||
+||jeff.krukin||Jeff Krukin, M.S.||
+||james.j.kuffner.jr||James J. Kuffner, Jr., Ph.D.||
+||kai-uwe.kuhnberger||Kai-Uwe K&uuml;hnberger, Ph.D.||
+||bret.kulakovich||Bret Kulakovich||
+||challa.s.s.r.kumar||Challa S. S. R. Kumar, Ph.D.||
+||sasy.kumar||Sasy Kumar||
+||paul.kurtz||Paul Kurtz, Ph.D., FAAAS||
+||joel.kurtzman||Joel Kurtzman, M.S.||
+||unmesh.kurup||Unmesh Kurup, Ph.D.||
+||ray.kurzweil||Ray Kurzweil, BSc, 7 Hon DScs, 3 Hon LHDs, Hon DMus, Hon DEng, Hon DHumanities||
+||andrea.kuszewski||Andrea Kuszewski||
+||marios.kyriazis||Marios Kyriazis, MD, MSc (Gerontology), MIBiol, CBiol||
+||thomas.h.labean||Thomas H. LaBean, Ph.D.||
+||andras.g.lacko||Andras G. Lacko, Ph.D.||
+||lev.lafayette||Lev Lafayette||
+||john.la.grou||John La Grou||
+||samuel.k.lai||Samuel K. Lai, Ph.D.||
+||anthony.laing||Anthony Laing, MSc||
+||john.e.laird||John E. Laird, Ph.D., FAAAI, FACM||
+||richard.lamb||Richard Lamb, MSc||
+||doron.lancet||Doron Lancet, Ph.D.||
+||ed.lantz||Ed Lantz, MSEE||
+||eva-jane.lark||Eva-Jane Lark||
+||david.s.lashmore||David S. Lashmore, Ph.D.||
+||michael.latorra||Michael LaTorra, M.A.||
+||tod.r.lauer||Tod R. Lauer, Ph.D.||
+||g.frank.lawlis||G. Frank Lawlis, Ph.D., A.B.P.P.||
+||thelma.r.leaffer||Thelma R. Leaffer, Ph.D., MS||
+||louise.n.leakey||Louise N. Leakey, Ph.D.||
+||christian.lebiere||Christian Lebiere, Ph.D.||
+||robert.lecnik||Robert Lecnik||
+||tan.le||BCom (Hons), LLB (Hons)||
+||sergio.lebid||Sergio Lebid||
+||t.randall.lee||T. Randall Lee, Ph.D.||
+||yi-fen.lee||Yi-Fen Lee, Ph.D.||
+||shane.legg||Shane Legg, BCMS (hons.), M.Sc., Ph.D.||
+||miriam.j.s.leis||Miriam J.S. Leis, Ph.D.||
+||eugen.leitl||Eugen Leitl, M.Sc.||
+||paul.lem||Paul Lem, M.D.||
+||brett.r.lenz||Brett R. Lenz, Ph.D., LG, LEG, RPA||
+||carlo.lepori||Carlo Lepori, Ph.D.||
+||john.leslie||John Leslie, M.Litt. (Oxford), F.R.S.C.||
+||john.pathfinder.lester||John "Pathfinder" Lester||
+||renat.r.letfullin||Renat R. Letfullin, Ph.D.||
+||richard.m.levenson||Richard M. Levenson, M.D., FCAP||
+||bernard.h.levin||Bernard H. Levin, Ed.D.||
+||alison.lewis||Alison Lewis, MFA||
+||amy.li||Amy Li||
+||chenglong.li||Chenglong Li, Ph.D.||
+||jun.li||Jun Li, Ph.D.||
+||forrest.liau||Forrest Liau, MS||
+||jeff.w.lichtman||Jeff W. Lichtman, M.D., Ph.D.||
+||jeff.lieberman||Jeff Lieberman, 2 MScs||
+||daniel.liebeskind||Daniel Liebeskind||
+||judith.light.feather||Judith Light Feather||
+||alex.lightman||Alex Lightman||
+||fredrik.linaker||Fredrik Linaker, Ph.D.||
+||patrick.lincoln||Patrick Lincoln, Ph.D.||
+||ben.fenn.lipkowitz||Ben "Fenn" Lipkowitz||
+||margarita.liptsin||Margarita Liptsin||
+||chang.liu||Chang Liu, Ph.D.||
+||di-jia.d.j.liu||Di-Jia "D. J." Liu, Ph.D.||
+||yaling.liu||Yaling Liu, Ph.D.||
+||david.m.livingston||David M. Livingston, DBA||
+||kenneth.livingston||Kenneth Livingston, Ph.D.||
+||erez.livneh||Erez Livneh, M.Sc.||
+||bruce.lloyd||Bruce Lloyd, Ph.D.||
+||peter.b.lloyd||Peter B. Lloyd||
+||nathan.lo||Nathan Lo, Ph.D.||
+||hugh.gene.loebner||Hugh Gene Loebner, Ph.D.||
+||derek.lomas||Derek Lomas, MFA||
+||thomas.j.lombardo||Thomas J. Lombardo, Ph.D.||
+||joe.lonsdale||Joe Lonsdale||
+||moshe.looks||Moshe Looks, Ph.D.||
+||uri.lopatin||Uri Lopatin, M.D.||
+||andras.lorincz||Andr&aacute;s L&ouml;rincz, Ph.D., CSc, FECCAI||
+||sherad.louis-charles||Sherad Louis-Charles||
+||andres.m.lozano||Andres M. Lozano, BSc, MD, BMedSci, FRCSC, PhD||
+||wei.lu||Wei Lu, Ph.D.||
+||matthew.d.luciw||Matthew D. Luciw, Ph.D.||
+||ben.lugavere||Ben Lugavere||
+||pier.luigi.luisi||Pier Luigi Luisi||
+||pavel.o.luksha||Pavel O. Luksha, Ph.D.||
+||brian.lundquist||Brian Lundquist||
+||max.lungarella||Max Lungarella, Ph.D.||
+||dudley.lynch||Dudley Lynch, M.A., Hon LHD||
+||zack.lynch||Zack Lynch, M.A.||
+||zhenqiang.jack.ma||Zhenqiang "Jack" Ma, Ph.D.||
+||claudio.maccone||Claudio Maccone, Ph.D.||
+||ian.a.macdonald||Ian A. MacDonald, Ph.D.||
+||karl.fredric.macdorman||Karl Fredric MacDorman, Ph.D.||
+||shai.machnes||Shai Machnes, Ph.D.||
+||kate.maciver||Kate Maciver, RGN, BScHons, PG Dip Counselling, MSc||
+||stephen.l.macknik||Stephen L. Macknik, Ph.D.||
+||bruce.j.maclennan||Bruce J. MacLennan, Ph.D.||
+||richard.macmanus||Richard MacManus||
+||alexander.macrae||Alexander MacRae||
+||hamid.reza.maei||Hamid Reza Maei, M.Sc., M.Phil.||
+||stephane.magnenat||St&eacute;phane Magnenat||
+||matthew.v.mahoney||Matthew V. Mahoney, MSEE, MSCS, Ph.D.||
+||charalampos.harris.makatsoris||Charalampos "Harris" Makatsoris, CEng, MIMechE, PhD, DIC, BEng(Hons), ACGI||
+||pejman.makhfi||Pejman Makhfi, M.S., PMP, SSBB||
+||maria.k.malayter||Maria K. Malayter, Ph.D.||
+||douglas.j.malewicki||Douglas J. Malewicki, MS||
+||sabiha.rumani.malik||Sabiha Rumani Malik||
+||evan.malone||Evan Malone, M.Eng., MS||
+||brian.malow||Brian Malow||
+||peter.j.mandik||Peter J. Mandik, Ph.D.||
+||jacek.mandziuk||Jacek Ma&#324;dziuk, Ph.D., D.Sc.||
+||daniel.mange||Daniel Mange, Ph.D.||
+||steve.mann||Steve Mann, Ph.D.||
+||pj.manney||PJ Manney||
+||manu.sebastian.mannoor||Manu Sebastian Mannoor||
+||v.r.manoj||V.R. Manoj||
+||g.ali.mansoori||G. Ali Mansoori, Ph.D.||
+||gary.e.marchant||Gary E. Marchant, Ph.D., J.D.||
+||gary.f.marcus||Gary F. Marcus, Ph.D.||
+||valentina.margaria||Valentina Margaria, Ph.D.||
+||julia.margo||Julia Margo||
+||lori.marino||Lori Marino, Ph.D.||
+||henry.markram||Henry Markram, Ph.D.||
+||john.robert.marlow||John Robert Marlow||
+||sarah.marr||Sarah Marr, Ph.D.||
+||lyndon.c.marshall||Lyndon C. Marshall, MBA, Ed.D.||
+||tabatha.marshall||Tabatha Marshall||
+||sylvain.m.martel||Sylvain M. Martel, Eng., Ph.D., FCAE||
+||george.m.martin||George M. Martin, M.D., FAAAS||
+||kirk.martinez||Kirk Martinez, Ph.D.||
+||susana.martinez-conde||Susana Martinez-Conde, Ph.D.||
+||nuno.r.b.martins||Nuno R. B. Martins||
+||gary.marx||Gary Marx, CAE, APR||
+||donna.marykwas||Donna Marykwas, Ph.D.||
+||pier.marzocca||Pier Marzocca, Ph.D.||
+||eric.s.maskin||Eric S. Maskin, Ph.D., FAAAS, Nobel Laureate||
+||chris.mason||Chris Mason, MBBS, Ph.D., FRCS||
+||michael.mateas||Michael Mateas, Ph.D.||
+||jason.g.matheny||Jason G. Matheny, MBA, MPH||
+||jim.mathews||Jim Mathews, MS, APF||
+||gregory.l.matloff||Gregory L. Matloff, Ph.D., FBIS||
+||marc.maurer||Marc Maurer, J.D., Hon L.L.D., Hon Litt.D., Hon L.H.D.||
+||stephen.m.maurer||Stephen M. Maurer, J.D.||
+||raffaele.mauro||Raffaele Mauro, Ph.D.||
+||michael.n.mautner||Michael N. Mautner, Ph.D.||
+||constantinos.mavroidis||Constantinos Mavroidis, Ph.D.||
+||eric.mazur||Eric Mazur, Ph.D., FOSA, FAPS||
+||michael.c.mcalpine||Michael C. McAlpine, Ph.D.||
+||ryan.j.mccall||Ryan J. McCall, MSc||
+||kate.mccallum||Kate McCallum, M.A.||
+||robert.c.mccarthy||Robert C. McCarthy, Ph.D.||
+||wil.mccarthy||Wil McCarthy||
+||raymond.mccauley||Raymond McCauley||
+||david.a.mcclellan||David A. McClellan, Ph.D.||
+||neil.mcclelland||Neil McClelland||
+||marty.mccrea||Marty McCrea||
+||mike.e.mcculloch||Mike E. McCulloch, Ph.D., MInstP, MBIS||
+||jeffrey.r.mccutcheon||Jeffrey R. McCutcheon, Ph.D.||
+||glenn.mcgee||Glenn McGee, Ph.D.||
+||john.o.mcginnis||John O. McGinnis, M.A., J.D.||
+||paul.mcglothin||Paul McGlothin||
+||victoria.mcgrath||Victoria McGrath, M.A.||
+||colin.p.mcguckin||Colin P. McGuckin, Ph.D., PGCTLHE, EurProBiol, CBiol, MIBiol, MRSC||
+||matthew.l.mcguirl||Matthew L. McGuirl, CISSP||
+||colin.r.mcinnes||Colin R. McInnes, DSc, FRAes, FInstP, FRSE, FREng||
+||jay.mcintosh||Jay McIntosh, MSc.||
+||alex.mckeown||Alex McKeown, M.A.||
+||phil.mckinney||Phil McKinney||
+||matthew.j.mcmahon||Matthew J. McMahon, Ph.D.||
+||mark.stephen.meadows||Mark Stephen Meadows, MFA||
+||karim.medjad||Karim Medjad, LL.M, Ph.D.||
+||mayank.r.mehta||Mayank R. Mehta, M.Sc., Ph.D.||
+||t.stuart.meloy||T. Stuart Meloy, M.D.||
+||filippo.menczer||Filippo Menczer, Ph.D.||
+||sini.merikallio||Sini Merikallio, M.Sc.||
+||jesse.merriman||Jesse Merriman||
+||alexander.merritt||Alexander Merritt, M.Sc.||
+||laura.mersini-houghton||Laura Mersini-Houghton, Ph.D.||
+||philip.t.metzger||Philip T. Metzger, Ph.D.||
+||gary.s.mezo||Gary S. Mezo, Ph.D., ARNP, PAC||
+||andy.miah||Andy Miah, Ph.D.||
+||michael.a.g.michaud||Michael A.G. Michaud||
+||olivier.michel||Olivier Michel, Ph.D.||
+||evangelos.d.michelakis||Evangelos D. Michelakis, M.D., FACC, FAHA||
+||jason.micklefield||Jason Micklefield, Ph.D., FRSC||
+||rada.mihalcea||Rada Mihalcea, Ph.D.||
+||brian.milch||Brian Milch, Ph.D.||
+||john.v.milewski||John V. Milewski, Ph.D., P Eng||
+||gia.milinovich||Gia Milinovich||
+||charles.e.miller||Charles E. Miller||
+||gina.nanogirl.miller||Gina "Nanogirl" Miller||
+||james.d.miller||James D. Miller, Ph.D., J.D.||
+||joseph.d.miller||Joseph D. Miller, Ph.D.||
+||kenneth.r.miller||Kenneth R. Miller, Ph.D., FAAAS||
+||alea.a.mills||Alea A. Mills, Ph.D.||
+||stephen.minger||Stephen Minger, Ph.D.||
+||javier.minguez||Javier Minguez, Ph.D.||
+||eduardo.reck.miranda||Eduardo Reck Miranda, M.Sc., Ph.D.||
+||vladimir.a.mironov||Vladimir A. Mironov, M.D., Ph.D.||
+||bud.mishra||Bud Mishra, Ph.D.||
+||pranav.mistry||Pranav Mistry, B.E., M.des.||
+||roy.mitsuoka||Roy Mitsuoka||
+||sid.mitzlaff||Sid Mitzlaff||
+||bamshad.mobasher||Bamshad Mobasher, Ph.D.||
+||david.c.moffat||David C. Moffat||
+||jeffrey.s.mogil||Jeffrey S. Mogil, Ph.D.||
+||mansour.mohamadzadeh||Mansour Mohamadzadeh, Ph.D.||
+||ram.mohan||Ram Mohan, BSc, MA||
+||samarendra.k.mohanty||Samarendra K. Mohanty, M.Sc., M.Tech., Ph.D.||
+||shea.molloy||Shea Molloy||
+||carlo.d.montemagno||Carlo D. Montemagno, Ph.D.||
+||emanuele.montomoli||Emanuele Montomoli, Ph.D.||
+||john.w.moravec||John W. Moravec, Ph.D.||
+||rafael.munoz.moreno-davila||Rafael Mu&ntilde;oz Moreno-Davila||
+||rick.moss||Rick Moss||
+||pieter.j.mosterman||Pieter J. Mosterman, Ph.D.||
+||abhishek.motayed||Abhishek Motayed, Ph.D.||
+||parish.mozdzierz||Parish Mozdzierz||
+||mamoun.muhammed||Mamoun Muhammed, Ph.D.||
+||diana.j.muir||Diana J. Muir, Ph.D.||
+||ralf.j.muller||Ralf J. Muller, Th.D.||
+||nat.mundy||Nat Mundy||
+||christian.munthe||Christian Munthe, Ph.D.||
+||alysson.renato.muotri||Alysson Renato Muotri, Ph.D.||
+||randall.s.murch||Randall S. Murch, Ph.D.||
+||keith.murphy||Keith Murphy||
+||tofy.mussivand||Tofy Mussivand, D.Eng, Ph.D., FRSC||
+||courtney.boyd.myers||Courtney Boyd Myers||
+||hal.myers||Hal Myers, Ph.D.||
+||ramez.naam||Ramez Naam||
+||philip.r.nadeau||Philip R. Nadeau||
+||nolene.ferrari.naidu||Nolene Ferrari Naidu, M.Sc.||
+||sankar.nair||Sankar Nair, Ph.D.||
+||mark.e.nall||Mark E. Nall, M.Sc.||
+||roger.jagdish.narayan||Roger Jagdish Narayan, Ph.D., M.D.||
+||monica.narula||Monica Narula, M.A.||
+||albert.g.nasibulin||Albert G. Nasibulin, Ph.D., Dr. Sc., Docent||
+||priya.natarajan||Priya Natarajan, Ph.D.||
+||ken.natesan||Ken Natesan, M.Sc., Ph.D., MBA, FASM, FNACE||
+||lev.navrozov||Lev Navrozov||
+||saroj.nayak||Saroj Nayak, Ph.D.||
+||chrystopher.nehaniv||Chrystopher Nehaniv, Ph.D.||
+||amanda.feilding.lady.neidpath||Amanda Feilding, Lady Neidpath||
+||ruben.nelson||Ruben Nelson||
+||steve.nerlich||Steve Nerlich||
+||issa.a.d.nesnas||Issa A.D. Nesnas, Ph.D.||
+||deb.newberry||Deb Newberry, MSc||
+||kurt.james.newcomb||Kurt James Newcomb||
+||jon.newton||Jon Newton||
+||james.newton-thomas||James Newton-Thomas, M.AppSci||
+||hameed.g.nezhad||Hameed G. Nezhad, Ph.D.||
+||paul.nghiem||Paul Nghiem, M.D., Ph.D.||
+||tracy.nguyen||Tracy Nguyen||
+||jun.ni||Jun Ni, Ph.D.||
+||kenneth.l.nichols||Kenneth L. Nichols, D.P.A.||
+||holger.bech.nielsen||Holger Bech Nielsen, Ph.D.||
+||romi.nijhawan||Romi Nijhawan, MA, MSc, PhD||
+||danko.nikolic||Danko Nikoli&#263;, Ph.D.||
+||sheila.nirenberg||Sheila Nirenberg, Ph.D.||
+||sharon.niv||Sharon Niv, M.A.||
+||wilfrid.a.nixon||Wilfrid A. Nixon, Ph.D., P.E.||
+||mercy.n.njima||Mercy N. Njima||
+||stefano.nolfi||Stefano Nolfi||
+||david.a.nordfors||David A. Nordfors, Ph.D.||
+||jeffrey.p.nosanov||Jeffrey P. Nosanov, J.D., LL.M.||
+||eugene.nosko||Eugene Nosko||
+||pavel.novacek||Pavel Nov&aacute;&#x10d;ek, Ph.D.||
+||jeannie.lee.novak||Jeannie Lee Novak, M.A.||
+||michael.nuschke||Michael Nuschke, BA, CFP, RFP, CIM, FCSI||
+||tim.oates||Tim Oates, Ph.D.||
+||amy.j.oberg||Amy J. Oberg, MS||
+||jeremy.l.obrien||Jeremy L. O'Brien, Ph.D.||
+||tony.oconnell||Tony O'Connell||
+||mark.ogreen||Mark O'Green||
+||moira.okeeffe||Moira O'Keeffe, Ph.D.||
+||gustavo.olague||Gustavo Olague, Ph.D.||
+||concepcion.olavarrieta||Concepci&oacute;n Olavarrieta||
+||james.h.oliver||James H. Oliver, Ph.D.||
+||edward.james.eddie.olmos||Edward James "Eddie" Olmos, D.F.A.||
+||s.jay.olshansky||S. Jay Olshansky, Ph.D.||
+||avron.olshewsky||Avron Olshewsky, MSc, MBA||
+||alessandro.oltramari||Alessandro Oltramari, Ph.D.||
+||david.orban||David Orban||
+||jeff.orkin||Jeff Orkin, MSc.||
+||david.orrell||David Orrell, Ph.D.||
+||zvika.orron||Zvika Orron, MSc||
+||pedro.a.ortega||Pedro A. Ortega, Ph.D.||
+||deborah.osborne||Deborah Osborne, M.A.||
+||charles.ostman||Charles Ostman||
+||harald.c.ott||Harald C. Ott, M.D.||
+||john.s.oxford||John S. Oxford, Ph.D.||
+||aydogan.ozcan||Aydogan Ozcan, Ph.D.||
+||eray.ozkural||Eray &Ouml;zkural, M.Sc.||
+||prem.pais||Prem Pais, MBBS, M.D.||
+||joseph.e.palaia.iv||Joseph E. Palaia, IV, M.Sc.||
+||george.palasantzas||George Palasantzas, Ph.D.||
+||steven.f.palter||Steven F. Palter, M.D.||
+||dipanjan.pan||Dipanjan Pan, Ph.D.||
+||balaji.baloo.panchapakesan||Balaji "Baloo" Panchapakesan, Ph.D.||
+||shawna.pandya||Shawna Pandya, M.Sc.||
+||alessio.paolucci||Alessio Paolucci, M.Sc.||
+||sorin.paraoanu||Sorin Paraoanu, Ph.D.||
+||stephen.w.parcell||Stephen W. Parcell, N.D.||
+||tapan.s.parikh||Tapan S. Parikh, Ph.D.||
+||denise.c.park||Denise C. Park, Ph.D., FAAAS, FAPA, FAPS, FGSA||
+||sohee.park||Sohee Park, Ph.D.||
+||bruce.alan.parkinson||Bruce Alan Parkinson, Ph.D.||
+||giulio.maria.pasinetti||Giulio Maria Pasinetti, M.D., Ph.D.||
+||andrew.j.pask||Andrew J. Pask, Ph.D.||
+||brian.n.pasley||Brian N. Pasley, M.S.||
+||peter.a.passaro||Peter A. Passaro, D.Phil.||
+||neal.patel||Neal Patel, M.B.A.||
+||bindeshwar.pathak||Bindeshwar Pathak, Ph.D.||
+||meredith.l.patterson||Meredith L. Patterson, M.A., M.S.||
+||david.pearce||David Pearce||
+||ian.d.pearson||Ian D. Pearson, BSc, Dsc(hc), FBCS, CITP, FWAAS, FRAS, FIN, FWIF||
+||stanley.pecavar||Stanley Pecavar||
+||jonathan.c.peck||Jonathan C. Peck, M.A.||
+||erik.pederson||Erik Pederson, MS||
+||ricardo.pedraza||Ricardo Pedraza, MBA||
+||dan.peer||Dan Peer, Ph.D.||
+||benny.j.peiser||Benny J. Peiser, Ph.D.||
+||arturo.pelayo||Arturo Pelayo, MSc||
+||marko.peljhan||Marko Peljhan||
+||sarah.jane.pell||Sarah Jane Pell, Ph.D.||
+||joseph.n.pelton||Joseph N. Pelton, BS, MA, Ph.D.||
+||cassio.pennachin||Cassio Pennachin, BSc, MBA||
+||alex.sandy.pentland||Alex "Sandy" Pentland, Ph.D.||
+||william.m.pentland||William M. Pentland, J.D.||
+||hagai.b.perets||Hagai B. Perets, Ph.D.||
+||george.perry||George Perry, Ph.D., HonD, FAAAS, IMBO, RAC, PLS||
+||r.michael.perry||R. Michael Perry, Ph.D.||
+||d.r.rocky.persaud||D. R. "Rocky" Persaud, B.A.Sc., B.Sc.||
+||peter.pesti||Peter Pesti, MS, MSc||
+||cornelis.peters||Cornelis Peters, M.D.||
+||john.l.petersen||John L. Petersen, FWAAS||
+||cornelius.pete.peterson||Cornelius "Pete" Peterson, M.S.||
+||michael.petrascheck||Michael Petrascheck, Ph.D.||
+||boris.petrovic||Boris Petrovic||
+||arlie.o.petters||Arlie O. Petters, Ph.D.||
+||bre.pettis||Bre Pettis||
+||borut.pfeifer||Borut Pfeifer||
+||jay.phelan||Jay Phelan, Ph.D.||
+||michael.phillips||Michael Phillips||
+||andrew.pickering||Andrew Pickering, Ph.D. (physics), Ph.D. (science studies)||
+||praba.pilar||Praba Pilar||
+||colin.t.pillinger||Colin T. Pillinger, Ph.D., D.Sc., CBE, FRS||
+||michael.d.pinckney||Michael D. Pinckney, MD||
+||james.p.pinkerton||James P. Pinkerton||
+||nicolas.pinto||Nicolas Pinto, M.Sc.||
+||shervin.pishevar||Shervin Pishevar||
+||jon.h.pittman||Jon H. Pittman, MS, MBA||
+||frederik.pohl||Frederik Pohl, FBIS, FAAAS||
+||jan.poland||Jan Poland, Ph.D.||
+||daniel.polani||Daniel Polani, Ph.D.||
+||john.polkinghorne||John Polkinghorne, Ph.D., ScD, KBE, FRS, 2 Hon DDs, 3 Hon DScs, hon D.Hum.||
+||chi-sang.poon||Chi-Sang Poon, Ph.D., FIEEE, FAIMBE||
+||florin.popescu||Florin Popescu, Ph.D.||
+||nikodem.j.poplawski||Nikodem J. Poplawski, Ph.D.||
+||carolyn.c.porco||Carolyn C. Porco, Ph.D., D.Sc. (h.c.)||
+||jonathon.porritt||Jonathon Porritt, CBE||
+||enrique.posner||Enrique Posner||
+||erik.postnieks||Erik Postnieks, MBA||
+||michael.potter||Michael Potter, MS||
+||steve.m.potter||Steve M. Potter, Ph.D.||
+||chris.poulin||Chris Poulin||
+||jerry.pournelle||Jerry Pournelle, Ph.D., FAAAS, FBIS, FRAS||
+||thomas.m.powers||Thomas M. Powers, Ph.D.||
+||channapatna.s.prakash||Channapatna S. Prakash, Ph.D.||
+||domenico.pratico||Domenico Pratic&oacute;, M.D.||
+||douglas.hoss.preston||Douglas "Hoss" Preston||
+||bj.price||Bj Price, MS||
+||giulio.prisco||Giulio Prisco||
+||nicola.pugno||Nicola Pugno, Ph.D.||
+||kari.pulli||Kari Pulli, MSc, Ph.D., MBA||
+||dale.purves||Dale Purves, M.D., FAAAS||
+||victor.l.pushparaj||Victor L. Pushparaj, Ph.D.||
+||walter.putnam||Walter Putnam||
+||rod.pyle||Rod Pyle, MA||
+||yi.qi||Yi Qi, Ph.D.||
+||paul.rabinow||Paul Rabinow, Ph.D.||
+||gianmarco.radice||Gianmarco Radice, Ph.D.||
+||vilayanur.s.ramachandran||Vilayanur S. Ramachandran, M.D., Ph.D., Hon DSc, Hon D||
+||suresh.ramasubramanian||Suresh Ramasubramanian||
+||jeremy.j.ramsden||Jeremy J. Ramsden, Ph.D.||
+||h.raghav.rao||H. Raghav Rao, MBA, Ph.D.||
+||jianyu.rao||Jianyu Rao, M.D.||
+||daniel.w.rasmus||Daniel W. Rasmus||
+||eric.rasmussen||Eric Rasmussen, M.D., MDM, FACP||
+||manny.ratafia||Manny Ratafia, MS, MBA||
+||nancy.a.ratey||Nancy A. Ratey, Ed.M., MCC, SCAC||
+||carrie.rathsack||Carrie Rathsack, M.Ed.||
+||douglas.e.rawlings||Douglas E. Rawlings, Ph.D., FRSSAf, MASSAf||
+||rocky.rawstern||Rocky Rawstern||
+||mridula.millie.kumari.ray||Mridula "Millie" Kumari Ray||
+||thomas.s.ray||Thomas S. Ray, Ph.D.||
+||raycho.raychev||Raycho Raychev, M.A.||
+||w.jud.ready||W. Jud Ready, Ph.D.||
+||jovan.david.rebolledo-mendez||Jovan David Rebolledo-Mendez, Ph.D.||
+||jeff.reed||Jeff Reed, Ph.D.||
+||stephen.l.reed||Stephen L. Reed, BSc.||
+||james.a.reggia||James A. Reggia, M.D., Ph.D.||
+||scott.reif||Scott Reif||
+||lisa.rein||Lisa Rein, M.A.||
+||francisco.palao.reines||Francisco Palao Rein&eacute;s, MBA, Ph.D.||
+||david.e.reisner||David E. Reisner, Ph.D.||
+||diana.reiss||Diana Reiss, Ph.D.||
+||gregory.redo.renard||Gr&eacute;gory "Redo" Renard||
+||andrew.rettek||Andrew Rettek||
+||glenn.harlan.reynolds||Glenn Harlan Reynolds, J.D.||
+||roo.reynolds||Roo Reynolds||
+||philip.rhoades||Philip Rhoades||
+||nicholas.p.rhodes||Nicholas P. Rhodes, B.Sc., M.Sc., Ph.D.||
+||michael.graham.richard||Michael Graham Richard, LL.L, LL.B.||
+||paul.richmond||Paul Richmond||
+||marcelo.rinesi||Marcelo Rinesi||
+||john.ringo||John Ringo||
+||albert.skip.rizzo||Albert "Skip" Rizzo, Ph.D.||
+||rebecca.roache||Rebecca Roache, Ph.D.||
+||karlene.h.roberts||Karlene H. Roberts, Ph.D.||
+||ian.h.robertson||Ian H. Robertson, Ph.D., MRIA, FBPsS||
+||jose.a.robles||Jos&eacute; A. Robles||
+||andreas.roepstorff||Andreas Roepstorff, Ph.D.||
+||olivier.roland||Olivier Roland||
+||sandra.romenska||Sandra Romenska, M.A.||
+||javier.mares.romero||Javier Mares Romero, M.Sc.||
+||sheila.r.ronis||Sheila R. Ronis, Ph.D.||
+||michael.r.rose||Michael R. Rose, Ph.D.||
+||stanley.g.rosen||Stanley G. Rosen, Dr-Ing, FAIAA||
+||j.peter.rosenfeld||J. Peter Rosenfeld, Ph.D.||
+||gabriele.rossi||Gabriele Rossi||
+||marta.rossi||Marta Rossi, M.A.||
+||otto.e.rossler||Otto E. R&ouml;ssler, M.D., Ph.D.||
+||david.rostcheck||David Rostcheck||
+||martine.rothblatt||Martine Rothblatt, Ph.D, MBA, J.D.||
+||tony.rothman||Tony Rothman, Ph.D.||
+||mark.a.rothstein||Mark A. Rothstein, J.D.||
+||jako.roux||Jako Roux, MBL, M.Phil||
+||michael.rowe||Michael Rowe, MBA||
+||neil.c.rowe||Neil C. Rowe, Ph.D., E.E.||
+||asim.roy||Asim Roy, Ph.D.||
+||sebastian.rudolph||Sebastian Rudolph, Ph.D.||
+||loyal.d.rue||Loyal D. Rue, Ph.D.||
+||michael.ruse||Michael Ruse, Ph.D., D. Philos. (hon), D. Litt. (hon), FRSC, FAAS||
+||douglas.rushkoff||Douglas Rushkoff, M.F.A.||
+||peter.russell||Peter Russell, M.A., D.C.S., F.S.P.||
+||jim.rutt||Jim Rutt||
+||rafal.rzepka||Rafal Rzepka, Ph.D.||
+||andrey.rzhetsky||Andrey Rzhetsky, Ph.D.||
+||beverly.a.rzigalinski||Beverly A. Rzigalinski, Ph.D.||
+||lev.s.sadovnik||Lev S. Sadovnik, Ph.D.||
+||nick.sagan||Nick Sagan||
+||pankaj.sah||Pankaj Sah, B.Sc., MBBS, Ph.D.||
+||gilly.salmon||Gilly Salmon, Ph.D.||
+||alexei.v.samsonovich||Alexei V. Samsonovich, Ph.D.||
+||paul.r.sanberg||Paul R. Sanberg, Ph.D., DSc||
+||justin.c.sanchez||Justin C. Sanchez, Ph.D.||
+||david.sancho||David Sancho||
+||anders.sandberg||Anders Sandberg, Ph.D.||
+||sandy.sandfort||Sandy Sandfort, J.D.||
+||lawrence.mark.larry.sanger||Lawrence Mark "Larry" Sanger, Ph.D.||
+||bhavesh.sanghvi||Bhavesh Sanghvi, M.S.||
+||paola.m.santana||Paola M. Santana, J.D., LL.M.||
+||giovanni.santostasi||Giovanni Santostasi, Ph.D.||
+||ricardo.sanz||Ricardo Sanz, Ph.D.||
+||t.scott.saponas||T. Scott Saponas, MSc||
+||jack.sarfatti||Jack Sarfatti, Ph.D.||
+||saskia.sassen||Saskia Sassen, Ph.D., Hon D.||
+||richard.m.satava||Richard M. Satava, M.D., FACS||
+||robert.j.sawyer||Robert J. Sawyer||
+||hiroki.sayama||Hiroki Sayama, D.Sc.||
+||david.schafran||David Schafran||
+||gerwin.schalk||Gerwin Schalk, Ph.D.||
+||roger.c.schank||Roger C. Schank, Ph.D., FAAAI||
+||r.paul.schaudies||R. Paul Schaudies, Ph.D.||
+||tom.schaul||Tom Schaul, M.Sc.||
+||matthias.scheutz||Matthias Scheutz, Ph.D.||
+||heather.schlegel||Heather Schlegel||
+||juergen.schmidhuber||J&uuml;rgen Schmidhuber, Ph.D., Habil||
+||markus.schmidt||Markus Schmidt, Ph.D.||
+||leslie.schneider||Leslie Schneider, Ph.D.||
+||thomas.d.schneider||Thomas D. Schneider, Ph.D.||
+||michael.p.schoenfeld||Michael P. Schoenfeld, MSc||
+||jonathan.w.schooler||Jonathan W. Schooler, Ph.D.||
+||klaus.schulten||Klaus Schulten, Ph.D., FAPS||
+||dirk.schulze-makuch||Dirk Schulze-Makuch, Ph.D., P.G.||
+||stephan.a.schwartz||Stephan A. Schwartz||
+||yitzhack.schwartz||Yitzhack Schwartz, M.D.||
+||angela.schwering||Angela Schwering, Ph.D.||
+||sarah.m.sclarsic||Sarah M. Sclarsic||
+||kristi.n.scott||Kristi N. Scott||
+||david.s.sebba||David S. Sebba, Ph.D.||
+||derek.w.g.sears||Derek W. G. Sears, Ph.D.||
+||frederique.segond||Fr&eacute;d&eacute;rique Segond, Ph.D.||
+||alexander.m.seifalian||Alexander M. Seifalian, Ph.D.||
+||wrye.sententia||Wrye Sententia, Ph.D.||
+||tommaso.sgobba||Tommaso Sgobba, M.S.||
+||rodney.e.shackelford||Rodney E. Shackelford, D.O., Ph.D.||
+||derek.shannon||Derek Shannon, MS||
+||liron.shapira||Liron Shapira||
+||amir.shapiro||Amir Shapiro, Ph.D.||
+||robert.shapiro||Robert Shapiro, Ph.D.||
+||yair.sharan||Yair Sharan, Ph.D.||
+||noel.sharkey||Noel Sharkey, BA, Ph.D., DSc, FIEE, FBCS, CITP, FRIN||
+||karan.sharma||Karan Sharma||
+||daniel.e.shaw||Daniel E. Shaw||
+||daniel.p.sheehan||Daniel P. Sheehan, Ph.D.||
+||gajendra.shekhawat||Gajendra Shekhawat, Ph.D.||
+||jie.sheng||Jie Sheng, M.S.||
+||michael.shermer||Michael Shermer, Ph.D.||
+||riyi.shi||Riyi Shi, M.D., Ph.D.||
+||jerry.j.shih||Jerry J. Shih, M.D.||
+||injae.shin||Injae Shin, Ph.D.||
+||bijan.shirinzadeh||Bijan Shirinzadeh, Ph.D.||
+||brian.shiro||Brian Shiro, MS||
+||foy.shiver||Foy Shiver||
+||geoffrey.shmigelsky||Geoffrey Shmigelsky||
+||rupam.shrivastava||Rupam Shrivastava, M.S.||
+||sandeep.k.shukla||Sandeep K. Shukla, Ph.D.||
+||tish.shute||Tish Shute, M.Phil.||
+||florian.a.siebzehnrubl||Florian A. Siebzehnrubl, M.Sc., Ph.D.||
+||michael.d.silberstein||Michael D. Silberstein, Ph.D.||
+||elena.silenok||Elena Silenok, MS||
+||jason.silva||Jason Silva||
+||lee.m.silver||Lee M. Silver, Ph.D., FAAAS||
+||michael.silverton||Michael Silverton||
+||donna.m.simmons||Donna M. Simmons, Ph.D.||
+||jose.simoes||Jos&eacute; Sim&otilde;es||
+||laercio.henrique.simoes||Laercio Henrique Sim&otilde;es||
+||horst.d.simon||Horst D. Simon, Ph.D.||
+||jonathan.simonson||Jonathan Simonson, Ph.D.||
+||michael.k.simpson||Michael K. Simpson, Ph.D., M.B.A.||
+||michael.l.simpson||Michael L. Simpson, Ph.D.||
+||amalie.sinclair||Amalie Sinclair||
+||peter.singer||Peter Singer, B.A. (Hons), M.A., B.Phil., FAHA, FASSA||
+||susan.l.singer||Susan L. Singer, SCPM||
+||ru.sirius||RU Sirius||
+||metin.sitti||Metin Sitti, Ph.D.||
+||hannes.sjoblad||Hannes Sj&ouml;blad, M.Sc.||
+||karlin.sloan||Karlin Sloan, MA||
+||jean-jacques.slotine||Jean-Jacques Slotine, Ph.D.||
+||gary.smaby||Gary Smaby||
+||gary.w.small||Gary W. Small, M.D.||
+||jonathan.smallwood||Jonathan Smallwood, Ph.D.||
+||paris.smaragdis||Paris Smaragdis, Ph.D.||
+||j.j.c.smart||J.J.C. Smart, AC, 3 Hon DLitts||
+||chris.smedley||Chris Smedley||
+||douglas.h.smith||Douglas H. Smith, M.D.||
+||dustin.arthur.smith||Dustin Arthur Smith, MSc||
+||frank.d.smith||Frank D. Smith, MCSE||
+||leslie.s.smith||Leslie S. Smith, Ph.D.||
+||richard.h.smith||Richard H. Smith, M.S.||
+||steven.s.smith||Steven S. Smith, B.S., Ph.D.||
+||william.a.p.smith||William A. P. Smith, Ph.D.||
+||rick.smyre||Rick Smyre||
+||james.michael.mike.snead||James Michael "Mike" Snead, MS, P.E.||
+||evan.y.snyder||Evan Y. Snyder, M.D., Ph.D.||
+||jill.sobule||Jill Sobule||
+||kim.solez||Kim Solez, M.D., FRCPC||
+||joseph.h.solomon||Joseph H. Solomon, Ph.D.||
+||kirk.sorensen||Kirk Sorensen, M.S.||
+||didier.sornette||Didier Sornette, Ph.D., FWIF||
+||wole.soyinka||Wole Soyinka, B.A. (Honors), Nobel Laureate||
+||rob.spence||Rob Spence||
+||david.a.spencer||David A. Spencer, Ph.D., FAIC, FGS, FLS, FRAS, IOM, MInstP, FRSA, FAOE||
+||john.spencer||John Spencer, M. Arch.||
+||david.a.spiegel||David A. Spiegel, Ph.D., M.D.||
+||nova.spivack||Nova Spivack||
+||olaf.sporns||Olaf Sporns, Ph.D.||
+||narasimalu.srikanth||Narasimalu Srikanth, Ph.D.||
+||lara.srivastava||Lara Srivastava, B.A. (Honors), M.A., LL.B., MSc.||
+||krzysztof.kris.stanek||Krzysztof "Kris" Stanek, Ph.D.||
+||richard.rms.m.stallman||Richard "rms" M. Stallman, BA, 6 Honorary Doctorates||
+||jonathan.s.stamler||Jonathan S. Stamler, M.D.||
+||milos.stanic||Milos Stanic, M.Sc.||
+||christopher.starr||Christopher Starr, B.B.A., M.B.A., J.D.||
+||oliver.starr||Oliver Starr||
+||jean.staune||Jean Staune, Ph.D.||
+||roy.w.stedman||Roy W. Stedman||
+||duncan.steel||Duncan Steel, Ph.D., FRAS||
+||phineas.waldolf.steel||Dr. Phineas Waldolf Steel||
+||allen.m.steele.jr||Allen M. Steele, Jr., M.A.||
+||stephen.f.steele||Stephen F. Steele, Ph.D.||
+||david.e.stein||David E. Stein, MSc||
+||ryan.stellar||Ryan Stellar||
+||greg.sterling||Greg Sterling, J.D.||
+||eric.stern||Eric Stern, Ph.D.||
+||yaakov.stern||Yaakov Stern, Ph.D.||
+||rick.sternbach||Rick Sternbach, FIAAA||
+||joe.stewart||Joe Stewart, GCIH||
+||david.c.l.stock||David C.L. Stock, MS, MBA||
+||gregory.stock||Gregory Stock, Ph.D., MBA||
+||amanda.stoel||Amanda Stoel||
+||dan.stoicescu||Dan Stoicescu, Ph.D.||
+||john.e.stone||John E. Stone, M.S.||
+||kate.stone||Kate Stone, Ph.D.||
+||peter.stone||Peter Stone, Ph.D.||
+||christopher.stott||Christopher Stott, M.S.||
+||michael.s.strano||Michael S. Strano, Ph.D.||
+||michael.strong||Michael Strong, M.A.||
+||david.styles||David Styles||
+||francesc.r.subirada||Francesc R. Subirada, BSc., MBA||
+||devika.subramanian||Devika Subramanian, Ph.D.||
+||frank.w.sudia||Frank W. Sudia, J.D.||
+||yi.sun||Yi Sun, Ph.D.||
+||yugang.sun||Yugang Sun, Ph.D.||
+||khannea.suntzu||Khannea Suntzu||
+||sonia.m.suter||Sonia M. Suter, M.S., J.D.||
+||melanie.swan||Melanie Swan, MBA||
+||edgar.w.swank||Edgar W. Swank||
+||peter.j.sweeney||Peter J. Sweeney||
+||moshe.szyf||Moshe Szyf, M.Sc., Ph.D.||
+||sarah.j.tabrizi||Sarah J. Tabrizi, M.D., FRCP, Ph.D.||
+||jacopo.tagliabue||Jacopo Tagliabue, M.A.||
+||patrick.k.takahashi||Patrick K. Takahashi, Ph.D.||
+||jaan.tallinn||Jaan Tallinn||
+||fuyu.tamanoi||Fuyu Tamanoi, Ph.D.||
+||clarence.n.w.tan||Clarence N.W. Tan, BSEE, MSISE, MBA (USC), Ph.D., FACS, F Fin (Aust), FInstBA, FBSC (UK)||
+||desney.s.tan||Desney S. Tan, Ph.D.||
+||li-hai.tan||Li-Hai Tan, Ph.D.||
+||charles.tandy||Charles Tandy, Ph.D.||
+||rudolph.e.tanzi||Rudolph E. Tanzi, Ph.D.||
+||don.tapscott||Don Tapscott, M.Ed., 2 LL.D.s (honoris causa)||
+||justin.tarrants||Justin Tarrants, M.A.||
+||sergio.m.l.tarrero||Sergio M.L. Tarrero, BSc||
+||ennio.tasciotti||Ennio Tasciotti, Ph.D.||
+||edward.taub||Edward Taub, Ph.D.||
+||james.w.taylor||James W. Taylor, M.A.||
+||daryl.tempesta||Daryl Tempesta||
+||fiorella.terenzi||Fiorella Terenzi, Ph.D.||
+||cristian.moreno.terrazas||Cristi&aacute;n Moreno Terrazas, MBA||
+||richard.j.terrile||Richard J. Terrile, Ph.D.||
+||humberto.terrones||Humberto Terrones, Ph.D.||
+||richard.thieme||Richard Thieme, M.A.||
+||michael.e.thomas||Michael E. Thomas||
+||john.r.thompson||John R. Thompson||
+||paul.b.thompson||Paul B. Thompson, Ph.D.||
+||c.colby.thomson||C. Colby Thomson, BSc, MBA||
+||kristinn.r.thorisson||Kristinn R. Th&oacute;risson, Ph.D.||
+||jeffrey.l.thorne||Jeffrey L. Thorne, Ph.D.||
+||adrian.j.thrasher||Adrian J. Thrasher, Ph.D., M.D., BS, FRCP, MRCPCH, FMedSci||
+||mohan.k.tikku||Mohan K. Tikku||
+||darren.tofts||Darren Tofts, Ph.D.||
+||arthur.w.toga||Arthur W. Toga, Ph.D.||
+||julian.togelius||Julian Togelius, Ph.D.||
+||volkan.topalli||Volkan Topalli, Ph.D.||
+||david.tosh||David Tosh, MSc||
+||daniele.tosi||Daniele Tosi, Ph.D.||
+||tihamer.tee.toth-fejel||Tihamer "Tee" Toth-Fejel, MS||
+||claude.touzet||Claude Touzet, Ph.D.||
+||craig.a.tovey||Craig A. Tovey, Ph.D.||
+||andrea.townsend-nicholson||Andrea Townsend-Nicholson, Ph.D.||
+||mike.treder||Mike Treder||
+||marie-clare.treseder||Marie-Clare Treseder||
+||andrew.trexler||Andrew Trexler||
+||linh.truong||Linh Truong, BSIT, ITIL||
+||walter.j.trybula||Walter J. Trybula, Ph.D., MBA, FIEEE, FSPIE||
+||dmitriy.tseliakhovich||Dmitriy Tseliakhovich, M.Sc.||
+||ying.yin.tsui||Ying Yin Tsui, Ph.D., P.Eng.||
+||patrick.tucker||Patrick Tucker, M.A.||
+||rick.n.tumlinson||Rick N. Tumlinson||
+||hanna.l.tuomisto||Hanna L. Tuomisto, MSc||
+||alexei.valerievich.turchin||Alexei Valerievich Turchin||
+||margaret.carol.turnbull||Margaret Carol Turnbull, Ph.D.||
+||bentley.turner||Bentley Turner||
+||rebecca.g.turner||Rebecca G. Turner||
+||jon.turney||Jon Turney||
+||jack.tuszynski||Jack Tuszynski, Ph.D.||
+||kweli.tutashinda||Kweli Tutashinda, D.C.||
+||alistair.tweed||Alistair Tweed||
+||a.aria.tzika||A. Aria Tzika, Ph.D.||
+||julian.ugarte||Juli&aacute;n Ugarte||
+||jack.uldrich||Jack Uldrich||
+||lyle.h.ungar||Lyle H. Ungar, Ph.D.||
+||zachary.urbina||Zachary Urbina||
+||jaroslav.vacek||Jaroslav Vacek, Ph.D.||
+||tanmay.vachaspati||Tanmay Vachaspati, Ph.D.||
+||jordi.vallverdu||Jordi Vallverd&uacute;, Ph.D., M.A.||
+||thomas.f.valone||Thomas F. Valone, Ph.D., P.E.||
+||michael.van.lent||Michael van Lent, Ph.D.||
+||jan.vandenbos||Jan Vandenbos||
+||jean.m.h.van.den.elsen||Jean M.H. van den Elsen, Ph.D.||
+||henny.van.der.pluijm||Henny van der Pluijm, MBA||
+||tijn.van.der.zant||Tijn van der Zant, Ph.D.||
+||menno.van.doorn||Menno van Doorn, M.B.E.||
+||yuri.van.geest||Yuri van Geest, MSc.||
+||philippe.van.nedervelde||Philippe Van Nedervelde, M.A. Comm., FLF||
+||denise.vardakas-styrna||Denise Vardakas-Styrna||
+||massimiliano.vasile||Massimiliano Vasile, Ph.D.||
+||michael.vassar||Michael Vassar||
+||vlatko.vedral||Vlatko Vedral, BSc, DIC, MA, Ph.D.||
+||manuela.m.veloso||Manuela M. Veloso, Ph.D., FAAAI||
+||kris.verburgh||Kris Verburgh||
+||roel.vertegaal||Roel Vertegaal, Ph.D.||
+||antoine.van.de.ven||Antoine van de Ven, M.Sc.||
+||gianmarco.veruggio||Gianmarco Veruggio||
+||tom.vest||Tom Vest, M.A.||
+||neeraj.vij||Neeraj Vij, MS, Ph.D.||
+||jan.vijg||Jan Vijg, Ph.D.||
+||alberto.villarreal||Alberto Villarreal, M.A.||
+||luis.p.villarreal||Luis P. Villarreal, Ph.D.||
+||emil.vinterhav||Emil Vinterhav, MSc||
+||natasha.vita-more||Natasha Vita-More, MSc, BFA, MA||
+||marisa.vitols||Marisa Vitols||
+||antoaneta.vladimirova||Antoaneta Vladimirova, Ph.D.||
+||khrustalev.vladimir.vladimirovich||Khrustalev Vladimir Vladimirovich||
+||paul.vogt||Paul Vogt, Ph.D.||
+||frans.von.der.dunk||Frans von der Dunk, Ph.D.||
+||peter.voss||Peter Voss||
+||bradley.voytek||Bradley Voytek, Ph.D.||
+||shannon.vyff||Shannon Vyff||
+||cyrus.wadia||Cyrus Wadia, Ph.D.||
+||zubin.wadia||Zubin Wadia||
+||randall.c.walker||Randall C. Walker, M.D.||
+||aaron.matthew.wall||Aaron Matthew Wall||
+||terry.c.wallace.jr||Terry C. Wallace Jr., Ph.D., FAGU||
+||wendell.wallach||Wendell Wallach||
+||anthony.waller||Anthony Waller||
+||vincent.walsh||Vincent Walsh, Ph.D.||
+||michael.waltemathe||Michael Waltemathe, Ph.D.||
+||ben.wang||Ben Wang, Ph.D., FIIE, FSME, FWIF||
+||brian.l.wang||Brian L. Wang, M.B.A.||
+||james.z.wang||James Z. Wang, Ph.D.||
+||pei.wang||Pei Wang, Ph.D.||
+||yadong.wang||Yadong Wang, Ph.D.||
+||peter.d.ward||Peter D. Ward, Ph.D.||
+||gregory.j.ward||Gregory J. Ward, MSc||
+||leon.watts||Leon Watts, MSc, D.Phil||
+||john.k.webb||John K. Webb, Ph.D., FRAS||
+||robert.h.webb||Robert H. Webb, Ph.D., ScD (Honoris Causa)||
+||elke.u.weber||Elke U. Weber, Ph.D.||
+||thomas.j.webster||Thomas J. Webster, Ph.D.||
+||christian.weidemann||Christian Weidemann, Ph.D.||
+||michael.l.weiner||Michael L. Weiner||
+||charles.v.weir||Charles V. Weir||
+||david.j.weiss||David J. Weiss||
+||kenneth.p.weiss||Kenneth P. Weiss, Ph.D.||
+||willard.wells||Willard Wells, Ph.D.||
+||william.welser.iv||William Welser IV, MBA, MS||
+||win.wenger||Win Wenger, Ph.D.||
+||thomas.wennekers||Thomas Wennekers, Ph.D.||
+||paul.john.werbos||Paul John Werbos, Ph.D.||
+||rick.wesson||Rick Wesson||
+||jody.r.westby||Jody R. Westby, Esq.||
+||martin.westwell||Martin Westwell, Ph.D.||
+||verne.wheelwright||Verne Wheelwright, Ph.D.||
+||blay.whitby||Blay Whitby, Ph.D.||
+||graham.k.whitehead||Graham K. Whitehead, CEng, FBCS||
+||cheryl.whitesitt||Cheryl Whitesitt||
+||bill.whittle||Bill Whittle||
+||nalin.chandra.wickramasinghe||Nalin Chandra Wickramasinghe, BSc, MA, PhD, ScD, Hon DSc, Hon DLitt, FIMA, FRAS||
+||freek.wiedijk||Freek Wiedijk, Ph.D.||
+||marco.a.wiering||Marco A. Wiering, Ph.D.||
+||mark.r.wiesner||Mark R. Wiesner, Ph.D.||
+||jared.wigmore||Jared Wigmore||
+||brian.h.wilcox||Brian H. Wilcox, M.S.||
+||antony.john.williams||Antony John Williams, Ph.D.||
+||kenji.williams||Kenji Williams||
+||mary-anne.williams||Mary-Anne Williams, MSc, LLM, Ph.D.||
+||paul.l.williams||Paul L. Williams, Ph.D.||
+||daniel.h.wilson||Daniel H. Wilson, Ph.D.||
+||eliot.h.winer||Eliot H. Winer, Ph.D.||
+||amos.g.winter.v||Amos G. Winter V, M.S.||
+||sandra.f.witelson||Sandra F. Witelson, M.Sc., Ph.D., FRSC||
+||janet.staker.woerner||Janet Staker Woerner, M.A.||
+||fred.alan.wolf||Fred Alan Wolf, Ph.D.||
+||benjamin.wolozin||Benjamin Wolozin, M.D., Ph.D.||
+||jonathan.r.wolpaw||Jonathan R. Wolpaw, M.D.||
+||paul.root.wolpe||Paul Root Wolpe, Ph.D., FCPP||
+||david.h.wolpert||David H. Wolpert, Ph.D.||
+||alex.wolszczan||Alex Wolszczan, Ph.D.||
+||ryan.woodard||Ryan Woodard, Ph.D.||
+||nancy.j.woolf||Nancy J. Woolf, Ph.D.||
+||g.gordon.worley.iii||G Gordon Worley III||
+||robert.e.wray.iii||Robert E. Wray, III, Ph.D.||
+||christopher.r.wren||Christopher R. Wren, Ph.D.||
+||cameron.h.g.wright||Cameron H. G. Wright, Ph.D., P.E.||
+||edward.l.ned.wright||Edward L. "Ned" Wright, Ph.D., FAAAS||
+||james.terence.coulter.wright||James Terence Coulter Wright, MSc., Ph.D.||
+||raymond.d.wright||Raymond D. Wright, D.Phil.||
+||sterling.wright||Sterling Wright||
+||cindy.frewen.wuellner||Cindy Frewen Wuellner, Ph.D., FAIA, APF||
+||donald.c.wunsch.ii||Donald C. Wunsch II, Ph.D. EE, MBA, PE, FIEEE||
+||stan.yakatan||Stan Yakatan||
+||roman.v.yampolskiy||Roman V. Yampolskiy, Ph.D.||
+||nick.yee||Nick Yee, Ph.D.||
+||leslie.y.yeo||Leslie Y. Yeo, Ph.D.||
+||jackie.yi-ru.ying||Jackie Yi-Ru Ying, Ph.D.||
+||aurel.ymeti||Aurel Ymeti, Ph.D.||
+||liane.lee.young||Liane Lee Young, Ph.D.||
+||jeffrey.p.youngblood||Jeffrey P. Youngblood, Ph.D.||
+||eliezer.s.yudkowsky||Eliezer S. Yudkowsky||
+||g.pascal.zachary||G. Pascal Zachary||
+||arthur.zajonc||Arthur Zajonc, Ph.D.||
+||zeev.zalevsky||Zeev Zalevsky, Ph.D.||
+||mariann.zanardo||Mariann Zanardo, CPEA, CHMM||
+||justyna.zander||Justyna Zander, Ph.D.||
+||abraham.zangen||Abraham Zangen, Ph.D.||
+||michael.g.zey||Michael G. Zey, Ph.D.||
+||david.yu.zhang||David Yu Zhang||
+||guigen.zhang||Guigen Zhang, Ph.D.||
+||jennifer.y.zhang||Jennifer Y. Zhang, Ph.D.||
+||jin.zhong.zhang||Jin Zhong Zhang, Ph.D., FAAAS||
+||kang.zhang||Kang Zhang, MD, Ph.D.||
+||liangchi.zhang||Liangchi Zhang, FTSE, DEng (BSc, ME, Ph.D.)||
+||liangfang.zhang||Liangfang Zhang, Ph.D.||
+||lijie.grace.zhang||Lijie Grace Zhang, Ph.D.||
+||stephen.x.zhang||Stephen X. Zhang, Ph.D.||
+||qiming.zhang||Qiming Zhang, Ph.D., FIEEE||
+||xiang.zhang||Xiang Zhang, Ph.D.||
+||yong.zhang||Yong Zhang, Ph.D.||
+||alexander.zhavoronkov||Alexander Zhavoronkov, Ph.D.||
+||xinjian.zhou||Xinjian Zhou, Ph.D.||
+||xiongwei.zhu||Xiongwei Zhu, Ph.D.||
+||marc.zimmer||Marc Zimmer, Ph.D.||
+||steven.j.zuckerman||Steven J. Zuckerman||

@@ -1,0 +1,16 @@
+ * HomePage: http://mindbroker.de/FabVille
+
+FabVille is a NextGeneration SocialGame for FloatingBoats.
+
+The MasterPlan for FabVille: In a virtual CleanRoom you can
+collaborativly learn about SemiConductor technologies.
+You will produce ChipWafer's with the help of FabTool's.
+
+As a result you get a VirtualGood that you can sell in the MindShop of our MicroNation NooPolis.
+
+The fabrication process will be InspiredBy the SmflWiki and MeadConway,
+the seminal TextBook on SemiConductor and VlSi.
+
+SemaTech DomainModel: http://www.sematech.org/docubase/document/1697jeng.pdf
+
+When you have reached level 42 in FabVille, you can join SingularVille.

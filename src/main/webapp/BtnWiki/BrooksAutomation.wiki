@@ -1,0 +1,5 @@
+ * IsA: EnterPrise
+ * IsIn: US1143401024
+ * InterWiki: [WikiPedia:Brooks_Automation]
+ * MindOne: StephenSchwartz
+ * HeadQuarters: ChelmsFord

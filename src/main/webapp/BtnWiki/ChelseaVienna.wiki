@@ -1,0 +1,5 @@
+ * HomePage: http://www.chelsea.co.at/
+ * FbPage: https://www.facebook.com/chelseavienna
+ * OpenStreetMap: http://www.openstreetmap.org/browse/node/245495401
+ * MindOne: OthmarBajlicz
+ * PartOf: JosefStadt

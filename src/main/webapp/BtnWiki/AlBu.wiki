@@ -1,0 +1,3 @@
+http://noopolis.org/albu
+
+In den Zeiten von FireFox war ein BookmarkLet noch eine praktische Sache. Für DelIcioUs hat RaWa es wohl hundert-, wenn nicht tausendfach genutzt. Aber dann kam GoogleChrome, mit dem es sich am besten ohne BookMark-Leiste surfen lässt. Ganz zu schweigen vom SmartPhone, seitdem diese KulturTechnik wohl vom aussterben bedroht ist. Sie ist nicht NutzerFreundlich, da nur wenige Nutzer es überhaupt installieren können. Daher ist das BookmarkLet-JavaScript besser auf der WebServer-Seite aufgehoben. Und das ist mit einem CodeWiki ja ganz EinFach.

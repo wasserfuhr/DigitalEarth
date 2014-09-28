@@ -1,0 +1,7 @@
+
+http://www.dblp.org/db/indices/a-tree/l/Lengauer:Thomas.html
+http://www.dblp.org/db/indices/a-tree/s/Smola:Alexander_J=.html
+http://www.dblp.org/db/indices/a-tree/p/Petterson:James.html
+http://www.dblp.org/db/indices/a-tree/d/Dror:Gideon.html
+http://www.dblp.org/db/indices/a-tree/g/Guyon:Isabelle.html
+http://www.dblp.org/db/indices/a-tree/b/Boser:Bernhard_E=.html

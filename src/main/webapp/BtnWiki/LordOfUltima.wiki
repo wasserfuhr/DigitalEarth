@@ -1,0 +1,5 @@
+ * IsA: BrowserGame
+
+http://en.wikipedia.org/wiki/Lord_of_Ultima
+
+JoKe: server 4

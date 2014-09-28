@@ -1,0 +1,6 @@
+ * IsA: PerSon
+ * BornIn: 1891
+ * BirthDay: 11-22
+ * DiedIn: 1995
+ * InterWiki: [WikiPedia:Edward_Bernays]
+ * TriBy: https://www.facebook.com/siggi.becker/posts/508599965831399

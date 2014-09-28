@@ -1,0 +1,7 @@
+Think of this as a personal WikiPedia, but additionally MachineReadable.
+There are many ongoing ProJect's in this direction like OpenCyc DbPedia WikiData or FreeBase.
+We use a SemanticWiki that creates a LinkLanguage, where each HyperLink ConNect's to a ConCept or more generally a MindPattern.
+The LinkLanguage can be used inside our RealTime BrowserChat.
+Additionally we create various BoardGame's, where SpatialReasoning and ActionPlanning comes into focus.
+
+BrainStorm: AiCanvas NewMind SpatialReasoning WorldModel ComPress LockSchuppen3D VariablenUndConstraints VisualCortex PhysicsEngine VoXel DoXel MindCraft NormalNull

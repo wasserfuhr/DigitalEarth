@@ -1,0 +1,2 @@
+ * IsA: MindShop
+ * OpenStreetMap: https://www.openstreetmap.org/node/725613783

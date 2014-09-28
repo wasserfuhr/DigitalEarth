@@ -1,0 +1,10 @@
+Also ich fange mit Dir an.
+Dein KurzName ist AlGe, der dann auf Deinen vollen Namen weiterleitet.
+(Ähnlich wie bei der WikiPedia, hier aber kürzer.
+Dort gibt es dann einen WikiPage, 
+Damit bin ich schon beim FaceBook-Profil. Und damit der OpenGraph.
+Ausserdem dann in vielen Fällen ViAf oder DbLp.
+Da hängt dann schon die CoAuthor-ship-ScienceGraph dran.
+Und dann gibt es noch inverse Relationen.
+MindPaper. als DcAuthor (ja, DublinCore)
+Oder bei einem EnterPrise als FoundedBy oder MindOne.

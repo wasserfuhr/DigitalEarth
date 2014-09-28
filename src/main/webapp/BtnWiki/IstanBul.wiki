@@ -1,0 +1,3 @@
+ * IsA: MindCity
+ * EtymoLogia: from the Medieval Greek phrase "εἰς τὴν Πόλιν"
+ * WikiPedia: https://en.wikipedia.org/wiki/Instanbul

@@ -1,0 +1,50 @@
+ * IsA: MindEvent
+ * ExPlanation: SiegerEhrung fuer den CoolSiliconArt-Award AnnoDomino2011 in den DeutschWerkstaetten in HellerAu.
+ * HomePage: http://www.cool-silicon.de/press/cool-silicon-art-award-interview-%E2%80%9Edialog-zwischen-unterschiedlichen-welten%E2%80%9C/
+ * RsVp: http://cool-silicon.de/artanmeldung/
+ * HashTag: CsaAe
+ * TeilNehmer: HeMo? RaLi? RaWa RobertWeichert? SabineVonSchorlemer
+
+RealityScript:
+
+=2011-12-09:15:00 L:DeutschWerkstaetten=
+
+(GretChen HeinRich RalfLippold)
+ * GretChen: Hallo RaLi
+ * RalfLippold: Hallo HeMo, hallo RaWa
+ * GretChen: Ach RaLi, es ist wieder mal verhext: mein HeinRich hatte  wieder mal einen GedaechtnisVerlust.
+ * RaLi: AuWeia: XiNao? Wieder seit 1989-02-05:1530?
+ * GretChen: Ja, es scheint so. Er kam vor einer Stunde wieder aus der TiefGarage unter dem NeuMarkt.
+ * RaLi: Gut, ich werde es gleich mal tweeten, damit all unsere Freunde Bescheid wissen.
+ * (RaLi wendet sich zum seinem SmartKnochen und tippt)
+(AufTritt RobertWeichert)
+ * RobertWeichert: Hallo HeMo, hallo RaLi, hallo RaWa! 
+(Wechselseitiges ShakeHands)
+(ChristineSchlinck huscht herein - auf ihrem Arm der dreijährige JfSchlinck)
+ * GretChen: _(flüstert zu HeinRich)_: HeinRich, das ist Deine ExEx mit  Deinem PatenKind)
+ * HeinRich: AuWeia - solch ein RasseWeib?
+ * ChristineSchlinck: (umarmt RaWa): Hallo SchnueffChen.
+ * HeMo: Hallo "SchnueffChen", hast Du schon den Tweet von RaLi gelesen?
+(AufTritt HeidiGallinat)
+ * ChristineSchlinck: Oh, ich habe leider immer noch kein MobileInternet auf meinem SuperPhone.
+(HeidiGallinat huscht herein)
+ * GretChen _(fluesternd zu HeinRich)_: das ist auch eine Deiner Ex'en)
+ * HeinRich: AuWeia - noch ein RasseWeib? War ich am Ende PolyTreu?
+(HeidiGallinat kuesst HeinRich auf die rechte Backe) 
+(Wechselseitiges ShakeHands)
+
+(SabineVonSchorlemer schlendert mit einem Gläschen RotKaeppchen vorbei)
+ * RaLi: Guten Tag, Frau MinisTer
+ * SabineVonSchorlemer: Guten Tag, kennen wir uns schon?
+ * RaLi: Es koennte sein, vielleicht haben Sie meine Tweets zu diesem MindEvent gelesen?
+ * SabineVonSchorlemer: Ah, einen Moment, ich frage mal kurz RobertWeichert nach dem heutigen HashTag...
+ * HeidiGallinat: Ja, vom LockSchuppen habe ich auch schon Aktien - ich hoffe das wird meine AltersVersorgung, wenn der EuRo jetzt zusammenbricht.
+ * ...
+ * ...
+ * ...
+ * GretChen: So, mein lieber HeinRich, jetzt müssen wir uns aber sputen und mit der LinieAcht zum BischofsWeg rauschen, damit wir es PuenktLich zum PieschenArtMuseum schaffen?
+ * HeinRich: "PieschenArtMuseum" - was ist denn das jetzt schon wieder?
+(GretChen küsst HeinRich InnigLich)
+ * GretChen: Noch Fragen, HeinRich?
+ * HeinRich: AuWeia! Husch!
+(TraumPaar ab)

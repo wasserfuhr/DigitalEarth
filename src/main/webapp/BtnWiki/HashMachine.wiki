@@ -1,0 +1,16 @@
+HashTango
+
+ * cache (TerraDrive)
+ * depth
+ * collisions (OneToThree)
+ * types
+
+example: (65ea041e1df2b44fa4e9f04a27ca5c78c3707488):
+{{{
+{"ref":{
+  "18d3921eb784fefd5e20b4111269b697446baea2":{
+   "algorithm":"SHA-1",
+   "length":160,
+   "type":"application/json"}},
+ "StatusMessage":"HelloHashMachine"}
+}}}

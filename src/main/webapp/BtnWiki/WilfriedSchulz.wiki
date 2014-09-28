@@ -1,0 +1,3 @@
+ * IsA: PerSon
+ * BirthDay: 05-26
+ * DeWikiPedia: https://de.wikipedia.org/wiki/Wilfried_Schulz

@@ -1,0 +1,4 @@
+ * IsA: BlogPost
+ * HomePage: http://hplusmagazine.com/2012/04/12/transhumanism-and-the-human-expansion-into-space-a-conflict-with-physics/
+ * DcAuthor: KeithHenson
+ * TriBy: http://www.acceleratingfuture.com/michael/blog/2012/11/think-twice-a-response-to-kevin-kelly-on-thinkism/

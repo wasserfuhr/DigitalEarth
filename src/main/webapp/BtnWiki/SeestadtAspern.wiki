@@ -1,0 +1,2 @@
+ * WikiPedia: https://de.wikipedia.org/wiki/Seestadt_Aspern
+ * PartOf: StadtWien

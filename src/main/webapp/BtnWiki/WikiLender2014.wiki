@@ -1,0 +1,89 @@
+WikiLender2014 « AnDo2014 » WikiLender2013
+
+WikiLender
+
+|| *yyyy-MM-dd:hhmm*||UnTil||Status||*MindPlace*|| *MindEvent*|| *MindPeople*||
+||2117-12-10     || || ||SolarSystem    ||VenusTransit   ||SpesChen RaWa EtAl||
+||2114-02-07     || || ||HfBk           ||Defense        ||RaWa/1||
+||2059-02-12     || || ||EbersWalde     ||PoTc           ||RaKu RaWa SiBe? ||
+||2029-12-31     || || ||               ||RainerLeaks    ||                ||
+||2029-03-30     || || ||               ||leak WiDo GivenName||            ||
+||2022           || || ||PlanetErde     ||MarsOne        ||                ||
+||2020-12-31     || || ||HauptStaedtchen||ZweiMillionenStadt||             ||
+||2019           || || ||SemperOper     ||AdversoFlumine ||EttaScollo      ||
+||2018-01-05     || || ||PlanetErde     ||InspirationMars||                ||
+||2016-12-31     || || ||HauptStaedtchen||MillionenStadt ||                ||
+||2016           || || ||HauptStaedtchen||ExPo2023 bid   ||n               ||
+||2015-04-20     || || ||               ||AppEngine migration||RaWa        ||
+||2015-04-01     || || ||SparFalle      ||BankRaub       ||ChSc? RaWa      ||
+||2015-01-30     || || ||SemperOper     ||SemperLust     ||ChSc? HaJo RaWa?||
+||2014-10-18     || || ||LeOper         ||LeBall         ||RaWa? TaIn/n    ||
+||2014-08-23     || || ||StadtDresden   ||            ||PhilippPoisel MaHi?||
+||2014-06-13     || || ||StadtDresden   ||GeBurt         ||EisKind         ||
+||2014-05-25     || || ||StadtDresden   ||Kunst          ||HeMo RaWa?      ||
+||2014-05-25     || || ||StadtDresden   ||KommunalWahl   ||n               ||
+||2014-04-11     || || ||StadtDresden   ||LipsiusVibes   ||n               ||
+||2014-04-05     || || ||StadtDresden   ||LifeDay16384   ||n               ||
+||2014-04-03     || || ||GalerieJohn    ||Vernissage     ||JoHo LaJo RaWa  ||
+||2014-04-01     || || ||SpaceTower     ||BeckerStich    ||BilFi2          ||
+||2014-04-01     || || ||SparFalle      ||BankRaub       ||ChSc? RaWa      ||
+||2014-03-29     || || ||BankenViertel  ||Party          ||RaWa? SvEc      ||
+||2014-03-27     || || ||SemperOper     ||LangNacht      ||ChSc HeGa       ||
+||2014-03-22     || || ||ParkHotel      ||HutBall-Party  ||HeGa?           ||
+||2014-03-21     || || ||ParkHotel      ||HutBall        ||ChSc HeGa?      ||
+||2014-03-18:1630|| || ||AltmarktGalerie||SchlaraffenArt ||HeMo RaWa       ||
+||2014-03-16:1750|| || ||OtReick        ||TanzPr         ||KaPa RaWa       ||
+||2014-03-16:1500|| || ||SingleSchloss  ||BankSpiel      ||ChSc RaWa       ||
+||2014-03-12:1500|| || ||SingleSchloss  ||Sitting        ||JayEff RaWa     ||
+||2014-03-11:2100|| || ||KleinHaus      ||PoWoCo         ||HeMo RaWa       ||
+||2014-03-10:1830|| || ||OtReick        ||TanzPr         ||KaPa RaWa       ||
+||2014-03-09     || ||CANCELED||NeuStadt||PoWoCo         ||HeMo RaWa       ||
+||2014-03-09:1800|| || ||CafeLloyds     ||FensterKreis   ||FrHe RaWa/n     ||
+||2014-03-08     || || ||LeOper         ||MozartRequiem  ||TaIn?           ||
+||2014-03-08     || || ||HauptiLidl     ||SpaetSchicht   ||PrintDiva       ||
+||2014-03-07     || || ||AltStadt       ||SchlossParty   ||BeaBe HeGa      ||
+||2014-03-07:1800|| || ||NeuStadt       ||CoWoKreis      ||RaWa            ||
+||2014-03-07     || || ||HauptiLidl     ||SpaetSchicht   ||PrintDiva       ||
+||2014-03-06     || || ||GalerieJohn    ||Vernissage     ||JoHo LaJo  RaWa ||
+||2014-03-06     || || ||AltStadt       ||UndSonstSo     ||RaWa SvEc ViBra?||
+||2014-03-05:1930|| || ||SchlossProschwitz||PrinzenTouch ||ChSc RaWa/n     ||
+||2014-03-05:1855|| || ||PlanetOmega    ||PickUp         ||ChSc RaWa       ||
+||2014-03-05:1600|| || ||HfBk           ||StellProbe     ||HeMo RaWa       ||
+||2014-03-04     || || ||ParkHotel      ||Fasching       ||                ||
+||2014-03-03:1500|| || ||RasKolNiKoff   ||PoWoCo         ||RaWa ScAu       ||
+||2014-03-01:2100|| || ||GlaskugelHaus  ||PoWoCo         ||RaWa ZwAn       ||
+||2014-02-28:2350|| || ||RasKolNiKoff   ||PoWoCo         ||RaWa ZwAn       ||
+||2014-02-27     || || ||StadtWien      ||OpernBall      ||ChSc? HaJo? RaWa?||
+||2014-02-23:1230|| || ||Blumenau       ||PoWoCo         ||ChSc RaWa       ||
+||2014-02-22     || || ||               ||FsIt           ||                ||
+||2014-02-22     || || ||ScheuneDresden ||LinguBaerenTanz||                ||
+||2014-02-20:1630|| || ||SlUb           ||ResteRaten     ||HeMo RaWa       ||
+||2014-02-19:1645|| || ||SchulGasse     ||KellerStunde   ||ChSc JayEff RaWa||
+||2014-02-18:1800|| || ||BruehlGarten   ||SuWoCo         ||MaHi RaWa       ||
+||2014-02-15     || ||CANCELED||AltStadt||SuWoCo         ||MaHi RaWa       ||
+||2014-02-14:1930|| || ||OtProhlis      ||PoWoCo         ||KiLa RaWa       ||
+||2014-02-13     || || ||GalerieJohn    ||Vernissagge    ||LaJo LuSch RaWa ||
+||2014-02-12     || || ||WettBuero      ||VorTrag        ||FranzGroll      ||
+||2014-02-12     || || ||SingleSchloss  ||Sitting        ||JayEff RaWa     ||
+||2014-02-11:2000|| || ||GalerieDrei    ||RestRaten      ||HeMo RaWa       ||
+||2014-02-08:1900|| || ||ShadowSphere   ||PoWoCo         ||KiLa RaWa       ||
+||2014-02-08     || || ||SingleSchloss  ||AfterPartyDesJahres||RaWa        ||
+||2014-02-07     || || ||SemperOper     ||SemperLust     ||ChSc HaJo RaWa SiHo||
+||2014-02-06:1730|| || ||Albertinum     ||HfBk           ||                ||
+||2014-02-06     || || ||DeutschLand    ||NettoKom       ||                ||
+||2014-02-05:2100|| || ||KarlMayBar     ||Briefing       ||SpCo BalCh      ||
+||2014-02-05:1030|| || ||AltStadt       ||AnProbe        ||                ||
+||2014-02-04:1800|| || ||SingleSchloss  ||Sitting        ||JayEff RaWa     ||
+||2014-02-02:1430|| || ||LeHbfPark      ||PoWoCo         ||RaWa TaIn       ||
+||2014-01-31     || || ||BankenViertel  ||BirthDay       ||GottDerGase     ||
+||2014-01-30:1800|| ||CANCELED||SingleSchloss||SemperSetting||RaWa JayEff  ||
+||2014-01-27:1900|| || ||Mimu           ||Lesung         ||IrisBerben      ||
+||2014-01-24:1800|| || ||AltMarkt       ||HilfsWerk      ||KiLa RaWa       ||
+||2014-01-22:1839|| || ||StrassburgPlatz||HilfsWerk      ||KiLa RaWa       ||
+||2014-01-21:2100|| || ||TanzschuleWeise||...            ||ChSc HeGa RaWa  ||
+||2014-01-22     || || ||               ||FsIt           ||                ||
+||2014-01-16:1600|| || ||TrWo           ||UmZug          ||                ||
+||2014-01-11     || || ||DeutschLand    ||GloryParty     ||                ||
+||2014-01-10:1900|| || ||DeutschLand    ||BellaFigura    ||                ||
+||2014-01-06     || || ||DeutschLand    ||NettoKom       ||                ||
+||2014-01-05     || || ||DeutschLand    ||InWx           ||                ||

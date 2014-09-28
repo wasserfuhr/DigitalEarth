@@ -1,0 +1,77 @@
+{{{
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
+
+import junit.framework.TestCase;
+
+import org.apache.bcel.Constants;
+
+public class ClassLoaderTest extends TestCase {
+
+ public class TestClassLoader extends ClassLoader {
+
+  public TestClassLoader() {};
+
+  public void doIt() throws InstantiationException, IllegalAccessException, SecurityException,
+   NoSuchMethodException, IllegalArgumentException, InvocationTargetException {
+﻿    ﻿byte code[]=new byte[300];
+    ClassLoader cl = this;//getParent();
+    System.out.println("ClassLoader hierarchy:");
+    while(cl!=null) {
+     System.out.println(cl);
+     cl=cl.getParent();
+    }
+    String theClass[]= { // one of the simplest possible Java classes:
+     // compiled from: "public class RaWa { public static int add(int a){return a+a;}}"
+     "00000000  ca fe ba be 00 00 00 32 00 0c 0a 00 03 00 09 07  |.......2........|",
+     "00000010  00 0a 07 00 0b 01 00 06 3c 69 6e 69 74 3e 01 00  |........<init>..|",
+     "00000020  03 28 29 56 01 00 04 43 6f 64 65 01 00 03 61 64  |.()V...Code...ad|",
+     "00000030  64 01 00 04 28 49 29 49 0c 00 04 00 05 01 00 04  |d...(I)I........|",
+     "00000040  52 61 57 61 01 00 10 6a 61 76 61 2f 6c 61 6e 67  |RaWa...java/lang|",
+     "00000050  2f 4f 62 6a 65 63 74 00 21 00 02 00 03 00 00 00  |/Object.!.......|",
+     "00000060  00 00 02 00 01 00 04 00 05 00 01 00 06 00 00 00  |................|",
+     "00000070  11 00 01 00 01 00 00 00 05 2a b7 00 01 b1 00 00  |.........*......|",
+     "00000080  00 00 00 09 00 07 00 08 00 01 00 06 00 00 00 10  |................|",
+     "00000090  00 02 00 01 00 00 00 04 1a 1a 60 ac 00 00 00 00  |..........`.....|",
+     "000000a0  00 00                                            |..|"};
+    //"1a 1a 60 ac" are actually the bytecodes for the addition,
+    //so "iload_0 iload_0 iadd ireturn"
+  ﻿  int ct=0;
+    for (int i=0; i<theClass.length; i++) {
+    String hex=theClass[i].substring("00000000  ".length());
+     int pos=0;
+     while (' '!=hex.charAt(pos*3)) {
+      code[ct++]=(byte)Integer.parseInt(hex.substring(pos*3,pos*3+2).toUpperCase(),16);
+    ﻿  pos++;
+   ﻿  }
+    }
+    assertEquals((byte)Constants.ILOAD_0, code[16*9+8]);
+    assertEquals((byte)Constants.ILOAD_0, code[16*9+9]);
+    assertEquals((byte)Constants.IADD, code[16*9+10]);
+    assertEquals((byte)Constants.IRETURN, code[16*9+11]);
+    System.out.println("Class bytecode:");
+    System.out.println(new String(code));
+    Class<?> clDef = defineClass("RaWa", code, 0, ct);
+    Class<?> clDef2 = defineClass(null, code, 0, ct);
+    System.out.println(clDef);
+﻿    Method[] ms = clDef.getMethods();
+﻿    for (Method m:ms) {
+﻿     System.out.println(m.getName());
+﻿     if ("add".equals(m.getName())) {
+﻿      Object ret = m.invoke(clDef, 16);
+﻿      System.out.println(ret);
+﻿      assert ret.equals(32);
+﻿     }
+﻿    }
+﻿   }
+  };
+
+﻿  /**
+﻿   * test whether classloader permissions are ok in the given JRE environment.
+﻿   * This is important for several class instrumentations done e.g. by hibernate or ASM. 
+﻿   */
+﻿  public void testLoader() throws Exception {
+﻿   new TestClassLoader().doIt();
+﻿  }
+ }
+}}}

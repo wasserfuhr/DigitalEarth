@@ -1,0 +1,5 @@
+ * IsA: WirtsHaus
+ * PartOf: GlasManufaktur
+ * HomePage: http://www.lesage.de/
+
+UweKlaus NorbertKipp

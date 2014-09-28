@@ -1,0 +1,5 @@
+ * IsA: SuperWoman
+ * BornIn: 1943
+ * BirthDay: 10-22
+ * InterWiki: [WikiPedia:Catherine_Deneuve]
+ * HaTa: HaJo

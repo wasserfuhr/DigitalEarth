@@ -1,0 +1,7 @@
+What were the main reasons to switch the PieschenBank WebApp from AmazonWebServices (especially EcZwo) to AppEngine?
+ * Free AppQuota, with the potential of a better growing DeveloperCommunity 
+ * a much better scalable DataStore
+ * great AdminConsole
+ * runs out of the box HtTps
+ * easier DePloy'ment
+ * ChannelApi for LiveChat and BrowserGame's

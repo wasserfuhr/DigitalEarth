@@ -1,0 +1,20 @@
+For the RegEx AlphaBet we need 2*26+10=62 chars + 1 StopChar = 6 bit.
+
+ 000000=StopChar
+ 000001=A
+ 000010=B
+ 000011=C
+ ...
+ 011010=Z
+ 001011=a
+ 001100=b
+ 001101=c
+ ...
+ 110101=z
+ 110110=0
+ ...
+ 111110=9
+
+UniCode for PageContent.
+
+BrainStorm: EighteenInch LaptopRitter OpenSilicon BrainSoup SingularAcademy RainerTest

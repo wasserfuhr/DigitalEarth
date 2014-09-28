@@ -1,0 +1,4 @@
+ * IsA: EnterPrise
+ * WikiPedia: https://de.wikipedia.org/wiki/Berkshire_Hathaway
+ * IsIn: US0846701086
+ * MindOne: WarrenBuffett

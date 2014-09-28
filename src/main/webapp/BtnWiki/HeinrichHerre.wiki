@@ -1,0 +1,9 @@
+ * IsA: ProFessor
+ * XingLe: https://www.xing.com/profile/Heinrich_Herre
+ * HomePage: http://www.informatik.uni-leipzig.de/fk/pers/herre.html
+ * PageNumber: 8
+ * PagePath: LarryPage SergeyBrin MonikaHenzinger DavidEppstein JoanFeigenbaum TimBl ChristianBizer SoerenAuer HeinrichHerre
+
+DbLp: http://www.dblp.org/db/indices/a-tree/h/Herre:Heinrich.html
+
+via https://www.xing.com/events/vortrag-ontologie-epistemologie-raum-15-juni-2012-16-899329

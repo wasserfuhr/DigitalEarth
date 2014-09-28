@@ -1,0 +1,8 @@
+ * IsA : LifeDay
+ * RaWa : LifeDay15950 « 2013-01-25 » LifeDay15948
+
+BenchMark: ComPress ThunderBird InBox from 2.351.003.418 to 1.035.369.005 bytes in 27:25 min (1645 sec) on EeepiGon with SevenZip
+
+BenchMark: same-drive copy of ThunderBird InBox (2.351.003.418 bytes) in 3:50min (230sec) on EeepiGon
+
+PostReal

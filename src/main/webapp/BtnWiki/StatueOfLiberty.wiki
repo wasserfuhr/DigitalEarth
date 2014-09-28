@@ -1,0 +1,3 @@
+ * IsA: LandMark
+ * WikiPedia: https://en.wikipedia.org/wiki/Statue_of_Liberty
+ * PartOf: NewYork

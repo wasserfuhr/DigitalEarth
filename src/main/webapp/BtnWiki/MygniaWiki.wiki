@@ -1,0 +1,2 @@
+ * HomePage: http://www.mygnia.de/wiki/
+ * WikiEngine: XwikiWiki

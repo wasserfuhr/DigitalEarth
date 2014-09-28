@@ -1,0 +1,3 @@
+ * TriBy: https://chromium.googlesource.com/apps/libapps/+/master/nassh/doc/faq.txt
+
+old ChromeOs shell

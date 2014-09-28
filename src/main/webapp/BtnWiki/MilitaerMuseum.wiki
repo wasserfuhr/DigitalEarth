@@ -1,0 +1,5 @@
+ * IsA: MindBuilding
+ * InterWiki: [WikiPedia:Bundeswehr_Military_History_Museum]
+ * OperatedBy: BundesWehr
+ * PartOf: AlbertStadt
+ * ArchiTect: DanielLibeskind

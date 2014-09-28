@@ -1,0 +1,3 @@
+ * IsA: MindPlace
+ * OpenStreetMap: https://www.openstreetmap.org/node/1138090584
+ * PartOf: PragStrasse

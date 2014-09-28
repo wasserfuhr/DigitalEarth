@@ -1,0 +1,5 @@
+ * IsA: PowerWoman
+ * ChildOf: DanicaAbramovic VojoAbramovic
+ * BirthDay: 11-30
+ * WikiPedia: https://en.wikipedia.org/wiki/Marina_Abramovi%C4%87
+ * TriBy: https://www.facebook.com/RainerWasserfuhr/posts/468110709925445

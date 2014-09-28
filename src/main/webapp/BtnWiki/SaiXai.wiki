@@ -1,0 +1,11 @@
+SaxAi=SaiXi: SingularValley AiXi LuTo PhotoSynth CastAi KeepVid
+
+ # https://www.youtube.com/watch?v=CUB_Kf73BZQ
+ # https://www.youtube.com/watch?v=a244Pt3laR0
+ # https://www.youtube.com/watch?v=9cZaHuGLTTU
+
+RefPt
+
+http://jsbin.com/qemof/1/edit
+
+https://commons.wikimedia.org/wiki/File:Dresden_Luftbild_Postplatz_Zwinger.jpg

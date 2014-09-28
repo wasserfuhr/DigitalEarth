@@ -1,0 +1,4 @@
+ * IsA: EntrePreneur
+ * BornIn: 1969
+ * BirthDay: 12-20
+ * InterWiki: [WikiPedia:David_Hanson_(robotics_designer)]

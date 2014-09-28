@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/Staged_event-driven_architecture
+
+via http://www.slideshare.net/Stephan.Schmidt/lmax-architecture-jax-conference/14

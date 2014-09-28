@@ -1,0 +1,9 @@
+ * WikiPedia: https://en.wikipedia.org/wiki/CouchDB
+
+http://c2.com/cgi/wiki?CouchDb
+
+http://127.0.0.1:5984/_utils/
+
+http://codemonkeyism.com/nosql-polyglott-persistence/
+
+DomainModel: Database Document Field Key Value Version View

@@ -1,0 +1,8 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16127 « 2013-07-21 » LifeDay16125
+ * HappyBirthday: BeppeGrillo MartinWallerius
+ * HasSeen: JuSt LadyKatja
+ * HaKi: HeMo
+ * HaTa: BuRi HeMo
+ * BodyPath: TrWo NapoleonStein AlaunPark NapoleonStein TrWo
+ * CurrentProject: RainerTest ExPo2023

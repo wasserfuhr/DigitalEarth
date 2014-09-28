@@ -1,0 +1,4 @@
+ * IsA: ArchiTect ProFessor
+ * BornIn: 1943
+ * BirthDay: 11-03
+ * InterWiki: [DeWikiPedia:Manfred_Ortner_(Architekt)]

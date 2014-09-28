@@ -1,0 +1,5 @@
+ * EtymoLogia: Semantic Pointer Architecture: Unified Network
+ * HomePage: http://nengo.ca/build-a-brain
+ * TriBy: http://singularityhub.com/2012/12/10/scientists-create-artificial-brain-with-2-3-million-simulated-neurons/
+
+#AiProject

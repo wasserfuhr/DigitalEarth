@@ -1,0 +1,1 @@
+SpielRegel for BtnWiki: DoNt use a PageLabel because we already have BrainStorm and MindProps

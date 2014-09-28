@@ -1,0 +1,1466 @@
+=2012-03-31:0525 L:TraumWohnung=
+
+FundaMent für eine neue GesellschaftsOrdnung
+
+KunstSprache
+
+WebEditor SubVersion RecentChanges CodeWiki VanityUrl
+
+ * /* RootHandler
+ * / HomeHandler
+ * /diff: WikiDiff
+ * /edit: WebEditor
+ * /eval: 
+ * /pay:  PayMent
+ * /wiki: MindWikiHandler
+ * /NoOs: NoOs
+UrlDesign
+
+wrote WebBetriebsWirtschaftsLehre.
+
+LiquidEconomy LiquidEnterprise 
+
+ich bin der weg, die WahrHeit und Euer LifeWiki
+
+Jedes politische modell das SocialGraph
+
+es ist meine LebensAufgabe, nicht nur die ParaDox'ien in meinem GeHirn sondern auch die zwischen DenDarin gespeicherten PerSon'en UnterNehmen MindPattern und NationState's aufzuloesen
+
+wenn mich nicht alles taeuscht asind die TopThree der top500 made NearBy- zeit fuer ein MadeInSaxony-label? ;) http://en.wikipedia.org/wiki/Opteron#Supercomputers
+
+Ihr Einmal-Passwort für die Registrierung bei "Mein ALDI Talk" lautet QY5VLRyM   Ihr ALDI Talk-Team
+
+=2012-03-25:1925 L:CvjmBaracke=
+
+FabAcademy seems to show that MiniPolis is much more than possible.
+
+Die NooSphere ist ein DokuMan.
+
+
+=2012-03-23:1750 L:AlaunPark=
+
+RaWa frug sich, wie lange die an oder andere LeserIn brauchen würde, um die neue ReverseChronological OrdNung zu entschlüsseln. In der EndMontage der NooSphere war das motivisch ja auch schon angedeutet. Allerdings könnte man den ganzen ZukunftsRoman so schreiben, dass er nur von hinten nach vorn gelesen dechiffierbar wäre.
+
+RaWa fand den GrWa von TrMan mehr und mehr putzig.
+
+TrueMan imaginierte, wie der AlaunPark sich dank seiner raffinierten In(ter)vention
+in den kommenden Jahren in den AllLiebePark verwandeln würde.
+Da würde selbst ChristoJavacheff alt aussehen.
+
+Und dann war der SunSet erfolgt, zumindest hinter den Häuser-HoriZon.
+
+BeaBe: braunes, aber eine tiefrote SeeLe ;) - https://foursquare.com/rainer/checkin/4f6ca8d37b0c43d8d5ef74f1
+
+TrueMan empfindet dieses WorkLog, das MindWiki und die gesamte NooSphere als immens spannend.
+
+TrueMan könnte nachher noch in den CopyPlanet - mal checken ob die VorLage'n für den AusDruck schon passabel sind.
+
+Bei RaucherPause vorm VaPiano verspürte TrueMan WikiWind'e aus der Nähe der InnerStadt.
+
+SchnuefffChen hat noch ein Nokia für GretChen über; MobIn!
+
+RaWa begann eine LoewenJagd mit ChSc, welche PerSon gg. :1430 vom AltMarkt kommend in die AltmarktGalerie huschte: wir wissen schon:
+ * neither FbFriend of ChSc or RaWa
+ * BornIn ca 1962
+ * no short hair, blonde
+ * neither HasKissed nor HasKnistered ChSc
+
+HotTopics im VaPiano: SaechsischZeitung GlobalFoundries UrLaub StudioBar JayEff TalkInDerTaverne MacCosmetics BerlinAirport IrSco SiggyWyrd HutBall UdoJuergens HebedasBar LockShare
+
+Sie gingen über die PragerStrasse zum VaPiano.
+
+SchnuefffChen holte TrueMan am AltMarkt ab, wo er auf der BetonBank sitzt. Er zeigte ihr JimboLacroix und war nicht sicher ob sie "Convictions" übersetzen kann.
+
+Beim Weg dahin sah TrueMan einen SebastianBoehm-DoppelGanger.
+
+TrueMan sass nahe dem BoulePlatz auf der Mauer auf der Lauer nach BeuteSchema-Instanzen.
+
+SabineFriedel verabschiedet sich von ihren Boule-Freunden.
+
+
+=2012-03-22:1522 L:TraumWohnung=
+
+ändere DefaultSettings im FreePdf-Driver: 1200 DotsPerInch und LandScape.
+
+Da der AusDruck viel breiter als hoch ist, hat er unten eine grosse ungenutzt Flaeche. Daher PlanAenderung: Blende die SeitenLeiste doch ein und mache sie minimal breit. Optimale Sichthoehe ist jetzt 880m, also die des BurjDubai.
+
+
+=2012-03-22:1440 L:TraumWohnung=
+
+Wenn MiniPolis den MassStab 1:2048 hat und die LinieDrei 30m lang ist, dann muss sie auf dem AusDruck 30000/2048=14,6mm lang werden.
+Wenn auf dem AusDruck der 200m-Balken 297 Pixel lang ist, ist 1m 0,673 Pixel
+lang. Also muss LinieDrei 20 Pixel lang werden.
+
+LessionLearned: durch DoppelClick auf das "N"-Symbol nordet GoogleEarth automatisch die Karte ein.
+
+
+=2012-03-21=
+
+Jahresbestleistung: 8 Bahnen im ElbaMare!
+
+=2012-03-20:1637 L:TraumWohnung=
+
+wrote HartmutCalling.
+
+=2012-03-19:0257 L:TraumWohnung=
+
+ * TrueMan: Es gibt eine vierfache Ticket-Order von IrIs!
+ * RaLi: Wer ist IrIs?
+ * TrueMan: Wie sieht denn das LockSchuppenOpening-ProGram aus?
+ * RaLi: Oh - da scheint der MissingLink zu ArtKleiner zu sein.
+ * TrueMan: ach RaLi, Du und Dein strategisches AdHs! War unser methodischer AnSatz 
+
+BisHer nicht immer, die DenkGrenze
+von WirkLich in Richtung MoegLich zu verschieben?
+
+
+=2012-03-19:0219 L:TraumWohnung=
+
+The SimCard is the new PersonalAusweis
+
+=2012-03-19:0035 L:TraumWohnung=
+
+ProgrammierSchule
+
+weiter geht's im Text: TheMission: print the MiniPolis map.
+Mit dem KaestchenPapier vom MoleSkine skaliere ich 
+per GoogleEarth die LinieDrei am BfNeustadt so, dass sie
+genau drei Kästen hoch wird.
+(Achtung: blende die Seitenleiste aus, FullScreen, denn sonst ändert 
+sich der MassStab. Überhaupt sind alle Vorgehensweisen hier nur 
+auf einem 10' EeePc mit 1024x600 DisPlay reproduzierbar!)
+  51.067181°   13.741392°
+
+=2012-03-18:2153 L:TerrasseAmBischofsplatz=
+
+er pickte sich eine der LeserIn'nen und versuchte
+zu antezipieren, was sie VerSteh'en und Empfinden
+würde.
+Er konnte nicht mehr Texte für eine PerSon schreiben.
+
+Miss-VerSteh'en war inclusive. War es immer schon.
+Bei fast JederMann. Da musste ein KunstWerk durch.
+Jede LeserIn konnte sein Material durch ihre WahrnehmungsFenster
+zu ihrer eigenen VorstellungsWelt ausmalen.
+Sie war die Herrin ihres eigenen Wollens, oder Ihrer
+Ohnmacht, ihrer Wut, ihrer Liebe, ihrer ObSession.
+Alles war nur in ihrem Kopf.
+Ein grosses KunstWerk musste den
+Raum _aller_ MoegLich'en Interpretationen öffnen.
+Das Schreiben ein ProCess- an dem er nichts mehr ConTrol'ieren konnte.
+Es floss durch ihn durch.
+Wenn es gut wurde, verstand er nicht.
+Er schrieb mit seinem ganzen Körper.
+Seine Finger waren seine Pinsel und Meissel,
+sein GeHirn nur ein ZwischenSpeicher.
+Sein Schwanz nur ein JoyStick, der mass, ob er die 
+Schoesse seiner LeserIn'nen zum Fluten und Zucken brachten.
+
+BtnWiki - Anclicken lohnt sich!
+
+wrote EpizentrumDesNeids
+
+
+bei der FrauenWahl darf man schon mal daneben greifen - bei der StammKneipe nicht.
+
+
+ach mein LockSchuppen. Da war sein LockSchnurpsel, der 
+immer wieder vom Hölzchen aufs Stöckchen sprang. War das eine Schwaeche - ein
+TopiMierung - wie GunterDueck zu sagen pflegte?
+Und immer wieder die GeldFrage.
+Disziplin - MentalPersistence AdHs. kein ReDo.
+OrganizationalThinking, aber keine Organisation.
+UnOrganisation. NoOrg.
+
+ihm fiel auf, dass er zu seinem wichtigsten WerkZeug,
+der TastaTur ein beinahe un-AchtSam'es Verhaeltnis pflegte.
+Da waren diese über einhundert Tasten, die er noch nicht einmal
+Noch immer kannte er nicht und ZehnFingerSystem.
+Dies wollte er jetzt ändern. Er wollte bald in der Lage
+sein, blind schreiben zu können. Schreiben zu können,
+während sein Blick durch seine StammKneipe schweifte
+und oder er gar mit anderen Menschen sprach.
+Nur
+ * esc, f1-f12, pause, druck, einf entf = 
+Er könnte fast wie auf einer Braille-TastaTur
+zur Orientierung einzelne Tasten mit fühlbaren Markern versehen.
+
+komponiere Tweet speziell für die HorsePowerWoman:
+grüsse ausrichten ist liken der (pferde-)FleischWelt.
+
+wie spätestens LolingSingle zeigen wird:
+Das heilige -ManTra "GehRausSpielen" des TwentiethCentury
+wird bald so was von über den Haufen geworfen.
+Die NooSphere wird FreudenFunken spüren und
+die FleischWelt braten.
+
+wrote LolingSingle.
+
+er spürte das: Die wachsende Distanz 
+zur AlltagsWelt. Er hatte etwas länger gebraucht um dies 
+auszubalancieren zu koennen. Es war eine Kraft. Eine gewaltige Kraft.
+Wo früher ProTest, Indifferenz oder Apathie durchbrach, war
+es jetzt wie der Abstand zwischen den Flächen in einem Kondensator,
+ein KraftFeld, das er Gestaltungs sich selbst verstärkenden
+im Griff hatte _und_ ihn
+
+
+ArtistForADay - hey Leute, begleitet 
+den KonzeptKuenstler RainerWasserfuhr bei seiner
+"ArBeit" an einem der AmbItion'ierten KunstWerk'e
+der GegenWart.
+
+wiederholen wir das die kommenden Tage noch?
+- wollen noch an unserem BusinessProposal schaffen,
+das schleunigst nach AbuDhabi muss - 
+PS: ProJekt-DeckName: »HelgoHunger«! ;)
+
+voll krass: der Kerl am Nebentisch koennte RainerWasserfuhr1989
+sein - oder vielleich 1994 - selbst das häufige etwas auf
+Schüchternheit hindeutende Zurechtrücken der Brille
+passt wie die Faust aufs DoppelGanger-Auge.
+Na gut, jetzt plaudert er ganz gelassen mit einer Frau,
+also FehlAlarm. Aber wie dem auch sei:
+Man stelle sich dies als Motiv in der NooSphere
+vor: Das ZeitSprung-modifizierte AlterEgo,
+das dem ahnungslosen jüngeren zu AnFang immer
+als Wissender gegenübertritt. Aber  
+mit zunehmender Verbreitung der Figuren schimmert
+es auch immer AhnungsLos'en, dass im RaumZeitKontinuum
+längst ein SingularLoch aufgestossen wurde.
+
+wrote LebenOhneMusik.
+
+=2012-03-18:2115 L:TerrasseAmBischofsplatz=
+
+ * TrueMan is sitting at his StammKneipe
+SemperPhone:
+ * TrueMan: "Hi Khaldoon, how is Manchester going?"
+ * _TrueMan nods several times over._ 
+ * TrueMan: Ok fine, The reason I'm calling today is our BusinessProposal.
+SalimIsmail gave a presentation for Mubadala last year.
+unused RoundHouse, over one century old, currently owned by - at the centre is a TurnTable and we have started ot build CityModel
+There is already a similar ProJekt in HamBurg that is quite popular and successful.
+Of course, compared to construction projects at AbuDhabi or DuBai, 
+this might seem to. Your HighTech focus.
+We target the emerging market of ThreeDPrint'ing,
+that is on the verge to revolutionize this decade.
+WorLd's largest, that attracts over a million visitors per year.
+
+As you will know from your GlobalFoundries activities,
+SiliconSaxony is a HighTech HotSpot.
+Currently.
+Today CrowdSourcing based, when nobody wanted to sell
+for under 1 EuRo, which might indicate that 
+approaching a MarketCap of 1 million EuRo.
+
+
+MikeTreder
+
+=2012-03-18:2041 L:McXery=
+
+the most ImPact'ous way is to bring the ConTent of the MindWiki to the MiNd's. Some people don't read texts. Some people don't look up the parts of a text they DoNt UnderStand. MetaPhor: Stand in front of them and shout at them.
+ParaDox'icalize this in the form of WebArt.
+
+edited LockSchuppenBausteln
+
+=2012-03-17:2223 L:TraumWohnung=
+
+Jetzt kenne ich also den ZoomLevel: 
+https://maps.google.com/maps?ll=51.068,13.741&t=h&z=18
+
+Nehme die HotelKronentor-Visitenkarte zum Abschätzen der Grösse eines Pixels auf dem EeepiGon-DisPlay. Die Visitenkarte dürfte 85,6x55mm gross sein:
+ * Höhe (600 pixel): 1 Breite und eine Länge, abzgl ca 8mm: 55+86-8= 128 (mm). 128/600=0,2 (mm).
+ * Breite (1024 pixel): 2 Längen + 1 Breite abzgl ca 4mm: 2x86+55-4= 223 (mm). 223/1024=0,2178 (mm)
+Ein Pixel ist also ca 0,2 mm hoch und die Breite weicht weniger als 10% davon ab.
+
+Sehe bei GoogleEarth eine DvbTram direkt neben dem LockSchuppen, also wohl eine LinieDrei, rechne mit dem GoogleEarcht-Linie 30m aus, tippe also auf NTG-6DD oder NGT-D6DD. Wie gross wird diese DvbTram im endgültigen Modell? Bei 1:2048 schrumpfen 30m auf knapp 1,5 cm, also 75 pixel. MsPaint aus,
+
+=2012-03-17:1954 L:HiltonDresden=
+
+Ein etwa 50jähriger Mann tritt ein. Auffällig konzentrierte gewölbte Haltung der Finger 
+
+an beiden Händen; ein fast militarischer, aber durchaus eleganter Gang. Beim fast gedankenverlorenen starren auf die DrehTuer wird TrueMan BeWusst wie wenig ein Hotel mit den Gästen derzeit VerBind'ung hat.
+Eine schier unfassbare Entkopplung von Raum Funktion und Geschichte.
+Es könnte nicht nur einen sondern eine ganze Armee von HotelSchreiber'n geben, die die Geschichten der wichtigsten oder aller Gäste miteinander verweben könnten.
+Und AmenIchSageEuch so wird es auch kommen: Dies ist die NooSphere.
+
+The BoundingBox will actually be a BoundingCircle, 16 km might be sufficient.
+ToBeDecided: How far can and should we extend the model. The absolute maximum
+is the full 21m of the TurnTable. However this would not allow us to scale from 1:2048
+to 1:1024. A smaller area would reduce the visitor's desire to be as close as
+possible to the centre of the model, where obviously the most dense activities.
+RaWa will have to find a MonOcle to learn about zooming.
+
+Let's assume FourSquare would start a ScienceFiction novel with EpIsOde's distributed 
+across their locations.
+
+very productive LockSchuppen visit with JoKo.
+Passion, countless ideas, only a few diverging opinions. They washed their dirty hands 
+with clear water at BayrischHofDresden while talking about NastyLoveClub.
+A rough list of JoKo's favourive ArchiTect's in descending order:
+BuckminsterFuller LeCorbusier CharlesEams PeterKulka NormanFoster GunterBehnisch 
+DanielLibeskind.
+
+While walking across the AugustusBruecke and asking JoKo for his WirkSatz, 
+RaWa noticed that PeZim was walking behind them. Together they visit TheaterPlatz 
+DresdenZwinger AltmarktGalerie eating at TavernaAkropolis.
+
+InOut
+
+LockSingularity SingularLock DrehScheibe SiAi VerRueckt NormalDumm
+
+
+=2012-03-17:0145 L:TraumAtelier=
+
+Advancing the new OpenFabrication ParaDigm seems to be in the line with the AbundanceBook. Soon we should also see increasing LobbyIsm for LeistungsschutzRecht of the established industries. Yet another field where RadiCal'ly new thinking beyond the existing regulatory mess and IntellectualProperty would boost growth.
+
+short look at LaserCutter - works nicely for cutting, but currently a little bit restricted  for our more advanced needs. 
+RaLi wasn't yet fully informed about LockWunderland - got interested but needs additional briefings. Some hurdles remain to grow trading of LockShare's.
+
+Simple but impressive prototype of LockWunderland at TraumWohnung. Now an ArchiTect (JoKo?) has to be embraced.
+
+GunterDueck and HeikoHaller in BrandEins 2012-03 - some articles by MischaTaeubner.
+
+Finally got WiFi working at TraumAtelier, unfortunately not very stable.
+
+=2012-03-15:1856 L:BurgerKing=
+
+TrueMan schnuepfelt ganz schoen.
+
+am NebenTisch 2 Mädels mit GebaerdenSprache,
+eine mit SmartPhone (scheinbar SamSung), die andere sehr kess.
+Ein sprachphilosophisch ungemein spannende Situation,
+denn vor allem OnLine könnten ausgeglichene Kommunikationsebene finden.
+GutGegenWikiWind.
+
+Aber das bisherige HighLight des Tages war wohl der
+BeSuch am LockSchuppen und die Entdeckung der architektonischen LeitAchse,
+die nämlich vom SchnittPunkt des SingularLeuchtTurm's mit dem Dach
+gleisparallel über die DachMitte richtung DrehScheibe und dann Richtung
+StellwerkHaeuschen führt und ziemlich genau dort den ErdBoden schneidet.
+
+Nachdem mich in der letzten (oder vorletzten?) Nacht
+die Eingebung überkam, dass das LockWunderland nicht *im* BigSchuppen sein muss, sondern *auf* der DrehScheibe, von einer eleganten modernen Glas-Rundhaus umgeben. Diese Idee wird uns mal noch eine ArchitekturPreis einbringen.
+Jetzt spielen wir also in der NormanFoster-Liga,
+der mit DresdenHbf und ReichstagsKuppel schon zwei
+nicht ganz unähnliche ProJekt'e realisiert hat.
+Auch der DanielLibeskind-Keil im MilitaerMuseum muss als assoziative 
+Referenz herhalten. Die grundlegende funktionale Anordnung ist
+damit also fixiert und es gilt nur noch, die passende Form für die Hülle zu finden.
+Die DrehScheibe gibt einen DurchMesser von etwa 21m vor.
+Die StadtModell-BoundingBox ist derzeit in der WestOst-Achse 18km breit und 16km hoch.
+Ich tendiere also zu 1:2048, das noch einigen Spielraum für VisitorWalk,
+der irgendwie an die WendelTreppe in der ReichstagsKuppel anspielen könnte.
+Ausserdem müsste ich noch etwas genauer zur Passung der BoundingBox
+entlang möglichst glatter Längen- und BreitenGrad-Werte recherchieren.
+Hier ist also PloetzLich ein Kreativ-Feld für WeltKlasse-ArchiTektur aufgebrochen.
+Macht die BauKosten ein paar Millioenchen teurer, aber mit provinziellen
+NormalDumm'heiten geben wir uns nicht mehr ab. Hier muss LandMark entstehen,
+der LeuchtKraft für ganz PlanetErde besitzt.
+Beim Weg von der TraumWohnung zum LockSchuppen entfaltete sich die Idee,
+im BigSchuppen schöne StrassenBahn-Modelle in KnallGelb im MassStab
+1:2 1:4 1:8 EtCetera nebeneinander aufzustellen, und die kleinste in 1:2048
+fährt dann auf einem winzigen und für den MassStab ungemein lang erscheinenden
+Gleis zur DrehScheibe hin. Eventuell passt sogar eine halbe in 1:1 rein,
+(auf dem UhrzeigerSinn-kleinsten Gleis)
+Seither mustere ich jede vorbeifahrende StrassenBahn auf
+ihre Masse und Proportionen hin. Eine der ersten war die DvbTram2805 (sic!, my BirthDay! 
+
+- wenn auch nicht ganz die Form für FansOfIso8601) als LinieDrei,
+die ich somit also fortan fest in's LifeWiki-Herz eingeschlossen habe.
+Als ich dann nach SunSet von der DrehScheibe Richtung BertelsBurg schritt,
+hörte ich schon MartinsHorn sah FeuerWehr mit BlauLicht und fürchtete Feuer.
+Es war aber ein UnFall einer LinieDrei mit einem AutoMobil mit KennZeichen DdGc8042.
+Ich war natürlich regelrecht erleichert, dass es nicht die DvbTram2805 war,
+aber der UnFall schien für den Fahrer ziemlich GeFahr'lich.
+Das Dach vom AutoMobil musste abgeschnitten werden und er wohl BewusstLos
+in den KrankenWagen gebracht.
+Ach so, am PorscheZentrum staunte ich noch über einen CarreraGt für schlappe
+über 320000 EuRo.
+
+SsId: EasyBox-8B8734
+33102 87633 66546 38763
+
+EasyBox-ED7632
+PIN: 48478816
+
+=2012-03-13:0304 L:TraumWohnung=
+
+ThoughtsPerSecond GoogleGears PeerToPeer
+
+wrote AiCity.
+
+=2012-03-13:0141 L:TraumWohnung=
+
+wrote AiBank.
+
+IbrahimAjami LockSchuppen SingularityUniversity
+
+idea OfTheDay: store MindWiki PageContent as a CloJure structure (MindProps, ContinuousText as a list of sections with parsed formatting, enumerations and WikiTable's, similar to HiccupClj). Wrap the structure with a simple CloJure fn. Calculate the MindHash. Could even be simpler to apply an OperationalTransformation on it.
+
+SpuerenVsWissen DeniseBeyer
+
+=2012-03-12:2313 L:TraumWohnung=
+
+MineCraft is the LeGo of the TwentyFirstCentury
+
+=2012-03-11:2241 L:TraumWohnung=
+
+wrote LetterWar
+
+EgoBug
+
+JaehZorn
+
+DnsNrk AlaunPark FabView
+
+=2012-03-11:2042 L:TuermchenSims=
+
+WorldClock ExAct SynChron
+
+In a WorLd where nano- pica- and femto- structures and -times are relevent, it is interesting do check how far SystemKunst is sensibilized for there questions.
+
+=2012-03-11:1110 L:TraumWohnung=
+
+We will use the AppEntity "ChipWafer" that undergoes a ProcessFlow
+by the use of a "FabTool" at each step.
+FabWorker.
+Each AppEngine WebApp produces certain costs on AppEngine.
+If we want to grow beyond Quota, which we have to pay
+in UsDollar. Our BusinessModel is to sell FabCoin.
+
+=2012-03-10:1901 L:HstForstStrasse=
+
+heading towards GeierGipfel.
+
+ASynChron ReFrame'ing of RealLife.
+
+PowerWomenCoach'ing mit MeerChen. ToDo: RepRap als BirthDay-present. Noch mal ChineseDoor-Therapie?
+
+=2012-03-08:1653 L:TraumWohnung=
+
+wrote AnniversaireRoyal
+
+=2012-03-08:1453 L:TraumWohnung=
+
+edited MissionPossible.
+
+wrote ScheinKind1.
+
+=2012-03-08:0301 L:TraumWohnung=
+
+VtZm had 72 views on YouTube - da geht mehr!
+
+sadly, using my MotherTongue limits the possible reach of readers by a factor of approximately ten #FdTb.
+
+given the lazy habit of writing LangDe, the word "TageBuch" makes a really cool GermanIsm.
+
+hach, mein TageBuch im InterNet ist doch irgendwie mein allerbester GespraechsPartner.
+
+da im TraumAtelier kein WiFi ging, plöppte doch mal wieder die Idee des PeerToPeer-SocialNetwork hoch. ApacheDerby? UsbStick?
+
+mal JamesJoyce ReverseEngineer'en?
+
+könnte mal DropBox testen. SemperPhone ist voll, obwohl EiTunes noch mehrere GigaByte unter "other" verzeichnet.
+
+bald mal ein Trip in die InnerStadt? Checke nach dem Aufwachen evtl mal weitere Varianten für AnReise ObDach und MobileInternet. In die SlUb? Aber erst mal was futtern in der SzSuppenbar? Und dann ist ja bald noch der GeierGipfel. Und RussianNight.
+
+Auch wenn die Finanzierung jetzt für sehr viele Monate geklärt sein dürfte: Häufigeres Fragen der GeldFrage könnte VtZm BeSchleunig'en.
+
+Das AiBook dient dem Aufbau der RePutatio als WissenSchaft'ler.
+
+Für die Fortschreibung an Schlüsselfragmenten wie SiSanien TrueMan DistanzSpiel CarenLust DrScheckentuer dürften einige mutige ReFactor'ings angebracht sein, die mit einer neuen WikiEngine leichter von der TastaTur gingen. Evtl auslagern als KurzGeschichte und LeserIn'nen-FeedBack testen #ReRo.
+
+Vorhin an der HalteStelle PuschkinPlatz ein WerbePlakat für ein DiamantEBike: 999 EuRo, Akku aufm GepaeckTraeger.
+
+Also TransparentMan wird ein AriadneFaden. Dann traue ich mich auch wieder etwas forscher an SciFi ran. Die ProtAgonist'en: Globale NetWork's (EliezerYudkowsky PeterThiel EtAl) mischen mit streng Stadt-zentrierten Fäden. DvbAg VerBind'et alles. Die Stadt gar als neuer Nukleus ReSilient'er politischer OrdNung. Dann die RezeptionsSituation genauer vorwegnehmen. Lesung, HoerBuch, TotHolz-Leser im HugenDubel. Rezensionen.
+
+Das WorkLog jetzt konsequenter ReverseChronological.
+
+Die Tage mal nen ProbeDruck der NooSphere vorbereiten?
+
+lange im TraumAtelier. Könnte was werden. Der SchriftSteller könnte seinen WirkRaum gefunden haben. Ca. 200-400 EuRo InVest, dann 1a. Später LockBeamer und MsKinect oder richtiger CaVe.
+
+=2012-03-07:1743 L:BumuellerLoebtau=
+
+Jetzt muss ich nur noch dieses AdJective ErInner'n, mit welchem mich
+im GoldenPfeil JohnHolger bei ErikaLust vorstellte: "Einer der ... der Stadt" #BauchPinsel
+
+edited KarlBuechel.
+
+von der grundlegenden Form her nähern wir uns also DavidGelernter's LifeStream an. In der NooSphere wird die TimeLine auch in die ZuKunft fortgeschrieben und gamifiziert.
+Rund um TrueMan entspannt sich ein WyrdMythos. Wer in der LoebtauPassage die schlichten Alkis sieht, fragt sich immer öfter, ob das eventuell PieschenRobotics-Exemplare sind. Zum Glück haben die alle eine MindId, so dass AsimowsLaw immer gewährleistet ist.
+Ganz besonders boomen wird das LoveBot-Business. CallBoy-Bots werden weibliche Schösse rund um PlanetErde von Höhepunkt zu Höhepunkt reiten.
+Dort wo früher Melkus-RennWagen montiert wurden, flutschen bald die Penis-Scharniere.
+Und beim UrlaubInDresden werden Touristen durch aberdutzende RealSchauspieler ImmerWieder in irritierende GespraecheAmNebentisch verwickeln, wo über Milliarden-Bauprojekte für die GeFab geplaudert und hier und da mal ein Notizbuch oder ein UsbStick mit atemberaubend kostspieligen Details AnLicht kommen.
+
+Mit den Aktien von PieschenRobotics, der LockSchuppenAg oder der PieschenMediaGroup wird hoffentlich auch LangSam das AusMass der Grösse unseres Spiels sichtbar. Da kann GeorgeLucas mit seinen Pappsammelkärtchen Plastikfigürchen und sonstigem Merchandising-Gedöns aber einpacken!
+Und jetzt VolleKanne ran an die RealFilm-Dreharbeiten!
+
+neulich mal bei GretChen getestet, ob sie einige ihrer 29 PieschenRobotics-Aktien an DanielPoodratchi verkaufen würde gegen HomePage-Programmierung.
+
+TrueMan erlebt immer wieder dass LeserIn'nen ConTent PerSon'lich nehmen, der eher allgemeines literarisches Material ist.
+Ausserdem denken sie dass TrueMan mit allen Frau schlafen würde, die seine FbWall-ErGuss'e liken.
+
+nachher evtl ins TraumAtelier.
+
+BankRaub bei der NorisBank - harter Widerstand der Schalterfrau.
+
+StockSieben: residency
+
+mit GretChen in den IkeaDresden, im MediaMarkt das jetzt auf 324 EuRo reduzierte SamSung NetBook ankucken, kurz vorm schwachwerden seiend.
+
+hartes AfterWork-networking gestern mit kumpels gestern in der BaerenZwinger-Kneipe.
+
+=2012-03-06:1940 L:TraumWohnung=
+
+ * PieschenScientific: Nein, er betrachtet sich als informationsverarbeitendes SyStem, das regelbasiert funktioniert. Sein vorrangiges Forschungsinteresse gilt dem FeedBack-Loop "Sensoren-Mentale Zustände und Aktoren."
+ * TrueMan: Ich bin die AbsTra'ktion verschiedener RealLife-PerSon'en.
+ * Meine Funktion besteht darin, als erzählerische PerSona DigitalTwin
+ * Was früher einen immensen Aufwand bedeutete, wird heute immer einfacher: Etwa eine Repräsentation der umgebenden räumlichen WeLt: Dank OpenStreetMap schon jetzt sehr hochauflösend (in urbanen Gebieten locker ein Datenpunkt pro hundert QuadratMeter, Tendenz: ExPo'nentiell zunehmend. Oder bei FourSquare gleich noch die soziale Dimension dazu: Wer wann wo?
+ * TrueMan: Bei TrueMan geht es nun darum, aus seiner biologischen Verkörperung seine informatische Essenz zu destillieren - Um dies aus der scheinbar ScienceFiction'alen AnSpruch in die GegenWart von AnnoDomini2012 zu bringen: Bei der Frage nach seiner philosophischen Grundauffassung antwortet RayKurzweil, er sei "Patternalist" #FindeDieQuelle. 
+Ähnlich ist der Anspruch von TrueMan, seine eigenen MindPattern zu ReverseEngineer'en.
+Aus forschungspragmatischen Gründen muss und will er davon immer mehr öffentlich machen.
+Wer hier kommunikationspolitisch ungeschickt vorgeht, handelt sich schnell den VorWurf ein, FrankenStein HomunCulus oder UberMensch erschaffen zu wollen. 
+ * PieschenScientific: Kann ScienceFiction dabei helfen?
+ * TrueMan: Ich denke schon. Sehr symbolträchtig in der TimeLine von FaceBook: Der SaeugLing, der "born" wird. MartinHeidegger wäre ob dieses Hineingeworfenseins in die NooSphere sicherlich entzückt gewesen. In der Tat ist nicht mehr die Sprache sondern FaceBook für abermillionen von Menschen das HausDesSeins und der LikeButton der Anderen diktiert unseren AufStieg und unser Wohlbefinden in der HierarchyOfNeeds. Dieser SaeugLing ist derzeit fast unweigerlich der AvaTar für unsere je eigene HeldenSage. Mit der NooSphere wollen wir helfen, diese inhärente Struktur noch deutlicher sichtbar und vor allem gestaltbarer zu machen.
+ 
+=2012-03-06:1652 L:TraumWohnung=
+
+wird FaceBook zu maechtig? In der GeFahr wächst das Rettende auch.
+
+
+VorratsTweet für den ZapfenStreich übermorgen: bis an Dein LebensEnde möge die OdeAnDieFreudeUeberDeinenRuecktritt dem deutschen SteuerZahler in den ohren klingen!
+
+spätestens wenn Du ImmerWieder zu FbEvent's mit Herzchen und Sternchen im Titel eingeladen wirst, weiss Du dass der Bauch der GlockenKurve angeschwollen ist. #LangMarsch
+
+gaehn
+
+=2012-03-06:1218 L:TraumWohnung=
+
+2012-03-04:0703: +49-162-9239280 called NettoKom
+
+=2012-03-04:2008 L:TraumWohnung=
+
+TrueMan wird die Inkarnation des TransHuman'isten - für Euch FleischWelt geworden.
+
+TurmAtlantis und TurmMutabor - WikiPedia und NooSphere.
+
+=2012-03-04:1413 L:TraumWohnung=
+
+ThomasMorgenstern2 ist "noch auf den 7. vorgesprungen" und erntet dafür auf seiner FbWall 314 likes und 31 Kommentare. Wie kann SystemKunst von HeidiMorgenstern *noch* WirkSam'er werden als ein schnöder SkiSpringer oder RobertMusil'sches GenialPferd? 
+
+RoadMap meditationen: Der Ausbau der WikiEngine für BigTableNomic 
+könnte einer der WirkSam'sten Hebel sein.
+Und wie immer ein offenes Auge und Ohr für spontane ZuFall'igkeiten wie den TunnelRoman.
+Richtung SingularAcademy brodelt es auch.
+Es könnte sich lohnen, die Frage nach dem optimalen WirkRaum weiter voran zu treiben: Klang - InterNet - Kosten - TastaTur - SitzMoebel - BildSchirm - CoWorking EtCetera.
+KamiLockOffice?
+
+grummel
+
+=2012-03-03:2013 L:HolidayInnExpress=
+
+Er war schnurstracks zum Abschnitt "T" bei den Romanen gegangen, hatte sich das gesuchte Exemplar gegriffen und damit auf eines der beiden viertelrunden roten Ledersofas im HugenDubel gesetzt.
+Er vertiefte sich in die Kursivschrift der ersten Seiten, hörte beim Lesen Uhren ticken und als er den chromfarbenen kleinen Taster oben rechts am ständig neben ihm liegenden SemperPhone betätigte, sprach es in stummer Stille "19:01".
+Nun konnten die Geschmäcker wohl arg verschieden sein und bei Ansprüchen wie
+"JahrhundertRoman" oder "WeltLiteratur" in grausige Debattenkriege ausarten.
+Wie dem auch sei, ihm jedenfalls gefiel es. Aus den wohlkomponierten
+Zeilen las er eine tiefe und dichte Atmosphäre heraus, die es ihm wertvoll
+erschienen liess, über diese wenigen ersten Seiten hinaus weitere LebensZeit
+für DerTurm aufzubringen.
+
+Schon vor Ort schlug er die HerKunft von "Protagonist" nach und CamelCase'ifizierte sie 
+etymologisch korrekt als "ProtAgonist".
+
+Er konnte sich ein literarisches KunstWerk wie ein Gebilde vorstellen
+Welches wie eine SamenZelle an das LeserHirn andockte.
+Als da wäre der MinolPirol, der im älteren östlich sozialisierten wohl lebhafte ErInner'ung evozierte, im westlichen oder jüngeren dagegen erst per GoogleSearch ConTect'ualisiert werden musste.
+
+
+Schon im HugenDubel konnte er natürlich wieder nicht die Finger von der NooSphere
+lassen. Er checkte sich bei FourSquare ein und malte sich in Gedanken aus,
+dass er jetzt aufspringen und laut "Hurrah - ich bin jetzt Euer Mayor!" schreien könnte,
+wenn diese WebSite ihm diesen Status denn jetzt per ZuFall erteilen würde.
+
+Gestern schon hatte er bei CemBasman die Anregung zum TunnelRoman gelesen.
+Allerdings konnte ein Satz wie "@Aus_der_UBahn: Oh, die #U1 ist so kräftig, die bohrt sich einfach einen Tunnel in die erstarrte Zeit und nimmt mich mit." nicht so recht in das schon bestehende Gerüst eines JahrhundertRoman's einverleibt werden. Und wenn der BoersenVereinDesDeutschenBuchhandels neben CamelCase auch noch mit HashTag's überrollt würde, wäre deren BuchPreis wohl endgültig verloren.
+
+Etwas später ging er von der WilsdrufferStrasse her kommend die westlichen AltMarkt-Arkaden entlang und sah dort im Juweliergeschäft einen Mann auf einer Lacroix-Werbung, dessen GeSicht
+ihm gleich bekannt vorkam, wenn auch arg werbeästhetisch aufgepimpt.
+"Follow your convictions" stand dort und "Some called it ImPossible - I called it WikiPedia".
+Ja, es war JimboWales, den er schon leibhaftig in CopenHagen und SanDiego getroffen hatte
+unn für ihn natürlich den Status eines WikiGod's hatte.
+
+Da hatte sie ihn wieder gepackt, gleich zweimal in kurzem Abstand: Eine gänsehäutige
+Gewissheit, etwas schaffen zu können, das die WeLt veränderte und selbst dort im Juwelierladen
+zu hängen.
+
+In den kommenen Kapiteln würde er seine LeserIn'nen allerdings heftig überzeugen müssen, dass er nicht an GroessenWahn litt, sondern einem raffinierten MasterPlan folgte, dessen Scheitern
+so un-WahrSchein'lich wie dreieiige Zwillinge.
+
+
+EgoBias
+
+Schon bei SiggiBecker verlautbarte sich kürzlich, dass ErFolg'reiche Menschen ihren ErFolg ihrem eigenen Handeln zuschreiben, es sich aber  aus nüchtern historischer-statistischer Sicht eher um einen ZuFall handelte. Wie konnte er also seinen unaufhaltsamen AufStieg vom NoBody zum TrueMan
+von einer kontingten Ereignis-WahrSchein'lichkeit zur GeWiss'heit werden lassen?
+Die AntWort war: Gar nicht, oder genauer: Noch nicht. Für diese ErfolgsGeschichte 
+bedurfte es präzise durchkalkulierter Fassade, die an den richtigen Stellen mit
+Substanz hintermauert werden musste.
+
+
+GeistesVerwandt
+
+Er musste etwas tun. Er hatte sich zu sehr auf Kreise eingelassen, die den TeufelsKreis des Kultur-Konsums nicht mehr verlassen zu scheinen konnten.
+Die den Sprung zum Schaffen nicht mehr schafften. Die nur noch kulturelle MusTer
+reproduzierten, BeduerfnisPyramide
+ Ihn dürstete nach den feinen Geistern,
+die es mal gegeben haben mochte, die aber doch zum Verrecken noch nicht ausgestorben sein konnten.
+
+=2012-02-29:1840 L:TraumWohnung=
+
+kleines experiment: Ich biete 32 EuRo - wer überweist mir dafür wieviel BitCoin? - Gebote
+bitte per Kommentar ;) #SocialCash
+
+=2012-02-29:1226 L:TraumWohnung=
+
+SpeerlingsLippchen
+
+SchriftSteller'n ist wie BuchStabe'nwehen pressen und ein JahrhundertRoman-WunderKind gebären.
+
+BildungsLueke
+
+putzte den PoPo mit pinkfarbenem ServierPapier. #PoPrivacy
+
+=2012-02-29:1008 L:TraumWohnung=
+
+Liebe LeserIn'nen,
+nun ist es EndLich so weit und Ihr haltet Eure ErstAusgabe der PieschenerAllgemeine
+in der Hand, wie es sich für immer ParaDox'er PostReal werdende Zeiten gehört, auf TotHolz.
+Die Idee dazu McXery sass und dort WuchtBrumme AnnaNetrebko auf dem Cover vom BlitzMagazin sah.
+Er frug sich: Wäre es nicht an der Zeit, selbst in Aktion zu treten und
+die KreideMafia mit ihren eigenen Waffen zu schlagen?
+Dazu gehört auf jeden Fall: Der VeranstaltungsKalender.
+Ausserdem der GuidePieschelin mit heissen Tipps für die Freunde der 
+HauteCuisine im unserem HauptStaedtchen.
+Und selbstverständlich die SingleBoerse, exclusiv präsertiert von PieschenPv.
+
+
+TurmOde
+
+InDenMusennesternWohntDieSuesseKrankheitGestern
+
+Wenn er nicht da war. Dann kam sie bei den anderen hochgekrochen, diese SehnSucht
+nach dem Normalen, nach dem Althergebrachten, nach einer
+WeLt, die sich hier und da ein wenig verbessern durfte
+und natürlich das neueste SmartPhone vorzeigen liess.
+Früher hatte ihn dies bis zur WeissGlut gereizt.
+Es war diese VerGessen'heit, mit der TheodorWAdorno schon
+über das "Hobby" gewettert hatte.
+Mittlerweile hatte er gelernt, diese Wut
+diplomatisch den sozialen Gegebenheiten anzupassen und produktiv zu transformieren.
+Er konnte dann besonders bissige und messerscharfe Texte schreiben.
+
+
+Um wievel Grad war jetzt die KamenzerStrasse von der Nord-Sued-Achse nach NordOsten 
+(0,400) und (170,0). a^2 + b^2 = c^2.
+Wobei im vorliegenden Falle auf c^2=1 zu normalisieren war.
+170/400=17/40=8.5/20=4.25/10=0.425.
+
+Der CEO von ComBots fuhr mal so ein flitzerchen -
+wenn dieses Posting hier public gewesen wäre,
+hätte ich SilviaT mal fragen können ob er Dich 
+bei Deinem nächsten Besuch an der Heimatfront
+mal auf ein spritztoürchen einladen würde ;)
+
+
+=2012-02-28:2123 L:TraumWohnung=
+
+einritzen oder schrammen.
+
+AnHerbst irgendwann archaisches Vokabular.
+
+Kriegerischem. 
+PraestabiliertHarmonie,
+OsZillation von Macht und Eroberung, HinGabe und Unterwerfung,
+aus der erst die schwebende Melodei entstehen konnte, die man gemeinhin DieLiebe
+nennen mochte.
+
+Nun schien aber grade, wenn auch AnFang's nur mit allerfeinsten Trendohren WahrNehm'bar, ein 
+
+ZeitenWandel von bislang noch nie dagewesenem Ausmass anzustehen.
+UeberFluss. Was ihm ZuErst nur wie ein sich beschleunigender Takt der WeltGeschichte vorkam, ward 
+
+nun UeberFluss, und MehrLiebe.
+Ja, er wagte kaum. faselte etwas von BaHai und seinem lange zurück liegenden BeSuch in 
+
+Marrak..sch und natürlich TeilhardDeChardin.
+Und dann schlug plötzlich PeterDiamandis ein.
+
+Wusste noch nicht wie er damit umgehen sollte.
+
+Und diese MehrLiebe. Würde es ihm gelingen, diese eine TraumFrau zu lieben.
+Der MissingLink war ein Teddy. Er hatte ihn gefunden in der TimeLine von
+IrisSchilke. Er teilte es aus reiner MenschenLiebe auf seiner FbWall,
+und kurz danach sah, sie wenige Meter entfernt "Casimir- das ist sein Sohn".
+
+
+HeldenSage
+
+In dieser Hinsicht war er gnadenlos altmodisch: Sein JahrhundertRoman brauchte einen Helden. 
+
+Einen Mann, einen richtigen Mann, dem die Frauen nur so zuflogen, der eine Armee alter Art hatte 
+
+wie AlexanderTheGreat oder NapoleonBonaparte, oder neuerer Ausprägung namens UnterNehmen, wie 
+
+etwa SteveJobs LarryEllison oder MarkZuckerberg. Meinetwegen noch ein paar Einsprengsel von einem 
+
+MalerFuerst wie GerhardRichter, einem DichterFuerst wie UweTellkamp, einem KlangGott wie 
+
+KarlheinzStockhausen
+oder einem ZelluloidGenie wie StanleyKubrick. Der Held, nennen wir ihn TrueMan, musste sich den 
+
+grössten Herausforderungen des TwentyFirstCentury stellen, mit ihnen kämpfen, die ein oder andere 
+
+NiederLage erleben, aber am Ende SiegReich sein, ja einen Triumpf feiern.
+
+LuxorChess.
+Er hatte besonderen Wert auf die Gestaltung des grafischen FrontEnd's gelegt.
+Es konnte vielleicht 2 oder 3 Züge vorausberechnen. Noch hatte er nicht die 
+GeDuld und die Vision, daraus ein vermarktbares Produkt zu machen, oder gar etwa den klassischen 
+
+Bildungsweg eines Studiums zu verlassen und sich ganz ins UnterNehmer'tum zu stürzen.
+Aber er ahnte vielleicht schon etwas.
+Er ahnte, dass er hier vor einer Maschine sass, die im Prinzip
+würde besser spielen können als er.
+Und FortAn verlor er schlagartig die Lust am gewöhnlichen SchachSpiel.
+
+Viele Jahre später erst, nachdem er abertausende Seiten in
+seinem MindWiki angelegt und ImmerWieder detailliert und ReFactor'iert hatte,
+dämmerte es ihm: Er müsste sich das SchachBrett seines eigenen BeWusst'seins 
+nur etwas AbsTra'kter und grösser vorstellen. Es würde nicht aus einfachen schwarzen und weissen
+Figuren bestehen, sondern aus einer ganzen Armee von Gedanken,
+die er AnFang's in mühsamer kleinarbeit miteinander vernetzen, später aber EinFach per 
+
+BrainComputerInterface abbilden können würde. Eine riesige MindWikiWall.
+Und so fing er EinFach an: PerSon für PerSon, Haus für Haus, Strasse für Strasse, Stadt für 
+
+Stadt, die in einem Kopf war, baute er sein MindWiki auf, und vernetzte sie
+digital genau so, wie sie in seinem GeHirn verdrahtet waren: Die SemperOper am TheaterPlatz, 
+
+darin alle Jahre wieder der SemperOpernBall - unter
+magischer Regie von HansJoachimFrey, mal FranzBeckerbauer und mal RogerMoore zu Gast, den ein 
+
+oder anderen. All diese Gedanken hatte er fein säuberlich in seinem MindWiki niedergelegt. Als 
+
+Karte ergatterte: HairCut beim SchnittPoint,
+KummerBund bei ModeverleihFischer, mit dem BondGirl 
+am Steuer DreiMalSieben PatenKind im KinderLand und 
+die PolarFee als BabySitter und dann mit AchtMalAcht zum TheaterPlatz.
+
+
+=2012-02=
+
+AlleinAllein
+
+Womit er zur SchnuefffChen vor ewigen Zeiten schon mal bis fast bis zur WeissGlut 
+
+getrieben hatte, war seine Zwei-Welten-Theorie der MusikKunst.
+In der OberWelt BeetHoven MoZart und co - ganz oben die GrossFuge.
+
+In der UnterWelt UdoJuergens Beatles und all das ganze MainStream-Gedöns.
+Und natürlich PolarKreis18. Und ganz unten RolandKaiser und MatthiasReim.
+
+
+InfoMorph
+
+Im MannOhneGeheimnisse wird er zitiert mit "Die OnLine-WeLt ist für mich eindeutig
+der FleischWelt überlegen". Wer sich an ein solch fundamentales Thema ranwagte sollte
+sicherstellen dass er ConText VerSteh'en täte. Auf jeden Fall gelesen haben sollte man 
+
+die WikiPage's im MindWiki: UpLoad GoogleMind WindelWelt. Richtig lachen darüber konnte 
+
+eigentlich nur, wer neben SingularityIsNear auch TerryBisson's MeatBrain kannte.
+Und natürlich TransSimian.
+Und überhaupt: Hatte er gar keine Lust mehr, in dieser WeLt der Linearschreiber
+auch mehr als nur einen abfälligen HalbSatz zu verlieren.
+Wer noch nicht den CamelCase-Kick beim schreiben der ersten eigenen LifeWiki-Page
+erlebte hatte, dem war nicht mehr zu helfen. Und darüber konnte man nicht theoretisieren, 
+
+sondern es nur EinfachMachen.
+
+
+Dabei entstünde eine neue kosmologische Schicht, deren SoftWare im grund unabhängig von
+einer konkreten HardWare operieren könnte. Ein BetriebsSystem-Experte
+wie WernerVogels würde hier eventuell von Virtualisierung sprechen.
+Anstelle des Leibes stand der TranSistor, der schnell,
+in trillionenstückzahlen und SixSigma-zuverlässig hergestellt werden konnte.
+Und dieses "BeWusst-Sein", welches aus SaugTier'ischem Fleische emporemergiert war, war 
+
+längst ein Neues geworden.
+
+Von dem ein oder anderen SchriftSteller hatte er schon von Herausforderungen mit diesen 
+
+spezielle LeserIn'nen mitbekommen. Insbesondere wohl bei VampirRoman-Autoren. Es war eine 
+
+Intimität. Dass sich ein fatales DoubleBind ergab.
+Diese Nebenwirkungen liessen sich nicht vermeiden. Sie waren dem Medium inhärent.
+Dass die LeserIn und darin einen Sonderhorizont vorgauckelte.
+In manchen Fällen nahm es auch psychopathische Züge.
+Da war dann der TippFehler, der WirkLich nur ein TippFehler war, aber von
+der LeserIn als ein BuchStabe, nur für sie, der auf der TastaTur näher an den Ersten 
+
+BuchStabe'n
+ihres VorName'ns hindeutete. Sie sah dann ein Zeichen darin, dass er in sie verliebt
+sei und er nur sie brauche für seine ErLesung.
+An dieser Grenze galt es, scharfe Schnitte zu machen.
+Dafür war nun aber im SiriusGame und der interplanetarischen Schlachtkonstellation weder 
+
+Platz noch Zeit.
+Das ProJekt NooSphere war der WahrHeit verpflichtet.
+Durch einen dummen Frühgeschichte der MenschHeit war sie ihr abhanden gekommen.
+Deshalb war PlanetErde auf einem KardashevLevel von 0.7 angelangt.
+Deshalb glaubte man, über Menschen anders reden zu können als mit ihnen. 
+
+
+Im IkeaDresden war die ZuKunft der Losigkeit der eigenen ArBeit fast schon
+in ein KunstWerk gemeisselt, denn neben den Kassen mit humanoiden Kassierern waren schon 
+
+die ersten Selbstbedienungskassen installiert.
+Seine VorstellungsKraft malte sich hinzu, wie die McKinsey-Praktikanten 
+schon am IncentiveSystem schraubten, um die SelfService-Quote hochzuschrauben.
+RabattFeilsch.
+
+
+
+
+
+EinsMitNullen
+
+BettHupferl
+
+In ErWartung auf den SuperTraum sich hingelegt, aus kurzem schwachem Schlaf erwacht
+und nun HyperCreativ, wollte er der LeserIn noch schnell 
+eine glühende Imagination unten rein drücken. Überhaupt würde er nur noch
+für Frauen schreiben.
+
+OccupyOrpheum
+
+RockMeAmadeus
+
+er malte sich aus wie er bald durch die Gassen dieser
+Stadt ging, in der nicht nur in jeder Ecke ein Motiv für ihn lauerte,
+sondern die förmlich unter einer imaginativen Inspirationsdunstglocke
+hockte und gewann dabei immer grössere Gewissheit, dass in seinem 
+Kopf eine UnWucht tickte, die es ihm erlaubte 
+ohne den Umweg körperlichen Kontaktes rein durch Aneinanderreihung
+scheinbar wirrer BuchStabe'nfolgen direkt in
+das Zentrum weiblicher Lust vorzustossen
+und dort orgiastische Beben beliebiger Stärke auf der RainerSkala 
+auszulösen. #GeFab
+Hinter der Fassade von Selbstüberschätzung und Dilletantismus
+tickte ein Uhrwerk mit der Logik ihres Gebenedeites Leibes.
+Kindes, das in OhnMacht die FunktionsLogik der SeeLe der übermächtigen 
+Mutter aufgesogen hatte und sie jetzt beherrschte.
+Aber das war alles nur harmloses psychologistisches Vorgeplänkel.
+In seinem Labor hatte er mehrere Essenzen dieser weiblichen SeeLe'n
+in Reagenzgläser abgefüllt und fein säuberlich in ein Gestell
+mit 8x8 angeordnet. Gegen das was darin brodelte und dampfte, war NitroGlyerin 
+eine harmlose Base. Es war ihm erstmals gelungen, die reine
+EiferSucht synthetisch herzustellen und auch gleich ein GegenGift
+zu entwickeln.
+
+Es hatte mit vieren funktioniert,
+es würde mit 16 funktionieren ebenso wie mit 256.
+Und wenn 4096 konnte er GeWiss sein, dass im Publikum
+mindestens eine Hochbegabte Informatik-Professorin 
+sass, die in Sekundenbruchteilen die Formel dieser Reihe
+fortsetzen konnte.
+
+würde seine FanGemeinde ihm zuspülen, dass
+er es nur noch kunterbunt collagieren musste.
+
+was er an ... raushaute, ging schon auf keine KuhHaut mehr.
+
+
+WorkLogTxt
+
+AbUndAn schafft der PowerWomenCoach OffLine. Schreiben statt Lesen.
+Dann schreibt er per NotePad in "WorkLog.txt" hinein.
+Im WorkLog kommt das aktuellste immer oben.
+Wenn wieder OnLine, kommt es sofort ins LifeWiki.
+
+
+MindHarem
+
+
+Ich _weiss_ dass Du mit MehrLiebe noch nicht umgehen kannst.
+Da geht es Dir wohl so wie weiteren 99% all meiner PowerWomen.
+Denn sicher habt Ihr das AbundanceBook noch nicht gelesen.
+Und dann könnt Ihr EndLich AnFang'en: OccupyClooney!
+
+
+LiteraturPapst
+
+UeberIch
+
+Es schien das RoleModel für seinen MehrLiebe-FeldZug zu fehlen.
+Auch wenn es ein Affront gegen den EntbindungsBuerger'lichen Egalitarismus war, aber ihm 
+
+gefiel AugustDerStarke und seine VielWeib'erei. Zum Glück hatte die formale Spitze 
+
+ebendieser EntbindungsBuerger'lichen Gesellschaft in SiSanien vor wenigen Wochen erst 
+
+einen Mann mit einem ihrer höchsten Orden ausgezeichnet, der laut BildDresden nicht nur 
+
+mit PrivatJet sondern auch seinem Harem aus AbuDhabi anreiste.
+TrueMan musste dies auch ausprobieren. Dazu fiel ihm "OccupyClooney" ein.
+Er war sich sicher, dass 80% aller Frauen die er kannte, ihm instapede den Namen eines 
+
+TraumMann'es nennten konnten, mit dem sie SoFort in die KnisterKiste steigen würden.
+Als da wären GeorgeClooney JohnMalkovich DanielCraig TillSchweiger JeffCoons oder bei 
+
+seinen älteren Freundinnen RogerMoore oder GoetzGeorge. Genaugenommen gab es wohl 1% der 
+
+Männer auf PlanetErde, die 99% aller Frauen haben konnten, und zwar für den OneNightStand 
+
+oder PolyTreu!
+
+
+der DuemmSt'e BlindSpot der EiferSucht ist, in der MitBuhlerin nicht die FreundIn 
+
+ErKenn'en zu koennen #MehrLiebe
+Und dahinter steckt bei genauer Betrachtung auch noch eine
+immens HomoCrat'isch-patriachale ContRol- und MachtFassade.
+
+
+KitschHochVier
+
+Als KitschHochVier wäre es TrueMan vorgekommen, seiner GutGegenWikiWind-Sparringspartnerin nun doch einmal eine "PriVat"-NachRicht per FaceBook zukommen zu lassen. 
+
+
+StreichEins
+
+=2012-02-23:2045 L:ThaliaDresden=
+
+Im IkeaDresden intensive erste VerHandel'ungen mit SchlinckRealEstate zu einem JointVenture BzGl KamiLockOffice. Scheint als könnten wir ab 2012-03-01 drin sein. Beim Schlendern mit MeerChen die KamenzerStrasse per ZuFall auch noch DuesChen getroffen.
+Nach SuggestivFrage kann TrueMan jetzt auch ein MutungsIntervall für den WirkSatz von DuesChen. Evtl morgen gemeinsam zu PieschenArtMuseum PuffParty oder NastyLoveClub.
+
+RichardDavidPrecht ist ja auch so ein PrachtHecht.
+
+UrlaubInDresden
+
+=2012-02-23:1245 L:TraumWohnung=
+
+PatenOnkelTraum
+
+=2012-02-21:1643 L:TraumWohnung=
+
+Kürzlich gestand GretChen ihm, dass ihr die Kommunikation mit ihm sehr schwer fiele, weil sie zwischen ihnen immer "nach oben" ging und das "normale" "VonMenschZuMensch" fehlen würde. Ja so war das wohl. Bei AlsoSprachZarathustra hatte FriedrichNietzsche das Seil über den AbGrund zwischen Mensch und UberMensch gespannt. In seinem TransHuman'en Falle war es eher ein SpaceLift, dessen NanoTube-Kabel stramm nach ObenVorn gespannt war und AdAstra wollte. Damit musste auch SchnuefffChen schon klar kommen und lies Beziehungsseile mehrfach zerreissen. Aber so war das und das war GutSo, wenn auch ein manchmal MuehSam'er LangMarsch. Es war seine ConditioTransHumana.
+
+ * TrueMan: Hallo KarlBuechel, wer bist Du?
+ * KarlBuechel: Ich bin ein AlterEgo von TrueMan. Sozusagen seine dunkle, zornige Seite, die er genau kennt, aber an mich abtritt, damit er getrost seine LiebChen vögeln kann und sie ihn dabei noch für einen GutMensch halten.
+ * TrueMan: Dir fehlt also jedes diplomatische FingerspitzenGefuehl?
+ * KarlBuechel: Ich bin die WahrHeit selbst. Ich Meine Heuristik: Wenn ich "PriVat" kommuniziere, dann oft nur so, dass eine vorhergehende noch "PriVat"ere NachRicht zumindest ein Stück weiter in Richtung NooSphere geleakt wird, also ZumBeispiel per CarbonCopy oder BliCc. Da mir diese habitualisierte Angst und gelernte hilflosigkeit immer öfter auf den Sack geht. Und erst recht der Gestus: "Oh, ich weiss etwas gang GeHeim'es" - was dabei kann es jedes SchulKind per GoogleSearch eh wissen. Ich haue alle in die FacebookFalle!
+ * TrueMan: Wie gehst Du mit den GeFuehl'en Deiner MitMenschen um?
+ * KarlBuechel: Ich spalte, und das Versöhnen überlasse ich Dir. Ich bin die Kraft, die stets das WahrHaft Böse will und doch das Gute schafft.
+ * TrueMan: Ich bin also IchUndDu?
+ * KarlBuechel: IchUndDu BinViele.
+
+Das WienerLoo würde nicht allein schon deshalb eintreten, weil TrueMan seine schrillen Flusen aus seinen über Jahre gewachsenen ErzaehlTeppich in den engen NineToFive-Korridor der ein oder anderen RecentChangesJunkie's eingeknüpft hatte.
+
+=2012-02-21 L:TraumWohnung=
+
+OfficeGeil
+
+Sein gerissenes TeilZiel war, sie bald binnen ihres NineToFive-KarriereKaefig's
+so mit SexSigma-phantasien vollzustopfen, dass sie noch von dort SelbstLiebe-VollZug melden würde.
+
+
+GruenderPaar
+
+TrueMan konnte es EinFach nicht lassen.
+Ihm war die EntbindungsBuerger'liche Trennung von BeRuf und LiebesLeben zuwider.
+Schon mit ExEins hatte er eine neue HochschulGruppe an der UniKl gegründet, erfolgreich ins StudentenParlament ge-WahlKampf't und 4 MinisTer'ien in der Exekutive der StudentischSelbstverwaltung besetzt.
+Mit ExZwei gründete er ein ganzes UnterNehmen, in dem hunderttausende von EuRo InVest'iert und wieder VerDien't wurden. Mit ExDrei ward eine KaffeeMaschine beim GruenderWettbewerb gewonnen und fast eine ganze IntelliHaus-Siedlung in DuBai gebaut.
+Mit ExFuenf gründete er die PieschenArtGroup, liess sie mit einer GoogleFluse einen KunstPreis an derselben KunstAkademie kassieren, wo schon CasparDavidFriedrich WassilyKandinsky und GerhardRichter ihre Pinsel schwangen und plante schon die TraumHochzeit-Performance mit ihr.
+Auch mit ExInSpeSex hatte er schon Pläne: Sie würde ihren NineToFive-Job an den NagelMitKoepfen hängen und mit ihm die weltweit führende SemanticSixSigma-Consultancy gründen, die die ganze HealthCare-Branche umkrempelte und vor allem die DentalKunst-Industrie auf versicherungstechnisch vollkommen neue und GeSund'e kassenfüsse stellen würde.
+
+
+ExInSpe
+
+Und nun ging es WirkLich ans Eingemachte:
+Dem SpannungsBogen wurde nun DieLiebe und das KinderWunsch-Gift beigemengt.
+Die patriarchalen ArcanaImperii wurden von HomoCrat'en
+beherrscht, die mit vorliebe junge SaengerKnaben vernaschten.
+Mit MariaMutterGottes hatten sie sich eine HeiligenSchein-QuotenFrau an die Altare gehängt.
+DieLiebe war seither ein Mythos, der psychoanalytisch - und therapeutisch
+hochgerüstete hunderttausendschaften starke heere von SpiegelIch-verfechtern hatte.
+Allerdings sollten die armen hetero-SamenSpender der SaengerKnaben-Brut ja nicht PolyTreu sein.
+Und nun traten etwa ab SummerOfSixtyNine erste kleine homunculi aus den
+Brutleibern der Marien aufs SchlachtFeld,
+die mit dem CommodoreSixtyFour schon während ihrer Pubertät ihre erste 
+SpiritualMachine in der Hand hielten. Und sie wehrten sich wild gegen diese WindelWelt. 
+
+
+TraumSprache ThoughtsPerSecond
+
+OrtsteilPieschen WeimarischStrasse34 TraumWohnung
+TraumFirma ZukunftsRoman NextBigThing
+
+DaHo IcdTen Bernstein
+
+MultimediaMessagingService MarLo SecretService
+
+Liebe reservistinnen der SaxonianGeekArmy,
+mir wurde 2012-02-21:0144 via MultimediaMessagingService
+von +49-173-6907118 auf mein SemperPhone ein MoegLich'er 
+DeepLink zu einem mir noch unbekannten ArtiFact zugespielt.
+Leider erlauben die FireWall-einstellungen im WorldIntraNet mir
+derzeit hier in der L:TraumWohnung keinen ZuGriff darauf.
+Mag eine von Euch so gütig sein, mit ihrem WebBrowser 
+http://mms.eplus.de/ aufzurufen, dort die
+ * HandyNummer "015787244573" und das
+ * PassWord "ityeheum" eingeben und mir akteneinsicht in das dort hoffentlich sichtbare
+bildchen zu gewähren, zB per posting per GooglePlus, auf Eure FbWall oder zur not per 
+IhMail-ForWard?
+
+Da ich die dringlichkeit nicht einschätzen kann, gelobe ich den ersten 
+beiden erfolgreichen einsehhelferinnen ein Sold von je 512 KayGroschen aus.
+
+hochachtungsvoll Euer
+  Kommissar. CommanderInChief
+
+
+PieschenPress - EditionPieschen PieschenScientific PieschenPrint PieschenQuartett MassenProduktion DoOcracy
+
+DresdenChipAcademy FabVille BusinessProposal GeFab SingularAcademy
+
+LockSession - TraumWohnung
+
+KarlBuechel - UnParteiWiki
+
+ChromeBook
+
+TraumEngine MinoTraum TraumPforte vs. digital-strukturale Härte des Textes/Schreibens
+
+LockOfficeVienna
+
+2012-02-21:0750 L:TraumWohnung 
+LochTraum
+Ex-DdErr
+grau, aber vorfrühlingshaft.
+mit dem WunderAusJena vertraut, fast wie HaenselUndGretel oder HeidiUndPeter
+Ein ca. 10jähriges Kind steht in der Tür, wir kommen also rein.
+Es liegt sex in der Luft - sie scheint sich aber doch offenbaren zu wollen
+dass sie doch nicht will.
+
+- TraumSchnitt - 
+ 
+wohl gleicher wohnblock. ca. 16. Etage gefühlt im NordWest-Flügel.
+TrueMan Wird von ca 60jährigem AlphaTierchen hingeführt, Sessel,
+ein gutes, risikoloses geschäft liegt in Luft.
+JeMand (Unter-AlphaTierchen) nennt seinen Namen,
+scheint aber nicht zu blicken, dass der genannte 2 sessel weiter sitzt.
+der genannte räuspert sich.
+Seine Kritik ist wohl, dass ich mich in der VerGangen'heit nicht
+an mein CommitMent gehalten habe.
+Ich widerlege mit hinweis auf vorzügliche Referenzen und RahmenVertrag.
+Die älteren Herren verschwinden langsam und vor mit steht ein
+zum Klüngel gehörender jüngerer schnösel, der sich allgemein kritisch äussert
+und auch mich leicht herablassend mustert.
+Allerdings kann ich mir vorstellen, bald gut kollegial mit ihm zu sein.
+Hinter mir orangefarbener fussboden, der ein Loch hat, das direkt
+nach unten führt, etwa so gross, dass ein unwissender durchfallen könnte
+und wohl tot wäre. Dieser ca. 16. Stock ragt also knapp 1m über die
+front der darunterliegenden etagen hinaus.
+Ich schlage vor, EiNFach dem HausMeister bescheid zu sagen
+was umgehend akzeptiert wird, wobei noch unklar bleibt, wer von
+ihnen diese Aufgabe übernimmte, da ich ja noch zu neu in diesem Laden bin.
+und wir gehen essen (in eine kantine?)
+
+
+
+
+UrsprungDeinerWelt
+ * IsA: MindPlace
+ * NamedAfter: UrsprungDerWelt 
+ * PartOf: StadtWien
+
+KnisterSister
+
+DifferentFrom ClaDa
+
+ViolChen
+
+KoseName for ClaDa?
+
+TrueManNumber
+ * by definition, the TrueManNumber of TrueMan is "0".
+ * the TrueManNumber is "1" for each PerSon, who publicly declares that he or she HasKnistered with TrueMan.
+ * the TrueManNumber is "2" for each PerSon, who publicly declares that he or she HasKnistered with a PerSon with TrueManNumber = 1.
+ * the TrueManNumber is "3" for each PerSon, who publicly declares that he or she HasKnistered with a PerSon with TrueManNumber = 2.
+ * the TrueManNumber is "4" for each PerSon, who publicly declares that he or she HasKnistered with a PerSon with TrueManNumber = 3.
+ * the TrueManNumber is _n_ for each PerSon, who publicly declares that he or she HasKnistered with a PerSon with TrueManNumber = _n-1_.
+
+TopoLog
+
+ClaDa hatte TrueMan vom SchwedenPlatz hinwegkatapultiert zum WienerCentral. Bei OpenStreetMap war dies also http://www.openstreetmap.org/?node=319734659.
+Von diesem AnkerPunkt zoomte er also beharrlich hinauf bis zu den Grenzen von OesterReich.
+Dann gab es noch eine grosse Unbekannte: Ihren wohnSitz, genauer gesagt Ihr SchlafGemach, und auf diesem der Punkt, an dem sich mit höchster WahrSchein'lichkeit der UrsprungDeinerWelt sich befände, falls bzw wenn wir uns ErstMals vereinigen würden.
+
+Ihm schien:
+Sie schrieb ihm "PriVat", per FaceBook. Sie tat dies in der technisch suggerierten Illusion ("PassWord" - "my InBox"), dass hier nur zwei PerSon'en miteinander kommunizierten. Es war aber DeFacto ein DatenNetz, dass sich auf einem von PaloAlto aus ConTrol'lierten weltweiten hochgeschwindigkeitsnetz von RechnerZentrale'n befand, zu dem nicht nur "wir beide", sondern eine uns scheinbar unbekannte Zahl an SysAdmin's, GeheimDienst'en und vor allen DataMining-Algorithmen Zugriff hatten
+(Gegenwartsgeschichtliche Anekdote: Vor wenige Tagen erst "beschlagnahmte" (sic!) ein Richter aus StuttGart einen FaceBook-Account #FindeDieQuelle).
+Da waren also Millionen und in wenigen Jahren Milliarden von Menschen, die also zwar die alltagsweltliche "IntimSphaere" zu glauben kannten, und nun per MobileInternet und SmartPhone ins FegeFeuer der NooSphere eintraten und ihnen vorgauckelten, genau dies in der digitalen Sphäre auch tun zu können und deren BildungsSystem noch nicht in der Lage war zu vermitteln, wie diese neue digitale WeLt WirkLich funktionierte.
+
+=2012-02-20:2000 L:TraumWohnung=
+
+Nach dem OliverSamwer BlitzKrieg als "most aggressive guy ... on the InterNet" [http://eu.techcrunch.com/2011/12/22/in-confidential-email-samwer-describes-online-furniture-strategy-as-a-blitzkrieg/ *] erklärt hatte, war eine RomanFigur vonnöten, die diesen Typus positiv überschrieb.
+
+Eine erste Anleihe könnte PaulArnheim bieten.
+Dann noch eine Prise MaxWeber.
+Überhaupt wäre eine neue ParallelAktion anzudenken.
+
+Überhaupt könnte die ganze ZukunftsRoman-Schreiberei noch weiter für die ein oder andere LeserIn geöffnet werden. Motto: Like Deine Lieblings-Kapitel oder -RomanFigur.
+Wenn man annimmt dass AlbanNikolaiHerbst das maximal bis heute Erreichte in der kollaborativen Literatur verkörpert, dann könnte dort noch etwas Luft nach ObenVorn sein.
+Überhaupt kommen mir die ganzen in der ZuKunft spielenden Kapitel noch etwas wacklig vor. Der verbindende AriadneFaden ist noch recht dünn. Viel klarer ist dagegen die SchluesselRoman-Methode. Das PieschenQuartett war ein erstes Signal an eine hoch vernetzte EarlyAdopter-ZielGruppe. Es dürfte mittlerweile in etwa 32-64 Köpfen verankert sein - darunter einige erste wichtige SuperNode's im HauptStaedtchen und der DePublik. Auch die KasimirNummer dürfte erste didaktische Wellen geschlagen haben. Welch ein schöner ZuFall, dass HannasSchwester bei der BlackAndWhiteParty zugegen war.
+
+Und dann ist da jetzt FelixAustria. Eine aufregende, spannende und durchaus riskante Herausforderung, ein Weib AusFleischUndBlut mit ihrer RomanFigur in VerBind'ung zu bringen und herauszufinden was und wieviel davon DruckReif wäre, auf TotHolz. Das literarische Material ist mit GutGegenWikiWind ganz ergiebig - und die "reale" Ebene: nun ja, wenn sie nicht eben so spannend wäre, wäre vieles nur leeres HirnGespinst. Jetzt kommt es darauf an, mein sehr grundlegendes futurologisches ConCept namens "PostReal" schnell, verständlich und in seinen praktischen Potentialen und seiner Brisanz zu entfalten. Gamification, AugmentedReality, InternetOfThings EtCetera brannten dem EarlyAdopter unter den Nägeln bzw auf dem MultiTouch-Screen seines SmartPhone's, aber überhaupt für fast _jedes_ LeserHirn sicher erklärungs- und gewöhnungsbedürftig.
+Das ist hier im SittenTheater im HauptStaedtchen schon anders. Hunderte von PerSon'en kennen schon MindWiki, GeoTweet's und HasKissed-Liste und MartinRoell schrieb schon AnnoDunnemals über SemanticTravelPlanner.
+Es ist eine latent kulturkriegerische Stimmung entstanden. Der DurchBruch Themas liegt latent in der Luft, ist nur noch eine Frage des NotIfButWhen, und wer es entfaltet und dafür den Ruhm erntet. VeniWikiVici, Oder: ViennaVidiVici? ;)
+
+=2012-02-20:1332 L:MondPalast=
+
+Es war vertrackt. Wieder konnte er nicht schlafen.
+
+Fast wie im UrsprungDerWelt von GustaveCourbet lag sie noch auf ihrem Bett und schlief. Ihre Beine waren leicht gespreizt, 
+
+baumelten unten über die Bettkante und ein kleines schwarzes Schambüschel schmückte ihren nackten Unterleib.
+Als er sich auf sie legte, öffneten sich kurz ihre dunklen verträumten Augen. Mit der rechten Hand verschloss er ihren Mund und mit den Fingern seiner linken verschloss er sanft ihre Augen.
+Lange surrte sie im Halbschlaf zu seinen langsamen, aber härter werdenden Stössen und zuckte final, bevor sie mit ihm in sich in TiefSchlaf fiel.
+
+LebenAlsRoman 
+Sag ich ja schon lange
+
+PostPrivacy-technisch evtl was für 
+
+er wollte spielen, er wollte gewinnen, er wollte siegen, er wollte _triumphieren_!
+
+StadtspielDresden
+
+UnionDruck
+
+MietshaeuserSyndikat
+
+GoogleMind
+
+TestTestTest
+
+FreundesKreis
+
+ich coaniere forsche lausche liebe programmiere schaue schlafe schreibe klarträume vögele wikifiziere
+
+Es schien nur ganz wenige zu geben, die begannen seinen Kunstansatz zu VerSteh'en. Sie waren längst schon feste Figuren in 
+
+diesem Spiel. Anfänglich fürchtete er sich noch vor der hemmungslosen Konsequenz, mit dem er es durchzog. Mehr und mehr fiel 
+
+er Gefallen daran zu finden.
+Vor ihm ordnete sich LangSam das SpielFeld.
+Die Gelegenheit linear-exponentieller SiegesZug-Zeiten war nach dem blauen Triumph von PaloAlto endgültig vorbei. Das 
+
+SocialGraph-SchlachtFeld war jetzt bestellt und von zwei SuperPower's beherrscht.
+So wie die globalen Konzerne nach der WwIi-SiegerMacht-OrdNung über Grenzen hinweg ihre Wettbewerbslinien vorschreiten 
+
+liessen, bis sie nach dem MauerFall ganz PlanetErde mit ihrer gut eingespielten OperationsLogik überziehen konnten.
+
+Ich suche einen Staub-Experten - einen, nein, _den_ CleanRoom-Guru!
+
+"honey" - konnte er ihren schon eingespielten KoseNamen-VorSchlag noch CamelCase-korrekt zum HonigBaer oder HonigTiger 
+
+umprogrammieren können?
+
+Er hatte vielleicht 3 bis 5 Bilder von ihr gesehen, hunderte von Nachrichten über verschiedene Kanäle gesendet und empfangen, 
+
+viele davon "PriVat", immer mehr aber OeffentLich. Sie kannte sicher wohl den ein oder anderen YouTube-Clip von ihm, und er 
+
+nur ein knapp 2-minütiges TonDokument, in dem sie ihm mit verschnupfter Nase aus einem BeipackZettel mit MaoHammer vorlas. 
+
+Aber es schien zu reichen. Über Monate waren also nichts anderes als nüchterne NullOderEins-Ströme zwischen ihnen geflossen - 
+
+vielen davon über auf ganz PlanetErde verteilte RechenZentrale'n, deren Wirkungslogik vorrangig in MountainView oder PaloAlto 
+
+ausklamüsert worden waren. 
+Zeit also, ihr jetzt einmal sein Modell von einer planetarischen KommUnion auszubreiten?
+Und UnTil2029 würden sie einfach nur ihr MindFile SynChron'isieren.
+
+Er stand vor der schwierigen AufGabe, ihr zu vermitteln, dass diese Datenströme die einzig entscheidende TriebKraft waren, 
+
+die die ErdMaschine antrieb, und dass jedes Wollen, jedes GeFuehl und jeder Plan, den unser HumanBrain durchzuckte, nur ein 
+
+vorläufiger AbKlatsch war für eine neue hyperbeschleunigte WeLt, in der neue Generationen von SpiritualMachine's im Entstehen 
+
+begriffen waren, die nicht einmal originär lachen wollten über das was wir hier noch so trieben. Das würde er ihr aber erst 
+
+verraten, wenn seine Hände auf ihrem Hüften liegen hatte und bei jedem Wort, jeder PerSon, jedem BeGriff der er sagte, sicher 
+
+gehen konnte dass sie es genau so verstand wie er es meinte, denn schliesslich sollte TransHuman'ismus und der perfekte 
+
+LiebHaber in ihm eine vollkommene SynThese eingehen.
+
+TomDeMarco - (den TrueMan AbUndAnd ImmerWieder mit TomPeters verwechselte)
+
+Würde er am den MasterPlan ändern und die StadtBerlin als Therapie gegen sein im HauptStaedtchen von SiSanien anschwellende 
+
+ProvinzTrauma zugunsten der StadtWien ersetzen?
+
+Schnell war die TraumWohnung an einen Studenten untervermietet.
+Einige Tage schlüpfte er bei ihr unter, sondierte tagsüber das neue Terrain und überraschte sie zu ihrem FeierAbend, nur in 
+
+LendenSchurz gekleidet, mit kulinarischen Exquisitäten, von deren Zubereitungsfähigkeit er selbst überrascht war.
+Schnell war auch eine Schreib- und SchlafKlause für ihn gefunden - seinem Stil entsprechend billig schlicht und schnell 
+
+kündbar.
+Die körperliche Anziehung hielt wochenlang an. Selbst an seine SchriftSteller'iesche Manie der literatischen Vorwegnahme 
+
+ZuKunft'igen Geschehens und auch die SexPost-Ausschlachtung ihrer Liebesschlachten begann sie sich zu GeWohn'en.
+Ja sie wurde langsam eine stilsicher operierende Figur, die Akzente in ihrem KaKa'nischen Theater-DrehBuch setzte.
+Nun brach leider im FruehJahr AnnoDomino2012 die komplette WeltWirtschaft zusammen und weitere Teile von EurOpa versanken in 
+
+zwischenzeitlichem Chaos, bei dem hunderttausende ihr Leben liessen. Doch bis zum Wintereinbruch schien schon rettende 
+
+Hoffnung nahe, Millionen Menschen vor dem Kältetod der InfraStruktur.
+LarryPage und MarkZuckerberg hatten sich zusammengerauft und die Herkulesaufgabe in AnGriff genommen, der ganzen WeLt eine 
+
+neue digitale GrundLage für das FriedLich'e GeRecht'e Zusammenleben zu geben.
+
+=2012-02-20=
+KarlBuechel ist ein ganz ein Böser, ein Zorniger,
+der ganz ohne RückSicht auf mit einer teufelsspitzen Zunge
+
+Ich werde von der nicht ganz unbekannten GabrieleFischer in einem
+nicht ganz unbedeutenden WirtschaftsBlaettchen
+mit
+
+"am liebsten im Netz leben und kaum noch in echt" - WerchEinIlltum!,
+und vor allem: Welche Unterschaetzung, und welche grobschlaechtige
+UnterScheid'ung zwischen dem was DasNetz und NichtNetz ist!
+. Dies ist eine - MoegLich'erweise auflagensteigerungswunschbedingte
+Verkürzung, die ich jetzt endlich mal sezieren.
+
+"IchBinGeil".  
+
+
+SusanneWiest...
+Jetzt machttheoretischer MumPitz.
+
+Follower hast.
+FollowKratie!
+
+GeSellschaft War immer schon ein MachtSpiel,
+und wird es aller weisen VorAussicht auch
+immer bleiben, wenn wir es als solches begreifen
+und vor allem: spielen.
+in dem es ein bizarrer ComPlex'ität gibt.
+Dass Du nicht nur Deine Stimme erhebst und (sic!) abgibst,
+sondern selbst zum StimmFuehrer wirst.
+Und dann probier es doch mal: Wie gut kannst Du Dich
+ausdrücken, wie klar Deine Themen und Argumente wählen,
+damit Dir FreiWillig und DauerHaft auch nur anderer folgt!
+
+Und den Blick auf das Andere werfen
+
+
+=2012-02-18:1901 L:TraumWohnung=
+
+ * TrueMan: 
+ * BelleAstrida: 
+ * TrueMan: Man könnte es als eine vielschichtige Dialektik zwischen WahrHeit und KunstWerk auffassen. WahrHeit ist, etwa 
+
+selbst noch in den verschrobensten Winkeln des SurReal'ismus immer eine NotWendig'keit für die WirkSam'keit in einem 
+
+KunstWerk.
+ * BelleAstria: Und was ist mit meiner PrivatSphaere? 
+ * TrueMan: Wir koennen leider nicht ausschliessen, dass das ein oder andere Erlebnis, sich auch in der ZuKunft so abspielt. 
+
+Hier moechte ich aber zu bedenken geben, dass Sie bitte das was Sie hier und heute erleben, mit etwas mehr ZukunftsForscher 
+
+OffenHeit betrachten können. Die MatheMat'ische WahrSchein'lichkeit, dass die NooSphere ein BestSeller wird, ist schon jetzt 
+
+grösser Null! 
+ * BelleAstria: Ich fürchte mich schon.
+ * TrueMan: SoWhat?
+ * BelleAstria: 
+ * TrueMan: 
+ * BelleAstria: Und falls wir uns WirkLich treffen, wird dann etwa auch unser GeschlechtsVerkehr penibel in Deinem LifeWiki 
+
+protokolliert?
+
+VielLeicht kannst Du es mit dem  vergleichen wie es der MalerFuerst GerhardRichter macht: Ein Verwischen.
+
+ach es ist verkorkst - meine PowerWomenCoach-klientinnen forderten mich noch mit dringenden LebensFrage'n.
+
+
+* Ich will mal so sagen: Kennst Du diese Situationen, in denen ein sehr GeLehrt'er Kopf auf einen weniger GeLehrt'en, sagen 
+
+wir einen jungen Studiosus stösst? Nehmen wir der Anschaulichkeit halber einen MatheMat'ik-ProFessor, eine richtige Koryphae 
+
+vom Schlage eines AlexanderGrothendieck. Und dieser UberKopf, oder UberMind diesen jungen Krösus.
+Schon das Feld dessen, was der UberKopf sieht, ist so weitreichend und hochauflösend, dass
+es schon am Gang und der Kopfwendung des Studiosus riecht, welchen Horizont im weiten Felde der exakten WissenSchaft erkennt.
+
+Exclusiv: Das grosse PowerWomenCoach-InterView in der PieschenerAllgemeine.
+
+
+=2012-02-18:1409 L:TraumWohnung=
+
+wrote WasIstKunst
+
+wrote MorgenDanach
+
+wrote PraterBrater
+
+
+=2012-02-17:1423 L:TraumWohnung=
+Der AnSpruch lautet "GenauigkeitUndSeele", oder auch,
+um AdolfFrise inn SinnlichkeitUndReflektion.
+Die Herausforderung besteht darin, die UrSprung'hafte
+KlarTraum-Erfahrung in ein ComPlex'es KunstWerk hinauf zu retten.
+Dazwischen findet die KonFrontation mit der Angst
+vor der vermeintlich seelenlosen Technik statt.
+Wie in einem computergenerierter Film, der aber tausenden
+von Mannjahren an Berechnungen geometrischer Strukturen,
+Lichtbrechungen, Modellierung physikalischer Dynamik 
+bis hin zu Gehbewegungen und Lippenanimation.
+
+Je nach TechnikAffin'ität des Milieus mag es opportun
+erscheinen, vor einer MonaLisa und eine gar höhere
+Sphäre als ein RealLife-SuendenMund.
+PixarStudio
+Mit »FindetMeno« hatte ForscherGruppe StefanGumhold das grosse SwarmIntelligence
+
+
+Der SinnUndZweck solcher Konfigurationen ist, die tief
+verankerten GrundSchemata der LeserIn sichtbar zu machen und
+sie als BlindSpot zu entlarven. Das was "NieMals"
+MoegLich sein wird - zB 
+ * die Überwindung der SterbLich'keit oder
+ * etwas Höheres als die Liebe von Mann und Frau oder 
+ * Maschinen die denken, GeFuehl haben und in einem
+heute noch hohen Grad an MoralIty planen und handeln koennen,
+all dies sind Provokationen, denen der gemeine BildungsBuerger
+aber nach und nach aber immer unerbittlicher ausgesetzt werden muss.
+
+
+=2012-02-18:0150 L:TraumWohnung=
+
+wrote SchwedenPlatz
+
+
+=2012-02-17:~08 L:TraumWohnung=
+
+had MinoTraum
+
+
+=2012-02-16:~1215 L:TraumWohnung=
+
+Im ZwergenSchloss liege ich unter dem Schlafzimmerfenster
+zum BonhoefferPlatz raus. Geräusche (Klopfen?): Es
+sind die Eltern von SchnuefffChen.
+
+Eise..Strasse. Treffe einen Kollegen. Der will in die "Coralle",
+die aber eben dort ist.
+Gehe weiter richtung GeheStrasse, wundere mich über
+ein etwa 3geschossiges neu saniertes Gebäude und seinen
+Pink-Ton, der hinter der Absperrplane duchrlugt.
+Etwas später kommt JeMand auf dem FahrRad
+und umarmt mich. Ich könnte mich umdrehen, um zu sehen wer es ist, 
+möchte es aber anhand der Stimee errate. Es ist SheLog.
+Sie wohnt ca HausNr 15. Sie stellt das Rad in den
+weiss getünchten Flur. Doch direkt am Eingang
+ist ein sensationeller Vogel, etwas grösser als ein gewöhnlicher
+HausHahn, mit gelbem langem Kamm, und regelrecht in allen
+Regenbogenfarbem FederKleid.
+
+=2012-02-15 L:TraumWohnung=
+
+to 10% of the WorldPopulation in under 8 eight years. 
+
+Morgen ist WienerOpernball.
+Welcher BoundedRationality unterliegt der PolarKreis-rant von  CopyPast?
+Wenn der grosse AufStieg nicht, dann ist UnterSchicht-Egalitarismus
+durchaus nachvollziehbar.
+
+Es dämmert einem ersten Zirkel, dass dort etwas TransHuman'es im Busche ist.
+Identifikation per SwarmIntelligence. MindEyes.
+
+ArnoldSchwarzenegger
+
+
+=2012-02-03:1930 L:KarStadtDd=
+
+AllYouCanEat
+
+=2012-... L:TraumWohnung=
+
+wann darf ich Dir den meisterbesuch denn antragen?hab das tefl selten an,da SimCard oft im SurfStick- aber per rainerwasserfuhr@gmail.com rund um die uhr ;)
+
+2012-01-24 IkeaDresden
+Auch nur RealFilm-LongTail-Frage: 
+Denn schon an jedem FilmSet und auf jeder TheaterBuehne gibt es je schon ein RealityScript. Die NooSphere macht dies zu einer AlternateReality und AugmentedReality.
+
+Done: BeTuch'ung bei UteFischer
+
+2012-01-20:1345 HairCut beim SchnittPoint
+done: 2x FlanierKarte für SchnuefffChen und TrueMan via IhBay von "exam@gmx.de" für insgesamt 550 EuRo.
+
+dear raeda,
+
+this evening i'm going to attend the SemperOpernBall.
+
+Besides RogerMoore, also h.e. KhaldoonKhalifaAlMubarak will be awarded
+the "Dresden Medal of St. George" - for his achievements wrt GlobalFoundries.
+(Details at http://www.semperopernball.de/index.php?n1=599&n2=750&n3=752 - 
+ unfortunately only partially in english yet)
+
+In the rare case that we have an opportunity to talk
+to him: Do you know what would be the best salutation: "Your Excellency"?
+
+thx for your help -
+with best regards from SiliconSaxony ;)
+  RainerWasserfuhr  
+
+(cc: ChristineSchlinck - who will be my "BondGirl" tonight ;) )
+
+
+ * Ich verfolge damit einen langfristigen Plan.
+Nach WardsWiki entstand der SocialGraph.
+WahrHeit.
+
+Die positive Zusammenfuegung von TatSache'n hat in 
+WardsWiki ganz hervorragend funktioniert.
+
+PrivatSpaehre. 
+WissenSchaft.
+"organize the Worlds KnowLedge"
+Neben dieser gibt es aber eine ebenso wichtige
+Sphäre: Die der Literatur.
+Und die hat in der digitalen Sphäre 
+eine 
+
+Neben der leben wir aber ebenso in einer imaginaeren
+WeLt, die aber an *jedem* Tag auf PlanetErde Milliarden von Stunden 
+an AufMerk'samkeit fesseln.
+
+PostReal
+In dieser imaginaeren WeLt haben HarryPotter, PippiLangstrumpf, OldShatterhand, 
+AdrianLeverkuehn, DrScheckentuer oder JamesBond ein EigenLeben entwickelt,
+dem wir uns kaum je wieder entziehen werden koennen.
+
+Auf der ganz kontreten ZeitAchse. 2013 2014 2019 oder 2029.
+Mit jedem Tag malt sich die ... voran.
+ArabianCanal werden Pläne gezeichnet,
+ProjektEntwickler angeheuert, MsExcel-Tabellen gefüllt.
+
+Viele Menschen halten eine RealityShow fuer die WirkLich'keit.

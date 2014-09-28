@@ -1,0 +1,5 @@
+ * IsA: PerSon
+ * BirthDay: 07-23
+ * WikiPedia: https://en.wikipedia.org/wiki/Daniel_Radcliffe
+
+#HarryPotter

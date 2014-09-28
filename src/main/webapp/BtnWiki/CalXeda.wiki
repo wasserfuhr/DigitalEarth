@@ -1,0 +1,7 @@
+ * IsA: EnterPrise
+ * InterWiki: [WikiPedia:Calxeda]
+ * HomePage: http://www.calxeda.com/
+ * ShareHolder: AtIc
+ * MindOne: BarryEvans
+
+RipTla: http://www.theregister.co.uk/2013/12/19/calxeda_shutdown/

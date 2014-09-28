@@ -1,0 +1,3 @@
+ * IsA: MindStreet
+ * NamedAfter: RudolfFelmayer
+ * PartOf: StadtWien

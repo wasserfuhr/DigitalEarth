@@ -1,0 +1,5 @@
+http://c2.com/cgi/wiki?BugZilla
+http://c2.com/cgi/wiki?JiRa
+http://c2.com/cgi/wiki?TracProject
+
+http://en.wikipedia.org/wiki/Mantis_Bug_Tracker

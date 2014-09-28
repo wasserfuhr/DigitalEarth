@@ -1,0 +1,3 @@
+ * IsA: MindPlace
+ * PartOf: BalkonEuropas
+ * InterWiki: [DeWikiPedia:Delphinbrunnen_(Dresden)]

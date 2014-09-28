@@ -1,0 +1,6 @@
+http://mindbroker.de/wiki/SystemDynamics
+
+"SystemDynamics is a methodology used to understand how systems change over time." (RalfLippold)
+taken from http://systemdynamics.org/wiki
+
+( http://www.systemswiki.org/index.php?title=System_Dynamics ? )

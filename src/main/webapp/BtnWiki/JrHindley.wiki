@@ -1,0 +1,13 @@
+J._Roger_Hindley
+
+PagePath:
+VolkmarPipek
+http://dblp.uni-trier.de/pers/hd/p/Pipek:Volkmar.html
+http://dblp.uni-trier.de/pers/hd/w/Wulf:Volker.html
+http://dblp.uni-trier.de/pers/hd/h/Herbst:Iris.html
+http://dblp.uni-trier.de/pers/hd/l/Lindt:Irma.html
+http://dblp.uni-trier.de/pers/hd/b/Broll:Wolfgang.html
+http://dblp.uni-trier.de/pers/hd/b/Blum:Lisa.html
+http://dblp.uni-trier.de/pers/hd/f/Feng:Feng.html
+http://dblp.uni-trier.de/pers/hd/=/=Ccedil=agman:Naim.html
+http://dblp.uni-trier.de/pers/hd/h/Hindley:J=_Roger.html

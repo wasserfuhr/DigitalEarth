@@ -1,0 +1,2 @@
+ * EtymoLogia: "from combining the words light and radar"
+ * WikiPedia: https://en.wikipedia.org/wiki/Lidar

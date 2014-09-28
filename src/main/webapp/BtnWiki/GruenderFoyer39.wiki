@@ -1,0 +1,8 @@
+ * IsA: MindEvent
+ * PartOf: GruenderFoyer
+ * HashTag: gf39
+
+FrankBraeutigam FrankPankotsch GregorTempel GuenterGrimm JoergKnorr KathrinTittel KatrinKahle PeterBrandl ThorstenRehling RainerWasserfuhr 
+
+
+absent: PaulGuggemoos RalfLippold? RicoPetrick UteMoritz

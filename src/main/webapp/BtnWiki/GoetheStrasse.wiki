@@ -1,0 +1,5 @@
+ * IsA: MindStreet
+ * PartOf: StadtLeipzig
+ * ConNect: WillyBrandtPlatz
+
+FernBus-HalteStelle

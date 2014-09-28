@@ -1,0 +1,15 @@
+ich glaube als erstes zentrales feature zum demonstrieren und verbreiten von AskemosOrg und BaLl wäre ein blog/wiki geeignet.
+
+wer bekommt eigentlich mit wenn hier JeMand postet?
+
+Idealerweise mit RecentChanges direkt auf askemos.org ?
+
+Idealerweise mit "EditPage" dort direkt.
+
+Dabei spannend: dass es RevisionsSicher ist.
+
+Ich würde es *nicht* als BugTracker aufziehen, sondern allgemeiner als SocialDingens-Tool, um gleich auch Leute aus der StatusNet- und IdentiCa-Ecke abholen zu können.
+
+Ausserdem spannend: das Zusammenspiel von Menschen und Maschinen: Also: Wer ist SysAdmin welcher Maschinen und was passiert im Konfliktfall?
+
+#NextFb

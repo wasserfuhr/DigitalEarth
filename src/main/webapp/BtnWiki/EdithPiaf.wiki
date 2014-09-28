@@ -1,0 +1,3 @@
+ * IsA: PowerWoman
+ * BirthDay: 12-19
+ * WikiPedia: https://en.wikipedia.org/wiki/%C3%89dith_Piaf

@@ -1,0 +1,3 @@
+ * IsA: WirtsHaus
+ * OpenStreetMap: https://www.openstreetmap.org/browse/node/959495902
+ * HomePage: http://www.westside-dresden.de/

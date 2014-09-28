@@ -1,0 +1,5 @@
+ * HomePage: http://www.infahrt.info/
+
+DvbAg DelphiNet
+
+http://www.infahrt.info/docs/Preisliste_INFAHRT_2012.pdf : "1 Werbesekunde = 0,0012 € pro Screen"

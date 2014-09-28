@@ -1,0 +1,3 @@
+ * PartOf: BfNeustadt
+
+IsA: MindTrack?

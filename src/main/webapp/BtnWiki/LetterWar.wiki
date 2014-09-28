@@ -1,0 +1,15 @@
+similar to KleinPreise, huge letters walk around on an isometric pane.
+The CamelCase-RegEx defines a possibly infinite NameSpace.
+In a MineCraft or RailWay analogy, each LetterTrain carries PageContent.
+A WikiWall is a RailwayStation.
+A TruthMachine with a RuleSet allows to InFer.
+A RecentChangesJunkie can ReView each StateMent.
+|| *RealWorld*|| *WikiWorld*||
+||Waggon   ||Letter     ||
+||Train    ||WikiWord   ||
+||RailWay  ||PageContent||
+||Schedule ||RuleSet    ||
+While the underlying HerbrandUniverse has a strict BinaryLogic, 
+the ReView also allows a continuous TruthValue.
+
+FaultTolerant SixSigma ZeroDefect

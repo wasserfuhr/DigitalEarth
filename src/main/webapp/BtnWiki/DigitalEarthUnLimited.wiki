@@ -1,0 +1,11 @@
+ * IsA: UnLimited
+
+the EnterPrise for DigitalEarth
+
+has 1024 Shares.
+
+ShareHolder:
+||RaWa||1008||
+||RaLi||16?||
+
+StammKapital: X06787974728

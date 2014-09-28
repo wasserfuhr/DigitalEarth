@@ -1,0 +1,5 @@
+ * WikiPedia: https://en.wikipedia.org/wiki/Couchbase
+
+DamienKatz: http://damienkatz.net/2012/01/the_future_of_couchdb.html
+
+post CouchDb

@@ -1,0 +1,5 @@
+ * IsA: BlogPost
+ * DcAuthor: MiAn
+ * HomePage: http://www.moreright.net/premises-of-reactionary-thought/
+
+PostReactionary

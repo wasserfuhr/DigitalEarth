@@ -1,0 +1,5 @@
+https://en.wikipedia.org/wiki/Subscriber_identity_module#ICCID
+
+integrated circuit card identifier
+
+WhiteList

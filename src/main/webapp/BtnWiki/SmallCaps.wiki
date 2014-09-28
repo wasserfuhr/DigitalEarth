@@ -1,0 +1,3 @@
+http://www.w3schools.com/cssref/pr_font_font-variant.asp
+
+for BookPrinter

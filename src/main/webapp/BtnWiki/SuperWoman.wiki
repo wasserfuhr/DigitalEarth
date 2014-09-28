@@ -1,0 +1,5 @@
+ * KindOf: PowerWoman
+
+required:
+ * KindOf: EntrePreneur
+ * MindProps: BirthDay ChildOf KasimirNummer MindId RealName

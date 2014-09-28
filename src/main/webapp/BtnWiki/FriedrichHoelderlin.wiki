@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * BirthDay: 03-20
+ * BornIn: 1770
+ * InterWiki: [WikiPedia:Friedrich_H%C3%B6lderlin]

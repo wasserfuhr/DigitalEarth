@@ -1,0 +1,9 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16213 « 2013-10-15 » LifeDay16211
+ * OneMonthAgo: LifeDay16182
+ * OneYearAgo: LifeDay15847
+ * HappyBirthday: 
+ * HaTa: LadyMarx
+ * RevNum: r19251
+ * BoPa: TrWo:1345 LoebiNetto:2025 LoeSt TrWo
+ * CurrentProject: RainerTest DigitalEarth

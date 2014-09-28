@@ -1,0 +1,5 @@
+ * IsA: TopManager
+ * BornIn: 1963
+ * BirthDay: 12-21
+ * InterWiki: [DeWikiPedia:Frank_Sennhenn]
+ * WorkFor: DbNetz

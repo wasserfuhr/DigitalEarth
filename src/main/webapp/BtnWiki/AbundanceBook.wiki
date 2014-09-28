@@ -1,0 +1,7 @@
+ * IsA: MindBook
+ * DcAuthor: StevenKotler PeterDiamandis
+ * IsBn: 978-1451614213
+ * HomePage: http://www.abundancethebook.com/
+ * MindQuote: "brilliant MustRead book" - RayKurzweil
+
+AbUnd AbundanceWikiWall

@@ -1,0 +1,1 @@
+CamelCase PageName NameSpace ThoughtId MindPattern ReIf LanguageOfThought

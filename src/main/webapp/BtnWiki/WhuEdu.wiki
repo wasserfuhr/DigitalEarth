@@ -1,0 +1,4 @@
+ * IsA: HochSchule
+ * WikiPedia: https://en.wikipedia.org/wiki/WHU-Otto_Beisheim_School_of_Management
+ * MindOne: MichaelFrenkel
+ * MindPlace: VallEndar

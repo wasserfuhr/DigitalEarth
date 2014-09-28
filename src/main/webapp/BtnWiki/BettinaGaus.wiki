@@ -1,0 +1,4 @@
+ * IsA: PowerWoman
+ * ChildOf:  GuenterGaus
+ * DeWikiPedia: https://de.wikipedia.org/wiki/Bettina_Gaus
+ * TriBy: https://twitter.com/tazgezwitscher/status/343783724883787776

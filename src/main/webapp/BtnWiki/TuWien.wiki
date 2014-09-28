@@ -1,0 +1,6 @@
+ * IsA: HochSchule
+ * WikiPedia: https://en.wikipedia.org/wiki/Vienna_University_of_Technology
+ * PartOf: StadtWien
+ * HomePage: http://www.tuwien.ac.at/
+ * FbPage: https://www.facebook.com/tuwien
+ * MindOne: SabineSeidler

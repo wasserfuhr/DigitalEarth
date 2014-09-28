@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * BirthDay: 11-18
+ * WikiPedia: https://en.wikipedia.org/wiki/Eckart_von_Klaeden
+ * ParteiWiki: CduWiki

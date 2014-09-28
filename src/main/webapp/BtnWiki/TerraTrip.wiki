@@ -1,0 +1,13 @@
+DdLe TerraDsl
+
+1h=60*60=3600s
+
+DeadLine 2015-03-21
+
+SchachMatt?
+
+2TB=170 EuRo=16tbit
+
+3600/16=2048*1.5/16=1024*1.5/8=512*1.5/4=256*1.5/2=128*1.5
+
+*25 EuRo IceTla

@@ -1,0 +1,10 @@
+ * HomePage: http://mindbroker.de/SingularVille
+
+Beyond FabVille:
+
+An AiGame where we collaboratively create our own AvaTar and a RoleModel of RealLife that becomes more and more detailed. Our ultimate goal: Walk along the SingularRoadMap, pass the "RainerTest" and win LongBetOne.
+
+RoadMap:
+ * MindChat based on ChannelApi
+ * PayMent via PieschenBank
+ * TwinWorld

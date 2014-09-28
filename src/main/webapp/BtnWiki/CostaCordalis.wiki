@@ -1,0 +1,6 @@
+ * IsA: SchlagerSaenger
+ * BornIn: 1944
+ * BirthDay: 05-01
+ * WikiPedia: https://en.wikipedia.org/wiki/Costa_Cordalis
+
+#PrTr

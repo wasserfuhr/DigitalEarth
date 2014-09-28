@@ -1,0 +1,16 @@
+The **LockMonthly** is a WikiBased meeting of ShareHolder and supporters of LockSchuppenAg.
+
+From the beginning of LockSchuppenAg we have claimed that TelePresence
+as a VirtualEnterprise without OfficeSpace is TheFuture.
+JimmyWales showed how hundreds of thousands of people can create 
+the WorLd's largest encyclopedia, with almost no physical FaceToFace interactions, but only using a WiKi.
+And meanwhile we have much better tools like PodCast's ScreenCast's or our LiveWiki.
+Can we proof that? To do this we have anything in place:
+ * a WiKi
+ * people who want to participate, earn money, become ShareHolder or EntrePreneur.
+
+The LockMonthly works similar to WikiMail: On the WikiTable's of WikiPage the participants add the PageName of important HotTopics. Those who have read it (or commented if necessary) add their the "ReadBy" column:
+
+|| *Topic*|| *by*|| *ReadBy*||
+||SingularDresden||RaWa||you?||
+||ShowRoom||RaWa||you?||

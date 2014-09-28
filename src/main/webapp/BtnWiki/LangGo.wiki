@@ -1,0 +1,2 @@
+ * IsA: ProgLang
+ * InterWiki: [WikiPedia:Go_(programming_language)] [WikiWikiWeb:GoLanguage]

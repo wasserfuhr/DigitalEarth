@@ -1,0 +1,5 @@
+ * IsA: MindBook
+ * DcAuthor: DouglasRushkoff
+ * HomePage: http://www.rushkoff.com/program-or-be-programmed/
+
+http://webseitz.fluxent.com/wiki/ProgramOrBeProgrammed

@@ -1,0 +1,2 @@
+ * IsA: ProFessor
+ * WikiPedia: https://en.wikipedia.org/wiki/Ernst_Mach

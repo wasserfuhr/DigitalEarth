@@ -1,0 +1,6 @@
+ * IsA: PowerWoman
+ * BornIn: 1929
+ * BirthDay: 0504
+ * DiedIn: 1993
+ * WikiPedia: https://en.wikipedia.org/wiki/Audrey_Hepburn
+ * TriBy: https://www.facebook.com/photo.php?fbid=4538789278325&set=a.1342855421976.2040812.1548932632&type=1&comment_id=2371415&offset=0&total_comments=5

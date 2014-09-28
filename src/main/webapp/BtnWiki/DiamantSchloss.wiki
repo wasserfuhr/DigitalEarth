@@ -1,0 +1,3 @@
+ * IsA: MindBuilding
+ * PartOf: NiederwaldStrasse
+ * HausNummer: 13

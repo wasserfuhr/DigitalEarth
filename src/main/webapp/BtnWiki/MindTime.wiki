@@ -1,0 +1,15 @@
+https://code.google.com/p/bigtablenomic/source/browse/trunk/src/main/java/mind/Time.java
+
+Requirements
+ * sortable on BigTable via a simple index (Java long).
+ * +/-292 471 209 years after/before AnnoDomino1958
+ * easily convertible to/from UnixTime via TaiInstant
+
+InspiredBy
+ * java.util.Date
+ * ThreeTen
+ * JodaTime
+
+Alternative:
+ * micros (plus: > 99% of timestamps for known facts of human culture could be represented)
+ * nanos (events before AnnoDomino1666 would require special treatment)

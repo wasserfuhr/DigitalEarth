@@ -1,0 +1,3 @@
+ * IsA: PowerWoman
+ * WikiPedia: https://en.wikipedia.org/wiki/Juliette_Binoche
+ * BirthDay: 03-09

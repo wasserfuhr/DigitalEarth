@@ -1,0 +1,4 @@
+http://mindbroker.de/wiki/NoMic
+
+DomainModel:
+Player Rule Change Vote

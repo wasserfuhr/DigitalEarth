@@ -1,0 +1,19 @@
+ * IsA: MindPlace
+ * WikiPedia: https://en.wikipedia.org/wiki/Challenger_Deep
+
+http://ngdc.noaa.gov/cgi-bin/mgg/gdas_retrieve?DATA_BASE=grddas&KEY=rawa-2050 :
+{{{
+NCOLS     7
+NROWS     7
+XLLCENTER  142.0000000000
+YLLCENTER  11.0000000000
+CELLSIZE 0.166666666667
+NODATA_VALUE   -32768
+  -4424  -3341  -3289  -3065  -3945  -3357  -4093
+  -5188  -4157  -3108  -3600  -2849  -2996  -3140
+  -5712  -5722  -5322  -6378  -5983  -5584  -4900
+  -7492  -7703  -8624  -8493  -8395  -7919  -7806
+  -9151 -10468 -10442 -10429  -9699  -9397  -8868
+  -9281  -8571  -8467  -8016  -8083  -7622  -7430
+  -7088  -6649  -6743  -7145  -6643  -6645  -6303
+}}}

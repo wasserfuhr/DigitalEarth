@@ -1,0 +1,108 @@
+A growing number of experts like AlanTuring IjGood or RayKurzweil have PreDict'ed a ConVerg'ence of human and machine intelligence during the TwentyFirstCentury.
+This AiBook wants to give you an introduction on how to UnderStand and ProGram a FriendlyAi.
+
+Throughout the AiBook we will use a special SynTax that indicates the use of terms of our LanguageOfThought.
+First we will focus on the ConCept of a PerSon.
+We will go from ContinuousText to a ContRol'led vocabulary that is similar to a ProgrammingLanguage.
+Throughout the AiBook names and words are evolving towards
+uniquely and InterSubject'ive ThoughtName's.
+
+We will introduce a simple mechanism called TruthMachine that will operationalize the collaborative creation and correction of a large TripleSpace.
+
+Since the first edition of the seminal "AiMa" ("ArtificialIntelligence: A Modern Approach", IsBn:0131038052) by StuartRussell and PeterNorvig AnnoDomino1995, a lot of things have happened.
+
+We feel and think that it is the right time to change the way how we organize the WorlLd's KnowLedge and how we teach ArtificialIntelligence. The AiBook wants occupy your MiNd, and your MiNd to occupy the AiBook. We want to bring this late victim of the PrintingPress into the TwoPointOh sphere.
+
+=AiBookAuthors=
+
+The AiBook was started in late AnnoDomino2011 by RainerWasserfuhr, who then lived in the CityOfDresden in EasternGermany. After his diploma in ComputerScience, he worked at the GermanResearchCenterForArtificialIntelligence (DfKi), at TuDresden and participated in several SoftWare ProJect's as a FreeLancer.
+
+=InfiniteBook=
+
+First of all, what you read here, is an InfiniteBook.
+The very first edition will be published as a limited PrintOnDemand
+circulation.
+You are not only allowed, but strictly _encouraged_ to participate actively in the next editions of our AiBook by ReView'ing and contributing to our AiWiki at
+ http://mindbroker.de/AiBook
+In the following chapters you will learn how to contribute to it.
+
+=LiterateProgramming=
+
+The AiBook applies LiterateProgramming. You will
+read a serialized HyperText, that is enriched with SourceCode.
+
+http://c2.com/cgi/wiki?LiterateProgramming
+
+=LanguageOfThought=
+
+Throughout this AiBook we will elaborate on the idea of a LanguageOfThought, that has a long standing tradition in philosophy and ArtificialIntelligence.
+
+ "In ordinary fluent conversation people pronounce each second roughly four syllables, ten or twelve phonemes and two to three words out of a vocabulary that can contain 10 to 100 thousand words." - https://en.wikipedia.org/wiki/Speech_production#Faculty
+
+=PeterProblem=
+
+Let's first talk about about Peter.
+It might be
+ * a family members
+ * your classmate
+ * a filmstar like PeterFalk or 
+ * the renowned PeterNorvig.
+or StPetersburg.
+Just try to estimate the number of Peters that you know. Depending on your age and cultural background, you might easily remember dozens or even hundreds of them.
+How can we teach a digital machine (a TuringMachine) to UnderStand, about which Peters we are thinking, talking, seeing or interacting - and to reason about a specific Peter that is in our MiNd?
+Unique names: PeterNorvig. PeterMiller. Fortunately, we nowadays have a SocialGraph that is scattered across more or less WalledGarden's of SocialNetwork's like FaceBook TwittEr or GooglePlus.
+As an example, the EngLish WikiPedia listed
+ * Peter Miller (musician)
+ * Peter Miller (Australian footballer) (born 1969)
+ * Peter Miller (actor), Canadian actor
+ * Peter Miller (Scottish footballer)
+ * Peter N. Miller is an American intellectual historian and
+ * Peter Miller Cunningham
+as of AnnoDomino2012.
+#ViAf
+
+
+=AiEngine=
+You can do this for free: Make sure that you have a GoogleAccount and
+go to https://appengine.google.com/
+
+A vast amount of AiLiterature is about algorithms and rules that can be applied to our data.
+
+There is a long history of rule based programming, e.g based on ProLog. In our AiBook we will use a slightly different approach and use a dialect of the LispLanguage, that is very well for our WebBased and
+InterActive approach.
+
+If you are a programmer or want to, this AiBook is for you.
+
+
+=IndustrialAi=
+There are many applications of ArtificialIntelligence especially in the hightech sector. For this we have chosen the SemiConductor industry, which is one of the most KnowledgeIntensive fields on PlanetEarth. As part of this we will create a simulation of a ChipFab, that can not only be played by humans like FaceBook game, but also with your own AiAgent.
+Parts are currently under development for "in the wild" in a WorLd leading *RealLife* ChipFab somewhere in SiliconSaxony.
+
+=AiWikiWall=
+
+Before we start to give an overview about the HotTopics that we want to cover in the AiBook, 
+
+Instead of a classical sequential of ordering of chapters, you can partly read the AiBook more like an encyclopedia or a like WiKi.
+
+||AiGame  ||TheSingularity||TuringTest   ||InternetOfThinking||
+||GoogleAi||SingInst      ||CloJure      ||SemanticSixSigma  ||
+||LifeWiki||LongBetOne    || *AiWikiWall*||IndustrialAi      ||
+||FabVille||SingularVille ||NoOs         ||NeuroSemanticWeb  ||
+
+=MentalModel=
+The PeterProblem points to a fundamental question of ArtificialGeneralIntelligence: Over the cource of a PerSon'al life, 
+the HumanBrain extends it's capabilities on different levels of AbsTra'ction.
+
+
+=AiBrainstorm=
+
+ "...The common conversion factor between WPM and CPM is 5." - https://en.wikipedia.org/wiki/Words_per_minute#Alphanumeric_entry
+
+AiSocialNetwork: PageNumber ErdosNumber PagePath ShortestPath
+
+PreDict'ive. Sensory InPut. PerCeive. VideoChat. SingularVille. KunstSprache.
+
+
+Ideas for chapters: ResilientAi PostPrivacy BeyondGoogle AiWorld AiBank AiBusiness OptimalScientist JuergenSchmidhuber ArtilectWar DogFood NiklasLuhmann RobertMusil PostPrivacy DigitalTwin RainerTest
+
+The goal of having one digital representation for one RealWorld entity.

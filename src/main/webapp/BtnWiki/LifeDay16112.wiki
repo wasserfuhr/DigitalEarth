@@ -1,0 +1,8 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16113 « 2013-07-07 » LifeDay16111
+ * HappyBirthday: UteMoritz RajkoAust
+ * HasSeen: GrQu MarkusSchuetze
+ * HaBaKi: ChSc KeFi HeMo
+ * HaTa: PitLockBoy ChSc BuRi KeFi LadyKatja HeMo SaZi
+ * BodyPath: TrWo H:BuSt M:DvbTram2629:1522 H:PrellerStrasse DiamantSchloss SingleSchloss BlauWunder SaLoppe AlaunPark ThaliaBar LouisenStrasse AlbertPlatz NapoleonStein BudapesterStrasse TrWo
+ * CurrentProject: RainerTest WunderVonPratzschwitz

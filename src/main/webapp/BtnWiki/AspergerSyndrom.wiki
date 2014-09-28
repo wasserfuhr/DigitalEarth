@@ -1,0 +1,4 @@
+ * InterWiki: [WikiPedia:Asperger_syndrome]
+ * NamedAfter: HansAsperger
+
+AutIs

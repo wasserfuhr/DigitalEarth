@@ -1,0 +1,21 @@
+Falls JeMand Lust hat, eine kleinen WorldCrash zu starten: hier die KurzAnleitung:
+Auf jedem EuRo-GeldSchein befindet sich eine SerialNumber, bestehend aus einem BuchStabe'n und 11 Ziffern.
+
+Der BuchStabe gibt den NationState an, in dem der GeldSchein gedruckt wurde:
+
+X=DeutschLand
+U=FrankReich
+S=Italy
+V=Spain
+P=Netherlands
+M=Portugal
+H=Slovenia
+EtCetera ( https://en.wikipedia.org/wiki/Euro_banknotes#Serial_number )
+
+Vor einiger Zeit stand mal im InterNet (FindeDieQuelle), dass im Falle eines GrExit auch die GeldSchein'e aus GriechenLand nur noch in GriechenLand akzeptiert werden. HausAufgabe: multipliziere mit BeppeGrillo CityOfLondon und 2 Mio OeffentlichRechtlich unberichteten Demonstranten in LisBoa und Umgebung vor wenigen Tagen.
+
+JeMand könnte also in einen SuperMarket oder BankSchalter gehen und fragen, ob man WechselGeld oder KontoAuszahlung in einer gewünschten LandesWaehrung erhält.
+
+https://en.wikipedia.org/wiki/50_euro_note
+
+#FuffiApp

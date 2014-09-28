@@ -1,0 +1,3 @@
+ * IsA: PowerWoman
+ * BirthDay: 03-18
+ * InterWiki: [WikiPedia:Charlotte_Roche]

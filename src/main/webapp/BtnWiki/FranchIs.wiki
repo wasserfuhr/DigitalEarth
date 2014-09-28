@@ -1,0 +1,5 @@
+ * EtymoLogia: Old French, corresponding to franc +‎ -ir.
+ * EtymoLogiaSource: https://en.wiktionary.org/wiki/franchir#Etymology
+ * WikiPedia: https://en.wikipedia.org/wiki/Franchising
+
+#WortStamm

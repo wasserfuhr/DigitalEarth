@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * BirthDay: 06-29
+ * WikiPedia: https://en.wikipedia.org/wiki/John_Doerr
+ * TwittEr: https://twitter.com/johndoerr

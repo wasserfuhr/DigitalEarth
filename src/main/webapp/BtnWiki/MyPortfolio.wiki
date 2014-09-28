@@ -1,0 +1,20 @@
+ 	Name	Symbol	Last price	Change	Shares	Cost basis	Mkt value	Gain	Gain %	Day's gain	Overall return
+Cash - Deposit / Withdraw
+
+Portfolio value:	-51,000.00 (-2.44%)		$3,375,000.00	$2,040,000.00	-$1,335,000.00	-39.56%	-$51,000.00	-39.56%
+	GoogleInc	GOOG	757.84	-9.81 (-1.28%)
+	LinkedIn Corporation	LNKD	117.97	-0.86 (-0.72%)
+	FaceBook Inc	FB	20.40	-0.51 (-2.44%)	100,000.00	3,375,000.00	2,040,000.00	-1,335,000.00	-39.56%	-51,000.00	-39.56%
+	Intl. Business Machines...	IBM	209.82	-0.77 (-0.37%)
+	Amazon.com, Inc.	AMZN	259.06	+0.55 (0.21%)
+	Apple Inc.	AAPL	638.17	-14.42 (-2.21%)
+	IntEl Corporation	INTC	22.51	-0.17 (-0.75%)
+	MicroSoft Corporation	MSFT	29.78	-0.07 (-0.23%)
+	AsMl Holding N.V. (ADR)	ASML	55.01	-1.10 (-1.95%)
+	AppliedMaterials, Inc.	AMAT	11.01	-0.12 (-1.08%)
+	OracleCorp 	ORCL	31.18	-0.21 (-0.67%)
+	SapAg (ADR)	SAP	71.63	-0.15 (-0.21%)
+	GoldmanSachs Group...	GS	119.46	+0.15 (0.13%)
+	ExxonMobil Corporation	XOM	92.68	+0.13 (0.14%)
+
+https://www.google.com/finance/portfolio

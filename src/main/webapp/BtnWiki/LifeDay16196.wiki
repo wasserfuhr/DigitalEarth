@@ -1,0 +1,8 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16197 « 2013-09-29 » LifeDay16195
+ * OneMonthAgo: LifeDay16166
+ * OneYearAgo: LifeDay15831
+ * HappyBirthday: 
+ * HasSeen: LdsBlond
+ * BoPa: TrWo:1041 TrWo:1700 SlUb KlubNeueMensa SultanKebap TrWo:2421 TrWo:3148
+ * CurrentProject: RainerTest DigitalEarth

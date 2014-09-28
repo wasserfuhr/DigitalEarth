@@ -1,0 +1,2 @@
+ * IsA: EventSeries
+ * OperatedBy: SiliconSaxony

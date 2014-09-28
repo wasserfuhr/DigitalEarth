@@ -1,0 +1,9 @@
+an initiative started by RainerWasserfuhr to create a series of NextGeneration EnterPrise's that are
+ * agile
+ * global
+ * lean
+ * TransParent
+ * TurnKey-enabled
+and create an entirely new economy on top of the SocialGraph. WikiBased from day one on.
+
+At the core of each GlobalEnterprise is the SocialGraph which replaces existing habits like an ActiveDirectory.

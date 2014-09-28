@@ -1,0 +1,3 @@
+http://openstreetmapdata.com/data/land-polygons
+
+OpenStreetMap ShoreLine for EarthModel

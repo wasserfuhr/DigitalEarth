@@ -1,0 +1,5 @@
+ * IsA: ComPoser
+ * BornIn: 1840
+ * BirthDay: 05-07
+ * DiedIn: 1893
+ * InterWiki: [WikiPedia:Pyotr_Ilyich_Tchaikovsky]

@@ -1,0 +1,4 @@
+ * IsA: EntrePreneur
+ * BornIn: 1970
+ * BirthDay: 29-05
+ * WikiPedia: https://en.wikipedia.org/wiki/Astro_Teller

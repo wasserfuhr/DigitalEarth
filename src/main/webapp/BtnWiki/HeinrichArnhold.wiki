@@ -1,0 +1,3 @@
+ * IsA: PerSon
+ * ChildOf: GeorgArnhold
+ * DeWikiPedia: https://de.wikipedia.org/wiki/Heinrich_Arnhold

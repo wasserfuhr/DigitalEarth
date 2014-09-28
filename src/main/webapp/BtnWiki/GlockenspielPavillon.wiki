@@ -1,0 +1,3 @@
+ * IsA: MindPlace
+ * OpenStreetMap: https://www.openstreetmap.org/browse/way/23130697
+ * PartOf: StadtDresden

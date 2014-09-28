@@ -1,0 +1,6 @@
+ * IsA: EnterPrise
+ * WikiPedia: https://en.wikipedia.org/wiki/Novartis
+ * EtymoLogia: von lat. novae artes «neue Künste»
+ * EtymoLogiaSource: https://de.wikipedia.org/wiki/Novartis
+ * IsIn: CH0012005267
+ * MindOne: JosephJimenez

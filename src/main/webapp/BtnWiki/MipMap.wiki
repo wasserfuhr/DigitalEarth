@@ -1,0 +1,4 @@
+ * InterWiki: [WikiPedia:Mipmap]
+ * TriBy: https://github.com/highfidelity/hifi/issues/2180
+
+EtymoLogia: multum in parvo, meaning "much in little"

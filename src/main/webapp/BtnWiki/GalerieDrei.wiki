@@ -1,0 +1,6 @@
+ * IsA: MindPlace
+ * HomePage: http://www.sezession89.de/
+ * PartOf: PriessnitzStrasse
+ * HausNummer: 43
+ * OpenStreetMap: http://www.openstreetmap.org/node/1785339848
+ * KeyPeople: GabrieleReinemer AngelaHampel PetraVohland

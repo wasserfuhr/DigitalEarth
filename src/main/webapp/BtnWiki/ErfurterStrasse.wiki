@@ -1,0 +1,7 @@
+ * IsA: MindStreet
+ * NamedAfter: ErFurt
+ * ConNect: GeheStrasse LeipzigerStrasse
+
+OpenStreetMap: http://www.openstreetmap.org/?way=11114885#
+
+https://en.wikipedia.org/wiki/Erfurt

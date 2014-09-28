@@ -1,0 +1,9 @@
+ * IsA: EntrePreneur
+ * WorkFor: PowerSet
+ * AppNet: https://alpha.app.net/mojombo
+
+nice: https://github.com/mojombo/mojombo.github.com/blob/master/_posts/2008-10-18-how-i-turned-down-300k.textile
+
+nice: https://github.com/mojombo/mojombo.github.com/blob/master/_posts/2011-11-22-open-source-everything.md
+
+nice: https://github.com/mojombo/mojombo.github.com/blob/master/_posts/2011-03-29-ten-lessons-from-githubs-first-year.textile

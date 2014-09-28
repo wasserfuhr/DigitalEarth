@@ -1,0 +1,5 @@
+ * IsA: WirtsHaus
+ * PartOf: AlaunStrasse
+ * HausNummer: 64
+
+MindOne: ??? #ToDo

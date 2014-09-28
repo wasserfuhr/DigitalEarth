@@ -1,0 +1,1 @@
+ * WikiPedia: https://en.wikipedia.org/wiki/Single_point_of_failure

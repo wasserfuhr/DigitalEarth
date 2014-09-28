@@ -1,0 +1,8 @@
+ * HomePage: http://www.spiegel.de/netzwelt/netzpolitik/0,1518,830734,00.html
+ * DcAuthor: SaschaLobo
+
+TelePresence BasicIncome
+
+RunningText for MainStream
+
+SiegfriedKracauer ArBeit

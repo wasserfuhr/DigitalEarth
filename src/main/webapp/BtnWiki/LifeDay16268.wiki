@@ -1,0 +1,11 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16269 « 2013-12-10 » LifeDay16267
+ * HappyBirthday: AdaLovelace CesarFranck LudwigKlages OlivierMessiaen JorgeSemprun JenniferNitsch StGr
+ * OneMonthAgo: LifeDay16238
+ * OneYearAgo: LifeDay15903
+ * RevNum: r20462
+ * CuPr: RainerCast LifeWiki
+ * BoPa: TrWo:1419 LoebiAldi:1722 LoeSt TrWo:2432
+ * HaTa: LadyKasch
+ * HaCh: LeFa SonneNeun StuKo
+ * CheckSum: 5c3768319fed8b0860f0141ae8c51c4a419946b8

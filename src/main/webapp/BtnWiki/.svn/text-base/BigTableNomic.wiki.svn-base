@@ -1,0 +1,94 @@
+http://mindbroker.de/wiki/BigTableNomic
+
+This is the interim BtnWiki of BigTableNomic.
+
+BigTableNomic is a new approach to collaborative SoftWare and game development on top of GoogleAppEngine, including the ultra-scalable DataBase technology called "BigTable".
+
+It is a MultiUserGame for
+ * artists,
+ * designers,
+ * EntrePreneur's,
+ * futurists,
+ * PowerWomen
+ * scientists,
+ * social activists,
+ * SoftWare developers,
+ * thinkers.
+
+BigTableNomic is almost completely
+ * WebBased
+ * RealTime
+ * UltraCollaborative
+ * GamIf'ied
+
+In general, »NoMic« is a game that allows to change it's own rules.
+The goal of BigTableNomic is to create an InfiniteGame.
+A game where the rules are coded in SourceCode is called »CodeNomic«. It is InspiredBy a WiKi, where you can edit each WikiPage, but here you can not only edit WikiPage's, but you can _change the SourceCode_ of the WikiEngine itself. So the rules of this InfiniteGame can change dynamically, based on the changes that players make.
+Our CodeNomic game is played on top of the functional ProgrammingLanguage CloJure, installed as a WebApp hosted on GoogleAppEngine.
+For coordinating different players, we use a game currency called KayGroschen, provided by the legendary PieschenBank. Our VirtualCurrency currently has a CurrencyBacking of 1024 EuRo, that will be payed out by RainerWasserfuhr UnTil 2012-12-31 latest.
+To play BigTableNomic, you should be familiar with 
+ * how a WebApp on the JavaVm and on AppEngine works on
+ * BigTable, as seen through the low level Java DataStore-API
+ * CloJure, as our main language
+BigTableNomic is inspired by PerlNomic and additionally allows us to create a very dynamic and scalable game inventory using the underlying BigTable InfraStructure. To play BigTableNomic you only need a GoogleAccount. JoinNow and help to implement it and earn your first 64 units of our game currency called »KayGroschen«. For coordinating the BigTableNomic developers we use a simple "DogFood" application that is based on the BigTable entity "BootStrap" and sorted in ReverseChronological order by property "date" and shown by the WebEditor. The BootStrap WebApp is
+https://bigtablenomic.appspot.com/
+Other WebApp's based on BigTableNomic obtain their initial version from GoogleCode.
+
+Currently BigTableNomic supports SourceCode for CloJure and experimental support for:
+ * JavaScript (similar to Helma)
+ * Jython
+ * PHP
+
+In TheFuture we might also support server side languages like
+ * grails
+ * jRuby
+ * Scala
+
+The goal of BigTableNomic is to create a new social OperatingSystem called »NoOs«, offering
+ * Currency
+ * Identity
+ * SemanticWeb
+ * WebOfTrust
+We want to help create an EcoSystem for programmers, web designers and users.
+
+=Tutorial=
+This tutorial is written for developers who have experience with web applications (WebApp's) and especially with
+ * Java-Technologies like Servlets und JavaServerPages and
+ * DataBase's
+BigTableNomic differs in some points from traditional approaches and 
+enables very fast and team oriented coding.
+In many cases new features can be published to users within seconds.
+The central tool for developers is the WebEditor:
+On the left side of the WebEditor you can see the ReverseChronological history of recent page edits.
+On the right side a currently selected page is shown.
+The entire application logic is broken down into simple
+Request-Response-interactions.
+
+==DataStore==
+BigTableNomic stores it's persistent data in the so called "BigTable" which is a highly scalable technology developed by GoogleInc.
+For storing revisions we do not use an incremental revision counter like SubVersion, but we completely rely on the internal Id creation of BigTable. For example some of the first ReVision's created on the central BigTableNomic HomePage were (ReverseChronological):
+ * 2004
+ * 2002
+ * 1003
+ * 1002
+ * 1001
+
+Comparison with EclipseIde:
+BigTableNomic is *only* intended for webbased applications.
+For debugging you can intercept and directly access the DataStore.
+
+=Tutorial (Deutsch)=
+Dieses Tutorial richtet sich an Entwickler, die Erfahrung mit der Entwicklung von Web-Applikationen (WebApp's) haben und insbesondere mit
+ * Java-Technologien wie Servlets und JavaServerPages sowie
+ * Datenbanken
+Erfahrung haben.
+Der Ansatz von BigTableNomic unterscheidet sich an einigen Punkten von traditionellen Praktiken und ermöglicht eine besonders schnelle und teamorientierte Vorgehensweise.
+In vielen Fällen stehen neue Features schon binnen weniger Minuten für Nutzer zur Verfügung.
+Das zentrale Werkzeug für die Entwicklung ist der WebEditor:
+Auf der linken Seite zeigt er eine revers-chronologische Historie bisheriger Seiten.
+Rechts wird die jeweils aktuelle Seite dargestellt.
+Jede Seite besteht aus einer
+ * Resource, unter der sie später veröffentlicht wird.
+ * einem Typ, der unterschiedliche Formate ermöglicht.
+ * Die Dateigröße in Bytes.
+BigTableNomic speichert seine Daten in der BigTable.

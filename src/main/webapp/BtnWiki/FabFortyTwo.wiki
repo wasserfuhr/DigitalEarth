@@ -1,0 +1,5 @@
+ * IsA: ChipFab
+ * OperatedBy: IntEl
+ * PartOf: ChandlerAz
+
+http://www.bit-tech.net/news/hardware/2014/01/15/intel-shelves-fab-42/1

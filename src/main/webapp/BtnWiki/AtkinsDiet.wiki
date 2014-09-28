@@ -1,0 +1,2 @@
+ * InterWiki: [WikiPedia:Atkins_diet]
+ * NamedAfter: RcAtkins

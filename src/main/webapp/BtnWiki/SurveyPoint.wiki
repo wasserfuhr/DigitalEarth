@@ -1,0 +1,5 @@
+ * KindOf: MindPlace
+
+http://wiki.openstreetmap.org/wiki/Tag:man_made%3Dsurvey_point
+
+http://overpass-turbo.eu/?template=key-value&key=man_made&value=survey_point

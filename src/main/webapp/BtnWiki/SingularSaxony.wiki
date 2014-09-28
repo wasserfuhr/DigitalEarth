@@ -1,0 +1,8 @@
+ * PartOf: SiSanien
+
+DoIt: leak StrategyPaper of PieschenConsultingGroup for AdIa
+
+north: Dommitzsch
+east: ZentenDorf
+west: MuehlTroff
+south: SchoenBerg

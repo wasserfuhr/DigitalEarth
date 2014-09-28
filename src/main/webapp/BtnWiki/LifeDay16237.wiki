@@ -1,0 +1,13 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16238 « 2013-11-09 » LifeDay16236
+ * HappyBirthday: 
+ * OneMonthAgo: LifeDay16207
+ * OneYearAgo: LifeDay15872
+ * RevNum: r19709
+ * BoPa: TrWo:1311 LoebiAldi:1957 LoeSt TrWo H:BuSt LinieSechs:DvbTram2836:2533 AlbertPlatz LebowskiBar ThaliaBar BlueNote ZilleBar BlueNote AlbertPlatz NapoleonStein KempiLobby PostMotelOne TrWo
+ * CuPr: RainerTest SemperBase
+ * HaGr: LadyLeischner
+ * HaTa: LadyKaschner SaZi PeZi UlKl SvEc AnnSt
+ * HoTo: FreeGardens NiklasLuhmann SoziologenTag StadtHalle
+ * WahrTraum: VolleyBall EvbTla dynamo blau einwurf
+ * CheckSum: 0724ead894cfb653ad54f971445a6ac2a9e20d89 241a600f2da43968fbb366b92322072d1fac5b45 ee69dc2cf356ccd6580b6a29185d1b7b43c645a7

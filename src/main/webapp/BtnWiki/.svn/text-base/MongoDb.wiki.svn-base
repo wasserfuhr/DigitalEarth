@@ -1,0 +1,16 @@
+ * WikiPedia: https://en.wikipedia.org/wiki/MongoDB
+
+http://c2.com/cgi/wiki?MongoDatabase
+
+NoSql
+
+ Microsoft Windows [Version 6.1.7600]
+ Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+ 
+ C:\Users\RainerWasserfuhr>Desktop\mongodb-win32-i386-2.0.7\bin\mongo.exe
+ MongoDB shell version: 2.0.7
+ connecting to: test
+ > db.mind.save( { MindId: 1, WikiName:"RainerWasserfuhr"} )
+ > db.mind.find()
+ { "_id" : ObjectId("503847ed28fd5d935bd7abe7"), "MindId" : 1, "WikiName" : "RainerWasserfuhr" }
+ >

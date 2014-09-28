@@ -1,0 +1,14 @@
+A matrix of 16 fields indicating major fields of interest RalfLippold is involved
+
+= Some major fields of interest of RalfLippold =
+
+||    || *a*       || *b*       || *c*        || *d* ||
+|| *1*||*RalfLippold*||SemperOper||SystemDynamics||UltimateFrisbee     ||
+|| *2*|| StadtDresden ||LeanThinking||SocialCapital ||SiliconSaxony ||
+|| *3*||EdgarSchein||JohnHagel||JayForrester ||OttoScharmer     ||
+|| *4*||HtwDresden||LockSchuppen||SocialNetwork ||SingularityUniversity||
+
+Please state here connections, people, and disciplines you see (connecting with RalfLippold):
+ # ...
+ # ...
+ # ...

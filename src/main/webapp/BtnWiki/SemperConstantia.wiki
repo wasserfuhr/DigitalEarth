@@ -1,0 +1,4 @@
+ * IsA: EnterPrise
+ * InterWiki: [DeWikiPedia:Semper_Constantia_Privatbank]
+
+#SemperBank

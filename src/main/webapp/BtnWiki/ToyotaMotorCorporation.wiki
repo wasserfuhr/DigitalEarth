@@ -1,0 +1,7 @@
+ * IsA: EnterPrise
+ * MindOne: AkioToyoda
+ * IsIn: JP3633400001
+
+PartOf: ToyotaGroup
+
+https://en.wikipedia.org/wiki/Toyota_Motor_Corporation

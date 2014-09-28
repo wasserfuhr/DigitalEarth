@@ -1,0 +1,3 @@
+ * IsA: ConDuctor
+ * BornIn: 1958
+ * InterWiki: [WikiPedia:Asher_Fisch]

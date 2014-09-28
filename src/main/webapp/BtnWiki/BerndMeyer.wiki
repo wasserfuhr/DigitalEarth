@@ -1,0 +1,5 @@
+ * IsA: ProFessor
+ * BornIn: 1952
+ * BirthDay: 04-29
+ * InterWiki: [DeWikiPedia:Bernd_Meyer_(Verfahrenstechniker)]
+ * WorkFor: TuFreiberg

@@ -1,0 +1,6 @@
+ * IsA: EnterPrise
+ * InterWiki: [DeWikiPedia:Berlin_Linien_Bus]
+ * HomePage: https://www.berlinlinienbus.de/
+ * KeyPeople: JoergSchaube KarstenSchulze
+
+BexTla CheckMyBus

@@ -1,0 +1,3 @@
+ * IsA: PerSon
+ * WorkFor: LinguWerk
+ * TriBy: http://lingucity.de:81/index.php?title=2_Team/02_Kontaktdaten&diff=106&revision=105

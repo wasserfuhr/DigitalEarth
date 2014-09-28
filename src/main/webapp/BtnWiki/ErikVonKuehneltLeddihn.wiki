@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * BirthDay: 07-31
+ * InterWiki: [WikiPedia:Erik_von_Kuehnelt-Leddihn]
+ * TriBy: http://www.moreright.net/reactionary-books-to-read/

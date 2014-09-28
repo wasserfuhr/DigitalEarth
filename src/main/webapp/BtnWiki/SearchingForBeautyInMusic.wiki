@@ -1,0 +1,6 @@
+ * IsA: MindPaper
+ * DcAuthor: BillManaris ValerieSessions JamesWilkinson
+
+http://www.cs.cofc.edu/~mccauley/TReports/2001-7-1.pdf
+
+ZipfsLaw BigArt

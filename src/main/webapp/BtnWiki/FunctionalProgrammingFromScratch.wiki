@@ -1,0 +1,5 @@
+ * IsA: BlogPost
+ * HomePage: http://moronlab.blogspot.com/2010/01/urbit-functional-programming-from.html
+ * DcAuthor: CuYa
+
+UrbitOrg

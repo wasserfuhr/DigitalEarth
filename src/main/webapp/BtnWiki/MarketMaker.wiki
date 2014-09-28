@@ -1,0 +1,10 @@
+As a MarketMaker you have to offer to sell your
+ * first share for 1 KayGroschen
+ * second share for 2 KayGroschen
+ * 3rd share for 4 KayGroschen
+ * 4th share for 8 KayGroschen
+ * 5th share for 16 KayGroschen
+ * 6th share for 32 KayGroschen
+ * ...
+ * 15th share for 16.384 KayGroschen
+ * 16th share for 32.768 KayGroschen

@@ -1,0 +1,9 @@
+The LongTerm goal of the AiGame is to create a DigitalTwin of yourself.
+You can use your DigitalTwin on our BoardGame.
+
+First you should start to map each and every PerSon in your MiNd to a unique name.
+
+Distinguish between "Peter Thiel" and "PeterThiel". In the AiGame the latter one has an explicit meaning that can be linked to and enriched with additional KnowLedge.
+This is a continuous ProCess of improvement. If there is another "Peter Thiel"- we will call him PeterThiel2.
+
+If it's different in your MiNd, give it a different PageName.

@@ -1,0 +1,4 @@
+ * IsA: EnterPrise
+ * WikiPedia: https://en.wikipedia.org/wiki/Pfizer
+ * IsIn: US7170811035
+ * MindOne: IanRead

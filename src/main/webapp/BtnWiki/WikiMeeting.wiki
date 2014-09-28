@@ -1,0 +1,46 @@
+RaLi InBox 
+
+A TelePresence experiment:
+
+What would we discuss if we would if we would sit together in a MeetingRoom.
+
+Ich will mal ein kleines Experiment starten.
+Das Wesen vieler heutiger SocialMedia-Angebote wie
+FaceBook ist, dass sie zwar Informationen zu PerSon'en bringen,
+aber noch nicht alle MoegLich'keiten für
+koordinierte gemeinsame Aktivitäten bis hin zur Gründung von
+UnterNehmen oder gar ganzen MicroNation's ausschöpfen.
+Ein digitalen Punkt schaffen, zu dem mehrere Menschen
+wiederkehren.
+
+Please write a WikiDialog:
+ * RaWa: RecentChangesJunkie
+
+
+@RaLi: You are already familiar with MindWiki.
+This is now also going to be the foundation of SingularAcademy.
+For LockSchuppen, we could reinforce the magic of a EnterpriseWiki,
+In this SemanticSixSigma, the RecentChanges will become "RecentStatements",
+where each WikiPage creates SemanticWeb stateMents.
+e.g.
+
+AbundanceBook
+ * DcAuthor: PeterDiamandis StephenKotler
+
+DublinCore, a widely used standard for formally describing
+AuthorShip MetaData publications in a MachineReadable way.
+"DcAuthor: "
+it will create the two StateMent
+ * 
+
+When another RecentChangesJunkie reads 
+and they are not only informed about your KnowLedge,
+but they can also acknowledge or correct your StateMent's,
+in that is very similar to TestDrivenDevelopment, practiced
+by hundreds of thousands of SoftWare developers around the WorLd.
+
+
+lateron I would like to extend
+SeSiSi into "RealLife" with an experiment called "TuringSpace"
+where as much as possible activities of the attendees are recorded
+and related to our WorldModel. think of EmotivEpoc or the GoogleGlasses.

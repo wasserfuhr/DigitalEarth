@@ -1,0 +1,15 @@
+33000001 BahnhofMitte
+33000003 PragStrasse
+33000004 AltMarkt
+33000005 PirnaPlatz
+33000006 HygieneMuseum
+33000007 StrassburgerPlatz
+33000008 GrossGarten
+33000009 DuererStrasse
+33000010 SachsenAlle
+33000011 RosaLuxemburgPlatz
+33000012 BauRo
+33000013 AlbertPlatz
+33000014 CarolaPlatz
+33000145 BuSt
+33000282 DiebSteig

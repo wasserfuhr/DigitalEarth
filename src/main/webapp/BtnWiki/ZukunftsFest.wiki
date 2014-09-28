@@ -1,0 +1,2 @@
+ * IsA: MindEvent
+ * TriBy: http://www.dvb.de/de/Aktuelles/DVB-Nachrichten/?NewsID=435

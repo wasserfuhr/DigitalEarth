@@ -1,0 +1,3 @@
+ * PartOf: FabOne
+
+http://www.openstreetmap.org/?mlat=51.126&mlon=13.71833&zoom=18

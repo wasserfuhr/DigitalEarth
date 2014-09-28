@@ -1,0 +1,28 @@
+RoadMap to TheSingularity: ThoughtsPerSecond of the TruthMachine for a DigitalTwin to win LongBetOne:
+
+|| *UnTil*|| *ThoughtsPerSecond*|| *thoughts*|| *per*||
+||2011||0.0001220703125||10||day||
+||2012|| 0.000244140625||20||day||
+||2013||  0.00048828125||40||day||
+||2014||   0.0009765625||80||day||
+||2015||    0.001953125||7||hour||
+||2016||     0.00390625||14||hour||
+||2017||      0.0078125||28||hour||
+||2018||       0.015625||56||hour||
+||2019||        0.03125||112||hour||
+||2020||         0.0625||4||minute||
+||2021||          0.125||8||minute||
+||2022||           0.25||15||minute||
+||2023||            0.5||30||minute||
+||2024||              1||1||second||
+||2025||              2||2||second||
+||2026||              4||4||second||
+||2027||              8||8||second||
+||2028||             16||16||second||
+||2029||             32||32||second||
+
+TruthMachine
+
+Mentioned at https://www.facebook.com/permalink.php?story_fbid=298982013486258&id=177235832301157
+
+ToDo: RePly to FriPa: actions und deren zugrundeliegende plaene sind in diesem spezialformen von gedanken - angelehnt an http://wiki.opencog.org/w/OpenPsi_(Embodiment)#Action 

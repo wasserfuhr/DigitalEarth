@@ -1,0 +1,3 @@
+ * IsA: ProFessor
+ * BirthDay: 07-11
+ * WikiPedia: https://en.wikipedia.org/wiki/Carl_Schmitt

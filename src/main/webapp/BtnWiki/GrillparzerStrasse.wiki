@@ -1,0 +1,4 @@
+ * IsA: MindStreet
+ * NamedAfter: FranzGrillparzer
+ * ConNect: CossebauderStrasse
+ * OpenStreetMap: http://www.openstreetmap.org/browse/way/24916350

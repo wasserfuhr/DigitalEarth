@@ -1,0 +1,5 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay8420 « 1992-06-14 » LifeDay8418
+ * JoKo: LifeDay8420 « 2013-04-25 » LifeDay8418
+
+BodyPath: KaisersLautern?

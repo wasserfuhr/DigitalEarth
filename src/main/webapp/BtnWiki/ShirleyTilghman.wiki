@@ -1,0 +1,4 @@
+ * IsA: PowerWoman
+ * BornIn: 1946
+ * BirthDay: 09-17
+ * InterWiki: [WikiPedia:Shirley_M._Tilghman]

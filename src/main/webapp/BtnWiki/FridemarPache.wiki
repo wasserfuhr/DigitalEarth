@@ -1,0 +1,28 @@
+ * IsA: PerSon
+ * ViAf: http://viaf.org/viaf/15342686
+ * HomeStead: WolframsEschenbach
+ * FaceBook: https://www.facebook.com/fridemar.pache
+ * GooglePlus: https://plus.google.com/106004381457049451465
+ * TwittEr: https://twitter.com/fridemar
+
+InterWiki: http://c2.com/cgi/wiki?FridemarPache http://www.aboutus.org/FridemarPache http://www.communitywiki.org/en/FridemarPache
+
+LinkedIn: http://www.linkedin.com/profile/view?id=9869004
+
+WikiInterview with FridemarPache EtAl:
+ * RainerWasserfuhr: Hello FridemarPache, I'm happy to WelCome you as a BtnWikiUser. MayBe some hints to ease your BtnWiki experience: I noticed that you added PageLabel's. Because the ConTent of the BtnWiki is only a interim storage place for the next ReLease of the MindWiki (based on BigTableNomic), and there is no simple API to access a PageLabel programmatically, you can instead add a "BrainStorm" section at the end of a WikiPage.
+ * FridemarPache: Agree
+ * RainerWasserfuhr: ByTheWay: For each PowerUser of the BtnWiki there is a shorter VanityWikiName. Mine is RaWa and one yours could be "FriPa" . If possible please use EngLish - UnLess the text is needed for the initial GermanLanguage edition of the NooSphere. This will allow us to reach a global audience.
+ * FriPa: Agree
+ * RaWa: What do you think about "DontRepeatYourself"?
+ * FriPa: As a programmer and a participant of WardsWiki I know this very well, but sometimes (in a nonprogramming environment) a refresh helps to keep the ball rolling... in a Wiki ChangeIsCheap :-)
+ * RaWa: Your "RecentChanges" notice at the end of a WikiPage is not needed. 
+ * FriPa: Engaged WikiZen (like myself) and newcomers need it, if the WikiEngine doesn't provide it. See WikiPrinciples.
+ * RaWa: The "CcBySa" notice at the end of a WikiPage is not needed.
+ * FriPa: People of the free culture need it, if there is no clearly visible general notice in this wiki for such a licence. Please compare this with e.g. UnWiki, where the WikiEngine repeats it on each page.
+ * RaWa: DeclinationIsDead: For the PageName, better use word parts without declination, e.g. "AssoziativHumus" instead of "AssoziativerHumus", because it is shorter and allows a more elegant usage in a sentence, e.g. "We need more AssoziativHumus" sounds better than "We need more AssoziativerHumus"!
+ * FriPa: Fully agreed
+ * RaWa: One of my NextAction's: bring BtnWiki into a next version of the MindWiki, based on a new WikiEngine on top of BigTableNomic, so developed in CloJure.
+ * FriPa: ...
+ * RaWa: Who would you like to infect as a RecentChangesJunkie next? Me: ChSc ElMo HeMo JoKo RaLi
+ * FriPa: ...

@@ -1,0 +1,4 @@
+ * IsA: EnterPrise
+ * WikiPedia: https://en.wikipedia.org/wiki/Z_Corporation
+
+#ThreeDimPrint

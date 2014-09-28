@@ -1,0 +1,10 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16190 « 2013-09-22 » LifeDay16188
+ * OneMonthAgo: LifeDay15169
+ * OneYearAgo: LifeDay15824
+ * HappyBirthday: Heather
+ * HasSeen: ArnoldVaatz AndreasLaemmel LarsRohwer StefanDoroba HeribertWagner TestRuediger:223242
+ * BoPa: TrWo:1400 PostStraase GroebelStrasse FloraStrasse:201523 JagdWeg WettinerPlatz:202800 DresdenZwinger SwissOtel NaSt:212100 BalkonEuropas MuenzGasse FrauenKirche MuenzGasse BalkonEuropas KempiLobby:221133 PostPlatz PostMotelOne:223747 SichtBetongWueste:230612 TrWo
+ * CurrentProject: RainerTest DigitalEarth
+ * HoTo: 
+ * WahrTraum: MaxVo SemanticWeb conference bus river

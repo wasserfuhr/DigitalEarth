@@ -1,0 +1,1 @@
+HolonQl: "select count(`*`) from PerSon where LockSchuppenOpening.attended"

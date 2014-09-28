@@ -1,0 +1,8 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16239 « 2013-11-10 » LifeDay16237
+ * HappyBirthday: 
+ * OneMonthAgo: LifeDay16208
+ * OneYearAgo: LifeDay15873
+ * RevNum: r197xx
+ * BoPa: TrWo:2255
+ * CuPr: RainerTest SemperBase

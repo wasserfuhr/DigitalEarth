@@ -1,0 +1,5 @@
+ * IsA: MindBook
+ * WikiPedia: [https://en.wikipedia.org/wiki/Kosmos_(Humboldt)]
+ * DcAuthor: AlexanderVonHumboldt
+
+CanDo: http://posner.library.cmu.edu/Posner/books/pages.cgi?call=523.1_H91K_1845_VOL.1&layout=vol0/part0/copy0&res=low&file=0031

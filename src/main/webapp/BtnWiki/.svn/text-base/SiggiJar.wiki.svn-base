@@ -1,0 +1,3 @@
+rawa@149-190-47-212:~$ sha1sum sb1
+198275b8bea507d822832baf8f9a07bc0ecf2279  sb1
+rawa@149-190-47-212:~$ curl http://www.siggibecker.de/blog/archives/2012/02/das-wars-hier/ > sb1

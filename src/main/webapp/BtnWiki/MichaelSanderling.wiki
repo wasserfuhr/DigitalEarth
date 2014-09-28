@@ -1,0 +1,5 @@
+ * IsA: PerSon
+ * BornIn: 1967
+ * BirthDay: 02-21
+ * WikiPedia: https://en.wikipedia.org/wiki/Michael_Sanderling
+ * MindSkill: ConDuct

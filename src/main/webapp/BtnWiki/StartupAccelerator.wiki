@@ -1,0 +1,21 @@
+ * RaWa: Hello RaLi, how is your StartupAccelerator going?
+ * RaLi: It is a pre-seed starting off as LeanStartup, kickstarted on 2012-07-20. Please read the StartupAcceleratorPitch. We are bringing LeanStartupMachine to Dresden. Have you already signed in to jump over the 500 people hurdle?
+ * RaWa: Is it the SameAs LockSchuppenAg?
+ * RaLi: A pre-LockSchuppen version bound to HtwDresden.
+ * RaWa: Who are the supporters at HtwDresden?
+ * RaLi: I had a meeting with the rector, Prof. RolandStenzel last week. Interest is still at low level. There is yet interest, as the LeanStartup method is also helpful for bringing StartUp's from the HtwDresden up, and support the local business community.
+ * RaWa: Do you have a BusinessModelCanvas?
+ * RaLi: Not yet laid out, very much appreciate FeedBack.... wait actually there is a fresh one. I have to look it up.
+ * RaWa: Do you have a BetriebsWiki?
+ * RaLi: No. Can we use BigTableNomic for that? What do you think?
+ * RaLi: SingularityUniversity as RoleModel
+ * RaWa: Did you answer the GeldFrage?
+ * RaLi: Still an open and to be answered question, appropriate to local context.
+ * RaWa: Are there ShareHolder?
+ * RaLi: No, only interested parties.
+ * RaWa: Which RechtsForm?
+ * RaLi: Non-for-profit organization, as SingularityUniversity, would be best for the moment.
+ * RaWa: Which BrandName? What do you think about »StAcc«?
+ * RaLi: Hm, let me think about it, and ask my advisors.
+ * RaWa: what is currently the "official" HomePage? http://bit.ly/StartupAccelerator ?
+ * RaLi: The "real" one is https://angel.co/lockschuppen-futurelab2056

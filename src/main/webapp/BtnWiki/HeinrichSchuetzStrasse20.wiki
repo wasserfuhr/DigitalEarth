@@ -1,0 +1,4 @@
+ * IsA: MindBuilding
+ * WikiMapia: http://wikimapia.org/15375399
+ * OpenStreetMap: http://www.openstreetmap.org/browse/way/114472339
+ * PartOf: HeinrichSchuetzStrasse

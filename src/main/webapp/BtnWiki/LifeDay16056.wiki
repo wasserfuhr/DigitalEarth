@@ -1,0 +1,5 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16057 « 2013-05-12 » LifeDay16055
+ * HaTa: RinKa JoKo
+ * BodyPath: PermoserStrasse DvbTram2523 SchillerPlatz DvbTram2530 WajSphere SchillerGarten WajSphere M:LinieSechs AlbertPlatz NapoleonStein PragerStrasse HbfDresden LinieSieben TharandterStrasse TrWo
+ * CurrentProject: KnotNet

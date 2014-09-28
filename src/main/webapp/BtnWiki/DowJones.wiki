@@ -1,0 +1,34 @@
+https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average
+
+
+|| *Symbol*|| *IsIn*|| *Company*||
+||MMM ||US88579Y101||3M	||
+||AA  ||Alcoa	        ||
+||AXP ||American Express||
+||T   ||AT&T	        ||
+||BAC ||Bank of America	||
+||BA  ||Boeing	||
+||CAT ||Caterpillar	||
+||CVX ||Chevron Corporation||
+||CSCO||Cisco Systems	||
+||KO  ||Coca-Cola	||
+||DD  ||DuPont	||
+||XOM ||ExxonMobil	||
+||GE  ||General Electric||
+||HPQ ||Hewlett-Packard	||
+||HD  ||The Home Depot	||
+||INTC||Intel	||
+||IBM ||IBM	||
+||JNJ ||Johnson & Johnson||
+||JPM ||JPMorgan Chase	||
+||KFT ||Kraft Foods	||
+||MCD ||McDonald's	||
+||MRK ||Merck	||
+||MSFT||Microsoft	||
+||PFE ||Pfizer	||
+||PG  ||Procter & Gamble||
+||TRV ||Travelers	||
+||UTX ||United Technologies Corporation||
+||VZ  ||Verizon Communications||
+||WMT ||Wal-Mart	||
+||DIS ||Walt Disney	||

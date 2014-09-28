@@ -1,0 +1,9 @@
+ * IsA: PerSon
+ * HasSex: ♂
+ * BornIn: 1969
+ * BirthDay: 04-20
+ * WikiPedia: https://en.wikipedia.org/wiki/Felix_Baumgartner
+
+EigenRisk BeBold RedBull
+
+http://derstandard.at/1341526781192/Wenn-etwas-schiefgeht-werde-ich-mit-dem-Leben-bezahlen

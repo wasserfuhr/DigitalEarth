@@ -1,0 +1,17 @@
+WolframAlpha:
+ * days between 1977-07-01 and 1977-07-02: 1
+ * days between 1977-07-01 and 2012-08-02: 12816
+
+so 2012-08-02 should be LifeDay12817.
+
+between 1977 and 2012: 9x LeapYear
+
+between 07-01 and 08-02: 31 days of july + 1 day = 32
+
+365*35 + 9 = 12784
+365*35 + 9 + 32 = 12816
+
+LifeDay1 = BirthDay = 1977-07-01
+LifeDay12817= 2012-08-02
+
+https://www.facebook.com/photo.php?fbid=10151333879585550&comment_id=9330266

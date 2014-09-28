@@ -1,0 +1,6 @@
+ * by definition, the TrueManNumber of TrueMan is "0".
+ * the TrueManNumber is "1" for each PerSon, who publicly declares that he or she HasKnistered with TrueMan.
+ * the TrueManNumber is "2" for each PerSon, who publicly declares that he or she HasKnistered with a PerSon with TrueManNumber = 1.
+ * the TrueManNumber is "3" for each PerSon, who publicly declares that he or she HasKnistered with a PerSon with TrueManNumber = 2.
+ * the TrueManNumber is "4" for each PerSon, who publicly declares that he or she HasKnistered with a PerSon with TrueManNumber = 3.
+ * the TrueManNumber is _n_ for each PerSon, who publicly declares that he or she HasKnistered with a PerSon with TrueManNumber = _n-1_.

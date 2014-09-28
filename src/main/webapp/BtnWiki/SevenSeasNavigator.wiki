@@ -1,0 +1,6 @@
+ * IsA: MindShip
+ * WikiPedia: https://en.wikipedia.org/wiki/Seven_Seas_Navigator
+ * HomePage: http://www.rssc.com/ships/seven_seas_navigator/
+ * ImoNumber: 9064126
+
+OnBoard 2012-07: MartinKnepper: http://www.rssc.com/cruises/NAV120702/itinerary.aspx

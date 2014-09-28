@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * BirthDay: 12-14
+ * BornIn: 1956
+ * InterWiki: [WikiPedia:Erhard_Wunderlich]

@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * BornIn: 1973
+ * BirthDay: 04-18
+ * WikiPedia: https://en.wikipedia.org/wiki/Haile_Gebrselassie

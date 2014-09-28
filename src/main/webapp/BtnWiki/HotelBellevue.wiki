@@ -1,0 +1,8 @@
+ * IsA: MindHotel
+ * InterWiki: [DeWikiPedia:Hotel_Bellevue_(Dresden)]
+ * ConNect: GrossMeissenStrasse
+ * HomePage: http://www.westinbellevuedresden.com/
+
+AndersBraks SolveigDianaHoffmann
+
+ToDo: OpenStreetMap: https://www.openstreetmap.org/way/23130687

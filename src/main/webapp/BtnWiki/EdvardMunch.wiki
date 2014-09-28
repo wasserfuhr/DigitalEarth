@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * BornIn: 1863
+ * BirthDay: 12-12
+ * InterWiki: [WikiPedia:Edvard_Munch]

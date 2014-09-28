@@ -1,0 +1,3 @@
+http://sl4.eu/wiki/HauptStaedtchen
+
+http://www.openstreetmap.org/?lat=51.0605&lon=13.7461&zoom=12&layers=M

@@ -1,0 +1,6 @@
+ * IsA: EntrePreneur
+ * BornIn: 1955
+ * BirthDay: 03-07
+ * InterWiki: [DeWikiPedia:Florian_Langenscheidt]
+
+AtlantikBruecke

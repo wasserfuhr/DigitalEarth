@@ -1,0 +1,7 @@
+ * IsA: PerSon
+ * BornIn: 1973
+ * BirthPlace: WeissWasser
+
+https://de.wikipedia.org/wiki/Mirko_L%C3%BCdemann
+
+HasTalked RicoPetrick?

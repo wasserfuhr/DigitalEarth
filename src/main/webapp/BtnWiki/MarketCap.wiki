@@ -1,0 +1,36 @@
+http://mindbroker.de/wiki/MarketCap
+
+WikiPedia: https://en.wikipedia.org/wiki/List_of_corporations_by_market_capitalization
+
+Company	MarketCap
+ # $562 AppleInc 	
+ # $406 ExxonMobil
+ # $274 PetroChina
+ # $268 MicroSoft	
+ # $240 IBM		
+ # RoyalDutchShell
+ # ChevronCorp
+ # GeneralElectric
+ # WalMart
+ # GoogleInc
+ # BerkshireHathaway
+ # AttTla
+ # WellsFargo
+ # JohnsonJohnson
+ # ProcterGamble
+ # PfizerInc
+ # CocaCola
+ # JpMorgan
+ # PetroBras
+ # PhilipMorris
+ # OracleCorp
+ # VodaFone
+ # IntEl
+ # BritishPetroleum
+ # AmBev
+ # NovArtis
+ # EcoPetrol
+ # Toyota
+ # BhpBilliton
+
+BigCo

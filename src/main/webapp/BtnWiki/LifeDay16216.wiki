@@ -1,0 +1,11 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16217 « 2013-10-19 » LifeDay16215
+ * OneMonthAgo: LifeDay16186
+ * OneYearAgo: LifeDay15851
+ * RevNum: r19xxx
+ * HaTa: GregorStolz:2931
+ * BoPa: TrWo LoebiHem:0602 TrWo:0648 LoebiNetto LoebiAldi TrWo H:BuSt M:LinieSieben:DvbTram2809:2847 AlbertPlatz SwingerGate:2913 TheLud AlbertPlatz M:LinieSieben:DvbTram2820:3056 BuSt TrWo
+ * CurrentProject: RainerTest DigitalEarth
+ * ChesterSex: :283838 :284600 :301200 :302700
+
+ChesterSex16216

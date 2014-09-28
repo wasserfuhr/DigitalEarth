@@ -1,0 +1,4 @@
+ * IsA: BundesLand
+ * WikiPedia: https://en.wikipedia.org/wiki/Mecklenburg-Vorpommern
+ * MindOne: ErwinSellering
+ * PartOf: DeutschLand

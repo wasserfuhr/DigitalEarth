@@ -1,0 +1,13 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16215 « 2013-10-17 » LifeDay16213
+ * OneMonthAgo: LifeDay16184
+ * OneYearAgo: LifeDay15849
+ * RevNum: r19268
+ * HappyBirthday: JuergenWeber
+ * BoPa: TrWo H:BuSt M:LinieZwoelf:DvbTram2625:1605 PostPlatz M:LinieNeun:DvbTram2639:1623 GleisschleifeProhlis ProhiMueller:1752 M:TouranRoyal SingleSchloss LaubiRossmann:1951 SingleSchloss VillaMarie KoernerPlatz WsbTla LutherKugel:252300 SwingerSchloss:252900 AlbertPlatz NaSt:255415 PostPlatz M:LinieSieben:DvbTram2820:2625 H:BuSt TrWo LoebiHem:2714 TrWo
+ * CurrentProject: RainerTest DigitalEarth
+ * HoTo: HaJo EarthAndMars ChromOs ChSc JeMi HeGa WebGl FinsterWorld MariasErscheinung HopeGala ProhibitionsParty HutBall
+ * HaBaKi: ChSc
+ * HaTa: JayEff ChSc CurlySchatten FrauSchroede
+ * HaGr: HerrKayser
+ * HaSe: SaZi

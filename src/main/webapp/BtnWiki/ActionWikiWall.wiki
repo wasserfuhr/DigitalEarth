@@ -1,0 +1,18 @@
+ * InspiredBy: NotizbuchAufgabenPlanung StandUpMeeting
+
+NextAction-WikiWall:
+||    || *WeDoIt*|| *a* || *b*     || *c*         || *d*||
+|| *4*|| *we*||RaWa     ||we       ||we           ||RaWa||
+||    || *do*||do       ||do       ||do           ||publish||
+||    || *it*||BitFix   ||it       ||it           ||WikiSlideShow||
+|| *3*|| *we*||we       ||we       ||we           ||RaWa||
+||    || *do*||do       ||do       ||do           ||sort||
+||    || *it*||it       ||it       ||it           ||KassenZettel||
+|| *2*|| *we*||we       ||RaWa     ||RaWa         ||we||
+||    || *do*||do       ||buy      ||clean        ||do||
+||    || *it*||it       ||FernGlas ||TraumWohnung ||it||
+|| *1*|| *we*||RaWa     ||RaWa     ||we           ||we||
+||    || *do*||do       ||PrintOut ||do           ||do||
+||    || *it*||HeidePlan||         ||it           ||it||
+
+StandUpMeeting StrategyTree

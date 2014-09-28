@@ -1,0 +1,4 @@
+ * IsA: ProFessor
+ * ViAf: http://viaf.org/viaf/38090225
+ * HomePage: http://www.izm.fraunhofer.de/de/kontakt/mitarbeiter/klaus-dieter_lang.html
+ * WorkFor: FraunHofer

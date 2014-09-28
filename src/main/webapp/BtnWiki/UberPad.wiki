@@ -1,0 +1,11 @@
+NiceToHave: the best of multiple worlds:
+ * LiveWiki
+ * realtime multiuser CoEdit à la EtherPad or GoogleWave, ergo
+ * SocialNetwork's: Identity, Profiles, *ManyUser*.
+ * WiKi: AutoLink via CamelCase, RecentChanges, ReVision's
+ * GamIf'ied - think TextAdventure
+ * extensible via CodeNomic
+ * OperationalTransformation?
+ * track the history of a WikiSnip as it is moved between WikiPage's - already for GitScm?
+
+JavaScript: http://jsbin.com/iwopa

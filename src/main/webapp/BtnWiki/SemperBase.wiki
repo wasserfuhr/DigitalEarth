@@ -1,0 +1,29 @@
+an AuditTrail-capable AppendOnly DataBase on top of SqLite.
+
+SemperBase keeps its entire transaction history inside a central SqLite table called "BaseLog". Therewith, the entire history of a SemperBase can be restored in a practically incorruptible way. Instead of direct "INSERT" or "UPDATE", you call a CloJure or JavaScript function.
+On derived tables you have full expressive power of SqLite queries.
+
+These applications are currently based on SemperBase
+ * CubeOs
+ * DigitalPlanet
+ * SemperWiki
+
+create table l(c text(200) primary key,t int);
+create table l(c varchar(200) primary key,t int);
+create table s(k text(4) primary key,s text);
+
+create table SemperScript 
+
+create table SemperScript (TimeStamp integer primary key, CheckSum varchar(255));
+
+create table BaseLog (TimeStamp integer primary key, CheckSum varchar(20));
+
+
+insert into SemperScript
+
+InSe
+UpDa
+AlTa
+SeLe
+
+TagCloud: #GitScm #RevisionsSicher #SemperComputing #UrJure

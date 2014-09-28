@@ -1,0 +1,3 @@
+ * IsA: ZahnArzt
+
+TriBy LyGr

@@ -1,0 +1,3 @@
+ * DeWikiPedia: https://de.wikipedia.org/wiki/Scripted_Reality
+
+RealityScript

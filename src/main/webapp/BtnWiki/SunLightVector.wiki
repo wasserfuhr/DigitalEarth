@@ -1,0 +1,9 @@
+{{{
+var t=new Date().getTime();
+
+//we idealize light from TheSun as a vector
+function sunLight(t) {
+ //...
+ return [x,y,z];
+}
+}}}

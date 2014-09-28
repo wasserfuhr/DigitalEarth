@@ -1,0 +1,4 @@
+ * IsA: ProFessor
+ * BirthDay: 04-05
+ * BornIn: 1849
+ * InterWiki: [WikiPedia:Felix_Klein]

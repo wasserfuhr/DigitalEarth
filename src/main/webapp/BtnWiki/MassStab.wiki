@@ -1,0 +1,3 @@
+ * WikiPedia: https://de.wikipedia.org/wiki/Ma%C3%9Fstab
+
+ScaleModel

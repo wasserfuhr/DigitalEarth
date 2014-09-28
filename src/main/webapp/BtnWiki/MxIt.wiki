@@ -1,0 +1,4 @@
+ * IsA: SocialNetwork
+ * WikiPedia: https://en.wikipedia.org/wiki/Mxit
+ * HomePage: http://www.mxit.com/
+ * FoundedBy: HermanHeunis

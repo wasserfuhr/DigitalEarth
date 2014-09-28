@@ -1,0 +1,5 @@
+ * IsA: NobelPrizeLaureate ProFessor
+ * BornIn: 1918
+ * BirthDay: 07-31
+ * InterWiki: [WikiPedia:Paul_D._Boyer]
+ * TriBy: WebWithinUs p.10

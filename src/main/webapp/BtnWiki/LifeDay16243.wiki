@@ -1,0 +1,11 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16244 « 2013-11-15 » LifeDay16242
+ * HappyBirthday: ChristophHinderfeld BettinaBunge AndreasPoldrack JanSchmidt HolgerWendland
+ * OneMonthAgo: LifeDay16213
+ * OneYearAgo: LifeDay15878
+ * RevNum: r19850
+ * BoPa: TrWo:1316 LoebiNetto:2058 LoeSt TrWo:2134
+ * CuPr: RainerTest
+ * CheckSum: 5f497f4a72d1f9f6f3a87a05b57a835db2c9583e
+
+HappyBirthday MaYam? (or 10-15?)

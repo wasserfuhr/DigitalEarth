@@ -1,0 +1,6 @@
+ * IsA: SmartPhone
+ * OwnedBy: GaKo
+
+MediaMarkt OtNickern
+
+ProhliMediaMarkt

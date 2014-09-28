@@ -1,0 +1,3 @@
+ * KindOf: OperatingSystem
+
+DigitalPlanet SemperBase NoOs

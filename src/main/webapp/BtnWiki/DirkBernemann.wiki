@@ -1,0 +1,7 @@
+ * IsA: PerSon
+ * BornIn: 1975
+ * DeWikiPedia: https://de.wikipedia.org/wiki/Dirk_Bernemann
+ * FaceBook: https://www.facebook.com/dirkbernemann
+ * TriBy: https://www.facebook.com/Yuzolein/posts/320087164756882
+
+PoetrySlam

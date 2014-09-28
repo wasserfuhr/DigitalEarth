@@ -1,0 +1,1257 @@
+login as:
+login as: rawa
+rawa@212.47.190.149's password:
+Linux 149-190-47-212 2.6.32-5-686 #1 SMP Mon Sep 23 23:00:18 UTC 2013 i686
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Fri Nov 29 12:42:56 2013 from 46.115.125.158
+rawa@149-190-47-212:~$ export CastAuth=ABE78672DAE49134465855E230D221F146A9EC689                                                                 4478FB50345B067F5064A56D2655C8F688879193C07719E0719DA5D59B25D95DA9B645D8F77AEADE                                                                 F9E64D7CE4260AE19253D666B12EB3C3B8C2FB9DBDF968E394644B831DECD3E9480418E961EF6307                                                                 7B8B82715672121795B1D823302755145C18FED60E50BF38B72117381C764249281FD1F20D822162                                                                 ABF95365F3F5765C53E81A517D82686D75C74778DE61DEDE9BD7A69692B07F186B920D9D599CDBE4                                                                 900B9CFC29EAAB2C940E9D1BCB9B8C1
+rawa@149-190-47-212:~$ export CastBase=http://www.screenr.com/screencast/downloa                                                                 d
+rawa@149-190-47-212:~$ CAST=3DaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $                                                                 CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "$CAST > $sha"; mv $CAST.mp4 $sha                                                                 .mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+3DaH > da39a3ee5e6b4b0d3255bfef95601890afd80709
+rawa@149-190-47-212:~$ #export CastAuth=
+rawa@149-190-47-212:~$ ls -al
+total 188284
+drwxr-xr-x 16 rawa rawa     4096 Nov 29 21:11 .
+drwxr-xr-x  5 root root     4096 Nov 17 16:32 ..
+-rw-r--r--  1 rawa rawa 15617545 Nov 29 15:06 01be92559d0b445be5237acd6362485bbb                                                                 51cf37.mp4
+-rw-r--r--  1 rawa rawa 13283243 Nov 29 14:41 0c50b602a0788891e93ddb1d9a5bf49425                                                                 16867f.mp4
+-rw-r--r--  1 rawa rawa 13127944 Nov 29 02:23 16b885518b74f281ee53b1ef18511ab213                                                                 0e42ff.mp4
+-rw-r--r--  1 rawa rawa 12070254 Nov 29 01:13 25c24b3548e84a2956776de186d52131b7                                                                 2246a1.mp4
+-rw-r--r--  1 rawa rawa 15052476 Nov 29 03:15 267d698387392a64a0ab17fc64b9678a04                                                                 bc2d0f.mp4
+-rw-r--r--  1 rawa rawa 10759308 Nov 28 21:57 286dfe5108d2883a8baf96f70567474235                                                                 26c917.mp4
+-rw-r--r--  1 rawa rawa 13372189 Nov 29 01:09 374843965423db24062fd70d7a23895772                                                                 999daa.mp4
+-rw-r--r--  1 rawa rawa 15278734 Nov 29 15:28 3d24d9197ba3f2f65383561b5d325dc14e                                                                 f84de4.mp4
+-rw-r--r--  1 rawa rawa   977979 Nov 16 00:37 4ea0d701b34981e7039880d3c441c355ed                                                                 4da81d.zip
+-rw-r--r--  1 rawa rawa      529 Nov 14 12:38 626001
+-rw-r--r--  1 rawa rawa 12211659 Nov 28 21:35 73d62b5b3dbef5bdf15d0deafd246f69d0                                                                 01b4d4.mp4
+-rw-r--r--  1 rawa rawa 12121892 Nov 28 23:06 76c701d5a2442ca1b0cc6a6edd664ca1e8                                                                 51441c.mp4
+-rw-r--r--  1 rawa rawa 13071196 Nov 29 14:17 825b3171390e5e20dc223fd948a73a04de                                                                 f993f1.mp4
+-rw-r--r--  1 rawa rawa 11176477 Nov 28 07:11 a02cd56e4664b272b6e38c8d688fd515e1                                                                 1c8b10.mp4
+-rw-r--r--  1 rawa rawa 13702080 Nov 29 00:51 a1318cc7a8ba224e402c5509346d211d60                                                                 34cb97.mp4
+-rw-r--r--  1 rawa rawa   202687 Nov 17 22:50 AllCasts2609.txt
+drwxr-xr-x  6 rawa rawa     4096 Sep 17 11:24 apache-maven-3.1.1
+-rw-r--r--  1 rawa rawa 14050392 Nov 29 01:35 b1aa8f528bfab1fd88a4e1e3f4b95c539e                                                                 3e49fb.mp4
+-rw-------  1 rawa rawa    23179 Nov 29 17:39 .bash_history
+-rw-r--r--  1 rawa rawa      220 Oct 26 14:33 .bash_logout
+-rw-r--r--  1 rawa rawa     3184 Oct 26 14:33 .bashrc
+-rw-r--r--  1 rawa rawa        0 Nov 29 21:11 da39a3ee5e6b4b0d3255bfef95601890af                                                                 d80709.mp4
+-rw-r--r--  1 rawa rawa     1027 Nov 26 02:15 dbIn
+drwxr-xr-x 11 rawa rawa     4096 Nov 26 02:57 DigitalEarth
+drwxr-xr-x  5 rawa rawa     4096 Nov 26 02:57 DigitalPlanet
+-rw-r--r--  1 rawa rawa  1614079 Nov 26 02:16 DigitalPlanet8416.sql
+-rw-r--r--  1 rawa rawa  1232003 Nov 26 02:20 DigitalPlanetDerby8416.zip
+-rw-r--r--  1 rawa rawa  1610691 Oct 25 04:58 DigitalPlanetOne.js
+-rw-r--r--  1 rawa rawa  1613052 Nov 25 23:55 DigitalPlanet.sql
+-rw-r--r--  1 rawa rawa   147814 Nov 25 23:56 DigitalPlanet.zip
+drwxr-xr-x  3 rawa rawa     4096 Oct 28 02:47 .emacs.d
+-rw-r--r--  1 rawa rawa       26 Nov  1 17:06 .gitconfig
+drwx------  2 rawa rawa     4096 Nov  4 20:48 .gnupg
+drwxr-xr-x  2 rawa rawa     4096 Nov 11 16:51 grab
+drwxr-xr-x  2 rawa rawa     4096 Nov 18 21:14 JettyLog
+drwxr-xr-x  3 rawa rawa     4096 Oct 28 02:45 .m2
+-rw-r--r--  1 rawa rawa    39750 Nov 17 03:09 mah.jpg
+-rw-r--r--  1 rawa rawa      675 Oct 26 14:33 .profile
+drwxr-xr-x  2 rawa rawa     4096 Nov 26 13:52 screenr
+-rw-r--r--  1 rawa rawa        1 Nov  9 18:10 SpaceFile.txt
+-rw-------  1 rawa rawa     7826 Nov  3 23:13 .sqlite_history
+drwxr-xr-x  3 rawa rawa     4096 Oct 28 03:25 .subversion
+drwxr-xr-x  2 rawa rawa     4096 Nov 25 02:01 TerraDrive
+-rw-r--r--  1 rawa rawa      560 Nov 17 17:48 tessOut.txt
+drwxr-xr-x  9 rawa rawa     4096 Nov 25 03:45 tmp
+drwxr-xr-x 15 rawa rawa     4096 Nov  5 12:19 urbit
+drwxr-xr-x  2 rawa rawa     4096 Oct 29 22:33 .urbit
+rawa@149-190-47-212:~$ export CastAuth=B3378E963981019CF35A0DFB4A2FBFD6B6825DDB2                                                                 2264A2670CE947D8F6CFE855F81C3388B55CE5A465A1605CECBD6B2C0289CCBB44BE586F85775568                                                                 37BCDC0F9A36CFAC11E2CB818A6CCC5386ADA21E36585408696D80FD92BCAECDFACFDEE92285A4FD                                                                 BC0C163BFAB030BD182CEC849C19871E40B385218AAC8EDF416868AFE73E9CBBCEB4881DD6C82912                                                                 1705B5FE6FA7C85402B2843DB402AC690840CA6C6939671101847C4B11E2D3188C8149E4F36C1346                                                                 F26E1C98521252A294C9089FFFE7EEB
+rawa@149-190-47-212:~$ CAST=3DaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $                                                                 CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "$CAST > $sha"; mv $CAST.mp4 $sha                                                                 .mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 14.8M  100 14.8M    0     0  3606k      0  0:00:04  0:00:04 --:--:-- 4538k
+3DaH > 313f71fa2cb84f447ff3c211198cd5be851b20e6
+rawa@149-190-47-212:~$ CAST=acaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $                                                                 CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "$CAST > $sha"; mv $CAST.mp4 $sha                                                                 .mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 11.9M  100 11.9M    0     0  1958k      0  0:00:06  0:00:06 --:--:-- 2546k
+acaH > 094e7f7d2bce6dbcc923674099af0e6241f3311d
+rawa@149-190-47-212:~$ CAST=8FaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $                                                                 CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "$CAST > $sha"; mv $CAST.mp4 $sha                                                                 .mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 11.9M  100 11.9M    0     0   774k      0  0:00:15  0:00:15 --:--:-- 2553k
+8FaH > 7315d391470a265471a43bb603cf4a38530db78a
+rawa@149-190-47-212:~$
+login as: rawa
+rawa@212.47.190.149's password:
+Linux 149-190-47-212 2.6.32-5-686 #1 SMP Mon Sep 23 23:00:18 UTC 2013 i686
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Fri Nov 29 21:11:16 2013 from 176.1.77.49
+rawa@149-190-47-212:~$ export CastAuth=ABE78672DAE49134465855E230D221F146A9EC689                                                                 4478FB50345B067F5064A56D2655C8F688879193C07719E0719DA5D59B25D95DA9B645D8F77AEADE                                                                 F9E64D7CE4260AE19253D666B12EB3C3B8C2FB9DBDF968E394644B831DECD3E9480418E961EF6307                                                                 7B8B82715672121795B1D823302755145C18FED60E50BF38B72117381C764249281FD1F20D822162                                                                 ABF95365F3F5765C53E81A517D82686D75C74778DE61DEDE9BD7A69692B07F186B920D9D599CDBE4                                                                 900B9CFC29EAAB2C940E9D1BCB9B8C1
+rawa@149-190-47-212:~$ export CastBase=http://www.screenr.com/screencast/downloa                                                                 d
+rawa@149-190-47-212:~$ CAST=CFaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $                                                                 CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "$CAST > $sha"; mv $CAST.mp4 $sha                                                                 .mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+CFaH > da39a3ee5e6b4b0d3255bfef95601890afd80709
+rawa@149-190-47-212:~$ export CastAuth=B3378E963981019CF35A0DFB4A2FBFD6B6825DDB2                                                                 2264A2670CE947D8F6CFE855F81C3388B55CE5A465A1605CECBD6B2C0289CCBB44BE586F85775568                                                                 37BCDC0F9A36CFAC11E2CB818A6CCC5386ADA21E36585408696D80FD92BCAECDFACFDEE92285A4FD                                                                 BC0C163BFAB030BD182CEC849C19871E40B385218AAC8EDF416868AFE73E9CBBCEB4881DD6C82912                                                                 1705B5FE6FA7C85402B2843DB402AC690840CA6C6939671101847C4B11E2D3188C8149E4F36C1346                                                                 F26E1C98521252A294C9089FFFE7EEB
+rawa@149-190-47-212:~$ CAST=CFaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $                                                                 CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "$CAST > $sha"; mv $CAST.mp4 $sha                                                                 .mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 13.0M  100 13.0M    0     0  2908k      0  0:00:04  0:00:04 --:--:-- 3795k
+CFaH > 0e6cb6c7dbf3d8c21d58ef9dbf0ea5f7585a8920
+rawa@149-190-47-212:~$ echo "\|"
+\|
+rawa@149-190-47-212:~$ echo "|"
+|
+rawa@149-190-47-212:~$ CAST=CFaH > 0e6cb6c7dbf3d8c21d58ef9dbf0ea5f7585a8920;curl                                                                  -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl s                                                                 ha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 13.0M  100 13.0M    0     0  2869k      0  0:00:04  0:00:04 --:--:-- 3798k
+||0e6cb6c7dbf3d8c21d58ef9dbf0ea5f7585a8920||CFaH||
+rawa@149-190-47-212:~$ #CAST=CFaHAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=                                                                 `cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4                                                                       rawa@149-190-47-212:~$ CAST=cFaH;20;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST                                                                  > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp                                                                 4 $sha.mp4
+-bash: 20: command not found
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 13.1M  100 13.1M    0     0  2750k      0  0:00:04  0:00:04 --:--:-- 3333k
+||fd9c1b9a5afee881c45275e6a45e0a952c107f8a||cFaH||
+rawa@149-190-47-212:~$ CAST=iFaH;20;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST                                                                  > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp                                                                 4 $sha.mp4
+-bash: 20: command not found
+
+
+curl: (6) Couldn't resolve host 'www.screenr.com'
+||da39a3ee5e6b4b0d3255bfef95601890afd80709||iFaH||
+rawa@149-190-47-212:~$
+rawa@149-190-47-212:~$ CAST=iFaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $                                                                 CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $                                                                 sha.mp4
+
+curl: (6) Couldn't resolve host 'www.screenr.com'
+||da39a3ee5e6b4b0d3255bfef95601890afd80709||iFaH||
+rawa@149-190-47-212:~$ ping www.screenr.com
+ping: unknown host www.screenr.com
+rawa@149-190-47-212:~$ ping www.screenr.com
+ping: unknown host www.screenr.com
+rawa@149-190-47-212:~$ ping google.com
+ping: unknown host google.com
+rawa@149-190-47-212:~$ ping 46.115.125.158
+PING 46.115.125.158 (46.115.125.158) 56(84) bytes of data.
+^C
+--- 46.115.125.158 ping statistics ---
+134 packets transmitted, 0 received, 100% packet loss, time 133619ms
+
+rawa@149-190-47-212:~$ ping 173.194.39.163
+PING 173.194.39.163 (173.194.39.163) 56(84) bytes of data.
+64 bytes from 173.194.39.163: icmp_req=1 ttl=54 time=23.8 ms
+64 bytes from 173.194.39.163: icmp_req=2 ttl=54 time=23.7 ms
+64 bytes from 173.194.39.163: icmp_req=3 ttl=54 time=23.7 ms
+64 bytes from 173.194.39.163: icmp_req=4 ttl=54 time=23.6 ms
+64 bytes from 173.194.39.163: icmp_req=5 ttl=54 time=23.7 ms
+64 bytes from 173.194.39.163: icmp_req=6 ttl=54 time=23.7 ms
+^C
+--- 173.194.39.163 ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5009ms
+rtt min/avg/max/mdev = 23.674/23.735/23.831/0.101 ms
+rawa@149-190-47-212:~$ ping sl4.eu
+login as: rawa
+rawa@212.47.190.149's password:
+Linux 149-190-47-212 2.6.32-5-686 #1 SMP Mon Sep 23 23:00:18 UTC 2013 i686
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Fri Nov 29 22:40:43 2013 from 176.1.77.49
+rawa@149-190-47-212:~$ ping google.com
+ping: unknown host google.com
+rawa@149-190-47-212:~$
+rawa@149-190-47-212:~$ ping google.com
+PING google.com (173.194.40.72) 56(84) bytes of data.
+64 bytes from zrh04s06-in-f8.1e100.net (173.194.40.72): icmp_req=1 ttl=58 time=3                                                                 .35 ms
+64 bytes from zrh04s06-in-f8.1e100.net (173.194.40.72): icmp_req=2 ttl=58 time=1                                                                 .19 ms
+^C
+--- google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 1.190/2.273/3.356/1.083 ms
+rawa@149-190-47-212:~$ CAST=iFaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $                                                                 CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $                                                                 sha.mp4
+
+curl: (3) <url> malformed
+||da39a3ee5e6b4b0d3255bfef95601890afd80709||iFaH||
+rawa@149-190-47-212:~$ export CastBase=http://www.screenr.com/screencast/downloa                                                                 d
+rawa@149-190-47-212:~$ export CastAuth=B3378E963981019CF35A0DFB4A2FBFD6B6825DDB2                                                                 2264A2670CE947D8F6CFE855F81C3388B55CE5A465A1605CECBD6B2C0289CCBB44BE586F85775568                                                                 37BCDC0F9A36CFAC11E2CB818A6CCC5386ADA21E36585408696D80FD92BCAECDFACFDEE92285A4FD                                                                 BC0C163BFAB030BD182CEC849C19871E40B385218AAC8EDF416868AFE73E9CBBCEB4881DD6C82912                                                                 1705B5FE6FA7C85402B2843DB402AC690840CA6C6939671101847C4B11E2D3188C8149E4F36C1346                                                                 F26E1C98521252A294C9089FFFE7EEB
+rawa@149-190-47-212:~$ CAST=iFaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $                                                                 CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $                                                                 sha.mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 13.5M  100 13.5M    0     0  2396k      0  0:00:05  0:00:05 --:--:-- 3103k
+||63f209bf9e7907513ec76930d80a39bddf585354||iFaH||
+rawa@149-190-47-212:~$ CAST= * IsA: LapTop;curl -b .ASPXAUTH=$CastAuth $CastBase                                                                 /$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $                                                                 CAST.mp4 $sha.mp4
+-bash: 01be92559d0b445be5237acd6362485bbb51cf37.mp4: command not found
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  7 13.5M    7 1056k    0     0   391k      0  0:00:35  0:00:02  0:00:33  419k^C
+rawa@149-190-47-212:~$ CAST=8qaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $                                                                 CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $                                                                 sha.mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 15.2M  100 15.2M    0     0  1827k      0  0:00:08  0:00:08 --:--:-- 2558k
+||3f6e2bb02ee4df3c853a64692842be90ffdca49c||8qaH||
+rawa@149-190-47-212:~$ CAST=fqaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $                                                                 CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $                                                                 sha.mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 12.9M  100 12.9M    0     0  2331k      0  0:00:05  0:00:05 --:--:-- 3115k
+||a0cc54cec17b14c2af0ba6a1e69dc29c213e7d1f||fqaH||
+rawa@149-190-47-212:~$ more tmp/btn/
+branches/ repo/     .svn/     tags/     trunk/    wiki/
+rawa@149-190-47-212:~$ more tmp/btn/wiki/Ad
+AdamLanza.wiki         AdIa.wiki              AdOc.wiki
+AdamPhaeton.wiki       AdidasGoogles.wiki     AdolfineHennecke.wiki
+AdamSandler.wiki       AdInstruments.wiki     AdornosHobby.wiki
+AdaptEva.wiki          AdiosNonino.wiki       AdrianaKalfic.wiki
+AdapTeva.wiki          AdjacencyMatrix.wiki   AdrianGloeckner.wiki
+AdAstra.wiki           AdlonPlan.wiki         AdriaPlan.wiki
+AdBot.wiki             AdminOcracy.wiki       AdrTla.wiki
+AddMore.wiki           AdMin.wiki             AdtTla.wiki
+AdeDe.wiki             AdMob.wiki             AdvancedSettings.wiki
+AdHen.wiki             AdMo.wiki              AdversoFlumine.wiki
+AdHi.wiki              AdobeHack.wiki
+rawa@149-190-47-212:~$ history |grep sl4
+   54  lynx sl4.eu
+   56  lynx sl4.eu
+  283  history |grep sl4
+  285  lynx -dump sl4.eu/now
+  286  lynx -dump -nolist sl4.eu/now ; date +%s
+  433  history |grep sl4
+  434  lynx -dump -nolist sl4.eu/now ; date +%s
+  435  lynx -dump -nolist sl4.eu/now ; date +%s;date
+  436  lynx -dump -nolist sl4.eu/now;date +%s;date
+  508  history |grep sl4
+rawa@149-190-47-212:~$ !436
+lynx -dump -nolist sl4.eu/now;date +%s;date
+Looking up  'sl4.eu' first
+   1.385.775.234~114
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385775234
+Sat Nov 30 02:33:54 CET 2013
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date
+Looking up  'sl4.eu' first
+   1.385.775.250~604
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385775250
+Sat Nov 30 02:34:10 CET 2013
+rawa@149-190-47-212:~$ CAST=TuaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $                                                                 CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $                                                                 sha.mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 11.0M  100 11.0M    0     0  2448k      0  0:00:04  0:00:04 --:--:-- 2542k
+||862cb53016359fee3f9303c2db8c9a9effc938a3||TuaH||
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date                                                                               Looking up  'sl4.eu' first
+   1.385.777.169~509
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385777169
+Sat Nov 30 03:06:09 CET 2013
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date
+Looking up  'sl4.eu' first
+   1.385.777.180~623
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385777180
+Sat Nov 30 03:06:20 CET 2013
+rawa@149-190-47-212:~$ CAST=duaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $                                                                 CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $                                                                 sha.mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 11.2M  100 11.2M    0     0  1718k      0  0:00:06  0:00:06 --:--:-- 2499k
+||7f96d723b70542d66d53b674e65d222cd7ec436e||duaH||
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date                                                                               Looking up  'sl4.eu' first
+   1.385.778.662~210
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385778662
+Sat Nov 30 03:31:02 CET 2013
+rawa@149-190-47-212:~$ CAST= * IsA: MindEvent;curl -b .ASPXAUTH=$CastAuth $CastB                                                                 ase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; m                                                                 v $CAST.mp4 $sha.mp4
+-bash: 01be92559d0b445be5237acd6362485bbb51cf37.mp4: command not found
+ * WikiLender: 2013-06-30
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 *                                                                  EinTritt: 1 JohannTaler
+ * ZuGesagt: AngelaIncampo ChristineSchlinck ChristophStelzner HeidiGallinat Hei                                                                 diMorgenstern JohannKoenitz JoWi KatiSchroedter KertinFiedler MartinRoell Matthi                                                                 asSchneider RajkoAust RainerWasserfuhr RalfLippold RicoPetrick RosithaHunold San                                                                 droZimmermann SiggiBecker Tobias
+ * TraumGast: FelinChen PeterWill
+ * SpeiseKarte: BonnetRouge BrainSoup CliquenFritten
+
+  0 11.2M    0  2587    0     0   4212      0  0:46:35 --:--:--  0:46:35  5761Wa                                                                 hrSchein'lich: BetinaBerger CarBa DrLohr DrSchmidt EisFee EvLu FrauFelin FrHe He                                                                 rrFelin JaBo JeOs JuCs KarinaMatthes LuSch MaBe Marcel MaxeBaumann OkRu SiHo Sta                                                                 Ti SteffenPeschel UlrikeNedo WiLu YvonneSchubert
+
+VielLeicht: AnBa AstridFriedrich BeateMorgenstern BenjaminPauquet BobHooda Bruno                                                                 Jennrich CurrySu DanielPoodratchi DrWerner FrauUnger HuHain IrIs JeWus OlPa PhLe                                                                  RaimarScherer RobertSchinner SaHu SiLy TiBo TiBr Xaver
+
+MoegLich: BarackObama BertiVogts BettinaBunge DirkHilbert EvaDemski FelixRaeuber                                                                  GerardDepardieu HansOlafsEnkel GuttenBerg Hoefele MaSi Maschmeier OlafBoehme Ol                                                                 Ga Orosz SuperMinister TiCa Tillich VeronicaFerres WolfgangUhlmann
+  0 11.2M    0 85123    0     0  67107      0  0:02:55  0:00:01  0:02:54 77104
+LeiderVerhindert: AloisAndermann EliasMorgenstern HagenStanek HeikeRibke JeMi Ji                                                                 rkaSchaefer JobsInDresden KatharinaScheerer MarcoRibke MarkLambertz SoerenRogoll
+
+UnErwuenscht: AnAd HaKe MariaAbramovic RayWasserfuhr SchlauesEx VlaPu
+
+UnUnErwuenscht: HaJo
+
+#
+ ich werde dann wohl InAmerika sein - aber MeinBruder wird da sein!
+23 minutes ago · Like
+#
+  8 11.2M    8  951k    0     0   435k      0  0:00:26  0:00:02  0:00:24  470kRa                                                                 iner Wasserfuhr PflichtTermin für: DanielPoodratchi HeidiMorgenstern
+22 minutes ago · Like
+#
+100 11.2M  100 11.2M    0     0  2950k      0  0:00:03  0:00:03 --:--:-- 3080k
+||7f96d723b70542d66d53b674e65d222cd7ec436e||duaH||
+rawa@149-190-47-212:~$  * WikiLender: 2013-06-30
+-bash: 01be92559d0b445be5237acd6362485bbb51cf37.mp4: command not found
+rawa@149-190-47-212:~$  * EinTritt: 1 JohannTaler
+-bash: 01be92559d0b445be5237acd6362485bbb51cf37.mp4: command not found
+rawa@149-190-47-212:~$  * ZuGesagt: AngelaIncampo ChristineSchlinck ChristophSte                                                                 lzner HeidiGallinat HeidiMorgenstern JohannKoenitz JoWi KatiSchroedter KertinFie                                                                 dler MartinRoell MatthiasSchneider RajkoAust RainerWasserfuhr RalfLippold RicoPe                                                                 trick RosithaHunold SandroZimmermann SiggiBecker Tobias
+-bash: 01be92559d0b445be5237acd6362485bbb51cf37.mp4: command not found
+rawa@149-190-47-212:~$  * TraumGast: FelinChen PeterWill
+-bash: 01be92559d0b445be5237acd6362485bbb51cf37.mp4: command not found
+rawa@149-190-47-212:~$  * SpeiseKarte: BonnetRouge BrainSoup CliquenFritten
+-bash: 01be92559d0b445be5237acd6362485bbb51cf37.mp4: command not found
+rawa@149-190-47-212:~$
+rawa@149-190-47-212:~$ WahrSchein'lich: BetinaBerger CarBa DrLohr DrSchmidt EisF                                                                 ee EvLu FrauFelin FrHe HerrFelin JaBo JeOs JuCs KarinaMatthes LuSch MaBe Marcel                                                                  MaxeBaumann OkRu SiHo StaTi SteffenPeschel UlrikeNedo WiLu YvonneSchubert
+>
+> VielLeicht: AnBa AstridFriedrich BeateMorgenstern BenjaminPauquet BobHooda Bru                                                                 noJennrich CurrySu DanielPoodratchi DrWerner FrauUnger HuHain IrIs JeWus OlPa Ph                                                                 Le RaimarScherer RobertSchinner SaHu SiLy TiBo TiBr Xaver
+>
+> MoegLich: BarackObama BertiVogts BettinaBunge DirkHilbert EvaDemski FelixRaeub                                                                 er GerardDepardieu HansOlafsEnkel GuttenBerg Hoefele MaSi Maschmeier OlafBoehme                                                                  OlGa Orosz SuperMinister TiCa Tillich VeronicaFerres WolfgangUhlmann
+>
+> LeiderVerhindert: AloisAndermann EliasMorgenstern HagenStanek HeikeRibke JeMi                                                                  JirkaSchaefer JobsInDresden KatharinaScheerer MarcoRibke MarkLambertz SoerenRogo                                                                 ll
+>
+> UnErwuenscht: AnAd HaKe MariaAbramovic RayWasserfuhr SchlauesEx VlaPu
+>
+> UnUnErwuenscht: HaJo
+>
+> #
+>  ich werde dann wohl InAmerika sein - aber MeinBruder wird da sein!
+> 23 minutes ago · Like
+> #
+> Rainer Wasserfuhr PflichtTermin für: DanielPoodratchi HeidiMorgenstern
+> 22 minutes ago · Like
+> #
+> ^C
+rawa@149-190-47-212:~$ CAST=MuaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $                                                                 CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $                                                                 sha.mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 12.8M  100 12.8M    0     0  3705k      0  0:00:03  0:00:03 --:--:-- 3863k
+||c1ee268866489a7275eabd86de16fd4a0868bf67||MuaH||
+rawa@149-190-47-212:~$ CAST=4uaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $                                                                 CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $                                                                 sha.mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 13.4M  100 13.4M    0     0  3458k      0  0:00:03  0:00:03 --:--:-- 3619k
+||1b52058eee7b32b7b41f2f625036311bcda917f5||4uaH||
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date                                                                               Looking up  'sl4.eu' first
+   1.385.779.949~701
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385779951
+Sat Nov 30 03:52:31 CET 2013
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date
+Looking up  'sl4.eu' first
+   1.385.780.141~019
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385780141
+Sat Nov 30 03:55:41 CET 2013
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date
+Looking up  'sl4.eu' first
+   1.385.780.289~602
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385780289
+Sat Nov 30 03:58:09 CET 2013
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date
+Looking up  'sl4.eu' first
+   1.385.780.306~724
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385780306
+Sat Nov 30 03:58:26 CET 2013
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date
+Looking up  'sl4.eu' first
+   1.385.780.328~518
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385780328
+Sat Nov 30 03:58:48 CET 2013
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date
+Looking up  'sl4.eu' first
+   1.385.780.367~122
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385780367
+Sat Nov 30 03:59:27 CET 2013
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date
+Looking up  'sl4.eu' first
+   1.385.781.455~460
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385781455
+Sat Nov 30 04:17:35 CET 2013
+rawa@149-190-47-212:~$ CAST=LuaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $                                                                 CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $                                                                 sha.mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 11.3M  100 11.3M    0     0  2005k      0  0:00:05  0:00:05 --:--:-- 2537k
+||d4884dcf9a8b9704e768deb568ac870ddbe873d6||LuaH||
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date                                                                               Looking up  'sl4.eu' first
+   1.385.781.749~362
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385781749
+Sat Nov 30 04:22:29 CET 2013
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date
+Looking up  'sl4.eu' first
+   1.385.781.757~758
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385781757
+Sat Nov 30 04:22:37 CET 2013
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date                                                                               Looking up  'sl4.eu' first
+   1.385.783.204~363
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385783204
+Sat Nov 30 04:46:44 CET 2013
+rawa@149-190-47-212:~$ CAST=buaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $                                                                 CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $                                                                 sha.mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 14.5M  100 14.5M    0     0  3306k      0  0:00:04  0:00:04 --:--:-- 3526k
+||ac6901480f5146b16b595191f7607abcaef031ef||buaH||
+rawa@149-190-47-212:~$ ls -al
+total 376292
+drwxr-xr-x 16 rawa rawa     4096 Nov 30 04:46 .
+drwxr-xr-x  5 root root     4096 Nov 17 16:32 ..
+-rw-r--r--  1 rawa rawa 15617545 Nov 29 15:06 01be92559d0b445be5237acd6362485bbb                                                                 51cf37.mp4
+-rw-r--r--  1 rawa rawa 12525109 Nov 29 21:33 094e7f7d2bce6dbcc923674099af0e6241                                                                 f3311d.mp4
+-rw-r--r--  1 rawa rawa 13283243 Nov 29 14:41 0c50b602a0788891e93ddb1d9a5bf49425                                                                 16867f.mp4
+-rw-r--r--  1 rawa rawa        0 Nov 29 23:12 0e6cb6c7dbf3d8c21d58ef9dbf0ea5f758                                                                 5a8920
+-rw-r--r--  1 rawa rawa 13691531 Nov 29 23:12 0e6cb6c7dbf3d8c21d58ef9dbf0ea5f758                                                                 5a8920.mp4
+-rw-r--r--  1 rawa rawa 13127944 Nov 29 02:23 16b885518b74f281ee53b1ef18511ab213                                                                 0e42ff.mp4
+-rw-r--r--  1 rawa rawa 14051705 Nov 30 03:52 1b52058eee7b32b7b41f2f625036311bcd                                                                 a917f5.mp4
+-rw-r--r--  1 rawa rawa 12070254 Nov 29 01:13 25c24b3548e84a2956776de186d52131b7                                                                 2246a1.mp4
+-rw-r--r--  1 rawa rawa 15052476 Nov 29 03:15 267d698387392a64a0ab17fc64b9678a04                                                                 bc2d0f.mp4
+-rw-r--r--  1 rawa rawa 10759308 Nov 28 21:57 286dfe5108d2883a8baf96f70567474235                                                                 26c917.mp4
+-rw-r--r--  1 rawa rawa 15565933 Nov 29 21:13 313f71fa2cb84f447ff3c211198cd5be85                                                                 1b20e6.mp4
+-rw-r--r--  1 rawa rawa 13372189 Nov 29 01:09 374843965423db24062fd70d7a23895772                                                                 999daa.mp4
+-rw-r--r--  1 rawa rawa 15278734 Nov 29 15:28 3d24d9197ba3f2f65383561b5d325dc14e                                                                 f84de4.mp4
+-rw-r--r--  1 rawa rawa 15981939 Nov 30 01:56 3f6e2bb02ee4df3c853a64692842be90ff                                                                 dca49c.mp4
+-rw-r--r--  1 rawa rawa   977979 Nov 16 00:37 4ea0d701b34981e7039880d3c441c355ed                                                                 4da81d.zip
+-rw-r--r--  1 rawa rawa      529 Nov 14 12:38 626001
+-rw-r--r--  1 rawa rawa 14201283 Nov 30 00:53 63f209bf9e7907513ec76930d80a39bddf                                                                 585354.mp4
+-rw-r--r--  1 rawa rawa 12518433 Nov 29 21:56 7315d391470a265471a43bb603cf4a3853                                                                 0db78a.mp4
+-rw-r--r--  1 rawa rawa 12211659 Nov 28 21:35 73d62b5b3dbef5bdf15d0deafd246f69d0                                                                 01b4d4.mp4
+-rw-r--r--  1 rawa rawa 12121892 Nov 28 23:06 76c701d5a2442ca1b0cc6a6edd664ca1e8                                                                 51441c.mp4
+-rw-r--r--  1 rawa rawa 11774026 Nov 30 03:31 7f96d723b70542d66d53b674e65d222cd7                                                                 ec436e.mp4
+-rw-r--r--  1 rawa rawa 13071196 Nov 29 14:17 825b3171390e5e20dc223fd948a73a04de                                                                 f993f1.mp4
+-rw-r--r--  1 rawa rawa 11578665 Nov 30 02:40 862cb53016359fee3f9303c2db8c9a9eff                                                                 c938a3.mp4
+-rw-r--r--  1 rawa rawa 11176477 Nov 28 07:11 a02cd56e4664b272b6e38c8d688fd515e1                                                                 1c8b10.mp4
+-rw-r--r--  1 rawa rawa 13620335 Nov 30 02:19 a0cc54cec17b14c2af0ba6a1e69dc29c21                                                                 3e7d1f.mp4
+-rw-r--r--  1 rawa rawa 13702080 Nov 29 00:51 a1318cc7a8ba224e402c5509346d211d60                                                                 34cb97.mp4
+-rw-r--r--  1 rawa rawa 15232430 Nov 30 04:46 ac6901480f5146b16b595191f7607abcae                                                                 f031ef.mp4
+-rw-r--r--  1 rawa rawa   202687 Nov 17 22:50 AllCasts2609.txt
+drwxr-xr-x  6 rawa rawa     4096 Sep 17 11:24 apache-maven-3.1.1
+-rw-r--r--  1 rawa rawa 14050392 Nov 29 01:35 b1aa8f528bfab1fd88a4e1e3f4b95c539e                                                                 3e49fb.mp4
+-rw-------  1 rawa rawa    25404 Nov 30 00:41 .bash_history
+-rw-r--r--  1 rawa rawa      220 Oct 26 14:33 .bash_logout
+-rw-r--r--  1 rawa rawa     3184 Oct 26 14:33 .bashrc
+-rw-r--r--  1 rawa rawa 13523499 Nov 30 03:31 c1ee268866489a7275eabd86de16fd4a08                                                                 68bf67.mp4
+-rw-r--r--  1 rawa rawa 11949527 Nov 30 04:22 d4884dcf9a8b9704e768deb568ac870ddb                                                                 e873d6.mp4
+-rw-r--r--  1 rawa rawa        0 Nov 30 00:52 da39a3ee5e6b4b0d3255bfef95601890af                                                                 d80709.mp4
+-rw-r--r--  1 rawa rawa     1027 Nov 26 02:15 dbIn
+drwxr-xr-x 11 rawa rawa     4096 Nov 26 02:57 DigitalEarth
+drwxr-xr-x  5 rawa rawa     4096 Nov 26 02:57 DigitalPlanet
+-rw-r--r--  1 rawa rawa  1614079 Nov 26 02:16 DigitalPlanet8416.sql
+-rw-r--r--  1 rawa rawa  1232003 Nov 26 02:20 DigitalPlanetDerby8416.zip
+-rw-r--r--  1 rawa rawa  1610691 Oct 25 04:58 DigitalPlanetOne.js
+-rw-r--r--  1 rawa rawa  1613052 Nov 25 23:55 DigitalPlanet.sql
+-rw-r--r--  1 rawa rawa   147814 Nov 25 23:56 DigitalPlanet.zip
+drwxr-xr-x  3 rawa rawa     4096 Oct 28 02:47 .emacs.d
+-rw-r--r--  1 rawa rawa 13783021 Nov 29 23:13 fd9c1b9a5afee881c45275e6a45e0a952c                                                                 107f8a.mp4
+-rw-r--r--  1 rawa rawa       26 Nov  1 17:06 .gitconfig
+drwx------  2 rawa rawa     4096 Nov  4 20:48 .gnupg
+drwxr-xr-x  2 rawa rawa     4096 Nov 11 16:51 grab
+-rw-r--r--  1 rawa rawa  2224128 Nov 30 01:56 iFaH.mp4
+drwxr-xr-x  2 rawa rawa     4096 Nov 18 21:14 JettyLog
+drwxr-xr-x  3 rawa rawa     4096 Oct 28 02:45 .m2
+-rw-r--r--  1 rawa rawa    39750 Nov 17 03:09 mah.jpg
+-rw-r--r--  1 rawa rawa      675 Oct 26 14:33 .profile
+drwxr-xr-x  2 rawa rawa     4096 Nov 26 13:52 screenr
+-rw-r--r--  1 rawa rawa        1 Nov  9 18:10 SpaceFile.txt
+-rw-------  1 rawa rawa     7826 Nov  3 23:13 .sqlite_history
+drwxr-xr-x  3 rawa rawa     4096 Oct 28 03:25 .subversion
+drwxr-xr-x  2 rawa rawa     4096 Nov 25 02:01 TerraDrive
+-rw-r--r--  1 rawa rawa      560 Nov 17 17:48 tessOut.txt
+drwxr-xr-x  9 rawa rawa     4096 Nov 25 03:45 tmp
+drwxr-xr-x 15 rawa rawa     4096 Nov  5 12:19 urbit
+drwxr-xr-x  2 rawa rawa     4096 Oct 29 22:33 .urbit
+rawa@149-190-47-212:~$ ls -al
+total 376292
+drwxr-xr-x 16 rawa rawa     4096 Nov 30 04:46 .
+drwxr-xr-x  5 root root     4096 Nov 17 16:32 ..
+-rw-r--r--  1 rawa rawa 15617545 Nov 29 15:06 01be92559d0b445be5237acd6362485bbb51cf37.mp4
+-rw-r--r--  1 rawa rawa 12525109 Nov 29 21:33 094e7f7d2bce6dbcc923674099af0e6241f3311d.mp4
+-rw-r--r--  1 rawa rawa 13283243 Nov 29 14:41 0c50b602a0788891e93ddb1d9a5bf4942516867f.mp4
+-rw-r--r--  1 rawa rawa        0 Nov 29 23:12 0e6cb6c7dbf3d8c21d58ef9dbf0ea5f7585a8920
+-rw-r--r--  1 rawa rawa 13691531 Nov 29 23:12 0e6cb6c7dbf3d8c21d58ef9dbf0ea5f7585a8920.mp4
+-rw-r--r--  1 rawa rawa 13127944 Nov 29 02:23 16b885518b74f281ee53b1ef18511ab2130e42ff.mp4
+-rw-r--r--  1 rawa rawa 14051705 Nov 30 03:52 1b52058eee7b32b7b41f2f625036311bcda917f5.mp4
+-rw-r--r--  1 rawa rawa 12070254 Nov 29 01:13 25c24b3548e84a2956776de186d52131b72246a1.mp4
+-rw-r--r--  1 rawa rawa 15052476 Nov 29 03:15 267d698387392a64a0ab17fc64b9678a04bc2d0f.mp4
+-rw-r--r--  1 rawa rawa 10759308 Nov 28 21:57 286dfe5108d2883a8baf96f7056747423526c917.mp4
+-rw-r--r--  1 rawa rawa 15565933 Nov 29 21:13 313f71fa2cb84f447ff3c211198cd5be851b20e6.mp4
+-rw-r--r--  1 rawa rawa 13372189 Nov 29 01:09 374843965423db24062fd70d7a23895772999daa.mp4
+-rw-r--r--  1 rawa rawa 15278734 Nov 29 15:28 3d24d9197ba3f2f65383561b5d325dc14ef84de4.mp4
+-rw-r--r--  1 rawa rawa 15981939 Nov 30 01:56 3f6e2bb02ee4df3c853a64692842be90ffdca49c.mp4
+-rw-r--r--  1 rawa rawa   977979 Nov 16 00:37 4ea0d701b34981e7039880d3c441c355ed4da81d.zip
+-rw-r--r--  1 rawa rawa      529 Nov 14 12:38 626001
+-rw-r--r--  1 rawa rawa 14201283 Nov 30 00:53 63f209bf9e7907513ec76930d80a39bddf585354.mp4
+-rw-r--r--  1 rawa rawa 12518433 Nov 29 21:56 7315d391470a265471a43bb603cf4a38530db78a.mp4
+-rw-r--r--  1 rawa rawa 12211659 Nov 28 21:35 73d62b5b3dbef5bdf15d0deafd246f69d001b4d4.mp4
+-rw-r--r--  1 rawa rawa 12121892 Nov 28 23:06 76c701d5a2442ca1b0cc6a6edd664ca1e851441c.mp4
+-rw-r--r--  1 rawa rawa 11774026 Nov 30 03:31 7f96d723b70542d66d53b674e65d222cd7ec436e.mp4
+-rw-r--r--  1 rawa rawa 13071196 Nov 29 14:17 825b3171390e5e20dc223fd948a73a04def993f1.mp4
+-rw-r--r--  1 rawa rawa 11578665 Nov 30 02:40 862cb53016359fee3f9303c2db8c9a9effc938a3.mp4
+-rw-r--r--  1 rawa rawa 11176477 Nov 28 07:11 a02cd56e4664b272b6e38c8d688fd515e11c8b10.mp4
+-rw-r--r--  1 rawa rawa 13620335 Nov 30 02:19 a0cc54cec17b14c2af0ba6a1e69dc29c213e7d1f.mp4
+-rw-r--r--  1 rawa rawa 13702080 Nov 29 00:51 a1318cc7a8ba224e402c5509346d211d6034cb97.mp4
+-rw-r--r--  1 rawa rawa 15232430 Nov 30 04:46 ac6901480f5146b16b595191f7607abcaef031ef.mp4
+-rw-r--r--  1 rawa rawa   202687 Nov 17 22:50 AllCasts2609.txt
+drwxr-xr-x  6 rawa rawa     4096 Sep 17 11:24 apache-maven-3.1.1
+-rw-r--r--  1 rawa rawa 14050392 Nov 29 01:35 b1aa8f528bfab1fd88a4e1e3f4b95c539e3e49fb.mp4
+-rw-------  1 rawa rawa    25404 Nov 30 00:41 .bash_history
+-rw-r--r--  1 rawa rawa      220 Oct 26 14:33 .bash_logout
+-rw-r--r--  1 rawa rawa     3184 Oct 26 14:33 .bashrc
+-rw-r--r--  1 rawa rawa 13523499 Nov 30 03:31 c1ee268866489a7275eabd86de16fd4a0868bf67.mp4
+-rw-r--r--  1 rawa rawa 11949527 Nov 30 04:22 d4884dcf9a8b9704e768deb568ac870ddbe873d6.mp4
+-rw-r--r--  1 rawa rawa        0 Nov 30 00:52 da39a3ee5e6b4b0d3255bfef95601890afd80709.mp4
+-rw-r--r--  1 rawa rawa     1027 Nov 26 02:15 dbIn
+drwxr-xr-x 11 rawa rawa     4096 Nov 26 02:57 DigitalEarth
+drwxr-xr-x  5 rawa rawa     4096 Nov 26 02:57 DigitalPlanet
+-rw-r--r--  1 rawa rawa  1614079 Nov 26 02:16 DigitalPlanet8416.sql
+-rw-r--r--  1 rawa rawa  1232003 Nov 26 02:20 DigitalPlanetDerby8416.zip
+-rw-r--r--  1 rawa rawa  1610691 Oct 25 04:58 DigitalPlanetOne.js
+-rw-r--r--  1 rawa rawa  1613052 Nov 25 23:55 DigitalPlanet.sql
+-rw-r--r--  1 rawa rawa   147814 Nov 25 23:56 DigitalPlanet.zip
+drwxr-xr-x  3 rawa rawa     4096 Oct 28 02:47 .emacs.d
+-rw-r--r--  1 rawa rawa 13783021 Nov 29 23:13 fd9c1b9a5afee881c45275e6a45e0a952c107f8a.mp4
+-rw-r--r--  1 rawa rawa       26 Nov  1 17:06 .gitconfig
+drwx------  2 rawa rawa     4096 Nov  4 20:48 .gnupg
+drwxr-xr-x  2 rawa rawa     4096 Nov 11 16:51 grab
+-rw-r--r--  1 rawa rawa  2224128 Nov 30 01:56 iFaH.mp4
+drwxr-xr-x  2 rawa rawa     4096 Nov 18 21:14 JettyLog
+drwxr-xr-x  3 rawa rawa     4096 Oct 28 02:45 .m2
+-rw-r--r--  1 rawa rawa    39750 Nov 17 03:09 mah.jpg
+-rw-r--r--  1 rawa rawa      675 Oct 26 14:33 .profile
+drwxr-xr-x  2 rawa rawa     4096 Nov 26 13:52 screenr
+-rw-r--r--  1 rawa rawa        1 Nov  9 18:10 SpaceFile.txt
+-rw-------  1 rawa rawa     7826 Nov  3 23:13 .sqlite_history
+drwxr-xr-x  3 rawa rawa     4096 Oct 28 03:25 .subversion
+drwxr-xr-x  2 rawa rawa     4096 Nov 25 02:01 TerraDrive
+-rw-r--r--  1 rawa rawa      560 Nov 17 17:48 tessOut.txt
+drwxr-xr-x  9 rawa rawa     4096 Nov 25 03:45 tmp
+drwxr-xr-x 15 rawa rawa     4096 Nov  5 12:19 urbit
+drwxr-xr-x  2 rawa rawa     4096 Oct 29 22:33 .urbit
+rawa@149-190-47-212:~$ ls -al *4
+-rw-r--r-- 1 rawa rawa 15617545 Nov 29 15:06 01be92559d0b445be5237acd6362485bbb51cf37.mp4
+-rw-r--r-- 1 rawa rawa 12525109 Nov 29 21:33 094e7f7d2bce6dbcc923674099af0e6241f3311d.mp4
+-rw-r--r-- 1 rawa rawa 13283243 Nov 29 14:41 0c50b602a0788891e93ddb1d9a5bf4942516867f.mp4
+-rw-r--r-- 1 rawa rawa 13691531 Nov 29 23:12 0e6cb6c7dbf3d8c21d58ef9dbf0ea5f7585a8920.mp4
+-rw-r--r-- 1 rawa rawa 13127944 Nov 29 02:23 16b885518b74f281ee53b1ef18511ab2130e42ff.mp4
+-rw-r--r-- 1 rawa rawa 14051705 Nov 30 03:52 1b52058eee7b32b7b41f2f625036311bcda917f5.mp4
+-rw-r--r-- 1 rawa rawa 12070254 Nov 29 01:13 25c24b3548e84a2956776de186d52131b72246a1.mp4
+-rw-r--r-- 1 rawa rawa 15052476 Nov 29 03:15 267d698387392a64a0ab17fc64b9678a04bc2d0f.mp4
+-rw-r--r-- 1 rawa rawa 10759308 Nov 28 21:57 286dfe5108d2883a8baf96f7056747423526c917.mp4
+-rw-r--r-- 1 rawa rawa 15565933 Nov 29 21:13 313f71fa2cb84f447ff3c211198cd5be851b20e6.mp4
+-rw-r--r-- 1 rawa rawa 13372189 Nov 29 01:09 374843965423db24062fd70d7a23895772999daa.mp4
+-rw-r--r-- 1 rawa rawa 15278734 Nov 29 15:28 3d24d9197ba3f2f65383561b5d325dc14ef84de4.mp4
+-rw-r--r-- 1 rawa rawa 15981939 Nov 30 01:56 3f6e2bb02ee4df3c853a64692842be90ffdca49c.mp4
+-rw-r--r-- 1 rawa rawa 14201283 Nov 30 00:53 63f209bf9e7907513ec76930d80a39bddf585354.mp4
+-rw-r--r-- 1 rawa rawa 12518433 Nov 29 21:56 7315d391470a265471a43bb603cf4a38530db78a.mp4
+-rw-r--r-- 1 rawa rawa 12211659 Nov 28 21:35 73d62b5b3dbef5bdf15d0deafd246f69d001b4d4.mp4
+-rw-r--r-- 1 rawa rawa 12121892 Nov 28 23:06 76c701d5a2442ca1b0cc6a6edd664ca1e851441c.mp4
+-rw-r--r-- 1 rawa rawa 11774026 Nov 30 03:31 7f96d723b70542d66d53b674e65d222cd7ec436e.mp4
+-rw-r--r-- 1 rawa rawa 13071196 Nov 29 14:17 825b3171390e5e20dc223fd948a73a04def993f1.mp4
+-rw-r--r-- 1 rawa rawa 11578665 Nov 30 02:40 862cb53016359fee3f9303c2db8c9a9effc938a3.mp4
+-rw-r--r-- 1 rawa rawa 11176477 Nov 28 07:11 a02cd56e4664b272b6e38c8d688fd515e11c8b10.mp4
+-rw-r--r-- 1 rawa rawa 13620335 Nov 30 02:19 a0cc54cec17b14c2af0ba6a1e69dc29c213e7d1f.mp4
+-rw-r--r-- 1 rawa rawa 13702080 Nov 29 00:51 a1318cc7a8ba224e402c5509346d211d6034cb97.mp4
+-rw-r--r-- 1 rawa rawa 15232430 Nov 30 04:46 ac6901480f5146b16b595191f7607abcaef031ef.mp4
+-rw-r--r-- 1 rawa rawa 14050392 Nov 29 01:35 b1aa8f528bfab1fd88a4e1e3f4b95c539e3e49fb.mp4
+-rw-r--r-- 1 rawa rawa 13523499 Nov 30 03:31 c1ee268866489a7275eabd86de16fd4a0868bf67.mp4
+-rw-r--r-- 1 rawa rawa 11949527 Nov 30 04:22 d4884dcf9a8b9704e768deb568ac870ddbe873d6.mp4
+-rw-r--r-- 1 rawa rawa        0 Nov 30 00:52 da39a3ee5e6b4b0d3255bfef95601890afd80709.mp4
+-rw-r--r-- 1 rawa rawa 13783021 Nov 29 23:13 fd9c1b9a5afee881c45275e6a45e0a952c107f8a.mp4
+-rw-r--r-- 1 rawa rawa  2224128 Nov 30 01:56 iFaH.mp4
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date                                                                               Looking up  'sl4.eu' first
+   1.385.783.773~480
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385783773
+Sat Nov 30 04:56:13 CET 2013
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date
+Looking up  'sl4.eu' first
+   1.385.785.133~306
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385785134
+Sat Nov 30 05:18:54 CET 2013
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date
+Looking up  'sl4.eu' first
+   1.385.785.215~070
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385785215
+Sat Nov 30 05:20:15 CET 2013
+rawa@149-190-47-212:~$ CAST=9uaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 15.3M  100 15.3M    0     0  3677k      0  0:00:04  0:00:04 --:--:-- 3973k
+||85037d3e7d2837a3568958bc1af38e3740f58293||9uaH||
+rawa@149-190-47-212:~$
+login as: rawa
+rawa@212.47.190.149's password:
+Linux 149-190-47-212 2.6.32-5-686 #1 SMP Mon Sep 23 23:00:18 UTC 2013 i686
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Sat Nov 30 00:42:33 2013 from 176.1.77.49
+rawa@149-190-47-212:~$ history |grep sl4
+   54  lynx sl4.eu
+   56  lynx sl4.eu
+  283  history |grep sl4
+  285  lynx -dump sl4.eu/now
+  286  lynx -dump -nolist sl4.eu/now ; date +%s
+  433  history |grep sl4
+  434  lynx -dump -nolist sl4.eu/now ; date +%s
+  435  lynx -dump -nolist sl4.eu/now ; date +%s;date
+  436  lynx -dump -nolist sl4.eu/now;date +%s;date
+  500  history |grep sl4
+rawa@149-190-47-212:~$ !436
+lynx -dump -nolist sl4.eu/now;date +%s;date
+Looking up  'sl4.eu' first
+   1.385.786.974~760
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385786975
+Sat Nov 30 05:49:35 CET 2013
+rawa@149-190-47-212:~$ export CastBase=http://www.screenr.com/screencast/download                                                                rawa@149-190-47-212:~$ export CastAuth=B3378E963981019CF35A0DFB4A2FBFD6B6825DDB22264A2670CE947D8F6CFE855F81C3388B55CE5A465A1605CECBD6B2C0289CCBB44BE586F8577556837BCDC0F9A36CFAC11E2CB818A6CCC5386ADA21E36585408696D80FD92BCAECDFACFDEE92285A4FDBC0C163BFAB030BD182CEC849C19871E40B385218AAC8EDF416868AFE73E9CBBCEB4881DD6C829121705B5FE6FA7C85402B2843DB402AC690840CA6C6939671101847C4B11E2D3188C8149E4F36C1346F26E1C98521252A294C9089FFFE7EEB
+rawa@149-190-47-212:~$ CAST=NtaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 12.9M  100 12.9M    0     0  2506k      0  0:00:05  0:00:05 --:--:-- 3215k
+||8da9d3e665c1691b7c94b34519377b070dcc0c00||NtaH||
+rawa@149-190-47-212:~$ CAST=gtaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 11.9M  100 11.9M    0     0  2171k      0  0:00:05  0:00:05 --:--:-- 2846k
+||08082d06058228953bb61b7ce73a3f433fde0cac||gtaH||
+rawa@149-190-47-212:~$
+login as: rawa
+rawa@212.47.190.149's password:
+Linux 149-190-47-212 2.6.32-5-686 #1 SMP Mon Sep 23 23:00:18 UTC 2013 i686
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Sat Nov 30 05:48:54 2013 from 46.115.107.236
+rawa@149-190-47-212:~$ export CastAuth=B3378E963981019CF35A0DFB4A2FBFD6B6825DDB22264A2670CE947D8F6CFE855F81C3388B55CE5A465A1605CECBD6B2C0289CCBB44BE586F8577556837BCDC0F9A36CFAC11E2CB818A6CCC5386ADA21E36585408696D80FD92BCAECDFACFDEE92285A4FDBC0C163BFAB030BD182CEC849C19871E40B385218AAC8EDF416868AFE73E9CBBCEB4881DD6C829121705B5FE6FA7C85402B2843DB402AC690840CA6C6939671101847C4B11E2D3188C8149E4F36C1346F26E1C98521252A294C9089FFFE7EEB
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date                                                                               Looking up  'sl4.eu' first
+   1.385.821.715~903
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385821716
+Sat Nov 30 15:28:36 CET 2013
+rawa@149-190-47-212:~$
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date                                                                               Looking up  'sl4.eu' first
+
+   1.385.821.872~520
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385821872
+Sat Nov 30 15:31:12 CET 2013
+rawa@149-190-47-212:~$
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date
+Looking up  'sl4.eu' first
+   1.385.824.233~021
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385824233
+Sat Nov 30 16:10:33 CET 2013
+rawa@149-190-47-212:~$ export CastBase=http://www.screenr.com/screencast/download                                                                rawa@149-190-47-212:~$ CAST=iEaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 15.9M  100 15.9M    0     0  2007k      0  0:00:08  0:00:08 --:--:-- 3070k
+||6a4aea01d5fd04cffc9503dec118a50bdccdf279||iEaH||
+rawa@149-190-47-212:~$ lynx -dump -nolist sl4.eu/now;date +%s;date                                                                               Looking up  'sl4.eu' first
+   1.385.825.809~117
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385825809
+Sat Nov 30 16:36:49 CET 2013
+rawa@149-190-47-212:~$ #BYaH
+rawa@149-190-47-212:~$ CAST=BYaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 12.3M  100 12.3M    0     0  3004k      0  0:00:04  0:00:04 --:--:-- 3257k
+||c28ee5eca0eb71140923c99a745f2298a90f914e||BYaH||
+rawa@149-190-47-212:~$ CAST=AYaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 13.4M  100 13.4M    0     0  1306k      0  0:00:10  0:00:10 --:--:-- 1393k
+||b370889c7bdc12e321f1599706b3e0f96c8cae04||AYaH||
+Looking up  'sl4.eu' first
+   1.385.827.236~807
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385827237
+Sat Nov 30 17:00:37 CET 2013
+rawa@149-190-47-212:~$ CAST=4YaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 13.6M  100 13.6M    0     0  2600k      0  0:00:05  0:00:05 --:--:-- 3386k
+||0a9f0f124f4e8b5da18f16e062e40f962371fa02||4YaH||
+Looking up  'sl4.eu' first
+   1.385.828.714~509
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385828715
+Sat Nov 30 17:25:15 CET 2013
+rawa@149-190-47-212:~$ CAST=3YaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 12.8M  100 12.8M    0     0  3146k      0  0:00:04  0:00:04 --:--:-- 3290k
+||b667d70ee4475c4da34c9a5bf7bbfaf7bf0fdce1||3YaH||
+Looking up  'sl4.eu' first
+   1.385.830.192~209
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385830192
+Sat Nov 30 17:49:52 CET 2013
+rawa@149-190-47-212:~$ CAST=7baH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 10.9M  100 10.9M    0     0  2494k      0  0:00:04  0:00:04 --:--:-- 3232k
+||07c7c47d4c4def6f8bb6b20f3bafa02973e27de4||7baH||
+Looking up  'sl4.eu' first
+   1.385.831.715~614
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385831715
+Sat Nov 30 18:15:15 CET 2013
+rawa@149-190-47-212:~$ CAST=WbaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 11.4M  100 11.4M    0     0  2973k      0  0:00:03  0:00:03 --:--:-- 3106k
+||36f834f7f18dd063b90ecfe6d2759b2529e9b002||WbaH||
+Looking up  'sl4.eu' first
+   1.385.833.250~421
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385833250
+Sat Nov 30 18:40:50 CET 2013
+rawa@149-190-47-212:~$ CAST=fbaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 11.6M  100 11.6M    0     0  2090k      0  0:00:05  0:00:05 --:--:-- 2843k
+||5a5580795c35116eca8a54243dc143a2cb1bccb9||fbaH||
+Looking up  'sl4.eu' first
+   1.385.836.201~805
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385836201
+Sat Nov 30 19:30:01 CET 2013
+rawa@149-190-47-212:~$ CAST=nfaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 12.4M  100 12.4M    0     0  2175k      0  0:00:05  0:00:05 --:--:-- 2797k
+||97e9fa4370c6181de33bca024141191219e1965b||nfaH||
+Looking up  'sl4.eu' first
+   1.385.842.070~312
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385842070
+Sat Nov 30 21:07:50 CET 2013
+rawa@149-190-47-212:~$ CAST=qvaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 12.6M  100 12.6M    0     0  2884k      0  0:00:04  0:00:04 --:--:-- 2996k
+||5103bc7e0d62fd5b98ef98fcef7b11593e3898ed||qvaH||
+Looking up  'sl4.eu' first
+   1.385.843.978~726
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385843978
+Sat Nov 30 21:39:38 CET 2013
+rawa@149-190-47-212:~$ CAST=h6aH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 13.5M  100 13.5M    0     0  2527k      0  0:00:05  0:00:05 --:--:-- 3198k
+||a88b2ff2a589587db52bf043d8f81c8b738d81be||h6aH||
+Looking up  'sl4.eu' first
+   1.385.848.456~505
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385848457
+Sat Nov 30 22:54:17 CET 2013
+rawa@149-190-47-212:~$ CAST=Q6aH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 12.9M  100 12.9M    0     0  1856k      0  0:00:07  0:00:07 --:--:-- 2901k
+||f4510ffb6eb99699734e235525d7f39aa3c977f7||Q6aH||
+Looking up  'sl4.eu' first
+   1.385.850.888~216
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385850888
+Sat Nov 30 23:34:48 CET 2013
+rawa@149-190-47-212:~$ CAST=y6aH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 12.9M  100 12.9M    0     0  2967k      0  0:00:04  0:00:04 --:--:-- 3074k
+||797d65f7caa947adc4a3744a4b0494611d90f94c||y6aH||
+Looking up  'sl4.eu' first
+   1.385.853.271~617
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385853272
+Sun Dec  1 00:14:32 CET 2013
+rawa@149-190-47-212:~$ CAST=bvxH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 11.6M  100 11.6M    0     0  2800k      0  0:00:04  0:00:04 --:--:-- 2908k
+||ed62fa39be9878304ebf35753fa817caa312d718||bvxH||
+Looking up  'sl4.eu' first
+   1.385.853.469~322
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385853469
+Sun Dec  1 00:17:49 CET 2013
+rawa@149-190-47-212:~$ CAST=KJaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 11.4M  100 11.4M    0     0  2526k      0  0:00:04  0:00:04 --:--:-- 2632k
+||8064f0b2f10d6c41432e5c370669d7bfa281e0aa||KJaH||
+Looking up  'sl4.eu' first
+   1.385.854.931~508
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385854931
+Sun Dec  1 00:42:11 CET 2013
+rawa@149-190-47-212:~$ CAST=lJaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 6763k  100 6763k    0     0  2050k      0  0:00:03  0:00:03 --:--:-- 2224k
+||d626608da2746278bfae2be285be0a521e721532||lJaH||
+Looking up  'sl4.eu' first
+   1.385.856.263~705
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385856264
+Sun Dec  1 01:04:24 CET 2013
+rawa@149-190-47-212:~$ CAST=EJaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 10.7M  100 10.7M    0     0  1153k      0  0:00:09  0:00:09 --:--:-- 1753k
+||605d4aff4aa68a6177cf6a230bbccc1fff25e3fa||EJaH||
+Looking up  'sl4.eu' first
+   1.385.857.934~010
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385857934
+Sun Dec  1 01:32:14 CET 2013
+rawa@149-190-47-212:~$ emacs DigitalEarth/src/main/webapp/d.jsp
+rawa@149-190-47-212:~$ CAST=yJaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 11.5M  100 11.5M    0     0  2143k      0  0:00:05  0:00:05 --:--:-- 2667k
+||904bd9caaa9b687931d153dfb74978d042570d62||yJaH||
+Looking up  'sl4.eu' first
+   1.385.859.563~020
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385859563
+Sun Dec  1 01:59:23 CET 2013
+rawa@149-190-47-212:~$ ls -al
+total 642076
+drwxr-xr-x 16 rawa rawa     4096 Dec  1 01:59 .
+drwxr-xr-x  5 root root     4096 Nov 17 16:32 ..
+-rw-r--r--  1 rawa rawa 15617545 Nov 29 15:06 01be92559d0b445be5237acd6362485bbb51cf37.mp4
+-rw-r--r--  1 rawa rawa 11498061 Nov 30 18:15 07c7c47d4c4def6f8bb6b20f3bafa02973e27de4.mp4
+-rw-r--r--  1 rawa rawa 12493847 Nov 30 06:15 08082d06058228953bb61b7ce73a3f433fde0cac.mp4
+-rw-r--r--  1 rawa rawa 12525109 Nov 29 21:33 094e7f7d2bce6dbcc923674099af0e6241f3311d.mp4
+-rw-r--r--  1 rawa rawa 14283501 Nov 30 17:24 0a9f0f124f4e8b5da18f16e062e40f962371fa02.mp4
+-rw-r--r--  1 rawa rawa 13283243 Nov 29 14:41 0c50b602a0788891e93ddb1d9a5bf4942516867f.mp4
+-rw-r--r--  1 rawa rawa        0 Nov 29 23:12 0e6cb6c7dbf3d8c21d58ef9dbf0ea5f7585a8920
+-rw-r--r--  1 rawa rawa 13691531 Nov 29 23:12 0e6cb6c7dbf3d8c21d58ef9dbf0ea5f7585a8920.mp4
+-rw-r--r--  1 rawa rawa 13127944 Nov 29 02:23 16b885518b74f281ee53b1ef18511ab2130e42ff.mp4
+-rw-r--r--  1 rawa rawa 14051705 Nov 30 03:52 1b52058eee7b32b7b41f2f625036311bcda917f5.mp4
+-rw-r--r--  1 rawa rawa 12070254 Nov 29 01:13 25c24b3548e84a2956776de186d52131b72246a1.mp4
+-rw-r--r--  1 rawa rawa 15052476 Nov 29 03:15 267d698387392a64a0ab17fc64b9678a04bc2d0f.mp4
+-rw-r--r--  1 rawa rawa 10759308 Nov 28 21:57 286dfe5108d2883a8baf96f7056747423526c917.mp4
+-rw-r--r--  1 rawa rawa 15565933 Nov 29 21:13 313f71fa2cb84f447ff3c211198cd5be851b20e6.mp4
+-rw-r--r--  1 rawa rawa 12042387 Nov 30 18:40 36f834f7f18dd063b90ecfe6d2759b2529e9b002.mp4
+-rw-r--r--  1 rawa rawa 13372189 Nov 29 01:09 374843965423db24062fd70d7a23895772999daa.mp4
+-rw-r--r--  1 rawa rawa 15278734 Nov 29 15:28 3d24d9197ba3f2f65383561b5d325dc14ef84de4.mp4
+-rw-r--r--  1 rawa rawa 15981939 Nov 30 01:56 3f6e2bb02ee4df3c853a64692842be90ffdca49c.mp4
+-rw-r--r--  1 rawa rawa   977979 Nov 16 00:37 4ea0d701b34981e7039880d3c441c355ed4da81d.zip
+-rw-r--r--  1 rawa rawa 13256448 Nov 30 21:39 5103bc7e0d62fd5b98ef98fcef7b11593e3898ed.mp4
+-rw-r--r--  1 rawa rawa 12261296 Nov 30 19:29 5a5580795c35116eca8a54243dc143a2cb1bccb9.mp4
+-rw-r--r--  1 rawa rawa 11288135 Dec  1 01:32 605d4aff4aa68a6177cf6a230bbccc1fff25e3fa.mp4
+-rw-r--r--  1 rawa rawa      529 Nov 14 12:38 626001
+-rw-r--r--  1 rawa rawa 14201283 Nov 30 00:53 63f209bf9e7907513ec76930d80a39bddf585354.mp4
+-rw-r--r--  1 rawa rawa 16718952 Nov 30 16:11 6a4aea01d5fd04cffc9503dec118a50bdccdf279.mp4
+-rw-r--r--  1 rawa rawa 12518433 Nov 29 21:56 7315d391470a265471a43bb603cf4a38530db78a.mp4
+-rw-r--r--  1 rawa rawa 12211659 Nov 28 21:35 73d62b5b3dbef5bdf15d0deafd246f69d001b4d4.mp4
+-rw-r--r--  1 rawa rawa 12121892 Nov 28 23:06 76c701d5a2442ca1b0cc6a6edd664ca1e851441c.mp4
+-rw-r--r--  1 rawa rawa 13560778 Dec  1 00:13 797d65f7caa947adc4a3744a4b0494611d90f94c.mp4
+-rw-r--r--  1 rawa rawa 11774026 Nov 30 03:31 7f96d723b70542d66d53b674e65d222cd7ec436e.mp4
+-rw-r--r--  1 rawa rawa 11961478 Dec  1 00:42 8064f0b2f10d6c41432e5c370669d7bfa281e0aa.mp4
+-rw-r--r--  1 rawa rawa 13071196 Nov 29 14:17 825b3171390e5e20dc223fd948a73a04def993f1.mp4
+-rw-r--r--  1 rawa rawa 16107083 Nov 30 05:20 85037d3e7d2837a3568958bc1af38e3740f58293.mp4
+-rw-r--r--  1 rawa rawa 11578665 Nov 30 02:40 862cb53016359fee3f9303c2db8c9a9effc938a3.mp4
+-rw-r--r--  1 rawa rawa 13555661 Nov 30 05:50 8da9d3e665c1691b7c94b34519377b070dcc0c00.mp4
+-rw-r--r--  1 rawa rawa 12159492 Dec  1 01:59 904bd9caaa9b687931d153dfb74978d042570d62.mp4
+-rw-r--r--  1 rawa rawa 13092570 Nov 30 21:07 97e9fa4370c6181de33bca024141191219e1965b.mp4
+-rw-r--r--  1 rawa rawa 11176477 Nov 28 07:11 a02cd56e4664b272b6e38c8d688fd515e11c8b10.mp4
+-rw-r--r--  1 rawa rawa 13620335 Nov 30 02:19 a0cc54cec17b14c2af0ba6a1e69dc29c213e7d1f.mp4
+-rw-r--r--  1 rawa rawa 13702080 Nov 29 00:51 a1318cc7a8ba224e402c5509346d211d6034cb97.mp4
+-rw-r--r--  1 rawa rawa 14188662 Nov 30 22:53 a88b2ff2a589587db52bf043d8f81c8b738d81be.mp4
+-rw-r--r--  1 rawa rawa 15232430 Nov 30 04:46 ac6901480f5146b16b595191f7607abcaef031ef.mp4
+-rw-r--r--  1 rawa rawa   202687 Nov 17 22:50 AllCasts2609.txt
+drwxr-xr-x  6 rawa rawa     4096 Sep 17 11:24 apache-maven-3.1.1
+-rw-r--r--  1 rawa rawa 14050392 Nov 29 01:35 b1aa8f528bfab1fd88a4e1e3f4b95c539e3e49fb.mp4
+-rw-r--r--  1 rawa rawa 14152784 Nov 30 17:00 b370889c7bdc12e321f1599706b3e0f96c8cae04.mp4
+-rw-r--r--  1 rawa rawa 13469722 Nov 30 17:49 b667d70ee4475c4da34c9a5bf7bbfaf7bf0fdce1.mp4
+-rw-------  1 rawa rawa    28854 Nov 30 08:27 .bash_history
+-rw-r--r--  1 rawa rawa      220 Oct 26 14:33 .bash_logout
+-rw-r--r--  1 rawa rawa     3184 Oct 26 14:33 .bashrc
+-rw-r--r--  1 rawa rawa 13523499 Nov 30 03:31 c1ee268866489a7275eabd86de16fd4a0868bf67.mp4
+-rw-r--r--  1 rawa rawa 12945003 Nov 30 16:37 c28ee5eca0eb71140923c99a745f2298a90f914e.mp4
+-rw-r--r--  1 rawa rawa 11949527 Nov 30 04:22 d4884dcf9a8b9704e768deb568ac870ddbe873d6.mp4
+-rw-r--r--  1 rawa rawa  6925415 Dec  1 01:04 d626608da2746278bfae2be285be0a521e721532.mp4
+-rw-r--r--  1 rawa rawa        0 Nov 30 00:52 da39a3ee5e6b4b0d3255bfef95601890afd80709.mp4
+-rw-r--r--  1 rawa rawa     1027 Nov 26 02:15 dbIn
+drwxr-xr-x 11 rawa rawa     4096 Nov 26 02:57 DigitalEarth
+drwxr-xr-x  5 rawa rawa     4096 Nov 26 02:57 DigitalPlanet
+-rw-r--r--  1 rawa rawa  1614079 Nov 26 02:16 DigitalPlanet8416.sql
+-rw-r--r--  1 rawa rawa  1232003 Nov 26 02:20 DigitalPlanetDerby8416.zip
+-rw-r--r--  1 rawa rawa  1610691 Oct 25 04:58 DigitalPlanetOne.js
+-rw-r--r--  1 rawa rawa  1613052 Nov 25 23:55 DigitalPlanet.sql
+-rw-r--r--  1 rawa rawa   147814 Nov 25 23:56 DigitalPlanet.zip
+-rw-r--r--  1 rawa rawa 12233909 Dec  1 00:17 ed62fa39be9878304ebf35753fa817caa312d718.mp4
+drwxr-xr-x  3 rawa rawa     4096 Oct 28 02:47 .emacs.d
+-rw-r--r--  1 rawa rawa 13528196 Nov 30 23:34 f4510ffb6eb99699734e235525d7f39aa3c977f7.mp4
+-rw-r--r--  1 rawa rawa 13783021 Nov 29 23:13 fd9c1b9a5afee881c45275e6a45e0a952c107f8a.mp4
+-rw-r--r--  1 rawa rawa       26 Nov  1 17:06 .gitconfig
+drwx------  2 rawa rawa     4096 Nov  4 20:48 .gnupg
+drwxr-xr-x  2 rawa rawa     4096 Nov 11 16:51 grab
+-rw-r--r--  1 rawa rawa  2224128 Nov 30 01:56 iFaH.mp4
+drwxr-xr-x  2 rawa rawa     4096 Nov 18 21:14 JettyLog
+drwxr-xr-x  3 rawa rawa     4096 Oct 28 02:45 .m2
+-rw-r--r--  1 rawa rawa    39750 Nov 17 03:09 mah.jpg
+-rw-r--r--  1 rawa rawa      675 Oct 26 14:33 .profile
+drwxr-xr-x  2 rawa rawa     4096 Nov 26 13:52 screenr
+-rw-r--r--  1 rawa rawa        1 Nov  9 18:10 SpaceFile.txt
+-rw-------  1 rawa rawa     7826 Nov  3 23:13 .sqlite_history
+drwxr-xr-x  3 rawa rawa     4096 Oct 28 03:25 .subversion
+drwxr-xr-x  2 rawa rawa     4096 Nov 25 02:01 TerraDrive
+-rw-r--r--  1 rawa rawa      560 Nov 17 17:48 tessOut.txt
+drwxr-xr-x  9 rawa rawa     4096 Nov 25 03:45 tmp
+drwxr-xr-x 15 rawa rawa     4096 Nov  5 12:19 urbit
+drwxr-xr-x  2 rawa rawa     4096 Oct 29 22:33 .urbit
+rawa@149-190-47-212:~$ ls -al *4
+-rw-r--r-- 1 rawa rawa 15617545 Nov 29 15:06 01be92559d0b445be5237acd6362485bbb51cf37.mp4
+-rw-r--r-- 1 rawa rawa 11498061 Nov 30 18:15 07c7c47d4c4def6f8bb6b20f3bafa02973e27de4.mp4
+-rw-r--r-- 1 rawa rawa 12493847 Nov 30 06:15 08082d06058228953bb61b7ce73a3f433fde0cac.mp4
+-rw-r--r-- 1 rawa rawa 12525109 Nov 29 21:33 094e7f7d2bce6dbcc923674099af0e6241f3311d.mp4
+-rw-r--r-- 1 rawa rawa 14283501 Nov 30 17:24 0a9f0f124f4e8b5da18f16e062e40f962371fa02.mp4
+-rw-r--r-- 1 rawa rawa 13283243 Nov 29 14:41 0c50b602a0788891e93ddb1d9a5bf4942516867f.mp4
+-rw-r--r-- 1 rawa rawa 13691531 Nov 29 23:12 0e6cb6c7dbf3d8c21d58ef9dbf0ea5f7585a8920.mp4
+-rw-r--r-- 1 rawa rawa 13127944 Nov 29 02:23 16b885518b74f281ee53b1ef18511ab2130e42ff.mp4
+-rw-r--r-- 1 rawa rawa 14051705 Nov 30 03:52 1b52058eee7b32b7b41f2f625036311bcda917f5.mp4
+-rw-r--r-- 1 rawa rawa 12070254 Nov 29 01:13 25c24b3548e84a2956776de186d52131b72246a1.mp4
+-rw-r--r-- 1 rawa rawa 15052476 Nov 29 03:15 267d698387392a64a0ab17fc64b9678a04bc2d0f.mp4
+-rw-r--r-- 1 rawa rawa 10759308 Nov 28 21:57 286dfe5108d2883a8baf96f7056747423526c917.mp4
+-rw-r--r-- 1 rawa rawa 15565933 Nov 29 21:13 313f71fa2cb84f447ff3c211198cd5be851b20e6.mp4
+-rw-r--r-- 1 rawa rawa 12042387 Nov 30 18:40 36f834f7f18dd063b90ecfe6d2759b2529e9b002.mp4
+-rw-r--r-- 1 rawa rawa 13372189 Nov 29 01:09 374843965423db24062fd70d7a23895772999daa.mp4
+-rw-r--r-- 1 rawa rawa 15278734 Nov 29 15:28 3d24d9197ba3f2f65383561b5d325dc14ef84de4.mp4
+-rw-r--r-- 1 rawa rawa 15981939 Nov 30 01:56 3f6e2bb02ee4df3c853a64692842be90ffdca49c.mp4
+-rw-r--r-- 1 rawa rawa 13256448 Nov 30 21:39 5103bc7e0d62fd5b98ef98fcef7b11593e3898ed.mp4
+-rw-r--r-- 1 rawa rawa 12261296 Nov 30 19:29 5a5580795c35116eca8a54243dc143a2cb1bccb9.mp4
+-rw-r--r-- 1 rawa rawa 11288135 Dec  1 01:32 605d4aff4aa68a6177cf6a230bbccc1fff25e3fa.mp4
+-rw-r--r-- 1 rawa rawa 14201283 Nov 30 00:53 63f209bf9e7907513ec76930d80a39bddf585354.mp4
+-rw-r--r-- 1 rawa rawa 16718952 Nov 30 16:11 6a4aea01d5fd04cffc9503dec118a50bdccdf279.mp4
+-rw-r--r-- 1 rawa rawa 12518433 Nov 29 21:56 7315d391470a265471a43bb603cf4a38530db78a.mp4
+-rw-r--r-- 1 rawa rawa 12211659 Nov 28 21:35 73d62b5b3dbef5bdf15d0deafd246f69d001b4d4.mp4
+-rw-r--r-- 1 rawa rawa 12121892 Nov 28 23:06 76c701d5a2442ca1b0cc6a6edd664ca1e851441c.mp4
+-rw-r--r-- 1 rawa rawa 13560778 Dec  1 00:13 797d65f7caa947adc4a3744a4b0494611d90f94c.mp4
+-rw-r--r-- 1 rawa rawa 11774026 Nov 30 03:31 7f96d723b70542d66d53b674e65d222cd7ec436e.mp4
+-rw-r--r-- 1 rawa rawa 11961478 Dec  1 00:42 8064f0b2f10d6c41432e5c370669d7bfa281e0aa.mp4
+-rw-r--r-- 1 rawa rawa 13071196 Nov 29 14:17 825b3171390e5e20dc223fd948a73a04def993f1.mp4
+-rw-r--r-- 1 rawa rawa 16107083 Nov 30 05:20 85037d3e7d2837a3568958bc1af38e3740f58293.mp4
+-rw-r--r-- 1 rawa rawa 11578665 Nov 30 02:40 862cb53016359fee3f9303c2db8c9a9effc938a3.mp4
+-rw-r--r-- 1 rawa rawa 13555661 Nov 30 05:50 8da9d3e665c1691b7c94b34519377b070dcc0c00.mp4
+-rw-r--r-- 1 rawa rawa 12159492 Dec  1 01:59 904bd9caaa9b687931d153dfb74978d042570d62.mp4
+-rw-r--r-- 1 rawa rawa 13092570 Nov 30 21:07 97e9fa4370c6181de33bca024141191219e1965b.mp4
+-rw-r--r-- 1 rawa rawa 11176477 Nov 28 07:11 a02cd56e4664b272b6e38c8d688fd515e11c8b10.mp4
+-rw-r--r-- 1 rawa rawa 13620335 Nov 30 02:19 a0cc54cec17b14c2af0ba6a1e69dc29c213e7d1f.mp4
+-rw-r--r-- 1 rawa rawa 13702080 Nov 29 00:51 a1318cc7a8ba224e402c5509346d211d6034cb97.mp4
+-rw-r--r-- 1 rawa rawa 14188662 Nov 30 22:53 a88b2ff2a589587db52bf043d8f81c8b738d81be.mp4
+-rw-r--r-- 1 rawa rawa 15232430 Nov 30 04:46 ac6901480f5146b16b595191f7607abcaef031ef.mp4
+-rw-r--r-- 1 rawa rawa 14050392 Nov 29 01:35 b1aa8f528bfab1fd88a4e1e3f4b95c539e3e49fb.mp4
+-rw-r--r-- 1 rawa rawa 14152784 Nov 30 17:00 b370889c7bdc12e321f1599706b3e0f96c8cae04.mp4
+-rw-r--r-- 1 rawa rawa 13469722 Nov 30 17:49 b667d70ee4475c4da34c9a5bf7bbfaf7bf0fdce1.mp4
+-rw-r--r-- 1 rawa rawa 13523499 Nov 30 03:31 c1ee268866489a7275eabd86de16fd4a0868bf67.mp4
+-rw-r--r-- 1 rawa rawa 12945003 Nov 30 16:37 c28ee5eca0eb71140923c99a745f2298a90f914e.mp4
+-rw-r--r-- 1 rawa rawa 11949527 Nov 30 04:22 d4884dcf9a8b9704e768deb568ac870ddbe873d6.mp4
+-rw-r--r-- 1 rawa rawa  6925415 Dec  1 01:04 d626608da2746278bfae2be285be0a521e721532.mp4
+-rw-r--r-- 1 rawa rawa        0 Nov 30 00:52 da39a3ee5e6b4b0d3255bfef95601890afd80709.mp4
+-rw-r--r-- 1 rawa rawa 12233909 Dec  1 00:17 ed62fa39be9878304ebf35753fa817caa312d718.mp4
+-rw-r--r-- 1 rawa rawa 13528196 Nov 30 23:34 f4510ffb6eb99699734e235525d7f39aa3c977f7.mp4
+-rw-r--r-- 1 rawa rawa 13783021 Nov 29 23:13 fd9c1b9a5afee881c45275e6a45e0a952c107f8a.mp4
+-rw-r--r-- 1 rawa rawa  2224128 Nov 30 01:56 iFaH.mp4
+rawa@149-190-47-212:~$ CAST=iFaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 13.5M  100 13.5M    0     0  2689k      0  0:00:05  0:00:05 --:--:-- 3427k
+||63f209bf9e7907513ec76930d80a39bddf585354||iFaH||
+Looking up  'sl4.eu' first
+   1.385.860.700~608
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385860700
+Sun Dec  1 02:18:20 CET 2013
+rawa@149-190-47-212:~$ pwd
+/home/rawa
+rawa@149-190-47-212:~$ ls -al *4
+-rw-r--r-- 1 rawa rawa 15617545 Nov 29 15:06 01be92559d0b445be5237acd6362485bbb51cf37.mp4
+-rw-r--r-- 1 rawa rawa 11498061 Nov 30 18:15 07c7c47d4c4def6f8bb6b20f3bafa02973e27de4.mp4
+-rw-r--r-- 1 rawa rawa 12493847 Nov 30 06:15 08082d06058228953bb61b7ce73a3f433fde0cac.mp4
+-rw-r--r-- 1 rawa rawa 12525109 Nov 29 21:33 094e7f7d2bce6dbcc923674099af0e6241f3311d.mp4
+-rw-r--r-- 1 rawa rawa 14283501 Nov 30 17:24 0a9f0f124f4e8b5da18f16e062e40f962371fa02.mp4
+-rw-r--r-- 1 rawa rawa 13283243 Nov 29 14:41 0c50b602a0788891e93ddb1d9a5bf4942516867f.mp4
+-rw-r--r-- 1 rawa rawa 13691531 Nov 29 23:12 0e6cb6c7dbf3d8c21d58ef9dbf0ea5f7585a8920.mp4
+-rw-r--r-- 1 rawa rawa 13127944 Nov 29 02:23 16b885518b74f281ee53b1ef18511ab2130e42ff.mp4
+-rw-r--r-- 1 rawa rawa 14051705 Nov 30 03:52 1b52058eee7b32b7b41f2f625036311bcda917f5.mp4
+-rw-r--r-- 1 rawa rawa 12070254 Nov 29 01:13 25c24b3548e84a2956776de186d52131b72246a1.mp4
+-rw-r--r-- 1 rawa rawa 15052476 Nov 29 03:15 267d698387392a64a0ab17fc64b9678a04bc2d0f.mp4
+-rw-r--r-- 1 rawa rawa 10759308 Nov 28 21:57 286dfe5108d2883a8baf96f7056747423526c917.mp4
+-rw-r--r-- 1 rawa rawa 15565933 Nov 29 21:13 313f71fa2cb84f447ff3c211198cd5be851b20e6.mp4
+-rw-r--r-- 1 rawa rawa 12042387 Nov 30 18:40 36f834f7f18dd063b90ecfe6d2759b2529e9b002.mp4
+-rw-r--r-- 1 rawa rawa 13372189 Nov 29 01:09 374843965423db24062fd70d7a23895772999daa.mp4
+-rw-r--r-- 1 rawa rawa 15278734 Nov 29 15:28 3d24d9197ba3f2f65383561b5d325dc14ef84de4.mp4
+-rw-r--r-- 1 rawa rawa 15981939 Nov 30 01:56 3f6e2bb02ee4df3c853a64692842be90ffdca49c.mp4
+-rw-r--r-- 1 rawa rawa 13256448 Nov 30 21:39 5103bc7e0d62fd5b98ef98fcef7b11593e3898ed.mp4
+-rw-r--r-- 1 rawa rawa 12261296 Nov 30 19:29 5a5580795c35116eca8a54243dc143a2cb1bccb9.mp4
+-rw-r--r-- 1 rawa rawa 11288135 Dec  1 01:32 605d4aff4aa68a6177cf6a230bbccc1fff25e3fa.mp4
+-rw-r--r-- 1 rawa rawa 14201283 Dec  1 02:18 63f209bf9e7907513ec76930d80a39bddf585354.mp4
+-rw-r--r-- 1 rawa rawa 16718952 Nov 30 16:11 6a4aea01d5fd04cffc9503dec118a50bdccdf279.mp4
+-rw-r--r-- 1 rawa rawa 12518433 Nov 29 21:56 7315d391470a265471a43bb603cf4a38530db78a.mp4
+-rw-r--r-- 1 rawa rawa 12211659 Nov 28 21:35 73d62b5b3dbef5bdf15d0deafd246f69d001b4d4.mp4
+-rw-r--r-- 1 rawa rawa 12121892 Nov 28 23:06 76c701d5a2442ca1b0cc6a6edd664ca1e851441c.mp4
+-rw-r--r-- 1 rawa rawa 13560778 Dec  1 00:13 797d65f7caa947adc4a3744a4b0494611d90f94c.mp4
+-rw-r--r-- 1 rawa rawa 11774026 Nov 30 03:31 7f96d723b70542d66d53b674e65d222cd7ec436e.mp4
+-rw-r--r-- 1 rawa rawa 11961478 Dec  1 00:42 8064f0b2f10d6c41432e5c370669d7bfa281e0aa.mp4
+-rw-r--r-- 1 rawa rawa 13071196 Nov 29 14:17 825b3171390e5e20dc223fd948a73a04def993f1.mp4
+-rw-r--r-- 1 rawa rawa 16107083 Nov 30 05:20 85037d3e7d2837a3568958bc1af38e3740f58293.mp4
+-rw-r--r-- 1 rawa rawa 11578665 Nov 30 02:40 862cb53016359fee3f9303c2db8c9a9effc938a3.mp4
+-rw-r--r-- 1 rawa rawa 13555661 Nov 30 05:50 8da9d3e665c1691b7c94b34519377b070dcc0c00.mp4
+-rw-r--r-- 1 rawa rawa 12159492 Dec  1 01:59 904bd9caaa9b687931d153dfb74978d042570d62.mp4
+-rw-r--r-- 1 rawa rawa 13092570 Nov 30 21:07 97e9fa4370c6181de33bca024141191219e1965b.mp4
+-rw-r--r-- 1 rawa rawa 11176477 Nov 28 07:11 a02cd56e4664b272b6e38c8d688fd515e11c8b10.mp4
+-rw-r--r-- 1 rawa rawa 13620335 Nov 30 02:19 a0cc54cec17b14c2af0ba6a1e69dc29c213e7d1f.mp4
+-rw-r--r-- 1 rawa rawa 13702080 Nov 29 00:51 a1318cc7a8ba224e402c5509346d211d6034cb97.mp4
+-rw-r--r-- 1 rawa rawa 14188662 Nov 30 22:53 a88b2ff2a589587db52bf043d8f81c8b738d81be.mp4
+-rw-r--r-- 1 rawa rawa 15232430 Nov 30 04:46 ac6901480f5146b16b595191f7607abcaef031ef.mp4
+-rw-r--r-- 1 rawa rawa 14050392 Nov 29 01:35 b1aa8f528bfab1fd88a4e1e3f4b95c539e3e49fb.mp4
+-rw-r--r-- 1 rawa rawa 14152784 Nov 30 17:00 b370889c7bdc12e321f1599706b3e0f96c8cae04.mp4
+-rw-r--r-- 1 rawa rawa 13469722 Nov 30 17:49 b667d70ee4475c4da34c9a5bf7bbfaf7bf0fdce1.mp4
+-rw-r--r-- 1 rawa rawa 13523499 Nov 30 03:31 c1ee268866489a7275eabd86de16fd4a0868bf67.mp4
+-rw-r--r-- 1 rawa rawa 12945003 Nov 30 16:37 c28ee5eca0eb71140923c99a745f2298a90f914e.mp4
+-rw-r--r-- 1 rawa rawa 11949527 Nov 30 04:22 d4884dcf9a8b9704e768deb568ac870ddbe873d6.mp4
+-rw-r--r-- 1 rawa rawa  6925415 Dec  1 01:04 d626608da2746278bfae2be285be0a521e721532.mp4
+-rw-r--r-- 1 rawa rawa        0 Nov 30 00:52 da39a3ee5e6b4b0d3255bfef95601890afd80709.mp4
+-rw-r--r-- 1 rawa rawa 12233909 Dec  1 00:17 ed62fa39be9878304ebf35753fa817caa312d718.mp4
+-rw-r--r-- 1 rawa rawa 13528196 Nov 30 23:34 f4510ffb6eb99699734e235525d7f39aa3c977f7.mp4
+-rw-r--r-- 1 rawa rawa 13783021 Nov 29 23:13 fd9c1b9a5afee881c45275e6a45e0a952c107f8a.mp4
+rawa@149-190-47-212:~$ CAST=iFaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 13.5M  100 13.5M    0     0  3576k      0  0:00:03  0:00:03 --:--:-- 3719k
+||63f209bf9e7907513ec76930d80a39bddf585354||iFaH||
+Looking up  'sl4.eu' first
+   1.385.860.977~502
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385860978
+Sun Dec  1 02:22:58 CET 2013
+rawa@149-190-47-212:~$ CAST=BQaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 11.3M  100 11.3M    0     0  2922k      0  0:00:03  0:00:03 --:--:-- 3040k
+||ffe85724daf7ec29eb0d724cd3c96620e17b88eb||BQaH||
+Looking up  'sl4.eu' first
+   1.385.861.092~216
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385861092
+Sun Dec  1 02:24:52 CET 2013
+rawa@149-190-47-212:~$ CAST=AQaH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "||$sha||$CAST||"; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 12.1M  100 12.1M    0     0  2114k      0  0:00:05  0:00:05 --:--:-- 2622k
+||83a8bd3a8a31c87c8fc09585baee8e6c8722f407||AQaH||
+Looking up  'sl4.eu' first
+   1.385.862.579~905
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1385862580
+Sun Dec  1 02:49:40 CET 2013
+rawa@149-190-47-212:~$

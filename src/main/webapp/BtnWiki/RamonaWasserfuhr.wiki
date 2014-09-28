@@ -1,0 +1,5 @@
+ * InspiredBy: RamonaKurzweil
+
+DigitalTwin of RainerWasserfuhr at AiGame
+
+https://bigtablenomic.googlecode.com/files/RamonaWasserfuhr.png

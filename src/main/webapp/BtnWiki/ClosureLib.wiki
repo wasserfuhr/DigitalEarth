@@ -1,0 +1,4 @@
+https://en.wikipedia.org/wiki/Google_Closure_Tools#Closure_Library
+
+http://closure-library.googlecode.com/svn/trunk/closure/goog/demos/graphics/basicelements.html
+http://closure-library.googlecode.com/svn/trunk/closure/goog/demos/graphics/modifyelements.html

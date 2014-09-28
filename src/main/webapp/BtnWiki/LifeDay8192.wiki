@@ -1,0 +1,6 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay8193 « 1991-10-31 » LifeDay8191
+
+BodyPath: KayTown?
+
+http://www.wolframalpha.com/input/?i=8191+days+after+1969-05-28

@@ -1,0 +1,3 @@
+http://martinfowler.com/articles/lmax.html
+
+inspiration for high ThoughtsPerSecond

@@ -1,0 +1,3 @@
+ * IsA: EnterPrise
+ * IsIn: US5801351017
+ * WikiPedia: https://en.wikipedia.org/wiki/McDonald%27s

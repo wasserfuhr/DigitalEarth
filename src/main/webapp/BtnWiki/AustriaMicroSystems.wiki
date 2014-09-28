@@ -1,0 +1,7 @@
+ * IsA: EnterPrise
+ * IsIn: AT0000920863
+ * MindOne: JohnHeugle
+
+https://en.wikipedia.org/wiki/Austriamicrosystems
+
+largest ChipFab in OesterReich?: http://www.openstreetmap.org/?lat=46.97726&lon=15.39424&zoom=17

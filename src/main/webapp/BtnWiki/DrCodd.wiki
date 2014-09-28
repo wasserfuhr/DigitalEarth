@@ -1,0 +1,7 @@
+
+
+doi: 10.1145/362384.362685
+
+DBLP:journals/cacm/Codd70
+
+http://dblp.uni-trier.de/rec/bibtex/journals/cacm/Codd70

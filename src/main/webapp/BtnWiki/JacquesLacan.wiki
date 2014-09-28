@@ -1,0 +1,8 @@
+ * IsA: PerSon
+ * HasSex: ♂
+ * BornIn: 1901
+ * BirthDay: 04-13
+ * DiedIn: 1981
+ * InterWiki: [WikiPedia:Jacques_Lacan]
+
+IsA ProFessor?

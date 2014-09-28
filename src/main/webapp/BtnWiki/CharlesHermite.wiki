@@ -1,0 +1,5 @@
+ * IsA: ProFessor
+ * BornIn: 1822
+ * BirthDay: 12-24
+ * DiedIn: 1901
+ * WikiPedia: https://en.wikipedia.org/wiki/Charles_Hermite

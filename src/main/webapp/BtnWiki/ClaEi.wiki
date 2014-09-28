@@ -1,0 +1,4 @@
+ * IsA: PowerWoman
+ * BornIn: 1961
+ * BirthDay: 09-23
+ * MarriedTo: WaltEich

@@ -1,0 +1,15 @@
+This is an intro to BigTableNomic for people familiar with TwitterNomic:
+
+First, what's similar:
+ * It has a set of rules that can be edited by the players
+ * a WebBrowser is almost anything you need
+
+What's different:
+ * There is no goal for "winning" BigTableNomic
+ * The goal of BigTableNomic is to create an InfiniteGame (as FiniteAndInfiniteGames by JamesCarse).
+ * There is nothing like a "move". You can do an unlimited number of actions almost at any time.
+ * we try to keep the interference with physical boundaries as minimal as possible (currently with RainerWasserfuhr as SysAdmin, and additionally also de facto: GoogleInc as the operator of the physical InfraStructure)
+ * with the idea of an InfiniteGame in mind, 
+
+
+New variants of BigTableNomic might be forked at any time.

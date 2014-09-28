@@ -1,0 +1,3 @@
+ * IsA: PerSon
+ * BirthDay: 06-24
+ * WikiPedia: https://en.wikipedia.org/wiki/HA_Schult

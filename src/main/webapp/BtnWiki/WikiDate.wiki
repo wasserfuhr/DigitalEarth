@@ -1,0 +1,10 @@
+If you want to meet a BlueBelt expert, you have to schedule a meeting via WikiLender.
+You have to be OnTime. If you are more than 8 minutes late, the WikiDate is canceled.
+
+Under special circumstances, you can arrange a deviating OnTime-tolerance with RaWa:
+ * sharp-0: 2^0 minutes = 1min
+ * sharp-1: 2^1 minutes = 2min
+ * sharp-2: 2^2 minutes = 4min
+ * *sharp-3: 2^3 minutes = 8min* (default!)
+ * sharp-4: 2^4 minutes = 16min
+ * sharp-5: 2^5 minutes = 32min

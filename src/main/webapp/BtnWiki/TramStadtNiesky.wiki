@@ -1,0 +1,3 @@
+ * IsA: TriebWagen
+ * NamedAfter: StadtNiesky
+ * TramId: 2824 

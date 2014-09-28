@@ -1,0 +1,3 @@
+ * IsA: EnterPrise
+ * WikiPedia: https://en.wikipedia.org/wiki/Analog_Devices
+ * IsIn: US0326541051

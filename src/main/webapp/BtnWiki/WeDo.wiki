@@ -1,0 +1,17 @@
+MustDo:
+ * DaiLy
+ * FbNot
+ * LifeDay
+ * UniVerse
+ * GoogleMail
+ * GoogleWiki
+ * ProjectMatrix
+ * NextBirthdays
+ * WikiLender2014
+ * ResultsForDresden
+
+CanDo:
+ * CbYs FinYa GooglePlus LinkedIn LoveMachine PlomWiki PuppQueue SingularityMind UrbitDev WebSeitz 
+ * XingLe: https://www.xing.com/app/search?op=list&type=3
+ * WikiPedia: https://en.wikipedia.org/w/index.php?title=Special:Watchlist&days=0
+ * DeWikiPedia: https://de.wikipedia.org/w/index.php?title=Spezial:Beobachtungsliste&days=0

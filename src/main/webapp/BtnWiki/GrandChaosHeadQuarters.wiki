@@ -1,0 +1,3 @@
+ * IsA: HackerSpace
+ * HomePage: http://c3d2.de/space.html
+ * OperatedBy: CccDd

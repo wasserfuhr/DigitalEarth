@@ -1,0 +1,6 @@
+ * IsA: MindPlace
+ * FourSquare: https://foursquare.com/mobile/v/traumwohnung/4f2dc9750cd6935ef5087754
+ * PartOf: WeimarischStrasse
+ * OpenStreetMap: https://www.openstreetmap.org/?mlat=51.0738&mlon=13.7298&zoom=16
+
+[{Image src='https://bigtablenomic.googlecode.com/files/TraumWohnungFloorPlan.png'}]

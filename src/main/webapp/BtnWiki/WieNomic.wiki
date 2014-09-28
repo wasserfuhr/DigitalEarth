@@ -1,0 +1,13 @@
+FelixAustria! A SpielRegelSpiel started in the StadtWien.
+
+RuleSet
+ * TrueMan ist hetero-MonoGam zu ClaDa solange seine KleineWeltReise einen HaltingState in FloridsDorf macht
+ * Mindestens jeder vierte von ClaDa ausgesprochene Satz muss einen PageName enthalten
+ * RegelAenderung
+ * Jede SpielRegel kann geändert werden. Jede Änderung tritt binnen 48h in Kraft
+ * Widerspricht ein Spieler einer Änderung, entscheidet die absolute Mehrheit der UnterZeichner, ob die Änderung WirkSam wird
+
+UnterZeichner:
+ * RaWa
+
+BrainStorm: BlueBelt EinkaufsZettel GranPadano LagenFrage LochCoupon MuellTrennung VtZm ZehenTrenner ZugewinnGemeinschaft DeckelFrage

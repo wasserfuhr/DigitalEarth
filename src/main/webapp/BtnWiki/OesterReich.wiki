@@ -1,0 +1,21 @@
+http://sl4.eu/wiki/OesterReich
+
+BuergerInnen: OesterReicher
+
+https://plus.google.com/104902405791729007647/posts/iaEf2sT9fiD :
+ # StadtWien
+ # StadtGraz
+ # StadtLinz
+ # SalzBurg
+ # InnsBruck
+
+AtBundesLand:
+ # StadtWien
+ # NiederOesterreich
+ # OberOesterreich
+ # SteierMark
+ # LandTirol
+ # LandKaernten
+ # SalzBurg
+ # VorArlberg
+ # BurgenLand

@@ -1,0 +1,27 @@
+ * HomePage: http://sl4.eu/SingularDresden
+
+Im LockSchuppen wird ein StadtModell der StadtDresden im MassStab von 1:4096 entstehen. Die GesamtFlaeche wird im Endausbau rund 512 qm betragen.
+
+WorkingBackwards: SingularPresseMitteilung
+
+- A thrilling ShowCase for the upcoming ThreeDimPrint-Revolution -
+
+Der ElbeRiver mit echtem fliessenden Wasser kann zu sehen sein.
+
+Im Zentrum aber steht »TramSim«, die vollständige EchtZeit-Simulation aller StrassenBahn'en der DvbAg. Eine StrassenBahn wie die 45 Meter lange "TramStadtNiesky" wird etwa 1cm lang und 0,5mm breit sein, gefertigt per LaserCutter und RepRap-Drucker.
+
+Dadurch definiert sich automatisch auch schon die BoundingBox von etwa 25x25km von WeinBoehla (LinieVier) im NordWesten bis KleinZschachwitz und NiederSedlitz (LinieSechs) im SuedOsten.
+Dadurch sind auch wichtige LandMark's in den Randgebieten der StadtDresden eingeschlossen wie etwa FabOne DresdenAirport SchlossPillnitz SchlossMoritzburg oder HausBecker.
+Insbesondere für FabOne ist eine detailgetreue Simulation der dortigen hoch-ComPlex'en HalbLeiter-Fertigung geplant. Und falls die WiderErwarten bis AnnoDomini2014 noch keine TransparentFab haben, dann eben bei InfinEon oder in der GarageFab von ThomasMikolajick.
+
+NextAction: print a first LockSchuppen3D at ShapeWays
+
+https://en.wikipedia.org/wiki/Rail_transport_modelling_scales
+
+LockSchuppen: https://maps.google.com/maps?hl=en&ll=51.06697,13.740903&t=h&z=18
+
+LinieVier: http://www.openstreetmap.org/browse/relation/1895464
+
+BoundingBox for ElbeRiver: http://www.openstreetmap.org/?mlat=51.07&mlon=13.782&zoom=11&relation=123822
+
+https://docs.google.com/spreadsheet/ccc?key=0AvYyw98J1TVidFdacHprYUJ1QnQwYk96TkxGc2o0blE

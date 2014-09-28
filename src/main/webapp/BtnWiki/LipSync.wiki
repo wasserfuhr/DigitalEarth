@@ -1,0 +1,5 @@
+ * WikiPedia: https://en.wikipedia.org/wiki/Lip_sync
+
+interesting: http://minyos.its.rmit.edu.au/aim/a_notes/anim_lipsync.html
+
+#RainerTest

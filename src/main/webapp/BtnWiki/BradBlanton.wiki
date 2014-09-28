@@ -1,0 +1,3 @@
+ * IsA: PerSon
+ * WikiPedia: https://en.wikipedia.org/wiki/Brad_Blanton
+ * BirthDay: 09-04

@@ -1,0 +1,9 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16055 « 2013-05-10 » LifeDay16053
+ * HaTa: RinKa MichaelHunger ThomasTemplin
+ * BodyPath: LinguSphere SachsenAllee LinieSechs AlaunStrasse BuchBar H:LouisenStrasse DvbTram2626 PostPlatz DvbTram2628 H:BuSt TrWo LoebiNetto TrWo
+ * CurrentProject: SingularDresden
+
+MeMo: LockSchuppen ZedCorp KickStarter
+
+LinieSechs: DvbTram2841?

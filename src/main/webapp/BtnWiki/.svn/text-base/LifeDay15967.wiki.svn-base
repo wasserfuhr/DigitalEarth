@@ -1,0 +1,28 @@
+ * IsA : LifeDay
+ * RaWa : LifeDay15968 « 2013-02-12 » LifeDay15966
+
+https://en.wikipedia.org/wiki/Ejaculation
+http://www.finya.de/Messages/thread/2249834/?view=0
+https://de.wikipedia.org/wiki/Wanderhure
+http://www.titel-magazin.de/artikel/5/9628.html
+http://www.youtube.com/watch?v=lnmqAUP0M6g
+http://nachrichten.finanztreff.de/ftreff2/news_news.htn?id=7672414
+http://www.tagesspiegel.de/berlin/protest-in-berlin-von-konstruktiv-bis-radikal/4893326.html
+http://cb.hbsp.harvard.edu/cb/product/708033-PDF-ENG
+http://www.flickr.com/photos/ville-monkey/5161455967/
+https://www.facebook.com/NSACareers/posts/10150440314459358
+http://www.slideshare.net/kummerufer/implementing-the-wiki-way-in-a-course-in-higher-education
+http://www.mdr.de/sachsen/leipzig/sachsenlb100.html
+http://www.korokithakis.net/posts/app-engine-pricing-changes-revisited/
+http://www.globalfoundries.com/newsroom/2011/20110826.aspx
+http://fab8update.files.wordpress.com/2011/07/fab8-above-view.jpg
+http://en.wikipedia.org/wiki/Mead_%26_Conway_revolution
+javascript:function albud(){var WikiPrefix='http://unpartei.wikispaces.com/';var DebategraphPrefix='http://debategraph.org/';var DesporaPrefix='https://despora.de/tags/';var GooglePrefix='http://google.com/search?q=';var textNodeXpath='.//text()[not(ancestor::a) and not(ancestor::head)and not(ancestor::option) and not(ancestor::textarea)]';var textNodes=document.evaluate(textNodeXpath,document,null,XPathResult.UNORDERED_NODE_SNAPSHOT_TYPE,null);var len=textNodes.snapshotLength;var reg=/^\s+$/g;var linkpatt=/\b(?:([a-z0-9]*[A-Z][a-z0-9]*){2,})\b|#\w+\b/g;for(var i=0;i<len;i++){var node=textNodes.snapshotItem(i);var txt=node.nodeValue;txt=txt.replace(reg,'');if(linkpatt.test(txt)){var span=document.createElement('span');var lastLastIndex=0;linkpatt.lastIndex=0;try{while(myArray=linkpatt.exec(txt)){var link=myArray[0];span.appendChild(document.createTextNode(txt.substring(lastLastIndex,myArray.index)));lastLastIndex=linkpatt.lastIndex;var linkText=myArray[1];var link=myArray[0];var llen=link.length;if(link.substring(0,2)==''&&link.substring(llen-2,llen)==''){link=link.substring(2,llen-2);}var href;if(link.charAt(0)=='#'){href=DesporaPrefix+link.substring(1,llen);}else href=WikiPrefix+link;var a=document.createElement('a');a.setAttribute('href',href);a.appendChild(document.createTextNode(link));span.appendChild(a);if(link.charAt(0)=='#')link=link.substring(1,llen);href=GooglePrefix+link;var b=document.createElement('a');b.setAttribute('href',href);b.appendChild(document.createTextNode(' %C2%B0 '));span.appendChild(b);}span.appendChild(document.createTextNode(txt.substring(lastLastIndex)));node.parentNode.replaceChild(span,node);}catch(e){alert(e);}}}}albud()
+http://eu.techcrunch.com/2011/08/08/how-blackberry-not-twitter-fuelled-the-fire-under-londons-riots/
+http://spanish.martinvarsavsky.net/general/%C2%BFdonde-esta-el-futuro-que-me-prometieron.html
+http://www.sz-online.de/nachrichten/artikel.asp?id=2823318
+http://mspr0.de/?p=2350
+http://autismuskritik.twoday.net/stories/assoziation-zum-massaker-in-norwegen/
+javascript:(function(){f='http://www.delicious.com/save?url='+encodeURIComponent(window.location.href)+'&title='+encodeURIComponent(document.title)+'&v=5&';a=function(){if(!window.open(f+'noui=1&jump=doclose','deliciousuiv5','location=yes,links=no,scrollbars=no,toolbar=no,width=550,height=550'))location.href=f+'jump=yes'};if(/Firefox/.test(navigator.userAgent)){setTimeout(a,0)}else{a()}})()
+
+#RaKu

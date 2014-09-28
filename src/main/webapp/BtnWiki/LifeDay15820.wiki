@@ -1,0 +1,9 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay15821 « 2012-09-18 » LifeDay15819
+
+Ziel des Spiels ist, ein möglichst genaues AbBild der WirkLich'keit zu schaffen.
+AnFang'en werden wir mit einer weltweiten AirPort-Simulation.
+Als Spieler erhälst Du ein betanktes FlugZeug, und zwar die legendäre AirJimbo42, mit immerhin schon 256 Sitzen.
+Dann wählst Du Deinen Start-AirPort.  Auf der Karte siehst Du, wo die FlugZeug'e Deiner Mitspieler sind und im PassengerDemand, wieviele Passagiere wohin fliegen wollen.
+
+mind 2 JumboJet. Kirche Berg SpaceTravel EnErgie Ironie #WahrTraum

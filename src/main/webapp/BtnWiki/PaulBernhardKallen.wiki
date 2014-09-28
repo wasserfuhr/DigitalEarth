@@ -1,0 +1,4 @@
+ * IsA: TopManager
+ * BirthDay: 02-17
+ * DeWikiPedia: https://de.wikipedia.org/wiki/Paul-Bernhard_Kallen
+ * TriBy: TenBigLessons

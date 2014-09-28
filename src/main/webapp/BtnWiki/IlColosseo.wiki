@@ -1,0 +1,5 @@
+ * IsA: LandMark
+ * PartOf: EurOpa
+ * WikiPedia: https://en.wikipedia.org/wiki/Colosseum
+
+PartOf RoMa?

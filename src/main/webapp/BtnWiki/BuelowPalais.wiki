@@ -1,0 +1,5 @@
+ * IsA: MindHotel
+ * HomePage: http://www.buelow-palais.de/
+ * ConNect: KoenigStrasse
+ * OpenStreetMap: https://www.openstreetmap.org/relation/3160582
+ * MindOne: RalfKutzner

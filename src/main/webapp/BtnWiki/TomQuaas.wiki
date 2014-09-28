@@ -1,0 +1,3 @@
+ * IsA: PerSon
+ * BirthDay: 07-05
+ * DeWikiPedia: https://de.wikipedia.org/wiki/Tom_Quaas

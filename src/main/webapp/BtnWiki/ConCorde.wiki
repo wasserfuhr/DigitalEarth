@@ -1,0 +1,3 @@
+ * EtymoLogia: from concors (“of the same mind, agreeing”); con- + cor, cordis (“heart”).
+ * EtymoLogiaSource: https://en.wiktionary.org/wiki/concord#Etymology_1
+ * WikiPedia: https://en.wikipedia.org/wiki/Concorde

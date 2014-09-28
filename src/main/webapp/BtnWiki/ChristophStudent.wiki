@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * DeWikiPedia: https://de.wikipedia.org/wiki/Christoph_Student
+ * BornIn: 1942
+ * TriBy: https://www.facebook.com/RainerWasserfuhr/posts/173002939507193?comment_id=500851

@@ -1,0 +1,4 @@
+ * IsA: PublicFigure
+ * WikiPedia: [https://en.wikipedia.org/wiki/Madonna_(entertainer)]
+ * BirthDay: 08-16 
+ * BornIn: 1958

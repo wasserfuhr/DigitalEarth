@@ -1,0 +1,11 @@
+ * IsA: MindBook
+ * IsBn:  978-3540237334
+
+http://www.springer.com/computer/ai/book/978-3-540-23733-4
+
+http://books.google.com/books?id=ZRKMsqOIv60C
+
+Editors: BenGoetzel CassioPennachin
+
+Chapters:
+ PeiWang PeterVoss HugoDeGaris MarcusHutter JuergenSchmidthuber ElizierYudkowsky

@@ -1,0 +1,4 @@
+ * IsA: ProFessor
+ * HasTalked: RaLi
+ * WorkFor TuChemnitz
+ * HomePage: http://www.leichtbau.tu-chemnitz.de/leitung.php

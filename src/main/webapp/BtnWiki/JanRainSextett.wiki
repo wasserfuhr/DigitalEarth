@@ -1,0 +1,11 @@
+http://www.janrain.com/products/engage/engage-introduction
+
+SingleSignOn via SocialNetwork via JanRain widget:
+ * FaceBook
+ * GooglePlus
+ * TwittEr
+ * LinkedIn
+ * YaHoo
+ * OpenId
+
+of course not (yet?): XingLe #LateAdopter

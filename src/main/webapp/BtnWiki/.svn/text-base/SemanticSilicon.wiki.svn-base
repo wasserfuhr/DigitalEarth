@@ -1,0 +1,19 @@
+Das von MindBroker entwickelte Produkt ist im kern
+eine SemanticWeb basierte KnowledgeBase,
+die als fundament fuer einen CognitiveComputing MicroChip dient.
+
+Die KnowledgeBase besteht aus einen MindKernel:
+ * BodyText MindEvent MindPattern MindPlace MindProps PageContent PageName PerSon ReVision WikiPage
+
+Ensures RuleSet
+ * OntoLogy: MindPattern > PerSon
+ * whenever a WikiPage has an "IsA" MindProp, it is distinct from any other 
+
+The ensure auditable ReVision history, we always serialize each MindProp into a WikiPage. Each version expands into a TripleSpace that is validated by an InFer'ence engine.
+
+UnTil2014: 28nm on a 300mm MindWafer: 
+1 nm - 10mm: 1 0.7m^2
+
+
+
+BrainStorm: MindWafer OpenCyc

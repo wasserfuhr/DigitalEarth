@@ -1,0 +1,5 @@
+ * IsA: EnterPrise
+ * IsIn: DE000CLS1001
+ * InterWiki: [WikiPedia:Celesio]
+ * FoundedBy: FranzLudwigGehe
+ * MindOne: MarionHelmes

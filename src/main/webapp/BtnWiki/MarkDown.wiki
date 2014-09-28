@@ -1,0 +1,3 @@
+http://en.wikipedia.org/wiki/Markdown
+
+PlainText SynTax WikiTax

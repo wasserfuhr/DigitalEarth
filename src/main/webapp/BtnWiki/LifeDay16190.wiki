@@ -1,0 +1,9 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16191 « 2013-09-23 » LifeDay16189
+ * OneMonthAgo: LifeDay16160
+ * OneYearAgo: LifeDay15825
+ * HappyBirthday: 
+ * HasSeen: 
+ * BoPa: TrWo:1400
+ * CurrentProject: RainerTest DigitalEarth
+ * HoTo: 

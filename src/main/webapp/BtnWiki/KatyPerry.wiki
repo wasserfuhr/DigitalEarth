@@ -1,0 +1,4 @@
+ * IsA: PowerWoman
+ * BirthDay: 10-25
+ * WikiPedia: https://en.wikipedia.org/wiki/Katy_Perry
+ * TriBy: http://twittercounter.com/pages/100

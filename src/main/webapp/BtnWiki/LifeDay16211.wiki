@@ -1,0 +1,9 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16212 « 2013-10-14 » LifeDay16210
+ * OneMonthAgo: LifeDay16181
+ * OneYearAgo: LifeDay15846
+ * HappyBirthday: 
+ * RevNum: r19xxx
+ * BoPa: TrWo LoebiSpaeti TrWo
+ * CurrentProject: RainerTest DigitalEarth
+ * WahrTraum: BaOb MiOb kaese

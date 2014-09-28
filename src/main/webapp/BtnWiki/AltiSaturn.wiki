@@ -1,0 +1,6 @@
+ * IsA: MindShop
+ * PartOf: AltmarktGalerie
+ * OpenStreetMap: https://www.openstreetmap.org/node/1550380504
+ * HomePage: http://www.saturn.de/mcs/marketinfo/Saturn-Dresden-Altmarkt-Galerie,17302,-3.html
+
+MonikaMendorff RalfMarggraf

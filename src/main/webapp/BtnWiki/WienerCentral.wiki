@@ -1,0 +1,5 @@
+ * PartOf: PalaisFerstel
+ * OpenStreetMap: http://www.openstreetmap.org/browse/node/319734659
+ * HomePage: http://www.palaisevents.at/cafecentral/
+
+https://en.wikipedia.org/wiki/Caf%C3%A9_Central

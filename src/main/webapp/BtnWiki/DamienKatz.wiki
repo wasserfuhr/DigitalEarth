@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * HomePage: http://damienkatz.net/
+
+CouchDb

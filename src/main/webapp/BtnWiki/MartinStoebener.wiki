@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * FaceBook: https://www.facebook.com/martin.stoebener
+ * KasimirNummer: 2
+ * WorkFor: DaimlerAg

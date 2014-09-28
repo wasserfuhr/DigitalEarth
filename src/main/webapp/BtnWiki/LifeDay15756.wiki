@@ -1,0 +1,38 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay15757 « 2012-07-16 » LifeDay15755
+ * OmAg: LifeDay15726
+ * OyAg: LifeDay15391
+
+WolframAlpha:
+ * days between 1969-05-28 and 1969-05-29: 1
+ * days between 1969-05-28 and 2012-07-16: 15755
+
+so 2012-07-16 should be LifeDay15756.
+
+between 1969 and 2012: 11x LeapYear
+
+between 05-28 and 07-17: 3 days of may + 30 days of june + 16 days of july= 49
+
+365*43 + 11 = 15706
+
+365*43 + 11 + 49= 15755
+
+LifeDay1= BirthDay = DayOne = 1969-05-28
+LifeDay4= 1969-05-31
+LifeDay5= 1969-06-01
+LifeDay35= 1969-07-01
+LifeDay50= 1969-07-16
+LifeDay51= 1969-07-17
+LifeDay366= 1970-05-28
+LifeDay415= 1970-07-16
+LifeDay416= 1970-07-17
+LifeDay15707= 2012-05-28
+LifeDay15710= 2012-05-31
+LifeDay15711= 2012-06-01
+LifeDay15741= 2012-07-01
+LifeDay15756= 2012-07-16
+LifeDay15767= 2012-07-27
+LifeDay15772= 2012-08-01
+LifeDay15786= 2012-08-15
+LifeDay16384= 2014-04-05
+LifeDay32768= 2059-02-12

@@ -1,0 +1,3 @@
+ * IsA: MindBuilding
+ * PartOf: HtwDresden
+ * OpenStreetMap: http://www.openstreetmap.org/relation/2860844

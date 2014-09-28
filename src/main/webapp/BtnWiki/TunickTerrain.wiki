@@ -1,0 +1,3 @@
+ * IsA: MindPlace
+ * NamedAfter: SpencerTunick
+ * NearBy: EselNest

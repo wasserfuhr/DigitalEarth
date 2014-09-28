@@ -1,0 +1,2 @@
+ * IsA: EventSeries
+ * TriBy: https://www.facebook.com/RainerWasserfuhr/posts/10151502922869037?notif_t=share_wall_create

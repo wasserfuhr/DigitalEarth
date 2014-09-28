@@ -1,0 +1,7 @@
+ * HomePage: http://www.schillmania.com/projects/soundmanager2/
+
+by ScottSchiller
+
+JavaScript sounds
+
+also used at LoveMachine

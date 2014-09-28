@@ -1,0 +1,6 @@
+ * IsA: PerSon
+ * BornIn: 1933
+ * BirthDay: 01-20
+ * InterWiki: [DeWikiPedia:Joachim_John]
+
+#JoHo

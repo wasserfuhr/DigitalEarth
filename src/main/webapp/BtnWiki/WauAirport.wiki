@@ -1,0 +1,3 @@
+ * IsA: AirPort
+ * WikiPedia: https://en.wikipedia.org/wiki/Wau_Airport
+ * IaTa: WUU

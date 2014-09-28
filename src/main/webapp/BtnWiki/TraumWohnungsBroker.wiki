@@ -1,0 +1,9 @@
+SingularSchloss
+
+||||RentId||
+||WarmMiete||
+||Provision||
+||Kueche||
+||Couch||
+||KleiderSchrank||
+||WaschMaschine||

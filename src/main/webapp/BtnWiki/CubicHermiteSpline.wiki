@@ -1,0 +1,2 @@
+ * NamedAfter: CharlesHermite
+ * WikiPedia: https://en.wikipedia.org/wiki/Cubic_Hermite_spline

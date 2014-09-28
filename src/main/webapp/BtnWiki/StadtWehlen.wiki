@@ -1,0 +1,4 @@
+ * IsA: MindCity
+ * PartOf: SaxonSwiss
+ * WikiPedia: https://en.wikipedia.org/wiki/Stadt_Wehlen
+ * MindOne: KlausTittel

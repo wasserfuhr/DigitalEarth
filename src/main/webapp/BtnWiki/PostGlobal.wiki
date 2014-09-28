@@ -1,0 +1,5 @@
+InVest: ArmChair BigScreen
+
+LaserFocus: BigTableNomic WikiWall
+
+TheGoal: BreakEven with TraumFirma UnTil 2011-12-31

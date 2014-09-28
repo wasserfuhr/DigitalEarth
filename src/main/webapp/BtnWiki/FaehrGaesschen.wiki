@@ -1,0 +1,4 @@
+ * IsA: MindStreet
+ * ConNect: SchillerPlatz
+
+http://www.openstreetmap.org/browse/way/27047886

@@ -1,0 +1,3 @@
+ * Parallel zur NooSphere gibt es ein SchattenBuch, das AnFang's in EngLish geschrieben wird. Das AiBook soll als AngriffsPunkt an die WissenSchaft dienen.
+Während die NooSphere in der GeekHierarchy auf NerdLevel herunter geht, kann sich das  AiBook ganz bewusst an Leser wenden, die
+AbsTra'ktion nicht nur schätzen, sondern aktiv suchen.

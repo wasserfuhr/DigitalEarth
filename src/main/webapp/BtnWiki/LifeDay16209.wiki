@@ -1,0 +1,8 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16210 « 2013-10-12 » LifeDay16208
+ * OneMonthAgo: LifeDay16179
+ * OneYearAgo: LifeDay15844
+ * HappyBirthday: PaulOtellini
+ * RevNum: r19213
+ * BoPa: TrWo LoebiRewe:2157 TrWo
+ * CurrentProject: RainerTest DigitalEarth

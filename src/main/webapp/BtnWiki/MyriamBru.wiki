@@ -1,0 +1,7 @@
+ * IsA: PowerWoman
+ * BirthDay: 04-20
+ * WikiPedia: https://en.wikipedia.org/wiki/Myriam_Bru
+ * MarriedTo: HorstBuchholz
+ * TriBy: OuTa
+
+not PerDu

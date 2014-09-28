@@ -1,0 +1,29 @@
+ * IsA: BetriebsWiki
+ * HomePage: https://wiki.google.com/
+ * TheMission: a SuperWiki with PagePlan and SingularCentre
+ * MindQuote: "ThisCompanyIsBuiltOnWikis" - ShashiSeth at WikiSym AnDo2005
+
+AiGore AstroTeller BioGlas BrinPalast CharlesJo CrisisResponse DigitalEarth ExPo2023 ForbesList GbDt GeMail GoogleArt GoogleBall GoogleBank GoogleBike GoogleCat GoogleDent GoogleDns GoogleDoodle GoogleDresdenLabs GoogleExpo GoogleFab GoogleFiber GoogleGlass GoogleGrass GoogleHarvest GoogleHealthPro GoogleInc GoogleJet GoogleLion GoogleLoon GoogleLoop GoogleLove GoogleMan GoogleNation GoogleNow GoogleOrg GooglePad GoogleParty GoogleRail GoogleResearch GoogleRetina GoogleShip GoogleSmart GoogleSpaceTower GoogleTango GoogleUn GoogleWater GoogleWikiWall GoogleWings HrTalent KoRil LarryUndSergey LidarParty LongBetOne MindWiki MyPortfolio PageBunny PageNumber PeopleOps ProJectOmega PutinVsKasparov RainerAtRay RainerInAmerika RainerTest SeaNation SemperLust SingularRoadMap SingularValley SpaceCity TeslaTango TransparentMan UberGoogle WeinFest WikiWall WimmelStadt YtAi
+
+NextBirthdays:
+||03-31||AlGore||
+||03-26||LaPa||
+||04-27||ErSc||
+||05-12||StefanKeuchel||
+||05-14||SebastianThrun||
+||05-29||AstroTeller||
+||05-30||MarMa||
+||06-21||TiBra||
+||06-23||VintCerf||
+||06-29||JohnDoerr||
+||07-27||DemisHassabis||
+||08-21||SergeyBrin||
+||09-17||ShirleyTilghman||
+||10-12||PaulOtellini||
+||11-24||JaredCohen||
+||12-14||PeNo||
+||02-12||RaKu||
+||02-24||TeWi||
+||02-26||KayOberbeck||
+
+NoBirthday: AdrianaKalfic AnnMather HartmutNeven IvetaBrigis JohnHennessy RajenSheth RamShriram ThadStarner UrsHoelzle

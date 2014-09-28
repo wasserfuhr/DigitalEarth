@@ -1,0 +1,3 @@
+ * IsA: LegalEntity
+ * WikiPedia: https://en.wikipedia.org/wiki/Bureau_of_International_Expositions
+ * MindOne: VicenteGonzalezLoscertales

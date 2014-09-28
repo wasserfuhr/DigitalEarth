@@ -1,0 +1,107 @@
+GET http://212.47.190.149:8080/TMPEarthNav.png 404 (Not Found) :8080/:34
+Resource interpreted as Script but transferred with MIME type text/html: "http://212.47.190.149:8080/cubes.jsp". 212.47.190.149/:237
+1 planet.js:16
+*WARNING*: Orphan: 3676 planet.js:16
+*WARNING*: Orphan: 3732 planet.js:16
+*WARNING*: Orphan: 5900 planet.js:16
+*WARNING*: Orphan: 6051 planet.js:16
+*WARNING*: Orphan: 6052 planet.js:16
+click: 413 308 planet.js:16
+new Date()
+Tue Oct 29 2013 12:35:09 GMT+0100 (Mitteleuropäische Zeit)
+new Date().getMillis()
+TypeError: Object [object Date] has no method 'getMillis'
+new Date().getTime()
+1383046524749
+new Date(13830466000000).getTime()
+13830466000000
+new Date(13830466000000)
+Tue Apr 08 2408 22:06:40 GMT+0200 (Mitteleuropäische Sommerzeit)
+new Date(13830465000000)
+Tue Apr 08 2408 21:50:00 GMT+0200 (Mitteleuropäische Sommerzeit)
+new Date(1383046000000)
+Tue Oct 29 2013 12:26:40 GMT+0100 (Mitteleuropäische Zeit)
+new Date(1383046000000)
+Tue Oct 29 2013 12:26:40 GMT+0100 (Mitteleuropäische Zeit)
+5*60*60*1000
+18000000
+new Date(1383066000000)
+Tue Oct 29 2013 18:00:00 GMT+0100 (Mitteleuropäische Zeit)
+new Date(1383067000000)
+Tue Oct 29 2013 18:16:40 GMT+0100 (Mitteleuropäische Zeit)
+new Date(1383072000000)
+Tue Oct 29 2013 19:40:00 GMT+0100 (Mitteleuropäische Zeit)
+new Date(1383073000000)
+Tue Oct 29 2013 19:56:40 GMT+0100 (Mitteleuropäische Zeit)
+new Date(1383073100000)
+Tue Oct 29 2013 19:58:20 GMT+0100 (Mitteleuropäische Zeit)
+new Date(1383073200000)
+Tue Oct 29 2013 20:00:00 GMT+0100 (Mitteleuropäische Zeit)
+1383073200000-new Date().getTime()
+26464844
+1383073200000-new Date().getTime()
+26182717
+click: 422 313 planet.js:16
+(1383073200000-new Date().getTime())/1000
+26076.354
+(1383073200000-new Date().getTime())/1000/(16384-8416)
+3.259908634538153
+(16384-8416)/(1383073200000-new Date().getTime())/1000
+3.07535927050996e-7
+(16384-8416)*1000/(1383073200000-new Date().getTime())
+0.3078920404072753
+new Date().getTime()
+1383054683909
+(16384-8416)*1000/(1383073200000-new Date().getTime())
+0.46420605995144365
+"Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch " + (1383073200000-newDate().getTime()/60/1000
+SyntaxError: Unexpected token }
+"Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch " + (1383073200000-newDate().getTime()/60/1000)
+ReferenceError: newDate is not defined
+"Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch " + (1383073200000-new Date().getTime()/60/1000)
+"Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch 1383050149057.6953"
+"Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch " + (1383073200000-new Date().getTime())/60/1000)
+SyntaxError: Unexpected token )
+"Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch " + (1383073200000-new Date().getTime())/60/1000
+"Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch 277.4701166666666"
+"Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch " + (1383073200000-new Date().getTime())/60/1000.toFixed(2)+" min fuer 16384-8416 + "-"
+SyntaxError: Unexpected token ILLEGAL
+"Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch " + (1383073200000-new Date().getTime())/60/1000.toFixed(2)+" min fuer "+16384-8416 + "-"
+SyntaxError: Unexpected token ILLEGAL
+"Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch " + (1383073200000-new Date().getTime())/60/1000.toFixed(2)+" min fuer "+(16384-8416) + "-"
+SyntaxError: Unexpected token ILLEGAL
+"Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch " + ((1383073200000-new Date().getTime())/60/1000.toFixed(2))+" min fuer "+(16384-8416) + "-"
+SyntaxError: Unexpected token ILLEGAL
+message: "Unexpected token ILLEGAL"
+stack: (...)
+get stack: function () { [native code] }
+set stack: function () { [native code] }
+__proto__: Error
+ ((1383073200000-new Date().getTime())/60/1000.toFixed(2))
+SyntaxError: Unexpected token ILLEGAL
+ (((1383073200000-new Date().getTime())/60/1000).toFixed(2))
+"272.94"
+"Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch " + (((1383073200000-new Date().getTime())/60/10009.toFixed(2))+" min fuer "+(16384-8416) + "cubes - dann bin ich wieder nur fuer Sie da! ;)"
+SyntaxError: Unexpected token ILLEGAL
+"Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch " + (((1383073200000-new Date().getTime())/60/1000).toFixed(2))+" min fuer "+(16384-8416) + "cubes - dann bin ich wieder nur fuer Sie da! ;)"
+"Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch 272.05 min fuer 7968cubes - dann bin ich wieder nur fuer Sie da! ;)"
+"Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch " + (((1383073200000-new Date().getTime())/60/1000).toFixed(2))+" min fuer "+(16384-8416) + " cubes - dann bin ich wieder nur fuer Sie da! ;)"
+"Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch 271.84 min fuer 7968 cubes - dann bin ich wieder nur fuer Sie da! ;)"
+console.log("Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch " + (((1383073200000-new Date().getTime())/60/1000).toFixed(2))+" min fuer "+(16384-8416) + " cubes - dann bin ich wieder nur fuer Sie da! ;)")
+Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch 270.49 min fuer 7968 cubes - dann bin ich wieder nur fuer Sie da! ;)
+undefined
+console.log("Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch " + (((1383073200000-new Date().getTime())/60/1000).toFixed(2))+" min fuer "+(16384-8416) + " cubes - dann bin ich wieder nur fuer Sie da! ;)");
+Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch 270.22 min fuer 7968 cubes - dann bin ich wieder nur fuer Sie da! ;)
+undefined
+console.log("Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch " + (((1383073200000-new Date().getTime())/60/1000).toFixed(2))+" min fuer "+(16384-8416) + " cubes - dann bin ich wieder 6 days&nights nur fuer Sie da! ;)");
+Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch 268.51 min fuer 7968 cubes - dann bin ich wieder 6 days&nights nur fuer Sie da! ;)
+undefined
+console.log("Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch " + (((1383073200000-new Date().getTime())/60/1000).toFixed(2))+" min fuer "+(16384-8416) + " cubes - dann bin ich wieder 6 days&nights fast nur fuer Sie da! ;)");
+Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch 267.79 min fuer 7968 cubes - dann bin ich wieder 6 days&nights fast nur fuer Sie da! ;)
+undefined
+console.log("Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch " + (((1383073200000-new Date().getTime())/60/1000).toFixed(2))+" min fuer "+(16384-8416) + " cubes - dann bin ich wieder 6 days&nights fast nur fuer Sie da! ;)");
+Dear QueenOcta, lasen Sie Ihre GoogleMail noch nicht? noch 264.84 min fuer 7968 cubes - dann bin ich wieder 6 days&nights fast nur fuer Sie da! ;)
+undefined
+7968/512
+15.5625
+click: 445 296 planet.js:16

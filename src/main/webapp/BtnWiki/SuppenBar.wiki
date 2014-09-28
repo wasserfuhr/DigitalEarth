@@ -1,0 +1,6 @@
+ * IsA: WirtsHaus
+ * OpenStreetMap: http://www.openstreetmap.org/browse/node/289091543
+ * PartOf: SuppenbarDresden
+ * HomePage: http://www.suppenbar-dresden.de/home_suppenbar_dresden_suppe.htm
+
+#SocialNetwork

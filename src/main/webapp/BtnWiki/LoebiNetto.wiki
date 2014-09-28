@@ -1,0 +1,2 @@
+ * IsA: SuperMarket
+ * OpenStreetMap: https://www.openstreetmap.org/browse/way/35431795

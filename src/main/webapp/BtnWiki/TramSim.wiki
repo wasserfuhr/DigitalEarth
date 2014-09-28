@@ -1,0 +1,53 @@
+ * HomePage: http://sl4.eu/sim
+
+for SingularDresden
+
+https://bigtablenomic.googlecode.com/files/MiniPolisBoundingBox.png
+
+DomainModel:
+
+MindTram
+ * number // e.g "2807"
+ * position
+ * currentSpeed // m/s
+ * depot : TramDepot
+ * line : TramLine
+ * color // textual description
+ * type : TramType
+
+TramDepot
+
+TramType
+ * length // meter
+ * name // e.g. "NGT D 12DD"
+
+TramRide
+
+TramLine
+ * osmWay
+
+TramStop
+ * osmNode
+
+TramLoop
+
+TramPassenger
+ * person : AvaTar; yes - we will simulate round about 500 000 people
+
+[https://en.wikipedia.org/wiki/File:Light-rail_system_Dresden.png map]
+
+DvbTram: http://www.dvb.de/de/Service/Souvenirshop/index.aspx?RecID=14&KategorieID=0
+
+||1||white||#E5002D||
+||2||white||#EA6032||
+||3||white||#D9055A||
+||4||white||#CA0226||
+||6||black||#FEDB03||
+||7||white||#A4023B||
+||8||white||#2B8D28||
+||9||black||#99C053||
+||10||black||#F5B500||
+||11||black||#BDD7A7||
+||12||white||#00663E||
+
+on a LockBox cloud?

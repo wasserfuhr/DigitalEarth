@@ -1,0 +1,6 @@
+ * WikiPedia: https://en.wikipedia.org/wiki/LevelDB
+
+for AppEngine DataStore BackUp: 
+http://stackoverflow.com/questions/10422094/what-format-does-the-datastore-admin-backup-the-entities-in
+
+https://github.com/dain/leveldb

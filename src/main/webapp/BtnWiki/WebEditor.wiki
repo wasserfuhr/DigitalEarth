@@ -1,0 +1,38 @@
+The WebEditor is a tool that helps you to create, edit, evaluate, test  and publish CloJure SourceCode on your FloatingBoats WebApp, ForExample:
+
+ http://pieschenbank.de/edit
+
+It is similar to a WiKi, where you can edit the ConTent of a WebPage, but here you can also store CloJure SourceCode as content of a WikiPage, and immediately evaluate and execute the SourceCode. Therefore you can call the WebEditor a "CodeWiki".
+
+==Signin==
+Our WebApp does not store a PassWord. You can SignIn with your existing account at either
+ * FaceBook
+ * GoogleProfile
+ * TwittEr
+ * LinkedIn
+ * YaHoo or
+ * OpenId
+
+==Resource==
+Each WikiPage can be published as a resource with a certain URL suffix. Before you can test, your WikiPage gets a unique PageId (which is actually the key of the underlying BigTable entity)
+
+==Lifecycle==
+Each WikiPage has a typical LifeCycle:
+ * *edit*: First you create a WikiPage or edit an existing one, preferably with HiccupClj.
+ * *eval*: then you test the WikiPage by evaluating your RequestHandler function
+ * *validate*: Optionally you can validate your new page with the W3C HtmlValidator.
+ * *publish*: If you are happy with your result you can publish it under your chosen resource name
+
+==Filter==
+In the WebEditor you can filter revisions of a certain 
+ReSource by clicking the "(f)" link in front of the ReSource.
+
+==Type==
+Each CodePage has a type.
+ * */clj*: CloJure SourceCode that might be evaluated as a RequestHandler
+ * *clj*: CloJure SourceCode that might be evaluated as an expression by a RequestHandler or another expression
+ * *wiki*: WikiPage in WikiSyntax that might be rendered by the `wikify` function of the RootHandler
+
+==Diff==
+You can compare the differences between two CodePage revisions
+by selecting their checkboxes and pressing the "diff" button.

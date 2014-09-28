@@ -1,0 +1,3 @@
+ * PartOf: HauptStrasse
+ * OpenStreetMap: http://www.openstreetmap.org/browse/node/1518065868
+ * HomePage: http://www.thalia.de/shop/tha_homestartseite/thalia-filialen/showDetails/925/

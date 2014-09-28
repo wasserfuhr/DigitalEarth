@@ -1,0 +1,16 @@
+InterWiki: http://www.plomlompom.de/PlomWiki/plomwiki.php?title=PostPrivacyBuch
+
+Kurze Ideenskizze inwiefern das MindWiki von RainerWasserfuhr
+im PostPrivacyBuch von ChristianHeller erklärt werden könnte.
+
+Einführende Grafik:
+  http://www.slideshare.net/rainer/goodbyekurzweil/50
+
+ * MindWiki
+ * LifeWiki
+ * MindFile (eingefrorener Stand Ende 2010 - https://code.google.com/p/bigtablenomic/downloads/list )
+ * NoMic
+ * NeuroSemanticWeb http://www.slideshare.net/rainer/nsw1/9
+
+PlomWiki:
+ * TrackBack after "mentions" - so if RaWa adds a WikiPage that contains either "ChristianHeller" or "PostPrivacyBuch", then ChristianHeller receives a notification about both.

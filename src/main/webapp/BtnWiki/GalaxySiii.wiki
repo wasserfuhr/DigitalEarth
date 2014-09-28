@@ -1,0 +1,4 @@
+ * KindOf: SmartPhone
+ * WikiPedia: https://en.wikipedia.org/wiki/Samsung_Galaxy_S_III
+
+SamSung

@@ -1,0 +1,3 @@
+ * IsA: MindBook
+ * WikiPedia: https://en.wikipedia.org/wiki/The_Confusions_of_Young_T%C3%B6rless
+ * DcAuthor: RobertMusil

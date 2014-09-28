@@ -1,0 +1,6 @@
+ * IsA: EnterPrise
+ * WikiPedia: https://en.wikipedia.org/wiki/Freescale_Semiconductor
+
+MotorOla
+
+IsIn BMG3727Q1015 ?

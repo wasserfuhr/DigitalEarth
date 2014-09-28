@@ -1,0 +1,4 @@
+ * IsA: PowerWoman
+ * BirthDay: 08-15
+ * InterWiki: [WikiPedia:Melinda_Gates]
+ * MarriedTo: BillGates

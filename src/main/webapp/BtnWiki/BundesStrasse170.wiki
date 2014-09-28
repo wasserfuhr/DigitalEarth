@@ -1,0 +1,2 @@
+ * IsA: BundesStrasse
+https://maps.google.com/maps?ll=51.068,13.74&t=h&z=18

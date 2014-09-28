@@ -1,0 +1,22 @@
+ * IsA: LifeDay
+ * HeMo: LifeDay11292 « 2012-08-31 » LifeDay11290
+
+WolframAlpha:
+ * days between 1981-10-03 and 1981-10-04: 1
+ * days between 1981-10-03 and 2012-08-31: 11290
+
+so 2012-08-31 should be LifeDay11291.
+
+ToDo:
+
+between 1981-10-03 and 1981-08-31: 30 days of september + 3 days of october = 33
+
+between 1981 and 2012: 8x LeapYear
+
+365*31 + 8 = 11323
+
+365*31 + 8 - 33 = 11290
+
+LifeDay1= BirthDay = DayOne = 1981-10-03
+LifeDay366= 1982-08-31
+LifeDay15786= 2012-08-15

@@ -1,0 +1,11 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16241 « 2013-11-12 » LifeDay16239
+ * HappyBirthday: RolandBarthes ThomasGigold SvenKrueger
+ * OneMonthAgo: LifeDay16210
+ * OneYearAgo: LifeDay15875
+ * RevNum: r19780
+ * HaSe: LadyHo
+ * HaTa: LadyPriegnitz
+ * BoPa: TrWo:1229 FourSingularSquare:1447 TrWo:1621 LoebiAldi:1815 LoeSt TrWo:1952
+ * CuPr: RainerTest DigitalPlanet
+ * HoTo: HiFi

@@ -1,0 +1,6 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16079 « 2013-06-03 » LifeDay16077
+ * HaTa: RinKa JfwTla
+ * HasSeen: JohnHolger
+ * BodyPath: LinguSphere AlbertBruecke CafeNeustadt KamiNetto MondPalast SchwarzMarktCafe MarktHalle NapoleonStein KempiLobby PostPlatz DvbTram2616 H:TharandterStrasse LoebtauPassage TrWo
+ * CurrentProject: DelphiNet FlutWiki

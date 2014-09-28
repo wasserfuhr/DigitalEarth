@@ -1,0 +1,3 @@
+ * IsA: PowerWoman
+ * BirthDay: 07-21
+ * InterWiki: [WikiPedia:Brigitte_Reimann]

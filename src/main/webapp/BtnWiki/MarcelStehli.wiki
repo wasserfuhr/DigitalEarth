@@ -1,0 +1,3 @@
+ * IsA: PerSon
+
+SemiConductor OntoLogy: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.5.1882

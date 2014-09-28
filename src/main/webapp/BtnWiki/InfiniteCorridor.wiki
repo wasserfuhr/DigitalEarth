@@ -1,0 +1,5 @@
+ * WikiPedia: https://en.wikipedia.org/wiki/Infinite_Corridor
+ * OpenStreetMap: http://www.openstreetmap.org/browse/way/84473998
+ * TriBy: http://space.mit.edu/home/tegmark/personal.html
+
+#InfiniteBallroom

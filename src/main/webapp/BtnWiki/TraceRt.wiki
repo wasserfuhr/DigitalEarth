@@ -1,0 +1,24 @@
+C:\Users\Tine>tracert sl4.eu
+
+Routenverfolgung zu sl4.eu [217.70.142.73] über maximal 30 Abschnitte:
+
+  1     2 ms     2 ms     2 ms  192.168.43.1
+  2   166 ms   159 ms   170 ms  10.32.112.85
+  3     *        *        *     Zeitüberschreitung der Anforderung.
+  4     *        *        *     Zeitüberschreitung der Anforderung.
+  5     *        *        *     Zeitüberschreitung der Anforderung.
+  6     *        *        *     Zeitüberschreitung der Anforderung.
+  7     *        *        *     Zeitüberschreitung der Anforderung.
+  8     *        *        *     Zeitüberschreitung der Anforderung.
+  9     *        *        *     Zeitüberschreitung der Anforderung.
+ 10     *        *        *     Zeitüberschreitung der Anforderung.
+ 11     *        *        *     Zeitüberschreitung der Anforderung.
+ 12     *        *        *     Zeitüberschreitung der Anforderung.
+ 13     *        *        *     Zeitüberschreitung der Anforderung.
+ 14     *        *        *     Zeitüberschreitung der Anforderung.
+ 15     *        *        *     Zeitüberschreitung der Anforderung.
+ 16   179 ms   187 ms  1571 ms  zapp.inwx.net [217.70.142.73]
+
+Ablaufverfolgung beendet.
+
+#MerkleCube #UdpTla

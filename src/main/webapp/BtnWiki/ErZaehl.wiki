@@ -1,0 +1,7 @@
+TuermChen. Es klingelt. GretChen öffnet die Tür. HeinRich tritt ein
+ * HeinRich: Nun, ich habe Dir eine MurderMystery mitgebracht.
+ * GretChen: ErZaehl!
+ * HeinRich: Mein TaschenGeld reicht noch ein paar Monate.
+ * GretChen: VerSteh'e.
+ * HeinRich: 
+ * GretChen:

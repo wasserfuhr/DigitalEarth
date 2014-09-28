@@ -1,0 +1,7 @@
+ * IsA: MindEvent
+ * HauptRolle: AnnikaSchilling
+ * DrehBuch: MarkZuckerberg RayWasserfuhr
+ * FbEvent: 137618636440714
+ * WikiLender: 2013-06-19:2200
+ * MindPlace: KleinHaus
+ * OnStage: AntjeTrautmann BenjaminPauquet JanGehler OdaPretzschner SandroZimmermann SaschaGoepel UlrikeHomuth YohannaSchwertfeger

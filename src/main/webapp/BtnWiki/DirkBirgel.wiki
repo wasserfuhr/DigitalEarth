@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * TwittEr: https://twitter.com/CRDNN
+ * FaceBook: https://www.facebook.com/dirk.birgel
+ * XingLe: https://www.xing.com/profiles/Dirk_Birgel

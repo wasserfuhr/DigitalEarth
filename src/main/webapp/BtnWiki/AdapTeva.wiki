@@ -1,0 +1,9 @@
+ * IsA: EnterPrise
+ * WikiPedia: https://en.wikipedia.org/wiki/Adapteva
+ * EtymoLogia: a combination of "adapt" and the Hebrew word "Teva" meaning nature
+ * HomePage: http://www.adapteva.com/
+ * MindOne: AndreasOlofsson
+
+http://www.marketwatch.com/story/adapteva-delivering-on-vision-of-the-future-of-parallel-computing-2012-08-22
+
+http://www.adapteva.com/wp-content/uploads/2011/06/adapteva_mpr.pdf

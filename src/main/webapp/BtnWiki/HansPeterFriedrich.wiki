@@ -1,0 +1,4 @@
+ * IsA: MinisTer
+ * BirthDay: 03-10
+ * WikiPedia: https://en.wikipedia.org/wiki/Hans-Peter_Friedrich
+ * HaTa: JoeBiden

@@ -1,0 +1,3 @@
+ * IsA: PerSon
+ * WikiPedia: https://en.wikipedia.org/wiki/Roberto_Blanco
+ * BirthDay: 06-07  

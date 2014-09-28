@@ -1,0 +1,5 @@
+ * InterWiki: [WikiPedia:Ripple_(payment_protocol)]
+
+meta-BitCoin
+
+RyanFugger MikeHearn

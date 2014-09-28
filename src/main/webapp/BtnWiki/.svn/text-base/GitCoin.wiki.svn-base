@@ -1,0 +1,14 @@
+Experimental: PieschenBank with GitScm for GitCoin: https://code.google.com/p/pieschenbank/wiki/GitCoin
+
+http://miiu.org/wiki/GitCoin
+
+Each CoinMaster has in it's own repository.
+The OpenNess enables competition among each CoinRepository.
+
+Each CoinRepository can experiment with it's own RuleSet:
+ * RealName vs PseudoNym vs AnoNym
+ * taxation
+ * transaction costs
+ * EtCetera
+
+term also used by BrandonWiley

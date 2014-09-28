@@ -1,0 +1,9 @@
+for SemanticSixSigma
+
+from SemanticWiki to SemanticSixSigma:
+ * today: RecentChangesJunkie's ReView the RecentChanges
+
+SemanticSixSigma:
+ * StateMent's are extracted from a WikiPage
+ * each StateMent can be marked as DeFect
+ * optional: a RuleSet with automatic InFer'ences

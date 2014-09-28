@@ -1,0 +1,75 @@
+<project
+  xmlns="http://maven.apache.org/POM/4.0.0" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.appspot.bigtablenomic</groupId>
+  <artifactId>btnwiki</artifactId>
+  <version>1</version>
+  <name>BigTableNomic</name>
+  <description>SvnDump of the BtnWiki via ApacheMaven
+  <!--
+   This PomXml was tested with ApacheMaven-3.0.4
+   
+   First
+     (on EeepiGon:)
+     set JAVA_HOME=\Program Files\Java\jdk1.7.0_01
+     mvn wagon:download-single -Dwagon.url=https://bigtablenomic.googlecode.com/svn/wiki -Dwagon.fromFile=pom.xml -Dwagon.toDir=.
+   (You might have to add proxy settings via -Dhttps.proxyHost=myproxy -Dhttps.proxyPort=... or in settings.xml,
+    SeeAlso http://entwickler-forum.de/showthread.php?t=63695 )
+
+   Then
+     mvn
+     cd target
+     cd checkout
+  -->
+  </description>
+  <url>https://code.google.com/p/bigtablenomic/</url>
+  <inceptionYear>2012</inceptionYear>
+  <developers>
+    <developer>
+      <id>1</id>
+      <name>RainerWasserfuhr</name>
+      <url>http://mindbroker.de/</url>
+      <organization>MindBroker</organization>
+      <organizationUrl>http://mindbroker.de/</organizationUrl>
+    </developer>
+  </developers>
+  <scm>
+    <connection>
+      scm:svn:https://bigtablenomic.googlecode.com/svn/wiki
+    </connection>
+    <developerConnection>
+      scm:svn:https://bigtablenomic.googlecode.com/svn/wiki
+    </developerConnection>
+    <url>
+      https://bigtablenomic.googlecode.com/svn/wiki
+    </url>
+  </scm>
+  <build>
+   <defaultGoal>scm:checkout</defaultGoal>
+   <plugins>
+   <!--  adding javasvn will allow us to checkout without local svn installation: -->
+     <plugin>
+       <groupId>org.apache.maven.plugins</groupId>
+       <artifactId>maven-scm-plugin</artifactId>
+       <version>1.8.1</version>
+         <configuration>
+	     <providerImplementations>
+	       <svn>javasvn</svn>
+	     </providerImplementations>          
+	   </configuration>
+	   <dependencies>
+	     <dependency>
+	       <groupId>com.google.code.maven-scm-provider-svnjava</groupId>
+	       <artifactId>maven-scm-provider-svnjava</artifactId>
+          <!-- required for ClaDa ReCover -->
+          <!-- ( mvn scm:checkout -DscmVersion=7979 -DscmVersionType=revision ) -->
+          <!-- https://code.google.com/p/maven-scm-provider-svnjava/issues/detail?id=14 -->
+	       <version>2.0.5</version>
+	     </dependency>
+	   </dependencies>
+       </plugin>
+   </plugins>
+  </build>
+</project>

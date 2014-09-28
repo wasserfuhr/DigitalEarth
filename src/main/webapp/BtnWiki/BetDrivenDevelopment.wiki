@@ -1,0 +1,72 @@
+-----Ursprüngliche Nachricht-----
+Von: JochenHolzer
+Gesendet: 07.06.06 10:00:35
+An: RainerWasserfuhr
+Betreff: Re: Fwd: Re: openBC-Wette
+
+Unglaublich -
+Du bist der Erfinder von BDD (BetDrivenDevelopment).
+
+
+> -----Ursprüngliche Nachricht-----
+> Von: RainerWasserfuhr
+> Gesendet: 07.06.06 04:00:04
+> An: JochenHolzer
+> Betreff: Fwd: Re: openBC-Wette
+
+
+> Du hast gestern so zweifelnd dreingeschaut als ich sagte,
+> openBC-CEO LarsHinrichs würde bei meiner Wette mithalten...
+>
+> https://www.openbc.com/hp/Lars_Hinrichs/
+>
+> Der ist übrigens wesentlicher sympathischer als er auf seinem Foto
+> aussieht:
+> http://videos.digital-lifestyle-day.com/06europescatchup_en.html (ganz
+> am Ende ab 01:10:00)
+>
+>
+> -------- Original-Nachricht --------
+> Betreff: Re: openBC-Wette
+> Datum: 16.05.2005, 20:40
+> Von: LarsHinrichs
+> An: RainerWasserfuhr
+>
+> die Wette werden Sie gewinnen. Genau das werden wir machen. Wichtig
+> nur: privacy regelungen sind zu beachten, es wird immer vom Nutzer
+> selbst ausgehen. opt in. Einziger Haken an der ganzen Geschichte: die
+> derzeitigen Preise für LBS sind viel zu hoch.
+>
+> Gruss, LarsHinrichs
+>
+> Ps. ihr Kontakt kann mich gerne anfunken und mir ein Konzept
+> schicken, wie er es regeln möchte.
+>
+> > Hallo Herr Hinrichs,
+> >
+> > in jugendlichem Leichtsinn habe ich neulich mit einem Bekannten
+> > eine Wette über 200 EUR abgeschlossen, bei der openBC eine zentrale
+> > Rolle spielt:
+> >
+> > "Bis Ende 2007 werde ich in einer deutschen Metropole mit einem Bus
+> > fahren und dank
+> > rotem Lämpchen auf unseren UMTS-Handies mit einem "fremden" openBC
+> > Kontakt
+> > 2. Grades sprechen und zum direkten Kontakt machen (...)"
+> >
+> > (weitere Details unter http://wasserfuhr.com/nodes/node.jsp?id=1509 )
+> >
+> > Ich hoffe, Sie können mich tatkräftig beim Gewinnen der Wette
+> > unterstützen :).
+> >
+> > Eventuell kann uns auch FelixPetersen unterstützen,
+> > denn seine mobile Community PlazesCom könnte bis 2007
+> > die benötigten ortsbezogenen Daten bereitstellen.
+> >
+> > Für weiteres Brainstorming und Ideen zur technischen Umsetzung können
+> > Sie mich gern kontaktieren :).
+> >
+> > Beste Grüße
+> > RainerWasserfuhr
+> >
+> > sent via openBC to https://www.openbc.com/hp/Lars_Hinrichs/

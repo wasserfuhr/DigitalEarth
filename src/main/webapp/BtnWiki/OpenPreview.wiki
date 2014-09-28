@@ -1,0 +1,13 @@
+InspiredBy http://www.mediummagazin.de/aktuelles/lsr-der-alptraum-aus-dem-justizministerium/#LSR (via TimBrysten via https://www.facebook.com/bruysten/posts/162304747236249 )
+
+FrankSchirrmacher
+
+
+      ;OpenPreview:
+      ;http://www.ehow.com/how_4938148_thumbnail-show-up-facebook-share.html
+      ;caution: take care of the image MimeType?!?
+      [:link {:rel "image_src"       
+        :href 
+         "https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc7/599341_383161421741751_1071593544_n.jpg"}]
+        ; - GoogleCode SubVersion seems to work with application/octet-stream 
+        ;:href "https://bigtablenomic.googlecode.com/files/OpenBallSaal.png"}]

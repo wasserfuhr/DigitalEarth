@@ -1,0 +1,3 @@
+ * IsA: PerSon
+ * HomePage: http://markokaestner.com/
+ * TwittEr: https://twitter.com/kTouchDev

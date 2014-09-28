@@ -1,0 +1,6 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16108 « 2013-07-02 » LifeDay16106
+ * HaTa: MinhDuc FrauFelin
+ * BodyPath: TrWo
+ * CurrentProject: PartyDesJahres
+ * MustDo: AskemosOrg

@@ -1,0 +1,5 @@
+ * IsA: PerSon
+ * BirthDay: 03-06
+ * WikiPedia: https://en.wikipedia.org/wiki/Wolfgang_Grams
+
+BlackBoxBrd

@@ -1,0 +1,69 @@
+ * HomePage: https://github.com/weavejester/hiccup
+
+HiccupClj is a CloJure library to create dynamic HtMl,
+that is used in most RequestHandler's of a FloatingBoats WebApp.
+
+You can say that HiccupClj is for CloJure, what
+JavaServerPages are for the JavaLanguage.
+
+A very simple HelloWorld inside a RequestHandler could look as follows:
+{{{
+(fn [request response]
+ (hiccup.core/html
+  [:html
+   [:body
+    [:h1 "HelloWorld (with some addition in code)"]]]))
+}}}
+
+To create fully valid HtMl5 you should add:
+{{{
+(fn [request response]
+ (do
+  (.setCharacterEncoding response "UTF-8")
+  (hiccup.core/html "<!DOCTYPE html>"
+   [:html
+    [:head
+     [:meta {:http-equiv "Content-Type" :content "text/html;charset=utf-8"}]
+     [:title "HelloWorld"]]
+    [:body
+     [:h1 "HelloWorld"]]])))
+}}}
+
+Next you can try to add a first dynamic element:
+{{{
+(fn [request response]
+ (do
+  (.setCharacterEncoding response "UTF-8")
+  (let [
+    PageTitle "HelloWorld"]
+   (hiccup.core/html "<!DOCTYPE html>"
+    [:html
+     [:head
+      [:meta {:http-equiv "Content-Type" :content "text/html;charset=utf-8"}]
+      [:title PageTitle]]
+     [:body
+      [:h1 PageTitle]]]))))
+}}}
+The `let` declaration introduces a now variable "PageTitle"
+that can be used anywhere inside the HtMl tree.
+
+Now we will try some form handling:
+{{{
+(fn [request response]
+ (do
+  (.setCharacterEncoding response "UTF-8")
+  (let [
+    PageTitle "HelloWorld"]
+   (hiccup.core/html "<!DOCTYPE html>"
+    [:html
+     [:head
+      [:meta {:http-equiv "Content-Type" :content "text/html;charset=utf-8"}]
+      [:title PageTitle]]
+     [:body
+      [:h1 PageTitle]
+      (if (.equals "say" (.getParameter request "action"))
+       (str "You said '" (.getParameter request "message") "'"))
+      [:form
+       [:input {:name "message"}]
+       [:input {:type "submit" :name "action" :value "say"}]]]]))))
+}}}

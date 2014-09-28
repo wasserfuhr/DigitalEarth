@@ -1,0 +1,3 @@
+embed image into MindWiki - example:
+
+[{Image src='https://bigtablenomic.googlecode.com/files/MiniPolisBoundingBox.png'}]

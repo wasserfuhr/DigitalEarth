@@ -1,0 +1,5 @@
+ * IsA: PerSon
+ * BirthPlace: FalkenStein
+ * BirthDay: 04-19
+ * DeWikiPedia: https://de.wikipedia.org/wiki/Andreas_L%C3%A4mmel
+ * PartyWiki: CduWiki

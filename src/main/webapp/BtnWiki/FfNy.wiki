@@ -1,0 +1,27 @@
+#CastHash:||d8311ef96c56147d2e5cde997e73155a558c3e51||MRiH||
+10342400 MRiH.mp4
+Looking up  'sl4.eu' first
+   1.386.302.449~159
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1386302449
+Fri Dec  6 05:00:49 CET 2013
+rawa@149-190-47-212:~$ CAST=tRiH;curl -b .ASPXAUTH=$CastAuth $CastBase/$CAST > $CAST.mp4;sha=`cat $CAST.mp4|openssl sha1`;echo "#CastHash:||$sha||$CAST||";ls --block-size=1 -s $CAST.mp4; mv $CAST.mp4 $sha.mp4;lynx -dump -nolist sl4.eu/now;date +%s;date
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 11.7M  100 11.7M    0     0  2997k      0  0:00:04  0:00:04 --:--:-- 3130k
+#CastHash:||672694689e12d8f69c64da3f37dc87a411f990d1||tRiH||
+12374016 tRiH.mp4
+Looking up  'sl4.eu' first
+   1.386.305.037~042
+
+   a RainerWasserfuhr EtAl production - AnnoDomino2013, PoweredBy
+   FloatingBoats.
+
+   Powered by GoogleAppEngine
+1386305037
+Fri Dec  6 05:43:57 CET 2013
+rawa@149-190-47-212:~$

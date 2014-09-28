@@ -1,0 +1,3 @@
+ * IsA: MindBook
+ * DcAuthor: ChinaMieville
+ * WikiPedia: https://en.wikipedia.org/wiki/The_City_%26_the_City

@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * WikiPedia: https://en.wikipedia.org/wiki/Bed%C5%99ich_Smetana
+ * BirthDay: 02-02
+ * MindSkill: ComPose

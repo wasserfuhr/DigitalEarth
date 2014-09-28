@@ -1,0 +1,4 @@
+ * InterWiki: [WikiPedia:Java_Object_Oriented_Querying]
+ * TriBy: https://www.xing.com/events/jooq-get-back-control-of-your-sql-1334827?ev_notification=1206639
+
+ActiveRecord

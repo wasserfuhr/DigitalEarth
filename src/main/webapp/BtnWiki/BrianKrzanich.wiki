@@ -1,0 +1,5 @@
+ * IsA: TopManager
+ * BornIn: 1960
+ * BirthDay: 05-09
+ * WikiPedia: https://en.wikipedia.org/wiki/Brian_Krzanich
+ * WorkFor: IntEl

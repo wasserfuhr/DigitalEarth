@@ -1,0 +1,16 @@
+What if you would scale up a LeadingEtch 300mm ChipWafer of AnnoDomino2011 to the scale of PlanetEarth?:
+
+https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc6/254650_10150280616999916_509034915_7545755_3937252_n.jpg
+
+|| *ComPare*|| *PlanetEarth*|| *ChipWafer*||
+||DiaMeter  ||12000 km||300 mm||
+||PeriMeter ||40000 km||942 mm||
+||HalfPitch ||    *???*||28nm||
+
+With:
+  * 1m ~= 40'000'000m
+  * 1mm ~= 40'000m
+  * 1μm ~= 40m
+  * 1nm ~= 4cm
+
+So: 1 HalfPitch (28nm) ~= 1m

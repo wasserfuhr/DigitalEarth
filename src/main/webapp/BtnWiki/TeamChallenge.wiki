@@ -1,0 +1,3 @@
+ * IsA: EventSeries
+ * HomePage: http://team-challenge-dresden.de/
+ * FaceBook: https://www.facebook.com/TeamChallengeDresden

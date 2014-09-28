@@ -1,0 +1,14 @@
+ * HomePage: http://127.0.0.1:8080/
+ * InspiredBy: RaspberryPi
+
+tiny box that can be put into a SteckDose to ConNect your LocalHost.
+
+http://www.zdnet.com/photos/missed-out-on-raspberry-pi-herere-five-alternatives/6351193
+
+AppHome PortWalk DdWrt EasyBox803 #ToDo
+
+https://en.wikipedia.org/wiki/List_of_single_board_computers
+
+http://www.acmesystems.it/aria
+
+CouchDb|MindBase|MongoDb?

@@ -1,0 +1,7 @@
+ * IsA: PerSon
+ * BornIn: 1817
+ * BirthDay: 07-12
+ * DiedIn: 1862
+ * InterWiki: [WikiPedia:Henry_David_Thoreau]
+
+AdeDe NooTax

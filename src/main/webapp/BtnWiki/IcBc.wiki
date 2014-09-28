@@ -1,0 +1,4 @@
+ * IsA: EnterPrise
+ * WikiPedia: https://en.wikipedia.org/wiki/Industrial_and_Commercial_Bank_of_China
+ * IsIn: CN000A0LB420
+ * MindOne: JiangJianqing

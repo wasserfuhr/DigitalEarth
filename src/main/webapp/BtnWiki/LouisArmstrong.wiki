@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * BornIn: 1901
+ * BirthDay: 08-04
+ * WikiPedia: https://en.wikipedia.org/wiki/Louis_Armstrong

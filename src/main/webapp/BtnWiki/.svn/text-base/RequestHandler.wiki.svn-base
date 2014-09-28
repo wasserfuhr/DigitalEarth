@@ -1,0 +1,8 @@
+A special ClojureFn of the form
+{{{
+(fn [request response]
+...)
+}}}
+that is similar to [http://download.oracle.com/javaee/1.3/api/javax/servlet/http/HttpServlet.html#service(javax.servlet.http.HttpServletRequest,%20javax.servlet.http.HttpServletResponse) HttpServlet.service()].
+
+The recommended way to program a RequestHandler is HiccupClj.

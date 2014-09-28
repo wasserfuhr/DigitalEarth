@@ -1,0 +1,5 @@
+ * IsA: PerSon
+ * GooglePlus: https://plus.google.com/104326389909063611033
+ * TwittEr: https://twitter.com/dnsnrk
+ * DbLp: http://dblp.uni-trier.de/rec/pid/95/4202
+ * PagePath: ... ThomasLengauer AlexanderSmola RalfHerbrich KlausObermayer MichaelScholz DenisNareike

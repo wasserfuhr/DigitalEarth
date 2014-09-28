@@ -1,0 +1,4 @@
+ * IsA: MindBook
+ * DcAuthor: DavidShields
+
+MortalIsm

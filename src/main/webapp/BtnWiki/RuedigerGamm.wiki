@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * BornIn: 1971
+ * BirthDay: 07-10
+ * InterWiki: [WikiPedia:Rüdiger_Gamm]

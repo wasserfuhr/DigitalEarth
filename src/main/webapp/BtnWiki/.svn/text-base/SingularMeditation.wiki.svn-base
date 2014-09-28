@@ -1,0 +1,5 @@
+SingularTime OccupyUrth ThoughtAbout PiArGo SlUb GegenWart AugenBlick
+
+var n="0101 0011 0000 0101 0011 0000 1000 0000".replace(/ /g,"");var r=0;for (var i=0;i<32;i++){if(n.charAt(i)=="1") {r+=Math.pow(2,31-i)}};r
+
+1392849024

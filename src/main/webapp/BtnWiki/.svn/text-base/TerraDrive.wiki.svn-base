@@ -1,0 +1,37 @@
+ * HomePage: http://192.168.43.33:8080/drive.jsp
+ 
+BitTorrent
+
+Last login: Thu Sep 26 16:00:40 on console
+Welcome to Darwin!
+neptun:~ rainer$ md
+md                  mdimport            mdoc-export-msxdoc
+md5                 mdls                mdoc-update
+mdassembler         mdoc                mdoc-validate
+mdcheckschema       mdoc-assemble       mdutil
+mdfind              mdoc-export-html    mdvalidater
+neptun:~ rainer$ md5 Desktop/Video*mov
+MD5 (Desktop/Video 10.mov) = 6b19d800647687aadb4f1243f3ef4be8
+MD5 (Desktop/Video 11.mov) = e83a6b4f6c8b985c2a8efc98f4be3628
+MD5 (Desktop/Video 12.mov) = 40ee935a6168517fab6c3c6fa7e4e15a
+MD5 (Desktop/Video 13.mov) = b729fe3e64d244a9f37ceae1a4358412
+MD5 (Desktop/Video 14.mov) = dd27b10738e99457976100bf9b830c8e
+MD5 (Desktop/Video 15.mov) = f2a589133bae237b2402bf4bcaf09bb9
+MD5 (Desktop/Video 16.mov) = 165b89d51dcb499eb8841b697fdcb3f0
+MD5 (Desktop/Video 17.mov) = 8571cc1a31af7cfe4949c6321c3b6d98
+MD5 (Desktop/Video 18.mov) = 730d30b4be302211453d28dc475e610b
+MD5 (Desktop/Video 19.mov) = 580e3778e9dfeb9388049f2eb0fb8310
+MD5 (Desktop/Video 2.mov) = 5a60460ccf74ce634a5a94233dcb63fe
+MD5 (Desktop/Video 20.mov) = 3a08432bf305cf1070b0f435a8b2d962
+MD5 (Desktop/Video 21.mov) = 2668fee3d8a0425f8cbb306a2843eb96
+MD5 (Desktop/Video 3.mov) = 4fb2154c94a396962d3615f99450af52
+MD5 (Desktop/Video 4.mov) = 1ed7a479b5ac6a9cc9f68bef8606d3f5
+MD5 (Desktop/Video 5.mov) = 1ce88b79a9d1dfb750cc4cff68fe2e2f
+MD5 (Desktop/Video 6.mov) = c36b44594587c95b70cee7493bbcf286
+MD5 (Desktop/Video 7.mov) = 966f9f9b508ff219f2ad6df466a31329
+MD5 (Desktop/Video 8.mov) = 71f3e4416c726607cd105df7f606f495
+MD5 (Desktop/Video 9.mov) = da3ff4c72b8f8134354f01edd1a3d24b
+MD5 (Desktop/Video.mov) = 842fc82cb654ab97299972e7262118f0
+neptun:~ rainer$ git
+-bash: git: command not found
+neptun:~ rainer$ 

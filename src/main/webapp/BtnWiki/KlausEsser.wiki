@@ -1,0 +1,5 @@
+ * IsA: TopManager
+ * HasSex: ♂
+ * BornIn: 1947
+ * BirthDay: 11-21
+ * InterWiki: [DeWikiPedia:Klaus_Esser]

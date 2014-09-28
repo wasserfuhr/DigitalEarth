@@ -1,0 +1,2 @@
+ * IsA: MindEvent
+ * XingEvent: https://www.xing.com/events/xing-bootstour-28-mai-18-1243866

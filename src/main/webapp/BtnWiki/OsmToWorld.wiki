@@ -1,0 +1,3 @@
+http://wiki.openstreetmap.org/wiki/OSM2World
+
+BlenderEarth

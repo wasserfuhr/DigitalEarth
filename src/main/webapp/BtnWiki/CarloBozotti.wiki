@@ -1,0 +1,2 @@
+ * IsA: TopManager
+ * HomePage: http://www.st.com/web/en/about_st/carlo_bozotti.html

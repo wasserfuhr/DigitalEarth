@@ -1,0 +1,4 @@
+ * InterWiki: [WikiPedia:Pauli_exclusion_principle]
+ * NamedAfter: WolfgangPauli
+
+QuantPuter

@@ -1,0 +1,6 @@
+ * IsA: PerSon
+ * BornIn: 1969
+ * BirthDay: 11-04
+ * WikiPedia: https://en.wikipedia.org/wiki/Thomas_Luther
+ * MindSkill: MindChess
+ * TriBy: https://www.facebook.com/groups/dresden.in.sachsen/permalink/173535046184901/

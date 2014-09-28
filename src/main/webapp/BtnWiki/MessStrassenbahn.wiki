@@ -1,0 +1,3 @@
+ * IsA: DvbTram
+ * HomePage: http://www.messstrassenbahn.de/
+ * TramId: 2636

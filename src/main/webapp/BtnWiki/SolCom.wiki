@@ -1,0 +1,4 @@
+ * IsA: EnterPrise
+ * HeadQuarters: ReutLingen
+ * FbPage: https://www.facebook.com/solcom.de
+ * MindOne: ThomasMueller2

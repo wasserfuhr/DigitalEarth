@@ -1,0 +1,35 @@
+(fn [request response]
+ (let [
+   f (.java.io.File "base")
+   buf (byte-array 4096)
+   c0
+   fis (java.io.FileInputStream. )
+   (read fis buf)
+   ct (String. buf)
+   ]
+ )
+
+/*
+ f (.java.io.File "base")
+ ras (java.io.RandomAccessFile f "rwd")
+ (.seek ras (* 4096 p))
+The second page is a HistoryPage. 
+A HistoryPage keeps a list of pages of previous invocations.
+The first 4 bytes point to the previous HistoryPage.
+The follows a chronological list InvocationPage's
+.PayLoad
+
+4 byte each, so you have 1024.
+In the beginning, splitting isn't implemented yet,
+so before you have update the BootStrapFn to keep RePlay up.
+;a HistoryPage. 
+PageType
+(4 byte)
+
+At the core of a SemperBase is a HaLePo triple, which is
+short for HashLenPos, which is short for HashLengthPosition.
+
+A HaLePo consists of:
+ * hash: 20 byte (ShaOne)
+ * length 4 byte (mapped to JavaVm int)
+ * position 8 byte (mapped to JavaVm long)

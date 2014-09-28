@@ -1,0 +1,3 @@
+ * IsA: PowerWoman
+ * BornIn: 1972
+ * HomePage: http://www.staatsschauspiel-dresden.de/ensemble/nele_rosetz

@@ -1,0 +1,5 @@
+ * IsA: EnterPrise
+ * HomePage: http://www.bauschulze.de/
+ * MindOne: InesSchulze
+
+MindBau

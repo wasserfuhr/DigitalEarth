@@ -1,0 +1,6 @@
+ * IsA: MindPlace https://en.wikipedia.org/wiki/ArmonkNy
+ * PartOf: NorthCastle
+
+ToDo: EtymoLogy?
+
+EiBiEm

@@ -1,0 +1,4 @@
+ * IsA: GruppenBild
+ * MindPlace: SemperOper
+ * VlTr: RaWa ChSc SiHo
+ * CheckSum: ecbd050014e042cc4fe3eebe797ed8d3693f17cd

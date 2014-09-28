@@ -1,0 +1,25 @@
+{{{
+<html>
+ <body>
+  <style><!--
+body {
+ text-align:center;
+ font-size:11pt}
+-->
+  </style>
+  <p>&nbsp;</p>
+  <p style='font-size:16pt'>RainerWasserfuhr</p>
+  <p>&nbsp;</p>
+  <p style='font-size:16pt; font-family:"Courier New"'>ZuKunftDerKunstGeschichte</p>
+  <p>&nbsp;</p>
+  <p>eingereicht zur</p>
+  <p style='font-size:14pt'>Dissertation</p>
+  <p>an der</p>
+  <p>HfBk</p>
+  <p>GutAchter:</p>
+  <p>ProFessor DietmarRuebel</p>
+  <p>ProFessor WolfgangWahlster</p>
+  <p style='font-size:10pt'>GhostWriter: HeidiMorgenstern</p>
+ </body>
+</html>
+}}}

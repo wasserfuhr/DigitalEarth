@@ -1,0 +1,5 @@
+ * IsA: PerSon
+ * WikiPedia: [https://en.wikipedia.org/wiki/Robert_Cook_(programmer)]
+ * WorkFor: MetaWeb
+
+http://www.freebase.com/view/user/robert

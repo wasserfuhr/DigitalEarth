@@ -1,0 +1,4 @@
+ * IsA: MindPaper
+ * DcAuthor: NiklasLuhmann
+
+ZettelKasten

@@ -1,0 +1,22 @@
+|| ||Currency||SerialNumber||KayGroschen||Owner||
+||500||EuRo||X09037131851||131072||RaWa||
+||200||EuRo||X00923185226||65536||RaWa||
+||100||EuRo||X04676002544||32768||RaWa||
+|| 50||EuRo||X55933005647||16384||RaWa||
+|| 20||EuRo||M00861407059|| 8192||RaWa||
+|| 10||EuRo||X47926311176|| 4096||RaWa||
+|| 10||EuRo||X53826893669||  512||RaWa||
+|| 10||EuRo||X48168497369|| 1024||RaWa||
+|| 10||EuRo||X48718534088|| 2048||RaWa||
+||  5||EuRo||X25315954336||  256||RaWa||
+||  1||UsDollar||C09854763C||   ||RaWa||
+||  1||UsDollar||E21491569E||   ||RaWa||
+||  1||UsDollar||F16706409S||   ||RaWa||
+||  5||UsDollar||IK63590749A||  ||RaWa||
+||  5||UsDollar||IF18023636A||  ||RaWa||
+
+Already sold:
+||  ||Currency||SerialNumber||KayGroschen||Owner||
+||10||EuRo||X43308830612||2048||ChSc||
+||10||EuRo||X44375238173||128||FrLo (PayMent pending)||
+||10||EuRo||X52139724113||256||HeMo||

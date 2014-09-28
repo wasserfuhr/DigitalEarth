@@ -1,0 +1,3 @@
+ * IsA: MindBook
+ * DeWikiPedia: https://de.wikipedia.org/wiki/Anleitung_zum_Ungl%C3%BCcklichsein
+ * DcAuthor: PaulWatzlawick

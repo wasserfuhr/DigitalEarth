@@ -1,0 +1,8 @@
+"im grunde ist das GeHirn auch wie ein WebServer organisiert"
+
+|| *MiNd*        || *WebServer*||
+||PerCeive       ||HttpRequest||
+||Act            ||HttpResponse||
+||ShortTermMemory||ServletContext||
+||WorkingMemory  ||MemCache||
+||LongTermMemory ||BigTable||

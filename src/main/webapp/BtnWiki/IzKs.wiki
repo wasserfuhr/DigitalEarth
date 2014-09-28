@@ -1,0 +1,3 @@
+ * IsA: MinisTry
+ * HomePage: http://www.mizks.gov.si/
+ * MindOne: ZigaTurk

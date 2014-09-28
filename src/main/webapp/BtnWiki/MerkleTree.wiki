@@ -1,0 +1,2 @@
+ * WikiPedia: https://en.wikipedia.org/wiki/Merkle_tree
+ * NamedAfter: RalphMerkle

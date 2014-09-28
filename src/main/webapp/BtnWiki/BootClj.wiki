@@ -1,0 +1,103 @@
+In short, a SemperBase is a file that contains it's own creation history
+in a deterministic, incorruptible way.
+It consists of a tree of SemperPage's.
+
+At the core of a SemperBase is a HaLePoCh triple, which is
+short for HashLenPosChild, which is short for HashLengthPositionChildren.
+
+A HaLePoCh consists of:
+ * hash: 20 byte
+ * length 4 byte (mapped to JavaVm int)
+ * position 8 byte (mapped to JavaVm long)
+ * c0 c1 c2 c3, each 8 byte (mapped to JavaVm long)
+
+The hash is computed via ShaOne from the hashes of the 4 children plus the content of given length. (0 if not used)
+
+The first SemperPage has a fixed length:
+ * RootFn - the function that keeps track
+ * LastCall
+ * WebFn: the function that is called by the servlet
+ * 64 bytes reserved for future extensions
+
+PageTree
+each with
+
+The second page is a HistoryPage.
+
+A HistoryPage keeps a list of pages of previous invocations.
+The first 4 bytes point to the previous HistoryPage.
+Then follows a chronological list InvocationPage's
+ * SemperFn
+ * PayLoad
+Please notice that this struct has *no* kind of explicit TimeStamp.
+This must always be provided as part of the PayLoad.
+
+Each SemperFn is stored in ReadOnly mode and can't be changed without breaking the PlayBack check.
+
+In the beginning, splitting isn't implemented yet,
+so before you have update the BootStrapFn to keep RePlay up.
+;a HistoryPage. 
+PageType
+(4 byte)
+
+=Check=
+Each SemperBase can 
+ * simply requires a scan along the entire,
+ * a PlayBack calculates the entire 
+
+Each page is stored as:
+
+The initial RootFn:
+(fn [raf f pl]
+ (let [
+  readPage
+   (fn []
+    (let [
+      hash (.read raf (byte-array 20))
+      len (.readInt raf)] {
+     :hash hash
+     :len len
+     :content (.read (byte-array len))
+   )
+  len (.readInt raf)
+  pos (.length ras)
+  (.seek ras (+ 20 pos))
+  (.writeInt ras (.len pl))
+  ls
+  hHash (mind.Hash/getHash
+   (str 
+  (.seek ras pos)
+  (.write ras (.getBytes hHash))
+ 
+  (.readLong raf)
+ ;update LastCall
+ (.seek ras f)
+
+  (.readUTF 
+ (.writeLong 1l)
+ SemPtr
+)
+
+This SemperFn shows how another SemperFn can be added:
+(fn [ras pl]
+ ;ToDo
+ (.seek ras 0)
+ (.writeLong 1l)
+ (.writeLong 1l)
+)
+
+(fn [request response]
+ (let [
+   f (.java.io.File "base")
+   buf (byte-array 4096)
+   c0
+   fis (java.io.FileInputStream. )
+   (read fis buf)
+   ct (String. buf)
+   ]
+ )
+
+/*
+ f (.java.io.File "base")
+ ras (java.io.RandomAccessFile f "rwd")
+ (.seek ras (* 4096 p))

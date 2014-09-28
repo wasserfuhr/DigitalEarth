@@ -1,0 +1,3 @@
+ * IsA: PerSon
+ * BornIn: 1953
+ * BirthDay: 01-22

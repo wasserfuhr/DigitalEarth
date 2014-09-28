@@ -1,0 +1,3 @@
+http://stackoverflow.com/questions/4721205/google-app-engine-channel-api-for-comet-on-non-javascript-clients
+
+AppEngine JavaScript 

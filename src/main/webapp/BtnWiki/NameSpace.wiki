@@ -1,0 +1,7 @@
+http://sl4.eu/wiki/NameSpace
+
+http://c2.com/cgi/wiki?NameSpace https://en.wikipedia.org/wiki/Namespace
+
+NewCamelCase
+
+AaAa ... ZzZz

@@ -1,0 +1,3 @@
+ * IsA: PerSon
+ * WikiPedia: [https://en.wikipedia.org/wiki/Francis_Bacon_(artist)]
+ * BirthDay: 10-28

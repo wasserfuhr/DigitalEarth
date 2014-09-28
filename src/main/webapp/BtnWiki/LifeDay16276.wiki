@@ -1,0 +1,15 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16277 « 2013-12-18 » LifeDay16275
+ * HappyBirthday: ReinerHartenstein HannahHurtzig LarsHinrichs JuergenVolleritsch
+ * OneMonthAgo: LifeDay16246
+ * OneYearAgo: LifeDay15911
+ * RevNum: r205xx
+ * CuPr: RainerCast LifeWiki
+ * BoPa: TrWo:1217 TrWo:1322 LoebiNetto LoeSt LoebiPassage:2113 FreyCube PostMotelOne KempiLobby KarlMayBar LinieSechs:DvbTram2519:2510 H:BuSt TrWo
+ * HaCh: StuKo ErBa
+ * HaSe: PeZi
+ * HaTa: SiHo SaZi
+ * HaTo: ChSc HeGa
+ * HoTo: UmEinTisch
+ * WahrTraum: GoogleTraum
+ * CheckSum: c8d4a200507c1da8086d572909d4a9934dfdc230

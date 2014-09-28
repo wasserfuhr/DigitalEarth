@@ -1,0 +1,9 @@
+NooPolis WebApp based on BigTableNomic
+
+DomainModel:
+ * CitiZen
+  * RealNameApproval
+   * ApprovedBy
+   * ApprovedOn
+
+UnApp

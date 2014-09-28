@@ -1,0 +1,3 @@
+ * IsA: TopManager
+ * BirthDay: 07-24
+ * DeWikiPedia: https://de.wikipedia.org/wiki/J%C3%BCrgen_Hubbert

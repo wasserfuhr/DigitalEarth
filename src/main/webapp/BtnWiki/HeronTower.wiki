@@ -1,0 +1,5 @@
+ * IsA: SkyScraper
+ * PartOf: CityOfLondon:
+ * InterWiki: [WikiPedia:Heron_Tower]
+
+#DigitalPlanet

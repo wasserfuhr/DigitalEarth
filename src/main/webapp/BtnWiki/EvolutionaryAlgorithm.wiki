@@ -1,0 +1,5 @@
+ * WikiPedia: https://en.wikipedia.org/wiki/Evolutionary_algorithm
+
+OpenCog MoSes
+
+via WiDo

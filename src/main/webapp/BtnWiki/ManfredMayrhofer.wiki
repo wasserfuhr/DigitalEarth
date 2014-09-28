@@ -1,0 +1,3 @@
+ * IsA: ConDuctor
+ * HomePage: http://www.manfredmayrhofer.com/
+ * HaTa: ChSc

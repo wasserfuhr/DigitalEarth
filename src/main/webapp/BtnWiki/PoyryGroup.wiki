@@ -1,0 +1,3 @@
+ * IsA: EnterPrise
+ * WikiPedia: http://en.wikipedia.org/wiki/P%C3%B6yry
+ * IsIn: FI0009006696

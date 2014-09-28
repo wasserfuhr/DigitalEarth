@@ -1,0 +1,7 @@
+A special RequestHandler that handles an incoming
+HttpServletRequest of a FloatingBoats WebApp and delegates it to another RequestHandler.
+
+In the RecentEdits of the WebEditor you will find
+it under "/`*`" - therefore we also may call it the "SlashStar".
+
+For the current RootHandler see https://bigtablenomic.appspot.com/edit?filter=/*

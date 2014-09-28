@@ -1,0 +1,4 @@
+ * IsA: PowerWoman
+ * BornIn: 1943
+ * BirthDay: 12-23
+ * InterWiki: [WikiPedia:Queen_Silvia_of_Sweden]

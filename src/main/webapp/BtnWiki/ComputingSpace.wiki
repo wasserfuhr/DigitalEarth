@@ -1,0 +1,631 @@
+RechnenderRaum
+
+ftp://ftp.idsia.ch/pub/juergen/zuse67scan.pdf
+
+Mit 10 Bildern
+KonradZuse, BadHersfeld
+
+ZusammenFassung: Der VerFasser unternimmt den VerSuch, informations - und automatentheoretisches Denken auf physikalische Probleme anzuwenden. Neben einigen allgemeinen Betrachtungen wird im wesentlichen der Gedanke einer Digitalisierung räumlicher Beziehungen verfolgt, womit die Idee der Quantisierung der physikalischen Gr6ßen weiter verallgemeinert wird.
+
+Summary: In the following contribution the author tries to apply an information and automata theq approach to certain Problems of physics. Besides some general considerations, the main thought discussed is the idea of digitalizing spatial relations whereby the concept of quanticization of the physical quantities is generalized. 
+
+Es ist Uns heute selbstverstandlich, daß numerische Rechenverfahren erfolgreich eingesetzt werden kennen. um physikalische ZusammenMnge zu durchleuchten, Insbesondere der Einsatz moderner Datenverarbeitungsanlagen hat die Anwendung numerischer Methoden enorm befruchtet. Bisher ist dabei stets davon ausgegangen worden, daß die Zielsetzung einer numerischen IxIsung darin bestehen muß, das 
+van Physiker z. B. durch eine Differentialgleichung repräsentierte Modell durch ein numerisches Modell (amlich der numerischen Msung der Differentialgleichung) möglicst exakt anzuntihern. Ein ruckwirkender Einfluß der  numuischen Wsungen auf die physikalische Theorie selbst 
+besteht lediglich indirekt in der bevorzugten Anwendung 
+solcher physikalischer Methoden, die der numerischen 
+Wung besonders leicht zu@nglich sind. 
+Im folgenden seien jedoch einige Ideen entwickelt. die es  berechtigt erscheinen lassen, die Frage nach einer direkten Einfldnahme neuer Ideen der Datenverarbeitung auf physikalische Probleme zu stellen. Die Schwierigkeit besteht selbstveadndlich darin, daß verschiedene Wissensgebiete  miteinander in Beziehung gebracht werden mIlssen. Bereits  die heutige Physik selbst spaltet sich immer mehr in einzelne Spezialgebiete auf I 11 . Allein die mathematischen 
+Methoden der modernen Physik sind nicht einmal jedem Mathematiker geuufig und erfordern flir ihr Versandnis ein jahrelanges Spezialstudium.
+Aber auch die mit der Datenverarbeitung in Zusammenhang stehenden Theorien und Wissensgebiete spalten sich heute bereits in verschiedene Spezialzweige auf. Erwähnt seien 
+die formale Logik, die Informationstheorie. die Automatentheorie und die Theorie der Formelsprachen. Der Gedanke, diese Gebiete, soweit sie betroffen sind, unter dem Namen 
+"Kybernetik' zusammenzufassen, hat sich noch nicht durchsetzen können. Sehr fruchtbar ist jedoch unabhgngig von den verschiedenen Definitionen des Begriffes im einzelnen die 
+Auffassung der Kybernetik als Brucke zwpchen den Wissenschaften [ 21 . 
+Der Verfasser hat in diesem Sinne als Fachmann der Datenverarbeitung einige grundsatzliche Gedanken entwickelt, die er für wert hält; zur Diskussion gestellt zu werden. 
+Einige dieser Gedanken m6gen in der vorliegenden noch unreifen Farm nicht ohne weiteres mit bewzhrten Vorstellungen der theoretischen Physik in Einklang zu bringen 
+336 
+sein. Das Ziel ist erreicht. wenn Uberhaupt eine Diskussion zustande kanmt und sich duaus Anregungen ergeben, die eines Tages zu Lbungen flthren, die auch den Physikern 
+akzeptabel erscheinen. 
+Im folgenden soll eine kurze Zusammenfassung dieser Gedanken gegeben werden. die in einer aus'ftihrlicheren Arbei io nBher behandelt werden sollen. 
+Vergleicht man die durch die mathematischen Ansätze repräsentierten Modelle der Physik und die zugehbigen-numerischen Modelle miteinander. so ergibt sich ein charakteristischer Unterschied: Die physikalischen Modelle sind z. B. durch Differentialgleichungen in Dimensionen definiert, welche durch kontinuierliche GriWen dargestellt werden. 
+welche keinerlei Bedchrxnkungen unterliegt. Hingegen arbeiten die numerischen Lasungen imbesondere bei ihrer DurchfUhrung mit programmgesteuerten Rechenmaschinen 
+mit Gr6ßen. die nur eine diskrete Zahl von Werten zulassen. 
+Es gibt Grenzwerte in Form von Minimal- und Maximalwerten, und es liegt eine Stufung der Werte vor. die es nicht erlaubt, zwischen zwei gegebene Werte beliebig viele Zwischenwerte einzuschalten. Hinzu kammen weitere Berchrlrnkungen, dadurch, daß eine Differentialgleichung nur durch Differenzengleichungen angeahert werden kann, was sich z. B. in 
+der endlichen Schrittweite bei Integrationen auswirkt. Wir 0 
+kUnnen zwar durch ErhOhung der Stellenkapazitat eher Rechenmaschine und durch Verkleinerung der Schrittweite derartige 
+numerische Lbungen im Prinzip beliebig exakt an die gegebene 
+Differentialgleichung amhern, jedoch ist dies praktischen ' 
+Grenzen unterworfen. Die Autmatentheorie lehrt dann auch. 
+daß die praktisch benutzten programmgesteuerten Rechenmainen im allgemeinen unter die finiten Automaten fallen und somit nur eine endliche Zahl von Zusdnden erlauben und also auch nur eine endliche Zahl-von diskreten Usungen fur ein gegebenes Problem.
+Diese diskreten Lbungen haben jedoch einen völlig anderen Charakter als diejenigen, die sich aus der Quantentheorie ergeben. Am bekanntesten ist die Beziehung zwischen Frequenz und EnErgie etwa eines Lichtquants, das der Formel E = h . W unterliegt. wobei h eine universelle Naturkonstante 
+ist. Man spricht hier zwar gern von der Quantisierung der EnErgie. jedoch kOnnen diese Quanten jeden beliebigen Wert  annehmen. lediglich der Quotient 5 ist durch einen diskreten 
+5 
+E Wert gekennzeichnet. Es ist dies etwas anderes, als wenn in 
+einer digitalen Rechenmaschine die Energie aufgrund der begrenzten Stellenzahl nur eine diskrete Zahl von Werten annehmen kann. 
+Die Annahmen der Quantentheorie haben weitgehende Konsequenzen in bezug auf die Quantisierung verschiedener physikalischer Großen. Auch der Gedanke, daß die Feinstruktur des Raumes gewissen BeschrBnkungen unterliegt, ist eine 
+Konsequenz der Quantentheorie. In diesem Sinne Ußt sich 
+auch die Heisenberg'sche Unbestimmtheitsrettion auffassen, 
+welche die gleichzeitige Bestimmung von Impuls und Ort 
+gewissen Grenzen unterwirft. Neben leicht meßbaren elemen- 
+taren Großen, wie dem kleinsten elektrischen Quantum 
+(durch das Elektron repräsentiert) wird der Begriff der kleinsten Länge (Ca 10-13 Cm) und der kleinsten Zeiteinheit 
+bereits diskutiert. Die Vorstellung des klassischen Kontinuums 
+wird zwar verlassen, jedoch nicht, indem anstelle des Kontinuums etwa ein Gitter diskreter Werte tritt, sondern indem 
+man zu grundsiitzlich anderen Ansätzen iibergeht, wie etwa 
+hoherdimensionalen Konfigurationsraum. in dem WahrscheinlichkeitsgrUßen definiert sind. (Z. B. Aufenthaltswahrscheinlichkeit eines Partikels.) Auch bei dieser Vorstellung wird nicht von der Vorstellung des Kontinuums als solchem abgegangen, denn die Diffeientialgleichungen der Quantenmechanik sind in bezug auf die FeldgrUßen selbst keinerlei 
+BeJchrPnkungen unterworfen. 
+In diesem Zusammenhang erscheint es niitzlich, die bei 
+Rechengeraten ubliche Unterscheidung zwischen analogen, 
+digitalen und hybriden Systemen zu betrachten. In einem 
+analogen Gerat werden die Werte durch physikalische GrMBen 
+wie Spannungen, Position von mechanischen Gliedern, Geschwindigkeiten usw. dargestellt haben also im Prinzip einen kontinuierlichen Charakter. In bezug auf die digitalen Gerate wurde bereits festgestellt, daß diese nur diskrete, gestufte Werte zulassen. Die Beschrdnkung auf die GroßenOrdnung (Minimal- und Maximalwerte) gilt zum Teil auch fUr analoge 
+Gerate, zumindest fUr die Maximalwerte. Hybride Systeme stellen Kombinationen beider Systeme dar. Einmal konnen tale und analoge Geräte miteinander kombiniert werden, ei an den Schnittstellen Wandler fUr die verschiedenen Darstellungsarten erforderlich sind. Zum anderen kannen aber auch die Werte selbst in hybrider Form dargestellt werden, 
+indem etwa die Dichte diskreter Impulse ein Maß fiir den zu 
+repräsentierenden Wert ergibt. 
+Diese fUr technische Geräte sinnvolle Unterscheidung läßt sich 
+auch auf physikalische Modelle iibertragen. Ist die Natur 
+analog, digital oder hybrid? Beziehungsweise: Eignet sich 
+. zur Formulierung der physikalischen Gesetze besser ein ana; 
+loges, ein digitales oder ein hybrides Modell? 
+Das Modell der klassischen Mechanik ist zweifellos analog. 
+Die auftretenden Großen (Koordinaten. Massen, Krafte) sind 
+keinerlei Beschränkungen unterworfen. Auch die Relativiatstheorie arbeitet lediglich mit einer oberen Grenze der Geschwindigkeit (Lichtgeschwindigkeit), im iibrigen aber mit kontinuierlichen Werten. 
+Durch die Einfiihrung der Körnigkeit der Materie durch ihre 
+Auflösung in Molekiile, Atome und Elementarteilchen erhalten einige Größen einen diskreten Charakter, wobei der 
+analoge Charakter der gegenseitigen Beziehungen jedoch noch 
+erhalten bleibt. Die Quantenmechanik unterwirft weitere 
+Graßen einer Quantelung, was darauf hinausuuft, daß gewisse 
+Großen nur diskrete Werte annehmen konnen. Man könnte 
+also mit einer gewissen Berechtigung von einem hybriden 
+SyStem sprechen.
+aber voll digitale physikalische Modelle verfugen wir heute 
+noch nicht. Bei Mlliger Unvoreingenommenheit erscheint die 
+Frage berechtigt, ob beliebig unterteilbare, also echt kontinuierliche Graßen in der Natur uberhaupt denkbar sind. Was 
+waren z. B. die Konsequenzen, wenn wir zur restlosen Quantelung der gesamten Naturgesetze Ubergehen wwen und aMehmen wflrden, daß grundsrttzlich jede GrOße irgendeiner Quantelung unterliegt? 
+Dieser Gedanke sei im folgenden etwas weiter verfolgt. Zunächst seien einige absaakte Beispiele digitaler Modelle besprochen, die am Schreibtisch konstruiert sind. Sie haben nur sehr entfernte Ähnlichkeit mit physikalischen Vorgabgen, sind 
+jedoch geeignet, das Denken in digitalen Modellen anzuregen. 
+Da es sich fn diesem Anikel nur um eine kurze Zusammen- 
+fassung handelt, hnen zum Teil nur einige char&teristische 
+Ergebnisse angeflthn werden. In dem angekllndigten Sonderheft soll dann ausfflhrlich auf diese und andere Beispiele eingegangen werden. 
+Benachten wir das klassische Modell der Thermodynamik. bei. 
+dem das Vexhalten von Gasen durch im Raum frei bewegliche 
+aufeinandentoßende Gummibxlle dargestellt wird . Wegen der 
+gxoßen Teilchenzahl wM dieses Problem rechnerisch im allgemeinen statistisch behandelt. Stellt man sich jedoch die 
+Aufgabe, das Modell direkt durch Nachrechnung der Flugbahnen der einzelnen Teilchen zu simulieren, so kommt man auf folgende Ergebnisse: 
+'Bei beiden Modellen (dem physikalischen und dem rechnerischen) gehen im allgemeinen geordnete ZuatZlnde in ungeordnete Uber (Zunahme der Entropie). Allerdings lassen sich Ausnahmefille kamuuieren. bei denen bestimmte Ordnungen erhalten bleiben. Nehmen wir z. B. ein Gefaß mit genau parallelen Wanden an und eine Serie von Teilchen, deren 
+Bahnen genau senkrecht auf einer dieser Ebenen stehen, wobei 
+die Bahnen genugend weit auseinander, liegen, um gegenseitige 
+Beeinflussung zu verhindern, so bleiben diese Bahnen im Sinne 
+der klassischen Mechanik erhalten, Auch im Rechenmaschinenmodell ist dies der Fall, wenn das der Rechnung zugrunde 
+gelegte Koordinatensystem ebenfalls parallel bzw. orthogonal 
+zu den Wanden gelegt wird. Sicher lassen sich auch noch interessante weitere Spezialftille konstruieren. bei denen Stoßvorgrtnge zwischen den Teilchen stattfinden und trotzdem eine bestimmte Ordnung erhalten bleibt (Bild 1). 
+Wir wissen nun, daß die moderne Physik dieses klassische Bild 
+aufgelost hat, .Die Stoßvorgiinge der einzelnen Teilchen werden im Sinne der modernen Physik nicht streng determiniert angenommen. Es gelten lediglich Wahrscheinlichkeitsgesetze, die im statistischen Durchschnitt den Gesetzen der klassischen Mechanik entsprechen. Durch diesen Effekt tritt eine Streuung ein, welche bewirkt. daß auch in theoretisch angenommenen Spezialfällen mit der Zeit eine Auflaung der 
+Ordnung eintritt und die Entropie des Systems steigt. 
+337 
+I Wie sieht in dieser Beziehung nun das rechnerische Modell aus? 
+Solange wir diesen Streueffekt nicht besonders in umer Modell 
+Bild 1 
+Beispiel einer stabilen Ordnung von 8 in einem Qudrat mit 
+zuruckwerfcndsn Kanten frei beweglichen Ullen. Ein analoges 
+Modell wme unendliche Genauigkeit erfordern. In einem digitalen Modell hibt die Stabiliat erhalten. Die Stabilitltt gilt jedoch nur fur diskrete Seiteangen des Quadrats. 
+'einprogrammieren', ist bei den oben erwithnten sagaltig 
+kcqstruierten Spezialf2lllen kein Streueffekt festzustellen. 
+Sobald aber durch eine geringfugige Streuung das System in 
+bezug auf die spezielle Ordnung außer Takt kommt, haben 
+wir es mit ithnlichem Verhalten zu tun wie bei den Modellen 
+der modernen Mechanik. Es ist im allgemeinen nicht erfaderlich, einen Streueffekt besonders zu bertlcksichtigen; die mit der Rechnung verbundenen rechnerischen Ungenauigkeiten haben - von SonderfZllen abgesehen - dieselbe Wirkung. Das klassische Modell verlangt absolute Rechengenauigkeit. daher im rechnerischen Modell ein Rechnen mit unendlicher Stellen- 
+zahl, Da dies praktisch nicht durchfnhrbar ist, treten bei den 
+einzelnen StoBvorgitngen rechnerische Ungenauigkeiten auf. 
+die bewirken. daß - ihnlich dem Modell der modernen 
+Mechanik - Abweichungen der Bahnen von den Theorien der 
+klassischen. Mechanik auftreten, Man kUnnte auch diese Ab- 
+weichungen durch ein statistisches Gesetz summarisch er- 
+fassen, jedoch besteht ein wesentlicher Unterschied: Im 
+Modell der modernen Mechanik handelt es sich um echte 
+Unbestimmtheit, bei dem rechnerischen Modell geht alles 
+streng determiniert zu. nur nicht im Sinne der klassischen 
+Mechanik, sondern im Sinne bestimmter rechnerischer An- 
+atze, die die klassische Mechanik nur adhern. Beides be- 
+wirkt die Zunahme der Entropie, 
+Als zweites Beispiel sei das Problem einer Quelle in einem 
+zweidimensionalen Raum betrachtet. Das klassische Modell 
+enthillt keinerlei Beschrilnkungen in bezug auf die auftreten- 
+den Feldwerte und liefert somit eine rotationssymmetrische 
+Ausbreitung mit stetig abnehmender Intensiat, Ein digitales 
+Modell muß notwendigerweise mit digitalen Koordinaten 
+arbeiten. An sich bieten sich polare Koordinaten an, welche 
+.ebenfalls eine rotationssymmetrische UIsung ergeben. Jedoch 
+erscheint die Wahl des Koadinatensystems mit der Quelle 
+als Mittelpunkt zu sehr auf den speziellen Fall zugeschnitten. 
+FUr die Untersuchung des Verhaltens mehrerer Quellen bietet 
+sich ein kartesisches Koadinatensystem an. Dadurch sind 
+neben der Stufung der Koordinaten zwei ausgesprochene Vor- 
+zugsrichtungen gegeben, die das Ausbreitungsbild beeinflussen. 
+Y / 
+q 
+Y 
+4 
+.- X 
+Bild 2 
+Ausbreitung eines Impulses Y' = 256 nach dem GeJetz 
+\ 
+K(Yx-l.y+ Yx+l,y + Y'x,y-1 + Yx,y+l)= PXY ' 
+1 
+4 
+k= - 
+Wegen Symmetrie braucht nur ein Sektor von 45' gezeichnet 
+zu werden. Es sind die Werte der Frontlinie in den Zeitphasen 
+I - V angegeben, 
+Bild 2 zeigt ein einfaches Beispiel; bei dem in jedem Zeit- 
+takt der Wert eines jeden Gitterpunktes sich auf die 4 benach- 
+barten verteilt. Wir haben eine nicht kreisfdrml e Ausbrei- 
+tung des Impulses mit vorweglaufenden Spitzen .! n den Km- 
+dinatenachsen, Jedoch ist die Verteilung in der'-Frontlinie 
+nicht gleichmit6ig Die vorweglaufenden Spitzen erreichen 
+bald den unteren Grenzwert und sterben ab Je gr6ßer das Ver- 
+hitltnis des Wertes im Quellpunkt zu diesem Grenzwert ist, 0 
+desto spter aitt dieser Effekt ein, Die Ausbreftung konver- 
+giert dann gegen eine rotationssymmetrische Ausbreitung. 
+Dies entspricht der an sich bekannten Tatsache, daß die physi- 
+kalischen Modelle nur dann durch numerische Methoden gut 
+rngeniihert werden kdnnen, wenn mit feiner Gitterstruktur 
+und hohcx S tellenzahl bzw . Genauigkeit gearbeitet wird. I 
+DemgegenUber kann man die umgekehrte Frage stellen: Wie 
+stark Gen sich die numerischen Aatze vergrabern, SO daß 
+trotzdem noch etwas Sinnvolles herauskommt? Eine solche 
+Untersuchung Bßt sich im eindimensionalen Raum mnkhst 
+leichter behandeln. 
+Als Beispiel sei die Fortpflanzung eines Druckimpulses in 
+einer Rdyleitung behandelt. Das Problem spielt z. B. eine 
+große praktische Rolle bei der Untersuchung des Verhaltens 
+vcn Erddlleitungen. Die verschiedenen physikalischen Modelle, 
+die hier zugrundegelegt werden. laufen auf die Lasung von 
+Differentialgleichungen hinaus. Zwecks numerischer Wung 
+338 dieser Differentialgleichungen kann man zu Differenzen- 
+gleichungen Ubergehen. Schrtinkt man die mbglichen Werte 
+der auftretenden Variablen, z, B. Druck und Geschwindigkeit, 
+noch durch grobe Digitalisierung ein, so kommt man schließ- 
+lich zu einfachen Impulsen, welche im Extrem nur die Werte 
+0 und 1 annehmen kbnnen und sich mit konstanter Geschwin- 
+digkeit schrittweise fortpflanzen. Es entspricht dies der Fort- 
+pflanzung eines Impulses in einer Relaiskette. 
+Bild 3 
+Wir nehmen entsprechend Bild 4 ein orthogonales Gitternetz 
+an und ordnen jedem Punkt Werte qr, qy zu. Der Einfachheit 
+halber nehmen wir zWichst an, da% die q-Wexte die Werte 
+-, 0, + annehmen k6nnen. Wir k6nnen dann auch von 
+q-Pfeilen oder kurz Pfeilen sprechen. Wir legen zunlchst 
+fest, daß ein isolierter Pfeil, d.h. ein solcher, der nicht 
+zusammen mit einem senkrecht zu ihm verlaufenden Pfeil 
+am gleichen Gitterpunkt auftritt, sich in seiner Richtung auf 
+den ntichsten Gitterpunkt Ubertrlgt. Sie k6nnen sich selbst- 
+" versandlich nur athogonal fortschalten. 
+Wir brauchen nun noch ein Gesetz fUr den Fall sich kreuzen- 
+der Pfeile. Dies ist in Bild 5 demonstriert. Im Punkt A sind 
+zur Zeitphase I zwei sich kreuzende Pfeile vorhanden. Nach 
+unserem bisherigen Gesetz wllrden diese sich unabhlngig in 
+ihren Richtungen fortschalten. Wir legen nun fest, daß in 
+diesem Fal1,die Pfeile zwar auch in ihren Richtungen nach 
+den Punkten B und C fortgeschaltet werden, ihre Richtungen 
+B.und C aber vertauscht werden. Wir erhalten dann ein sta- 
+Bild. 3 zeigt hierfUr ein einfaches Beispiel. Wir haben die 
+beiden Funktionswerte V und P, welche je die Werte +1, 0, 
+-l(Nullen werden der Einfachheit halber nicht geschrieben) 
+annehmen Mnnen. Der lineare Raum ist dabei in einzelne 
+Sektoren unterteilt. Es werden die Differenzwerte - Av und 
+- dp gebildet. Aus diesen Werten werden in jedem Zeittakt . 
+neue Werte V und p errechnet nach der Formel: 
+biles Teilchen mit der Periode 2 At, welches sich diagonal 
+fortschaltet. 
+Bild 5 
+Schaltgesetz ftb zwei sich 
+kreuzende Pfeile qx, qy ent- 
+sprechend Bild 4. 0 +nf 0 0 
+p -Av*~ Pfeile on-0 0 0 
+00000. 
+V -dp *V Punkt A Phase 1: Kreuzende 
+Punkte B, C Phase Ik C 
+Richtungen der Pfeile 
+werden vertauscht. 
+Die Übertragung dieses Verfahrens der groben Digitalisierung 
+auf mehrdimensionale RStume ftihrt ebenfalls zu interessanten 
+Ergebnissen. Jedoch ist es nicht so einfach, hier stabile 
+00000 
+S&kturen zu erhalten. Den einzelnen Impulsen in einer 
+Rohrleitung entsprechen Wellenfronten im Raum. Bei grober 
+Digitalisierung zeigt sich, daß bevorzugte Richtungen fUr die 
+Fortpflanzung solcher W ellenfronten bestehen. 
+Interessant ist jedoch die Frage nach solchen Strukturen, die 
+sich nicht im Raum als Wellenfront. sondern in Form von 
+dumlich begrenzten Strukturen fortpflanzen, die in eine . - 
+gewisse Analogie zu Elementarteilchen gesetzt werden k6nnen. Bild 6 
+'t f 0 0 
+0 
+0 
+0 
+0 "-y=o 0 
+Wir wollen solche Gebilde Digitalteilchen nennen. Diagonal laufendes 
+Elementarteilchen 
+Wir verfugen jedoch iiber kein einfaches physikalisches Modell, entsprechend dem 
+welches beispielsweise durch einen Satz von Differential- ' Gesetz von Bild 5.~ gleichungen die Fortpflanzung eines solchen stabilen Teil- 
+chens reprtisentiert. Das Modell des Wellenpaketes fuhrt zu 
+instabilen Gebilden, welche zerfließen. Es sei daher zunachst 
+davon abgesehen. solche Digitalteilchen in Anlehnung an 
+physikalische Modelle zu endckeln; sondern es sei eine 
+reine Konstruktion auf dem Papier vorweggenommen. 
+Y I. 
+oq+o 0 
+Bild 4 
+0000 Zweidimensionaler 
+Digitalraum mit 
+Werten qx, qy pro Punkt. 
+qv 
+oooo----c X 
+Wir haben nun Teilchen, die sich in 8 diskreten Richtungen 
+in der Ebene fortschalten k6nnen. Es läßt sich eine Reihe 
+interessanter Beispiele für die Begegnungen solcher Teilchen 
+bilden. Wir bleiben dabei zunächst bei der Festlegung, daß Pfeile nur die Werte -, 0. + annehmen k6nnen. Am gleichen 
+Gitterpunkt heben sich zwei entgegengesetzte Pfeile auf, und zwei gleichgerichtete wirken wie ein einzelner Pfeil. Bild 7 zeigt ein Beispiel. 
+Es zeigt sich, daß der Verlauf der verschiedenen Begegnungen 
+zeitphasen- und abstandsphasenabhtingig ist. Die Teilchen 
+k6nnen durch einander durchlaufen oder sich vernichten oder 
+neue Teilchen bilden. 
+339 Bei da Begegnung kommt es sehr darauf an, ob der Schnittpunkt der Teilchenbahnen auf einem definierten diskreten Punkt des Koordinatensystems liegt. In diesem Fall findet eine Reaktion statt. 
+A 
+1 Bild 9 
+Teilchen entsprechend Gesetz von Bild 8. Pfeilverhältnis 5 : 2. 
+Die Bewegungsrichtung entspricht dem Pfeilverhältnis. Das 
+0 0 "-Y.=$ Bild 7 Teilchen hat die Periode 7 A t und durchlauft periodisch 7 
+Zwei sich schneidende Phasen. Die Teilchenbahn geht'nur einmal pro Periode durch 
+Teilchen A, B ergeben einen definierten diskreten Punkt des Koordinatensystems. 
+ein neues Teilchen C. (Nullphasenpunkt Q). Zwischendurch "zerfließt" das Teilchen. : . .. 
+..., 
+.I . 
+.: .. 
+.1 
+Wir Mnnen nun die Meglichkeiten dieses Systems erweitern, indem wir Pfeile verschiedener absoluter Unge zulassen. Für Pfeile gleicher Richtung setzen wir einfach das Additions- 
+petz ein. Schwieriger wird es, das Gesetz von Bild 5 auf 
+sich laeuzende Pfeile verschiedener Unge auszudehnen, Wir 
+treffen folgende Festlegmg. 
+Bei orthogonal zueinander stehenden Pfeilen wird d? Ungere 
+in zwei Teile zerlegt. der Betrag des einen ist gleich dem 
+Betrag des oethogonal dazu laufenden Pfeiles und wirkt mit 
+diesem zusammen entsprechend Bild 5. Der Rest wirkt wie ein 
+isolierter Pfeil (Bild 8). 
+Man kann Linien gleicher Phase konstruieren (Phasenlinien) . T0 f T6 
+I- 
+.2' 
+Bild 10 zeigt ein Beispiel fU die Reaktion Zweier Digital- 
+teilchen A und B, welche. sich zu einem Teilchen C, ver- 
+einigen. Eine solche Reaktion findet jedoch nur bei bestimm- 
+ten Phasenlagen statt. In dem gewählten Beispiel schneiden 
+sich die idealisierten Teilchenbahnen zu gleicher Zeit in 
+ihren Nullphasenpunkten. Man kann verschiedene Beispiele 
+fur solche Begegnungen konstruieren. Ohne Kenntnfs der 
+Feinstruktur des loglachen Gesetzes. dem die Digitalteil- 
+chen gehwchen. sind nur Wahrscheinlichkeitsaussagen uber 
+die Reaktion solcher Teilchen m6glich. 
+Wir kamen jetzt Teilchen verschiedener Fortpflanzungs- 
+nehmen kennen, Dime kennen im Extremfall Ja-Nein-Werte 
+richtung koarrmieren. Die Zahl der verschiedenen meglichen (Bits) sein: jedoch sind auch mehrwenige Variable mit ent- 
+Richtungen hangt von der Zahl der m6glichen Werte f& die sprechender mehrwertiger Logik verwendbar. Eine besondere 
+Beatrge dler Pfeile ab. Rolle spielt vielleicht die dreiwertige Logik, da mit den 
+Werten +1, 0, -1 besonders gttnsdg gearbeitet werden kann. 
+Bild 9 zeigt ein Beispiel mit dem PfeilverhUnis 5 : 2. Die Eine sehr wesentliche Frage ist die, ob eine Digitalisierung 
+Bewegungsrichtung entspricht dem Pfeilverhlltnis. Die Teil- zwangsllufig mit einer Gitterstruktur des Raumes verknupft 
+chen durchlaufen verschiedene Phasen. Das Teilchen-von ist. Diese hat weitgehende Konsequenzen, die nicht ohne 
+Bild 9 hat die Peride 7 d t. Die Teilchen gehan pro Periode weiteres im Einklang mit den heutigen Vorstellungen der 
+durch einen diskretenKooldinatenpunkt Q (Nullphasenpunkt). Physik stehen. z.B. der Isotropie des Raumes. Die Benutzung 
+Zwischendurch "zerfließen. die Teilchen: Man kann Linien eines rlumlichen und zeitlichen Gitters ist zunlchst zweifels- 
+gleicher Phase (Phasenlinien ZO bis 26) konstruieren. ohne die bequemste LUsung fUr eine Digitalisierung. Aller- 
+340 dings stehen außer dem durch kartesische Koadinaten gege- von 10'13 Cm gewahlt werden mllssen; denn die GrOße 10'13 
+benen Gitter auch andere M6glichkeiten zur VerfUgung, z. B; cm liegt ja in der GrMenordnung der Ausdehnung der Atom- 
+kann man die dichteste Kugelpackung Wahlen. .kerne bzw. deren einzelner Partikel. Die elektrostatische 
+Wechselwirkung steht zur Wechselwirkung infolge Gravita- 
+In allen diesen Fallen haben wir es mit Automatentypen zu 
+tun, die unter dem Namen "zellulare Automaten. in der 
+Literatur bereits behandelt worden sind [ 31 . Es handelt sich 
+tfon im Verhältnis von etwa 1040 : 1. Damit ist& auch klar. 
+daß einfache Modelle zellularer Automaten nicht ausreichen 
+kdnnen. um zu brauchbaren Ergebnissen zu gelangen. 
+dabei um die Aufteilung eines im Prinzip unbegrenzten mehr- 
+dimensionalen Feldes in periodisch sich wiederholende Zellen. 
+Jede Zelle kann ftir sich als isolierter Automat aufgefaßt wer- 
+den. Er steht mit den Nachbarzellen durch Austausch von 
+Information in Verbindung. Die Eingangsvariablen stellen die 
+von den Nachbarzellen ilbertragenen Werte dar, wahrend die . 
+Ergebniswerte gleich den an die Nachbarzellen abgegebenen 
+Werten sind. Da der zellulare Automat nur einen begrenzten 
+Umfang hat, hat er auch nur eine begrenzte Zahl von ZustSLn- 
+den. 
+Die Gr6ße einer solchen Zelle muß dabei so gewahlt werden. 
+daß das Verhalten des Gesamtsystems durch die Beschreibung 
+des Verhaltens einer einzelnen Zelle vollsdndig erkurt ist. 
+Bei den besprochenen Beispielen besteht die Zelle aus einem 
+einzelnen Gitterpunkt (z.B.Bilder 4 bis 10). der in unmittel- 
+baren Beziehungen zu den Nachbarpunkten steht, FUr die Dar- 
+stellung komplizierter Gesetze kann man sich in jedem Gitter- 
+punkt ein kleines Rechengerat vorstellen. Es ist leicht einzu- 
+sehen, daß die Fulle der M6glichkeiten hier außerordentlich 
+groß ist. 
+Schwierig ist es, solche Zellen zu konstruieren, die einer- 
+seits ein Ausbreiten von Feldern, andererseits die Existenz 
+beweglicher Schaltungsmuster (Digitalteilchen) zulassen. 
+Dabei ist zu beachten, daß die Natur mit einer außerordent- 
+lichen Feinheit sowohl in der Raumstruktur als auch in der 
+Gr6ßenordnung der Variablen arbeitet. Die Feinstruktur 
+eines solchen Gitters wird sicher noch wesentlich feiner als 
+die von den Physikern heute angenommene kleinste Lange 
+Digitalteilchen kann man auch als sich selbst reproduzierende 
+Systeme auffassen. Man kann von einem "Normalzustand" 
+des Gitters der zellularen Automaten atwgehen, der durch ein 
+bestimmtes Muster gestartet wird. Dieses Muster ist wand- 
+lungsnhig und besteht zeitlich gesehen aus einer Folge von 
+Zuslnden. die sich periodisch wiederholen. Die Wieder- 
+holung ist dabei jedoch nicht Ortlich gebunden, sondern das 
+Muster kann wandern und sich's0 gewissermaßen in einem 
+Nachbargebiet wieder selbst reproduzieren. 
+Dieses Fortschaltgesetz ftir Sttkungen des Normalzustandes genügt jedoch noch nicht. Bei Annahme von Feldwerten muß die 
+Ausbreitung dieser Felder selbst und das Zusammenspiel der 
+Digitalfelder mit den Digitalteilchen durch das Schaltungsgesetz zellularer Automaten gegeben sein. Dabei mUssen die 
+einzelnen Vektoren, z.B. diejenigen der Maxwellschen 
+Gleichungen, durch Digitalwerte innerhalb der zellularen 
+Automaten reprasentiert werden. Dies bedingt, daß diese 
+nicht nur gestuft sind, sondern auch Minimal- und Maximal- 
+werte aufweisen, Das bedeutet, daß FeldgrMen im digitalen 
+Modell weder beliebig klein noch beliebig groß sein k6nnen. 
+Wie bereits endhnt, stellt ein dumlich und zeitlich perio- 
+disches Gitter zWchst nur die mathematisch am einfachsten 
+zu behandelnde mung dar. Abweichungen hiervon bedeuten 
+Modulationen der Gesetze, die auf gewisse Inhomogenidten 
+hinauslaufen. Es gibt z.B. die Theorie der wachsenden Auto- 
+maten. Ferner kann mit Wahrscheinlichkeitswerten gearbeitet 
+werden. Dieses Problem durfte einer grbdlichen Untersuchung 
+von berufener Stelle wert sein. 
+341 Ein nicht isoucper durch Gitterstruktur repräsentierter Raum hat 
+selbstversttlndlich Vorzugsrichtungen in bezug auf die Aus- 
+breitung von Strahlen. Dies widerspricht zuniichst unseren Er- 
+fahrungen. J3 ist bis jetzt kein Experiment bekannt, d? auf 
+eine solche Richtungsdifferenzierung shlielben PBt. Aller- 
+dings ist auch noch nicht systematisch danach gesucht worden. 
+Im Bereich der normalen Optik dlirfte eine solche Suche wohl 
+auch vergeblich.sein. Selbst bei Rirntgenstrahlen sind die 
+WellenUngen noch sehr lang gegenUber der elementaren 
+Lange von 10-13 Cm. 
+Wenn uberhaupt, so kannten solche Effekte wohl nur bei außer- 
+ordentlich energiereichen Teilchen beobachtet werden. Nun 
+beginnt unsere heutige Experimentalphysik aber gerade erst, 
+dieses Gebiet zu enchlieSen. Nur ein Physiker kann eine Ant- 
+wort auf die Frage geben, ob derartige Experimente erfolgver- 
+sprechend sein kannten. Wenn 2.B. die Richtungsdi:ferenzie- 
+rung selbt-bei energiereichen Teilchen noch feiner ist als die 
+Aufl&ung beispielsweise von Nebelkammeraufnahmen, so kann 
+sie nicht entdeckt werden. Außerdem wäre wegen der Erd- 
+drehung eine,zeitliche Sortierung und Ordnung der Aufnahmen 
+erforderlich .' 
+Die Frage der Isotropie des Raumes erfordert selbstverstbdlich 
+auch eine Auseinandersetzung mit der Relativi,tXtstheorie. Die 
+fUr die spezielle Relativit2ntheorie wesentlichen Lorenti- 
+transformationen lassen sich selbstversandlich auch durch 
+numerische Adtze beliebig an&ihern. Allerdings wird es 
+schwer sein, das Modell der Relativiatstheorie fn der konse- 
+quenten F& digital zu simulieren. Unsere physikalische 
+Erfahrung sigt zuniichst, daß kein ausgezeichnetes Koadina- 
+tensystem nachweisbar ist und daß wir in unseren Berechnungen 
+berechtigt sind, jedes Koordinatensystem als gleichberechtigt 
+dem andsren gegenliber anzunehmen. wobei die Lorentztrans- 
+formatiaren die Beziehungen zwischen diesen Inenialsystemea 
+famulieren. Die strenge Auslegung der Relativittltstheaie ' 
+zieht aber Schluß, daß es auch tatsächlich kein ausge- 
+zeichnetes Koordinatensystem gibt und es zwecklos ist, durch 
+Experimente danach zu suchen, Bei der Auffassung des Kos- 
+mos als zellularen Automaten kommt man jedoch an der An- 
+nahme von ausgezeichneten Bezugssystemen wohl kaum vor- 
+bei. Man kann allerdings die Strukturen von zellularen Auto- 
+maten so konstruieren. daß es mehrere, aber endlich viele aus- 
+gezeichnete Koordinatensysteme gibt. Die Konstanz der Licht- 
+geschwindigkeit in allen Inertialsystemen wiire durch die digi- 
+tale Simulierung der Lorentztransformationen und die damit 
+zusammenhhgenden Verkuzungen von Kirrpern darstellbar. 
+Allerdings muß sich in einem solchen Modell eine Beziehung 
+zwischen der. Lichtgeschwindigkeit und der itbemagungsge- 
+schwindigkeit zwischen den einzelnen Zellen d& zellularen 
+Automaten ergeben. Diese mtissen nicht notwendigerweise 
+identisch sein. Im Gegenteil ist anzunehmen, daß die iiber- 
+tragungsgeschwindigkeit von Zelle zu .Zelle Mer sein muß 
+als die erst durch diese Ubertragung zustandekommenden 
+Signalfortpflanzungen. Diese hahere Geschwindigkeit hat je- 
+doch nux lokale Bedeutung. Sie ist aufgrund der Anisotropie 
+des rechnenden Raumes auch verschieden in verschiedenen 
+Richtungen. Allerdings ergibt das "digitale" Modell im Ver- 
+gleich zum "analogen" Modell der Relativitätstheorie einen 
+wesentlichen Unterschied: Je mehr sich die relative Geschwin- 
+digkeit eines Inertialsystems im VerhlltniS zum Bezugssystem 
+342 
+der Lichtgeschwindigkeit nahert, desto kritischer wird die digi- 
+tale Simulation der Vorgänge. Bei energiereichen Teilchen 
+mtlßte es zu Vorgängen kommen, die man gewissermaßen als 
+ein "sich Verrechnen" des rechnenden Raumes bezeichnen 
+kann. Dadurch kannte grundsätzlich anderes Verhalten von 
+Tei&hca sehr hoher Energie (hahere Geschwindigkeit bzw. 
+h&ere Freqoenz) erUn werden. 
+Durch diese verschiedenen Betrachtungen erhalt der Begriff 
+der Information eine wesentliche Bedeutung. Die Informations - 
+theorie hat den Begriff des "Informationsgehaltes" in bezug auf 
+Nachrichtenubertragugssysteme klar formuliert. Man neigt 
+daher dazu, die Informationstheorie als die Theorie der In- 
+formation und vielleicht auch Informationsverarbeitung Uber - 
+haupt zu halten. Das trifft jedoch nicht zu. Die leichtfertige 
+iibemagung der Begriffe der Informationstheurie auf Nachbar- 
+gebiete der Nachrichtenubertragung fUlm leider oft zu Unklar- 
+heiten. Auch bei der vorliegenden Betrachtung mllssen wir 
+uns klar werden, was unter Informationsgehalt usw. verstan- 
+den werden soll. Bei den rein physikalischen Prozessen kann 
+man schlecht von Nachrichtentlbemagung sprechen. Dies 
+wäre an sich nur interessant, sobald wir den Menschen in die 
+Betrachtung einbeziehen. Bei Annahme einer unendlich feinen 
+Ausbreitung unserer beispielsweise durch elektromagnetische 
+Wellen ausgesandten Nachrichten mUßten diese ewig erhalten 
+bleiben, sofern dem nicht die zeitliche Endlichkeit des Welt- 
+alls Grenzen setzt. Im iiberuagenen Sinne kann man dann 
+auch davon sprechen, daß die Strahlen, die aus dem Weltall 
+vcn anderen Sternen zu uns kommen. flir den Menschen Nach- 
+richten bedeuten. wodurch die Frage nach dem Informations- 
+gehalt dieser Nachrichten sinnvoll wird. Sieht man von dieser 
+Bedeutung der Information als Mittel der Nachrichtealiberna- 
+gung ab. so kann man trotzdem auch bei nicht belebten 
+Systemen von einem Informationsgehalt sprechen, wenn man 
+die Variaticnsbreite der maglichen Gestaltungen eines Gegen- 
+standes, Musters oder dergleichen betrachtet. So kann ein 
+Schlmsel aufgrund seiner Variabilittlt einen &stimmten Infor- 
+fnationsgehalt. in Bit gemeqen, enthalw. h diesem Sinne 
+kann man den oben besprochenen Digitalteilchen einen Infor- 
+matiaugehalt zuadnen. der der Zahl der m6glichen Varia- 
+timen dieser Teilchen entspricht. Bei den in den Beispielen 
+von Bildern 8. 9, 16 gezeigten Digitalteilchen hiingt dieser 
+Informatimgehalt von der maximalen Pfeilgraße (als ganze 
+poitive bzw. negative Zahl) ab. 
+0 
+,*-* 
+Der Gedanke, daß die Informatim bei physikalischen Be- 
+trachtungen eine wichtige Rolle Ubernehmen kann, ist schon 
+verschiedentlich ausgesprochen worden C21 . Die von 
+Zemanek geäußerte Auffassung, daß die beiden elemen- 
+taren Dimensicnen naturwissenschaftlicher Betrachtungsweise, 
+nämlich Stoff und Energie, um die Elementardimension Infor- 
+mation erweitert werden kanne, kann man allerdings etwas 
+abwandeln: Eine grltndliche Bearbeitung des Problems wird 
+wohl eher zu dem Ergebnis fuhren, daß die bisher verwandten 
+Elementardimensionen mit Hilfe der Begriffe. die mit der 
+Information in Zusammenhang stehen, erkurt werden mUßten. 
+Informatiomgehalt ist nur einer dieser Begriffe. Hinzu kommen 
+elementare Informationsverarbeitungsprozesse und Begriffe 
+der Schaltalgebra. wie Schaltglied. Schaltvorgang. Schalt- 
+Zeit und dergleichen. Auch die Erhaltungssätze der Physik kennten dann in entsprechenden Begriffen der Informations- 
+theorie und Automatentheorie ihren Ausdruck finden. Am 
+nkhstliegenden ist die Frage, ob wir von einer Erhaltung 
+der Information im Kosmos sprechen kannen. Faßt man den 
+Kosmos im Sinne des rechnenden Raumes als große Rechen- 
+maschine auf, die von außen nicht beeinflußbar ist, so gilt 
+im Sinne der Informationstheorie, daß die Information dieses 
+Systems nicht vermehrt werden kann. Das gilt auch fUr 
+Systeme. in denen die Entropie im physikalischen Sinne zu- 
+nimmt, selbst wenn die Informationstheorie lehrt. daß der 
+Informationsgehalt eines Nachrichtensystems mit seiner 
+Entropie steigt. 
+Bei digitaler Auffassung des Kosmos ist notwendigerweise der 
+Informationsgehalt in einem abgeschlwenen Raumbereich 
+begrenzt, was einige Konsequenzen nach sich zieht. Ebenso 
+ist der Informationsgehalt eines Digitalteilchens begrenzt. 
+Allerdings zeigt ein Blick auf die Natur, daß dieser sehr hoch 
+sein muß. Betrachten wir ein Photon, so muß die Richtung 
+seiner Fortpflanzung und die W ellenhge in dieser Information 
+ihren Ausdruck finden. Beide GrlU3en mUßten jedoch bei digi- 
+taler Auffassung so fein gestuft sein, daß eine solche Stufung 
+bisher durch keinerlei Experiment entdeckt werden konnte. 
+Schwieriger wird die Frage nach dem Informationsgehalt von 
+Teilchen, wenn man die Beeinflussung durch Felder betrach- 
+tet. Die Beschleunigung eines Teilchens erfolgt dann auf- 
+grund einer Informationsverarbeitung. Ebenso ist die Frage 
+nach der Informationsbilanz bei der Reaktion zwischen 
+Teilchen interessant. 
+' Mit infamatians - und automatentheoretischen Betrachtungen 
+in engem Zusammenhang steht die Frage der Determination 
+und Kausalidt. Die Automatentheorie arbeitet mit dem Be- 
+griff des Zustandes eines Automaten. Finite Automaten 
+kennen eine begrenzte Anzahl von Zusdnden einnehmen. 
+Liegt kein Eingangssignal vor. so ergibt sich aufgrund des 
+dem Automaten zugrunde liegenden Algorithmus aus dem ge- 
+gebenen Zustand der folgende. Das Gesetz eines Automaten 
+kann daher durch eine Zustandstabelle dargestellt werden. Da 
+die Autmatentheorie mit abstrakten Begriffen arbeitet, er- 
+folgt dieser Obergang von einem Zustand in den anderen in 
+der Theorie ohne Zwischenstufen. Dabei fragt die Automa- 
+tentheorie nicht danach, wie bei einem technisch tatsgchlich 
+ausgeftlhrten Automaten ein solcher Übergang erfolgt. Es 
+interessiert lediglich, daß z. B. ein Flip-Flop innerhalb einer 
+gewissen Zeit, der Taktzeit, von einem stabilen Zustand in 
+den anderen Ubergeht. Daß man diesen Vorgang des Um- 
+schlagens selbstverstiindlich technologisch analysieren kann, 
+liegt außerhalb der Betrachtungsweise der Automatentheorie, 
+solange diese sich nicht ausdrucklich bemuht. solche Einzel- 
+heiten mit zu erfassen. 
+Von Physikern wird mitunter die Ansicht vertreten, daß der 
+stufenlose Übergang eines Atoms von einem stabilen Zustand 
+in den.anderen mit dem Kausalgesetz schlecht in Einklang 
+zu bringen ist; z. B. Arthur March "Die physikalische 
+Erkenntnis und ihre Grenzen", Seite 19 [4] . Er versteht 
+dort den Begriff der Kausaliat so, daß der ubergang von 
+einem abgeschlossenen System zum Mchsten ein kontinuier- 
+liches Geschehen voraussetzt. Diese Auffassung wird einer 
+automatentheaetischen Betrachtung physikalischer Prozesse 
+kaum standhalten kannen. Es ist auch nicht anzunehmen, daß 
+sie wirklich begrthdet werden kann. Das Denken in ganzen Zahlen und diskreten Zusdnden erfordert ein Denken in unstetigen uberglngen, bei denen das Kausalgesetz durch Algorithmen formuliert ist. Das Arbeiten mit diskreten Zusdnden und Quantisierungen als solches bedingt nicht notwendigerweise einen Verzicht auf eine kausale Betrachtungsweise.
+Wichtig ist die Frage, ob die Determination in beiden ZeitRichtungen gilt. Das klassische Modell der Mechanik erfüllt 
+diese Forderung nach zeitlicher Symmetrie bekanntlich in idealer Weise. Die statistische Quantenmechanik fuhrt den Begriff der Wahrscheinlichkeit ein und sieht in der Zunahme der Entropie ein Abweichen von der zeitlichen Symmetrie. 
+Finite Automaten folgen im allgemeinen nur den in positiver Zeitrichtung determinierten Gesetzen. Der Algorithmus setzt nur fest, welcher folgende Zustand sich aus dem gegebenen ergibt, nicht umgekehrt. Es lassen sich zwar Automaten konstruieren. bei denen auch der vorhergehende Zustand durch 
+den folgenden bestimmt ist. was jedoch nicht notwendigerweise Symmetrie der Gesetze in zeitlicher Richtung bedeutet. 
+Ein Blick auf Rechenmaschinen möge dies veranschaulichen. 
+Eine Rechenmaschine ist - einwandfreies Arbeiten vorausgesetzt - in positiver Zeitrichtung determiniert. Im allgemeinen sind Rechenvorgange nicht umkehrbar, was sich schon daraus ergibt, daß die logischen Grundoperationen, welche die elementaren Bausteine aller h6heren Rechenoperationen darstellen, nicht umkehrbar sind @.B. a V b*c). Ein Zilhlwerk stellt ein Beispiel einer Rechenmaschine dar, welche im Effekt in beiden Richtungen determiniert ist, da es in der einen Zeitrichtung VOIW&IS und in der anderen rtlckwms alt, sofern man nur die Zutandstabelle betrachtet und die Vorgänge im einzelnen nicht analysiert.
+Will man das Modell der klassischen Mechanik durch Rechengeräte symbolisieren, so sind die Meglichkeiten durch den begrenzten Informationsgehalt der Gertite beschritnkt. Das Modell der klassischen Mechanik setzt auch einen unendlichen Informationsgehalt nicht nur des Kosmos im Ganzen, sondern auch beliebig kleiner Raumteile voraus. Dieser Umstand scheint bisher nicht genugend in Betracht gezogen worden zu sein. 
+Die in den Beispielen angefuhrten Digitalteilchen unterliegen, isoliert betrachtet, einem zeitlich symmetrischen Gesetz. Ein sich geradlinig fortschaltendes Teilchen kann in beiden Zeitrichtungen determiniert verfolgt werden. Bei Reaktionen von Teilchen untereinander liegt nur Determination in positiver'zeiaichtung vor. Es wird sicher schwierig sein, ein Gesetz für Digitalteilchen zu finden, das in beiden Zeitrichtungen determinierte Beziehungen festlegt. Kritisch ist dabei die Frage der Auhung der Aufspaltung eines Teilchens in zwei neue Teilchen. welche der Umkehrung der Vereinigung Zweier Teilchen entspricht. 
+Die Frage der zeitlichen Symmetrie der physikalischen Gesetze wird neuerdings vielfach in Zusammenhang mit den Spiegelungseigenschaften des Raumes diskutiert. Eine automatentheoretische Betrachtungsweise kannte diese Diskussion vielleicht wesentlich befruchten. 
+343 Bildlich wlre der rechnende Raum als Relaiskamor deutbar, natürlich verschiedeneVerhaltensweisen mtrglich. Man kaan wobei wir uw allerdings vcn irgendwelchen kdeten Vor- sagen, die Idee des rechnenden Raumes stehe im WMerspntch Stellungen bezuglich der Relaistechnik selbst vellig frei zu einigen heute anerkannten SPtzen der Physik @.B. bonopie machen rntben. Auch mußten die bereits angedeuteten M%- : des Raumes), infolgedessen k&me es ihn nicht geben. Diese lichkeiten wachsender bzw. variabler Automaten mit in Be- Auffassung wird heute vielfach von Physik- vertreten. ohne tracht gezogen werden. . daB man sich wohl Uber die Konsequenzen ernsthaft Gedanken 
+Wenn auch die vahergehenden Betrachtungen noch nicht zu handgreiflichen Msungen fuhren. so durfte doch gezeigt sein, daB da volgochlagene Weg einige neue Perspektiven erüffnet, welche wert sind, weiterverfolgt zu werden. Die Einbeziehung von Begriffen der Infamadons- und Automatentheorie in physikalische Betrachtungen wird umso dringlick werden, gemacht hat. Man kann aber auch den Versuch machen, die Gesetze des rechnenden Raumes so zu modulieren. daß diese Widersprüche verschwinden. SchlieI3lich kann man auch die durch die Idee des rechnenden Raumes in Frage gestellten Va- 
+Stellungen kritfsch betrachten und ihre Gultigkeit nach neuen Gesichtspunkten untersuchen.
+je mehr q- ganzen Zahlen, diskreten Zustztnden und der- Im folgenpen sei noch eine Gegenubentellung der meglichen gleichen g-beitet wird. Angesicho der Konsequenzen sind Auffassungen versucht. 
+Klassische Physik Quantenphysik Rechnender Raum 
+Puuktmecha&k . 
+? 
+Korpuskel 
+-rog , 
+Analysis 
+Alle Gtasen kontinuierHch . 
+Keine Grenzwerte 
+Unendw geiaa 
+Kausalirrt in beideh Zeit- 
+richtungen 
+Wellenmechanik 
+Welle - Korpuskel 
+hybrid 
+Dffferentialglei&ungen 
+Einige GrWn gequantelt 
+Auser Lichtgeschwindigkeit 
+keine Grenzwerte 
+Unbestimmtheitsrelation 
+Nur statistische Kausalirat 
+AuWung in Wahrscheinlichkeit 
+Klassische Mechanik wird 
+statistisch angeahext 
+UrFormel
+Automatentheaie 
+Schaltalgelxa 
+Schaltzustand, Digitalteilchen 
+digital 
+Boole'sche Algebra 
+Alle GrU6en nehmen nur diskrete Werte an 
+. Minimal- und Maximalwerte imtlicher 
+Gr6ßen 
+Begrenzte Rechengenauigkeit Kausalität nur in positiver Zeitrichtung, Einfuhrung von Wahrscheinlichkeitrtmen maglich. aber nicht nedg Wahrscheinlichkeitsgesetze der QuantenPhysik durch determinierte,RaumsPuktur . 
+erkurbar 
+Urschaltung r; 
+Es sei noch betont; da6 die bisherigen Untersuchungen des Verfassers rein auf dem Papier durchgefuhrt worden sind. 
+Weitere Untersuchungen mUßten unter Zuhilfenahme moderner RechengerPte vorgenommen werden. 
+
+Anhang 
+
+Die Idee des Gitterraumes wurde in letzter Zeit in mehreren Aufsatzen durch FritzBopp behandelt [ SI . Diese Arbeiten und die Arbeit des Verfassers erfolgten Vallig unabhlngig 
+vmelnander. Bopp geht als Physiker von anderen Vorstellungen aus und wendet eine etwas andere Betrachtungsweise an. Es ist jedoch zu hoffen, daß eine gegenseitige Befruchtung der beiden Standpuukte (des physikalischen und des automatentheoretischen) zu wertvollen Erkenntnissen fuhrt. Für den physikalischen Laien ist es allerdings schwer versdndlich. 
+warum dem fiktiven Gravitationsudius (6.7 - 10* Cm) 
+eine solche Bedeutung beigelegt wird. Ein derartig feines Gitter würde bedeuten, daß im Raum von der Greßenordnung der Elementarunge von 10-13 cm noch einmal ein ganzer Kosmos untergebracht werden kennte. was vom automatentheoretischen Standpunkt wenig plausibel erscheint.
+344
+
+Literatur 
+[1] C. 4. Frhr. von Weizsäcker, HamBurg. " Die Einheit der Physik", Physiker-Tagung 1966, Plenarvom2ige I Verlag Teubner, StuttGart. 
+
+[ 21 H. Zemanek, Wien, " Die Kybernetik als interfakultatlve Formalwissenschaft-, Physiker-Tagung 1966. PlenarvorMge I, Verlag Teubner, Stuttgart. 
+
+[ 41 Arthur March, Innsbruck, " Die physikalische Erkenntnis 
+und @re Grenzen", Friedr. Vieweg & Sohn, Braunschweig.
+
+[ 51 FritzBopp, Zeitschrift fUr Physik, Band 200, Heft 2. 

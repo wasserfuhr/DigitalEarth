@@ -1,0 +1,31 @@
+ * BudgetLevel: 13
+
+SemperOpernBall
+
+!2015
+SiBe? 
+
+!2014
+CatherineDeneuve ChSc ChSt GuEm HaJo HeinerGeissler HorstLichter  IngridBiedenkopf JennyReinstein JensHiller JoseManuelBarroso KaPa KeDeSch KurtBiedenkopf MichaelBader PeLi? RaWa RobertoBlanco RolandKoch SabineLax SiHo StaTi SuHe TassiloLax ThomasGottschalk ThomasKagemann UdJu UvSt VeTi ViBra
+
+LeiderVerhindert: BeckenBauer GaKa MaHi MiOb PeTh SaZi SeBr VlPu
+
+!2013
+AileenZanke AnjaKoebel AnkeRichter AnneFrank2 AnnaFunck AntjeVoigt ArthurAbraham AsherFisch BaerbelSchuster BeaGeier BerndAust BirgitBauer BoDerek CarstenMaschmeyer ChristianeHirmer ChristianeHoerbiger ChristianNeureuther ChristinaKraft ChristineSchlinck ChristineStumph ChristineWachtel ChristophStelzner CorneliaPursche DianaKoerner DianaVeres DieterThomasHeck DorotheaMichalk EvelynaSchubert FranziskaNaumann GabrieleHaefner GabrieleSchneider GerardDepardieu GuntherEmmerlich HansJoachimFrey HansPeterTrojek HeidiRamskugler HeikeAhrendt HeikeBertuch HeinerLauterbach HelmaOrosz HelmutDietl HolgerKnievel InesWuensch IngridBiedenkopf JanaLettrari JeanClaudeJuncker JohannaKlum JulianeSach KarinaMatthes KatiSchroedter KatrinLanger KatrinMacht KatziLugner KerstinDeckwerSchwabe KristinJagodzenski KurtBiedenkopf LaraJoyKoerner LotharDeMaiziere LuzandraStrassburg MaiteKelly MareileHoeppner MariellaAhrens MartinWinterkorn MichaelBader MichaelBallack NadjaMichael OksanaQuietzsch PeterRamsauer RainerWasserfuhr RalphSiegel ReneKindermann RichardLugner RobertoBlanco RosiMittermaier RuedigerStumpf SabineLax SarahBurggraf SonjaKirchberger StanislawTillich StefanGwildis StefanHermann StephanieStumph TanjaRuemmler TassiloLax TatjanaNeumann ThereseMathiasBremer ThomasKagemann UndineLux UweHerrmann UweOchsenknecht VeronicaFerres VeronikaTillich ViktoriaLauterbach VittorioGrigolo WaldemarHartmann WolfgangRothe WolfgangStumph
+
+LeiderVerhindert: AnIn BuRi HeMo JoKo KaPa RaLi SaZi SiBe UvSt ViBra
+
+!2012
+
+BeaGe ChSc GeorgMilbradt HeleneFischer HansJoachimFrey KathleenParma KhaldoonAlMubarak KurtBiedenkopf LudmillaSchmidt MandySeidel MichaelBader RaWa RogerMoore StanislawTillich SySch UlSt
+
+!2011 AndraGross BobGeldof ChristianWulff FrOf TilSchweiger ViBra
+
+...
+
+!2009
+
+VlPu MatthiasSteiner
+
+!2006
+ArminMuellerStahl

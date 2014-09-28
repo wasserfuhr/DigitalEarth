@@ -1,0 +1,2 @@
+ * IsA: MindBuilding
+ * OpenStreetMap: http://www.openstreetmap.org/browse/way/42429790

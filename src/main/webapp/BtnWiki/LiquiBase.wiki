@@ -1,0 +1,2 @@
+ * WikiPedia: https://en.wikipedia.org/wiki/Liquibase
+ * TriBy: https://www.xing.com/events/database-change-management-liquibase-1147779

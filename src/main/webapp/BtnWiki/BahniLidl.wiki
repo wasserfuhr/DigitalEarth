@@ -1,0 +1,3 @@
+ * IsA: SuperMarket
+ * PartOf: BahnhofNeustadt
+ * OperatedBy: LiDl

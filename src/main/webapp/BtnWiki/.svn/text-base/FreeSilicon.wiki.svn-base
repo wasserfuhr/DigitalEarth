@@ -1,0 +1,14 @@
+see http://goo.gl/xJGVG
+
+SiliconWiki
+
+links zum letzten SchnackJob:
+
+OpenSource EDA: http://en.wikipedia.org/wiki/Electric_(software)
+damit scheint man immerhin 32bit MiPs architekturen entwerfen zu können: http://code.google.com/p/hmc-mips/downloads/list
+
+MultiProjectWafer DesignRule-set bei MosIs (u.a. für ibm32nm SOI):  http://www.mosis.com/Technical/Designrules/scmos/scmos-main.html
+
+neue "ClockLess" prozessorarchitektur aus berkeley: http://fleet.cs.berkeley.edu/
+
+processor with transactional memory by ibm: http://nextbigfuture.com/2011/08/ibm-plants-transactional-memory-in-cpu.html

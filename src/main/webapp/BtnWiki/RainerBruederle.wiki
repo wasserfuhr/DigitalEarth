@@ -1,0 +1,4 @@
+ * IsA: MinisTer
+ * BirthDay: 06-22
+ * WikiPedia: https://en.wikipedia.org/wiki/Rainer_Br%C3%BCderle
+ * ParteiWiki: FdpWiki

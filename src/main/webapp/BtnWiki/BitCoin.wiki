@@ -1,0 +1,13 @@
+ * InterWiki: [WikiPedia:Bitcoin]
+
+|| *ComPare*   || *BitCoin*     || *KayGroschen* ||
+||MoneySupply  ||21m            ||10m         ||
+||launched     ||2009-01-03     ||2007||
+||             ||               ||TransParent ||
+||             ||BlockExplorer  ||PieschenBank||
+||MindOne      ||SatoshiNakamoto||RaWa||
+||PayMent delay||30-60min       ||< 1 sec||
+||SemanticWeb  ||-              ||++||
+||             ||               || ||
+
+http://www.bitcoinmonitor.com/

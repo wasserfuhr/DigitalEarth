@@ -1,0 +1,3 @@
+ * IsA: EntrePreneur
+ * BornIn: 1940
+ * BirthDay: 01-30

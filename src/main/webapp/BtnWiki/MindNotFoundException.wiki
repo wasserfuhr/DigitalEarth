@@ -1,0 +1,192 @@
+<html>
+<h1 style="font-family:Times">Suhrkamp goes ScienceFiction: "MindNotFoundException"</h1>
+<h2>Von RainerWasserfuhr</h2>
+Mit seinem Debutwerk "MindNotFoundException" tritt neuer
+Autor auf die literarische Bühne, der in manchen Zügen
+an William Gibson erinnert, aber ein klares deutsch gefärbtes
+szenisches Kolorit aufbietet und überhaupt zur
+Generalabrechnung mit Deutschland ansetzt.
+Wasserfuhr ist Jahrgang 1969 und nennt sich auf seiner 
+Wikipedia-Seite einen "selbsternannten Zukunftsforscher".
+
+Sein Werk besteht scheinbar aus konfus zusammengewürfelten
+Fragmenten: An einigen Stellen wird das Geschehen in
+einem Bundesland "SiSanien" und in seinem "HauptStaedtchen"
+angesiedelt.
+Ebenso werden aber die eindeutig Dresden zuzuordnen sind.
+Das Geschehen spielt irgendwo zwischen der Gegenwart und 
+und dem Jahr 2029.
+Scheinbar brisant mag sein, dass das Werk eine Ansammlung
+realer Namen ist. Das Werk ist ohnehin zum Herunterladen
+angeboten. Neben der Durckfassung steht eine Online-Fassung zur 
+Verfügung, die in Wikipedia-Manier mit unzähligen internen
+Verlinkungen übersäät ist.
+Der Suhrkamp-Verlag kann kostenlos.
+
+Ganz unumwunden gibt die Übermacht des Tellkampschen Turm-Epos
+zu. Als "SciFiTurm" bezeichnet der sich selbst im
+Roman als Figur agierende Autor.
+ScienceFiction-Autobiografie.
+
+
+MindNotFoundException.html:
+
+(Copied to GoogleWave 2011-03-06)
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+Wie ich meine eigene Rezension in der FAZ erfand.
+
+Ich saß am Abend des 5. März 2011 mit 
+meinem Laptop im Gewandhaushotel der Stadt
+Dresden. Zuvor hatte ich erfolglos
+versucht, mein internetfähiges iPhone als 
+Modem für den Laptop einzurichten.
+Zwangsweise war mein Laptop hier also offline.
+In der Altmarktgalerie, einem der grossen Shoppingcenter
+der Stadt hatte ich zuvor in der Hugeldubel-Buchhandlung 
+kurz in die Autobiografie von Siemens-Chef
+Heinrich von Pierer hineingeschnuppert und
+die ersten Passagen über Werner von Siemens
+gelesen.
+In den letzten Jahren hatte sich so viel
+Material in meinem Kopf angesammelt, dass jetzt 
+möglicherweise der Punkt erreicht sein könnte, 
+der den Weg zur endgültigen Formfindung bahnen
+würde. Ich ging zur Rezeption und wollte 
+den Concierge um eine FAZ bitten, doch die
+Empfangstheke war unbesetzt und so stibitze ich
+eine FAZ aus dem danebenstehenden Zeitungsständer.
+
+Ich suchte auf dem Titelblatt das Feuilleton, schlug 
+die angebene Seite 33 auf und konnte zu meiner freudigen Überraschung feststellen, dass der dortige Leitartikel 
+von David Gelernter mit einer Szene aus meinem Lieblingsfilm 
+"SpaceOdyssey" von StanleyKubrik bebildert war.
+Ich fotografierte zunächst die Seite mit
+meinem iPhone, begann , zählte den ersten
+Abschnitt und kam schliesslich auf etwa 500 Zeilen mit 
+rund 40 Anschlägen.
+Diese 20000 Byte nahm ich mir als Ziel für die
+Textlänge vor und begann mit der Umsetzung.
+Der Text musste die wesentlichen Handlungsstränge
+und stilistischen Merkmale enthalten, von
+denen in meinem Kopf schon mehr als genug
+vorhanden war.
+
+Die Website der PieschenBank wäre der geeignete
+Ort, um den Text fortan in lockerer Folge fortzuschreiben.
+Ich beschloss, "Suhrkamp" als Platzhalter für
+den endgültigen Verlag zu verwenden und in den 
+kommenden Monaten die Textproduktion so kontinuierlich
+voran zu treiben und in meinem Bekanntenkreis
+zu streuen, dass meine Umwelt deutlich
+absehen konnte, welche Gestalt dieses Unterfangen
+bald annehmen könnte.
+
+Dann würde ich beginne, wirklich Verlage 
+anzusprechen und die Details für die
+Umsetzung zu recherchieren.
+
+<table>
+<tr>
+<td width="33%">
+<h1 style="font-family:Times">
+"MindNotFoundException" - Suhrkamp startet Online-ScienceFiction-Roman zum Mitmachen
+</h1>
+<h2 style="font-family:Arial; font-weight:normal">Von RainerWasserfuhr</h2>
+<hr/>
+Mit seinem Debutwerk "MindNotFoundException" tritt ein neuer
+Autor auf die literarische Bühne, der in manchen Zügen
+an William Gibson erinnert, aber ein klares deutsch gefärbtes
+szenisches Kolorit aufbietet und überhaupt zur
+Generalabrechnung mit Deutschland ansetzt.
+Wasserfuhr ist Jahrgang 1969 und nennt sich auf seiner 
+Wikipedia-Seite einen "selbsternannten Zukunftsforscher".
+
+Sein Werk besteht aus scheinbar zufällig zusammengewürfelten
+Fragmenten: An einigen Stellen wird das Geschehen in
+einem "HauptStaedtchen" in einem fiktiven Bundesland "SiSanien" im Osten der "DePublik" angesiedelt.
+Ebenso werden aber unzählige Schauplätze verwendet, die 
+eindeutig realen Entsprechungen in Dresden zuzuordnen sind.
+Das Geschehen spielt irgendwo zwischen der Gegenwart und 
+und dem Jahr 2029.
+Die Raffinesse des Werkes beruht auf einem gewagten
+Spiel an der Grenze von Fakt und Fiktion.
+Das Werk will sich nicht in Fiktion flüchten, sondern
+erhebt geradezu programmatischen Anspruch auf die
+Zukunft.
+
+</td><td width="33%" style="text-align:block">
+Scheinbar brisant mag sein, dass das Werk eine Ansammlung
+realer Namen ist. Das Werk ist ohnehin zum Herunterladen
+angeboten. Neben der Durckfassung steht eine Online-Fassung zur 
+Verfügung, die in Wikipedia-Manier mit unzähligen internen
+Verlinkungen übersäät ist.
+Der Suhrkamp-Verlag wagt mit diesem Werk erstmals den Schritt,
+etwas in Druck zu geben, das jederzeit kostenlos Online verfügbar ist.
+
+Ganz unumwunden ordnet sich Wasserfuhr der Übermacht des Tellkampschen Turm-Epos unter. Als "SciFiTuermchen" bezeichnet
+der sich selbst im Roman als Figur agierende Autor sein Werk.
+ScienceFiction-Autobiografie.
+"Es hat sich als immens praktikal erwiesen, das eigene Leben 
+als einen permament fortzuschreibenden
+ScienceFiction-Roman aufzufassen."
+"Ich hatte von Beginn an geplant, ein Werk zu Schaffen das gleichermassen den Ansprüchen von Bildungsbürgertum und 
+Geeks genügte. Poesie und PHP? Das ging nur, indem zwei
+parallele Erzählungen aufgebaut wurden."
+
+Wasserfuhr spannt einen weiten Bogen in die aktuelle
+Futuristik. Dreh- und Angelpunkt ist der amerikanische
+KI-Prophet Ray Kurzweil, dessen radikale Vorstellungen
+das Werk virusartig durchziehen.
+Der Text ist angereichert mit Bildkollagen, die von Flickr oder FaceBook, und unter denen man oftmals Kommentare von realen "Romanfiguren" findet. Vielfach verschwimmt so die Grenze
+zwischen Fiktion und digitaler Abbildung, zwischen geplanter
+Zukunft, Fiktion und Wirklichkeit.
+
+</td><td width="33%" style="text-align:block">
+
+Wette "LongBetOne" die RayKurzweil schon mit einem.
+Im HighTech-Umfeld von SiliconSaxony entsteht ein
+Wirtschaftsboom, der rund um Virtuelle Realitäten und
+Künstliche Intelligenz aufgebaut ist.
+
+Die zwei Zentren des Geschehens sind einerseits die südelbische barocke Altstadt rund um Semperoper, Frauenkirche und Zwinger und andererseits eine ominöse "FabOne" in den nördlichen Dresdner "Highlands", wo künstliche Gehirne in Silizium gegossen werden. Sie sind eine "BrainCopy" von einem "MindOne" und milliardenfach in Mobilgeräten und selbst in intelligenten biometrischen Türgriffen zum Einsatz kommen.
+
+Was schon Tellkamp vielleicht dem Risiko der Verletzung von Persönlichkeitsrechten ausgesetzt hat, hat sich in meinem Werk "Industriespionage". Dies musste ich von Beginn an von den höchsten Unternehmensebenen her absichern. 
+</td></tr></table></html>
+
+Er schafft ein erzählerisches Universum, das seine eigene Realisierung zum Programm macht.
+Da werden Unternehmen gegründet, eine Akademie ausgerufen, eine neue Währung proklamiert und die bevorstehenden Kollisionen mit dem herrschenden Rechtssystem gleich ausgiebig medial ausgeschlachtet. Die gesamte politische Führungsriege im "HauptStaedtchen" wird in fiktive Dialoge verwickelt 
+
+SiSanien hatte sich binnen weniger Jahre von einem reinen TransistorTango zu einer weltumspannenden SinnFonie gewandelt.
+
+Der Kern dieser neuen Technologiegeneration bestand sehr verkürzt gesagt darin, dass die Inhalte und Denkprozesse von menschlichen Gehirnen direkt in Silizium gegossen wurden.
+
+Dies wurde möglich, weil eine kleine AvantGarde von Utopisten begonnen hatte, den alten Traum von GottfriedWilhelmLeibniz in die Tat umzusetzen und eine ChracteristicaUniversalis, eine umfassende Sprache aller denkbaren Bedeutungen zu schaffen, die mit geringsten Verlusten an Sinngehalt in jede wichtige WeltSprache übersetzt werden konnte. Ein ausgeklügeltes Regelwerk, dessen Einhaltung mit geballter Rechenpower ständig verifiziert und verfeinert wurde, sorgte für eine umfassende Neuorganisation menschlichen Wissens, die bald auch jede feinste Verästelung von Kultur Politik Wirtschaft und persönlichen Beziehungen erfassen sollte.
+
+
+2011-03-11:1916 Mit einem nicht geringen Mass an Vorfreude setzte er sich in in DvbLinie81 und fuhr gen LoebTau, um zum zweiten Date mit diesem WonneWeib zusammenzutreffen. Er liess die ScheibchenBaeckerei hinter sich.
+Die ScheibchenBaeckerei wäre ein eigenes Kapitel wert. Allerdings würde er damit an die Grenzen des AnnoDomino2011 machbaren stossen. Denn die Geschehnisse in der ScheibchenBaeckerei unterlagen strengster GeHeim-haltung.
+
+
+
+Wasserfuhr kommt mit wenigen unlogischen Stilmitteln
+aus, die sich auf eine einzige "Anomalie" im Raum-ZeitKontinuum zurückführen lässt: Einen Besuch, den er seinem AlterEgo in der Vergangenheit abstattet: Der "RainerWasserfuhr" mit der Lebenserfahrung aus dem Jahr 2009 tritt für wenige Stunden in das Leben des 19-jährigen Informatikstudenten des Jahres 1989 ein und hinterlässt ihm einen Apple-Laptop mit einer magischen UMTS-Karte. 
+Diese Konstellation hat eine hohes didaktisches Potential, muss es doch 20 Jahre technologische Entwicklung komprimiert und einfühlsam vermitteln.
+
+Sie blickte in einen wundervollen altes Gebäude. Ganz hinten schien eine größere männliche Gestalt zustehen.
+
+Die Welle wusch alles hinweg. 
+
+Sie konnte dem Sinn dieser Worte oft kaum folgen, aber dem magnetischen Sog seiner Stimme lieferte sie sich fast bedingungslos aus. Als sie sich im "Raskolnikoff" trafen, überschüttete er sie mit seinem Wissen. Seine Zahlenakrobatiken überforderten sie. Sie schämte sich beinahe. Er schien aus ein paar gemerkten Kennwerten jede Erkenntnis herleiten zu können. Kein Vergleich war vor ihm sicher. Plötzlich hingen die "Joule" ihrer Diättabellen mit der Leistung von  Kernkraftwerken und Löwenzäunen in der Sahara zusammen. Wieso konnte sie nicht?
+Natürlich schlief sie mit ihm - in der ersten Nacht schon.
+Dann meldete er sich tagelang nicht mehr.
+
+Nach Monaten erinnerte sie sich, wie chinesische Tür.
+
+Dann las sie diesen Text. Kein Abschnitt verging, in dem ihr nicht ihre ganz eigene Erinnerung entgegensprang. Früher hatte er mit seiner avantgardistischen Transparenz kokettiert. Obwohl es überall vor Realität strotzte: Hier kein Name, kein Ort. Er hatte kaschiert und falsche Fährten gelegt.
+
+Da war auch keine Zukunft. 
+

@@ -1,0 +1,20 @@
+ * IsA: ProJect
+ * PartOf: BahnReform4
+ * MindOne: TrueMan
+ * OrgChart: RaWa < SaZi < ToMo < ... < VolkerKefer < DrGrube < BahnChefin
+
+GloPeCo: 1 SaZi 2 ToMo 3 RaGu 4 NoSc 5 CoPa 6 HaFr 7 ReWi 8 DePl 9 UtPl 10 11 UwBe 12 HeHan 13 RuSch
+
+
+HourList:
+||08-15||1315||1810||RbSoHq||
+||08-14||1430||1...||IsbHq||
+||08-14||1100||1...||RbSoDd||
+||08-13||1315||1810||RbSoHq||
+||08-09||1100||1215||
+||08-08||1515||1...||
+||08-06||1316||1...||
+||08-02||1100||1105||
+||08-01||1115||1745||
+||07-30||0815||1600||
+||07-29||1100||1600||

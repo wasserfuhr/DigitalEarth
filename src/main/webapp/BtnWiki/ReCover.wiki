@@ -1,0 +1,38 @@
+ToDo: ReCover 32 WikiPage's deleted by AstridFriedrich on 2012-07-09: RevNum r7980 to r8007 and r8009 to r8012.
+
+AstridFriedrich temporarily suspended as BtnWikiUser.
+
+r8012 GutGegenWikiWind
+r8011 AstridKlein
+r8010 JerusalemGasse
+r8009 AgnesApotheke
+r8007 BrandyGirl
+r8006 UndWirTanzenMit
+r8005 GinTonic
+r8004 NietzscheAnders
+r8003 WieNomic
+r8002 ChromoSom
+r8001 BiFri
+r8000 LiebesFaden
+r7999 VerlustRoman
+ * r7998 r8274 WolfgangSchmidbauer
+r7997 WillEinKindleVonDir
+r7996 QuietscheMietze
+r7995 WeltKlasseMann
+r7994 ClaJong
+r7993 WiDo
+r7992 SchickDenTweetNichtMitDeinemSemperPhone
+r7991 OhrliBohrli
+r7990 ClaNetty
+r7989 QualityHeidi
+r7988 ClaDa
+r7987 AstridGross
+r7986 ViolaCesario
+r7985 ConanDerBaxtar
+r7984 HotelClaDa
+r7983 ClaDaSphere
+r7982 AsFr
+r7981 FriedAs
+r7980 AstridFriedrich
+
+https://code.google.com/p/bigtablenomic/source/browse/wiki/PageName.wiki?r=7979

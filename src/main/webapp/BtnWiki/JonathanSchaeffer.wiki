@@ -1,0 +1,5 @@
+ * IsA: ProFessor
+ * WikiPedia: https://en.wikipedia.org/wiki/Jonathan_Schaeffer
+ * HomePage: http://webdocs.cs.ualberta.ca/~jonathan/
+
+DbLp: http://www.dblp.org/db/indices/a-tree/s/Schaeffer:Jonathan.html

@@ -1,0 +1,4 @@
+ * IsA: PowerWoman
+ * BornIn: 1968
+ * BirthDay: 05-28
+ * WikiPedia: https://en.wikipedia.org/wiki/Kylie_Minogue

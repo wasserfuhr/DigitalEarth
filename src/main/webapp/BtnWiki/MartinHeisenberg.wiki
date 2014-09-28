@@ -1,0 +1,5 @@
+ * IsA: ProFessor
+ * ChildOf: WernerHeisenberg
+ * RodovidId: 81776
+ * WikiPedia: https://en.wikipedia.org/wiki/Martin_Heisenberg
+ * TriBy: https://www.facebook.com/RainerWasserfuhr/posts/10151084501069916

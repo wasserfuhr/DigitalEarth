@@ -1,0 +1,10 @@
+ * IsA: ProJect
+
+StadtWien as SingularCity
+
+BoundingBox:
+ * South: SiebenHirten (U6)
+ * North/East: LeopoldAuf (U1)
+ * West: HuettelDorf (U4)
+
+ToDo: check: extension towards AspenFeld UnTil2019

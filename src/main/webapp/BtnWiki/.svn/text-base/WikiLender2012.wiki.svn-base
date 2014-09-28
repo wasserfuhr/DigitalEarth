@@ -1,0 +1,118 @@
+|| *yyyy-MM-dd:hhmm*||UnTil||Status||*MindPlace*|| *MindEvent*|| *MindPeople*||
+||2012-12-2x:2100|| || ||HauptStaedtchen||casting  ||FordKidman    ||
+||2012-12-26:1500|| || ||CafeNeustadt   ||casting  ||FordKidman    ||
+||2012-12-23:1900|| || ||Istanbul       ||Duerum ||GretChen HeinRich    ||
+||2012-12-23:1859|| || ||elousises      ||SehAn  ||IrIs TrueMan    ||
+||2012-12-21     || || ||PlanetErde     ||WeltUntergang? ||SiHo?        ||
+||2012-12-20     || || ||NordStadt      ||WeihnachtsGaenseFeier||       ||
+||2012-12-19:2200|| || ||CafeNeustadt   ||GeistesVisitation||ArDi KidMan||
+||2012-12-19     || || ||StadtDresden   ||MitchAltmanInDresden||MitchAltman RaLi?||
+||2012-12-18     || || ||BaerenZwinger  ||NooVent        ||PixelBube    ||
+||2012-12-18     || || ||StadtDresden   ||FbEvent307669949343680||      ||
+||2012-12-09     || || ||KleinHaus      ||DieBetriebsfeier||TrueMan ExAl||
+||2012-12-03     || || ||CafeNeustadt   ||KucktDasGretChen||TrueMan GretChen||
+||2012-12-03     || || ||StadtDresden   ||NettoKom       ||             ||
+||2012-11-24:2000|| || ||SemperOper     ||LesBalletsRusses||            ||
+||2012-11-20     || || ||LipsiusBau     ||LipsiusVibes   ||             ||
+||2012-11-11:1100|| || ||KastenMeier    ||Vernissage     ||ViBra ChSt   ||
+||2012-11-06     || || ||UnitedStates   ||Election       ||             ||
+||2012-11-02     || || ||StadtDresden   ||ProhibitionsParty||           ||
+||2012-10-11     || || ||StadtDresden   ||BirthDay       ||             ||
+||2012-10-06     || || ||SaLoppe        ||AbSchluss      ||             ||
+||2012-09-25     || || ||StadtDresden   ||KuesstDasGretChen||TrueMan GretChen||
+||2012-09-25     || || ||StadtDresden   ||AldiTalk       ||             ||
+||2012-09-15     || || ||PotsDam        ||BwInf          ||             ||
+||2012-09-05:0830|| || ||StadtDresden   ||Meeting        ||TrueMan GretChen||
+||2012-09-04:1030|| || ||TraumWohnung   ||PoWoCo         ||TrueMan GretChen||
+||2012-09-03     || || ||BankenViertel  ||NettoKom       ||             ||
+||2012-09-02:1730|| || ||BankenViertel  ||               ||RaWa IrIs    ||
+||2012-08-26     || || ||HechtViertel   ||HechtFest      ||             ||
+||2012-08-25     || || ||HechtViertel   ||HechtFest      ||             ||
+||2012-08-25     || || ||BankenViertel  ||AldiTalk       ||             ||
+||2012-08-24     || || ||HechtViertel   ||HechtFest      ||             ||
+||2012-08-19     || || ||StadtDresden   ||StadtFest      ||             ||
+||2012-08-18     || || ||StadtDresden   ||StadtFest      ||             ||
+||2012-08-17     || || ||StadtDresden   ||StadtFest      ||             ||
+||2012-08-11     || || ||WeissHirsch    ||ConCert        ||AnnettLouisan||
+||2012-08-07:0726|| || ||UniVerse       ||DieLiebe       ||             ||
+||2012-08-04     || || ||KaiserUfer     ||ConCert        ||RolandKaiser ||
+||2012-08-03     || || ||KaiserUfer     ||ConCert        ||RolandKaiser ||
+||2012-08-01:1800|| || ||BankenViertel  ||Meeting        ||HeMo RaWa    ||
+||2012-07-26     || || ||AltStadt       ||Meeting        ||RaLi RaWa    ||
+||2012-07-21     || || ||KaiserUfer     ||ConCert        ||RainaldGrebe ||
+||2012-07-17     || || ||NeuStadt       ||WannWasWo      ||HeMo RaWa    ||
+||2012-07-14     || || ||StadtDresden   ||SchloesserNacht||ChSc BeaGe   ||
+||2012-07-14     || || ||KaiserUfer     ||ConCert        ||KatieMelua   ||
+||2012-07-07     || || ||StadtDresden   ||KlassikPicknickt||KaPa EtAl||
+||2012-07-05     || || ||HalberStadt    ||               ||             ||
+||2012-07-05     || || ||StadtDresden   ||BauBall        ||ChSc BeaGe UvSt EtAl||
+||2012-07-03     || || ||JungGarde      ||ConCert        ||BobDylan     ||
+||2012-07-01     || || ||ZwergenSchloss ||AnniversaireRoyal||ChSc RaWa EtAl||
+||2012-06-30     || || ||KaiserUfer     ||ConCert        ||LouReed      ||
+||2012-06-28     || || ||OTwoWorld      ||ConCert        ||MadonnaCiccione ChSc BeaGe EtAl||
+||2012-06-28:1845|| || ||MarienBruecke  ||GeSpraech      ||RaWa EtAl    ||
+||2012-06-28     || || ||ZwergenSchloss ||MindSchule     ||JayEff RaLi  ||
+||2012-06-28     || || ||OTwoWorld      ||ConCert        ||ChSc RaWa?   ||
+||2012-06-25:1900|| || ||HoffnungsSteg  ||GeSpraech      ||RaWa EtAl    ||
+||2012-06-23     || || ||HangarOne      ||SingularAcademyOpening?||RaLi? ||
+||2012-06-23     || || ||AltMarkt       ||StoffmarktHolland||AlNe RaWa EtAl||
+||2012-06-24     || || ||StadtDresden   ||ElbhangFest    ||             ||
+||2012-06-23     || || ||LockSchuppen   ||LockSchuppenOpening||RaWa EtAl||
+||2012-06-23     || || ||StadtDresden   ||ElbhangFest    ||             ||
+||2012-06-22     || || ||StadtDresden   ||ElbhangFest    ||             ||
+||2012-06-17     || || ||HtwDresden     ||MobileCamp     ||             ||
+||2012-06-16     || || ||HtwDresden     ||MobileCamp     ||             ||
+||2012-06-16     || || ||MountainView   ||SuGsp12        ||RaKu EtAl    ||
+||2012-06-15     || || ||NeuStadt       ||BuntRepublik   ||             ||
+||2012-06-14     || || ||ErlweinCapitol ||FutureForum    ||DavidWeinberger JeremyRifkin RaWa EtAl||
+||2012-06-08     || || ||StadtDresden   ||AlumniBall     ||             ||
+||2012-05-28     || || ||PlanetErde     ||MindParty2012  ||             ||
+||2012-05-25:1600|| || ||StadtWien      ||SpazierGang    ||RaWa         ||
+||2012-05-23     || || ||StadtDresden   ||TechBeyond2020 ||RaLi EtAl    ||
+||2012-05-19     || || ||StadtWien      ||LifeBall       ||UteMoritz?   ||
+||2012-05-18     || || ||StadtDresden   ||PolterAbend    ||BeaGe EtAl   ||
+||2012-05-04     || || ||StadtBerlin    ||RePublica      ||             ||
+||2012-05-03     || || ||StadtBerlin    ||RePublica      ||             ||
+||2012-05-02     || || ||StadtBerlin    ||RePublica      ||             ||
+||2012-04-30     || || ||GoogleWave     ||ShutDown       ||             ||
+||2012-04-27     || || ||StadtDresden   ||FruehjahrsEmpfang|| ||
+||2012-04-26:1800|| || ||DonauZentrum   ||PoWoCo         ||ClaDa RaWa||
+||2012-04-12     || || ||               ||AldiTalk       || ||
+||2012-04-12     || || ||               ||NettoKom       || ||
+||2012-04-08     || || ||               ||UrbiEtOrbi     ||JosephRatzinger||
+||2012-03-29     || || ||TeBi           ||DollBohrerBande||DuesChen EtAl||
+||2012-03-24     || || ||ParkHotel      ||HutBall-Party  ||PePu?||
+||2012-03-23     || || ||ParkHotel      ||HutBall        ||PePu?||
+||2012-03-09:2000|| || ||PragerBierstuben|| ||DrMabe RaWa? EtAl||
+||2012-03-02:1800|| || ||InnerStadt     ||WikiDate       ||RaWa? ClaDa?||
+||2012-02-11:2355|| || ||StadtDresden   ||FlatRate       ||RaWa||
+||2012-02-24     || || ||StadtDresden   ||NastyLoveClub  ||RaWa?||
+||2012-02-16     || || ||StadtKoeln     ||AlAaf          ||DrMabe?||
+||2012-02-11:2355|| || ||StadtDresden   ||FlatRate       ||RaWa||
+||2012-02-11     || || ||LouisenStrasse ||               ||ChSc DrMabe HeGa||
+||2012-02-10     || || ||LipsiusBau     ||LipsiusVibes   || ||
+||2012-02-06:2355|| || ||StadtDresden   ||FlatRate       ||RaWa||
+||2012-02-03:1930|| || ||LingnerSchloss ||               ||HeMo? RaWa?||
+||2012-02-02     || || ||KoernerPlatz   ||               ||JaWi RaWa||
+||2012-02-02:1500|| || ||               ||DzWk           ||HeMo RaWa?||
+||2012-02-02     || || ||BlueNote       ||               ||HeMo? RaWa? AnEi? ||
+||2012-02-01     || || ||StadtDresden   ||PoetenGefluester||RiPet?||
+||2012-01-31:2000|| || ||HygieneMuseum  ||NachDemAuto    ||ChSc HeGa||
+||2012-01-31     || || ||GoogleWave     ||ReadOnly       || ||
+||2012-01-28:2000|| || ||DieBuehne      ||AusDenMuendern ||DeanMoriarty RaWa?||
+||2012-01-27:2000|| || ||PragerBierstuben|| ||DrMabe RaWa? EtAl||
+||2012-01-27:2000|| || ||DieBuehne      ||AusDenMuendern ||DeanMoriarty RaWa?||
+||2012-01-26:1800|| || ||WirAg          ||FlaschenSammler||RaWa?||
+||2012-01-25:1900|| || ||TrobischHof    ||DaemmerShoppen ||RaWa?||
+||2012-01-23:1830|| || ||ComoedieDresden||DresdnerKoepfe ||ChSc RaWa LyGr? BeGe?||
+||2012-01-20     || || ||SemperOper     ||SemperOpernBall||RaWa?||
+||2012-01-18     || || ||               ||NeujahrsEmpfang||StTi||
+||2012-01-18:1600|| || ||TraumAtelier   ||DzWk           ||HeMo MaEr||
+||2011-12-06     || || ||PragerStrasse  ||GluecksSpiel   ||RaWa ChSc?||
+||2011-10-31     || || ||PlanetEarth    ||SevenBillion   || ||
+||2011-03-19     || || ||               ||HutBall-Party  || ||
+||2011-03-18     || || ||               ||HutBall        || ||
+||2011-03-16:2000|| ||CANCELED||GareDeLaLune||           || ||
+||2011-03-13:1300|| || ||Continental    ||               ||ChSc HeGa ChSt RaWa||
+||2011-03-11:2030|| ||CANCELED||Bacchus ||               || ||
+||2010-06-10     || || ||PuroBeach      ||RrcRt          ||RaLi RaKu CoWo RaWa TiBr||

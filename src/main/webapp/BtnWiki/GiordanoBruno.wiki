@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * BornIn: 1548
+ * DiedIn: 1600
+ * WikiPedia: https://en.wikipedia.org/wiki/Giordano_Bruno

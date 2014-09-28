@@ -1,0 +1,1 @@
+SemanticTravelPlanner: EntScheid: If ObWien then WannWien

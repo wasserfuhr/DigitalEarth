@@ -1,0 +1,8 @@
+ * IsA: EnterPrise
+ * NamedAfter: PoNeke
+ * EtymoLogia: "InspiredBy the name of our local region PoNeke (in NewZealand)"
+ * EtymoLogiaSource: http://3dprinterhub.com/3d-printer-interviews/David-Ten-Have
+ * MindOne: DavidTenHave
+ * WikiPedia: https://en.wikipedia.org/wiki/Ponoko
+
+#ThreeDimPrint

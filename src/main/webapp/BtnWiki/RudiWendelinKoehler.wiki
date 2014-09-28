@@ -1,0 +1,6 @@
+ * IsA: PerSon
+ * BornIn: 1958
+ * DiedIn: 2004
+ * InterWiki: [DeWikiPedia:OUBEY]
+ * TriBy: https://www.facebook.com/brand.eins/posts/10152332116239017
+ * HaTa: FritzHaller?

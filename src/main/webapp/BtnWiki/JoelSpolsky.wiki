@@ -1,0 +1,3 @@
+ * IsA: EntrePreneur
+ * BornIn: 1965
+ * InterWiki: [WikiPedia:Joel_Spolsky] [WikiWikiWeb:JoelSpolsky]

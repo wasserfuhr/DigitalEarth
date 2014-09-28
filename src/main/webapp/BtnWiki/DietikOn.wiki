@@ -1,0 +1,5 @@
+ * IsA: MindPlace
+ * EtymoLogia: aus dem um das Suffix -ing- erweiterten althochdeutschen Personennamen Dioto und dem daran angehängten Grundwort hof im Dativ der Mehrzahl (*Diotinc-hovun > Dietikon)
+ * EtymoLogiaSource: https://de.wikipedia.org/wiki/Dietikon#Geschichte
+ * WikiPedia: https://en.wikipedia.org/wiki/Dietikon
+ * PartOf: SwitzerLand

@@ -1,0 +1,5 @@
+ * IsA: BetriebsWiki
+ * HomePage: https://wiki.bahn.com/
+ * OperatedBy: GoogleUn
+
+DeutschBahn ZuFu EbaTla

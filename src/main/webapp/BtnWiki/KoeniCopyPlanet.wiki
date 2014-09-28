@@ -1,0 +1,6 @@
+ * IsA: CopyShop
+ * PartOf: KoenigsbrueckerStrasse
+
+OpenStreetMap: http://www.openstreetmap.org/?lat=51.068828&lon=13.748183&zoom=18 #ToDo
+
+post CopyPlanet

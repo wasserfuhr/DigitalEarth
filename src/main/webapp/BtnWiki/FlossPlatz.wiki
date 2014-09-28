@@ -1,0 +1,3 @@
+ * IsA: MindSquare
+ * PartOf: StadtLeipzig
+ * DeWikiPedia: https://de.wikipedia.org/wiki/Flo%C3%9Fplatz_%28Leipzig%29

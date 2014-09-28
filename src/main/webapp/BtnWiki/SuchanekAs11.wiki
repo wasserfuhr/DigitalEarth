@@ -1,0 +1,7 @@
+ * IsA: MindPaper
+
+http://dblp.uni-trier.de/rec/bibtex/journals/pvldb/SuchanekAS11
+
+FabianSuchanek SergeAbiteboul PierreSenellart
+
+ParisProject OaEi

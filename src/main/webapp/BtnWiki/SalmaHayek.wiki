@@ -1,0 +1,3 @@
+ * IsA: PerSon
+ * WikiPedia: https://en.wikipedia.org/wiki/Salma_Hayek
+ * BirthDay: 09-02

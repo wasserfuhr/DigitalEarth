@@ -1,0 +1,4 @@
+ * IsA: PerSon
+ * BornIn: 1967
+ * BirthDay: 02-28
+ * InterWiki: [WikiPedia:Andrew_Tridgell]

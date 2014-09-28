@@ -1,0 +1,4 @@
+ * IsA: WirtsHaus
+ * HomePage: http://www.weltcafe-dresden.de/
+ * MindOne: AlexanderBigga
+ * OpenStreetMap: https://www.openstreetmap.org/browse/node/480993802

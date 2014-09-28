@@ -1,0 +1,4 @@
+ * IsA: MindCity
+ * EtymoLogia: jaya = Sieg; karta = gedeihen, friedliche
+ * EtymoLogiaSource: https://de.wikipedia.org/wiki/Etymologische_Liste_der_Hauptstadtnamen#I
+ * WikiPedia: https://en.wikipedia.org/wiki/Jakarta

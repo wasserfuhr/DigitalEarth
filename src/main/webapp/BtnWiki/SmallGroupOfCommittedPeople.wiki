@@ -1,0 +1,3 @@
+ * MindQuote: "a SmallGroupOfCommittedPeople can ChangeTheWorld. Indeed, it's the only thing that ever has." - MargaretMead
+
+#ChangeAgent

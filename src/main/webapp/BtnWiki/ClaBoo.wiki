@@ -1,0 +1,5 @@
+ReThink DisLike!: for 1 Boo you first have to clap n times.
+
+n = 
+ * 10? 
+ * 4?(ParetoRule)

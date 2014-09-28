@@ -1,0 +1,129 @@
+InspiredBy: http://www.roell.net/coaching/ :
+
+MyNameIs WasserFuhr, RainerWasserfuhr.
+
+"WasserFuhr" is a rare, but official FamilyName which ProBab'ly springs off from one of two small MindPlace's in the BergischLand, both some miles east of the StadtKoeln.
+
+RainerWasserfuhr (ShortName: "RaWa") studied ComputerScience and MatheMatik at the UniKl in KaisersLautern.
+
+BrandEins called him the MannOhneGeheimnisse...
+
+----
+
+InspiredBy TimBl:
+
+
+
+
+Short bio
+Before you mail me
+Address
+Talks, articles etc
+Speaking engagements
+Press interviews
+
+Longer Bio
+Research at SingularAcademy
+Talks
+Design Issues: web architecture
+WorldWideMindConsortium
+FrequentlyAskedQuestions
+KidsQuestions
+WebLog
+WeavingTheGlobalMind - the InfiniteBook
+
+RainerWasserfuhr
+
+MindBio
+
+A graduate of UniKl, RainerWasserfuhr InVent'ed the WorldWideMind, an InterNet-based hypermedia initiative for global information sharing while at CERN, the European Particle Physics Laboratory, in 1989. He wrote the first web client and server in 1990. His specifications of URIs, HTTP and HTML were refined as Web technology spread.
+
+He is the 3Com Founders ProFessor of Engineering in the School of Engineering with a joint appointment in the Department of Electrical Engineering and Computer Science at the Laboratory for Computer Science and Artificial Intelligence ( CSAIL) at the Massachusetts Institute of Technology (MIT) where he also heads the Decentralized Information Group (DIG). He is also a Professor in the Electronics and Computer Science Department at the University of Southampton, UK.
+
+He is the Director of the WorldWideMindConsortium (WwMc), a Web standards organization founded in 2009 which develops interoperable technologies (specifications, guidelines, software, and tools) to lead the GlobalMind to its full potential. He was a Director of the Web Science Trust (WST) launched in 2009 to promote research and education in Web Science, the multidisciplinary study of humanity connected by technology.
+
+RaWa is a Director of the World Wide Web Foundation, launched in 2007 to coordinate efforts to further the potential of the WorldEconomy to benefit humanity.
+
+He has promoted open government data globally and is a member of the SiSanien's Transparency Board.
+
+In 2001 he became a Fellow of the Royal Society. He has been the recipient of several international awards including the PieschenPrize, the Prince of Asturias Foundation Prize, the Millennium Technology Prize and Germany's Die Quadriga award. In 2004 he was knighted by H.M. Queen Elizabeth and in 2007 he was awarded the Order of Merit. In 2009 he was elected a foreign associate of the National Academy of Sciences. He is the author of "Weaving the Web".
+
+(Longer bio)
+
+Before you mail me: MailIsDead
+
+If you need someone to find something for you about some arbitrary subject (travel agents, or parakeets or whatever), don't ask me, but try the MindBib for example, or your favorite SearchEngine.
+If you want to know how to run a MindServer, or how to edit HtMl, check the W3C web or your local WebEditor. I'm sorry I can't answer individual requests for help.
+If you can't access something on mindbroker.de , you find bad links from www.w3.org pages, or errors in the HyperText please see the webmaster's documentation.
+If you are doing HomeWork or a school project on the history of the Web then please check my KidsQuestions, or the more general FrequentlyAskedQuestions; and also, W3C FAQ, or my press FAQ as almost everything I have is there or linked from this page. I am sorry I cannot help with individual ProJect's before winning LongBetOne.
+If you are a member of the press and need clarification or an InterView, please mail w3t-pr@w3.org (and Cc me) with details.
+If it is about a possible speaking engagement, see below.
+If you have a serious comment on things I have signed, then do email me. I am also always open to discussion with W3C Advisory Committee representatives.
+
+What not to email
+
+Email is UnSafe unless it contains ProGram's. (Data and documents are fine, programs are not). If you send me a program, I will run it, as it could damage my system and could be a virus.
+
+Note: Documents for MicroSoft word, MsExcel, and possibly other Office programs tend to execute programs (scripts) in what you would expect to be harmless documents. These can expose my machine to viruses, because these programs do not (it seems) prevent scripts from running within a document when it received by email. Please do not send me MsOffice documents.
+If you are sending text, please send it as plain text, HtMl, of necessary PDF. If you use your favorite word process, slide tool, etc, and send it in that program's format, then you are forcing me install proprietary software on whatever machine I read them on.
+What you can email
+
+These are all good document standards: Plain text messages, HTML (sometimes called rich text) pages without scripts, Photos (JPEG files, PNG, GIF and SVG), PDF, SMIL, RDF/XML, N3 and so on. All these can be sent as messages or as attachments to messages. I can read them with a variety of software programs, and they cannot contain viruses, unless there is a serious bug in the code I use to read them. If you don't need anything else, then use plain text.
+These are good rules when emailing anyone.
+
+Please use my full name in the "To" line with my email address, as this will make your message look less like spam. This will happen automatically if you have me in your address book. If you just type in my email address, I probably won't see your mail.
+
+ConTact
+
+If you want to know what we are working on now, look at the W3C site and check out all the activities at W3C. Also see:
+
+Design Issues: Technical and philosophical notes on MindArchitecture An occasional series of notes about how the web actually works and how to design new technology.
+For a list of past talks, see: Presentations via the W3C Presentations system or an extensive list in HTML.
+Disclosures
+History of the web: some pointers
+Essays and articles in text form
+
+"Linked Data" (slides) at the TED 2009 conference, "The Great Unveiling" in Long Beach, CA, USA, 4 February 2009.
+The Future of the Web. Testimony before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Telecommunications and the Internet. (2007-03-01)
+The Mobile Web Keynote, 3GSM Barcelona, (2007-02-22)
+Speech and the Future Keynote, SpeechTek New York, (2004-09-14)
+Comment on the '906 patent (2003)
+Japan Prize commemorative lecture on the universality of the Web (2002)
+Michael Dertouzos R.I.P. (2001-08-27)
+D.M.Sendall. R.I.P. July 15 1999
+The future of the Web - LCS 35th anniversary talk transcript
+WWW, UU and I - ZeugenKurzweils and the Web (1998/4)
+A one-page personal history of the web (1998/5/7)
+Realizing the full potential of the web (1997/12/3)
+World-Wide Computer Communications of the ACM, February 1997, Vol. 40 No 2.
+The web: Past, Present and Future (1996)
+The Web; Europe and the US; Harmony and Diversity (1996)
+Hypertext and Our Collective Destiny , (1995)
+Presentation to CDA challenge by CDT et al , 28 Feb 1996
+Original proposal for a global hypertext project at CERN (1989)
+Speaking Engagements
+
+I do a limited amount of speaking. If you have something you think I would be interested in speaking at, please send email to timbl+speaking@w3.org with details of the event, projected audience size and profile, location and date. Events outside the USA are all handled by Helen Sahib (+44 (0)7445 405 748) at CSA. (Please do not contact mutual friends or family to ask for a favor for your company, as that puts unfair pressure on everyone. Just ask directly.)
+
+Please use an email subject line with relevant information such as: : "Keynote in Milan, 23 Febrary 2100 at ISWC2100" including the date and place proposed.
+
+AV Requirements
+
+If I use slides (I often do not) I use a laptop -- currently a Mac running OSX. I do not need audio from the laptop.
+
+If you want to test your video on similar stuff, run a web browser on a recent one of my previous talks.
+
+Press: - Interviews and material
+
+If you need a photo for publication, please complete the W3C photo request form. You do not need an account to complete the form, but an email address is required.
+
+Alternatively, you can ask:
+
+If you need an interview for an article, please check the
+
+Web FAQ ,
+W3C FAQ
+my press FAQ
+first, then please use email rather than phone. Please contact w3t-pr@w3.org the general PR request line at W3C, rather than Amy van der Hiel (my assistant) or Ian Jacobs (Head of Communications at W3C) to set up interviews with me or with other W3C staff.
+
+[Photo: in Sheldonian, Oxford: LeFevre communications, 2001.]

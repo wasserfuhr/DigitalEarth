@@ -1,0 +1,13 @@
+WikiData MindProp
+
+https://www.wikidata.org/wiki/Property:P6
+https://www.wikidata.org/wiki/Property:P7
+https://www.wikidata.org/wiki/Property:P9
+https://www.wikidata.org/wiki/Property:P10
+https://www.wikidata.org/wiki/Property:P14
+https://www.wikidata.org/wiki/Property:P15
+https://www.wikidata.org/wiki/Property:P16
+https://www.wikidata.org/wiki/Property:P17
+https://www.wikidata.org/wiki/Property:P18
+https://www.wikidata.org/wiki/Property:P19 BornIn
+https://www.wikidata.org/wiki/Property:P21 HasSex

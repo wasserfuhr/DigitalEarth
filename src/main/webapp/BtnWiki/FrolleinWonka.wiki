@@ -1,0 +1,3 @@
+ * IsA: HaTaRaWa PowerWoman
+ * ChildOf: ScharfesAuge
+ * TriBy: https://www.facebook.com/kati.schrodter/posts/425858427533552?comment_id=2267779&offset=0&total_comments=3

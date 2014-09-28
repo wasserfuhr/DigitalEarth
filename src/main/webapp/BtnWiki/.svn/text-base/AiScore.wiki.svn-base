@@ -1,0 +1,5 @@
+for LiveWiki:
+ * GameEvent with SignIn: +4
+ * CamelCase word +1
+ * PageName +1
+ * CallName +1

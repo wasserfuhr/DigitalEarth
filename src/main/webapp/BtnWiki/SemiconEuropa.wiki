@@ -1,0 +1,68 @@
+ * IsA: EventSeries
+
+some InPut for SemanticSilicon:
+
+Michael Arnold, PeerGroupInc
+JohannBartha, TuDresden
+TomBeens, UmiCore
+JacquesBerg, TokyoElectron
+LivioBaldi, Micron
+GuyDubois
+ErnstFeistle, AppliedMaterials
+MartGraef, TuDelft
+MartinHeerschop, GeCapital
+DidierLouis, CeaLeti
+MartinMcCallum, Nikon
+RichardOechsner, Fraunhofer IISB
+LotharPfitzner, Fraunhofer IISB
+IvoRaaijmakers, ASM International
+PeterSchaeffler, TexasInstruments
+KarstenSchneider, AppliedMaterials
+FrancisTaroni,SoiTec
+LutzLabs, InfinEon
+FabriceLetertre, SoiTec
+ChristianCarlier, StMicroelectronics
+JoachimPelka, FraunHofer
+MattyCaymax, ImEc
+WernerBergholz, JacobsUniversity
+
+JeremieBouchaud, iSuppli
+MarkusGabriel, SussMicroTec
+ErikJung, FraunHofer IMZ
+GerhardLammel, Bosch (chairman)
+PaulLindner, EVG
+MikkoMontonen, Okmetic
+FelixRudolf, Colibrys (co-chair)
+ChristianSchaefer, PvaTepla
+UweSchwarz, X-Fab
+ThomasGessner, FraunHofer
+EricMounier, YoleDeveloppement 
+
+Rolf Aschenbrenner, FraunHofer IZM
+Eef Bagerman, NXP
+Eric Beyne, IMEC
+Andreas Dill, Oerlikon
+Andreas Fischer, Bosch
+Andy Longford, PandA Europe (chairman)
+Jens Mueller, IMAPS Europe Chapter
+Graham Jones, Henkel
+Steffen Kroehnert, Nanium
+Thomas Oppert, PacTech
+Klaus Pressel, InfinEon
+Ignas van Dommelen, Sencio
+RolfBeckert, HesseKnipps
+Christophe Zinck, Yole
+MarkShaw, StMicroelectronics
+
+Davide Appello, StMicroelectronics
+Roger Barth, Numonyx
+Stefan Eichenberger, NXP
+Stefan Gasteiger, AdvanTest
+Michael Goldbach, LTX
+Klaus-Detlef Paesch, GlobalFoundries
+Chris Portelli-Hale, StMicroelectronics
+Ulrich Schoettmer, Verigy
+Martin Stadler, TeraDyne
+Peter Cockburn, ltxc
+René Segers, ReSeCo 
+Conceicao Caldeira, Nanium

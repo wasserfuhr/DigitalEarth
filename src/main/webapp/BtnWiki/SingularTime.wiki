@@ -1,0 +1,5 @@
+ * HomePage: http://time.sl4.eu/
+
+DidYouMean: SingularTimeMag?
+
+http://jsbin.com/gewij/1/edit

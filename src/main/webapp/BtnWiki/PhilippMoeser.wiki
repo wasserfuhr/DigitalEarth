@@ -1,0 +1,5 @@
+ * IsA: PerSon
+ * WorkFor: WooGa
+ * XingLe: https://www.xing.com/profile/Philipp_Moeser
+
+via http://www.netmagazine.com/features/small-agile-and-fast-how-build-top-10-facebook-game

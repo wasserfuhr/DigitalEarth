@@ -1,0 +1,3 @@
+ * IsA: ChemicalElement
+ * EtymoLogia: from Ancient Greek ὕδωρ (hudōr, “water”) + γεννάω (gennaō, “I bring forth”)
+ * InterWiki: [WikiPedia:Hydrogen]

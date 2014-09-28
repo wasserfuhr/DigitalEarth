@@ -1,0 +1,4 @@
+ * IsA: TopManager
+ * BornIn: 1960
+ * BirthDay: 02-10
+ * XingLe: https://www.xing.com/profile/Thomas_Vollmoeller

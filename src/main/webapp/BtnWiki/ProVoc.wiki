@@ -1,0 +1,5 @@
+ * DeWikiPedia: https://de.wikipedia.org/wiki/Provokation
+ * EtymoLogia: from prō (“in front of, for”) + vocō (“call”)
+ * EtymoLogiaSource: https://en.wiktionary.org/wiki/provoco#Latin
+
+PowerCoach

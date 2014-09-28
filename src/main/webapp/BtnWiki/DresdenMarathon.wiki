@@ -1,0 +1,4 @@
+ * IsA: EventSeries
+ * DeWikiPedia: https://de.wikipedia.org/wiki/Dresden-Marathon
+
+MoPo

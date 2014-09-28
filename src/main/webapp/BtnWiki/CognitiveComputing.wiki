@@ -1,0 +1,1 @@
+A SemanticWiki tries to link the (often exponentially) increasing amount of data in [KnowledgeIntensive] companies and organizations to the MentalModel's of their human actors.

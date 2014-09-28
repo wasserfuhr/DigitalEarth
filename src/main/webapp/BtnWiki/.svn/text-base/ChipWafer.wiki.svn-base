@@ -1,0 +1,11 @@
+ * InterWiki: [WikiPedia:Wafer_(electronics)]
+
+{{{
+;possible states:
+; * in FabTool
+; * carried by FabWorker
+; * in WaferStation
+:locationX -
+:imageSrc
+:imageWidth
+:imageHeight}}}

@@ -1,0 +1,5 @@
+ * IsA: PowerWoman ProFessor
+ * BornIn: 1961
+ * BirthDay: 03-02
+ * WikiPedia: https://en.wikipedia.org/wiki/Simone_Young
+ * MindSkill: ConDuct

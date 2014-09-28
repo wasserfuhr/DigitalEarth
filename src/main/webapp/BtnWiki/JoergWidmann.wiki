@@ -1,0 +1,5 @@
+ * IsA: PerSon
+ * BornIn: 1973
+ * BirthDay: 06-19
+ * WikiPedia: https://en.wikipedia.org/wiki/J%C3%B6rg_Widmann
+ * MindSkill: ComPose

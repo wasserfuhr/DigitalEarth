@@ -1,0 +1,3 @@
+ * IsA: MindMusic
+ * DcAuthor: EdithPiaf
+ * WikiPedia: https://en.wikipedia.org/wiki/La_Vie_en_rose

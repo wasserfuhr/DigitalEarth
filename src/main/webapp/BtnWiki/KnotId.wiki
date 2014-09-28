@@ -1,0 +1,7 @@
+http://waj-koenitz.wikispaces.com/KnotId
+
+||KnotId||MindId||
+||     2||     1||
+||     1||   187||
+
+#KnotNet

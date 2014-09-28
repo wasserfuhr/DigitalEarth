@@ -1,0 +1,6 @@
+ * IsA: StadtWiki
+ * HomePage: http://www.hueckipedia.de/
+ * MindOne: NorbertBangert
+ * TriBy: MichaelVonRekowski
+
+HueckesWagen

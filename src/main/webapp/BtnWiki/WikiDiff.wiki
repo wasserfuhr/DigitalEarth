@@ -1,0 +1,7 @@
+http://sl4.eu/RecentChanges
+
+for the true RecentChangesJunkie:
+
+https://code.google.com/p/bigtablenomic/source/list
+
+ExempliGratia: https://code.google.com/p/bigtablenomic/source/diff?spec=svn3064&r=3064&format=side&path=/wiki/KopfKino.wiki

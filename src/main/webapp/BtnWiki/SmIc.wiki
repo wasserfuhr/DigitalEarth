@@ -1,0 +1,4 @@
+ * IsA: EnterPrise
+ * WikiPedia: https://en.wikipedia.org/wiki/Semiconductor_Manufacturing_International_Corporation
+
+#ChipFab

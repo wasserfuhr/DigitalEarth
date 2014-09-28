@@ -1,0 +1,2 @@
+ * IsA: SovereignWealthFund
+ * WikiPedia: https://en.wikipedia.org/wiki/Qatar_Investment_Authority

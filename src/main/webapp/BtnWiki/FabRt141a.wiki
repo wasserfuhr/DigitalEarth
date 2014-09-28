@@ -1,0 +1,4 @@
+ * IsA: ChipFab
+ * OperatedBy: BoschGmbh
+
+https://www.google.com/search?q=bosch+fab

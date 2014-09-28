@@ -1,0 +1,1 @@
+ * TriBy: http://wiki.blender.org/index.php/Doc:2.4/FAQ/Game_Engine/Making_Different_Game_Types

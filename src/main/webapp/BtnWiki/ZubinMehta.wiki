@@ -1,0 +1,3 @@
+ * IsA: ConDuctor
+ * WikiPedia: https://en.wikipedia.org/wiki/Zubin_Mehta
+ * BirthDay: 04-29

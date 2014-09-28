@@ -1,0 +1,4 @@
+ * IsA: MindPlace
+ * WikiPedia: https://en.wikipedia.org/wiki/Museumsquartier
+ * PartOf: StadtWien
+ * FbPage: https://www.facebook.com/MuseumsQuartierWien

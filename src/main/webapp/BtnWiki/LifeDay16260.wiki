@@ -1,0 +1,9 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16261 « 2013-12-02 » LifeDay16259
+ * HappyBirthday: OttoDix ThomasHerr LarsMartin ThiagoGomes ChristianPiechnick
+ * OneMonthAgo: LifeDay16230
+ * OneYearAgo: LifeDay15895
+ * RevNum: r20302
+ * CuPr: RainerCast LifeWiki 
+ * BoPa: TrWo OneSingularSquare:1505 TrWo:1514
+ * HaSe: HerrKayser

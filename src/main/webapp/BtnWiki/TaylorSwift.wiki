@@ -1,0 +1,4 @@
+ * IsA: PowerWoman
+ * BirthDay: 12-13
+ * WikiPedia: https://en.wikipedia.org/wiki/Taylor_Swift
+ * TriBy: http://twittercounter.com/pages/100

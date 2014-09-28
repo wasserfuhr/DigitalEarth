@@ -1,0 +1,5 @@
+FriPa: Useful, use CamelCase in different communities, even in a non-WiKi.
+
+Reasons:
+ * one click selection
+ * GoogleLovesCamelCase

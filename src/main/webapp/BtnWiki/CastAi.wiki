@@ -1,0 +1,5 @@
+ * IsA: ProJect
+ * PartOf: RainerTest
+ * HomePage: https://github.com/wasserfuhr/DigitalEarth/tree/master/CastAi
+
+FfMpeg OcrTla RainerTest

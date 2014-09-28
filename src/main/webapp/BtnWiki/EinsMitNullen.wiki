@@ -1,0 +1,15 @@
+NachHilfe: Das jeweilige Wort für eine 1 mit n Nullen.
+
+ * 10^0 Eins
+ * 10^1 Zehn
+ * 10^2 Hundert
+ * 10^3 Tausend
+ * 10^4 ZehnTausend
+ * 10^5 HundertTausend
+ * 10^6 Million
+ * ...
+And the same in EngLish, please!
+
+Wieviel Prozent der PowerWomen kommen FehlerFrei bis wie weit mit?
+
+#SchaetzQual

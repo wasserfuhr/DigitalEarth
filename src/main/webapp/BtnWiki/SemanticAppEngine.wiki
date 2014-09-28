@@ -1,0 +1,20 @@
+a first rough mapping:
+|| *SemanticWeb*|| *AppEngine*||
+||Resource   ||AppEntity||
+||rdfs:class ||Kind||
+||Property   ||Property||
+||SparQl     ||GQL||
+||SemanticScript||CloJure||
+
+BigTableNomic will adopt some SemanticWeb techniques to create ComputationalEconomics. As an example for the planned approach we will take the legendary PieschenBank, which defines a TransParent "PayMent".
+
+http://pieschenbank.de/payments/123/rdf
+
+http://pieschenbank.de/payments/123/n3
+exposes the following:
+rdf:type PayMent
+p:m:RainerWasserfuhr
+amount:300
+text: 
+sender: m:PieschenBank
+procurer: m:RainerWasserfuhr

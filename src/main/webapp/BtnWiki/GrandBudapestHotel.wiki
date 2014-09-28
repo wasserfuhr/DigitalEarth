@@ -1,0 +1,3 @@
+ * IsA: MindMovie
+ * InterWiki: [WikiPedia:The_Grand_Budapest_Hotel]
+ * DirectedBy: WesAnderson

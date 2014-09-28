@@ -1,0 +1,3 @@
+ * IsA: PerSon
+ * BirthDay: 02-18
+ * DeWikiPedia: https://de.wikipedia.org/wiki/Jan_Vogler

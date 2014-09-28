@@ -1,0 +1,7 @@
+ * IsA: EventSeries
+ * HomePage: http://www.karl-may-fest.de/
+ * NamedAfter: KarlMay
+ * MindPlace: RadeBeul
+ * TriBy: SiHo
+
+#BlutsBrueder

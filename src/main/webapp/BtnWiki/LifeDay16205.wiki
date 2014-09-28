@@ -1,0 +1,11 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16206 « 2013-10-08 » LifeDay16204
+ * OneMonthAgo: LifeDay16175
+ * OneYearAgo: LifeDay15840
+ * HappyBirthday: 
+ * HaTa: AnnBa
+ * RevNum: r19166
+ * BoPa: TrWo:1155 TrWo:1200
+ * CurrentProject: RainerTest DigitalEarth
+ * HoTo: UrbitOrg
+ * WahrTraum: Lack

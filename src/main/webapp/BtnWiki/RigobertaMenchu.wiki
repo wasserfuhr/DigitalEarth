@@ -1,0 +1,3 @@
+ * IsA: NobelPrizeLaureate PowerWoman
+ * BirthdayDay: 01-09
+ * InterWiki: [WikiPedia:Rigoberta_Menchú]

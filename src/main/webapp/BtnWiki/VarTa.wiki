@@ -1,0 +1,3 @@
+ * IsA: EnterPrise
+ * EtymoLogia: VerTrieb, Aufladung, Reparatur Transportabler Akkumulatoren
+ * WikiPedia: https://en.wikipedia.org/wiki/VARTA

@@ -1,0 +1,52 @@
+Bevor wir hier InMediasRes gehen, bitten wir die geneigte LeserIn, sich in der WikiPedia ein GeSund'es grundlegendes Wissen anzueignen über: Bit Byte TranSistor RandomAccessMemory CentralProcessingUnit FestPlatte FlashRam SolidStateDisk AscIi UniCode Datei FileFormat OperatingSystem.
+
+Ganz ausser Acht lassen können wir mittlerweile historische Technologien wie die FloppyDisk oder gar die LochKarte, ObWohl letztere im EngLish'en den schönen Namen "PunchCard" trägt.
+
+Und damit kamen wir jetzt zu der wohl wichtigsten Form von NullenUndEinsen, die in der WeLt etwas bewirken konnten: Dem SourceCode.
+Als RaWa89 mit der Schaffung von SourceCode begann, war dies noch unendlich kompliziert und mit heute kaum noch VorStell'baren Beschränkungen behaftet.
+Zum Glück können wir uns im TraumBetrieb auf zwei Arten von SourceCode
+beschränken, mit denen wir eine VielZahl von BusinessModel's realisieren können: CloJure und JavaScript.
+
+Wie oben schon angedeutet, spricht der WebBrowser auf unserem WebDevice per HtTp oder besser HtTps mit unserem WebServer. Im Folgenden werden wir uns genauer anschauen, welchen SourceCode wir mit unserem WebEditor kreieren müssen, um unsere TraumApp zu schaffen.
+PayMent der PieschenBank, Empfänger vorschlägt, nachdem der BankKunde
+mit TastaTur das erste Zeichen eingegeben hat.
+
+RequestHandler CascadingStyleSheet 
+HtMl HtmlHead HtmlBody 
+HtmlElement
+MemCache
+
+HttpRequest sendet nun InDerRegel unser WebServer einen HttpResponse, der aus einem HtmlDocument besteht.
+Oder ein HttpRedirect, der dem WebBrowser mitteilt, bitte woanders einen HttpResponse anzufordern.
+
+Die wichtigste ist aber unsere BigTable, aus der wir uns mit AppEntity's versorgen.
+
+Das DomainModel ist das Herzstück guter SoftWare.
+
+Zunächst einmal holen wir uns aus der BigTable das AppEntity.
+"BootStrap" mit der wir ausgehend von einer Big-TabulaRasa das BootStrapping unserer WebApp beginnen.
+
+Für unser Prinzip des rein WebBased development gibt es leider noch eine 
+unschöne AusNahme:
+Eine Erweiterung oder Änderung an einem AppIndex muss per GaeConsole durchgeführt werden.
+
+Grundsätzlich gibt es zwei Formen, ein AppEntity zu identifizieren [https://developers.google.com/appengine/docs/java/datastore/entities#Kinds_and_Identifiers *]:
+ * per NumericId, wobei 
+ * per KeyName "name"
+"name=RootHandler"
+können wir es im MemCache speichern.
+Sobald wir es compilieren, entsteht jedoch eine Abhängigkeit zum ClassLoader der jeweiligen JavaVm. Wir speichern also den SourceCode
+darüber hinaus aber pro JavaVm eine compilierte ClojureFn für jeden RootHandler.
+Genauso verfahren wir mit den wichtigsten RequestHandler'n.
+Und die einzelnen RequestHandler können wiederum eigene Daten
+im Memcache halten, wie etwa der EditHandler und der WikiHandler.
+Der EditHandler ist ein RequestHandler, der den BigTableNomic-Spielern
+einen WebEditor bereitstellt.
+Der WikiHandler stellt WikiPage's dar und erzeugt den ThoughtTrace.
+
+LearningByDoing
+ * richte Dir einen AppEngine-Account ein
+ * installiere eine BigTableNomic-WebApp
+ * erschaffe einen RequestHandler
+ * prüfe mit der AppEngine AdminConsole, welchen Resourcenverbrauch dies erzeugt
+ * ReView'e und übersetze einzelne WikiBook's in andere WeltSprache'n

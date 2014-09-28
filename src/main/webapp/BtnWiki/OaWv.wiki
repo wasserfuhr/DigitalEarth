@@ -1,0 +1,6 @@
+ * ClaDa: DontTouchMyWikiPages!
+ * RaWa: EinSpruch!, Euer Ehren! Das BtnWiki und der gesamte SemanticSixSigma ProCess ist von Grund auf auf Veränderbarkeit angelegt. Aus jeder WikiPage ergibt sich automatisch eine gewisse Menge an StateMent's für den TripleSpace. Und der soll und muss Lean gehalten werden. Etwa, indem wir auf eine "SeenBy"-Relation verzichten und sie bei der korrespondierenden Gegenseite als "HasSeen" eintragen.
+ * ClaDa: Warum heisst diese WikiPage überhaupt so komisch?
+ * RaWa: Mir war kein besserer PageName eingefallen. Deshalb habe ich den PageNameCreator bemüht.
+ * ClaDa: ...
+ * RaWa: Im übrigen gehört das wechselseitige editieren von WikiPage's zur fundamentalen Dynamik. Damals in MartinsWiki haben wir es wohl mal »MindFlow« genannt.

@@ -1,0 +1,6 @@
+ * IsA: ComPoser
+ * HasSex: ♂
+ * BornIn: 1685
+ * BirthDay: 02-23
+ * DiedIn: 1759
+ * InterWiki: [WikiPedia:George_Frideric_Handel]

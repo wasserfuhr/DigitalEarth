@@ -1,0 +1,10 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16211 « 2013-10-13 » LifeDay16209
+ * OneMonthAgo: LifeDay16180
+ * OneYearAgo: LifeDay15845
+ * HappyBirthday: 
+ * HaKi: AlQu
+ * RevNum: r19xxx
+ * BoPa: TrWo BienertPlatz:1704 TrWo
+ * CurrentProject: RainerTest DigitalEarth
+ * HoTo: DigitalEarth SpaceOdyssey DdRw285

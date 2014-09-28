@@ -1,0 +1,8 @@
+ * IsA: PerSona
+ * BirthDay: 05-28
+ * BornIn: 1969
+ * ChildOf: AnBu WeWa
+ * BirthPlace: StJosefKrankenhaus
+ * HomeStead: JuTah
+ * WorkFor: SiaTla
+ * HaTa: JoeLambda

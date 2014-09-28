@@ -1,0 +1,3 @@
+ * WikiPedia: https://en.wikipedia.org/wiki/Central_European_Summer_Time
+
+TimeZone for EurOpa with DaylightSavingTime

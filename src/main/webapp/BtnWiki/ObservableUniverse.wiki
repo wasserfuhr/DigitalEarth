@@ -1,0 +1,2 @@
+ * WikiPedia: https://en.wikipedia.org/wiki/Observable_Universe
+ * PartOf: UniVerse

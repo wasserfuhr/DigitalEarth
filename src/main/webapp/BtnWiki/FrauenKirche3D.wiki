@@ -1,0 +1,20 @@
+FrauenKirche with WebGl:
+{{{
+<html>
+ <h1>FrauenKirche3D</h1>
+ <canvas id="fk" height="200">
+ </canvas>
+ <script>
+  var c=document.getElementById("fk");
+  var cc=c.getContext("2d");
+  //we draw
+  function make3DModel() {
+  }
+  function paint3DModel() {
+    cc.strokeRect(99,99,49,99);
+  }
+  make3DModel();
+  paint3DModel();
+ </script>
+</html>
+}}}

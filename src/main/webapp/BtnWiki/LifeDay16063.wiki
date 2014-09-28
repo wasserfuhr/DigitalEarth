@@ -1,0 +1,4 @@
+ * IsA: LifeDay
+ * RaWa: LifeDay16064 « 2013-05-19 » LifeDay16062
+ * BodyPath: TrWo PostPlatz DvbTram2606 H:TharandterStrasse TrWo
+ * CurrentProject: NooPolis

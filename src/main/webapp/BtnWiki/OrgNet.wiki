@@ -1,0 +1,3 @@
+ * TwittEr: https://twitter.com/orgnet
+ * WebLog: http://www.thenetworkthinkers.com/
+ * MindOne: ValdisKrebs

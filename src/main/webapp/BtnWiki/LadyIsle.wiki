@@ -1,0 +1,5 @@
+ * IsA: https://en.wikipedia.org/wiki/Lady_Isle
+ * TriBy: SimplifiedLandPolygons
+
+shapes[0] of SimplifiedLandPolygons
+http://www.openstreetmap.org/browse/way/2932844

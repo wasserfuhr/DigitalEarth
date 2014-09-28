@@ -1,0 +1,11 @@
+RaWa: 783 friends
+
+MessPunkt:
+|| *FbFriend*|| *friends*|| *mutual*||
+||ChSc|| 159|| 81||
+||JoKo|| 771|| 31||
+||OlGa||1979||164||
+||PeZi|| 968|| 14||
+||RaLi||1193||216||
+
+TernaryRelation
