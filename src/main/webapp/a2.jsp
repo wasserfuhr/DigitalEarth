@@ -1,4 +1,3 @@
-
 <script src="http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/sha1.js"></script>
 <script>
  var ct=0;
