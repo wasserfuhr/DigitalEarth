@@ -7,12 +7,13 @@
  <session-config>
   <session-timeout>999999</session-timeout>
  </session-config>
- <!--servlet>
-  <servlet-name>i</servlet-name>
-  <servlet-class>S</servlet-class>
+ <servlet>
+  <servlet-name>base</servlet-name>
+  <jsp-file>/SemperBaseRaf.jsp</jsp-file>
+  <!--servlet-class>S</servlet-class-->
  </servlet>
  <servlet-mapping>
-  <servlet-name>i</servlet-name>
-  <url-pattern>/*</url-pattern>
- </servlet-mapping-->
+  <servlet-name>base</servlet-name>
+  <url-pattern>base/*</url-pattern>
+ </servlet-mapping>
 </web-app>

@@ -14,7 +14,7 @@ try {
  //http://stackoverflow.com/questions/585534/what-is-the-best-way-to-find-the-users-home-directory-in-java
  String home=System.getProperty("user.home");
  String sqliteS="/.m2/repository/com/almworks/sqlite4java/";
- String sLib=home+sqliteS+"sqlite4java-";
+ String sLib=home+sqliteS+"libsqlite4java-";
  if ("Linux".equals(System.getProperty("os.name"))) {
   sLib+="linux-i386";
  } else {
