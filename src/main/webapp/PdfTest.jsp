@@ -100,10 +100,28 @@ public void page(Document document, String title, int wikiLevel) throws Exceptio
  document.open();
  String c;
 
- page(document,"BeuteSchema",1);
+ page(document,"TextForm",3);
+ page(document,"DankSagung",3);
+ //OUT:
+ //page(document,"FansOfIso8601",3);
+ page(document,"KlappenText",1);
+ 
+ //1
  page(document,"SchnuefffChen",3);
+ page(document,"EndMontage",1);
  page(document,"SchickSaal",3);
+ page(document,"HeldenSage",3);
  page(document,"InnBankSe",4);
+ page(document,"BeuteSchema",1);
+ page(document,"GruenderPaar",3);
+ //2
+ //3
+ //4
+ page(document,"AnLicht",1);
+
+ //
+ page(document,"LiteraturPapst",3);
+
 
  Image img = Image.getInstance("/home/rawa/StauneBild.jpg");
  img.scaleToFit(320, 240);
