@@ -22,9 +22,7 @@ com.itextpdf.text.pdf.BaseFont,
 com.itextpdf.text.pdf.PdfPageEventHelper,
 com.itextpdf.text.pdf.PdfContentByte,
 com.itextpdf.text.pdf.PdfWriter
-"%>
-
-<%! // http://blog.abelsky.com/2014/01/22/adding-page-number-to-itext-generated-pdf/
+"%><%! // http://blog.abelsky.com/2014/01/22/adding-page-number-to-itext-generated-pdf/
  public class PageStamper extends PdfPageEventHelper {
   @Override
   public void onEndPage(PdfWriter writer, Document document) {
@@ -33,29 +31,31 @@ com.itextpdf.text.pdf.PdfWriter
     final PdfContentByte directContent = writer.getDirectContent();
     directContent.setColorFill(BaseColor.BLACK);
     directContent.setFontAndSize(BaseFont.createFont(), 10);
+    float pos;
     if (writer.getCurrentPageNumber()%2==0) {
-     directContent.setTextMatrix(pageSize.getRight(40), pageSize.getBottom(30));
+     pos=pageSize.getRight(40);
     } else {
-     directContent.setTextMatrix(pageSize.getLeft(40), pageSize.getBottom(30));
+     pos=pageSize.getLeft(40);
     }
+    directContent.setTextMatrix(pos, pageSize.getBottom(30));
     directContent.showText(String.valueOf(3+writer.getCurrentPageNumber()));
    } catch (Exception e) {}
   }
-}%>
-<%!
-public void page(Document document, String title, int wikiLevel) throws Exception {
- String content="";
- switch (wikiLevel) {
-  case 1:
-   content=new String(Files.readAllBytes(Paths.get("/home/rawa/tmp/mind/"+title+".txt")));
-   break;
-  case 3:
-   content=new String(Files.readAllBytes(Paths.get("/home/rawa/tmp/btn/wiki/"+title+".wiki")));
-   break;
-  case 4:
-   content=new String(Files.readAllBytes(Paths.get("/home/rawa/GitHoster/GoogleProjectHosting/ungit.wiki/"+title+".wiki")));
-   break;
  }
+ public void page(Document document, String title, int wikiLevel) throws Exception {
+  String s="/home/rawa/";
+  switch (wikiLevel) {
+   case 1:
+    s+="tmp/mind/"+title+".txt";
+    break;
+   case 3:
+    s+="tmp/btn/wiki/"+title+".wiki";
+    break;
+   case 4:
+    s+="GitHoster/GoogleProjectHosting/ungit.wiki/"+title+".wiki";
+    break;
+  }
+ String content=new String(Files.readAllBytes(Paths.get(s)));
  String c=content+" ";
  document.add(new Paragraph(title,
    new Font(FontFamily.COURIER,18,Font.BOLD)));
@@ -82,10 +82,7 @@ public void page(Document document, String title, int wikiLevel) throws Exceptio
   last=m.end();
   if ("'".equals(c.substring(last,last+1))) last++;
  }
-
-
- p.add(new Phrase(
-   c.substring(last)));
+ p.add(new Phrase(c.substring(last)));
  p.setSpacingAfter(10);
  document.add(p);
 }
@@ -98,7 +95,8 @@ public void page(Document document, String title, int wikiLevel) throws Exceptio
  final PdfWriter writer = PdfWriter.getInstance(document, baos);
  writer.setPageEvent(new PageStamper());
  document.open();
- String c;
+ Image img = Image.getInstance("/home/rawa/StauneBild.jpg");
+ img.scaleToFit(320, 240);
 
  page(document,"TextForm",3);
  page(document,"DankSagung",3);
@@ -122,9 +120,6 @@ public void page(Document document, String title, int wikiLevel) throws Exceptio
  //
  page(document,"LiteraturPapst",3);
 
-
- Image img = Image.getInstance("/home/rawa/StauneBild.jpg");
- img.scaleToFit(320, 240);
 // document.add(img);
  img = Image.getInstance("/home/rawa/DerAugenblick.jpg");
  img = Image.getInstance("/home/rawa/NooGrey.png");
