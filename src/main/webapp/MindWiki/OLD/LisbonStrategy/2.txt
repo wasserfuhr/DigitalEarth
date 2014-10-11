@@ -1,0 +1,8 @@
+Some decent contributions of MindBroker and NooPolis to AcCelerate the implementation of the LisbonStrategy for EurOpa:
+* BildungsBurg
+* MindBib
+* MindPrize
+* QuantenLehrer
+* TurkNumber
+* TwitAiPrize
+* WikiProf

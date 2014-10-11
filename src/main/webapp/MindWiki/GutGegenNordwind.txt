@@ -1,0 +1,2 @@
+* IsA: MindBook
+* DcAuthor: DanielGlattauer

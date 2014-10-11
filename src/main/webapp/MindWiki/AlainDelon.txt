@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Alain_Delon]
+* BornIn: 1935
+* BirthDay: 11-08
+* HasKissed: RomySchneider

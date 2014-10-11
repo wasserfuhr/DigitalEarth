@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.05949&lon=13.7542&zoom=17&layers=0B00FTTT ToDo
+
+SteffenBachmann

@@ -1,0 +1,35 @@
+Ein ein- oder mehrtägiges RealLife-MindEvent, bei dem UnternehmensGruender und Führungskräfte spielerisch lernen können, ein  WikiBasiert'es GlaesernesUnternehmen zu gründen, oder auch gleich mehrere im WettBewerb gegeneinander.
+
+Potentielle Kunden:
+* StartUpWeekEnd
+* DresdenExists
+* Führungskräfte von DAX-Unternehmen
+* McKinsey, KienBaum und die BigFour
+* Hochschulen
+* IhaKa
+
+Empfohlene Teilnehmerzahl: 10-20
+
+Empfohlener Zeitplan:
+* 3 oder mehr Tage oder Wochenenden 
+* durchaus mit teilweise wechselnden Teilnehmern
+
+Empfohlene Kenntnisse:
+* BWL
+* Software-Entwicklung
+* Marketing
+* Grafik & Design
+* Recht
+* InterNet
+
+Ablauf: Die Teilnehmer
+* werden zu Beginn BuergerInnen von NooPolis
+* sie oder ein Hauptveranstalter erwerben im MindShop das Produkt "EconoSim" für die Teilnahme.
+* lernen das Bearbeiten von Wikiseiten, zB indem sie ihre Profil anlegen.
+* legen eine Seite für das EconoSim-Event im MindWiki an
+* sammeln dort mehrere GeschaeftsIdeen
+* wählen per MindVote zwei oder mehrere StartUp-Favoriten aus
+* wählen, bei welchem davon sie teilnehmen möchten
+* legen die ShareHolder und deren CommitMent fest
+* die Entwickler erhalten ein MindHacking-Tutorial
+* das KabiNett oder andere BuergerInnen können Änderungen der VerFassung vorschlagen und umsetzen, die während des StartUpSim

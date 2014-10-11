@@ -1,0 +1,4 @@
+|OttoScharmer|RicardoSemler|FredKofman|HartmutEsslinger
+|AlexisEremia|HassoPlattner|RalfLippold|MartinKanatschnig
+|JohannesFrühmann|DesignThinking|TheoryU|BoudewijnVermeulen
+|BasisDemokratie|InnoVation|StateOfFlow|CoWorking

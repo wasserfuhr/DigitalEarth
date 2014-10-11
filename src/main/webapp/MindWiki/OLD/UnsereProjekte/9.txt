@@ -1,0 +1,29 @@
+UnsereProjekte:
+||Status ||AgWiki        ||svn     ||Abweichende Domain
+|LIVE    |UnserGrid      |grid     |
+|LIVE    |IntraBroker    |mindpaths|intrabroker.com
+|LIVE    |GeoMindBroker  |geo      |
+|LIVE    |MindBrokerId   |id       |
+|ALPHA   |DoIt           |doit     |
+|FINISHED|WikiTchen      |         |wikitchen.de
+|        |MindBrokerCore |core     |
+|        |MindBrokerShop |shop     |
+|        |SportPortal    |spot     |sport.mindbroker.de
+|        |MindBrokerSalon|         |
+|        |SemanticMind   |semantic |
+|        |MindHome       |home     |intellihaus.de
+
+Projektphasen:
+* Skelett
+* Prototyp
+* Alpha
+* ClosedBeta
+* PublicBeta
+* 1.0
+* 1.1
+* ...
+* 2.0
+* 2.1
+* ff
+
+Weitere Projekte bei der MindBrokerKg.

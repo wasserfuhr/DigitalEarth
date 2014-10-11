@@ -1,0 +1,65 @@
+!About
+* Was ist der zentrale Nutzen von NooPolis? Warum soll ich mich anmelden?
+** Du kannst dich mit einigen holden Köpfen connecten.
+** Du kannst ein spannendes Projekt von Beginn an mit gestalten.
+* Wer hatte die Idee?
+** RainerWasserfuhr + wertvolles Feedback anderer BuergerInnen.
+* Wie entstand der Name NooPolis?
+** Der Name hat seine Wurzeln in der [griechischen Antike|http://de.wikipedia.org/wiki/Polis] und bei [Teilhard de Chardin|http://de.wikipedia.org/wiki/Noosph%C3%A4re].
+* Wieviele Leute seid ihr?
+** siehe CommitMent 
+* Wie wollt ihr Geld verdienen?
+** Indem alle BuergerInnen ein BuergerKonto mit KayGroschen erhalten und wir gemeinsam den WechselKurs der KayGroschen auf dem BuergerKonto im Vergleich zum EUR oder USD steigern.
+* Seid ihr nicht bloß ein StudiVz-Klon?
+* Seid ihr nicht bloß ein XingLe-Klon?
+* Seid ihr nicht bloß ein FaceBook-Klon?
+* Wann ist Start?
+** NooPolis startete im Sommer 2007 und wird seitdem ständig ausgebaut.
+* Gründet ihr eine Aktiengesellschaft? 
+** Die Gründung einer AhGe hatten wir 2006 geprüft, dann aber wegen der unbefriedigenden gesetzlichen Spielräume im Sommer 2007 verworfen. 
+* Was ist ein Volkseigener Betrieb?
+** siehe VolksEigenerBetrieb
+* Betreibt ihr ein Glücksspiel?
+* Ich verstehe einige Wikieinträge nicht. Worum geht es eigentlich?
+** Wenn Du im AgWiki etwas nicht verstehst: Frage RainerWasserfuhr oder andere MitWirkende.
+
+!Politik
+* Ist NooPolis eine Demokratie?
+* Wenn immer der das größte Stimmrecht hat, der das größte Guthaben hat, gibt es doch gar keine echte Buergerbeteiligung?
+* Egal wie die Regeln gestrickt sind: Durch die Anteilsmehrheit von RainerWasserfuhr wäre er zur Zeit
+ der alleinige Bestimmer. Warum sollten sich freie Menschen in ein solch unvorteilhaftes Vertragsverhältnis begeben?
+** Bei der UrWahl haben alle BuergerInnen mit Mindest-VerMoegen *gleiches* Stimmrecht.
+* Haben die PrimusInterPares mehr Rechte als die anderen?
+** Ja, weil sie sich in besonderem Maße für NooPolis und das Wohl der BuergerInnen engagieren.
+
+!Währung
+* Warum muss es in NooPolis überhaupt eine virtuelle Währung geben?
+** Weil ein Spiel mit KayGroschen viel stärker die Fantasie der MitWirkende'n fördert.
+* Was kann ich mit KayGroschen machen?
+** kaufe Dienste im MindShop
+** gründe Unternehmen
+** verkaufe KayGroschen in EUR-Auktionen der PieschenBank
+* Muss ich mein Guthaben auf meinem BuergerKonto versteuern? Wie?
+** das werden wir noch klären
+* Wenn einer viel Geld einbringt und ein anderer keines, profitiert derjenige, der nichts tut, überproportional. Es müsste jedoch der am meisten profitieren, der am meisten tut?
+
+!Wirtschaft
+* Wie ist die VirtuelleOekonomie an die reale Wirtschaft anschlussfähig?
+** Durch Tausch von EUR in KayGroschen und umgekehrt.
+* Wie kann in NooPolis ein Projekt mit Beteiligung von Siemens&Co stattfinden?
+** Sobald Siemens&Co eine AusLands-Niederlassung in NooPolis gründet.
+* Ist die Eintragung im NooPolis-HandelsRegister dieselbe wie im echten HR?
+** Nein. NooPolis ist eine virtuelle Republik mit eigener VerFassung. Wenn Du eine MindId hast, kannst Du die VerFassung aber editieren.
+* Muss eine IchAg auch ins HandelsRegister?
+** Erst sobald der erste Trade der IchAg auf dem MindFloor erfolgte.
+* Brauche ich da eine Gewerbeanmeldung?
+
+!Sonstiges
+* Warum kann ich in NooPolis meine bereits vorhandene OpenId nicht verwenden?
+** Das wird später möglich sein. WerdeMindBroker und hilf uns bei der Implementierung!
+* Kann ich mich mit der NooPolis-MindId auf allen OpenId-fähigen Seiten einloggen?
+** Ja, das soll bald möglich sein. WerdeMindBroker und hilf uns bei der Implementierung!
+* Kann ich eine Benachrichtigung bekommen, wenn ich neue Mail in meiner InBox habe?
+** Vorerst nicht, später eventuell. Als Zwischenlösung: Lass Dich von BuergerInnen in den MindChat einladen.
+* Wie sicher sind meine Daten bei euch?
+** Unsere Software ist OpenSource. Auf jeder Seite gibt es ViewSource. Hast Du Verbesserungsvorschläge? WerdeMindBroker und hilf uns bei der Implementierung!

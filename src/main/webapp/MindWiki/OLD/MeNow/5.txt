@@ -1,0 +1,9 @@
+TwittEr goes SemanticWeb:
+
+http://schema.menow.org/
+
+WikiTable:
+||No             ||MindPeople    || ||
+|20080907:1624MESZ|RainerWasserfuhr| |very excited about DasExperiment
+|20080907:1110MESZ|RainerWasserfuhr| |mitten im normalen leben, fühle mich irgendwie wie auf dem obersalzberg
+|20080220:1732MEZ |RainerWasserfuhr|isEating|MaggiFlaedleSuppe

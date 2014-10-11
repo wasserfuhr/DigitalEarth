@@ -1,0 +1,3 @@
+* HomePage: http://www.openaerialmap.org/
+
+LockSchuppen: http://www.openaerialmap.org/?zoom=18&lat=51.06681&lon=13.74021&layers=BT

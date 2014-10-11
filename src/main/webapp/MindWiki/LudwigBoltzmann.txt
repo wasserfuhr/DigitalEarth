@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Ludwig_Boltzmann] [LangReiter:Ludwig+Boltzmann]
+* BornIn: 1844
+* BirthDay: 02-20
+* DiedIn: 1906
+* MindSkill: WeltFormel ThermoDynamics

@@ -1,0 +1,6 @@
+* AgWiki-Edits/day
+* SourceCode-Commits/day
+* WebSession's/day
+* BidAsk's/day
+* new MindBroker/day
+* new DoIt-Items/day

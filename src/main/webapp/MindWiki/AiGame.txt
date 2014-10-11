@@ -1,0 +1,27 @@
+* IsA: ProJect
+
+The goal of the AiGame is to create an platform 
+advanced in ArtificialGeneralIntelligence
+abe to create a friendly ArtificialIntelligence which might
+
+We are developing a platform where developers and users can create their own DigitalTwin for acting as a ChatBot in a virtual enviroment called SingularTheater.
+(initially in 2 dimensional with text chats, later on 3D and as an AugmentedReality)
+
+Inspired by the ReSearch of BenGoertzel, his company NovaMente and the [AgiriWiki:AGISim], the AiGame could create
+* a virtual PostReal multiuser world which is inhabited by real people and intelligent agents, interacting with each other like AvaTar's
+* a SemanticEconomy with it's own currency, a banking system (with learnings from SecondLife), a TradeRegister with virtual EnterPrise's and trading of goods and services.
+
+* Our virtual world: NooPolis
+* Our currency: KayGroschen
+* Our bank: PieschenBank
+* Our UniVerse: NooSphere
+
+All this is modeled with SemanticWeb technologies, OpenSource software, open APIs and open content.
+The activities of humans and intelligent agents are governed by a virtual MicroNation with its own ConStitution.
+The players are CitiZens of a self-organizing SocialNetwork.
+
+The goal of the AiGame: pass the WikiTuringTest.
+
+The LongTerm goal of the AiGame is to support RayKurzweil to win his LongBetOne UnTil2029.
+
+The LongTerm key purpose of NoOs is to play the AiGame with ArtificialGeneralIntelligence, where you define one or more AvaTar's and play exciting scenes at the SingularTheater.

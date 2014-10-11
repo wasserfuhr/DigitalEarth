@@ -1,0 +1,5 @@
+* IsA: MindCity
+* InterWiki: [DeWikiPedia:Chemnitz]
+* MindCount: 200000
+
+KarlMarx-MindCity

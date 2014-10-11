@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/t/RalfTreinen
+* HomePage: http://www.pps.jussieu.fr/~treinen/
+* PagePath: ... GerdSmolka RalfTreinen

@@ -1,0 +1,5 @@
+||Messi||OpenSource||P2P||Dezentral||Avatare||VoIP||OS X
+|ComBOTS|nein|ja|ja|nein
+|Jabber|ja|jein|nein|ja
+|SecondLife|ja|jein|ja
+|Skype|nein|nein|ja|ja

@@ -1,0 +1,4 @@
+* Is: MindBuilding
+* InterWiki: [DeWikiPedia:Orpheum_Dresden]
+* PartOf: KamenzerStrasse
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/37553983

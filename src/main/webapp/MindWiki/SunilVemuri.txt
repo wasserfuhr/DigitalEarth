@@ -1,0 +1,4 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/06/2017
+* HomePage: http://web.media.mit.edu/~vemuri/
+* MindSkill: PersonalityCapture

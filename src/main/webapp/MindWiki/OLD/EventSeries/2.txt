@@ -1,0 +1,3 @@
+* Is: NamedEntity
+
+Series of MindEvent's

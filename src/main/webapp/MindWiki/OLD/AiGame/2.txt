@@ -1,0 +1,7 @@
+The goal of the AiGame is to create a friendly artificial intelligence (for short: ArTelligence).
+
+* Our virtual world: NooPolis
+* Our currency: KayGroschen
+* The players: CitiZens
+
+The rules: → ConStitution

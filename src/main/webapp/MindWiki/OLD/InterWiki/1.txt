@@ -1,0 +1,10 @@
+Erklärung: [WikiWikiWeb:InterWiki]
+
+||Name
+|AgWiki
+|DeWikiPedia
+|OpenSource
+|WikiPedia
+
+
+aktuelle InterWiki links: SystemInfo

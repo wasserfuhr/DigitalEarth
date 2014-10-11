@@ -1,0 +1,4 @@
+* IsA: MindRoom
+* PartOf: SlUb
+* HomePage: http://www.slub-dresden.de/benutzung-service/angebote-fuer-studierende/eltern-kind-raum/
+* NearBy: GeZero42

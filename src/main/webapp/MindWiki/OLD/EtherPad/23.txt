@@ -1,0 +1,35 @@
+* HomePage: http://etherpad.com/
+
+DisRupt'ive pre-GoogleWave technology by AppJet:
+
+||MindWiki          ||SprachWelt||EtherPad||
+|AgenturFuerArbeit  |LangDe|http://etherpad.com/AgenturFuerArbeit  |Anfrage, 1.600 EntrePreneur'e in der StadtDresden zusammenzubringen
+|AnneWillSingularity|LangDe|http://etherpad.com/AnneWillSingularity
+|                   |LangEn|http://etherpad.com/CoworkVisitingTour   |in BostonMa, NewYork, Philadelphia, CapeCod
+|                   |LangDe|http://etherpad.com/DresdenExistsIdeenwettbewerb |Ideenwettbewerb von DresdenExists
+|                   |LangDe|http://etherpad.com/CoWorkingMeiningenBusinessCase
+|                   |LangDe|http://etherpad.com/coworkingmeiningenkultur
+|                   |LangEn|http://etherpad.com/CoWorkingPlace    
+|                   |LangEn|http://etherpad.com/CoWorkVisitQuestions
+|DistanzSpiel       |LangDe|http://etherpad.com/DistanzSpiel
+|DresdenInnovationNight|LangDe|http://etherpad.com/DresdenInnovationNight| Treffen von StartUp's zur Vorstellung innovativer Produkte und Konzepte
+|                   |LangDe|http://etherpad.com/FutureSchnaeppchen
+|HelmaWave          |LangEn|http://etherpad.com/HelmaWave
+|                   |LangDe|http://etherpad.com/jeanxd
+|LangFr             |LangFr|http://etherpad.com/LangFr
+|                   |LangEn|http://etherpad.com/LockDynamics
+|                   |LangEn|http://etherpad.com/LockProject_100Bikes|Bringing a new company on the market, CrowedConsulting
+|                   |LangDe|http://etherpad.com/LockSchuppen        |Erster Briefentwurf für LockSchuppen-Anmietung
+|                   |      |http://etherpad.com/LockSchuppenFuture  |Die Zukunft des LockSchuppen's - noch ist die Leinwand leer und weiß, German/ English)
+|                   |LangEn|http://etherpad.com/LockSchuppenSurvey  |adapting a survey of the http://pbworks.coworking.com; English)
+|                   |LangDe|http://etherpad.com/LockSchuppenTippingPoint |when will LockSchuppen run on its own?
+|                   |LangDe|http://etherpad.com/LockSchuppenVisit-20090904 | PresencingStatus / MotorOla nach LockSchuppenVisit
+|                   |LangDe|http://etherpad.com/LockSz
+|LockVorgehen       |      |http://etherpad.com/LockVorgehen        |Planung künftiger LockSchuppenTalk's
+|                   |      |http://etherpad.com/NooPolis            |BusinessPlan des LockSchuppen's
+|TiimiAkatemia      |LangFi|http://etherpad.com/MaKh8rPVdm          |
+|CoWorkingTreffen   |LangDe|http://etherpad.com/nsZqN2ZSMh          |
+|                   |LangEn|http://etherpad.com/PrototypingCoWorking|How do you see CoWorking and benefits/ misfits to your life concept?
+|                   |      |http://etherpad.com/TED-RayKurzweil-SingularityUniversity |German-English)
+|                   |LangEn|http://etherpad.com/WNBdL0vd6Z |LockChallenge in cooperation with TeamAcademy's team CashMir
+|                   |LangDe|http://etherpad.com/ZuKunft           |Wie wir uns dem Jahr 2056 annähern

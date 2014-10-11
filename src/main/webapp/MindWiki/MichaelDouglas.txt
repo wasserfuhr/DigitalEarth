@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Michael_Douglas]
+* BirthDay: 09-25
+* PapaZwoNull: KirkDouglas

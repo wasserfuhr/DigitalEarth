@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* InterWiki: [WikiPedia:Q1_(building)]
+* OpenStreetMap: http://www.openstreetmap.org/?lat=-28.006111&lon=153.429444&zoom=18&layers=B000FTT ToDo

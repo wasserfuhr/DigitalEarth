@@ -1,0 +1,5 @@
+* IsA: AbschleppSchuppen
+* HomePage: http://www.nachtbartreppe.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/632112900
+* MindOne: ThomasPoetschke
+* NearBy: RichardStraussPlatz

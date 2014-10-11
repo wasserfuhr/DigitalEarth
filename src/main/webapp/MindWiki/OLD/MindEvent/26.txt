@@ -1,0 +1,27 @@
+||       ||              ||#Teilnehmer||
+||Wann   ||Was           ||RealLife   ||SecondMind
+|20070324|WikiTchen      |16|
+|20070420|MindPicNic     | 8|
+|20070731|FreudenBerg    | 5|
+|20070804|MindPenne      | 5|
+|20071017|WikiWeiber     | 8|
+|20071024|WikiBoys       | 3|1 
+|20071101|WikiWeiberZwo  | 7|
+|20080108|WikiBoysZwo    | 8|1
+|20080117|ToCeeMind      | 3|
+|20080126|FeuerMind      |13|
+|20080424|NeustadtZwoNull| 6|
+|20080524|MindAbiAchtAcht| ?|
+|20080828|BusinessDueruem| 2|
+|20080828|GinUndSinn     | 4|
+|200?????|DresdenFutureGroup|  |
+|200?????|WikiWeiberDrei |  |
+|200?????|SchwabenMind   |
+|200?????|MindCuisine    |
+|200?????|CandleWebDinner|
+|200?????|SingularCamp   |
+|200?????|WowerMind      |
+|200?????|WeinNamen      |
+|200?????|MindSalon      |
+|200?????|ZauberBerg     |
+|200?????|SingularCampZwo|

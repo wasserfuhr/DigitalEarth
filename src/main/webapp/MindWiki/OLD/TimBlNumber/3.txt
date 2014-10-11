@@ -1,0 +1,3 @@
+* NamedAfter: TimBernersLee
+
+The TimBlNumber is similar to the ErdosNumber, but dedicated the TimBernersLee, the InVent'or of the WorldWideWeb, and based on the TransitiveClosure of FoafKnows relation reachable from TimBl's FoAf file: http://www.w3.org/People/Berners-Lee/card

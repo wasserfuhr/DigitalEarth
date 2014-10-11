@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Platon] [WikiWikiWeb:MrPlato]
+* HasTalked: MrAristotle
+
+MeinPlaton

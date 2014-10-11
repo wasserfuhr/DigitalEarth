@@ -1,0 +1,8 @@
+* InterWiki: [WebSeitz:PredictionMarket], [WikiPedia:Prediction_market]
+* MindTags: ReView
+
+Each PredictionMarket in NooPolis has stocks with 1.000 shares. The PieschenBank defines the IPO price and a buy-back price for the winning stock, which is backed by the GovernmentBudget.
+
+Some candidates for future PredictionMarket's:
+
+[{INSERT ReferringPagesPlugin}]

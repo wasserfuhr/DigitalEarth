@@ -1,0 +1,35 @@
+possible UpLoad of data into the NewMind: The data of RainerWasserfuhr:
+
+RePort: Public data:
+* MindWiki ( >4232pages, >~3000 MindProps)
+* DelIcioUs (>12517 bookmarks, >~3386 tags)
+* TwittEr (>3407 tweets, ~398 followers, >189 followings)
+* BlogLines (~450 feeds)
+* FlickEr (~300 uploads)
+* SeesMic (~100 EpIsOde's, each ~2-10 min)
+
+Only partially public:
+* E-Mail-InBox (~30.000 mails)
+* XingLe (>670 FirstDegree contacts, 152.035 SecondDegree, 1.766.874 ThirdDegree, 2.102 in-Messages, 1.210 out-Messages, 2.542 bookmarked contacts)
+* FaceBook (166 friends)
+* LinkedIn (84 connections)
+* Log files of SkyPe (168 contacts) and ICQ
+
+This data will be linked with generic sources:
+* DbPedia
+* FreeBase
+* OpenCyc
+* OpenStreetMap
+* WordNet
+* WikiPedia
+
+The data of the DataMap will be stored in the MindBase.
+
+Maybe additional Candidates?:
+* ChristineSchlinck (TineTest)
+* MartinRoell (MartinTest)
+* SiggiBecker?
+* OliverGassner?
+* AndreasStuhlmueller?
+* ChristianLangreiter?
+* BillSeitz?

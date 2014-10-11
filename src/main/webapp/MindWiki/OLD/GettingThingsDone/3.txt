@@ -1,0 +1,5 @@
+* InterWiki: [WebSeitz:GettingThingsDone]
+
+BookShelved: http://bookshelved.org/cgi-bin/wiki.pl?GettingThingsDone
+
+DoIt!

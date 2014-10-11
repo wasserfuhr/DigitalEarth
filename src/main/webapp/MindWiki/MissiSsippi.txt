@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* EtymoLogia: [*|http://de.wikipedia.org/wiki/Mississippi_River#Etymologie]
+* PartOf: UnitedStates

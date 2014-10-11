@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BreitenGrad: 53.55633
+* LaengenGrad: 10.00627
+* BoundingBox: 20
+
+http://twitter.com/rainer/statuses/284770832

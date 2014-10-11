@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* BoundingBox: 40
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.070915&lon=13.732739&zoom=18&layers=B000FTT ToDo
+* HomePage: http://www.flower-power.de/Dresden/Startframe.htm
+
+TotalRecall
+* 20090214:0200: RainerWasserfuhr, JeMand: VerTrauen, TanzDerMolekuele

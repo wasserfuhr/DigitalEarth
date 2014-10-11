@@ -1,0 +1,9 @@
+* KindOf: MindPlace
+
+MindFutures: Alle BuergerInnen können
+* in der ganzen Stadt ihr MindPhone als Personalausweis verwenden
+* unter http://id.mindbroker.de/id/123 ihre MindId verwalten
+* kann unter http://city.mindbroker.de/streets/XYstreet/123 ihren Wohnsitz veröffentlichen
+* kann unter http://city.mindbroker.de/citizen/123/tax ihre Steuererklärungen veröffentlichen
+* kann unter http://city.mindbroker.de/citizen/123/pets ihre Hundesteuer veröffentlichen
+* Alle Läden der MindCity und die PieschenBank akzeptieren neben EuRo auch UsDollar, JPY, CNY und KayGroschen

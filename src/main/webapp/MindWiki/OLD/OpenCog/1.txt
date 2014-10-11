@@ -1,0 +1,5 @@
+* MindTags: ProJect
+* MindOne: BenGoertzel
+* HomePage: http://www.opencog.org/
+
+NovaMente OpenSource.

@@ -1,0 +1,19 @@
+* MindTags: EnterPrise
+* MindOne: ChristineSchlinck
+
+MindBau ist ein VirtuellesUnternehmen zur Konzeption und Förderung AvantGarde'istischer Bauprojekte in der NooSphere:
+* GruenesWunder
+* GrueterichInternationalAirport
+* MgmGrandOrion
+* MindTower
+* MindTowerZwo
+* LifeCellOne
+* LunarSteigenberger
+* PieschenPalast
+* RoomOfSilence
+* TransRapid
+* WienerPool
+
+sowie das MindHome für das WirkZentrum.
+
+JederMann kann EinfachMachen und damit anfangen, mit einer OpenSource-Alternative zu AutoCad die Entwürfe für MindBau'ten zu planen. UnserDesigner könnte helfen. Ausserdem die BetonBoot-erfahrenen BauIgel der TuDresden und die noch tollkühnere ZeppelinUniversity?

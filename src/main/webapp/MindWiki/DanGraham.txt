@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Dan_Graham]
+* BornIn: 1942
+* BirthDay: 03-31
+
+BoersenGang TextArt

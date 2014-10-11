@@ -1,0 +1,7 @@
+FaceBook ShareHolder:
+||%  ||
+|30,0|MarkZuckerberg
+| 7,0|PeterThiel
+| 5,0|DigitalSky
+| 1,6|MicroSoft
+| 0,8|LiKaShing

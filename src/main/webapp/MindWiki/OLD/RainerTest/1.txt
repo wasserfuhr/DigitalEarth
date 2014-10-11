@@ -1,0 +1,6 @@
+* MindTags: FutureCard
+* PreDict: A fully automated 3D DigitalTwin of RainerWasserfuhr will pass the TuringTest after a 25min VideoChat with DanielPoodratchi
+* UnTil: 2030
+* DependsOn: LongBetOne
+* CardOwner: DanielPoodratchi
+* CardHolder: RainerWasserfuhr

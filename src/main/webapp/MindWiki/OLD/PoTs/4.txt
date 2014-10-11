@@ -1,0 +1,6 @@
+* RdfProperty: http://xmlns.com/foaf/0.1/phone
+* InterWiki: [WebSeitz:POTS]
+
+Plain Old Telephony System.
+
+Almost dead, so almost ready for ShutDown, except for NotRuf.

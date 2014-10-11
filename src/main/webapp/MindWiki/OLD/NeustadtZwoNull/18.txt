@@ -1,0 +1,19 @@
+* MindTags: MindEvent
+* XingEvent: https://www.xing.com/events/203578
+* MindPlace: OostEinde
+
+!Beginn: 24.04.2007 um 20:00
+!Ende: 25.04.2007 um 03:00
+
+Teilgenommen:
+* JanBoehme
+* FrankLorenz
+* IrisSchilke
+* TobiasKroha
+* HeidiGaallinat
+* RainerWasserfuhr
+
+TotalRecall:
+* StadtWiki, SchachOlympiade, DresdenChess, FriendFeed, MooresLaw, AnDroid, StartUpWeekEnd, EdelBild, TwittEr, DelIcioUs, MindMac 2015, ScholarPedia, TippingPoint, SemanticEconomy, JeromeKerviel, WebOfTrust, MagnonFund, GiantGlobalGraph, TerraMind, SecondLife, HypeCycle, LongBetOne, TwitAiPrize, PeterThiel, JeffHawkins, TuringTest, GoogleMind, OsZillation, DWaveSystems, QuantumMind, EverScreen, HuisClos, KurtGoedel, BioMind, [DeWikiPedia:Entropia_Universe], SecondLife, HypeCycle.
+
+Absacker: BlueNote

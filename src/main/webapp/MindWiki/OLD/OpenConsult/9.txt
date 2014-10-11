@@ -1,0 +1,18 @@
+OpenMind? OpenSource? OpenId? OpenSocial? OpenEconomy?
+
+!OpenConsult!
+
+Im Angebot:
+||MindBroker       ||EuRo/h||SkillCloud
+|RainerWasserfuhr  |100    |java, eclipse, maven, svn, jetty, derby, hibernate, jsp, css, html, swarch, sysarch
+|DimitriUwarov     | 98    |java, eclipse, maven, svn, jetty, derby, hibernate, jsp, css, html
+
+Möchtest Du auch OpenConsult'ant werden? Ganz einfach: WerdeMindBroker!
+
+Rabatt:
+* 4% für jeden Tag pro Woche an dem per HomeOffice gewirkt werden kann
+* 12% für OpenSource-SourceCode
+* 10% für PayPerCommit
+
+!Sonderangebot: Schnupperconsulting!
+Für die ersten 3 Kunden, die auf dieser Seite ihre Projekte ausschreiben, bietet RainerWasserfuhr je 2h kostenloses Schnupperconsulting an (HomeOffice, live aus dem WirkZentrum, per TwittEr, MindScreen und notfalls SkyPe)

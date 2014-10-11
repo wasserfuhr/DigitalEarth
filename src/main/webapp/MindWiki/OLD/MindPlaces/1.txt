@@ -1,0 +1,8 @@
+Orte mit Angabe von Längen- und Breitengrad:
+
+* DeutschLand
+** StadtDresden
+*** WirkZentrum
+** KarlsRuhe
+
+DoI: Die Koordinaten in Kürze auf http://id.mindbroker.de/map darstellen.

@@ -1,0 +1,18 @@
+* MindQuote: integritas - perfectio - consonantia - commensuratio - convenientia - claritas
+* WeltSprache: VerFassung
+* SprachWelt: sl
+
+!Načelo
+Svoboda
+
+!Državljan
+MindId
+
+!Ustava
+Voľby
+
+!Ekonomija
+KayGroschen
+
+!Vladavina
+KabiNett

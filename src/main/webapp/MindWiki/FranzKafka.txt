@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Franz_Kafka]
+* JahrGang: 1883
+* BirthDay: 07-03
+* LebensEnde: 1924

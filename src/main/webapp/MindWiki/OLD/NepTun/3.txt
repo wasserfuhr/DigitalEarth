@@ -1,0 +1,6 @@
+* MindTags: MindThing
+
+* SerienNummer: W87011W1W0H
+* Prozessortyp:	Intel Core 2 Duo
+* Prozessorgeschwindigkeit: 2.33 GHz
+* Speicher: 2 GB

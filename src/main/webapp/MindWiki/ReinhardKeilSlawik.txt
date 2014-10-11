@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/k/ReinhardKeilSlawik
+* HomePage: http://iug.upb.de/rks/
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann ThomasChristaller ReinhardKeilSlawik

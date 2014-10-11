@@ -1,0 +1,35 @@
+* MindTags: MindEvent
+
+The first MindEvent of the DresdenFutureGroup.
+
+* When: 2008-11-06:1900 (CET)
+* Where: TrattoriaLaPiazzetta (near EiscafeVenezia/GoldenerReiter)
+
+Language of the meeting will be German.
+
+The basic tool of the DresdenFutureGroup will be the FutureMap.
+
+!Topics:
+* FutureGame
+* GoogleFluse
+* DresdenChess
+* ZwingeRasimo
+* PhaetonBallett
+* MindTower
+* NooPolis
+* GoogleCity
+* FreeHugs
+* TheSingularity
+* DerAugenblick
+* GoogleSpaceTower
+* FrozenDresden
+* WorldDomination
+* DirkHilbert
+
+!Invited:
+* All CitiZens of NooPolis
+
+!DoIt:
+* Create a XingEvent
+* invite all CitiZens of NooPolis and other MindPeople, for example: JuergenKohn, HeidiGallinat, JirkaSchaefer, TinoSchmidt, DoAn, MichaelWinkler
+* make a reservation at TrattoriaLaPiazzetta

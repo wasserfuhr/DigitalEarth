@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Hans_Eggert]
+* BornIn: 1946
+* BirthDay: 01-06
+* ViAf: http://viaf.org/viaf/80705881
+
+ex MindOne SaechsischZeitung

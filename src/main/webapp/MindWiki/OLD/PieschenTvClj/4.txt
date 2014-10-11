@@ -1,0 +1,17 @@
+;
+;
+;{{{
+
+((defn tv [] 
+  (handle "tv"
+   (fn []
+    (str
+     "<table>"
+     (map
+      (fn [x]
+       (str "<tr><td>" x "</td></tr>">)
+      )
+      (:content (clojure.xml/parse "http://feeds.seesmic.com/user.rainer.atom")))
+     "</table>")
+   ) ""))
+;}}}

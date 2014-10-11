@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Johanna_König_(Schauspielerin)]
+* MindQuote: "nicht nur sauber, sondern rein!"
+* BirthPlace: StadtDresden
+* BornIn: 1921
+* BirthDay: 03-27
+* DiedIn: 2009

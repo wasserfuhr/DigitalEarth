@@ -1,0 +1,24 @@
+* MindTags: MitMachSache
+* MindLine: 2100
+* ManTra: "Live Long Enough to Live Forever" - RayKurzweil
+
+Our big game is called »TwentyFirstCentury«.
+
+WasSchaetztDu: Mit welcher Wahrscheinlichkeit wirst Du das Ende des Spiels im Jahr 2100 noch erleben?:
+Nur Werte __> 0__ (∈ ℝ) sind als Antwort erlaubt.
+
+||ErWartung||BuergerInnen||JahrGang||Source
+|23%|OliverBerger        |    |[*|http://twitter.com/OliverBerger/statuses/941828351]
+|10%|VivianPein          |    |[*|http://twitter.com/zeniscalm/statuses/941836381]
+| 5%|RainerWasserfuhr    |1969|[*|http://twitter.com/rainer/statuses/910545760]
+|0.1%|ChristineSchlinck  |1977|
+|31%| Sven Echtermeyer   |1974|
+
+([*|http://fooplot.com/index.php?&y0=1-1/(1%2Be^(0.1*(2047-x)))&xmin=1969&xmax=2100&ymin=-0.1&ymax=1.2&y1=e^(x-2012)])
+
+NotIfButWhen: Which technologies will __not__ be available until 2100?:
+* ArTelligence
+* TerraForming
+* ImMortal'ity
+* UpLoad
+* WeltSprache

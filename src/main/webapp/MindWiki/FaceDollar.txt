@@ -1,0 +1,11 @@
+* MindTags: FutureCard
+* PreDict: FaceBook has a VirtualEconomy with a currency that is convertible to EuRo or UsDollar and the annual TransAction volume exceeds 68.719.476.736 EuRo
+* PreDictDe: FaceBook hat eine VirtuelleOekonomie, deren Währung in EuRo oder UsDollar konvertierbar ist und ein jährliches Transaktionsvolumen von 68.719.476.736 EuRo übersteigt
+* FutureNumber: 36
+* UnTil: ???
+
+PeterThiel kennt sich als PayPal-Founder mit sowas im Prinzip aus.
+
+Im ersten Schritt wollen wir eine PieschenBank-Filiale in FaceBook eröffnen.
+
+Am FaceTrust muss bis dabei noch etwas getuned werden.

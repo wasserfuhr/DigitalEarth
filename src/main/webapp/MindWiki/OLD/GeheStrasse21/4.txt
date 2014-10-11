@@ -1,0 +1,6 @@
+* http://www.goyellow.de/map/dresden/gehestr+21
+* http://geo.mindbroker.de/postalcode/de/01127
+
+* LaengenGrad: 13.717778
+* BreitenGrad: 51.078333
+* BoundingBox: 10

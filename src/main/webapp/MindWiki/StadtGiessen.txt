@@ -1,0 +1,5 @@
+* IsA: MindCity
+* InterWiki: [DeWikiPedia:Gießen]
+* BoundingBox: 8000
+* MindCount: 64000
+* PartOf: LandHessen

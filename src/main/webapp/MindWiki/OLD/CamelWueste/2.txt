@@ -1,0 +1,5 @@
+Die CamelWueste ist ein SammelOrt für unklares oder strittiges CamelCase. 
+
+Beispiele:
+* DresDen oder DreSden? 
+* Hebedas

@@ -1,0 +1,14 @@
+* PageIndex
+** MindPeople
+*** BuergerInnen
+*** SingularityMind
+*** UnternehmensGruender
+*** ElektrischerReporter
+** CorpIndex
+*** HandelsRegister
+** CrowdWisdom
+** HerKunft
+** MindEvent
+** MindMusic
+** MindPlaces
+** UnsereProjekte

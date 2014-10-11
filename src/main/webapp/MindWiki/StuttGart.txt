@@ -1,0 +1,8 @@
+* IsA: MindCity
+* InterWiki: [DeWikiPedia:Stuttgart]
+* BreitenGrad: 48.811
+* LaengenGrad: 9.158
+* BoundingBox: 6000
+* BoundingBoxCaptain: HeikeRibke
+* MindOne: WolfgangSchuster
+* MindCount: 500000

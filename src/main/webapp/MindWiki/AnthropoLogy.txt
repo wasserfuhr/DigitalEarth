@@ -1,0 +1,3 @@
+* EtymoLogia: from the Greek ἄνθρωπος, anthrōpos, "HuMan", and -λογία, -logia
+* EtymoLogiaSource: http://en.wikipedia.org/wiki/Anthropology
+* InterWiki: [DeWikiPedia:Anthropologie]

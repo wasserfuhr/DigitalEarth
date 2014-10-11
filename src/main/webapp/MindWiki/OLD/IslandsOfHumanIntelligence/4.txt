@@ -1,0 +1,25 @@
+DoIt: Ein Grafik wie bei IslandsOfAutomation über die zunehmende Abbildung menschlicher
+kognitiver Fähigkeiten auf Silizium:
+
+* Basic arithmetics
+* Memory
+* Drawing
+* Computer Aided Design
+* Computerized Numerical Control
+* Optimization
+* Computer algebra
+* Robotics
+* Spell checking
+* Street navigation
+* Autonomic computing
+* Chess
+* Text translation
+* Speech recognition
+* Image recognition
+* Unmanned Vehicles
+* InFer'ence
+* ...
+* TuringTest
+* Theorem proving
+* Go
+* General ArTelligence

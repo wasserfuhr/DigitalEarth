@@ -1,0 +1,18 @@
+* MindQuote: FreiHeit ist immer an Bedingungen geknüpft, die die Freiheit einschränken.
+* MindQuote: Es gibt keine FreiHeit ohne TuGend.
+
+Alle BuergerInnen von NooPolis haben die Freiheit, 
+* jede Seite im MindWiki zu editieren und damit auch zB
+** VerFassung und
+** HausHalt
+* weitere BuergerInnen einzuladen
+* UnsereProjekte zu nutzen
+* MitWirken
+
+Die un-AchtSam'e Wahrnehmung einiger Freiheiten kann die SicherHeit von NooPolis und damit die FreiHeit aller BuergerInnen einschränken. Deren Wahrnehmung erfordert daher ein besonderes Maß an AchtSam'keit und setzt gewisse MindSkill's voraus: 
+* Root-SocialPassword und damit DePloy für UnserGrid: RainerWasserfuhr,DanielPoodratchi,YvonneSchubert.
+* MindSql: RainerWasserfuhr,DanielPoodratchi,YvonneSchubert,AndreasWeigel,JensFreydank,DimitriUwarov.
+
+Die FreiHeit'en von BuergerInnen können nur eingeschränkt werden durch ein Urteil des MindCourt.
+
+Derzeit bestehen keine Freiheitseinschränkungen.

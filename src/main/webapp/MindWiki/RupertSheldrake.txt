@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Rupert_Sheldrake]
+* BornIn: 1942
+* BirthDay: 06-28

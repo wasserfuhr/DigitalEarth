@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Paul_Otellini]
+* BirthDay: 10-12

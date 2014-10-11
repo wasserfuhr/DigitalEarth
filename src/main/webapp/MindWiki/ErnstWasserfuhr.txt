@@ -1,0 +1,8 @@
+* IsA: PerSon
+* BornIn: 1888
+* BirthDay: 12-25
+* ChildOf: EmilWasserfuhr
+* DiedIn: 1914
+* HasTalked: LeoUbbelohde
+
+http://books.google.com/books?id=odHmAAAAMAAJ&q=wasserfuhr

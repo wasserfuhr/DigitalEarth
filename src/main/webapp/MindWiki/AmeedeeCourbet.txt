@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Amédée_Courbet]
+* BirthDay: 06-28
+* ViAf: http://viaf.org/viaf/2014

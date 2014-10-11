@@ -1,0 +1,5 @@
+GedankenSpiel von StephanJansen.
+
+* ComBotsIm
+* DresdenChess
+* IntraBroker

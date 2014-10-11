@@ -1,0 +1,6 @@
+* MindTags: ParteiWiki
+
+Ein ParteiWiki für die [DeWikiPedia:Sozialdemokratische_Partei_Deutschlands].
+
+!Aktuelle Anträge
+* KeineWerbungGesetz

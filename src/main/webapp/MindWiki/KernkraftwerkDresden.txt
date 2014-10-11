@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Kernkraftwerk_Dresden], [OpenCyc:Dresden-NuclearPowerPlant]
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/21763321

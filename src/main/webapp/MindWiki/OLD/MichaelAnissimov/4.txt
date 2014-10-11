@@ -1,0 +1,7 @@
+* MindTags: SingularityMind
+* JahrGang: 1984
+* ShockLevel: 4
+* MindBlog: http://www.acceleratingfuture.com/michael/blog/
+||AusLand
+|[DelIcioUs:anissimov]
+|[WorldWideWeb:www.acceleratingfuture.com/michael]

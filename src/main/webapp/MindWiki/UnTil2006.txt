@@ -1,0 +1,31 @@
+||When        ||UnTil||      ||MindPlace  ||What                    ||MindPeople
+|20060517     |     |        |SkyDresden  |OpenBc Meeting           |ChristineSchlinck, MartinRoell EtAl
+|20060426     |     |        |DuesselDorf |DezentralKomitee         |RainerWasserfuhr, CemBasman, MarioSixtus, StephanUhrenbacher EtAl
+|20060321     |     |        |UnitedStates|FirstTweet               |JackDorsey
+|20051130:1800|     |        |SapLabs     |VorTrag                  |MarkFinnern, RainerWasserfuhr, KennitaWatson EtAl
+|20050512:2030|     |        |DbbForum    |Pistolen und Eisenbahnen |LawrenceLessig, RainerWasserfuhr
+|20050507:0100|     |        |AmToPm      |Party                    |RainerWasserfuhr, JeMand
+|20050210:1900|     |        |HotelNewBerlin|BerlinEuropaBlog       |RainerWasserfuhr, YvonneSchubert,LoicLeMeur
+|20041119:1800|     |        |SapLabs     |VorTrag                  |DougEngelbart, MarkFinnern, KennitaWatson EtAl
+|20040215:1100|     |        |StadtDresden|DresdnerReden            |HansOlafHenkel,RainerWasserfuhr,ChristineSchlinck
+|20031227     |     |        |DeutschLand |first DelIcioUs BookMark |RainerWasserfuhr
+|20031208     |     |        |CafeSaite   |                         |RainerWasserfuhr, MartinRoell, ThiemoMaettig
+|20030322     |     |        |TechGate    |BlogTalk                 |HaikoHebig, HeikoHebig
+|20030128     |     |        |PlanetErde  |DiaLog                   |JosephRatzinger, GeorgZoche
+|20020824     |     |        |Hof         |first StromSchnellen edit via MDA|RainerWasserfuhr
+|20011111:1111|     |        |AlterMarkt  |AlAaf                    |RainerWasserfuhr, ChristineSchlinck, ManuelaAmann
+|20010930     |     |        |DownTown    |Party                    |RainerWasserfuhr, ChristineSchlinck
+|20010911     |     |        |UnitedStates|NineEleven               |
+|20010603     |     |        |WikiWikiWeb |first edit               |RainerWasserfuhr
+|20001019:1830|     |        |TuDresden   |GruenderFoyer            |RainerWasserfuhr, YvonneSchubert, BerndKroeplin
+|20000401     |     |        |StanFord    |Spiritual RobOt's Symposium|BillJoy, RayKurzweil, RalphMerkle EtAl
+|20000101:0000|     |        |ChampsElysees|TwentyFirstCentury      |RainerWasserfuhr, YvonneSchubert EtAl
+|19991202:1830|     |        |TuDresden   |GruenderFoyer            |RainerWasserfuhr, HassoPlattner
+|19990811     |     |        |PlanetErde  |SonnenFinsternis         |BuergerInnen
+|19990516:0230|     |        |StadtDresden|Konzert                  |DieterBohlen, ThomasAnders RainerWasserfuhr, SD EtAl
+|19990422     |     |        |StadtDresden|DasProblem               |YvonneSchubert
+|19980816:0230|     |        |DeutschLand |EinHorn                  |RainerWasserfuhr
+|19970511     |     |        |NewYork     |WettBewerb               |GarryKasparov, DeepBlue
+|199610       |     |        |TuDresden   |SoziologieKongress       |NiklasLuhmann, RainerWasserfuhr
+|19950325     |     |        |PlanetErde  |WikiWikiWeb              |WardCunningham
+|19910806     |     |        |CeRn        |OnLine                   |TimBl

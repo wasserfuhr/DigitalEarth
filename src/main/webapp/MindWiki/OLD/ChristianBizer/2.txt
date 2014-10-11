@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/ChristianBizer
+* HomePage: http://www.wiwiss.fu-berlin.de/en/institute/pwo/bizer/
+* MindSkill: SemanticWeb

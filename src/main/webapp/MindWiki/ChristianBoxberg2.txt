@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* JahrGang: 1790
+* BirthDay: 09-08
+* BirthPlace: Grueterich
+* PapaZwoNull: PeterBoxberg
+* LebensEnde: 1866

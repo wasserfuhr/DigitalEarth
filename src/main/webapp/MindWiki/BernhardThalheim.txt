@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* SwDf: http://data.semanticweb.org/person/bernhard-thalheim
+* DbLp: http://dblp.uni-trier.de/rec/pid/t/BernhardThalheim
+* PageNumber: 8
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann WolfgangBibel KlausPJantke BernhardThalheim
+|[XingLe:Bernhard_Thalheim]

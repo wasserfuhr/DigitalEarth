@@ -1,0 +1,59 @@
+MindBroker sollte schöne URLs haben.
+
+Vorbilder:
+flickr:
+* http://www.flickr.com/photos/rainerw
+* http://www.flickr.com/photos/rainerw/tags
+* http://www.flickr.com/photos/rainerw/tags/dresden
+* http://www.flickr.com/photos/tags/burjdubai
+* http://www.flickr.com/cameras/
+* http://www.flickr.com/cameras/nikon
+* http://www.flickr.com/cameras/nikon/coolpix_s10
+
+||tdl||DoMain|SubDoMain|UrObjekt
+|de
+|de|mindbroker
+|com
+|net
+
+MindBroker:
+||AgWiki||DoMain||Status
+|MindBrokerKg |http://mindbroker.de  /   |LIVE
+|MindBrokerAg |http://ag.mindbroker.de/
+|AskMindBroker|http://ask.mindbroker.de/
+|MindBooks    |http://books.mindbroker.de/
+|UnsereBugs   |http://bugs.mindbroker.de/
+|MindCal      |http://cal.mindbroker.de/ |LIVE
+|DoIt         |http://doit.mindbroker.de/
+|UnsereDoMains|http://domains.mindbroker.de/
+|MindEvent    |http://events.mindbroker.de/
+|MindFee      |http://fee.mindbroker.de/
+|MindFeeds    |http://feeds.mindbroker.de/
+|MindFloor    |http://floor.mindbroker.de/
+|MindBrokerGeo|http://geo.mindbroker.de/ |LIVE
+|UnserGrid    |http://grid.mindbroker.de/
+|MindHome     |http://home.mindbroker.de/
+|MindId       |http://id.mindbroker.de/
+|AgWiki       |http://insider.mindbroker.de/wiki    |LIVE
+|MindMe       |http://me.mindbroker.de/
+|MindMusic    |http://music.mindbroker.de/
+|             |http://salsa.mindbroker.de/
+|MindShop     |http://shop.mindbroker.de/
+|SportPortal  |http://sport.mindbroker.de/
+|SourceCode   |http://svn.mindbroker.de/
+|SourceCode   |http://websvn.mindbroker.de/           | LIVE
+|WyrdMind     |http://wyrd.mindbroker.de/
+
+Sonstige:
+||Status||Domain
+|LIVE    |http://autos-bauen.de/
+|LIVE    |http://intrabroker.com/
+|        |http://mondbroker.de/
+|LIVE    |http://semantic.stadtwiki.net
+|        |http://sematags.de/
+|LIVE    |http://stromschnellen.de/
+|LIVE    |http://wasserfuhr.com/
+|LIVE    |http://waveddan.de/
+|LIVE    |http://wikihosting.de/
+|LIVE    |http://wikitchen.de/
+|LIVE    |http://yvonneschubert.com/

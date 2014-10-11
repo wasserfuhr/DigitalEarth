@@ -1,0 +1,19 @@
+https://appengine.google.com/
+|bahnchefspiel 	BahnChefSpiel 	1
+|bigtablenomic 	BigTableNomic 	1
+|clojurenomic 	ClojureNomic 	Disabled by developer [?]
+|corisotto 	CoRisotto 	2
+|dresdenbot 	DresdenBot 	None Deployed
+|elias-morgenstern 	EliasMorgenstern 	None Deployed
+|etherbank 	EtherBank 	1
+|heidi-morgenstern 	HeidiMorgenstern 	1
+|hotelkronentor 	HotelKronentor 	1
+|mindchat 	MindChat 	None Deployed
+|myviaf 	MyViaf 	None Deployed
+|noobootstrap 	NooBootStrap 	1
+|noopolis 	NooPolis 	1
+|pieschenai 	PieschenAi 	1
+|pieschenartgroup 	PieschenArtGroup 	1
+|pieschenbank 	PieschenBank 	1
+|singularacademy 	SingularAcademy 	2
+|singulartheater 	SingularTheater

@@ -1,0 +1,4 @@
+* HerKunft: Learning Intelligent Distribution Agent
+* InterWiki: [WikiPedia:LIDA_(cognitive_architecture)]
+
+10Hz

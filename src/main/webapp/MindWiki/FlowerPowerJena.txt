@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* BoundingBox: 20
+
+schräg übern Marktplatz rüber.

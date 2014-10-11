@@ -1,0 +1,3 @@
+* IsA: MindSquare
+* InterWiki: [DeWikiPedia:Schloßplatz_(Dresden)]
+* NearBy: AugustusBruecke

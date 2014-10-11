@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [LangReiter:Monika+Henzinger]
+* JahrGang: 1966
+* HomePage: http://ltaa.epfl.ch/monika/
+* PageNumber: 2

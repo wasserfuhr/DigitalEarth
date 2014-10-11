@@ -1,0 +1,9 @@
+* MindTags: FutureCard
+* InterWiki: [DeWikiPedia:Weltraumlift]
+* PreDict: In der StadtDresden gibt es einen SpaceLift mit einem mindestens 33.554.432 Meter langen NanoCable, über das Lasten und PerSon'en transportiert werden können.
+* CardOwner: HerrMuehlchen
+
+||PreDict'or  ||UnTil||ProBab'ility >=
+|JoergKeller  |2132|50
+|RalfLippold  |2060|10
+|RalfLippold  |2100|50

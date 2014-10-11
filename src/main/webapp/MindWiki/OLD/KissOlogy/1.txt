@@ -1,0 +1,1 @@
+* RdfProperty: http://www.gnowsis.org/ont/kissology#kissed

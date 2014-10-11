@@ -1,0 +1,50 @@
+{{{
+(fn [request response]
+ (let
+   [cp (.getRequestURI request)
+    cljlet (if (.equals "/" cp) "index" (first (re-seq #"[a-zA-Z]+" cp)))
+    heartbeat (fn [request response]
+     (let 
+       [
+        queue (com.google.appengine.api.labs.taskqueue.QueueFactory/getDefaultQueue)
+        tOpt (com.google.appengine.api.labs.taskqueue.TaskOptions$Builder/url "/heartbeat")
+        tOpt2 (.countdownMillis tOpt 1000)
+        none (.add queue tOpt2)
+       ]
+      (str "done")))
+    paypal (fn [request response]
+         (str " <script language='JavaScript'><!--
+   function updatePrice() {
+     var kagrAmount=document.getElementById('kagrAmount').value;
+     document.getElementById('item_name').value=kagrAmount+' KayGroschen';
+     document.getElementById('amount').value=(kagrAmount*8/1000).toFixed(2);
+   }
+   //-->
+ </script>
+ <form action='https://www.paypal.com/cgi-bin/webscr' method='post'>
+   <input type='hidden' name='cmd' value='_xclick'/>
+   <input type='hidden' name='business' value='rainerwasserfuhr+PayPal@gmail.com'/>
+   <input type='hidden' name='item_name' id='item_name' value='1000 KayGroschen'/>
+   <input name='kagrAmount' id='kagrAmount' value='1000' onchange='updatePrice()'/>
+   <input name='item_number' value='KayGroschen' onchange/>
+   <input readonly='readonly' name='amount' value='8.00' id='amount'/>EuRo
+   <input type='hidden' name='no_shipping' value='2'/>
+   <input type='hidden' name='no_note' value='1'/>
+   <input type='hidden' name='currency_code' value='EUR'/>
+   <input type='hidden' name='bn' value='IC_Beispiel'/>
+   <input type='image' src='https://www.paypal.com/de_DE/i/btn/x-click-but01.gif' 
+   name='submit' alt='Bezahlen Sie mit PayPal - schnell, einfach und sicher!' 
+   onsubmit=''/>
+   <img alt='' width='1' height='1'
+    src='https://www.paypal.com/en_US/i/scr/pixel.gif'/>
+</form>"))]
+  (
+   (get
+    {
+     :paypal paypal
+     :heartbeat heartbeat
+    }
+    (keyword (.toLowerCase cljlet))
+    (fn [request response] (str "<h1>HelloWorld</h1> <a href='ide'>IDE</a> _" (.getRequestURI request) "_")))
+   request response)))
+   }}}

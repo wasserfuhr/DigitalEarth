@@ -1,0 +1,4 @@
+* IsA: MindProps
+* RdfProperty: http://xmlns.com/foaf/0.1/based_near
+
+BuergerInnen, auf deren WikiHomePage eine HomeStead angeben ist, könnten bald auf der MindMap dargestellt werden.

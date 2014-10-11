@@ -1,0 +1,3 @@
+* IsA: ArtWork
+* DcAuthor: HeidiMorgenstern
+* LocatedAt: SchlohnZimmer

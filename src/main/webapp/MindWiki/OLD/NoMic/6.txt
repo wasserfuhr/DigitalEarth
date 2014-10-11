@@ -1,0 +1,5 @@
+* InterWiki: [DeWikiPedia:Nomic], [WebSeitz:NomicGame], [WikiWikiWeb:NomicGame]
+
+"Bei der Nomic-Variante WikiPedia sind ebenfalls alle Regeln durch die Spieler veränderlich. Allerdings ist das Ziel des Spieles nicht das Hervorbringen eines ParaDox'ons, sondern einer [umfassenden Enzyklopädie|http://de.wikipedia.org/w/index.php?title=Nomic&oldid=21209997]"
+
+NooPolis ist ein ReFrame'ing von Gesellschaft und VerFassung als NoMic-Spiel.

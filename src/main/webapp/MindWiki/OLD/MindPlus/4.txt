@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0723
+* LaengenGrad: 13.7270
+* BoundingBox: 40
+* OpenStreetMap: http://openstreetmap.org/browse/node/262167333
+* HomePage: [http://www.viamichelin.com/b2b2c/deu/dyn/controller/dlPoiAccess?id=7676447&productId=94695]

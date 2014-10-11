@@ -1,0 +1,28 @@
+||MindWiki ||en         ||de        ||zh    ||ja
+|LebensEnde|Death       |Tod        |死亡
+|PlanetErde|Earth       |Erde       |地球
+|          |Ear         |Ohr        |耳
+|EnErgie   |Energy      |Energie    |耳
+|          |Eye         |Auge       |眼
+|ZuKunft   |Future      |Zukunft    |未来    |
+|          |God         |Gott       |口腔
+|          |Heaven      |Himmel     |天國
+|          |Money       |Geld       |貨幣
+|          |History     |Geschichte |歷史
+|          |Game        |Spiel      |游戏
+|MindPeople|Human       |Mensch     |人      |
+|          |Life        |Leben      |生命
+|          |Love        |Liebe      |愛
+|          |Man         |Mann       |男性
+|MiNd      |Mind        |Geist      |心靈
+|          |Moon        |Mond       |月球
+|          |Mouth       |Mund       |口腔
+|          |Number      |Zahl       |数
+|GegenWart |Present     |Gegenwart  |今天
+|          |Space       |Raum       |空间
+|          |Sun         |Sonne      |太阳
+|          |Time        |Zeit       |時間
+|          |Water       |Wasser     |水
+|          |Wiki        |Wiki       |Wiki
+|          |Woman       |Frau       |女人
+|          |World       |Welt       |世界

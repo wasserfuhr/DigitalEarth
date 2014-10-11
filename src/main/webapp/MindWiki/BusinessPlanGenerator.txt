@@ -1,0 +1,13 @@
+Nur über die Leiche von RainerWasserfuhr wird MindBroker jemals wieder ein Word-Dokument oder eine Excel-Datei anlegen, um einen BusinessPlan zu erstellen (Nicht dass sich MindBroker damit nicht auskennen würde: zwischen 1999 und 2003 hat die MindBrokerKg damit über 50.000 EuRo Preisgelder bzw nichtrückzahlbare Fördermittel gewonnen).
+
+GeekIq ist dagegen der für FutureSax begonnene automatische BusinessPlan-Generator auf Basis von ApacheFop,
+der ein PDF-Dokument On-the-fly generiert und theoretisch mit 1-2 Stunden MindHacking von RainerWasserfuhr auch den ConTent der folgenden WikiPage's einbetten könnte:
+* VerTrag
+* ShareHolder
+* MitWirkende
+* CommitMent
+* RoadMap
+* UmSatz
+* WettBewerb
+
+Das PDF könnte es für interessierte InVest'oren im MindShop zu kaufen geben. Jedoch welcher Mensch mit VerMoegen und Verstand InVest'iert im Jahre 2008 noch in StartUp's die nicht WikiBasiert sind?

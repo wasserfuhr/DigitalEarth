@@ -1,0 +1,3 @@
+* IsA: PerSon
+* HomePage: http://www.bertramkoehler.de/
+* JahrGang: 1934

@@ -1,0 +1,8 @@
+* PageIndex
+** MindPeople
+*** BuergerInnen
+*** SingularityMind
+** CorpIndex
+*** HandelsRegister
+** MindEvent
+** CrowdWisdom

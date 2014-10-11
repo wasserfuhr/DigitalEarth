@@ -1,0 +1,7 @@
+Ab sofort monatlicher Bericht an GoTT: Wie nahe ist die Singularity?
+
+Lieber GoTT, jetzt sind wir der Singularity ein Stück näher gekommen:
+EiBiEm musste beim RoadRunner zwar ganz schön die LinPack-Zahlen
+aufhübschen, aber wir können jetzt Peta-Flops rechnen. 
+Wir müssen mit der Kiste leider noch ein paar Nuklearbomben-Mindesthaltbarkeitsdaten checken,
+aber HenryMarkram darf auch schon ein paar erste Neuronen simulieren.

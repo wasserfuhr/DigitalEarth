@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Fidel_Castro], [OpenCyc:FidelCastroRuz], [WebSeitz:FidelCastro]
+* JahrGang: 1926
+* BirthDay: 08-13
+* WohnSitz: LaHabana

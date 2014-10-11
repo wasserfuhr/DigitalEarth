@@ -1,0 +1,15 @@
+The ultimate abstraction of a VirtualMachine is the TuringMaschine.
+
+Which VirtualMachine architecture will the ArTelligence have?
+
+Probably something like LISP or SmallTalk because of their augmented capabilities of reflection,
+especially S-Expressions.
+
+Currently the MindWiki is separated from the SourceCode.
+What if the SourceCode would be included in the wiki?
+
+Since NooPolis is OpenSource, it is possible to 
+* reflect about the SourceCode at runtime, or even to
+* modify SourceCode programmatically
+
+So it could theoretically even SelfImprove recursively.

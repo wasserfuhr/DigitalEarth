@@ -1,0 +1,42 @@
+UniqueNameAssumption for SwDf __except__:
+
+PhilippKaerger
+* http://data.semanticweb.org/person/philipp-karger
+* http://data.semanticweb.org/person/philipp-kaerger
+
+MicheleNucci
+* http://data.semanticweb.org/person/m-nucci
+* http://data.semanticweb.org/person/michele-nucci
+
+HansJoergHappel
+* http://data.semanticweb.org/person/hans-joerg-happel
+* http://data.semanticweb.org/person/hans-jorg-happel
+
+JaeWookAhn
+* http://data.semanticweb.org/person/jae-wook-ahn
+* http://data.semanticweb.org/person/jaewook-ahn
+
+OscarMunozGarcia
+* http://data.semanticweb.org/person/oscar-munoz-garca
+* http://data.semanticweb.org/person/oscar-munoz-garcia
+
+RamanathanGuha
+* http://data.semanticweb.org/person/ramanathan-guha
+* http://data.semanticweb.org/person/ramanathan-v-guha
+
+Missing FirstName:
+* FrancescoPiazza http://data.semanticweb.org/person/f-piazza
+* LenoidLibkin http://data.semanticweb.org/person/l-libkin
+* PaoloPuliti http://data.semanticweb.org/person/p-puliti
+* SolmazKolahi: http://data.semanticweb.org/person/s-kolahi
+* SMuthuMuthukrishnan: http://data.semanticweb.org/person/s-muthukrishnan
+
+No UpperCase:
+* LuigiSauro http://data.semanticweb.org/person/luigi-sauro
+
+Delibarated:
+* McSchraefel: http://data.semanticweb.org/person/mc-schraefel
+
+Bug:
+* http://data.semanticweb.org/person/beijing-beihang-assets-management-co-ltd
+* [http://data.semanticweb.org/person/kieron-o'hara] (no nice UrL)

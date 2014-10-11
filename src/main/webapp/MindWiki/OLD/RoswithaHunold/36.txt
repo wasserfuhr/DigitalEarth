@@ -1,0 +1,21 @@
+* InvitedBy: RainerWasserfuhr
+* MindId: 32
+* TrustLevel: 1
+* ChildOf: RenateHunold HelmutHunold
+* SprachWelt: de en el gr he la
+* HomeStead: VoegelNest
+* MyWikiWall: RoswithaHunoldWikiWall
+* InBox: RoswithaHunoldInBox
+* ViAf: http://viaf.org/viaf/103802955
+* HomePage: http://www.roswitha-hunold.de
+* AspasiasHomePage: http://www.aspasias-bauch.de
+* MindSkill: BauchTanz CousCous HtMl KopfTanz LaTex OrthoGraph ScreenSharing ThessalischeNamenstudien TransLate
+* MindFaves: AnnaMateur EduardSchwyzer ErnstRisch HelgeSchneider JeanPierrot QuodLicetIoviNonLicetBovi
+* MindPhone: Nokia 7373
+|[XingLe:Roswitha_Hunold]
+|[SkyPe:roswitha.hunold]
+|[TwittEr:Rosenfrau]
+|[TwittEr:AspasiasBauch]
+|[StudiVz:739e922dbb55e963]
+|[FaceBook:1051719075]
+|[FlickEr:aspasias-bauch]

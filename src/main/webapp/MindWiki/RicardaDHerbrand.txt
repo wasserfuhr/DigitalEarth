@@ -1,0 +1,12 @@
+* IsA: CitiZen
+* InvitedBy: RainerWasserfuhr
+* MindId: 4
+* TrustLevel: 1
+* HomeStead: HamBurg
+* MindRole: ChiefSalsaOfficer
+* DancedWith: RiccardoBoettcher
+* ViAf: http://viaf.org/viaf/80416580
+|[WorldWideWeb:www.worteinheiten.de]
+|[FaceBook:777753775]
+|[XingLe:RicardaD_Herbrand]
+|[DoppLr:RDH]

@@ -1,0 +1,57 @@
+MindBroker ReSearch presents: A digital BuildingModel for WirkZentrum at GeheStrasse21:
+
+MindTerm's:
+* Bathtub
+* Bed
+* Bookcase
+* Cabinet
+* Carpet
+* Chair
+* Door
+* Easel
+* Floor
+* Houseplant
+* Lamp
+* LightSwitch
+* Opening
+* Oven
+* Painting
+* Piano
+* Poster
+* PowerPlug
+* Radiator
+* Stove
+* Stucco
+* Table
+* Wall
+* WashingMachine
+* WateringCan
+* Window
+
+Exact geometry will calculated with geometric constraints and JIProlog:
+{{{
+room(bedroom).
+room(bathroom).
+room(corridor).
+room(kitchen).
+room(livingroom).
+windowRoom(window1,livingroom).
+windowRoom(window2,livingroom).
+windowRoom(window3,livingroom).
+windowRoom(window4,livingroom).
+windowRoom(window5,bedroom).
+windowRoom(window6,kitchen).
+windowRoom(window7,kitchen).
+windowRoom(window8,bathroom).
+window(X) :- windowRoom(X,Y).
+//windows with same size:
+size(window1,X) :- size(window2,X).
+size(window1,X) :- size(window3,X).
+size(window1,X) :- size(window4,X).
+size(window1,X) :- size(window5,X).
+//all rooms have same height:
+roomHeight(livingroom,X) :- roomHeight(bathroom,X).
+roomHeight(livingroom,X) :- roomHeight(bedroom,X).
+roomHeight(livingroom,X) :- roomHeight(corridor,X).
+roomHeight(livingroom,X) :- roomHeight(kitchen,X).
+}}}

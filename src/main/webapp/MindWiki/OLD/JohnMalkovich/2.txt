@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:John_Malkovich], [OpenCyc:JohnMalkovich]
+* JahrGang: 1953
+* BirthDay: 12-09

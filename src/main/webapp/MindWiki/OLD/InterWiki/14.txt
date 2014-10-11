@@ -1,0 +1,24 @@
+Erklärung: [WikiWikiWeb:InterWiki]
+
+|BlogLines      |http://bloglines.com/public/%s
+|ClaimId        |http://claimid.com/%s
+|DelIcioUs      |http://del.icio.us/%s
+|DeWikiPedia    |http://de.wikipedia.org/wiki/%s
+|DeWikiPediaUser|http://de.wikipedia.org/wiki/Benutzer:%s
+|FaceBook       |http://www.facebook.com/profile.php?id=%s
+|FlickEr        |http://www.flickr.com/photos/%s/
+|GoogleSearch   |http://www.google.com/search?q=%s
+|IhBay          |http://myworld.ebay.com/%s
+|JSPWiki        |http://www.jspwiki.org/Wiki.jsp?page=%s
+|LinkedIn       |http://www.linkedin.com/in/%s
+|NeuDe          |http://neu.de/profile/%s
+|SecondLife     |http://www.sloog.org/users/%s
+|StudiVz        |http://www.studivz.net/profile.php?ids=%s
+|WikiPedia      |http://en.wikipedia.org/wiki/%s
+|WikiPediaUser  |http://en.wikipedia.org/wiki/User:%s
+|WikiWikiWeb    |http://c2.com/cgi/wiki?%s
+|WorldWideWeb   |http://%s/
+|XingLe         |https://www.xing.com/profile/%s
+|YouTube        |http://youtube.com/user/%s
+
+aktuelle InterWiki links: SystemInfo

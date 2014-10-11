@@ -1,0 +1,9 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Hans_Grabowski]
+* BornIn: 1934
+* BirthDay: 05-04
+* DiedIn: 2008
+* DbLp: http://dblp.uni-trier.de/rec/pid/99/3148
+* ViAf: http://viaf.org/viaf/12840989
+* PageNumber: 9
+* PagePath: LarryPage SergeyBrin MonikaHenzinger KurtMehlhorn FriedhelmMeyerAufDerHeide RolfWanka KlausBrockmann ChristophKilger StefanRude HansGrabowski

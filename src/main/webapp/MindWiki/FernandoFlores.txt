@@ -1,0 +1,6 @@
+* IsA: MinisTer ProFessor
+* InterWiki: [WikiPedia:Fernando_Flores]
+* BirthDay: 01-09
+* DbLp: http://dblp.uni-trier.de/rec/pid/16/4739
+* PageNumber: 2
+* PagePath: LarryPage TerryWinograd FernandoFlores

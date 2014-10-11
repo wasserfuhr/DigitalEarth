@@ -1,0 +1,5 @@
+http://kodex.mindbroker.de
+
+* FixBugsFirst.
+* Mit Ausnahme von [[Mind]] ist jeder PageName im AgWiki ist CamelCase.
+* Jeder MindBroker ist TraumPartner.

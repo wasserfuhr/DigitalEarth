@@ -1,0 +1,8 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Russland]
+* BreitenGrad: 61
+* LaengenGrad: 97
+* BoundingBox: 35000
+* SlimNess: 0.6
+* GraDient: 90
+* MindCount: 140000000

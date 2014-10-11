@@ -1,0 +1,5 @@
+* EtymoLogia: abiturire (=weggehen werden)
+* EtymoLogiaSource: http://de.wiktionary.org/wiki/Abitur
+* InterWiki: [DeWikiPedia:Abitur]
+
+MindSchule SchuleDerZukunft

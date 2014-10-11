@@ -1,0 +1,2 @@
+* IsA: LuftBallong
+* AircraftRegistration: G-FGSK

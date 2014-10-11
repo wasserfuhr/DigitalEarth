@@ -1,0 +1,5 @@
+* IsA: PerSon
+* FoAf: https://www.plaxo.com/add_me/foaf.rdf?u=4294967299&v0=7&k0=-2102200658&f=1
+* BirthDay: 02-14
+* DbLp: http://dblp.uni-trier.de/rec/pid/90/1519
+|[TwittEr:jsmarr]

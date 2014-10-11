@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Goldener_Reiter], [DeWikiPedia:Goldener_Reiter_(Reiterstandbild)]
+* BreitenGrad: 51.0581
+* LaengenGrad: 13.7413
+* BoundingBox: 5

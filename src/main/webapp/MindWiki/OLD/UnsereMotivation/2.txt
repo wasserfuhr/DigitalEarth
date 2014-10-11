@@ -1,0 +1,32 @@
+ Spot
+
+hier: kurze zusammenfassung
+
+Inhalt:
+
+* Bleibe in Kontakt mit deinen Sportsfreunden
+* Finde neue und alte Sportsfreunde
+* Finde die besten Vereine in deiner Umgebung
+* Gründe eigene „Teams“
+* Verwalte deine Sporttreffen/Trainings/Freizeit
+* Nimm an öffentlichen Events mit deinen Sportsfreunden teil
+* Erstelle eigene private oder öffentliche Events
+* Veröffentliche Bilder und Videos von Sportereignissen
+
+
+*Unsere Motivation
+Im laufe des letzten Jahres hat sich der „Trend“ im Internet stark gewandelt. Die wohl deutlichste Veränderung liegt in der Wahrnehmung des Internets. Durch Fortschritte in der Technik ist das Internet nicht mehr nur noch Informationsquelle Nummer eins, sondern auf dem sicheren Weg die meisten aller bisherigen Unterhaltungsmedien abzulösen.
+Prägendes Merkmal ist zum Beispiel der Verkauf YouTube’s an Google für 1,6 Milliarden Euro. YouTube ist eine Community die jedem User erlaubt eigene Videos zu veröffentlichen.
+
+Den Wert und das wirtschaftliche Interesse eines solchen Portals wird zum großen Teil von
+der Anzahl der beteiligten Nutzer dirigiert. So gibt es noch weitere Beispiele:
+
+** Xing (ehem. OpenBC) – ein Portal zum Verwalten seiner Businesskontakte – erfolgreicher Börsengang
+** StudiVz – ein Portal für Studenten – für ca. 50 Millionen Euro an Holtzbrinck Ventures verkauft.
+
+Wir glauben, dass wir das auch können, nur besser.
+Spot wird genau ein solches „social Network“ für Menschen die Spaß an Sport und Freunden haben.
+
+Ähnliche (und auch erfolgreiche!) Sportportale gibt es in den USA. In Deutschland gibt es noch nicht eins dieser Art.
+
+Wir entwickeln transparent. Das heißt wir spezifizieren nicht alles auf Spot sondern werden eine erweiterbare Basis haben (in Form eines Java Packages „Mindbroker core“) die es ermöglicht innerhalb kurzer Zeit neue solcher Netzwerke zu launchen.

@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Jeffrey_Ullman] [WikiWikiWeb:JeffreyUllman]
+* JahrGang: 1942
+* BirthDay: 11-22
+* DbLp: http://dblp.uni-trier.de/rec/pid//u/JeffreyDUllman
+* PageNumber: 2
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman

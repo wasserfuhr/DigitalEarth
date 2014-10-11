@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* HomePage: http://www.biotec.tu-dresden.de/research/mueller/
+* MindSkill: BioMind

@@ -1,0 +1,16 @@
+the basic unit of service sold by LockSchuppenAg.
+
+In the TimeToCome you can use LockCoupon's for:
+* 1 LockCoupon = 1h usage of CoWorkingSpace
+* 5 LockCoupon's = 1day usage of CoWorkingSpace
+* 80 LockCoupon's = 1 month usage of CoWorkingSpace
+* 2 LockCoupon's = 1 LockSchuppen-BeSuch (1h) with a qualified LockSchuppenFuehrer
+
+Currently you can buy a LockCoupon for 5 EuRo from RalfLippold
+
+!Current Owner
+||SerialNumber||Owner
+|1|IrisSchilke
+|2|ThiemoMaettig
+|3|RaikFischer
+|4|MarcelBoehme

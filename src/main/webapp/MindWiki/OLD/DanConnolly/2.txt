@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/33/2532
+* HomePage: http://www.w3.org/People/Connolly/
+* MindSkill: SemanticWeb
+|[FaceBook:616656075]
+|[FlickEr:dckc]

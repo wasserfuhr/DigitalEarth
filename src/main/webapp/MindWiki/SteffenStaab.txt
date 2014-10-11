@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/SteffenStaab
+* HomePage: http://www.uni-koblenz.de/~staab/
+* PageNumber: 5
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker SteffenStaab
+|[TwittEr:ststaab]
+|[XingLe:Steffen_Staab]

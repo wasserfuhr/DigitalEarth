@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/JBiskup
+* HomePage: http://ls6-www.cs.uni-dortmund.de/index.php?id=32&p=1
+* PageNumber: 9
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann WolfgangBibel KlausPJantke BernhardThalheim JoachimBiskup

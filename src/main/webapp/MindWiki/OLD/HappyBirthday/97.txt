@@ -1,0 +1,25 @@
+saying happy BirthDay:
+
+* HappyBirthdayQ1
+* HappyBirthdayQ2
+* HappyBirthdayQ3
+* HappyBirthdayQ4
+ 
+neptun:~/Desktop/wiki rainer$ grep BirthDay * |grep  02-10
+BertoltBrecht.txt:* BirthDay: 02-10
+VernorVinge.txt:* BirthDay: 02-10
+neptun:~/Desktop/wiki rainer$ grep BirthDay * |grep  02-11
+SarahPalin.txt:* BirthDay: 02-11
+ThomasAlvaEdison.txt:* BirthDay: 02-11
+neptun:~/Desktop/wiki rainer$ grep BirthDay * |grep  02-12
+BleuTopaze.txt:* BirthDay: 02-12
+CharlesDarwin.txt:* BirthDay: 02-12
+JacquesHerbrand.txt:* BirthDay: 02-12
+RayKurzweil.txt:* BirthDay: 02-12
+neptun:~/Desktop/wiki rainer$ grep BirthDay * |grep  02-13
+SabineBaetzing.txt:* BirthDay: 02-13
+neptun:~/Desktop/wiki rainer$ grep BirthDay * |grep  02-14
+AlexanderKluge.txt:* BirthDay: 02-14
+JosephSmarr.txt:* BirthDay: 02-14
+MichaelBloomberg.txt:* BirthDay: 02-14
+SergeiKapitsa.txt:* BirthDay: 02-14

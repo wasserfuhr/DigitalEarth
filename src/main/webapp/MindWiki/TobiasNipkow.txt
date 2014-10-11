@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/n/TobiasNipkow
+* PageNumber: 3
+* PagePath: LarryPage HectorGarciaMolina GerhardWeikum TobiasNipkow

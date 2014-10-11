@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Shenzhen]
+* MindCount: 8000000
+* BoundingBox: 18000

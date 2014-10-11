@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* HomePage: http://www.zaza.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/306473598

@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Leipziger_Vorstadt]
+* BoundingBox: 2000
+* MindCount: 8000

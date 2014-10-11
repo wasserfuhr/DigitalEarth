@@ -1,0 +1,6 @@
+* MindTags: ProFessor
+* JahrGang: 1941
+* BirthDay: 08-19
+* ViAf: http://viaf.org/viaf/32499010
+* HomePage: http://www-avenhaus.informatik.uni-kl.de/mitarbeiter/avenhaus/
+* MindSkill: InFer

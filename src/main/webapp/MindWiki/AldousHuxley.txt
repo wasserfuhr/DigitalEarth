@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Aldous_Huxley]
+* BornIn: 1894
+* BirthDay: 07-26

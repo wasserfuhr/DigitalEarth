@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Helmut_F._Spinner]
+* JahrGang: 1937
+* BirthDay: 01-28

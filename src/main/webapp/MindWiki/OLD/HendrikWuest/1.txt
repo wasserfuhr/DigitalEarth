@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Hendrik_Wüst]
+* BornIn: 1975
+* BirthDay: 07-19
+* ParteiWiki: 1975

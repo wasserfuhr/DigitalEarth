@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* WohnSitz: StadtDresden
+||AusLand
+|[WorldWideWeb:www.ethorion.de]

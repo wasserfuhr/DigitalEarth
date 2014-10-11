@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Penélope_Cruz], [OpenCyc:PenelopeCruz]
+* BirthDay: 04-28

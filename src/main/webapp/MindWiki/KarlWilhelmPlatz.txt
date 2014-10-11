@@ -1,0 +1,3 @@
+* IsA: MindSquare
+* InterWiki: [KaWiki:Karl-Wilhelm-Platz]
+* NamedAfter: KarlWilhelm

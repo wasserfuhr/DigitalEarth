@@ -1,0 +1,4 @@
+* IsA: CitiZen
+* InvitedBy: SoerenRogoll
+* MindId: 153
+* WaveAddress: roykoenig.de@googlewave.com

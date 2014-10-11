@@ -1,0 +1,17 @@
+The DresdenScore is a SemanticWeb quality measure from MindBroker ReSearch for your FoAf node inside the WebOfTrust-enabled GiantGlobalGraph.
+
+!The current Metrics:
+||Score||Parameter
+|+100|You have a homepage on the WorldWideWeb
+|+20|The URL of the homepage has it's own domain
+|+50|The URL contains valid XHTML
+|+50|The URL has FoAf auto discovery
+|+50|The FoAf contains valid RDF
+|+20|for each unique rdfs:seeAlso inside your FoAf
+|-30|for each rdfs:seeAlso which points to non existing resources
+|-20|for each rdfs:seeAlso which points to non validaring RDF
+|+10000|you belong to the CitiZens of NooPolis 
+|+1000|your shortest foaf:knows-chain from CitiZens of NooPolis has lenght 1
+|+100|your shortest foaf:knows-chain from CitiZens of NooPolis has lenght 2
+|+10|your shortest foaf:knows-chain from CitiZens of NooPolis has lenght 3
+|-1000|you are not reachable by a transitive foaf:knows-chain from CitiZens of NooPolis

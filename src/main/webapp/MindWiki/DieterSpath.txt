@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/30/775
+* PageNumber: 10
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann WolfgangBibel KlausPJantke KlausPeterFaehnrich HansJoergBullinger DieterSpath

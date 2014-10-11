@@ -1,0 +1,10 @@
+Get started with a NewMind and build an ArTelligence which can autonomously operate as
+a baby AvaTar in SecondLife.
+
+CitiZens might:
+* feed it
+* talk to it
+* teach words
+* hug it
+* kiss it
+* play games

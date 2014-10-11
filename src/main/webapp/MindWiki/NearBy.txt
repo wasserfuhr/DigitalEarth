@@ -1,0 +1,3 @@
+* IsA: MindProps
+
+UrObjekt of SpatialMemory

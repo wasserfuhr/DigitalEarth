@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Nikolaus_Forgó]
+* BirthDay: 05-27
+* DbLp: http://dblp.uni-trier.de/rec/pid/15/5544
+* HomePage: http://www.iri.uni-hannover.de/lehrstuhl-prof-forgo.html
+* PageNumber: InFinite

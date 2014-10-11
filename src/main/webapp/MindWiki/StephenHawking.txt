@@ -1,0 +1,5 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Stephen_Hawking], [OpenCyc:StephenHawking], [WikiWikiWeb:StephenHawking]
+* JahrGang: 1942
+* BirthDay: 01-08
+* MindSkill: WeltFormel

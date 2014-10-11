@@ -1,0 +1,4 @@
+* IsA: HochSchule
+* InterWiki: [DeWikiPedia:Jacobs_University_Bremen]
+* NamedAfter: KlausJJacobs
+* MindOne: JoachimTreusch

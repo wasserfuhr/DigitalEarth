@@ -1,0 +1,28 @@
+* SloGan: 256 important ConCept's, PerSon's, ProJect's and EnterPrise's for TheFuture of the TwentyFirstCentury
+|[TwittEr:WikiWall]
+
+At the CoOrpheum and the WorldWideWeb we have a WikiWall where we BrainStorm, visualize and manage the HotTopics ConNect'ed with the LockSchuppen, be it PerSon's,  ProJect's, EnterPrise's or DisRupt'ive technologies or LifePattern.
+
+It is a strategic management tool that allows us to visualize ComPlex relationships.
+
+http://www.flickr.com/photos/rainerw/4720193287/:
+
+[{Image src='http://farm2.static.flickr.com/1332/4720193287_1ccdd298a0.jpg'}]
+|| ||a||b||c||d||e||f||g||h||i||j||k||l||m||n||o||p
+||1|KaosPilot |OpenEverything |WalterRiester |EdgarSchein |PaulFLevy |JeffBoyer |PamelaPaquinHall |JohnSterman |WaveCash |RichardFlorida |BeatZentrale |InternetManifest |PerKristiansen |SwarmIntelligence |SeaNation |ObenVorn
+||2|DoOcracy |MartineRothblatt |NasaCoLab |DirkSpannaus |CraigVenter |WirtschaftsFoerderung |LockOfficeBerlin |EricVonHippel |PhilipRosedale |ArturFriedrich |MooresLaw |MartinRoell |JamesParsons |MarcusBuckingham |SpiEssEr |FutureCard
+||3|OpenCog |JeffClavier |RobinHanson |EmotivEpoc |UlrichDeppendorf |NanoAssembler |WikiWallAd |WoZu |AntjeLippold |PlanetErde |PeterPlan |WikiWallAd |BobMetcalfe |FutureLab2056 |EdRugero |MartinFiedler
+||4|ViAf |UmairHaque |DresdenChess |DigitalTwin |CarTwoGo |FrankSchirrmacher |ThinkAndDoTank |PageNumber |OntoLogy |JanHinrichs |GaryHamel |CarloRatti |BauchTanz |SocialMedia |OlegPavlow |KaiZen
+||5|ChristianHeller |RobbieSchingler |CoWorking |ArBeit |DonGreer |AnneWillSingularity |GottfriedWilhelmLeibniz |WissensStadt |MichaelBean |RachelReagan |MartinAha |FutureModel |NiklasLuhmann |TimBonnemann |GoogleInc |PageRank
+||6|JeffHawkins |BlueBrain |DirkHilbert |RfId |MartinGaedke |SingularLeuchtTurm |SingularityUniversity |InternetOfThings |LifeExtension |MoonShots |JuanitaBrown |ArtKleiner |OttoScharmer |RalphSonntag |XingLe |LockTeam
+||7|FaceBook |DaveSnowden |PredictionMarket |DresdenExists |HolgerHelas |MalcolmGladwell |FrankSchoenefeld |SystemsTheory |AmySmith |VanCouver |TheSingularity |WikiPedia |ScreenR |BirgitSpannerUlmer |InterNet |TippingPoint
+||8|PeterGloor |MarcoDziallas |FutureFactory |BeerGame |EchoLogic |SmarterCities |OpenCoffeeClubDresden|JimWomack|__LockSchuppen__ |JensBemme |LarsHinrichs |PresencingStatus |OpenSource |SiggiBecker |PeterEberle |ArthurCClarke
+||9|YadegarAsisi |MicroNation |LongBetOne |PostPrivacy |SteveJurvetson |AlexanderFriedland |RainerWasserfuhr |JohannesPartanen |ZuKunft |MitMediaLab |TelePresence |HomeExchange |HistVv |FrankSchaetzing |ZigaTurk |DanielPink
+||10|RepRap |SingularAcademy |DavidOrban |BastiHirsch |MitCoLab |EliezerYudkowsky |ArtificialIntelligence |RayInDresden |SlUb |AgileSaxony |StadtDresden |KlausLandfried |PaulHolmstrom |MarcLombardi |CamelCase |GeSund
+||11|TonZijlstra |GoogleWave |PeterThiel |StadtWiki |BertramDressel |OpenStreetMap |JaneMcGonigal |HenryMarkram |RobCross |ChristophAnders |RalfLippold |MySpace |WikiWallAd |OliverGassner |NooPolis |AldoCroci
+||12|SemanticMind |PeterVoss |TransparentMan |LauraBlack |MarkGraban |AlexanderGoetze |StartUpWeekEnd |SoerenRogoll |ReflectionGroup |SemanticWeb |PiHaus |MindWiki |TimBl |QrCode |ScottMonty |PieschenBank
+||13|OpenEducation |QiMonda |MichaelSchroeder |PeterKaminski |SaftTante |WikiWallAd |WilhelmZoergiebel |SecondLife |PeterTeichmann |JoergSiekmann |BillHarris |EnerNet |AndrewParker |GoogleBuzz |HeinzEggert |PeterStawowy
+||14|WpiEdu |PeterKruse |RaimarScherer |FourSquare |SystemDynamics |MuhammadYunus |CharlesVanDerHaegen |AmartyaSen |ClueTrain |PeterSenge |GunterDueck |PieschenMedia |KaiRopers |BerndNaumann |JayForrester |FrankHaring
+||15|AltMensaFb |TouchTable |HierarchyOfNeeds |OpenDvb |TeilhardDeChardin |SpuerschtWieIDenk |BusinessEnglishBachelor |RayKurzweil |SpaceLift |MobileCamp |UiRr |PeterClaussen |MariaBoeckmann |StefanoBertolo |IntEl |MatthiasHorx
+||16|NooSphere |NachHaltig |WolfgangWahlster |ItRs |YvonneSchubert |JensKrzywinski |JohannesLohmeyer |GoogleAi |DougLenat |JeanPolMartin |KayGroschen |SparQl |DirkRiehle |SmForFounders |AlfredHanner |SabineFriedel
+WikiWallHowTo

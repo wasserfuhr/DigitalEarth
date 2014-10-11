@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:John_Denver]
+* BornIn: 1943
+* BirthDay: 12-31
+* DiedIn: 1997 

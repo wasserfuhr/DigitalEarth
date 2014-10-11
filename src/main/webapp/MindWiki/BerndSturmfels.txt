@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Bernd_Sturmfels]
+* BirthDay: 03-28
+* DbLp: http://dblp.uni-trier.de/rec/pid/04/3430
+* HomePage: http://math.berkeley.edu/~bernd/
+* PageNumber: 9
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge JoergMueller JuergenMueller KlausLux BerndSturmfels

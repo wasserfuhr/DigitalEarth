@@ -1,0 +1,33 @@
+UnsereProjekte:
+||Status||Phase||AgWiki        ||svn     ||Abweichende Domain
+|LIVE|Prototyp|UnserGrid      |grid     |
+|LIVE|Prototyp|IntraBroker    |mindpaths|intrabroker.com
+|LIVE|Prototyp|GeoMindBroker  |geo      |
+|LIVE|Alpha   |DoIt           |doit     |
+|LIVE|Prototyp|MindBrokerId   |id       |
+|LIVE|Prototyp|MindFloor      |floor    |
+|    |Prototyp|MindBrokerCore |core     |
+|    |Prototyp|MindHome       |home     |
+|    |Prototyp|SportPortal    |spot     |sport.mindbroker.de
+|    |Prototyp|SemanticMind   |semantic |
+|    |Prototyp|MindBrokerSalon|         |
+|    |WikiSpec|MindFutures    |futures  |
+|    |WikiSpec|MindBrokerShop |shop     |
+|    |VISION  |WyrdMind       |         |
+|    |FINISHED|WikiTchen      |         |wikitchen.de
+
+Projektphasen:
+* WikiSpec
+* Skelett
+* Prototyp
+* Alpha
+* ClosedBeta
+* PublicBeta
+* 1.0
+* 1.1
+* ...
+* 2.0
+* 2.1
+* ff
+
+Weitere Projekte bei der MindBrokerKg.

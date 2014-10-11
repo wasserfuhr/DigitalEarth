@@ -1,0 +1,10 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Reiner_Hartenstein] [LangReiter:Reiner+Hartenstein]
+* JahrGang: 1934
+* BirthDay: 12-18
+* DbLp:  http://dblp.uni-trier.de/rec/pid/h/RWHartenstein
+* HomePage: http://hartenstein.de/
+* MindSkill: TerraMind
+* HasTalked: KarlSteinbuch
+|[XingLe:Reiner_Hartenstein]
+|[FaceBook:611990274]

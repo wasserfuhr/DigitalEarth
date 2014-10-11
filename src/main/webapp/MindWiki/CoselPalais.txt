@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BoundingBox: 30
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/23058984
+* HomePage: http://www.restaurant-dresden.de/coselpalais
+
+Eine HomePage mit ReDirect ist doof.

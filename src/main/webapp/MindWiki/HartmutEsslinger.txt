@@ -1,0 +1,3 @@
+* IsA: PerSon
+* BirthDay: 06-05
+* InterWiki: [WikiPedia:Hartmut_Esslinger]

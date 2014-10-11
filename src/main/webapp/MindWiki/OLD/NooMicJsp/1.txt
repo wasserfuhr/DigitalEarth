@@ -1,0 +1,42 @@
+Behind http://noopolis.org/ there is simply:
+* a running HadoopHBase
+* A WebApp with
+* CloJure and HadoopHBase jars.
+
+and the following JSP:
+{{{
+<%@ page import="
+java.io.BufferedReader,
+java.io.InputStreamReader,
+java.io.PushbackReader,
+java.io.StringReader,
+java.io.StringWriter,
+java.net.URL,
+clojure.lang.Compiler,
+clojure.lang.LispReader,
+clojure.lang.RT
+"%><%
+  URL url = new URL("http://mindbroker.de/wiki/NooMic?skin=raw");
+  BufferedReader br= new BufferedReader(
+            new InputStreamReader( url.openConnection().getInputStream(),"UTF-8"));
+  //11 times:
+  br.readLine();    br.readLine();   br.readLine();
+  br.readLine();    br.readLine();   br.readLine();
+  br.readLine();    br.readLine();   br.readLine();
+  br.readLine();    br.readLine();
+  String line;
+  StringWriter sw=new StringWriter();
+  while ((line=br.readLine() ) != null ) {
+    line=line.replace("&quot;","\"");
+    line=line.replace("&lt;","<");
+    line=line.replace("&gt;",">");
+    sw.append(line);
+    sw.append('\r');
+  }
+  RT.var("clojure.core","request", request);
+  RT.var("clojure.core","response", response);
+%><%=Compiler.eval(LispReader.read(new PushbackReader(new StringReader(sw.toString())), true, null, false))
+%>
+}}}
+
+So when you edit NooMic, it will go live to http://noopolis.org/.

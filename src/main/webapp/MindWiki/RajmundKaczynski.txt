@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Rajmund_Kaczyński]
+* ChildOf: AleksanderKaczynski
+* BornIn: 1922
+* BirthDay: 09-01
+* DiedIn: 2005

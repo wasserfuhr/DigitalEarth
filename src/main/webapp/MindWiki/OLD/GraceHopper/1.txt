@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* InterWiki: [WikiPedia:Grace_Hopper], [WikiWikiWeb:GraceHopper]
+* JahrGang: 1906
+* BirthDay: 12-09
+* LebensEnde: 1992
+* MindSkill: UnsereBugs

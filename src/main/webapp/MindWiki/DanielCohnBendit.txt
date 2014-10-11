@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Daniel_Cohn-Bendit]
+* BornIn: 1945
+* BirthDay: 04-04

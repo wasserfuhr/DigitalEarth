@@ -1,0 +1,22 @@
+ Edit page    Add Comment    Page Info    My Prefs    Log in
+This page (revision-) last changed on <never> by unknown.
+ 
+mindbroker ag
+"OverTheCounter" werden WertPapiere gehandelt, die zum Börsenhandel nicht zugelassen sind.
+
+Durch sogenannte OnlineBroker haben hier auch private Anleger die Möglichkeit, direkt Geschäfte mit einem Emittenten durchzuführen. Der Anleger übermittelt hierbei via Internet eine Anfrage zum Preis des Wertpapieres. Der Emittent teilt anschließend den verbindlichen Kauf- und Verkaufspreis für die angegebene Menge mit. Der Anleger muss sich jetzt innerhalb von einigen Sekunden entscheiden, ob er dieses Geschäft zu diesen Bedingungen abschließen will oder nicht.
+
+Vorteile:
+
+    * Einsparen der Börsengebühren, die bei einem Handel über die Börse fällig werden würden
+    * Individuelle Modifikation des gehandelten Produkts
+    * Schnelligkeit durch den direkten Handel zwischen beiden Handelspartnern 
+
+Nachteile:
+
+    * Fehlende Kontrolle und Aufsicht
+    * Eventuell fehlende Referenzmärkte
+    * Keine Angabemöglichkeiten von Limit-Orders (inzwischen teilweise möglich)
+    * Keine Einsichtmöglichkeiten in ein Orderbuch, daher existiert nur eine geringere Markttransparenz 
+
+Es existieren mittlerweile organisierte Wertpapiermärkte, die sich selbst als "außerbörslich" bezeichnen. Zum Beispiel TradeGate.

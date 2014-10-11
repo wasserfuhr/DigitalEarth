@@ -1,0 +1,36 @@
+The WikiWall below also can be seen at LockOffice for visitors. The intention is to find, visualize and manage the HotTopics (be it PerSon's, EnterPrise's, technologies, ProJect's or ideas) ConNect'ed with the LockSchuppen.
+
+http://www.flickr.com/photos/ralflippold/4222770387/:
+
+[{Image src='http://farm3.static.flickr.com/2571/4222770387_8e5ae41a69.jpg'}]
+|| ||a||b||c||d||e||f||g||h||i||j||k||l||m||n||o||p||q||r||s
+||1| | | | | | | | |JohnSterman | | | | | | | | | | |
+||2| | | | | | | |JeffBoyer  | | | | | | | | | | | |
+||3| | | | | | |PaulFLevy  | | | | | | | | | | | | |
+||4| | | | | |EdgarSchein | | | | | | | | | | | |SpuerschtWieIDenk | |
+||5| | | | |WalterRiester | | | |ScottMonty  | | | | | |PerKristiansen | |SeaNation | |LisaPirwitz |
+||6| | | | | |DirkSpannaus | |AlfredHanner | |EricVonHippel | |ArturFriedrich | |MartinRoell |MarcusBuckingham |JamesParsons  | |FutureCard | |
+||7| | | | | | |UlrichDeppendorf | |DigitalTwin | |AntjeLippold | |PeterPlan  | |HolgerDemnitz | |FrankSchoenefeld | |MartinFiedler |
+||8| | | | | | | |RichardFlorida | |__WikiWallAd__ | |JanHinrichs  |GaryHamel |GottfriedWilhelmLeibniz | |SocialMedia | |WilhelmZoergiebel | |
+||9| | | | | | |DonGreer | |CarloRatti | |MichaelBean | |MartinAha  | |NiklasLuhmann | |PamelaPaquinHall |HolgerHelas |PieschenBank |
+||10| | | | | |RfId | |GunterDueck | |WorcesterPolytechnicInstitute | |MoonShots | |ArtKleiner |UlrichSoeder |RalphSonntag |XingLe |LockTeam |DanielPink |
+||11| | | | | | | |MalcolmGladwell |EdRugero | ||LockSchuppen |VanCouver |TheSingularity | |OttoScharmer | |InterNet |TippingPoint |PeterStawowy |
+||12| | | | | | | |SmarterCities |BeerGame |JimWomack | |JensBemme |LarsHinrichs |PresencingStatus | |SiggiBecker | |EquipMent |HeikoKrebs |
+||13| | | | | | | | |RachelReagan | |ZuKunft | |TelePresence |HomeExchange |OpenCoffeeClubDresden |OlegPavlow |PeterEberle | |JohannesPartanen |
+||14| | | | | | | |MarkGraban | |RayInDresden | |SystemDynamics | |BusinessEnglishBachelor |PaulHolmstrom |CamelCase | |AudioTagging | |
+||15| | | | | | |BertramDressel | |ThomasGerhardt | |RobCross | |RalfLippold | |TwitterKurs | |NooPolis |AldoCroci | |
+||16| | | | | |LauraBlack | |AlexanderGoetze | |RainerWasserfuhr | |SemanticWeb | |MindWiki | |CharlesVanDerHaegen | | | |
+||17| | | | | | | | | | |PeterTeichmann | | | |AndrewParker | |HeinzEggert | | |
+||18| | | | | | | | | | | |PeterSenge | |PieschenMedia | | | | | |
+||19| | | | | | | | | | | | |ChristophAnders | |MariaBoeckmann | |WikiWall | | |
+||20| | | | | | | | | | | | | |PeterClaussen | |SupPorter | | | |
+||21| | | | | | | | | | | | | | |KaiRopers | |JayForrester | | |
+
+This WikiTable is generated via a GoogleDoc.
+
+!Process for updating data:
+* Go to [the GoogleDoc|http://spreadsheets.google.com/pub?key=tJsnUrFH9ZjsYZ9nhgzu96g]
+* change data in the matrix
+* copy first column
+* go back to WikiWall
+* and paste the copied data over present data

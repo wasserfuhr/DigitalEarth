@@ -1,0 +1,45 @@
+An API for programming WebApp's for our SocialGrid:
+
+* The content of a MindWiki-Page:
+{{{http://id.mindbroker.de/api/wiki/*PageName*
+}}}
+
+* The PageIndex:
+{{{http://id.mindbroker.de/api/wiki/?pageIndex
+}}}
+
+* The number of pages of the PageIndex:
+{{{http://id.mindbroker.de/api/wiki/?pageCount
+}}}
+
+* The CamelCase-atoms of the PageIndex:
+{{{http://id.mindbroker.de/api/wiki/?atomIndex
+}}}
+
+* A random page from the PageIndex:
+{{{http://id.mindbroker.de/api/wiki/?randomPage
+}}}
+
+!Java-Example:
+{{{
+import de.mindbroker.core.Wiki;
+...
+String user="RainerWasserfuhr";
+Hashtable<String,String> props = Wiki.getPropsHash(user);
+String key=props.get("MindTrust");
+if (key!=null) {
+  StringTokenizer st=new StringTokenizer(key,",");
+  while ( st.hasMoreTokens() ) {
+    String wikiName=st.nextToken().trim();
+    System.out.println(user+" trusts "+wikiName);
+  }
+}
+}}}
+
+[Full working example|http://websvn.mindbroker.de/showfile.svn?path=%2fde.mindbroker.id%2ftrunk%2fsrc%2fmain%2fwebapp%2foaf.jsp&revision=HEAD&name=opensource].
+
+!Other languages planned:
+* MindPhp: via http://quercus.caucho.com/.
+* MindRuby: via JRuby.
+
+If you plan to build applications with the MindApi, please JoinNow, so we can coordinate the RoadMap for future extensions and changes.

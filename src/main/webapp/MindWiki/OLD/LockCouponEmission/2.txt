@@ -1,0 +1,17 @@
+||ShareHolder     ||[1]||CarryOver
+||Monthly Emission|100|
+|RalfLippold      |67| 1.000
+|RainerWasserfuhr |27| 9.800
+|MarkusStamm      | 2| 1.000
+|ChristianHeller  | 0| 7.000
+|PeterHerbst      | 0| 6.000
+|ChristineSchlinck| 0| 5.200
+|SimonKoeppl      | 0| 3.000
+|CorneliaHeinz    | 0| 2.000
+|RicoLieberwirth  | 0| 2.000
+|JanKreuter       | 0| 1.000
+|JoelKaczmarek    | 0| 1.000
+|NorbertRost      | 0| 1.000
+* [#1] Number of monthly emitted LockCoupon's.
+
+(WikiTable based on LockSchuppenAg-SharHolder)

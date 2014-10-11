@@ -1,0 +1,7 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/05/905
+* PageNumber: 8
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker StefanDecker UweAssmann SteffenZschaler SimoneRoettger
+|[XingLe:SimoneRoettger]
+
+TuDresden

@@ -1,0 +1,5 @@
+* MindTags: MindThing
+* BoundingBox: 2
+* SlimNess: 0.1
+
+might have an embedded GPS sender.

@@ -1,0 +1,43 @@
+Idee: Ein Wiki für die BauInformatik.
+
+Inhalte:
+* ArTelligence
+* BauInformatik 
+* BauPortal
+* BamAg
+* BamMatrix
+* GruenesWunder
+* MindHome
+* MindTower
+* MindTowerZwo
+* MondBeben
+* SecondWirkZentrum
+* SemanticCity
+* ToCee
+* UnserGrid
+
+BrainStorm: MitWirkende:
+* RaimarScherer
+* EduardOtt
+* LeonhardObermeyer
+* JanaDiesner
+* ZigaTurk
+* MattiHannus
+* RobertAmor
+* IlJa
+* PeterKatranuschkov
+* KaEi
+* KarstenMenzel
+* BaHa
+* UlWa
+* AlexanderGehre
+* SvSc
+* JaRe
+* PeKl
+* WoRe
+* MaGr
+* RuJu
+* HeTe
+* ByPr
+
+später als MindMe unter http://cib.mindbroker.de ?

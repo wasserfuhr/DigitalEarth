@@ -1,0 +1,49 @@
+for WikiDrivenDevelopment
+
+{{{<%@ page import="
+java.sql.Connection,
+java.sql.Driver,
+java.sql.ResultSet,
+java.sql.Statement,
+java.sql.PreparedStatement,
+java.util.Properties,
+clojure.lang.Compiler,
+clojure.lang.LispReader,
+clojure.lang.RT,
+clojure.lang.Var
+"%><%
+ String q=request.getParameter("queryVal");
+
+ Properties props = new Properties();
+ props.put("user","");
+ props.put("password","");
+ String url = "jdbc:jiql://local";
+
+ Class clazz = Class.forName("org.jiql.jdbc.Driver");
+ Driver driver = (Driver) clazz.newInstance();
+ Connection conn = driver.connect(url,props);
+ Statement stmt=conn.createStatement();
+
+ PreparedStatement pstmt=conn.prepareStatement("insert into BootStrap (?,?)");
+ ResultSet rs=stmt.executeQuery("select * from BootStrap order by id desc");
+ rs.next();
+ int nextId=rs.getInt(1)+1;
+ if( "add".equals( request.getParameter("add"))) {
+   pstmt.setInt(1,nextId);
+   pstmt.setString(2,q);
+   pstmt.execute();
+ }
+%><html>
+ <head>
+ <title></title>
+ </head>
+ <body>
+ <h1>WikIde</h1>
+ nextId: <%=nextId%>
+ <form method="post">
+  <textarea name="queryVal" cols="80" rows="40"><%= q==null?"":q %></textarea>
+  <input type="submit" name="add" value="add">
+ </form>
+ </body>
+</html>
+}}}

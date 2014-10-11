@@ -1,0 +1,3 @@
+* IsA: MindThing
+* NamedAfter: GustavMahler
+* OwnedBy: RainerWasserfuhr

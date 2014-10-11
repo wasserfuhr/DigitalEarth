@@ -1,0 +1,3 @@
+* IsA: EventSeries
+* HomePage: http://www.sylter-runde.de/
+* MindOne: NorbertSzyperski

@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Ernst_Risch]
+* BirthDay: 10-09

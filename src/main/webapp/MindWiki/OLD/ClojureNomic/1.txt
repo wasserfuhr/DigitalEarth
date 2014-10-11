@@ -1,0 +1,26 @@
+ClojureNomic is a CodeNomic
+played on top of the functional
+ProgrammingLanguage CloJure,
+installed as a network of WebApp's hosted on
+the AppEngine PlatForm from GoogleInc.
+
+It is InspiredBy PerlNomic, but additionally
+allows to create very a dynamic and scalable
+game inventory because of the underlying BigTable 
+InfraStructure from GoogleInc.
+
+To JoinNow you only need a GoogleAccount:
+(Soon we may also support FbConnect - 
+just JoinNow and implement it for
+which is the game currency of ClojureNomic)
+
+Currently the following AppEngine WebApp's
+are based on ClojureNomic.
+
+To partcipate in ClojureNomic, just
+
+For coordinating the ClojureNomic developers
+we use a simple "DogFood" application that
+is based on the entity "ChatMessage" that is sorted in reverse
+chronological order by property "date" and shown on
+the HomePage.

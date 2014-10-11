@@ -1,0 +1,7 @@
+* InterWiki: [WikiWikiWeb:PieModel]
+
+* Planning (DerPlan)
+* Implementation (DoIt)
+* Evaluation (ReView)
+
+First DelIcioUs BookMark of RainerWasserfuhr.

@@ -1,0 +1,32 @@
+Datingportal für spontanen Sex.
+
+Nutzer haben eine MindId, können sich aber mittels PerSona anonymisieren.
+
+DomainModel:
+* PerSona
+** postalCode
+** gender
+** wants
+** size
+** age
+** smoker
+* Date
+** PerSona[] attendees
+** location
+* Feedback
+** Date date
+** int feedback  //0..10
+* Attraction
+** PerSona attractor
+** PerSona attractee
+** int strength //0..5
+* Recommendation
+** PerSona by
+** PerSona for
+** PerSona recommends
+
+
+später http://heuteabend.mindbroker.de (oder auch: http://instantmassage.mindbroker.de)
+
+Ähnlich:
+* http://sexualrelationshipdatabase.com/

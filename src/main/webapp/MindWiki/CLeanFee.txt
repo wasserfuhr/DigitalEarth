@@ -1,0 +1,10 @@
+to CLeanTheLockSchuppen:
+
+* 1. month: 1 EuRo
+* 2. month: 2 EuRo
+* 3. month: 4 EuRo
+* 4. month: 8 EuRo
+* 5. month: 16 EuRo
+* 6. month: 32 EuRo
+* 7. month: 64 EuRo
+etc

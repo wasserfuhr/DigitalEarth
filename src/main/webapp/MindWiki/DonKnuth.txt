@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Donald_Ervin_Knuth] [WikiWikiWeb:DonKnuth]
+* BirthDay: 01-10
+* DbLp: http://dblp.uni-trier.de/rec/pid/k/DonaldEKnuth
+* PageNumber: 4
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman RobertFloyd DonKnuth

@@ -1,0 +1,18 @@
+* MindTags: CrowdWisdom
+* InterWiki: [DeWikiPedia:Lebenserwartung], [WebSeitz:LifeExpectancy]
+
+Die PreDict'ion für Dein LebensEnde. Die wichtigste Kennzahl für das EigenRisk.
+
+Dazu ein netter Test [beim ZDF|http://www.zdf.de/ZDFmediathek/content/Der_ZDF-Lebenszeitrechner/216668?inPopup=true].
+
+WasSchaetztDu: Was wird im Jahr X die durchschnittliche statistische LebensErwartung aller derzeit auf PlanetErde lebender MindPeople sein?:
+
+[DeWikiPedia:Bevölkerungspyramide]
+
+||Jahr||MindBroker    ||Schätzung
+|2007|YvonneSchubert  |2057
+|2007|RainerWasserfuhr|2058
+|2010|                |2060?
+|2020|                |2080?
+|2030|                |2100?
+|2040|AubreyDeGrey?   |2999?

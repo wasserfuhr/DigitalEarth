@@ -1,0 +1,10 @@
+* MindTags: MindEvent
+
+Ein ganz besonders exclusives Brunch-MindEvent in der VillaMarie: Eingeladen sind nur BuergerInnen,
+die vor oder während des Events unter ihren MindProps WahrHeit'sgemäß
+{{{
+ * HasKissed: RainerWasserfuhr
+}}}
+angegeben haben.
+
+DressCode: schwarz oder weiss... RainerWasserfuhr wird auf Schachfigurentauglichkeit prüfen!

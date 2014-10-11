@@ -1,0 +1,9 @@
+* IsA: MindArticle
+* DcTitle: The InteliGrid platform for virtual organisations interoperability
+* DcAuthor: MatevzDolenc PeterKatranuschkov AlexanderGehre KrzysztofKurowski ZigaTurk
+
+ITcon Vol. 12, pg. 459-477, 2007.
+
+Online available at: http://www.itcon.org/2007/30
+
+InteliGrid

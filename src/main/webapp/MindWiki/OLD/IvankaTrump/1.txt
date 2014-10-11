@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Ivanka_Trump]
+* ChildOf: IvanaTrump DonaldTrump
+* BirthDay: 10-30
+|[TwittEr:Ivanka_Trump]

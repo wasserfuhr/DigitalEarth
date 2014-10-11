@@ -1,0 +1,14 @@
+Definition von "AlphaTester": Alle MitWirkende und Leute denen man vertrauen kann, dass sie ggf. Vertraulichkeit über das Projekt bewahren.
+
+Vorschläge:
+||p||Vorname||Nachname||m/f||Name @(*)||Einladungsmaildomain(*)||Einlader||Xing
+|p|Alexander|Gola      |m|alex|alexander-gola.com               |rainer|https://www.xing.com/profile/Alexander_Gola/|
+|p|Lisanne  |Malessa   |f| |                                    |daniel|
+|?|Matthias |Kehrer    |m|matthias.kehrer|de.ibm.com|daniel|https://www.xing.com/profile/Matthias_Kehrer/ 
+|?|Oliver   |Schmitt   |m|oliver|schmitt-happens.de|daniel|https://www.xing.com/profile/Oliver_Schmitt13
+|?|Uwe      |Angerstein|m| |                                    |rainer|https://www.xing.com/profile/Uwe_Angerstein/
+(*): Diese beiden Spalten sind getrennt, damit Spambots hier keine Adressen sammeln.
+
+
+1. Spalte:
+p= Nutzer ist damit einverstanden, dass seine Daten in dieser Form hier veröffentlich werden können (dh sobald SpotWiki mal völlig public sein sollte)

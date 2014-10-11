@@ -1,0 +1,2 @@
+* IsA: EventSeries
+* NamedAfter: ChristopherStreet

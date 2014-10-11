@@ -1,0 +1,9 @@
+MindTrust ist die VertrauensWaehrung in NooPolis. BuergerInnen können anderen Bürgern, denen sie vertrauen, MindTrust aussprechen und so als Trustee auftreten.
+
+Aus den Verbindungen dieser Vertrauensbezeugungen entsteht ein WebOfTrust.
+
+* BuergerInnen können sich wechselseitig VerTrauen bestätigen
+* die Wahrnehmung SicherHeit'skritischer FreiHeit'en der Administration des SocialGrid erfordert eine Mindestanzahl an Trustees.
+* SocialPassword
+
+TrustedBy

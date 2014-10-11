@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+
+TotalRecall: Themen eines Gespräches, das an diesem Ort geführt wurde:
+MethuselahFoundaton, PeterThiel, KurzWeil, OpenStreetMap,
+TwittEr, FriendFeed, SemanticWeb, TwiNe, NooPolis, LebensErwartung, 
+LongBetOne, BioMind, NewMind, GoogleMind, NanoBot, UpLoad, FaceBook,
+SeaSteading, XingLe, FriendsForSale, DresdenDrohne, VorratsDaten, BlogLines.

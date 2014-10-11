@@ -1,0 +1,24 @@
+* MindTags: RdfClass
+* InterWiki: [OpenCyc:Person]
+* RdfClass: http://xmlns.com/foaf/0.1/#Person
+
+Interesting PerSon's on PlanetEarth,
+with or without LebensEnde, with their RealName as PageName of a WikiPage in the MindWiki.
+The CitiZens of NooPolis want to ConNect these BeautifulMind's.
+
+Additional interesting PerSon's (sorted by VorName):
+* AlvarFreude
+* BjoernOgnibeni
+* CarlGustavJung
+* DanielGoleman
+* DirkOlbertz
+* ErikBenson
+* EkkehardBoesche
+* FernandoPessoa
+* JohannesKleske
+* MartinRecke
+* NicoleSimon
+* OriBrafman
+* VincentJaehrig
+
+DoIt: Create a WebApp for showing and searching MindPeople, later http://people.mindbroker.de

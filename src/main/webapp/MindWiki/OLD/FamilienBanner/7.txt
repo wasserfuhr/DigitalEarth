@@ -1,0 +1,16 @@
+||FamilienfreundBanner    ||WerbeOrt        ||Größe      ||Homepage      ||Dauer     ||verfügbar ||kaufen
+|SkyScraper     |StartSeite       | 120 x 600  |familienFreunde| 1 Monat   | 1         |MindShop
+|HalfBanner     |StartSeite       | 234 x 60   |familienKatalog| 1 Monat   | 5         |MindShop
+|HalfBanner     |Liste Angebote   | 234 x 60   |familienKatalog| 1 Monat   | 5         |MindShop
+|HalfBanner     |Detailseite      | 234 x 60   |familienKatalog| 1 Monat   | 5         |MindShop
+
+
+\\
+KateGorien auf den DetailSeiten FamilienKatalog:
+0 =Kita, 99=Kindertagespflege, 02=Grundschule, 03=Mittelschule, 04=Gymnasien,
+05=Förderschule 06=Berufsschule, 07=Sozialstation, 08=Pflegeheim, 09=Betreutes Wohnen,
+10=Begegnungsstätten, 11=Obdachlosenheim, 12=Pflegedienst, 13=Freizeiteinrichtung, 14=Beratungsstelle,
+15=Kinderheim, 16=Hebammen 17=Recht 18=Therapeuten 20=Ärzte\\
+\\
+
+

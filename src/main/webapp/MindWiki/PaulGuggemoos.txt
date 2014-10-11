@@ -1,0 +1,6 @@
+* IsA: PerSon
+* HomePage: http://www.tudebs.de/
+* HasTalked: RainerWasserfuhr YvonneSchubert
+|[XingLe:PaulGeorg_Guggemoos]
+
+DresdenExists

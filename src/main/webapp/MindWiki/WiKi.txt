@@ -1,0 +1,2 @@
+* KindOf: WebSite
+* InterWiki: [DeWikiPedia:Wiki], [WebSeitz:WiKi]

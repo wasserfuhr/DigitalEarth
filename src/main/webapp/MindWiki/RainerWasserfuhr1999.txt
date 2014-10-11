@@ -1,0 +1,11 @@
+* IsA: PerSona
+* WohnSitz: KamenzerStrasse
+|[TwittEr:rainer1999]
+
+UnternehmensGruender. UnsereGeschichte
+
+CompaqArmada, 233 MHz, 96 MB RAM, 4 GB HardDisk, Windows98, IsDn. 
+
+Java, Servlets, PostGres, VisualAge
+
+GerhardSchroeder. DeMark. GolfIv

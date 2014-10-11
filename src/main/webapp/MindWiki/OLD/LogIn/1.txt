@@ -1,0 +1,5 @@
+Für das MindWiki und unsere WebApp's brauchst Du ein LogIn. Es besteht aus:
+* Deinem CamelCase-Namen (zB RainerWasserfuhr) und
+* einem Passwort.
+
+WerdeMindBroker und Du erhältst ein LogIn.

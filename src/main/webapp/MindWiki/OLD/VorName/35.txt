@@ -1,0 +1,221 @@
+* RdfProperty: http://xmlns.com/foaf/0.1/firstName
+* InspiredBy: http://twitter.com/rainer/statuses/517913822
+
+The first names of the XingLe contacts of RainerWasserfuhr:
+* Aharon: 1
+* Aldis
+* Alexander: 11
+* Alexandra
+* Andreu
+* AnJa: 4
+* Andreas: 21
+* Anett
+* Antje
+* Arne
+* Astrid
+* Aurelia
+* Aurelien
+* Barbara
+* Basti
+* Beat: 1
+* Beate: 2
+* Bernd: 9
+* Berta: 0
+* Betina
+* Bettina: 0
+* Birgit
+* Björn
+* Bjoern
+* Bob
+* Börtecin
+* Brendon
+* Carsten
+* Cem: 1
+* Christian: 20
+* Christiane: 0
+* Christine: 2
+* Christoph
+* Cihan
+* Clara
+* Claudia
+* Clemens
+* Corinna
+* Cornelia
+* Damir
+* Daniel: 11
+* Daniela
+* Diane
+* Dieter
+* Dietmar
+* Dominik
+* Doreen
+* Dorothée
+* Eberhard
+* Ebru
+* Eduardo
+* Eva: 1
+* Fabio
+* Felix: 3
+* Flavia
+* Florian
+* Florentin: 0
+* Frank: 12
+* Franziska
+* Gabi
+* Gabriele
+* Gabrielle
+* Garvin
+* Georg
+* Gert
+* Gertrud
+* Gitta
+* Götz
+* Guido
+* Gundula: 1
+* Gunter: 3
+* Hannes
+* Hans
+* Harald
+* Harry
+* Heike: 2
+* Heiko
+* Helmut
+* Hendrik
+* Holger
+* Hubert
+* Ian
+* Ingo
+* Ingrida: 1
+* Isabel
+* Jan: 6
+* Jana
+* Janette
+* Jannis: 0
+* Jason
+* Jennifer
+* Jens: 11
+* Joachim
+* Jochen
+* Johann
+* Johannes
+* Jöran
+* Jörg: 9
+* Jörn
+* Josef
+* Judith: 1
+* Julius
+* Jürgen
+* Kai
+* Karin
+* Karina
+* Karl: 3
+* Karol
+* Kelly
+* Kerstin
+* Kirstin
+* Lars: 5
+* Louis
+* Luca
+* Lydia
+* Magdalena
+* Maik
+* Maja
+* Manuel: 1
+* Manuela
+* Marc: 4
+* Marcel
+* Marcus
+* Mario
+* Marion
+* Mark: 1
+* Marko
+* Markus: 5
+* Martin: 13
+* Matthias: 9
+* Max: 3
+* Maximilian
+* Michael: 17
+* Michaela: 2
+* Milena
+* Mirco
+* Mirijana
+* Mirko
+* Musse
+* Nadin: 1
+* Nadine: 1
+* Nadjeschda: 1
+* Nico
+* Nicole
+* Nicole: 3
+* Nils
+* Ning
+* Octavian
+* Oliver: 10
+* Otto
+* Patrick
+* Paul
+* Paula: 0
+* Peter: 5
+* Petra
+* Philipp
+* Raik
+* RaiNer: 6
+* Reiner
+* Reinhard
+* Rafael
+* Ralf: 5
+* Ralph: 1
+* Raphael: 1
+* Ray: 0
+* Reiner: 2
+* Ricarda
+* Riccardo
+* Robert: 3
+* Roland
+* Rolf: 3
+* Ron
+* Rosemarie
+* Roswitha
+* Rüdiger
+* Sascha
+* Sami
+* Samuel
+* Sandra
+* Sara
+* Siegfried
+* Siggi
+* Silke: 2
+* Silvan
+* Simon
+* Stefan: 13
+* Steffen
+* Steffi
+* Stephan: 5
+* Susan
+* Susanne
+* Sven: 8
+* Tecumseh
+* Teje: 0
+* Theresa
+* Thiemo: 1
+* Thilo
+* Thomas: 21
+* Till
+* Tim: 2
+* Timo
+* Tino: 2
+* Tobias
+* Tom 
+* Ulrich: 4
+* Ulrike
+* Uta
+* Ute: 2
+* Uwe: 4
+* Uz
+* Verena
+* Volker: 6
+* Wanja
+* Wenke
+* Wolfgang: 6
+* Yanet
+* Yolna: 1

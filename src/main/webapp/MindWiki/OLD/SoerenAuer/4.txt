@@ -1,0 +1,8 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/05/6406
+* HomePage: http://www.informatik.uni-leipzig.de/~auer/
+* CurrentProjects: DbPedia
+* MindSkill: SemanticWeb
+* PageNumber: 7
+* PagePath: LarryPage SergeyBrin MonikaHenzinger DavidEppstein JoanFeigenbaum TimBl ChristianBizer SoerenAuer
+|[XingLe:Soeren_Auer]

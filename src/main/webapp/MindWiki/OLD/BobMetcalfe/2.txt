@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* InterWiki: [WikiPedia:Robert_Metcalfe]
+* BirthDay: 04-07
+[TwittEr:BobMetcalfe]

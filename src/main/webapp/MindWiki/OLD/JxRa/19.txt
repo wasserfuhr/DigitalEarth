@@ -1,0 +1,30 @@
+* IsA: PerSona
+* MindTags: RandomlyGeneratedPageName 
+* IntelLigence: 138
+* KasimirNummer: 0
+* LifeExpectancy: 2042
+* KnowLedge: 10566
+* GeSund: 0.90
+* InVentory: MoleskineOne NepTun MindPhone MindErsatzPhone BikeOne ToothBrushOne BlauCouch GarageOne 
+* TestosteroneLevel: 80
+* MindPlace: StadtDresden
+* BlutDruck: 130/82
+* FullNess: 0.8
+* ThirstiNess: 0.7
+* HappiNess: 0.8
+* ConCentration: 1.1
+* MentalModel: PerSon MindPlace MindThing Word BuchStabe MindNumber URL sentence sound PhoneNumber JavaClass EnterPrise currency country city water eye glasses brake key lock finger hand leg ear heat story book
+
+FmEsfandiary RuSirius PatternRecognition
+
+Die Menge aller VerSteh'baren BeDeut'ungen ist EndLich oder InFinite.
+
+* 20100209:1955 28*50 + 4*20 + 2*10 + 2*5 + 2*2 + 2*1 + 1*0.5 + 8*0.2 + 3*0.1+ 3*0.05 + 10*0.02 + 5*0.01 Frida
+* 20100208:2240 28*50 + 4*20 + 3*10 + 3*5 + 2*2 + 2*1 + 1*0.5 + 8*0.2 + 5*0.1+ 3*0.05 + 14*0.02 + 6*0.01 SkyDresden
+* 20100207:2355 28*50 + 4*20 + 4*10 + 4*5 + 1*2 + 1*1 + 1*0.5 + 8*0.2 + 5*0.1+ 3*0.05 + 14*0.02 + 6*0.01 SnackEck
+* 20100207:0230 28*50 + 4*20 + 5*10 + 4*5 + 0*2 + 0*1 + 0*0.5 + 8*0.2 + 4*0.1+ 3*0.05 + 14*0.02 + 6*0.01
+* 20100205:0729 28*50 + 4*20 + 5*10 + 4*5 + 0*2 + 4*1 + 2*0.5 + 8*0.2 + 4*0.1+ 3*0.05 + 14*0.02 + 6*0.01
+* 20100205:0333 28*50 + 4*20 + 5*10 + 4*5 + 2*2 + 4*1 + 4*0.5 + 8*0.2 + 4*0.1+ 3*0.05 + 14*0.02 + 6*0.01
+* 20091218:1504  0*50 + 0*20 + 0*10 + 0*5 + 1*2 + 4*1 + 4*0.5 + 6*0.2 + 6*0.1+ 1*0.05 +  2*0.02 + 9*0.01
+
+

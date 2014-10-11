@@ -1,0 +1,3 @@
+* IsA: KugelHaus
+* NearBy: WienerPlatz DresdenHbf
+* NamedAfter: GlasKugel

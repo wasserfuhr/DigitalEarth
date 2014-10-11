@@ -1,0 +1,10 @@
+lat. sectio aurea 
+
+Der Goldene Schnitt beschreibt ein bestimmtes Verhältnis zweier Zahlen oder Größen. 
+Es beträgt etwa 1,618 : 1.
+
+Das Verhältnis zweier aufeinanderfolgender Zahlen der FibonacciFolge strebt gegen den Goldenen Schnitt.
+
+Der Goldene Schnitt wird zusammen mit der ElliottWellenTheorie und der FibonacciFolge von Finanzanalysten herangezogen, um Kursziele zu ermitteln. Die FAZ beschreibt das so:
+
+Ausgehend vom Hoch und Tief einer abgeschlossenen Welle, multipliziert man den Abstand mit einer Fibonacci-Relation. Das gibt das prognostizierte Ausmaß einer folgenden Welle.

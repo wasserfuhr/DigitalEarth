@@ -1,0 +1,11 @@
+* MindTags: MindPlace
+* MindCount: 2.14
+* BreitenGrad: 51.04786
+* LaengenGrad: 13.80860
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/29343854 ToDo: OpenHomeMap
+* PartOf: BerggartenStrasse
+
+MeMo:
+* 20091002 ChristineSchlinck JfSchlinck RainerWasserfuhr MarLo DrMabe HeGa YvSc SmartFee: SaLoppe KasimirNummer
+* 20090122:1900: ChristineSchlinck, RainerWasserfuhr: DanielCraig, KindchenSchema
+* 20080928: ChristineSchlinck, RainerWasserfuhr: HerbstUndWeinfest, LoewenJagd, WerKenntHeidi, TheMatrix, ZingeRasimo, BioMind, SimulationArgument, FutureMap, DoIt, GeniusAtWork, DirkHilbert, WolkeNeun, MgmGrand, SeaBlue, FaceBase

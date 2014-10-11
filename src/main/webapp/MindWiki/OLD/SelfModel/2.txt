@@ -1,0 +1,6 @@
+better word for DigitalTwin?
+
+Assumptions:
+* the SelfModel represents that it has a RealLife correspondence ("TrueSelf")
+* The TrueSelf knows that it has a digital SelfModel
+* both are ConNect'ed via an EgoTunnel.

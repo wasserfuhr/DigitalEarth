@@ -1,0 +1,10 @@
+SingularSaxAg is specialized in writing SystemDynamics based BusinessModel's for BusinessPlan-WettBewerb's in the FreistaatSachsen DeutschLand and EurOpa.
+
+ShareHolder of SingularSaxAg 
+
+||Shares||ShareHolder
+|960|RainerWasserfuhr
+|10 |MarcoDziallas
+|10 |AlexanderFriedland
+|10 |SoerenRogoll
+|10 |RalfLippold

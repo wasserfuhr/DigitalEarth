@@ -1,0 +1,4 @@
+* WohnSitz: StadtDresden
+* InvitedBy: RainerWasserfuhr
+||AusLand
+|[XingLe:TorstenA_Bibas]

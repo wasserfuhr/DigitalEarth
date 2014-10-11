@@ -1,0 +1,11 @@
+* MindTags: MindPlace
+* HomePage: http://www.tzdresden.de/
+* BreitenGrad: 51.0128
+* LaengenGrad: 13.7537
+* BoundingBox: 150
+* MindOne: BertramDressel
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.013301&lon=13.754255&zoom=18&layers=B000FTTT ToDo
+* MindCount: 50
+
+MeMo:
+* 20090303:1800-2100: RainerWasserfuhr, JuergenKohn, KatharinaKuehnel, HelmutRubein, BertramDressel, EdgarKunath EtAl: WorldCrash, QiMonda, BusinessKasper, FriedrichHoertkorn, F. Boeger, TransParent, VerTrag, HoAi, SoftWare, LastenHeft, UnLimited, AusLand, UnitedStates, HaftPflicht, BusinessRebell, ManfredVonArdenne, NobelPreis, RePutatio, DueDiligence, BdCs, BarackObama, DieterSchischke, FutureSax, TraumZeitAlter, LebensErwartung, DistanzSpiel

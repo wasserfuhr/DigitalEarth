@@ -1,0 +1,14 @@
+* IsA: CoWorkingSpace
+* PartOf: OrpheumDresden
+* OperatedBy: CoOrpheumUnlimited
+|[TwittEr:CoOrpheum]
+|[FaceBookGroup:113320995364446]
+
+PiratePad: http://piratepad.net/CoOrpheum
+
+SpeedTest: Ergebnisse von http://www.speedmeter.de
+(Kopiert am 12.05.10 11:26)
+Download aus Deutschland : 1400 Kbit/Sek
+Upload : 396 kbit/Sek
+Verbindung : 904 Verb/Min
+Ping Test Deutschland : 98 ms

@@ -1,0 +1,45 @@
+GettingThingsDone: Our ToDo-list: Most important things first:
+||OrderedByShares||h||ProJect       ||done(%)||do         ||it
+|RainerWasserfuhr|30|MindFloor           | 40|code        |share-trading
+|RainerWasserfuhr| 5|MindId              |  0|code        |MindApi
+|RainerWasserfuhr| 1|MindId              |  0|fixe        |Session-Timeouts
+|RainerWasserfuhr| 5|MindId              |  0|code        |SocialPassword
+|RainerWasserfuhr| 3|MindId              | 50|code        |MindTrust
+|RainerWasserfuhr| 5|MindVote            |  0|code        |Alpha
+|RainerWasserfuhr| 3|NooPolis            | 80|code        |SynOpsis for ConStitution-WeltSprache
+|RainerWasserfuhr|25|MindId              |  0|code        |WortSchatz
+|RainerWasserfuhr| 2|MindBlog            |  0|code        |Formatierungsproblem Texte in DB
+|RainerWasserfuhr| 2|InBox               |  0|code        |Formatierungsproblem Texte in DB
+|RainerWasserfuhr| 4|MindId              | 50|code        |MindMap
+|RainerWasserfuhr| 1|GeoMindBroker       |  0|fixe        |DB-Inhalt
+|RainerWasserfuhr| 3|InBox               |  0|code        |API
+|RainerWasserfuhr| 3|InBox               |  0|code        |InBox-Matrix
+|RainerWasserfuhr| 3|MindChat            |  0|code        |Alpha
+|RainerWasserfuhr| 3|PieschenBank        | 60|code        |Currency-Auctions
+|RainerWasserfuhr| 1|MindId              |  0|code        |automatic Backup
+|RainerWasserfuhr| 4|SocialGrid          |  0|code        |automatic Backup
+|RainerWasserfuhr| 1|PieschenBank        |  0|code        |automatic Backup
+|RainerWasserfuhr| 1|MindFee             |  0|code        |automatic Build
+|RainerWasserfuhr| 1|MindBrokerKg        |  0|kündige     |BSB
+|RainerWasserfuhr| 1|MindBrokerKg        |  0|vorbereite  |Providerwechsel von Strato zu inwx.de
+|RainerWasserfuhr| 1|PieschenBank        |  0|code        |Legende zu Farben bei Auktionen
+|RainerWasserfuhr| 2|SocialGrid          | 50|code        |MicroFormat-Status
+|RainerWasserfuhr|  |MindBlog            |   |vergrößere  |Eingabetext
+|RainerWasserfuhr|  |MindBlog            |   |ermögliche  |Korrekturen in Blogtexten
+|RainerWasserfuhr|  |                    |  0|verwende    |neue KontoNummer bei der norisbank
+|RainerWasserfuhr|  |                    |  0|verwende    |neue SteuerNummer der KG
+|RainerWasserfuhr|  |UmZug               |  0|kündige     |Telekom PF 20 00 in 53105 Bonn 
+|RainerWasserfuhr|  |UmZug               |  0|erneuere    |Telekom Login Rechnung Online 
+|RainerWasserfuhr|  |Domains             |  0|umziehe     |alle Domains auf inwx
+|RainerWasserfuhr|  |Steuer              |  0|speichere   |alle Onlinerechnungen Telekom Büro
+|RainerWasserfuhr|  |UmZug               |  0|gebe        |Adressänderung an BfA
+|-               | -|-                   |  -|-           |
+|HeikeRibke      | 1|DueckWiki           | 10|schreibe    |DueckWiki Tabelle
+|-               | -|-                   |  -|-           |
+|BastiHirsch     | 2|BildungsBurg        |  -|interview   |MichaelRichter über LongBetOne
+|BastiHirsch     | 2|BildungsBurg        |  -|interview   |PascalHorst
+|BastiHirsch     | 2|BildungsBurg        |  -|interview   |TomVarsavsky
+|BastiHirsch     | 2|BildungsBurg        |  -|interview   |StefanInDresden
+|BastiHirsch     | 2|BildungsBurg        |  -|interview   |AndreasStuhlmueller
+
+Later this WikiTable will be automated as a WebApp: DoItProject.

@@ -1,0 +1,4 @@
+* InterWiki: [DeWikiPedia:OpenStreetMap] [LangReiter:OpenStreetMap]
+* MindOne: SteveCoast
+
+LangeWeile? please check http://tagstat.hypercube.telascience.org/tags.php?limit=50&dir=ASC and help to fix bugs.

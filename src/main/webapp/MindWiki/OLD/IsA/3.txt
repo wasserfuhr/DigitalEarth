@@ -1,0 +1,5 @@
+* IsA: MindProps
+* MindQuote: "A ''is a'' B... never." - BillSeitz
+* InterWiki: [WebSeitz:IsA]
+
+A must be an InDividual. B must be an RdfClass.

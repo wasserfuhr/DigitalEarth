@@ -1,0 +1,9 @@
+of KayGroschen and RayGroschen via RicePrice:
+
+1 RayGroschen = 1 rice grain
+
+1 KayGroschen = 1 kg of rice
+
+total MoneySupply = 10 000 000 kg of rice = 10 000 tons of rice
+
+cheapest RicePrice at KamiNetto on 2010-05-29: 1 KayGroschen = 0,89 EuRo

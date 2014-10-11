@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* MindQuote: That’s one small step for man… one… giant leap for ManKind.
+* InterWiki: [DeWikiPedia:Neil_Armstrong]
+* BornIn: 1930
+* BirthDay: 08-05
+* HasVisited: TranquillityBase

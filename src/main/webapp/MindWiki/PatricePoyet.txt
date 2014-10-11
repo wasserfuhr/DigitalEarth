@@ -1,0 +1,7 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/09/1551
+* PageNumber: 
+* PagePath: LarryPage ... PatricePoyet
+* CordIs: http://cordis.rkbexplorer.com/description/person-297ce50d2b0f3d448ea4c91f977a3fef-247ec686f9718d93c9c06391ac1b3338
+
+CsTb IstForce

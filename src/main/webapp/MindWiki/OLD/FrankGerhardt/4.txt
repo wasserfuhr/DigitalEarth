@@ -1,0 +1,13 @@
+* IsA: PerSon
+* InterWiki: [WikiWikiWeb:FrankGerhardt]
+* DbLp: http://dblp.uni-trier.de/rec/pid/68/4037
+* PagePath: ErikErnst FrankGerhardt
+|[TwittEr:frankgerhardt]
+|[XingLe:Frank_Gerhardt]
+
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy GregorEngels ErnstErichDoberkat HeinzZuellighoven DirkRiehle JamesNoble
+
+http://dblp.uni-trier.de/db/indices/a-tree/v/Vitek:Jan.html
+http://dblp.uni-trier.de/db/indices/a-tree/h/H=ouml=lzle:Urs.html
+http://dblp.uni-trier.de/db/indices/a-tree/u/Ungar:David.html
+http://dblp.uni-trier.de/db/indices/a-tree/e/Ernst:Erik.html

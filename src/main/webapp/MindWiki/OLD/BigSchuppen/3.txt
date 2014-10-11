@@ -1,0 +1,4 @@
+* IsA: MindPlace
+* PartOf: LockSchuppen
+
+the main hall of the LockSchuppen, approx 1200 sqm, centered around the SingularLeuchtTurm. It will be the base of the CoWorking at LockSchuppen, housing appr. 100 Entrepreneur's, Startup's, TeamPreneur's, and other WebWorker's or employees of local enterprises.

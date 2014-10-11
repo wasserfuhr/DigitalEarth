@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Doppelhaus_Nürnberger_Straße_47/Hübnerstraße_15]
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/23263334
+
+SpeedTest: Download: 4.5 Mbit/s - Upload 0.15 Mbit/s - Ping 85 ms - Connections: 1150

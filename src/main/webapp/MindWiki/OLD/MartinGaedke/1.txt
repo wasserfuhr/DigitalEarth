@@ -1,0 +1,11 @@
+* IsA: ProFessor
+* JahrGang: 1971
+* DbLp: http://dblp.uni-trier.de/rec/pid/11/4107
+* ViAf: http://viaf.org/viaf/79465590
+* HomePage: http://vsr.informatik.tu-chemnitz.de/people/gaedke/
+# PageNumber: 10
+# PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker StefanDecker FrankVanHarmelen DanConnolly TimBl ChristianBizer MartinGaedke
+|[XingLe:Martin_Gaedke]
+|[TwittEr:gaedke]
+
+ViafBug: http://viaf.org/viaf/85544524

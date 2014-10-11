@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/32/2945
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker StefanDecker UweAssmann SteffenZschaler
+* HomePage: http://www.steffen-zschaler.de/

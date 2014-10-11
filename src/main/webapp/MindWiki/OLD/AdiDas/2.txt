@@ -1,0 +1,3 @@
+* IsA: DaxUnternehmen
+* InterWiki: [DeWikiPedia:Adidas]
+* IsIn: DE0005003404

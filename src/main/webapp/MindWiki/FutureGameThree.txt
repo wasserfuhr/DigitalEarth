@@ -1,0 +1,15 @@
+* FutureCaptain: RainerWasserfuhr
+* MitWirkende: YvonneSchubert, JfSchlinck, ChristineSchlinck, IrisSchilke, EcCd, JanBoehme
+* MindPlace: TrattoriaLaPiazzetta
+* WikiLender: 20081106
+
+Die HotTopics der DeBate waren: ArTelligence.
+
+Neu gefundene Karten: ThumbOne.
+
+||FutureCard        || YvonneSchubert||ChristineSchlinck||IrisSchilke||EcCd||JanBoehme||RainerWasserfuhr
+|PetaBitPlatte      |2020            |2030              |2050        |2025 |2020      |2020
+|PetaBitPlatte-Avg. |2030            |2025              |2020        |2022 |2025      |2022
+|ComputerGo         |2064            |2015              |2019        |     |2025      |2018
+|LongBetOne         |2222            |2029              |2019        |2055 |2070      |2028
+|PhaetonBallett     |9999            |2030     

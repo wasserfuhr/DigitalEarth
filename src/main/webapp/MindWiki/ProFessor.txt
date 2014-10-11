@@ -1,0 +1,3 @@
+* EtymoLogia: lat. profiteri, "sich OeffentLich als Lehrer zu ErKenn'en geben"
+* KindOf: ReSearcher
+* InterWiki: [WikiPedia:Professor]

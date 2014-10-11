@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/81/1205
+* HomePage: http://www.uni-siegen.de/fb5/cio/team/pipek/
+* HasTalked: RainerWasserfuhr
+* PageNumber: 8
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach VolkerWulf VolkmarPipek

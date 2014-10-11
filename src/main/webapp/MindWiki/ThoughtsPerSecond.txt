@@ -1,0 +1,5 @@
+for:
+* MindOne: 0.5?
+* NewMind: currently 0, but soon: ThoughtOne, und dann: VerDoppel'nd sich, mindestens, in konstanten Zeitabständen.
+
+MiMa

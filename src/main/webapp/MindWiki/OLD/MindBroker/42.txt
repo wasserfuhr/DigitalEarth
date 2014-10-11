@@ -1,0 +1,41 @@
+%%( padding-left: 400px; font-size:90%)
+[WikiPedia:Mind]:
+[[[az:ذهن]]
+[[[bn:মন]]
+[[[de:Geist]]
+[[[en:Mind]]
+[[[eo:Menso]]
+[[[es:Mente (psicología)]]
+[[[fi:Mieli]]
+[[[fr:Esprit]]
+[[[hr:Um]]
+[[[ia:Mente]]
+[[[it:Mente]]
+[[[ja:心]]
+[[[lt:Protas]]
+[[[nl:Geest]]
+[[[pl:Umysł]]
+[[[pt:Mente]]
+[[[ru:Разум]]
+[[[simple:Mind]]
+[[[sq:Mendja]]
+[[[th:จิตใจ]]
+[[[yi:שכל]]
+[[[zh:心靈]]
+[[[zh-min-nan:Sim]]%%
+
+
+!Willkommen bei MindBroker
+
+MindBroker ist ein VirtuellesUnternehmen in der digitalen Republik NooPolis. Es ist noch nicht für JederMann. Es erforscht, erfindet, baut und lebt neue Konzepte für VirtuelleOekonomie'n und SocialNetworks der nächsten und übernächsten Generation:
+
+* MitWirkende
+* WieWirWirken
+* WerdeMindBroker und dann MitWirken:
+* MindBlog
+* wichtigste Projekte:
+** NooPolis, eine VirtuelleOekonomie und Republik
+** MindMe, persönliche Wikis
+** DoItProject, webbasierte Todo-Listen
+* UnsereGeschichte
+* Unser WikiNode verbindet uns zu benachbarten Wikis.

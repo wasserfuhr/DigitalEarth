@@ -1,0 +1,3 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/66/1681
+* HomePage: http://www.cs.auckland.ac.nz/~trebor/

@@ -1,0 +1,14 @@
+* IsA: PerSon
+* SwDf: http://data.semanticweb.org/person/andreas-abecker
+* DbLp: http://dblp.uni-trier.de/rec/pid/05/3102
+* ViAf: http://viaf.org/viaf/57311608
+* MindSkill: SemanticWeb
+* PageNumber: 4
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker
+|[XingLe:Andreas_Abecker]
+
+former DfKi.
+
+Other PagePath's:
+* LarryPage TerryWinograd NorbertStreitz RalfSteinmetz JuergenNehmer JuergenAvenhaus MichaelRichter AndreasAbecker
+* LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach MichaelRichter AndreasAbecker

@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [LangReiter:Gert+Smolka]
+* JahrGang: 1955
+* BirthDay: 01-05
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/GertSmolka
+* HomePage: http://www.ps.uni-sb.de/~smolka/
+* PageNumber: 9
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach  MichaelRichter JoergSiekmann GertSmolka

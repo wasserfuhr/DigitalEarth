@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Hera_Lind]
+* BornIn: 1957
+* BirthDay: 11-02

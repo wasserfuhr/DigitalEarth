@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Atlantischer_Ozean], [OpenCyc:AtlanticOcean]
+* BoundingBox: 18000
+* MindCount: 100.000

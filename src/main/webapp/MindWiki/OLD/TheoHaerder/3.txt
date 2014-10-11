@@ -1,0 +1,7 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Theo_Härder]
+* JahrGang: 1945
+* BirthDay: 08-28
+* MindSkill: DataBase
+* TurkNumber: 7
+* TurkPath: ZigaTurk JohnSmith NorbertStreitz ThorstenPrante RalfSteinmetz ErichOrtner TheoHaerder

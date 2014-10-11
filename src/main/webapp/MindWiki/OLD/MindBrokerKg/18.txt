@@ -1,0 +1,25 @@
+* IsA: EnterPrise
+* UnternehmensGruender: RainerWasserfuhr YvonneSchubert
+* JahrGang: 1999
+* LebensEnde: 2010
+* RechtsForm: KommanditGesellschaft
+* HeadQuarters: StadtDresden
+* VertretungsBerechtigt: RainerWasserfuhr
+* HandelsRegister: StadtDresden, HRA 3908
+* UstId: DE209784000
+
+Projects:
+||Status||Customer  ||Project      ||Partner      ||ZuHaelter
+|DONE|              |PolitikBoerse |              |
+|DONE|ForStudentsAg |ForStudents   |              |
+|LIVE|              |IntraBroker   |              |
+|LIVE|AeNa          |MadBag        |SiemensDematic|InfoLab
+|LIVE|AdiDas        |POD           |InfoWerk      |ItSoftDialog
+|LIVE|MueVa         |MuevaPlan     |TwentyOne     |sm
+|DONE|TeCom         |TeHome        |TeSystems     |ReuTax
+|LIVE|DeutschePost  |AzLn          |GeDas         |HaysAg
+|DONE|KuehneNagel   |nn            |GateInformatic|TcoAg
+|DONE|ComBots       |ComBotsIm     |              |HaysAg
+|DONE|DeutschePost  |PEP           |DpIts         |HaysAg
+|LIVE|DeutschePost  |AzLn          |DpIts         |HaysAg
+|DONE|RolandBergerSc|PiratesSociety|              |jd

@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* InterWiki: [WikiPedia:Robert_Metcalfe]
+[TwittEr:BobMetcalfe]

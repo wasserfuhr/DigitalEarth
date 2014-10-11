@@ -1,0 +1,8 @@
+* InvitedBy: RainerWasserfuhr
+* TrustLevel: 1
+* WohnSitz: WitzHave
+* MindRole: ChiefSalsaOfficer
+||AusLand
+|[WorldWideWeb:www.worteinheiten.de]
+|[XingLe:RicardaD_Herbrand]
+|[DoppLr:RDH]

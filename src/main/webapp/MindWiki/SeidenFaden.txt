@@ -1,0 +1,8 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.10147
+* LaengenGrad: 7.387901
+* BoundingBox: 150
+* MindCount: 10
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/27747107
+
+in der Einflugschneise von GrueterichInternationalAirport.

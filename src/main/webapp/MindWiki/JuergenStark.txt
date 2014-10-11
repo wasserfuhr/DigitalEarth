@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Jürgen_Stark_(Ökonom)]
+* BornIn: 1948
+* BirthDay: 05-31
+* MindSkill: StaatsQuote

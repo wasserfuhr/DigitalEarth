@@ -1,0 +1,11 @@
+Fast jede WebApp hat ein DomainModel auf Basis von Hibernate Annotions.
+
+||SocialObject||XingLe||FaceBook||SkyPe||DoppLr||FlickEr||DelIcioUs
+|Person       |x      |x        |x     |x      |x       |x
+|Contact      |x      |x        |x     |x      |x       |x
+|MindGroup    |x      |x        |x     |       |x
+|Message      |x      |x        |x     |       |x       |x
+|Call         |       |         |x     |       |
+|Photos       |       |x        |      |       |x
+|Trips        |       |         |      |       | 
+|Bookmark     |       |x        |      |       |        |x

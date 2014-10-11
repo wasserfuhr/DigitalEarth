@@ -1,0 +1,225 @@
+; NooMic is NoMic with SourceCode for new NooPolis WebApp's - InSpir'ed by PerlNomic
+;{{{
+
+(defn noomic [request response]
+  (str "<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN'
+   'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+ <head>
+  <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
+  <title>NooPolis - the futuristic MicroNation for the InterNet</title>
+  <link href='http://static.mindbroker.de/yaml-3.2.1/layout_grids.css' rel='stylesheet' type='text/css'/>
+  <!--[if lte IE 7]>
+  <link href='http://static.mindbroker.de/yaml-3.2.1/css/patches/patch_grids.css' rel='stylesheet' type='text/css' />
+  <![endif]-->
+ </head>
+ <body>
+  <!-- skip link navigation -->
+  <ul id='skiplinks'>
+	<li><a class='skip' href='#nav'>Skip to navigation (Press Enter).</a></li>
+	<li><a class='skip' href='#main' >Skip to main content (Press Enter).</a></li>
+  </ul>
+  <div id='topnav' role='contentinfo'>
+    <div class='page_margins'>
+      <div class='page'>
+        <span class='navlinks'>
+   	  <a href='#'>Login</a> | <a href='#'>Contact</a> | <a href='#'>Imprint</a>
+        </span>
+        english | deutsch | español
+      </div>
+    </div>
+  </div>
+  <div id='nav' role='navigation'>
+    <div class='page_margins'>
+      <div class='page'>
+        <div class='hlist'>
+          <!-- main navigation: #nav_main -->
+          <ul>
+            <li class='active'><strong>Home<span>start new world</span></strong></li>
+            <li><a href='#'>Citizens<span>vote and govern</span></a></li>
+            <li><a href='#'>Wiki<span>read and write</span></a></li>
+            <li><a href='../08_special_interest/3col_fullheight.html'>Bank <span>pay and trade</span></a></li>
+            <li><a href='#'>Media<span>watch and listen</span></a></li>
+            <li><a href='#'>LockSchuppen<span>co-learn and -work</span></a></li>
+            <!--li class='last' ><a href='#'>Button 8<span>short desc</span></a></li-->
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id='header' role='banner' style='background:#000;'>
+    <div class='page_margins'>
+      <div class='page'  style='height:95px; padding-top:5px; margin-top:5px;'>
+        <div style='width:890px; margin-top:0px; margin-bottom:0px; padding-top:20px; padding-left: 50px; margin-left:-50px;background-image:url(http://radio.intellihaus.de/WeOwnTheMoon.png)'>
+          <div style='position:absolute; left:-43px; top:39px;'>
+            <a href='http://mindbroker.de/wiki/PlanetErde'><img title='PlanetEarth' src='http://www.netsoc.tcd.ie/~snappiet/transparent.png' width='30' height='30'/></a>
+          </div>
+          <h1 style='font-family: verdana; font-size:31pt; width: 200px;'><a href='/' style='color:#888'>NooPolis</a></h1>
+          <div style='position:absolute; left:875px; top:48px;'>
+            <a href='http://mindbroker.de/wiki/MoonOfEarth'><img title='MoonOfEarth' src='http://www.netsoc.tcd.ie/~snappiet/transparent.png' width='8' height='8'/></a>
+          </div>
+          <div>
+            <span style='color:#fff;font-size:8pt'>&nbsp;<i>A new world starts with you and me</i></span>
+          </div>
+          <div style='font-size:10pt; position:absolute; left:320px; top:58px;'>
+            <span style='padding-left:-40px; margin-left:0px; color:#C0C0C0'>
+              LifeExtension -
+              SyntheticBiology -
+              NanoTech -
+              ArtificialIntelligence -
+            <br/>
+              MindUpload -
+              SpaceExploration -
+              <a href='/wiki/TheSingularity'>TheSingularity</a>.
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>  
+  </div>
+
+  <div id='main'>
+    <div class='page_margins'>
+      <div class='page'>
+        <div class='subcolumns'>
+          <div class='c50l'>
+            <div class='subcl'>
+              <!-- Insert your subtemplate content here -->
+              <h2>Welcome</h2>
+              <p class='floatbox'><img width=0 height=0 src='http://www.siggibecker.de/bilder/kopf2-2.jpg' alt='dummy' class='float_left' />
+                Technology accelerates. This brings opportunities and risks beyond imagination. Humanity has to face these challenges with novel ways of thinking and doing.
+                NooPolis is an experimental MicroNation where you can engage in playful ways to invent the future.
+              </p>
+              <div class='subcolumns'>
+                <div class='c33l'>
+                  <div class='subcl'>
+                  </div>
+                </div>
+                <div class='c33l'>
+                  <div class='subc'>
+                  </div>
+                </div>
+                <div class='c33r'>
+                  <div class='subcr'>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class='c25l'>
+            <div class='subc'>
+              <!-- Insert your subtemplate content here -->
+              <h3>Background</h3>
+              <p>NooPolis is a project for developing the blueprint for a global multilingual world society - establishing it's own currency and legal system.
+               Core values of NooPolis are mindfulness, responsibility, transparency and a WebOfTrust among it's citizens.
+              </p>
+            </div>
+          </div>
+          <div class='c25r'>
+            <div class='subcr'>
+              <!-- Insert your subtemplate content here -->
+              <div class='info'>
+                <h3>Your Engagement</h3>
+                <p>You can join NooPolis now to actively shape our MicroNation and to contribute to the success of this experiment. 
+                </p>
+                <div style='margin:15px'>
+                  <span style='padding:10px; background: #800; color: white; font-size:20px;'><strong><a href='/join' style='color:#fff'>JoinNow</a></strong></span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id='extended'>
+    <div class='page_margins'>
+      <div class='page'>
+        <div class='subcolumns equalize'>
+          <div class='c25l'>
+            <div class='subcl'>
+              <h4>Citizen of the month:</h4>
+              <h3>RalfLippold</h3>
+              <p>
+                <a href='/wiki/RalfLippold'><img src='http://s3.amazonaws.com/twitter_production/profile_images/84499783/MEDIA_080328_Ralf_Lippold.jpg' width='95' height='130'/></a>
+              </p>
+              <table>
+	        <tr>
+                 <td>MindId:</td><td>81</td>
+	        </tr>
+	        <tr>
+                 <td>KayGroschen:</td><td>15,000</td>
+	        </tr>
+	        <tr>
+                 <td>Education:</td><td>SingularBachelor</td>
+	        </tr>
+	        <tr>
+                 <td>WohnSitz:</td><td>StadtDresden</td>
+	        </tr>
+	        <tr>
+                 <td>TwittEr:</td><td><a href=''>@RalfLippold</a></td>
+	        </tr>
+              </table>
+            </div>
+          </div>
+          <div class='c50l'>
+            <div class='subc'>
+              <!-- Insert your subtemplate content here -->
+              <h4>Newest Citizens</h4>
+              <p>
+<table>
+  <tr>
+    <td><a href='/wiki/SimonKoeppl'><img src='http://s3.amazonaws.com/twitter_production/profile_images/190141648/10cm_300dpiframe_bigger.jpg' width='46' height='46'/></a></td>
+    <td><a href='/wiki/RalfLippold'><img src='http://s3.amazonaws.com/twitter_production/profile_images/84499783/MEDIA_080328_Ralf_Lippold_bigger.jpg' width='46' height='46'/></a></td>
+    <td><a href='/wiki/ChristineSchlinck'><img src='http://s3.amazonaws.com/twitter_production/profile_images/32462172/herbstsonne_bigger.jpg' width='46' height='46'/></a></td>
+    <td><a href='/wiki/RicardaDHerbrand'><img src='http://profile.ak.facebook.com/profile6/227/70/n777753775_665.jpg' width='46' height='46'/></a></td>
+    <td><a href='/wiki/DanielPoodratchi'><img src='http://profile.ak.facebook.com/v222/1202/6/n603103551_8776.jpg' width='46' height='46'/></a></td>
+    <td><a href='/wiki/YvonneSchubert'><img src='http://barcampdresden.mixxt.de/storage/images/profiles/f/f/0/ffbdbdc6600d6cc4338df626c9805.jpg' width='46' height='46'/></a></td>
+    <td><a href='/wiki/RainerWasserfuhr'><img src='http://s3.amazonaws.com/twitter_production/profile_images/151228708/aa20071226.rainer_profile_image_xing.com_bigger.jpg#' width='46' height='46'/></a></td>
+  </tr>
+  <tr><td colspan='8'><a href='/citizens'>More...</a></td></tr>
+ </table>
+
+  <h3>RecentEvents</h3>
+    <li>2010-02-06 20:15:22: <a href='http://mindbroker.de/wiki/:RainerWasserfuhr'><img src='http://s3.amazonaws.com/twitter_production/profile_images/151228708/aa20071226.rainer_profile_image_xing.com_bigger.jpg#' width='16' height='16'/></a>RainerWasserfuhr (MindId 1) logged in.</li><li>2010-02-05 12:52:56: <a href='http://mindbroker.de/wiki/:RainerWasserfuhr'><img src='http://s3.amazonaws.com/twitter_production/profile_images/151228708/aa20071226.rainer_profile_image_xing.com_bigger.jpg#' width='16' height='16'/></a>RainerWasserfuhr (MindId 1) logged in.</li><li>2010-02-05 12:37:12: <a href='http://mindbroker.de/wiki/:RainerWasserfuhr'><img src='http://s3.amazonaws.com/twitter_production/profile_images/151228708/aa20071226.rainer_profile_image_xing.com_bigger.jpg#' width='16' height='16'/></a>RainerWasserfuhr (MindId 1) logged in.</li><li>2010-02-04 15:28:04: <a href='http://mindbroker.de/wiki/:RainerWasserfuhr'><img src='http://s3.amazonaws.com/twitter_production/profile_images/151228708/aa20071226.rainer_profile_image_xing.com_bigger.jpg#' width='16' height='16'/></a>RainerWasserfuhr (MindId 1) logged in.</li><li>2010-02-04 14:26:02: <a href='http://mindbroker.de/wiki/:RainerWasserfuhr'><img src='http://s3.amazonaws.com/twitter_production/profile_images/151228708/aa20071226.rainer_profile_image_xing.com_bigger.jpg#' width='16' height='16'/></a>RainerWasserfuhr (MindId 1) logged in.</li><li>2010-02-04 13:31:35: <a href='http://mindbroker.de/wiki/:RainerWasserfuhr'><img src='http://s3.amazonaws.com/twitter_production/profile_images/151228708/aa20071226.rainer_profile_image_xing.com_bigger.jpg#' width='16' height='16'/></a>RainerWasserfuhr (MindId 1) logged in.</li><li>2010-02-04 11:41:58: <a href='http://mindbroker.de/wiki/:RainerWasserfuhr'><img src='http://s3.amazonaws.com/twitter_production/profile_images/151228708/aa20071226.rainer_profile_image_xing.com_bigger.jpg#' width='16' height='16'/></a>RainerWasserfuhr (MindId 1) logged in.</li><li>2010-02-04 10:34:56: <a href='http://mindbroker.de/wiki/:RainerWasserfuhr'><img src='http://s3.amazonaws.com/twitter_production/profile_images/151228708/aa20071226.rainer_profile_image_xing.com_bigger.jpg#' width='16' height='16'/></a>RainerWasserfuhr (MindId 1) logged in.</li><li>2010-02-04 09:36:51: <a href='http://mindbroker.de/wiki/:RainerWasserfuhr'><img src='http://s3.amazonaws.com/twitter_production/profile_images/151228708/aa20071226.rainer_profile_image_xing.com_bigger.jpg#' width='16' height='16'/></a>RainerWasserfuhr (MindId 1) logged in.</li><li>2010-02-04 08:20:05: <a href='http://mindbroker.de/wiki/:RainerWasserfuhr'><img src='http://radio.intellihaus.de/man.png' width='16' height='16'/></a>ab wants to join NooPolis. <a href='/join#check'>check now.</a></li><li>2010-02-04 08:16:53: <a href='http://mindbroker.de/wiki/:RainerWasserfuhr'><img src='http://s3.amazonaws.com/twitter_production/profile_images/151228708/aa20071226.rainer_profile_image_xing.com_bigger.jpg#' width='16' height='16'/></a>RainerWasserfuhr (MindId 1) logged in.</li>      
+  </div>
+ </div>
+          <div class='c25r'>
+            <div class='subcr'>
+              <!-- Insert your subtemplate content here -->
+              <h4>Connect</h4>
+              <p style='margin-left:27px'>
+                <a href='http://facebook.com/group.php?gid=4065199285'><img border='0' width='100' height='50' src='http://www.socialmediabuttons.com/images/facebook4.gif' /></a></p>
+              <p style='margin-left:27px'>
+                <a href='http://www.twitter.com/rainer'><img src='http://twitter-badges.s3.amazonaws.com/follow_bird_us-c.png' alt='Follow us on Twitter'/></a></p>
+              <p style='margin-lft:27px'>
+                <div id='twitter_div'>
+                  <h5>Latest Twitter Updates</h5>
+                  <ul id='twitter_update_list'></ul>
+                  <a href='http://twitter.com/NooPolis' id='twitter-link' style='display:block;text-align:right;'>follow us</a>
+	  	</div></p>
+		<script type='text/javascript' src='http://twitter.com/javascripts/blogger.js'></script>
+		<script type='text/javascript' src='http://twitter.com/statuses/user_timeline/NooPolis.json?callback=twitterCallback2&amp;count=4'></script>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- begin: #footer -->
+  <div id='footer' role='contentinfo'>
+    <div class='page_margins'>
+      <div class='page'>
+     <p>Footer with copyright notice and status information<br />
+        Layout based on <a href='http://www.yaml.de/'>YAML</a></p>
+      </div>
+    </div>
+  </div>
+  <!-- full skiplink functionality in webkit browsers -->
+  <script src='http://static.mindbroker.de/yaml-3.2.1/core/js/yaml-focusfix.js' type='text/javascript'></script>
+ </body>
+</html>
+")
+)
+;}}}

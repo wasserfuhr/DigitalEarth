@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Geoffrey_Canada]
+* BornIn: 1952
+* BirthDay: 01-13

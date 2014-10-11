@@ -1,0 +1,14 @@
+Hier erfassen bald die Gesellschafter und Lieferanten die für MindBroker erbrachten Leistungen 
+und die Art des PayOut.
+
+Den aktuellen Kontostand zeigt das BankKonto.
+
+||wer            ||wann   ||was                         ||NuIt
+|DanielPoodratchi|20070823|code Review, Bug fixing       |5
+|DanielPoodratchi|20070824|                           -  |10
+|DanielPoodratchi|20070903|Auction JSP coding            |10
+|DanielPoodratchi|20070904|Bug fixing, Abstimmung Rainer |2
+|DanielPoodratchi|20070907|YAML+MindBlog Layout          |6
+|DanielPoodratchi|20070919|MindBlog Kommentare           |3
+|DanielPoodratchi|20071104|InBox single Message, overview|6
+

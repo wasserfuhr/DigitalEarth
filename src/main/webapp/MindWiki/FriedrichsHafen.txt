@@ -1,0 +1,8 @@
+* IsA: MindCity
+* InterWiki: [DeWikiPedia:Friedrichshafen]
+* BreitenGrad: 47.654
+* LaengenGrad: 9.479
+* BoundingBox: 3000
+* MindCount: 55000
+
+BodenSee

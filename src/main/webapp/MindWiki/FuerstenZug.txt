@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Fürstenzug]
+* BreitenGrad: 51.05272
+* LaengenGrad: 13.73897
+* BoundingBox: 100
+* GraDient: 125
+* SlimNess: 0.1

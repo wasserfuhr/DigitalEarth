@@ -1,0 +1,21 @@
+A little CrowdWisdom experiment with the sole purpose to answer the question:
+Who is the best SingularityMind on PlanetEaerh to imagine the possible futures of the year 2040 and beyond?
+
+This question is answered by mutual guesses of SingularityMind's about their ShockLevel.
+
+We start with a WikiTable (Later as WebApp: http://futures.mindbroker.de ?) :
+
+||SingularityMind ||ShockLevel||Guessed by
+|EliezerYudkowsky |3.9 |RainerWasserfuhr
+|MichaelAnissimov |3.9 |RainerWasserfuhr
+|TeilhardDeChardin|3.9 |RainerWasserfuhr
+|SiggiBecker      |3.81|RainerWasserfuhr
+|KurzWeil         |3.8 |RainerWasserfuhr
+|PeterThiel       |3.6 |RainerWasserfuhr
+|RainerWasserfuhr |3.14|RainerWasserfuhr
+|JosephRatzinger  |2.8 |RainerWasserfuhr
+|MatthiasHorx     |2.5 |RainerWasserfuhr
+|BarackObama      |2.1 |RainerWasserfuhr
+|AngelaMerkel     |1.41|RainerWasserfuhr
+
+Further candidates: see SingularityMind

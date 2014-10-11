@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:August-Wilhelm_Scheer]
+* JahrGang: 1941
+* BirthDay: 07-27
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/AugustWilhelmScheer
+* PageNumber: 13
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach JuergenAvenhaus KlausMadlener NorbertKuhn KlausFischer2 PeterLoos OliverThomas AugustWilhelmScheer

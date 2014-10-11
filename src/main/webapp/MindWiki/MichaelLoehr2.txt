@@ -1,0 +1,4 @@
+* IsA: PerSon
+|[XingLe:Michael_Loehr2]
+
+SameAs [XingLe:Michael_Loehr5]?

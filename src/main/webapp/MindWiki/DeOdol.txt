@@ -1,0 +1,3 @@
+* IsA: LuftBallong
+* AircraftRegistration: D-ODOL
+* MindColor: Blau-Weiss

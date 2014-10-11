@@ -1,0 +1,49 @@
+* InterWiki: [DeWikiPedia:Turing-Preis]
+
+* 2007: EdmundClarke, EAllenEmerson, JosephSifakis, 
+* 2006 FrancesAllen
+* 2005 PeterNaur
+* 2004 VintonCerf, RobertKahn
+* 2003 AlanKay
+* 2002 LeonardAdleman, RonaldRivest, AdiShamir 
+2001 OleJohanDahl, KristenNygaard, 
+2000 Yao, Andrew Chi-Chih
+1999 Brooks, Frederick P.
+1998 JimGray
+1997 DougEngelbart
+1996 Pnueli, Amir 
+1995 Blum, Manuel 
+1994 Feigenbaum, Edward,Reddy, Raj
+1993 Hartmanis, Juris, Stearns, Richard E
+1992 Lampson, Butler W.
+1991 Milner, A J
+1990 Corbato, Fernando J.
+1989 Kahan, William
+1988 Sutherland, Ivan
+1987 Cocke, John
+1986 Hopcroft, John E
+ 1986 Tarjan, Robert E
+1985 Karp, Richard M
+ 1985 Karp, Richard M.
+1984 NiklausWirth
+1983 Ritchie, Dennis M.
+ 1983 Thompson, Kenneth Lane
+1982 Cook, Stephen A
+1981 DrCodd
+1980 Hoare, C. Antony R.
+1979 Iverson, Kenneth E.
+1978 Floyd, Robert W
+1977 Backus, John
+1976 Rabin, Michael O.
+ 1976 Scott, Dana S
+1975 AllenNewell, 
+ 1975 HerbertSimon
+1974 DonaldKnuth
+1973 Bachman, Charles W.
+1972 Dijkstra, E. W.
+1971 JohnMcCarthy
+1970 Wilkinson, J. H.
+1969 MarvinMinsky
+1968 Hamming, Richard
+1967 Wilkes, Maurice V
+1966 Perlis, A. J.

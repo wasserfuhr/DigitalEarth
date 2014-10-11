@@ -1,0 +1,18 @@
+In order to DeFin'e »ThoughtsPerSecond« as the basic metrics for the SingularAcademy,
+we have to clarify what we mean with a »thought«.
+There are several similar ConCept's that we consider relevant for our
+DeFin'ition, e.g.:
+* StateMent borrowed from SemanticWeb
+* TatSache borrowed from TractatusLogicoPhilosophicus
+* IntentionalAct borrowed from EdmundHusserl
+
+In analogy to the seminal paper »WhatsInALink« by WaWoods,
+our fundamental ConCept is based on the notion of a "thought".
+
+»BarackObama BornIn 1961«
+
+In contrast to the statement, a MindThought 
+by a MiNd.
+Since the are represented in CamelCase, we declare »MindThought«
+as the normative reference to our DisCourse.
+"truth"

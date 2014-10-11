@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* JahrGang: 1912
+* LebensEnde: 1970

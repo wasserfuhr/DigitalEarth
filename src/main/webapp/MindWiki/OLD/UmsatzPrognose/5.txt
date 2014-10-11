@@ -1,0 +1,13 @@
+WasSchaetztDu: Welche ErWartung haben BuergerInnen an den UmSatz im MindShop:
+
+||EnterPrise   ||ErWartung      ||on   ||Produkt          ||Stück||Gesamtumsatz||Währung
+|LockSchuppenAg|RalfLippold     |200905|CLeanFee            | 1|    128|EuRo
+|LockSchuppenAg|RainerWasserfuhr|200905|CLeanFee            | 1|      1|EuRo
+|LockSchuppenAg|RainerWasserfuhr|200905|SingularSummitEurope| 1|    128|EuRo
+|LockSchuppenAg|RainerWasserfuhr|200906|CLeanFee            | 1|      2|EuRo
+|LockSchuppenAg|RalfLippold     |200906|SingularSummitEurope| 1|    128|EuRo
+|MindBroker    |RainerWasserfuhr|2009  |LiebesRinge         | 2|    200|KayGroschen
+|MindBroker    |RainerWasserfuhr|2009  |EheRinge            | 1|  1.000|KayGroschen
+|MindBroker    |RainerWasserfuhr|2009  |NacktSichtBrille    | 1| 10.000|KayGroschen
+|MindBroker    |RainerWasserfuhr|2009  |StartUpSim          | 1| 99.999|KayGroschen
+|MindBroker    |RainerWasserfuhr|2009  |OpenConsult-Stunden |80|120.000|KayGroschen

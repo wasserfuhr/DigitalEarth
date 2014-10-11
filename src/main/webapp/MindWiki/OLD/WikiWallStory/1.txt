@@ -1,0 +1,1 @@
+In addition to the WikiWallGame: StoryTelling with the WikWall: The players choose a WikiWallCard and have to tell a story. They can also choose more than one WikiWallCard and have to find a common ConNect'ion between these WikiWallCard's.

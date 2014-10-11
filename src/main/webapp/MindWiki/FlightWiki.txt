@@ -1,0 +1,7 @@
+Wer fliegt wann wo hin und kann MindPostBote werden?
+
+||on          ||from         ||to       ||Flight  ||who
+|20081219:0815|StadtDresden |StadtKoeln  |4U-27    |MartinRoell
+|200810??     |FrankFurt    |NewYork     |LH-???   |JeMand
+
+MindMove

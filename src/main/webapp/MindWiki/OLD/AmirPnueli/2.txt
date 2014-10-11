@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Amir_Pnueli]
+* JahrGang: 1941
+* BirthDay: 0422
+* LebensEnde: 2009
+* DbLp: http://dblp.uni-trier.de/rec/pid/p/AmirPnueli

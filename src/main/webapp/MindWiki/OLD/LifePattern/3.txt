@@ -1,0 +1,26 @@
+LifePattern sind etwas ganz Konkretes:
+* Etwas, an das man ImmerWieder denkt und tut
+* Etwas, an das einen eindeutigen und lebenslangen CamelCase-Namen hat
+* Etwas, das man im seinem LifeWiki festhält und beschreibt 
+* Etwas, das man miteinander vernetzt
+* Etwas, das man beim ElbSpaziergang mit anderen BuergerInnen austauscht und weiterspinnt
+
+Gute LifePattern:
+* DelIm
+* DoIt
+* EnErgie
+* FutureMap
+* InterWiki
+* LifeWiki
+* PostReal
+* ReDo
+* ReView
+* SchaetzQual
+* SchatzKiste
+* SocialBackup
+* TotalRecall
+* TwitMap
+* WoZu
+
+AntiPattern:
+* IntuitiveLinear

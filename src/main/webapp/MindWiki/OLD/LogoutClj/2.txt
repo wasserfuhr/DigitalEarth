@@ -1,0 +1,14 @@
+;LogOut
+;{{{
+
+((defn logout []
+  (handle "logout"
+   nil
+   (fn []
+    (do
+     (.setAttribute (.getSession request) "WikiName" nil)
+     (.sendRedirect response (.getParameter request "pathInfo"))
+    )
+   )
+   )))
+;}}}

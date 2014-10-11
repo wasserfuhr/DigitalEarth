@@ -1,0 +1,2 @@
+* IsA: ProFessor
+* BirthDay: 11-26

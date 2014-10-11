@@ -1,0 +1,154 @@
+* InterWiki:[WikiPedia:Category:ISI_highly_cited_researchers]
+
+
+RedBlueGame:
+
+A
+* MarkJAblowitz
+* AndreasAcrivos
+* RichardAlley
+* NogaAlon
+* DougAltman
+* DouglasNArnold
+
+B
+* IvoBabuska
+* JohnMBall
+* KlausJuergenBathe
+* AdrianBejan
+* JamesBerger
+* JeanMichelBismut
+* JeanBourgain
+* GeorgeEPBox
+* LeoBreiman
+* NormanBreslow
+
+C
+* TonyFChan
+* JeffCheeger
+* DavidClayton
+* DavidCox
+* MichaelAnthonyCrisfield
+
+D
+* KayDavies
+* StephenHDavis
+* PhilipDawid
+* CarlRdeBoor
+* PersiDiaconis
+* ChrisDobson
+* SimonDonaldson
+* JackDongarra
+
+E
+* BradleyEfron
+* DavidEisenbud
+* PaulErdős
+* LawrenceCEvans
+
+F
+* AthanassiosSFokas
+* AvnerFriedman
+
+G
+* RichardDGill
+* IsraelGohberg
+* HarveyGoldstein
+* GeneHGolub
+* PeterGreen
+
+H
+* HalilMeteSoner
+* PeterGavinHall
+* AmiHarten
+* NicholasHigham
+* ThomasJRHughes
+
+I
+* RonaldLIman
+* FrankPIncropera
+* HenrykIwaniec
+
+J
+* DanielDJoseph
+
+K
+* ThomasKailath
+* NarendraKarmarkar
+* PeterKnight
+
+L
+* CarloLaVecchia
+* PeterLax
+* LGaryLeal
+* RichardLindzen
+* PierreLouisLions
+* JacquesLouisLions
+* GeorgeLusztig
+
+M
+* PeterMcCullagh
+* CatharineMacKinnon
+* AndrewMajda
+* JerroldEMarsden
+* ParvizMoin
+
+N
+* LouisNirenberg
+
+O
+* JTinsleyOden
+* EugenioOñateIbanezdeNavarra
+* StevenAOrszag
+* StanleyOsher
+
+P
+* RichardPeto
+
+Q
+* DanielQuillen
+
+R
+* AdrianRaftery
+* JnReddy
+* DonaldRubin
+
+S
+* YousefSaad
+* PeterSarnak
+* SaharonShelah
+* ChiWangShu
+* BernardSilverman
+* BarrySimon
+* AdrianFMSmith
+* EphraimMSparrow
+* TerrySpeed
+* DavidSpiegelhalter
+* EliasMStein
+* GilbertStrang
+* BerndSturmfels
+* DennisSullivan
+* DaWenSun
+
+T
+* AllenTaflove
+* MichelTalagrand
+* RogerTemam
+* CarstenThomassen
+
+V
+* RaymondViskanta
+* HenkVanDerVorst
+
+W
+* GraceWahba
+* AlanWeinstein
+* EdwardWitten
+
+Y
+* ShingTungYau
+* JamesAYorke
+
+Z
+* OlgierdZienkiewicz
+* EnriqueZuazua

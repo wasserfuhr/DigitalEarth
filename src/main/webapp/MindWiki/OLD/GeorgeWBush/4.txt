@@ -1,0 +1,6 @@
+* IsA: PotUs
+* InterWiki: [OpenCyc:GeorgeWBush] [WebSeitz:GeorgeWBush]
+* BornIn: 1946
+* BirthDay: 07-06
+* ChildOf: BarbaraBush GeorgeHWBush
+* MindSkill: SegWay

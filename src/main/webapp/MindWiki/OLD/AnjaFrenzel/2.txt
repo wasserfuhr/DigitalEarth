@@ -1,0 +1,9 @@
+* MindTags: MindPeople
+* EyeColor: braun
+* HumanHeight: 174
+* SprachWelt: de, en
+* WohnSitz: DortMund
+* MindRole: SchmueckendesBeiwerk
+* MindBrowser: FireFox
+* IchSuche: KonverSation
+* IchBiete: VerStändnis

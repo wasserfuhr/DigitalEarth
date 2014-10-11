@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* DbLp: 
+* HomePage: http://www.cs.rpi.edu/~hendler/
+* HochSchule: RpiEdu
+* PageNumber: 4
+* PagePath: LarryPage TerryWinograd NorbertStreitz WendyHall JimHandler

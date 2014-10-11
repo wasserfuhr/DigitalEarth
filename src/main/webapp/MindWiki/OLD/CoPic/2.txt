@@ -1,0 +1,16 @@
+* MindTags: ReView
+
+Idea for a game: select a random person from MindPeople:
+find the shortest FoAf co-[depiction|http://xmlns.com/foaf/spec/#term_depiction ] path from you to the person.
+
+! Example: RolandBarthes -> RainerWasserfuhr
+
+||CoPic||Url
+|AlbertoArbasino|http://www.photographers.it/articoli/foto1/cerati/barthes.jpg
+|MarellaAgnelli |http://213.215.144.81/public_html/images/g/gore17_alberto-arbasino.jpg
+|GiovanniAgnelli|http://www.moda.hr/img/ArticleImages/12328.jpg
+|SilvioBerlusconi|http://worldroots.com/brigitte/gifs21/giovanniagnelli1921-7.jpg
+|GerhardSchroeder|http://www.dw-world.de/image/0,,642904_1,00.jpg
+|JohannesRau|http://www.repubblica.it/online/economia/crisifiat/berlusconi/ansa0034bc75cxw200h165c00.jpg
+|BobHooda|http://www.flickr.com/photos/rainerw/428393705/
+|RainerWasserfuhr|http://www.flickr.com/photos/rainerw/1418068346/

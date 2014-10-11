@@ -1,0 +1,3 @@
+* IsA: PerSon
+* ViAf: http://viaf.org/viaf/72487521/
+* HasTalked: RainerWasserfuhr

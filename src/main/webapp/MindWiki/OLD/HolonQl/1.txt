@@ -1,0 +1,1 @@
+The Holon Query Language is a StealthMode joint project between MindBroker ReSearch and a leading university in PittsBurgh which will enable AI agents to perform distributed queries for [DeWikiPedia:Holon]s.

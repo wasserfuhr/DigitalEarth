@@ -1,0 +1,30 @@
+* InterWiki: [DeWikiPedia:Europäische_Union]
+EurOpa
+
+|be|Belgien (BE) 	
+|it|Italien Italien (IT) 	
+|ro|Rumänien Rumänien (RO)
+|bg|Bulgarien Bulgarien (BG) 	
+|lv|Lettland Lettland (LV) 	
+|se|Schweden Schweden (SE)
+|dk|Dänemark Dänemark (DK) 	
+|lt|Litauen Litauen (LT) 	
+|sk|Slowakei Slowakei (SK)
+|de|DeutschLand (DE) 	
+|lu|LuxemBurg Luxemburg (LU) 	
+|si|Slowenien Slowenien (SI)
+|ee|EestiVabariik
+|mt|Malta
+|es|Spanien Spanien (ES)
+|fi|FinLand Finnland (FI) 	
+|nl|NederLands Niederlande (NL) 	
+|cz|Tschechien Tschechien (CZ)
+|fr|LaFrance Frankreich (FR) 	
+|at|OesterReich Österreich (AT) 	
+|hu|Ungarn Ungarn (HU)
+|gr|Griechenland (GR) 	
+|pl|Polen Polen (PL) 	
+|gb|UnitedKingdom
+|ie|Irland Irland (IE) 	
+|pt|Portugal Portugal (PT) 	
+|cy| Zypern Zypern (CY)

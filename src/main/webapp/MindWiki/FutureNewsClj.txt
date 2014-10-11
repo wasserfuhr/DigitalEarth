@@ -1,0 +1,16 @@
+;
+;
+;{{{
+
+((defn futurenews [] 
+       (handle "futurenews"
+        (fn []
+       	 (str
+       	  "<h3></h3>"
+       	  "<table>"
+"<a href='http://mindbroker.de/wiki/RainerWasserfuhr'><img src='" (cache nil :RainerWasserfuhr) "' width='32' height='32'/></a>"
+	  "</table>"
+     	  "<h4>2012: UbiGrate on your iPhone</h4>"
+	  ) ) "" )
+   )))
+;}}}

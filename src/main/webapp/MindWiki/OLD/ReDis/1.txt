@@ -1,0 +1,2 @@
+* EtymoLogia: it's a joke on the word Redistribute - it means REmote DIctionary Server
+* EtymoLogiaSource: http://code.google.com/p/redis/wiki/FAQ

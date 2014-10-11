@@ -1,0 +1,9 @@
+A SystemDynamics approach for PreDict'ing the TwentyFirstCentury:
+* CalculationsPerSecondPerDollar
+* KardashevScale
+* WorldPopulation
+* DresdenFlickr
+
+more candidates soon?:
+* AcceleratingReturns
+* OpenGeoData

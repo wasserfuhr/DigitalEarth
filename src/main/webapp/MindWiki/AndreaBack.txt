@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/09/1019
+* PageNumber: 14
+* PagePath: LarryPage ... FrancoisBry GeorgGottlob RobertBaumgartner PeterLehmann2 AndreasSeufert AndreaBack
+|[XingLe:Andrea_Back]
+|[TwittEr:ABack]

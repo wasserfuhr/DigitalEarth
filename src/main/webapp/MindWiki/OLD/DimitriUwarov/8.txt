@@ -1,0 +1,10 @@
+* WohnSitz: KarlsRuhe
+* JahrGang: 1978
+* LebensErwartung: 2038
+* MindSkill: RussischSalsa, JavaClass
+||AusLand
+|[WorldWideWeb:www.thinkplexx.com]
+|[XingLe:Dimitri_Uwarov]
+|[SkyPe:neokrates]
+|[FaceBook:836618205]
+|[FlickEr:8030162@N02]

@@ -1,0 +1,4 @@
+soon: http://geotuesday.mindbroker.de
+
+MindEvent's:
+* GeoTuesday1

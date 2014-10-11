@@ -1,0 +1,3 @@
+* IsA: WortStamm
+* EtymoLogia: from trāns (“‘across, beyond’”) + dō (“‘I give’”).
+* EtymoLogiaSource: http://en.wiktionary.org/wiki/trado#Etymology

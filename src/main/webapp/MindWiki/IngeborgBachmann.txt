@@ -1,0 +1,7 @@
+* IsA: PerSon
+* MindQuote: "Die WahrHeit ist dem Menschen ZuMut'bar"
+* InterWiki: [DeWikiPedia:Ingeborg_Bachmann]
+* BornIn: 1926
+* BirthDay: 06-25
+* DiedIn: 1973
+* ViAf: http://viaf.org/viaf/6839

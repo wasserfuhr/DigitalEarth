@@ -1,0 +1,23 @@
+Angeregt durch OliverGassner: http://blog.oliver-gassner.de/archives/3170-Was-ist-ein-Kontakt-Social-Networking-und-die-Kommunikation..html
+
+Die XingLe-Policy von RainerWasserfuhr:
+* Lösche __NIEMALS__ Daten:
+Löschen ist doof, denn wir wollen ja den DigitalTwin bauen, den wir spätestens 2029 auf BlueBrain UpLoad'en können.
+Löschen ist was für alte Leute, die Angst vor grossen Datenmengen haben
+Wir löschen also niemals, sondern vergeben Tags. Und damit können wir dann filtern:
+** "nevermetf2f" steht für: RaWa hat diese Person noch nie im echten Leben getroffen
+** "sie" wenn RaWa nicht PerDu ist
+** Vereinzelte wird RaWa von Cold-Contactern angesprochen. Ihr wisst schon: Die welche 10.000 Kontakte haben und Dir sogleich die Kontaktanfrage schicken, sobald Du einmal auf deren Profil warst.
+Die bestätigt RaWa dann einfach, und gibt ihnen das Tag "coldcontacter"
+* Wenn jemand mein Kontakt ist, ist damit überhaupt kein Werturteil als Ausdruck von VerTrauen impliziert.
+* Wenn ich jemandem mein VerTrauen aussprechen will, tue ich dies per MindTrust auf NooPolis.
+* dieses SocialNetwork ist ein Adressbuch.
+* das ganze XingLe-Konzept dient nur dazu, Menschen an die erste Generation von SocialNetwork's
+heranzuführen: Im Grunde ist XingLe nur ein "Identity-Provider":
+liefert eine Menge von URLs, von denen ich mit hinreichender ConFidence (>99%) annehmen kann, dass
+es sich um "echte" Personen handelt (Unter den 646 Kontakten von RaWa waren 4 als "duplicate" getaggt, also 644 "unique" MindPeople). Erst wenn Du hier ein Profil hast, existierst Du.
+Dein Profil ist dein AvaTar. Und sobald Du im XingLe-Spiel bist, hast Du nur eine Chance ;)
+
+In einem optimalen SocialNetwork sind alle Daten für JederMann öffentlich zugänglich.
+
+Ein TrustProvider ist XingLe nur eingeschränkt. Dafür erfordert es eine VerFassung. Dafür gibt es NooPolis.

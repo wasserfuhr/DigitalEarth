@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* MindBlog: http://singularitat.blogspot.com/
+
+HasRead: SingularityIsNear

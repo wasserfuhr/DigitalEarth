@@ -1,0 +1,63 @@
+MindBroker sollte schöne URLs haben.
+
+Vorbilder:
+flickr:
+* http://www.flickr.com/photos/rainerw
+* http://www.flickr.com/photos/rainerw/tags
+* http://www.flickr.com/photos/rainerw/tags/dresden
+* http://www.flickr.com/photos/tags/burjdubai
+* http://www.flickr.com/cameras/
+* http://www.flickr.com/cameras/nikon
+* http://www.flickr.com/cameras/nikon/coolpix_s10
+
+MindBroker:
+* http://mindbroker.de/ LIVE!
+* http://ag.mindbroker.de/wiki LIVE!
+* http://books.mindbroker.de/
+* http://continuum.mindbroker.de:8088/
+* http://do.mindbroker.de/
+* http://domains.mindbroker.de/
+* http://feeds.mindbroker.de/
+* http://floor.mindbroker.de/
+* http://geo.mindbroker.de/ LIVE!
+* http://grid.mindbroker.de/
+* http://messi.mindbroker.de/
+* http://music.mindbroker.de/
+* http://salsa.mindbroker.de/
+* http://sport.mindbroker.de/
+* http://tags.mindbroker.de/
+* http://wyrd.mindbroker.de/
+* http://websvn.mindbroker.de/ LIVE!
+
+* http://*.mindbroker.de/
+
+Sonstige:
+* http://intrabroker.com/ LIVE!
+* http://semantic.stadtwiki.net LIVE!
+* http://sematags.de/
+* http://wikitchen.de/
+* http://wikihosting.de/
+* http://wasserfuhr.com/ LIVE!
+
+SportPortal:
+* http://sport.mindbroker.de/clubs
+* http://sport.mindbroker.de/clubs/create
+* http://sport.mindbroker.de/clubs/123
+* http://sport.mindbroker.de/clubs/123/member
+* http://sport.mindbroker.de/clubs/123/teams
+* http://sport.mindbroker.de/clubs/123/teams/456
+* http://sport.mindbroker.de/profile/rainer
+* http://sport.mindbroker.de/profile/rainer/edit
+* http://sport.mindbroker.de/profile/rainer/events
+* http://sport.mindbroker.de/profile/rainer/gallery
+* http://sport.mindbroker.de/profile/rainer/messages
+* http://sport.mindbroker.de/profile/rainer/fans
+* http://sport.mindbroker.de/search
+* http://sport.mindbroker.de/search/user
+* http://sport.mindbroker.de/search/club
+* http://sport.mindbroker.de/search/team
+* http://sport.mindbroker.de/search/event
+* http://sport.mindbroker.de/imprint
+* http://sport.mindbroker.de/sitemap
+* http://sport.mindbroker.de/join
+* http://sport.mindbroker.de/privacy

@@ -1,0 +1,19 @@
+* InterWiki: [DeWikiPedia:Fields-Medaille]
+
+RedBlueGame:
+* 2006 AndreiOkunkow GrigoriPerelman TerenceTao WendelinWerner
+* 2002 LaurentLafforgue WladimirWojewodski
+* 1998 RichardBorcherds WilliamTimothyGowers MaximKonzewitsch CurtisMcMullen AndrewWiles
+* 1994 JeanBourgain PierreLouisLions JeanChristopheYoccoz EfimZelmanov
+* 1990 VladimirDrinfeld VaughanFRJones ShigefumiMori EdwardWitten
+* 1986 SimonDonaldson GerdFaltings MichaelFreedman
+* 1982 AlainConnes WilliamThurston ShingTungYau
+* 1978 PierreDeligne CharlesFefferman GrigoriMargulis DanielGrayQuillen
+* 1974 EnricoBombieri DavidBryantMumford
+* 1970 AlanBaker HeisukeHironaka SergeiNowikow JohnGriggsThompson
+* 1966 MichaelFrancisAtiyah PaulCohen  AlexanderGrothendieck StephenSmale
+* 1962 LarsHormander JohnWillardMilnor
+* 1958 KlausFriedrichRoth ReneThom
+* 1954 KodairaKunihiko JeanPierreSerre
+* 1950 LaurentSchwartz AtleSelberg
+* 1936 LarsValerianAhlfors JesseDouglas

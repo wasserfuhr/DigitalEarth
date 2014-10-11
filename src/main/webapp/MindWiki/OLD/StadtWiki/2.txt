@@ -1,0 +1,12 @@
+[http://www.omahawiki.org/Omaha_Wiki:Omaha_Wiki_Benchmarks]:
+
+||Ranking||PageCount||MindCount||MindCity
+| 1|14,717|  300,000|KarlsRuhe
+| 3|10,632|1,500,000|HamBurg
+|12| 3,162|  300,000|BieleFeld
+|13| 3,146|1,300,000|StadtMuenchen
+|15| 1,925|7,800,000|LonDon
+|16| 1,873|  450,000|StadtDresden
+|25|   817|1,500,000|SacraMento
+
+IqProQm

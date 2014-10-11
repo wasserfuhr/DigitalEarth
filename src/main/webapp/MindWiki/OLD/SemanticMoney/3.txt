@@ -1,0 +1,14 @@
+DcTitle for a new MindPaper?
+
+DomainModel:   
+
+PayMent
+* id: xsd:long
+* sender : BankAccountHolder
+* receiver : BankAccountHolder
+* date : Timestamp
+* procurer : CitiZen
+* amount : Double
+* text: xsd:String
+
+GoodRelations?

@@ -1,0 +1,9 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Peter_Sloterdijk]
+* BornIn: 1947
+* BirthDay: 06-26
+* ViAf: http://viaf.org/viaf/24617510
+
+related: ZeitBlasen.
+
+irgendwo fand sich neulich eine Hypothese, dass RegelnFuerDenMenschenpark eine utopische Lesart von BraveNewWorld sei.

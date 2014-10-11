@@ -1,0 +1,4 @@
+* IsA: EnterPrise
+* MindOne: FrankAppel
+* IsIn: DE0005552004
+* HeadQuarters: PostTower

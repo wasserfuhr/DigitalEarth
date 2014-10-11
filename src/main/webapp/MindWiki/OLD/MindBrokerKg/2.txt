@@ -1,0 +1,10 @@
+http://mindbroker.de
+
+Gegründet 1999 von RainerWasserfuhr und YvonneSchubert als DeWikiPedia:Kommanditgesellschaft in der StadtDresden.
+
+Projekte
+
+||Status||Name
+|LIVE|IntraBroker
+|LIVE|MuevaPlan
+|LIVE|Consulting für ComBOTS

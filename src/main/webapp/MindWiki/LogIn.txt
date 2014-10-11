@@ -1,0 +1,5 @@
+You need a LogIn for editing the MindWiki and using our WebApp's. It consists of:
+* your CamelCase-Name (eg RainerWasserfuhr) and
+* your Passwort.
+
+__JoinNow__ and request a LogIn.

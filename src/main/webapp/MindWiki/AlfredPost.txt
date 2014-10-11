@@ -1,0 +1,20 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Alfred_Post]
+* BornIn: 1942
+* BirthDay: 08-24
+* DiedIn: 2005
+
+TuDresden
+
+2004: "Innovativster Kanzler der Dekade"
+
+Auf http://www.facebook.com/photo.php?pid=305265&id=100000227727681 ? Was ist mit automatischer FaceRecognition bei allen FaceBook-pics?! IlseAigner und der Bundesdatenschutzbeauftrage sind sicher noch gegen den Einsatz, aber die Mehrheit der WorldParty-guests sehen das vermutlich anders und taggen vor allen Dingen heute schon wie wild drauf los - die TransparentSociety begann im BilderBuch von HeKw ;)
+
+Und 3 kleine Zahlen: Auf FaceBook gehostete Photos:
+* 2004-02-04: 0 - http://www.facebook.com/facebook?v=info
+* 2008-10: 10 000 000 000: http://mashable.com/2008/10/15/facebook-10-billion-photos/
+* 2013: 124 000 000 000: http://elliebrown.wordpress.com/2010/03/14/facebooks-124-billion-photos/
+
+...woraus sich die theoretisch und futurologisch spannende Frage ergibt: wenn man mit schon heute verfügbarer SoftWare eine automatische FaceRecognition über alle FaceBook-Photos laufen liesse:
+Wieviel Prozent der WeltBevoelkerung liessen sich dann (bei einer akzeptierten Fehlerquote von 20%) insgesamt erkennen?
+Wie wird diese Prozentzahl sich weiter entwickeln? FaceImBook und WeltAmDraht. Zeit für ein FutureModel.

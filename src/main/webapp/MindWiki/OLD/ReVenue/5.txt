@@ -1,0 +1,14 @@
+Bisherige Käufe im MindShop:
+
+||On     ||Product            ||Sold by      ||KundIn          ||# ||Price (brutto)||MWST||Price(netto||Currency
+|20090922|LockCoupon          |LockSchuppenAg|RegineZiolko     |  1|  10|1,90|8,10 | EuRo
+|20090906|LockCoupon          |LockSchuppenAg|RainerWasserfuhr |  1|   1|0,19|0,81 |EuRo
+|20090906|LockCoupon          |LockSchuppenAg|HeidiGallinat    |  1|  20|3,80|16,20 | EuRo
+|20090904|LockSchuppenVisit   |LockSchuppenAg|IrisSchilke      |  1|   5|0,95|4,05 | EuRo
+|20090904|LockSchuppenVisit   |LockSchuppenAg|ThiemoMaettig    |  1|   5|0,95|4,05 | EuRo
+|20090904|LockSchuppenVisit   |LockSchuppenAg|RaikFischer      |  1|   5|0,95|4,05 | EuRo
+|20090904|LockSchuppenVisit   |LockSchuppenAg|MarcelBoehme     |  1|   5|0,95|4,05 | EuRo
+|200906??|SingularSummitEurope|LockSchuppenAg|ChristianHeller  |  1|  32|6,08|25,92 | EuRo
+|20090519|MindBanner          |MindBroker    |ThomasKujawa     |  1|2000||| | KaGr
+
+Unsere UmsatzPrognose.

@@ -1,0 +1,12 @@
+* MindArmy
+* MindBar
+* MindFamily
+* MindHealth
+* MindHotel
+* MindParty
+* MindSchool
+* MindZivi
+* SportPortal
+* UnserNachbar
+
+alles nur echt mit MindBrokerId.

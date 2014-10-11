@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Richard_von_Weizsäcker], [OpenCyc:RichardVonWeizsacker]
+* JahrGang: 1920
+* BirthDay: 04-15

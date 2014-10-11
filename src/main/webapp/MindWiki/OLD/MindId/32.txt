@@ -1,0 +1,12 @@
+A unique ID for each and every mind on PlanetErde!: http://id.mindbroker.de/
+
+Ist das zentrale Login für jede WebApp, die UnserGrid hostet.
+
+Jeder MindBroker kann mit einer einmaligen Registrierung und einem einmaligen Login verschiedene WebApps nutzen.
+
+Erste WebApps mit MindId:
+* http://bank.mindbroker.de/: PieschenBank
+* http://inbox.mindbroker.de/: InBox
+* http://blog.mindbroker.de/: MindBlog
+
+Später: OpenId für jeden User einer MindBroker-WebApp.

@@ -1,0 +1,3 @@
+* MindTags: ProFessor
+* MindSkill: BrainComputerInterface
+* HomePage: http://neuroscience.brown.edu/donoghue.html

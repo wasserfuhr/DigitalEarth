@@ -1,0 +1,58 @@
+;
+;
+;{{{
+
+((defn facebook []
+    (str "
+    <fb:dashboard> 
+      <fb:action href='new.php'>Create a new photo album</fb:action> 
+    </fb:dashboard>
+
+    <fb:editor action='?do-it'> 
+       <fb:editor-text label='Title' name='title' value=''/>
+       <fb:editor-text label='Author' name='author' value=''/>
+       <fb:editor-custom label='Status'> 
+         <select name='state'> 
+           <option value='0' selected>have read</option>
+           <option value='1'>am reading</option>
+           <option value='2'>want to read</option>
+         </select> 
+      </fb:editor-custom> 
+       <fb:editor-textarea label='Comment' name='comment'/>
+       <fb:editor-buttonset>  
+         <fb:editor-button value='Add'/> 
+          <fb:editor-button value='Recommend'/>
+        <fb:editor-cancel />  
+     </fb:editor-buttonset>
+    </fb:editor>"
+ ;    (apply str (map (fn [x] (str x ": " (.getParameter request x) "<br/>")) 
+  ;     (enumeration-seq (.getParameterNames request))))
+;     (apply str (.getParameterValues request))
+   ;  (enumeration-seq (.getParameterNames request))
+     " <br/> "
+     (.getParameter request "title")
+     " <br/> "
+     (.getParameter request "author")
+     " <br/> "
+     (.toString request) 
+     " <br/> "
+    (let [prop (new java.util.Properties)]
+       (do
+         (.load prop (new java.io.FileInputStream "/mnt/home/noopolis/fb.props")) 
+         (.getProperty prop "secret")))
+         
+       "::"  (.getAttribute request "requestAttribute") "."
+/*         (.getUserId
+     ;     (cast net.sf.fb4j.FacebookSession
+      ;     .getFacebookSession
+       ;    (cast net.sf.fb4j.canvas.CanvasRequest
+        ;     (.getAttribute request "requestAttribute"))
+         ;  ))) */
+
+    "
+<fb:request-form type='friends connection' content='hello MindBroker' invite='true'
+                 action='http://apps.facebook.com/mindbroker'>
+  <fb:multi-friend-selector rows='4' actiontext='Connect yourself with other CitiZens' />
+</fb:request-form>")))
+
+;}}}

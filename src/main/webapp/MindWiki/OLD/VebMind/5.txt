@@ -1,0 +1,57 @@
+Ein ehemaliges experimentelles UnterNehmen als RechtsForm in DeutschLand und Vorstufe der MindBrokerAg.
+
+Die VebMind wurde 20071219 unter Zustimmung aller Gesellschafter aufgelöst. Es erfolgten keine buchhalterisch
+relevanten Trankaktionen.
+
+Wir hatten folgenden VerTrag:
+
+Satzung:
+* Alle aktuellen Unterzeichner dieses Vertrages sind Gesellschafter des VebMind gemäß der VerFassung von NooPolis.
+* Der Gesellschaftsvertrag besteht aus der Satzung und sonstigen Regeln
+* Alle Regeln in diesem VerTrag sind wie bei einem NoMic-Spiel veränderbar.
+* Keine Regeländerung gilt rückwirkend.
+* Änderungen der Satzung erfordern die Zustimmung aller Gesellschafter mit mehr als 1000 KayGroschen.
+* Regeländerungen gelten als von allen Gesellschaftern angenommen, wenn kein anderer Gesellschafter der Änderung binnen Veto-Frist durch editieren im Wiki widerspricht.
+* Die Veto-Frist beträgt 3 Tage. Falls ein Gesellschafter länger AbWesend ist, kann er die Frist während der Abwesenheit auf 14 Tage erhöhen.
+* Bei Meinungsverschiedenheiten kommt es zu einem MindVote unter allen Mitspielern. Es entscheidet dabei die einfache Mehrheit der KayGroschen.
+* Jeder Gesellschafter kann auf seiner Seite im AgWiki einen Abgeordneten für seinen MindVote festlegen. Der Abgeordnete kann bei Abstimmungen mit den Stimmanteilen des Gesellschafters abstimmen.
+* Jeder Spieler hat das Recht, jederzeit aus dem Spiel auszusteigen. Der Ausstieg gilt als vollzogen, wenn der Ausstieg im Wiki editiert wurde.
+* Die Urversion des Vertrags ist das SocialBackup des AgWiki 20070719 mit MD5-Sum acc20cb175455be04a7b3afb7b4a6579.
+* Die UrGesellschafter unterzeichnen einen Ausdruck dieser Wikiseite mit ihrem Schweiß und Blut.
+* Dies wird das letzte und einzige Dokument der Gesellschaft auf Papier sein.
+* Der Zweck der VebMind ist es, Profit zu machen und diesen an aktuelle Mitgesellschafter auszuschütten. 
+* Geschäftsinhalt ist der Verkauf von Dienstleistungen.
+* Jeder Gesellschafter kann eine oder mehrere der folgenden Funktionen erfüllen:
+** Investor
+** Dienstleister
+** Bezieher von UnterHalt.
+* Jeder Gesellschafter kann seine Dienste der Gesellschaft gegen KayGroschen zum Kauf anbieten. Erbrachte Leistungen werden gemäß einem vorher festzulegenden Wirksatz als KayGroschen seinem Konto gutgeschrieben.
+* Einnahmen aus dem MindShop fließen entsprechend der Anteile der KayGroschen ebenfalls am Jahresende durch Überweisung an die Gesellschafter.
+* Gesellschafter führen ein LeistungsKonto mit EUR und KayGroschen.
+* Gesellschafter und Lieferanten erbringen MindService.
+* Jeder MindService kann entlohnt werden als
+** PayOut (einmalig)
+** MindShare (Anteile an der Gesellschaft)
+* Änderungen bei KayGroschen werden im MindFloor protokolliert.
+* Die BuchHaltung merkt sich jede EinNahme und AusGabe.
+* Die AusSchuettung der Erlöse aus erbrachten Diensten erfolgt jeweils am Jahresende durch Überweisung an ein Bankkonto des Gesellschafters.
+* Jeder Gesellschafter versteuert seine Einnahmen selbst im Rahmen seiner jährlichen Einkommenssteuererklärung
+* Haftende Gesellschafter sind RainerWasserfuhr (97%) und NN (3%).
+
+Sonstige Regeln:
+* Die Gesellschafter streben einen Unternehmenswert von 100kEUR für den 1.8.2008 an.
+
+Unterzeichner: RainerWasserfuhr, YvonneSchubert, OliverGassner
+
+UrGesellschafter: RainerWasserfuhr, YvonneSchubert.
+
+Philosophie des Vertrags:
+* Der Vetrag ist ein NoMic-Spiel mit echtem Kapital.
+* MindBroker ist ein Unternehmen nach dem LeaderShip-Modell des BenevolentDictator.
+* BenevolentDictator von MindBroker ist RainerWasserfuhr.
+* KayGroschen sollen widerspiegeln, in wieweit Gesellschafter 
+** Arbeitsleistung
+** Kapital (Einlagen und Entnahmen) eingebracht haben.
+* Der VerTrag soll so einfach wie möglich sein.
+* Wenn allgemeine gesetzliche Vorgaben existieren, sollten sie nicht im VerTrag wiederholt werden.
+* Der VEB mindbroker GbR ist SelbstOrganisation in Reinkultur.

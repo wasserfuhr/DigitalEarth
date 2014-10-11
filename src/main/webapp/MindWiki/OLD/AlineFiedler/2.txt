@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Aline_Fiedler]
+* JahrGang: 1976
+* BirthDay: 07-03
+* HomePage: http://www.aline-fiedler.de/
+* ParteiWiki: CduWiki

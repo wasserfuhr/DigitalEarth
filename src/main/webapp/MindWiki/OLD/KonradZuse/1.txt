@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Konrad_Zuse]
+* BirthDay: 06-22
+* HasTalked: BillGates

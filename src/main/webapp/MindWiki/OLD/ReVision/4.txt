@@ -1,0 +1,33 @@
+Jede Änderung einer WikiPage im MindWiki wird als neue ReVision gespeichert und kann durch MindClick im JspWiki unten rechts auf das Datum jeder WikiPage als [DeWikiPedia:Diff] dargestellt werden.
+
+Das ist auch praktisch für den TotalRecall.
+
+||ReVision's||WikiPage||MovedTo
+|469|WasWyrd |WikiLender
+|269|[Main] |MindBroker
+|224|RainerWasserfuhr
+|210|DoIt
+|167|ImmerWieder|ReDo
+|145|WikiLender
+|124|MindPeople
+|108|SocialBackup
+| 85|NooPolis
+| 79|MindBroker
+| 69|HappyBirthday
+| 68|VerFassung
+| 64|ToDo |DoIt
+| 62|HeikeRibke
+| 61|DueckWiki
+| 60|MindLine |UnTil
+| 60|InterWiki
+| 59|MindBib
+| 54|WikiTchen
+| 54|RealFilm
+| 54|MitWirkende
+| 53|MindBrokerAg
+| 52|LeftMenu
+| 48|FavIcon
+| 46|PostAmt
+| 42|SocialNetwork
+| 42|SingularityMind
+| 41|MindId

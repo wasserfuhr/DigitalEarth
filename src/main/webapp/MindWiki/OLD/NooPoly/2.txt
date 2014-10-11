@@ -1,0 +1,1 @@
+gibt es nicht wirklich. Ist sowas wie MonoPoly, aber auf einer FutureMap: __FutureGame__.

@@ -1,0 +1,14 @@
+* HomePage: http://www.talkthefuture.com/
+
+Keynotes:
+* AndrewMcAfee
+* DonTapscott
+* BretSwanson
+
+Speaker:
+* DirkRiehle
+* FranzJosefRadermacher
+* TomAustin
+* AndreasSchieder
+* TinaReisenbichler
+* ...

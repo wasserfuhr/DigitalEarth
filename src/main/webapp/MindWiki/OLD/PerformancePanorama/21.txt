@@ -1,0 +1,52 @@
+Proposal for the system architecture of TerraMind (Background: http://wasserfuhr.com/nodes/node.jsp?id=606 )
+
+!MindEvent's:
+Typical events for a MiNd which is in the 2nd upper [WikiPedia:Quartile] of the PowerLaw distribution of user activity:
+||#Events||per||MindApi||SocialObject||do
+|1  |life |MindId      |User    |register
+|2  |year |MindId      |Password|change
+|5  |year |MindId      |User    |logout
+|2  |month|MindId      |Trust   |confirm
+|2  |month|MindId      |User    |login
+|1  |month|MindFeeds   |Feed    |subscribe
+|1  |month|MindVote    |Vote    |create
+|1  |week |MindFeeds   |Feed    |subcribe
+|2  |week |MindFeeds   |Feed    |setFolder
+|2  |week |MindBlog    |Posting |comment
+|2  |week |MindWiki    |Fave    |create
+|2  |week |TrueMan     |Beard   |shave
+|3  |week |TrueMan     |Napoleon|veniVici
+|3  |week |DiOtiMa     |Mumu    |flood
+|3  |week |MindWiki    |Page    |create
+|3  |week |MindCal     |Event   |create
+|3  |week |MindId      |WebSession|start
+|3  |week |InBox       |Message |send
+|3  |week |InBox       |Message |read
+|3  |week |TrueMan     |Beard   |shave
+|5  |week |MindWiki    |Page    |edit
+|5  |week |MindVote    |Vote    |vote
+|5  |week |PieschenBank|Payment |pay
+|3  |day  |DoItProject |Item    |done
+|4  |day  |MindWiki    |Page    |view
+|4  |day  |DoItProject |Item    |create
+|1  |day  |BuergerInnen|MiNd    |husch
+|2  |day  |MiNd        |InBody  |shit
+|2  |day  |InBody      |Teeth   |brush
+|8  |day  |MiNd        |InBody  |pee
+|10 |day  |WunderKind  |InBody  |shit
+|1  |hour |InBody      |Mouth   |drink
+|10 |hour |MindFeeds   |Feed    |check
+|10 |hour |MindFeeds   |Feed    |markAsRead
+|15 |hour |InBody      |Mouth   |bite
+|20 |hour |MindBrowser |Page    |click
+|3  |min  |MiNd        |Eye     |blink
+|15 |min  |MiNd        |InBody  |breathe
+|20 |min  |MiNd        |Eye     |blink
+|1  |sec  |MiNd        |Heart   |beat
+|2  |sec  |WunderKind  |Heart   |beat
+|10 |msec |MiNd        |Neuron  |fire
+
+!System events:
+||Events||per||WebApp  ||SocialObject||do
+|1  |sec  |UnserGrid   |WepApp       |checkStatus
+|-3 |msec |WebApp      |HttpServlet  |service

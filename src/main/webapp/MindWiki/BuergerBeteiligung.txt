@@ -1,0 +1,22 @@
+Die Verwaltung von NooPolis ist geprägt von Transparenz und BuergerBeteiligung . 
+
+Die Bürger von NooPolis haben die FreiHeit, über den HausHalt mitzubestimmen.
+
+Dazu finden regelmäßige virtuelle BuergerVersammlung'en statt. 
+
+14 Tage vor diesem Termin können alle im RechenschaftsBericht nachlesen, was in der Vergangenheit geschah und welche Fragen zur Entscheidung anliegen. 
+
+Zu Beginn wird es noch keine Zwischenstufen in der Hierarchie geben. 
+
+Ergebnis der Diskussion der BuergerVersammlung ist die Edition der Seite HausHalt.
+
+Der dortige Haushaltsentwurf gilt als angenommen, wenn binnen 14 Tagen kein Bürger durch Edition widerspricht. 
+
+
+Beim BarCamp Jena schlug CemBasman vor, für ein GeschaeftsModell eine prägnante Story zu finden.
+Die Story von NooPolis könnte die der FreiHeit sein: Grundsätzlich dürfen alle BuergerInnen alles:
+* das MindWiki einschliesslich VerFassung und HausHalt editieren
+* den SourceCode sehen und verändern
+etc. Der Rest von NooPolis widmet sich dann der Frage, wenn sich Freiheiten wechselseitig ausschliessen: zB wenn der HausHalt nur begrenzte Mittel hat. Dann einigen sich die BuergerInnen auf Verfahren, wie diese Haushaltsmittel verwendet werden, indem sie die Gesamtfreiheit aller BuergerInnen optimieren.
+
+Grundlage dafür ist eine VerAntwortung's-tragende MindId. Viele technische Bereiche im 21. Jahrhundert sind deshalb kaputt, weil Nutzer oder deren automatische Skripte VerAntwortung verschleiern: ZB Spam (per Email, Blogs, Wikis oder SecondLife) ist eine technische Lücke im System, bei dem Identität verschleiert wird.

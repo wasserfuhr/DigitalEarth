@@ -1,0 +1,10 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Alan_Kay] [ThoughtStorms:AdSense] [WikiPedia:Alan_Kay]
+* BornIn: 1940
+* BirthDay: 05-17
+* DbLp: http://dblp.uni-trier.de/rec/pid/k/AlanCKay
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcDermott RichardFikes TomGruber JayTenenbaum AlanKay
+
+* Namensgeber für KayGroschen
+* Kopf von CroQuet. Btw: Es gibt derzeit weder ein Währungssystem noch eine VerFassung noch eine WorldBank für verteilte PeerToPeer-CroQuet-Welten.

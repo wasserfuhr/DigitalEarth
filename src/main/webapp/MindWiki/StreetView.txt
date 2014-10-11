@@ -1,0 +1,4 @@
+* MindTags: FutureCard
+* InterWiki: [LangReiter:Google+Maps+Street+View], [WikiPedia:Google_Street_View]
+* PreDict: Auf seinem AnDroid-MindPhone hat RainerWasserfuhr ein Knöpfchen, mit dem er in RealTime sein OptIn/OptOut geben kann ob sein Gesicht bei StreetView dargestellt oder ausgeblurred werden soll.
+* UnTil: 2014

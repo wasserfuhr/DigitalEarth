@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/SigridESchubert
+* HomePage: http://www.die.informatik.uni-siegen.de/lehrstuhl/schubert/
+* PagePath: ... KurtMehlhorn VolkerClaus SigridSchubert

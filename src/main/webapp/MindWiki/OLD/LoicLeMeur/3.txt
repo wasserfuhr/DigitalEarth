@@ -1,0 +1,9 @@
+* MindTags: MindPeople,UnterNehmer
+* InterWiki: [WikiPedia:Loïc_Le_Meur]
+* SprachWelt: fr,en-4-accent, ru
+* HomePage: http://www.loiclemeur.com/
+* CurrentProjects: SeesMic
+* UsElection08: BarackObama
+||AusLand
+|[TwittEr:loiclemeur]
+|[XingLe:Loic_LeMeur]

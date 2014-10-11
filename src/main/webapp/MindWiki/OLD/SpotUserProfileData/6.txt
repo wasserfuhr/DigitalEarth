@@ -1,0 +1,30 @@
+[Registrierung]
+*Benutzername
+*Email
+*Passwort
+
+PersönlicheDaten
+*Vorname
+*Nachname
+*Geschlecht
+*Geburtsdatum
+*Land
+*Stadt
+*Postleitzahl
+*Straße
+*Heimatstadt
+*Handynummer
+*Größe
+*Gewicht
+*Beruf
+
+[SportDaten]
+*Sportarten
+*Lieblingsnummer
+*Bisherige sportliche Kariere
+*lieblings Manschaften
+*lieblings Ligen
+*lieblings Sportler
+*lieblings Sportfilme
+
+

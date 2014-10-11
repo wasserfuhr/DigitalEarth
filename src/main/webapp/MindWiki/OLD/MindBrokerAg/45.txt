@@ -1,0 +1,37 @@
+[[az:ذهن]]
+[[de:Geist]]
+[[en:Mind]]
+[[eo:Menso]]
+[[es:Mente]]
+[[fi:Mieli]]
+[[fr:Esprit]]
+[[hr:Um]]
+[[ia:Mente]]
+[[it:Mente]]
+[[ja:心]]
+[[lt:Protas]]
+[[nl:Geest]]
+[[pl:Umysł]]
+[[pt:Mente]]
+[[simple:Mind]]
+[[sq:Mendja]]
+[[zh-min-nan:Sim]]
+
+Eine eingeschworene Gemeinschaft von stilbewussten MindTueftel-begeisterten DenkSport'lern und BoersenSpiel'ern
+mit virtuellem Spielgeld von 50.000 MindShares zu 1 KayGroschen.
+MindLine: Irgendwann 2007 im VereinsRegister der StadtDresden eingetragen? MindVote!
+
+Organe: HauptVersammlung, VorStand, AufSichtsRat.
+
+!MitWirkende:
+||MindBroker||MindShares||WettReserve||%*)||IpoKurs||Aktueller Kurs
+|RainerWasserfuhr|35.988|30|67|10,00|9,501
+|DanielPoodratchi|9.999|10|20|4,50|3,5
+|AndreasWeigel|2.501| |5| |2,501
+|OliverGassner|2.500| |5| |
+|YvonneSchubert|1.500| |3|5,00|1,505
+|TimBonnemann|100| | |    |
+|RicardaDHerbrand|10| |0.01 |    |
+  *): Bei n>1 wird kaufmännisch gerundet. Diese Spalte ist maßgeblich beim StillGestanden.
+
+Idee von DanielPoodratchi: DesignArtAndClothes

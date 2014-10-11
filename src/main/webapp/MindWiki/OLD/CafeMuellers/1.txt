@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* HomePage: http://www.cafe-muellers.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/251384929

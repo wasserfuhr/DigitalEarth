@@ -1,0 +1,5 @@
+MindVote: Ein echter MindBroker surft mit:
+
+||MindBrowser||MindVote
+|FireFox     |RainerWasserfuhr
+|FlockBrowser|UteMoritz

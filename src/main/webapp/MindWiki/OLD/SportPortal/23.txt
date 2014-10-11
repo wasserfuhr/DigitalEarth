@@ -1,0 +1,22 @@
+Während andere noch an teure, starre Portale glauben, macht die VebMind einfach ein SportWiki.
+
+Tabelle:
+||Url                              ||UserOwned||WikiBased||OpenSource||OpensStats||Finanzierung   ||Umsatz
+|http://sport.mindbroker.de/       |ja        |ja       |ja         |ja         |50k KayGroschen |100 EUR
+|http://sportme.de/                |nein      |nein     |nein       |nein       |ja              |0
+|http://netzathleten.de/           |nein      |nein     |nein       |nein       |???             |0
+|http://www.championsworld.de/     |nein      |nein     |nein       |nein       |2m EUR          |0
+|http://www.spielerkabine.net/     |nein      |nein     |nein       |nein       |???             |0
+|http://www.vereinsheim.de/        |nein      |nein     |nein       |nein       |???             |0
+|http://meinverein24.de/           |nein      |nein     |nein       |nein       |???             |0
+|http://www.hartplatzhelden.de/    |nein      |nein     |nein       |nein       |???             |0
+|http://www.die-fans.de/
+|http://www.sport-id.de/
+|http://www.sportleronline.de/
+|http://www.sportsvite.com/
+|http://www.fanground.de
+
+Potentielle Kooperationspartner:
+* http://gaysquash.de/
+* http://www.tanzportal-thueringen.de/
+* Unisport

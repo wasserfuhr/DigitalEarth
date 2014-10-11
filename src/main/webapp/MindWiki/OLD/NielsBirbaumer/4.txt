@@ -1,0 +1,6 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Niels_Birbaumer]
+* HomePage: [http://www.mp.uni-tuebingen.de/mp/index.php?id=62]
+* JahrGang: 1945
+* BirthDay: 05-11
+* MindSkill: BrainComputerInterface

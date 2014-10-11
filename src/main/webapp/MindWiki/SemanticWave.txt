@@ -1,0 +1,7 @@
+GoogleWave+SemanticWeb?
+
+BrainStorm:
+* a wave as ReSource with unique CamelCase-PageName.
+* SparQl'ing the entire WaveSphere.
+* a wave contains a ReVision'ed set of StateMent's about the ReSource
+* WaveBot's do EnTail'ment (cached as JavaScript state variables)

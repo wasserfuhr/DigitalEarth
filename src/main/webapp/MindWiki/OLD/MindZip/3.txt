@@ -1,0 +1,7 @@
+A ComPression of the  MindWiki-content as JspWiki-Textfiles.
+
+{{{
+zip -rq apache-tomcat-6.0.14/webapps/ROOT/mind.zip wiki wiki-files
+md5sum apache-tomcat-6.0.14/webapps/ROOT/mind.zip
+ls -l apache-tomcat-6.0.14/webapps/ROOT/mind.zip 
+}}}

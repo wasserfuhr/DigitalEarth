@@ -1,0 +1,6 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Albert_Einstein], [OpenCyc:AlbertEinstein]
+* JahrGang: 1879
+* BirthDay: 03-14
+* LebensEnde: 1955
+* MindQuote: "Gott würfelt nicht."

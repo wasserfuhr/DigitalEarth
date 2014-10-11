@@ -1,0 +1,12 @@
+* alt
+* apfel
+* backspace
+* caps lock
+* control
+* cursor/pfeil auf ab rechts links
+* enter/return
+* esc
+* fn
+* shift
+* space
+* tab

@@ -1,0 +1,29 @@
+* InterWiki: [DeWikiPedia:Virtual_International_Authority_File]
+* HomePage: http://www.d-nb.de/wir/projekte/viaf_info.htm
+
+ToDo: SameAs:
+* JacquesHerbrand: http://viaf.org/viaf/61912155 http://viaf.org/viaf/24739214
+* MarkusWasserfuhr: http://viaf.org/viaf/40492973 http://viaf.org/viaf/49022351
+* OliverGassner: http://viaf.org/viaf/28143094 http://viaf.org/viaf/28173695
+* RayKurzweil: http://viaf.org/viaf/62387199 http://viaf.org/viaf/27286496
+* ZigaTurk: http://viaf.org/viaf/80976012 http://viaf.org/viaf/16913270
+
+* http://viaf.org/viaf/15 LouisAntoineDePardaillanDeGondrin
+* http://viaf.org/viaf/27 Cauna, Bernard Augustin ...
+* http://viaf.org/viaf/36 CharlesDeNeufville
+* http://viaf.org/viaf/43 FelixPlatel
+* http://viaf.org/viaf/62 TommasoValguarnera
+* http://viaf.org/viaf/89 Do Van Hoanh
+* http://viaf.org/viaf/91 FelixMoustier
+* http://viaf.org/viaf/109 EnriqueBeck
+* http://viaf.org/viaf/113 De Santis, Angelo
+* http://viaf.org/viaf/121 Flory A.
+* http://viaf.org/viaf/132 Trúc Viên
+* http://viaf.org/viaf/1000004 KarlEble
+* http://viaf.org/viaf/10000006 LanteaumeDeRomieu
+* http://viaf.org/viaf/20000007 NicolasSendrier
+* http://viaf.org/viaf/29546132 LotharZoegner
+* http://viaf.org/viaf/29546145 NiklasLuhmann
+* http://viaf.org/viaf/29546150 AlexandreCabral
+* http://viaf.org/viaf/39467397 BenGoertzel
+* http://viaf.org/viaf/52481432 JesusChrist

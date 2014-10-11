@@ -1,0 +1,2 @@
+* IsA: NaturalLanguage
+* InterWiki: [DeWikiPedia:Deutsche_Sprache]

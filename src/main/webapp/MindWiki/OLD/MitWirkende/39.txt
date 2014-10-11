@@ -1,0 +1,24 @@
+Bisherige MitWirkende:
+
+||MindId||1)||OrderedByShares ||svn     ||MindMac
+| 1|x|RainerWasserfuhr |rainer   |neptun  
+| 3| |DanielPoodratchi |daniel   |adonis  
+| 5| |AndreasWeigel    |andreasw |othello 
+|  |x|OliverGassner    |         |   
+| 2|x|YvonneSchubert   |yvonne   |nana    
+|  | |TimBonnemann     |tim      |     
+| 4| |RicardaDHerbrand |         |     
+|  | |DimitriUwarov    |dimitri  |   
+|  | |JensWegerle      |         |    
+|  | |JuergenKohn      |juergen  |        
+|  | |AlexanderGola    |         |        
+|  | |HagenStanek      |hagen    |                    
+|10| |ChristineSchlinck|tine     |triton
+
+1) Gesellschafter von MindBroker.
+
+Siehe weiter: http://id.mindbroker.de/ausland
+
+Hinzukommen können eventuell:
+* Michael B. - JSP, JS Developer
+* AurelienEyoum

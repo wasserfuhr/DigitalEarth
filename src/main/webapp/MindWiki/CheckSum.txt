@@ -1,0 +1,3 @@
+CheckSum used for SocialBackup: [DeWikiPedia:Message-Digest_Algorithm_5]
+
+The CheckSum uniquely identifies each file with a "fingerprint".

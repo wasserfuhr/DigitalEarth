@@ -1,0 +1,2 @@
+* InterWiki: [DeWikiPedia:Frau], [OpenCyc:FemaleHuman]
+* IstEin: HuMan

@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Vinod_Khosla]
+* JahrGang: 1955
+* BirthDay: 01-28
+|[TwittEr:vkhosla]

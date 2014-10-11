@@ -1,0 +1,5 @@
+* IsA: CoWorkingSpace
+* PartOf: TheHub BrusSels
+* HomePage: http://brussels.the-hub.net/public/
+* OpenStreetMap: http://www.openstreetmap.org/index.html?mlat=50.845833&mlon=4.351944&zoom=11
+|[TwittEr:hubbrussels]

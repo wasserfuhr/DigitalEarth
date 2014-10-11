@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: -6.19
+* LaengenGrad: 146.5
+* BoundingBox: 1200
+* MindCount: 5500000

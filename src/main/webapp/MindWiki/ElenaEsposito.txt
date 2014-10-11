@@ -1,0 +1,3 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Elena_Esposito]
+* BirthDay: 10-21

@@ -1,0 +1,9 @@
+* MindTags: MindPeople
+* JahrGang: 1941
+* WohnSitz: GrueterichEins
+* EheRinge: AbWw
+* MindFaves: KonradAdenauer
+* XingId: 8540657
+||AusLand
+|[XingLe:Werner_Wasserfuhr]
+|[TwittEr:wernerw]

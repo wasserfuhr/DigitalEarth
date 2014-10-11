@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* InterWiki: [OpenCyc:WilliamShatner]
+* BirthDay: 03-22
+||AusLand
+|[TwittEr:WilliamShatner]

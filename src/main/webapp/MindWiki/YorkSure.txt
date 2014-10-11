@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* EnsId: http://www.okkam.org/entity/ok200706201184924909726
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/YorkSure
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker RudiStuder YorkSure

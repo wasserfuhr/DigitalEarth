@@ -1,0 +1,21 @@
+Definition von "AlphaTester": Leute den man vertrauen kann, dass sie ggf. Vertraulichkeit über das Projekt bewahren.
+
+Vorschläge:
+||p||Vorname||Nachname||m/f||Name @(*)||Einladungsmaildomain(*)||Einlader||Xing
+|p|Alexander|Gola    |m|alex|alexander-gola.com               |rainer|https://www.xing.com/profile/Alexander_Gola/|
+|p|Dimitri|Uwarov    |m|diuw|combots.com                      |rainer|https://www.xing.com/profile/Dimitri_Uwarov|
+|p|Lisanne|Malessa   |f| |                                    |daniel|
+|?|Martin|Röll       |m|martin|roell.net|rainer|https://www.xing.com/profile/Martin_Roell/ 
+|?|Matthias|Kehrer   |m|matthias.kehrer|de.ibm.com|daniel|https://www.xing.com/profile/Matthias_Kehrer/ 
+|?|Oliver|Schmitt    |m|oliver|schmitt-happens.de|daniel|https://www.xing.com/profile/Oliver_Schmitt13
+|p|Oliver|Gassner    |m|kontakt|carpe.com|rainer|https://www.xing.com/profile/Oliver_Gassner/ 
+|p|Ricarda|Herbrand    |m|mail|ricarda-herbrand.de|rainer|https://www.xing.com/profile/RicardaD_Herbrand/
+|?|Tim|Bonnemann     |m| |                                    |rainer |https://www.xing.com/profile/Tim_Bonnemann/
+|?|Uwe|Angerstein    |m| |                                    |rainer|https://www.xing.com/profile/Uwe_Angerstein/
+|p|Yvonne|Schubert   |f|info|yvonneschubert.com               |rainer|https://www.xing.com/profile/Yvonne_Schubert/
+(*): Diese beiden Spalten sind getrennt, damit Spambots hier keine Adressen sammeln.
+
+
+
+1. Spalte:
+p= Nutzer ist damit einverstanden, dass seine Daten in dieser Form hier veröffentlich werden können (dh sobald SpotWiki mal völlig public sein sollte)

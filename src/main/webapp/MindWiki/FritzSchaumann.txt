@@ -1,0 +1,9 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Fritz_Schaumann]
+* BornIn: 1946
+* BirthDay: 04-22
+* DbLp: http://dblp.uni-trier.de/rec/pid/53/4008
+* PageNumber: InFinite
+* ParteiWiki: FdpWiki
+
+JacobsUniversity

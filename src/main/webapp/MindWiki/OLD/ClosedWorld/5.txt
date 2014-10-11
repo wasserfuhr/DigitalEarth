@@ -1,0 +1,5 @@
+A strategy to create NewMind, inspired by [WikiPedia:Closed_world_assumption]:
+
+Everything enters the WorldModel via well defined channels, like during TheExperiment.
+
+Inside the ClosedWorld, everything is TransParent and deeply InterTwing'led into a Neuro-SemanticWeb.

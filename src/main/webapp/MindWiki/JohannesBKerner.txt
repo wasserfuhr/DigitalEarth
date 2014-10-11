@@ -1,0 +1,3 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Johannes_B._Kerner]
+* BirthDay: 12-09

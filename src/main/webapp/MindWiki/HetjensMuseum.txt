@@ -1,0 +1,17 @@
+* MindTags: MindPlace
+
+TuringTest:
+{{{
+User: 
+When is the HetjensMuseum opened?
+ 
+System: 
+From 10 a.m. to 5 p.m. 
+
+User: 
+What does the entrance cost? 
+
+System: 
+2 DM.
+}}}
+([*|http://www.ki2006.fb3.uni-bremen.de/pdf/6_wahlster.pdf])

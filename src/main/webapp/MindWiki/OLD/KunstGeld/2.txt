@@ -1,0 +1,2 @@
+||EuRo||SerialNumber||Owner
+|10|X43308830612|ChSc

@@ -1,0 +1,7 @@
+Ist das zentrale Login für jede WebApp, die UnserGrid hostet.
+
+Jeder MindBroker kann mit einer einmaligen Registrierung und einem einmaligen Login eine Vielzahl verschiedener sogenannter "Zones" nutzen. 
+
+Als nächstes wird man DoIt damit nutzen können.
+
+http://id.mindbroker.de/

@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Alfred_Horn_(Mathematiker)]
+* BornIn: 1918
+* BirthDay: 0217
+* DbLp: http://dblp.uni-trier.de/rec/pid/41/6684
+* PageNumber: InFinite

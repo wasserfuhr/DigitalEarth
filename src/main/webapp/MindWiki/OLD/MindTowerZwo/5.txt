@@ -1,0 +1,8 @@
+am Albertplatz. Neue Headquarters der PieschenBank ab 2010. Zur Planung des InVest für den MindTower.
+
+* http://www.das-neue-dresden.de/paulickhochhaus.html
+* [DeWikiPedia:Albertplatz_(Dresden)]
+
+* BreitenGrad: 51.064048
+* LaengenGrad: 13.746413
+* BoundingBox: 15

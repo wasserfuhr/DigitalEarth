@@ -1,0 +1,8 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.065129
+* LaengenGrad: 13.790187
+* BoundingBox: 50
+* HomePage: http://www.saloppe.de/
+* MindQuote: "Schwedinnen haben freien Eintritt!"
+
+TotalRecall: UpLoad, WindelWelt.

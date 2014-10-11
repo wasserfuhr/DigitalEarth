@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* HomePage: http://www.blue-dresden.de/
+* NearBy: AltmarktGalerie

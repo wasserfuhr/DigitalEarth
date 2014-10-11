@@ -1,0 +1,29 @@
+DoIt: Alle Menschen aus PageIndex hier auflisten.
+
+Später http://people.mindbroker.de
+
+
+* AgnesWasserfuhr
+* AlanKay
+* AlbanNikolaiHerbst
+* AlexWipperfuerth
+* AlexanderGola,  AlfredLiesecke, AndreasStuhlmueller,  AndreasWeigel,   AubreyDeGrey, AurelienEyoum, 
+BeetHoven,  BillSeitz,  BobHooda,  CemBasman,  ChristineSchlinck, 
+  DanielPoodratchi,  DeeHock,   DennisAdler,  
+DieterSchischke,  DimitriUwarov,  DirkRiehle,   EdmundHusserl, 
+  ErnstWilhelmNay,   FelixPetersen, 
+ GunterDueck, HagenStanek, 
+HillaryClinton, 
+  JamesJoyce,  JensFreydank,  JensWegerle, 
+  JohnNash,  JohnRobb,  JoiIto,  JosefBuechel,  JuergenKohn
+,  KarlJaspers,  KatharinaKuehnel,  
+ LarsHinrichs,   LionKimbro,   LuisVonAhn,  LukaszGadowski,   MarcCanter,  MarcPincus,  MarioSixtus,  MarkPincus,  MarkZuckerberg,  MarkenDisclaimer,  MartinVarsavsky, MichaelWagner,  MichaelaSchaffrath,
+ NicoHagenburger,  NoMic,  NoSmoking,  NoThing,  NobelPreis,  NooPolis,  NotRuf,  NovaSpivack
+,OliverGassner,  PeterEngels,  PierreKerchner, 
+ RaimarScherer,  RainerWasserfuhr,   ReidHoffman,  RicardaDHerbrand,  RicardaHuch,  RossMayfield, 
+ SebastianMitter, 
+  SergeyBrin, 
+  StefanKellner,  ,  SteveJurvetson,  TimBonnemann,  TinaPickhardt,  UteMoritz,  UtopischerKapitalismus
+ WarrenBuffett,   WernerWasserfuhr,    WolfgangSchaeuble,  WolfgangTiefensee,
+ YvonneSchubert,
+ZigaTurk

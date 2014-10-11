@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/31/6652
+* MarriedTo: EdwardFeigenbaum
+* PagePath: ... EdwardFeigenbaum
+
+BlackBoard

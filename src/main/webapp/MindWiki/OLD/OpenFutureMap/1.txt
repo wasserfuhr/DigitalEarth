@@ -1,0 +1,6 @@
+Consists of FutureCard's.
+
+Each FutureCard has
+* a page in the MindWiki
+* a CardOwner
+* an "UnTil"-value defined by the CardOwner

@@ -1,0 +1,32 @@
+wir sprachen in NooPolis anfangs gepflegtes denglish, aber mehr und mehr auch:
+
+Übersicht: http://www.mindbroker.de/synopsis
+
+||ISO 1)||# 2)||Name ||% 3)|| VerFassung||MindWiki   ||Übersetzer
+|zh|867|chinesisch   |  2|宪法         |XianFa        |RainerWasserfuhr
+|en|690|englisch     | 80|Constitution|ConStitution   |RainerWasserfuhr
+|hi|525|hindi        |  0|            |               |
+|es|447|spanisch     | 75|Constitucion|ConStitucion   |MarcoRibke,HeikeRibke,MartinVarsavsky??
+|fr|447|französisch  |  2|Constitution|LaConstitution |RainerWasserfuhr,LoicLeMeur??,JeffClavier??
+|ar|290|arabisch     |  0|دستور         |               |
+|ru|240|russisch     |  2|Конституция  |KonStituzija    |RainerWasserfuhr,DimitriUwarov
+|pt|218|portugiesisch|  2|Constituicao |ConStituicao  |RainerWasserfuhr
+|de|155|japanisch    |100|憲法         |               |JoiIto??
+|ja|127|deutsch      |  0|Verfassung   |VerFassung    |RainerWasserfuhr,HeikeRibke
+|ko| 78|koreanisch   |  0|헌법          |              |
+|tr| 70|türkisch     |  2|Anayasa      |              |CemBasman?
+|pl| 56|polnisch     |  0|Konstytucja  |KonStytucja   |
+|el| 12|griechisch   |  2|Σύνταγμα     |              |
+|bg|  9|bulgarisch   |  0|Конституция  |               |RainerWasserfuhr
+|lt|  4|litauisch    |  2|Konstitucija |KonStitucija  |IngridaPlunksnyte
+|sl|  2|slowenisch   |  2|Ustava       |UstavaNooPolis|ZigaTurk??
+|et|  1|estisch      |  0|Ustava       |UstavaNooPolis|SteveJurvetson??,RossMayfield??
+|lb|0.3|luxemburgisch|  0|Constitutioun|ConStitutioun |MartinRoell?
+|jbo| 0|lojban       |  0|lilbasni     |LilBasni      |RainerWasserfuhr
+
+Legende:
+* 1) Sprachcode nach ISO 639-1
+* 2) Zahl der Sprecher in Millionen
+* 3) Grad der Fertigstellung der Verfassungsübersetzung
+
+[DeWikiPedia:Weltsprache]

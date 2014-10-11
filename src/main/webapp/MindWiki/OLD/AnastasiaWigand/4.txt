@@ -1,0 +1,5 @@
+* IsA: PerSon
+* BornIn: 2010
+* BirthDay: 04-16
+
+Nichte von RoHu

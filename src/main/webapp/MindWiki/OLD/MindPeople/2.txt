@@ -1,0 +1,35 @@
+DoIt: Alle Menschen aus PageIndex hier auflisten.
+
+Später http://people.mindbroker.de
+
+
+* AgnesWasserfuhr
+* AlanKay
+* AlbanNikolaiHerbst
+* AlexWipperfuerth
+* AlexanderGola,  AlfredLiesecke, AndreasStuhlmueller,  AndreasWeigel,   AubreyDeGrey, AurelienEyoum, 
+BeetHoven,  BillSeitz,  BobHooda,  CemBasman,  ChristineSchlinck, 
+  DanielPoodratchi,  DeeHock,   DennisAdler,  
+DieterSchischke,  DimitriUwarov,  DirkRiehle,  
+
+
+E EcZwo,  EdmundHusserl, 
+  ErnstWilhelmNay,   FelixPetersen, 
+
+ GunterDueck, HagenStanek, 
+HillaryClinton, 
+  JamesJoyce,  JensFreydank,  JensWegerle, 
+  JohnNash,  JohnRobb,  JoiIto,  JosefBuechel,  JuergenKohn
+,  KarlJaspers,  KatharinaKuehnel,  
+
+L LarsHinrichs,   LionKimbro,   LuisVonAhn,  LukaszGadowski,   MarcCanter,  MarcPincus,  MarioSixtus,  MarkPincus,  MarkZuckerberg,  MarkenDisclaimer,  MartinVarsavsky,  MartinsMonologe,  MassRegelVollZug,  MathaIdaNordpolDora,  MavenRepo,  MessiMatrix,  MetaMatrix,  MetaUnterNehmen,  MichaelWagner,  MichaelaSchaffrath,  MillionDollarBoy,  Mind,  MindAcademy,  MindArmy,  MindBaggern,  MindBanner,  MindBet,  MindBlog,  MindBroker,  MindBrokerAg,  MindBrokerDe,  MindBrokerId,  MindBrokerIst,  MindBrokerKg,  MindBrokerSalon,  MindBrokerShop,  MindBrokerWerden,  MindCar,  MindCat,  MindChat,  MindCity,  MindCls,  MindCss,  MindErp,  MindEvent,  MindFamily,  MindFee,  MindFeeds,  MindFloor,  MindFutures,  MindGolfiere,  MindGruscheln,  MindHome,  MindHoster,  MindId,  MindIp,  MindKodex,  MindLine,  MindLust,  MindMac,  MindMe,  MindMessi,  MindMirror,  MindMood,  MindMove,  MindNavy,  MindOcean,  MindOne,  MindOs,  MindPenne,  MindPeople,  MindPhone,  MindPicNic,  MindPolis,  MindRiver,  MindSalon,  MindSalsa,  MindSchule,  MindSearch,  MindSex,  MindShare,  MindShip,  MindShop,  MindSnack,  MindSpeed,  MindStats,  MindStick,  MindTower,  MindTransfer,  MindTravel,  MindTrust,  MindTt,  MindTueftel,  MindVita,  MindVote,  MindWater,  MindWay,  MindYard,  MindYou,  MitWirkende,  MondBeben,  MondGesicht,  MorBid
+ NicoHagenburger,  NoMic,  NoSmoking,  NoThing,  NobelPreis,  NooPolis,  NotRuf,  NovaSpivack
+O OliverGassner,  PeterEngels,  PierreKerchner, 
+R RaimarScherer,  RainerWasserfuhr,   ReidHoffman,  RicardaDHerbrand,  RicardaHuch,  RossMayfield, 
+ SebastianMitter, 
+  SergeyBrin, 
+  StefanKellner,  ,  SteveJurvetson,  TimBonnemann,  TinaPickhardt,  
+U UhTopia,  UhTopie,  UmFrage,  UnWirr,  UnserAdVocat,  UnserBudget,  UnserDesigner,  UnserGrid,  UnserMindy,  UnserNotar,  UnserSlogan,  UnserSteuerberater,  UnsereBank,  UnsereBugs,  UnsereDoMains,  UnsereGeschichte,  UnsereMarken,  UnsereMotivation,  UnsereProjekte,  UnsereSorge,  UnterNehmer,  UnternehmensGruender,  UrWahl,  UtcConspiracy,  UteMoritz,  UtopischerKapitalismus
+ WarrenBuffett,   WernerWasserfuhr,    WolfgangSchaeuble,  WolfgangTiefensee,
+ YvonneSchubert,
+ZigaTurk

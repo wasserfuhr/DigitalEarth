@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Katarina_Witt]
+* BornIn: 1965
+* BirthDay: 12-03
+* ViAf: http://viaf.org/viaf/69726670

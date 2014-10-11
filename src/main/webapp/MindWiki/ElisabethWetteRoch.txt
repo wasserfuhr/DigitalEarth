@@ -1,0 +1,4 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/12/1747
+* HasTalked: RainerWasserfuhr MichaelRichter
+* PagePath: LarryPage ... ElisabethWetteRoch

@@ -1,0 +1,7 @@
+* IsA: MindPlace
+* InterWiki: [DdWiki:Schauburg]
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/33774048
+* BoundingBox: 40
+* HomePage: http://www.schauburg-dresden.de/
+
+RainerWasserfuhr ChristineSchlinck JulianNidaRuemelin

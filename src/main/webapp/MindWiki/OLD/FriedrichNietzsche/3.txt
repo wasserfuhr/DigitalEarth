@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Friedrich_Nietzsche], [OpenCyc:FriedrichNietzsche]
+* JahrGang: 1844
+* BirthDay: 10-15
+* LebensEnde: 1900

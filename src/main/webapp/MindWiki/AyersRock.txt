@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Ayers_Rock]
+* BreitenGrad: -25.345
+* LaengenGrad: 131.03
+* BoundingBox: 3000
+* SlimNess: 0.8
+* GraDient: 90

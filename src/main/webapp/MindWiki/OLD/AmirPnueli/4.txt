@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Amir_Pnueli]
+* BornIn: 1941
+* BirthDay: 0422
+* DiedIn: 2009
+* DbLp: http://dblp.uni-trier.de/rec/pid/p/AmirPnueli
+* PagePath: ... TomHenzinger ZoharManna AmirPnueli

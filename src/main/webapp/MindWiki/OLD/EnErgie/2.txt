@@ -1,0 +1,15 @@
+* HerKunft: "ἐν = in, innen und ἔργον = Werk, Wirken."
+* InterWiki: [DeWikiPedia:Energie], [OpenCyc:EnergyQuantity]
+
+Die EnErgie ist das fundamentale SocialObject im UniVerse der NooSphere.
+
+
+Noch ist die WeltFormel nicht fertig, deshalb kommt anfangs alle EnErgie aus dem RabbitHole.
+
+Jeder Fluss von EnErgie wird in dieser WikiTable beschrieben:
+
+||Am              ||Joule ||Von            ||Nach
+|20080910:1130MEST|    100|PfefferminzTee  |RainerWasserfuhr
+|20080910:1130MEST| 10.000|BeethovensSiebte|RainerWasserfuhr
+|20080910:1100MEST|100.000|RabbitHole|RainerWasserfuhr
+|20080909:2030MEST|  1.000|PrimoAmore|RainerWasserfuhr

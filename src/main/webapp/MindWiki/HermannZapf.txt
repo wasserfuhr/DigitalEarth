@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Hermann_Zapf]
+* JahrGang: 1918
+* BirthDay: 11-08
+* MindSkill: DingBat

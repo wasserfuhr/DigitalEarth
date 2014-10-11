@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:John_Perry_Barlow] [WebSeitz:JohnPerryBarlow]
+* BirthDay: 10-03
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/JPBarlow
+|[TwittEr:JPBarlow]

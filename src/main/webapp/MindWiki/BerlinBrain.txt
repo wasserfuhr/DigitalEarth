@@ -1,0 +1,8 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Philologische_Bibliothek_der_Freien_Universität_Berlin]
+* BreitenGrad: 52.45194
+* LaengenGrad: 13.2883
+* SlimNess: 0.9
+* GraDient: 0
+* BoundingBox: 65
+* HomePage: http://www.fu-berlin.de/bibliothek/philbib/

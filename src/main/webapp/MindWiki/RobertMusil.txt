@@ -1,0 +1,8 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Robert_Musil] [OpenCyc:RobertMusil]
+* MindQuote: "Ich bin nicht nur überzeugt, daß das, was ich sage, falsch ist, sondern auch das, was man dagegen sagen wird."
+* BirthPlace: KlagenFurt
+* BornIn: 1880
+* BirthDay: 11-06
+* DiedIn: 1942
+* MindSkill: RealRoman

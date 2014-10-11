@@ -1,0 +1,5 @@
+* HerKunft: "minus-teros: der Geringere, der Untergebene"
+* IstEin: MindPeople
+* RdfClass: http://xmlns.com/foaf/0.1/#Person
+
+[{INSERT ReferringPagesPlugin}]

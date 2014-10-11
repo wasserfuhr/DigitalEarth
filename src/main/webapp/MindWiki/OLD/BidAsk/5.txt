@@ -1,0 +1,6 @@
+||MindBroker||price||#
+|RainerWasserfuhr|10|100
+|RainerWasserfuhr|20|20
+|RainerWasserfuhr|500|10
+|RainerWasserfuhr|1.000.000.000.000|1
+

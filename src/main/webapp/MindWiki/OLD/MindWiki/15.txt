@@ -1,0 +1,18 @@
+Das Wiki von MindBroker: http://mindbroker.de/
+
+Alle BuergerInnen von NooPolis können als angemeldete Nutzer Seiten bearbeiten (JoinNow).
+
+Das MindWiki ist
+* ein semantisches neuronales Netz
+* für den DigitalTwin, eine digitale Simulation des Gehirns von RainerWasserfuhr
+* das kollektive Gehirn für NooPolis als TransParent'e WikiBasiert'e Republik und 
+* MindBroker als GlaesernesUnternehmen.
+
+!Seitenwachstum
+||Seiten||Datum
+|3500|20080923
+|3202|20080905
+|3000|20080825
+|2866|20080801
+
+Unser SocialGrid hostet es. Wie man auf jeder Seite unten links erkennt, auf Basis von JspWiki v2.6.0.

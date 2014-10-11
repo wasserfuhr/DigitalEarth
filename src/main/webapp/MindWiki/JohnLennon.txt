@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:John_Lennon] [OpenCyc:JohnLennon]
+* BornIn: 1940
+* BirthDay: 10-09
+* DiedIn: 1980
+* MindSkill: MindMusic

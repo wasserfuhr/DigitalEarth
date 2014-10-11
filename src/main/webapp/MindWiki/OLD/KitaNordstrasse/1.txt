@@ -1,0 +1,4 @@
+* IsA: KinderGarten
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/31961946
+* HomePage: http://www.kita-nordstrasse.de/
+* PartOf: NerdStrasse

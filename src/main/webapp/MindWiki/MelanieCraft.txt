@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Melanie_Craft]
+* BornIn: 1969
+* ViAf: http://viaf.org/viaf/26684596
+* HomePage: http://www.melaniecraft.com/

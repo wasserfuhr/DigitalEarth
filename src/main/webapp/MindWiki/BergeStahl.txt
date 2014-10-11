@@ -1,0 +1,4 @@
+* MindTags: MindShip
+* InterWiki: [DeWikiPedia:Berge_Stahl]
+* BoundingBox: 342
+* MmSi: 258817000

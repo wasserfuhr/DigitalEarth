@@ -1,0 +1,38 @@
+|[TwittEr:WikiWall]
+
+At our LockOffice we have a WikiWall where we BrainStorm, visualize and manage the HotTopics (be it PerSon's, ideas, ProJect's, EnterPrise's or technologies) ConNect'ed with the LockSchuppen.
+
+http://www.flickr.com/photos/rainerw/4229442017/:
+
+[{Image src='http://farm3.static.flickr.com/2662/4229442017_6f9ba52e38.jpg'}]
+|| ||a||b||c||d||e||f||g||h||i||j||k||l||m||n||o||p||q||r||s
+||1| | | | | | | | |JohnSterman | | | | | | | | | | |
+||2| | | | | | | |JeffBoyer  | | | | | | | | | | | |
+||3| | | | | | |PaulFLevy  | | | | | | | | | | | | |
+||4| | | | | |EdgarSchein | | | | | | | | | | | |SpuerschtWieIDenk | |
+||5| | | | |WalterRiester | | | |ScottMonty  | | | | | |PerKristiansen | |SeaNation | |LisaPirwitz |
+||6| | | | | |DirkSpannaus | |AlfredHanner | |EricVonHippel |ThinkAndDoTank |ArturFriedrich | |MartinRoell |MarcusBuckingham |JamesParsons  | |FutureCard | |
+||7| | | | | | |UlrichDeppendorf | |DigitalTwin | |AntjeLippold | |PeterPlan  |KaiZen |HolgerDemnitz | |FrankSchoenefeld | |MartinFiedler |
+||8| | | | | | | |RichardFlorida | |__WikiWallAd__ |OntoLogy |JanHinrichs  |GaryHamel |GottfriedWilhelmLeibniz | |SocialMedia | |WilhelmZoergiebel |SystemsTheory |
+||9| | | | | | |DonGreer | |CarloRatti | |MichaelBean |RainerWasserfuhr |MartinAha  | |NiklasLuhmann | |PamelaPaquinHall |HolgerHelas |PieschenBank |
+||10| | | | | |RfId | |GunterDueck | |WorcesterPolytechnicInstitute | |MoonShots |JuanitaBrown |ArtKleiner |UlrichSoeder |RalphSonntag |XingLe |LockTeam |DanielPink |
+||11| | | | | | | |MalcolmGladwell |EdRugero | ||LockSchuppen |VanCouver |TheSingularity |WikiPedia |OttoScharmer |AlexanderFriedland |InterNet |TippingPoint |PeterStawowy |
+||12| | | | | | | |SmarterCities |BeerGame |JimWomack |AmySmith |JensBemme |LarsHinrichs |PresencingStatus |OpenSource |SiggiBecker |PeterEberle |EquipMent |HeikoKrebs |
+||13| | | | | | | | |RachelReagan | |ZuKunft | |TelePresence |HomeExchange |OpenCoffeeClubDresden |OlegPavlow |PeterEberle | |JohannesPartanen |
+||14| | | | | | | |MarkGraban |ArtificialIntelligence |RayInDresden | |SystemDynamics |StadtDresden |BusinessEnglishBachelor |PaulHolmstrom |CamelCase | |AudioTagging | |
+||15| | | | | | |BertramDressel | |ThomasGerhardt |HistVv |RobCross |UiRr |RalfLippold | |TwitterBachelor | |NooPolis |AldoCroci | |
+||16| | | | | |LauraBlack | |AlexanderGoetze | |RainerWasserfuhr |ReflectionGroup |SemanticWeb | |MindWiki | |CharlesVanDerHaegen | | | |
+||17| | | | | | |SaftTante | | |TeilhardDeChardin |PeterTeichmann | |BillHarris |LinusTorvalds |AndrewParker | |HeinzEggert | | |
+||18| | | | | | | |MuhammadYunus | |AmartyaSen |ClueTrain |PeterSenge | |PieschenMedia | | | | | |
+||19| | | | | | | | | |RayKurzweil |ShadowBoard |StartUpWeekEnd |ChristophAnders | |MariaBoeckmann | |WikiWall | | |
+||20| | | | | | | | | | | | | |PeterClaussen | |SupPorter | | | |
+||21| | | | | | | | | | | | | | |KaiRopers | |JayForrester | | |
+
+This WikiTable is generated via a GoogleDoc.
+
+!Process for updating data:
+* Go to [the GoogleDoc|http://spreadsheets.google.com/pub?key=tJsnUrFH9ZjsYZ9nhgzu96g]
+* change data in the matrix
+* copy first column
+* go back to WikiWall
+* and paste the copied data over present data

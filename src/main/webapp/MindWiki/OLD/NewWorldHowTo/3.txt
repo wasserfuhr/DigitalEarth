@@ -1,0 +1,14 @@
+* IsA: HowTo
+
+HowTo BootStrap your own MicroNation:
+# DePloy the MindTar to the WorldWideWeb, e.g. http://mind.intellihaus.de/ (=MindVar:MindDump)
+## check UniCode: e.g. when HttpGet'ting $MindDump/VerFassung.txt should display "Bürgerstatus" with correct Encoding "UTF-8"
+# DownLoad the AppEngine SDK at http://code.google.com/appengine/downloads.html
+# create an AppEngine account
+# DePloy the NooPolis WebApp
+## call "Create an Application"
+## noopolis (=MindVar:NationDomain)
+## DownLoad the NooPolis WebApp at 
+## do the usual "appcfg.sh update" stuff
+## open $NationDomain/sql in your MindBrowser
+## execute the MindSql: »{{create table BootStrap (id int, content text, primary key (id))}}«

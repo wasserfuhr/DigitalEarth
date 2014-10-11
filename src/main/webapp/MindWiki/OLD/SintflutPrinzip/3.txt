@@ -1,0 +1,4 @@
+* InterWiki: [BiblioNetz:b01729]
+* DcAuthor: GunterDueck
+
+HotTopics: LocalMaximum

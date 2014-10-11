@@ -1,0 +1,2 @@
+CoAct is model of distributed, global, asynchronous, collaborative decision making
+and working.

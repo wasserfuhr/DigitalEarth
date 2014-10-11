@@ -1,0 +1,3 @@
+* IsA: PerSon
+* ChildOf: RalphWaldoDunham
+* BirthDay: 12-25

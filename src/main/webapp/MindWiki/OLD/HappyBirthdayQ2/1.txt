@@ -1,0 +1,92 @@
+||MM||DD||MindPeople
+|06|30|WalterUlbricht, LenaHorne, PaulBerg, PeterAlexander, OttoSander, JasperVanTHof, DanielGoldhagen, AllegraVersace
+|06|29|RobertSchuman, OliviaPatriciaThomas, SaintExupery, ReinhardMohn, ErnstAlbrecht, GitteHaenning, JohnDoerr, KarstenSpeck, AnneSophieMutter
+|06|28|PeterPaulRubens, JeanJacquesRousseau, MelBrooks, HansBlix, MuhammadYunus, RupertSheldrake,KlausVonKlitzing, JanBoehme
+|06|27|
+|06|26|PeterSloterdijk, MikhailKhodorkovsky
+|06|25|
+|06|24|ErnestoSabato, ClaudeChabrol, HaSchult, RobertReich, RichardKruspel, AlexanderBeyer, PetraNemcova
+|06|23|
+|06|22|JohannChristianErxleben, WilhelmVonHumboldt, HermannMinkowski, JulianHuxley, NorbertElias, ErichMariaRemarque, KonradZuse, KlausMariaBrandauer, HelmutDietl, RainerBruederle, MerylStreep, PeterGauweiler
+|06|21|JeanPaulSartre, PaoloSoleri, JaneRussell, FrancoiseSagan, MichaelRichter, LizMohn, JohnPaulYoung, BenazirBhutto, RobertMenasse, MichelPlatini, LarryWachowski, PierreOmidyar, PrinceWilliam
+|06|20|JacquesOffenbach, KurtSchwitters, ErrolFlynn, FritzKoenig, RainerBarzel, MartinLandau, EugenDrewermann, DieterMann, StephenFrears, UlfMerbold, LionelRichie, GudrunLandgrebe, UlrichMuehe, NicoleKidman, AndreaNahles
+|06|19|BlaisePascal, GustavSchwab, KlausConrad, AageNielsBohr, SalmanRushdie, JoiIto, RahulGandhi, VeronicaVarekova, DirkNowitzki
+|06|18|ManuelaFernandezFojaco, JuergenHabermas, FernandoHenriqueCardoso, PaulMcCartney, ThaboMbeki, GertPostel
+|06|17|
+|06|16|
+|06|15|ClaudeBrasseur
+|06|14|PascalHorst
+|06|13|JohnNash, ErichRibbeck, ChristoJavacheff, JeanneClaude, BanKiMoon, UllaSchmidt, GrigoriPerelman, JohannesGrenzfurthner
+|06|12|DavidRockefeller, GuenterBehnisch, GeorgeHWBush, EvaPflug, AnneFrank, KlausSteilmann, ChickCorea, WaltherUmstaetter, AlexanderWendt
+|06|11|
+|06|10|
+|06|09|
+|06|08|TimBl
+|06|07|
+|06|06|DieterRombach
+|06|05|NovaSpivack
+|06|04|
+|06|03|LawrenceLessig
+|06|02|MarcelReichRanicki, KalliFeldkamp, KlausMichaelKuehne, LasseHallstroem, HildegardKrekel
+|06|01|MarilynMonroe, JeffHawkins
+|05|31|
+|05|30|
+|05|29|
+|05|28|FrankDrake, RudyGiuliani, JohnFogerty, FrankSchaetzing, DickHardt, KylieMinogue, ChiarettoCalo, DamianRhodes, EnricoCremonesi, EricFish, HakanHemlin, IvanGotti, JfQuintin, JustinKirk, MikeDiFelice, NataschaAntoniazzo, RainerWasserfuhr, RichardDreise, WernerAmon, BorisPalmer, ErikBenson, MartinLabuschin, ThomasSchwenke, KjellFischer
+|05|27|CorneliusVanderbilt, MaxBrod, ChristopherLee, HenryKissinger, KaiPflaume, JamieOliver, AnitaBlond,MichaelWilson
+|05|26|NguyenNgocTho, EvaSzorenyi, HorstTappert, ManfredKanther, WardCunningham, DorisDoerrie, LennyKravitz
+|05|25|
+|05|24|GeorgeLakoff
+|05|23|
+|05|22|
+|05|21|AlbrechtDuerer, HansBerger, HenriRousseau, GuenterBlobel, HeinzHolliger, ErnstMesserschmid, ReneeSoutendijk
+|05|20|AntonZeilinger
+|05|19|GoSeigen,EdwardDeBono
+|05|18|
+|05|17|
+|05|16|KarlLehmann
+|05|15|RobertKowalski
+|05|14|
+|05|13|
+|05|12|JosephBeuys
+|05|11|HildegardHammBruecher, EugeneDynkin, CarlaBley, RobertJarvik, ThomasMiddelhoff, HelmaOrosz, GunillaCarlsson, LaetitiaCasta
+|05|10|
+|05|09|
+|05|08|
+|05|07|FranzLudwigGehe
+|05|06|OrsonWelles, AndreWeil, RinKaiho, WaltherZimmerli, HeinzEggert, TonyBlair, GeorgeClooney, ThayeDorje
+|05|05|KarlMarx, AndorLilienthal, EddiArent, BarbaraSalesch, DieterZetsche, DagmarWoehrl, BrookeAshley
+|05|04|
+|05|03|NiccoloMachiavelli
+|05|02|
+|05|01|
+|04|30|ClaudeShannon
+|04|29|CelesteHolm, WalterThirring, ZubinMehta, HermannScheer, JerrySeinfeld, GeorgFunke, AndreAgassi, UmaThurman, KaRu
+|04|28|KurtGoedel, DonatasBanionis, HarperLee, SaddamHussein, TerryPratchett, JayLeno
+|04|27|MarthaKresse, GianCarloRota, ValeriyPolyakov, HeikkiWesterinen, FrankAbagnale, ChristophAchenbach, VivianeReding
+|04|26|MartinVarsavsky
+|04|25|PeterSchulz, NikolaiKardashev, WolfgangZapf, MarkusLuepertz, BjoernUlvaeus, EricDrexler, JohnNunn, RainerSchuettler
+|04|24|
+|04|23|MaxPlanck
+|04|22|ImmanuelKant, RitaLeviMontalcini
+|04|21|MaxWeber
+|04|20|EdnaParker, AubreyDeGrey
+|04|19|ShaiAgassi
+|04|18|
+|04|17|
+|04|16|JosephRatzinger
+|04|15|RichardVonWeizsaecker, NevilleMarriner, ClaudiaCardinale, MatthiasWissmann, KerstinWalther, SamanthaFox
+|04|14|
+|04|13|
+|04|12|
+|04|11|
+|04|10|StanislawTillich
+|04|09|
+|04|08|EdmundHusserl
+|04|07|GerhardSchroeder
+|04|06|JamesWatson
+|04|05|
+|04|04|BelaAnda
+|04|03|MargretWintermantel
+|04|02|SergeGainsbourg, KarlSiegbertRehberg
+|04|01|AbrahamMaslow

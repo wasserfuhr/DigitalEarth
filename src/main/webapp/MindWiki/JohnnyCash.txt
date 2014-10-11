@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Johnny_Cash]
+* BirthDay: 02-26
+* MindSkill: MindMusic

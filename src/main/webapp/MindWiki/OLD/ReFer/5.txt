@@ -1,0 +1,9 @@
+The basic operation to InFer is to ReFer.
+
+This is what CamelCase does in the MindWiki: TransForm'ing linear text into semantic coordinate points, that can be ReFer'red to by other texts.
+
+The RedBlueGame is an attempt to create ReFer'ences into a ClosedWorld.
+
+
+
+Many of the MindTags of RainerWasserfuhr at DelIcioUs, FlickEr, SeesMic, YouTube and some messages in the InBox uniquely ReFer to a WikiPage.

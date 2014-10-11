@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Edgar_F._Codd] [WikiWikiWeb:DrCodd]
+* JahrGang: 1923
+* BirthDay: 08-23
+* LebensEnde: 2003
+* DbLp: http://dblp.uni-trier.de/rec/pid/c/EFCodd

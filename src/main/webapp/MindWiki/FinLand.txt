@@ -1,0 +1,2 @@
+* IsA: NationState
+* InterWiki: [DeWikiPedia:Finnland]

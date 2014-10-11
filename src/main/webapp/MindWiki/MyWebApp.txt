@@ -1,0 +1,6 @@
+MyWebApp is a prototypical WebApp for installation on AppEngine.
+
+# DownLoad http://noobootstrap.appspot.com/mywebapp.zip
+# UnZip the WebApp
+# Open src/main/webapp/WEB-INF/appengine-web.xml and replace "mywebapp" with your AppEngine AppId.
+# DePloy via "appcfg.sh update"

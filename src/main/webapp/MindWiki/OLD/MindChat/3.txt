@@ -1,0 +1,10 @@
+||MindBroker      ||VorStandsChat||CoderChat
+|RainerWasserfuhr |x             |x      
+|DanielPoodratchi |x             |x      
+|AndreasWeigel    |              |x
+|YvonneSchubert   |x             |
+|DimitriUwarov    |              |x
+
+Alle MindBroker: AgChat.
+
+Fun-Chats: ChatChat, ExecutiveChat, RobletChat, ShuttleChat.

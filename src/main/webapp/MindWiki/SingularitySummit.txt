@@ -1,0 +1,46 @@
+* IsA: EventSeries
+* HomePage: http://www.singularitysummit.com/
+|[TwittEr:singularitys]
+
+SingularitySummit2009
+
+SingularitySummit2008
+
+Speaker 2007:
+* SamAdams
+* RodneyBrooks
+* JamaisCascio
+* BenGoertzel
+* JStorrsHall
+* CharlesLHarper
+* JamesHughes
+* NeilJacobstein
+* SteveJurvetson
+* PeterNorvig
+* SteveOmohundro
+* BarneyPell
+* ChristinePeterson
+* PaulSaffo
+* PeterThiel
+* PeterVoss
+* WendellWallach
+* EliezerYudkowsky
+
+!2006
+* HomePage: http://sss.stanford.edu
+
+Speaker:
+* NickBostrom
+* CoryDoctorow
+* EricDrexler
+* TylerEmerson
+* DouglasHofstadter
+* SteveJurvetson
+* RayKurzweil
+* BillMcKibben
+* MaxMore
+* ChristinePeterson
+* JohnSmart
+* PeterThiel
+* SebastianThrun
+* EliezerYudkowsky

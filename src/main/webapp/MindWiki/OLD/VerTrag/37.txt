@@ -1,0 +1,38 @@
+* MindQuote: "Verträge sind eine tolle Sache: Sie entstehen dann, wenn Leute [sich vertragen|http://www.roell.net/weblog/archiv/2006/05/04/der_schriftliche_vertrag.shtml]." - MartinRoell
+
+Wenn ein UnterNehmen im HandelsRegister eingetragen wird, einigen sich die ShareHolder auf folgenden Rahmen-VerTrag:
+
+Satzung:
+* Alle aktuellen Unterzeichner dieses Vertrages sind ShareHolder des UnterNehmen's gemäß der VerFassung von NooPolis.
+* Alle Regeln in diesem VerTrag sind wie bei einem NoMic-Spiel veränderbar.
+* Keine Regeländerung gilt rückwirkend.
+* Ein UnterNehmen hat 1.000 oder 1.000.000 MindShare's.
+* Jedes UnterNehmen genau einen UnternehmensGruender (MindOne).
+* Der UnternehmensGruender kann MindShare's an andere MitWirkende übertragen oder verkaufen.
+* Änderungen am VerTrag erfordern die Zustimmung aller ShareHolder mit mehr als 1% MindShare's.
+* Jedes UnterNehmen kann MitWirkende haben.
+* Regeländerungen gelten als angenommen, wenn kein anderer ShareHolder der Änderung binnen Veto-Frist durch editieren im Wiki widerspricht.
+* Die Veto-Frist beträgt 3 Tage. Falls ein ShareHolder länger AbWesend ist, kann er die Frist während der Abwesenheit auf 14 Tage erhöhen.
+* Bei Meinungsverschiedenheiten kommt es zu einem MindVote unter allen ShareHolder'n. Es entscheidet dabei die einfache Mehrheit der MindShare's.
+* Jeder ShareHolder kann auf seiner WikiHomePage einen DeLegate für seinen MindVote festlegen. Der DeLegate kann bei Abstimmungen mit den Stimmanteilen des ShareHolder abstimmen.
+* Die Urversion des Vertrags ist das SocialBackup des MindWiki 2008xxxx mit MD5-Sum xxx.
+* Die Ur-ShareHolder unterzeichnen einen Ausdruck dieser WikiPage mit ihrem Schweiß und Blut.
+* Dies wird das letzte und einzige Dokument des UnterNehmen's auf Papier sein.
+* Der Zweck des UnterNehmen's ist es, GeWinn zu machen und diesen an aktuelle ShareHolder auszuschütten. 
+* Geschäftsinhalt ist der Verkauf von Dienstleistungen im MindShop.
+* Jeder ShareHolder kann eine oder mehrere der folgenden Funktionen erfüllen:
+** InVest'or
+** Dienstleister
+* Jeder ShareHolder kann seine Dienste des UnterNehmen's gegen KayGroschen zum Kauf anbieten. Erbrachte Leistungen werden gemäß einem vorher festzulegenden WirkSatz als KayGroschen seinem Konto gutgeschrieben.
+* ShareHolder können ein CommitMent geben.
+* Einnahmen aus dem MindShop fließen entsprechend der Anteile der KayGroschen ebenfalls am Jahresende durch Überweisung an die ShareHolder.
+* ShareHolder führen ein LeistungsKonto mit EuRo und KayGroschen.
+* Jeder MindService kann entlohnt werden als
+** PayOut (einmalig) oder
+** MindShare (Anteile am UnterNehmen)
+* Änderungen bei KayGroschen werden im MindFloor protokolliert.
+* MitWirkende können VerMoegen auf ihrem LeistungsKonto gegen MindShare's handeln oder übertragen.
+* Die BuchHaltung merkt sich jede EinNahme und AusGabe.
+* Das PayOut der Erlöse aus erbrachten Diensten erfolgt jeweils am Jahresende durch Überweisung an ein BankKonto der MitWirkende'n.
+* Jeder ShareHolder versteuert seine Einnahmen selbst im Rahmen seiner jährlichen Einkommenssteuererklärung
+* Jedes UnterNehmen kann diesen Rahmen-VerTrag um einen Individual-VerTrag ergänzen.

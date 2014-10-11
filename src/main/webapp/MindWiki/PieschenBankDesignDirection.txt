@@ -1,0 +1,11 @@
+In the coming weeks and months we want to establish PieschenBank
+as a new global game.
+At least twice per month, people meet at PensionMorgenstern
+in the CityOfDresden to participate in the PieschenArtMuseum, where 
+the PieschenArtGroup gives a performance to introduce people to PieschenBank.
+
+The entry point to the game will be http://pieschenbank.de/
+
+We will migrate the existing http://bank.mindbroker.de/ that uses
+JavaServerPages and ApacheDerby to the new CloJure and AppEngine
+architecture.

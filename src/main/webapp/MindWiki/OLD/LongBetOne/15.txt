@@ -1,0 +1,19 @@
+* MindTags: FutureCard
+* CardOwner: MartinRoell
+* UnTil: 2030
+* DependsOn: ComputerGo
+* HomePage: http://www.longbets.org/1
+
+! “By 2029 no computer - or "machine intelligence" - will have passed the TuringTest.”
+
+No TuringTest 2029?
+* predictor: MitchKapor
+* challenger: RayKurzweil
+
+Each CitiZen of NooPolis can bet 100 KayGroschen on a virtual StockExchange
+with two stocks: »MitchKapor« and »RayKurzweil«.
+
+What do CitiZens of NooPolis think?:
+||                 ||Share||ExPect'ed year
+|RainerWasserfuhr  |RayKurzweil|2028
+|RokoMijic         |MitchKapor |>2029

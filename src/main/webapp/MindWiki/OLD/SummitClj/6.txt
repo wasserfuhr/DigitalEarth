@@ -1,0 +1,20 @@
+;
+;
+;{{{
+
+((defn summit [] 
+  (handle "summit"
+   (fn []
+    (str "<img src='" (cache nil :RainerWasserfuhr) "' width='32' height='32'/>"
+     "<table>"
+     " <tr><th>Speaker</th></tr>"
+     " <tr>"
+     " </tr>"
+     " <tr>"
+     " </tr>"
+     " <tr>"
+     "  <td valign='top'>DavidBrin</td>"
+     " </tr>"
+     "</table>")
+   ) ""))))
+;}}}

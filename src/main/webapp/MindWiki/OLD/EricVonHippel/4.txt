@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* HomePage: http://web.mit.edu/evhippel/www/
+* FanPage: http://www.ericvonhippel.com/
+* InterWiki: [DeWikiPedia:Eric_von_Hippel]
+* BirthDay: 08-27

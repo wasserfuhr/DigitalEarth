@@ -1,0 +1,106 @@
+saying happy BirthDay:
+
+* HappyBirthdayQ1
+* HappyBirthdayQ2
+* HappyBirthdayQ3
+* HappyBirthdayQ4
+
+HappyBirthday.txt:NikolaiKondratiev.txt:* BirthDay: 03-04
+KenRobinson.txt:* BirthDay: 03-04
+NikolaiKondratiev.txt:* BirthDay: 03-04
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * | grep 03-05
+EdgarSchein.txt:* BirthDay: 03-05
+LynnMargulis.txt:* BirthDay: 03-05
+PierPaoloPasolini.txt:* BirthDay: 03-05
+ReneObermann.txt:* BirthDay: 03-05
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * | grep 03-06
+JosephVonFraunhofer.txt:* BirthDay: 03-06
+MarioSixtus.txt:* BirthDay: 03-06
+MichelangeloBuonarroti.txt:* BirthDay: 03-06
+ShaquilleONeal.txt:* BirthDay: 03-06
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * | grep 03-07
+AlWaleed.txt:* BirthDay: 03-07
+AnkeSchmidt.txt:* BirthDay: 03-07
+DanielGoleman.txt:* BirthDay: 03-07
+HansWernerSinn.txt:* BirthDay: 03-07
+HeinzRuehmann.txt:* BirthDay: 03-07
+WolfgangReitzle.txt:* BirthDay: 03-07
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * | grep 03-08
+NeilPostman.txt:* BirthDay: 03-08
+OttoHahn.txt:* BirthDay: 03-08
+RichardWilliamson.txt:* BirthDay: 03-08
+WolframKoehler.txt:* BirthDay: 03-08
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * | grep 03-09
+KarlNolle.txt:* BirthDay: 03-09
+WolfSinger.txt:* BirthDay: 03-09
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * | grep 03-10
+NickBostrom.txt:* BirthDay: 03-10
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * | grep 03-11
+AstorPiazzolla.txt:* BirthDay: 03-11
+DouglasAdams.txt:* BirthDay: 03-11
+JcrLicklider.txt:* BirthDay: 03-11
+PeterHerchenbach.txt:* BirthDay: 03-11
+SabineVonSchorlemer.txt:* BirthDay: 03-11
+VannevarBush.txt:* BirthDay: 03-11
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * | grep 03-12
+PaulGerhardt.txt:* BirthDay: 03-12
+SpoHai.txt:* BirthDay: 03-12
+ThomasMetzinger.txt:* BirthDay: 03-12
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * | grep 03-13
+DanielDrechsel.txt:* BirthDay: 03-13
+HilmarKopper.txt:* BirthDay: 03-13
+JuliaMigenes.txt:* BirthDay: 03-13
+MichaelArrington.txt:* BirthDay: 03-13
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * | grep 03-14
+AlbertEinstein.txt:* BirthDay: 03-14
+GeorgZoche.txt:* BirthDay: 03-14
+HansOlafHenkel.txt:* BirthDay: 03-14
+KaiKrause.txt:* BirthDay: 03-14
+WolfgangPetersen.txt:* BirthDay: 03-14
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * | grep 03-15
+EmileDurkheim.txt:* BirthDay: 03-15
+EvaMariaStange.txt:* BirthDay: 03-15
+HeinrichJosefSchneider.txt:* BirthDay: 03-15
+JuergenMlynek.txt:* BirthDay: 03-15
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * | grep 03-16
+ReinhardSelent.txt:* BirthDay: 03-16
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * | grep 03-17
+AchimBachem.txt:* BirthDay: 03-17
+WilliamGibson.txt:* BirthDay: 03-17
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * | grep 03-18
+AdolfMerckle.txt:* BirthDay: 03-18
+AndreasPfitzmann.txt:* BirthDay: 03-18
+AnneWill.txt:* BirthDay: 03-18
+ChristianGoldbach.txt:* BirthDay: 03-18
+EricWeisstein.txt:* BirthDay: 03-18
+JohnUpdike.txt:* BirthDay: 03-18
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * | grep 03-19
+AllenNewell.txt:* BirthDay: 03-19
+BastianWeingaertner.txt:* BirthDay: 03-19
+BruceWillis.txt:* BirthDay: 03-19
+ManfredPerlitz.txt:* BirthDay: 03-19
+OleNydahl.txt:* BirthDay: 03-19
+ThorBjorgolfsson.txt:* BirthDay: 03-19
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * | grep 03-20
+FranzJosefRadermacher.txt:* BirthDay: 03-20
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * | grep 03-21
+DanilaMedvedev.txt:* BirthDay: 03-21
+JohannSebastianBach.txt:* BirthDay: 03-21
+MehrdadPiroozram.txt:* BirthDay: 03-21
+MichaelMaier.txt:* BirthDay: 03-21
+MichelBauwens.txt:* BirthDay: 03-21
+RobertDilts.txt:* BirthDay: 03-21
+SybilleKraemer.txt:* BirthDay: 03-21
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * | grep 03-22
+AndreaRoemmele.txt:* BirthDay: 03-22
+BrunoGanz.txt:* BirthDay: 03-22
+IngolfRossberg.txt:* BirthDay: 03-22
+ReeseWitherspoon.txt:* BirthDay: 03-22
+WilliamShatner.txt:* BirthDay: 03-22
+WolfBlitzer.txt:* BirthDay: 03-22
+WolfgangMayrhuber.txt:* BirthDay: 03-22
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * | grep 03-23
+EmmyNoether.txt:* BirthDay: 03-23
+MartinGillo.txt:* BirthDay: 03-23
+PepeLienhard.txt:* BirthDay: 03-23
+ViktorKorchnoi.txt:* BirthDay: 03-23

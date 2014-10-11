@@ -1,0 +1,14 @@
+||Name            ||Company     ||Location      ||am Markt     ||Mitarbeiter      |Note
+|MyOpenID         |JanRain      |Portland, USA  |1 Jahr?       |12 
+|Personal Identity Provider|VeriSign|Mountain View, USA|       |12                |1998 IPO 
+|idproxy.net      |             |               |              |                  |Login mit Yahoo!-Account, mehrere OpenID-Accounts möglich
+|MeinGuter.Name   |Solution Media GmbH|Kaiserslautern|8 Jahre  |                  |OpenID Blog Deutschland, talking web x.0, The OpenID Directory - Verzeichnis OpenIDfähiger Sites
+
+certifi.ca - OpenID-Provider, der anhand eines Browser-Zertifkats die
+Authentifizierung vornimmt
+
+my.xlogon.net - deutscher OpenID-Provider, multiple Identitäten,
+multiple Personas, nur SSL-gesichert, Anti-Phishing-Unterstützung
+4commerce technologies AG, Hamburg
+7 Jahre am Markt
+3 Mann

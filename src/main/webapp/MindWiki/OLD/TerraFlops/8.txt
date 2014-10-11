@@ -1,0 +1,31 @@
+* SprachWelt: en
+
+Inspired by http://crnano.typepad.com/crnblog/2008/01/unreal-accelera.html :
+What could be a good measure for technological acceleration?
+
+First Suggestion: The cumulated information processing power of
+* organisms, especially
+* HuMan MiNd's and
+* silicon based systems
+
+First numbers:
+
+! 1) Human FLOPS
+||Year||People||Flops
+|2008|6.6b|?
+
+http://movementarian.com/2006/08/18/flops-mips-watts-and-the-human-brain/:
+* HansMoravec: 100 teraflops
+* NickBostrom: 100 petaflops
+
+Extrapolation of the TOP500: (assuming 90% increase/year)
+||Date||RPeak||FLOPS
+|2007|596 Tera  |-.---.596.400.000.000.000
+|2008|1,132 Peta|-.--1.133.160.000.000.000
+|2010|4,088 Peta|-.--4.090.707.600.000.000
+|2020|2,506 Exa| 2.508.039.932.000.000.000
+
+!2) Silicon FLOPS:
+~61m PCs in [Q2 2007|http://www.heise.de/newsticker/meldung/92967], so ~240m PCs in 2007, assuming
+20 GFLOPS [each|http://movementarian.com/2006/08/18/flops-mips-watts-and-the-human-brain/]. So
+per year ~5.000.000.000.000.000.000 FLOPS are produced, doubling each 24 months.

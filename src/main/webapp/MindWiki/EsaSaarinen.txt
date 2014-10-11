@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* ViAf: http://viaf.org/viaf/40513490/
+* InterWiki: [WikiPedia:Esa_Saarinen]
+* BornIn: 1953
+* BirthDay: 07-27
+* HomePage: http://www.esasaarinen.com/
+
+visited TiimiAkatemia

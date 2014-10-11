@@ -1,0 +1,32 @@
+* KindOf: EntrePreneur
+
+mit mindestens 5%:
+||UnternehmensGruender||EnterPrise      ||AlleAugenLeben
+|CemBasman         |StartUpWeekEnd   |
+|WarrenBuffett     |BerkshireHathaway|
+|ThomasAlvaEdison  |GeneralElectric  |RestInPeace
+|LukaszGadowski    |SpreadShirt      |
+|MatthiasGreve     |ComBots          |
+|MichaelGreve      |ComBots          |
+|BillGates         |MicroSoft        |
+|LarsHinrichs      |XingLe           |
+|DeeHock           |VisaCard         |
+|ReidHoffman       |LinkedIn         |
+|JoiIto            |NeoTeny          |
+|SteveJobs         |AppleInc         |
+|RossMayfield      |SocialText       |
+|StefanKellner     |PlazesCom        |
+|HelmutLeitner     |WikiServiceAt    |
+|FelixPetersen     |PlazesCom        |
+|HassoPlattner     |SapAg            |
+|PhilipRosedale    |SecondLife       |
+|YvonneSchubert    |MindBrokerKg     |
+|ChristineSchlinck |IntelliHaus      |
+|NovaSpivack       |RadarNetworks    |
+|MartinVarsavsky   |FonCom           |
+|RainerWasserfuhr  |MindBrokerKg     |
+|RainerWasserfuhr  |MindBroker       |
+|GoetzWerner       |DmMarkt          |
+|ThomasWatson      |EiBiEm           |RestInPeace
+|JanaSchlegel      |FamilienFreund   |
+|ThomasKujawa      |FamilienFreund   |

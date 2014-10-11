@@ -1,0 +1,29 @@
+CemBasman: http://startupweekend.wordpress.com/     Pitch: maximal 3 Minuten, ohne Hilfsmittel, stehend
+
+Hallo, mein Name ist Rainer Wasserfuhr. Ich stelle Ihnen das Projekt NooPolis vor:
+
+NooPolis wird eine neue Art von SocialNetwork. NooPolis ist das SocialNetwork von übermorgen. Es ist eine virtuelle Republik mit BuergerBeteiligung und eigener Ökonomie. Die drei wichtigsten Werte von NooPolis sind 1. Transparenz, 2. Vertrauen und 3. Freiheit. 
+
+1. Transparenz entsteht durch die Verwendung von OpenSource-Software. Der Quelltext kann auf jeder Seite eingesehen werden. Auch die Administration der Server ist transparent. 
+
+2. Vertrauen entsteht durch ein WebOfTrust. Die Identität aller User wird durch ein Netz von gegenseitigen Vertrauensbezeugungen verifiziert und gesichert. Es entsteht eine vertrauenswürdige Community.
+
+3. Freiheit heißt SelbstOrganisation durch die Community. Die User selbst die Regeln definieren, nach welchen die Republik funktioniert. Im Vordergrund steht ein dynamischer Prozess, nicht ein statischer Vertrag. Vielmehr stützt sich NooPolis auf seine VerFassung, die die Bürger selbst geschaffen haben. Zur Zeit lautet der erste Satz der Verfassung: Alle Bürger haben Freiheit. 
+
+Das wirklich Neue an dieser Republik wird sein, dass sie über eine eigene, unabhängige virtuelle Ökonomie verfügt, über eigene Unternehmen und eine eigene Währung namens KayGroschen. 
+
+Die Idee dahinter: auf dem Hoheitsgebiet von NooPolis werden Unternehmen gegründet, die auf einem Arbeitsmarkt ihre Produkte und Dienstleistungen anbieten, welche von den Bürgern nachgefragt werden. Die Bezahlung erfolgt in KayGroschen. Zusätzlich können die Unternehmen Aktien ausgeben, welche auf einer virtuellen Börse gehandelt werden. 
+
+Um die Grundfunktionalitäten gruppieren sich Webapplikationen, die die notwendige Infrastruktur der Republik zur Verfügung stellen: Inbox, Blog, Vote, 
+ 
+Der aktuelle Stand des Projektes: Wir sind  
+
+
+
+
+
+
+
+
+
+

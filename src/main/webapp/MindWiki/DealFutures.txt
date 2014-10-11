@@ -1,0 +1,38 @@
+* MindTags: CrowdWisdom
+ 
+Was wäre ein noch nicht börsennotiertes Unternehmen wert, wenn es heute verkauft würde?
+
+Geschätzte Deal-Volumes:
+
+||Deal||Schätzung||Währung||von
+|EdelBild  |  200|GBP|ThomasPromny
+|EdelBild  |   5k|EUR|RainerWasserfuhr
+|TwittEr   |  80m|USD|RainerWasserfuhr
+|TwittEr   |  80m|USD|TimoHeuer
+|TwittEr   | 100m|USD|YvonneSchubert
+|TwittEr   | 150m|USD|TobiasHieb
+|SecondLife|    0|USD|ThomasPromny
+|SecondLife| 200m|USD|YvonneSchubert
+|SecondLife| 300m|USD|M.
+|SecondLife| 650m|USD|RainerWasserfuhr
+|FaceBook  |  12b|USD|RainerWasserfuhr
+|FaceBook  |  20b|USD|JanBeckers
+|MySpace   |  20b|USD|RainerWasserfuhr
+
+!Vollzogene Deals:
+Bei folgenden wurden keine oder nur ungenaue Zahlen genannt:
+* 200503: FlickEr an YaHoo
+* 20051209: DelIcioUs an YaHoo
+* 200608: StudiVz an HoltzBrinck
+* 200710: JaiKu an GoogleInc
+* 20080623: PlazesCom an Nokia
+
+Deshalb wird gnadenlos geschätzt:
+||Deal||Schätzung||Währung||von
+|DelIcioUs |  12m|USD|RainerWasserfuhr
+|PlazesCom |  12m|EUR|RainerWasserfuhr
+|FlickEr   |  30m|USD|RainerWasserfuhr
+|JaiKu     |  32m|USD|RainerWasserfuhr
+|StudiVz   |  85m|EUR|RainerWasserfuhr
+
+DoIt: Eine WebApp, um auf den Zeitpunkt, die Höhe, und den Käufer zukünftiger Übernahmedeals zu wetten.

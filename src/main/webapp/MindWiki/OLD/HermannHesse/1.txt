@@ -1,0 +1,6 @@
+* MindTags: MindPeople, NobelPreis
+* InterWiki: [DeWikiPedia:Hermann_Hesse], [OpenCyc:HermannHesse]
+* JahrGang: 1877
+* BirthDay: 07-02
+* LebensEnde: 1962
+* MindSkill: DigiZen

@@ -1,0 +1,7 @@
+A Virtual Currency for SoerenRogoll
+
+Rules
+* MoneySupply: 10.000.000 NettCoin's
+* Initially owned by SoerenRogoll
+
+WechselKurs to EuRo UsDollar KayGroschen EtherCash EtcPp?

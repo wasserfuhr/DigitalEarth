@@ -1,0 +1,8 @@
+||Partei      ||Pages||User ||Wiki
+|PiratenPartei|6.333|1.008|http://wiki.piratenpartei.de/
+|FDP          |1.520|    2|https://my.fdp.de/wiki/index.php/Hauptseite
+|ParteiZwoNull|    1|   27|http://partei20.mixxt.de/networks/wiki/index
+|CDU          |    1|    1|http://mindbroker.de/wiki/CduWiki
+|SPD          |    1|    1|http://mindbroker.de/wiki/SpdWiki
+|Grüne        |    1|    1|http://mindbroker.de/wiki/GruenWiki
+|DieLinke     |    1|    1|http://mindbroker.de/wiki/LinkeWiki

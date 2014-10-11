@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* InterWiki: [WebSeitz:PeterNorvig]
+* JahrGang: 1956
+* HomePage: http://www.norvig.com/
+* MindFaves: BarackObama
+* MindSkill: ArTelligence

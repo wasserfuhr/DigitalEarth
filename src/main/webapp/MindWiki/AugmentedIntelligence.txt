@@ -1,0 +1,9 @@
+take this setting:
+
+MiNd, MindEyes, TastaTur, MindScreen
+
+now AbsTract away MindEyes and TastaTur via BrainComputerInterface.
+
+welcome to the NooSphere.
+
+start the DiaLog.

@@ -1,0 +1,7 @@
+Du bist MindBroker auf LevelSieben, wenn Du auf Deinem MindProfil angegeben hast:
+# LebensErwartung 
+# LastWill
+# KinderWunsch
+sowie
+# All'FreiHeit hast und 
+# ab 20080101 ausschließlich per öffentlichem MindProxy surft

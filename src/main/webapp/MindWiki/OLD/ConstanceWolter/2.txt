@@ -1,0 +1,4 @@
+* IsA: PerSon
+* HomePage: http://www.wohnung-ueber-dresden.de/
+* HasTalked: RainerWasserfuhr RalfLippold SvenReichardt JohannesHuenich
+|[XingLe:Constance_Wolter2]

@@ -1,0 +1,18 @@
+ist MindBroker und UnternehmensGruender'in der MindBrokerKg.
+
+* WohnSitz: StadtDresden
+* JahrGang: 1974
+* LebensErwartung: 2065
+* MindMac: nana
+
+||AusLand
+|[BlogLines:yvonneschubert]
+|[DelIcioUs:Perl]
+|[DeWikiPediaUser:Yvonne_Schubert]
+|[XingLe:Yvonne_Schubert]
+|[FaceBook:645804224]
+|[SkyPe:yvonneschubert]
+|[TwittEr:yvonneschubert]
+|[WorldWideWeb:yvonneschubert.com]
+|[YouTube:yvonneschubert]
+|[SuSuh:nacktschnecke]

@@ -1,0 +1,47 @@
+http://sport.mindbroker.de
+
+Ein Projekt der VebMind für 2007:
+Ein OpenSource-VertikalPortal für Sportler, Sportvereine und -mannschaften.
+
+Ziel für Ende 2007: 10.000 aktive Nutzer.
+
+Zielmarkt: Deutschland und deutschsprachige Nachbarn.
+
+Der [ProjectCodeName|http://c2.com/cgi/wiki?ProjectCodeName]: sport.
+
+Der Sourcecode: svn://svn.mindbroker.de/opensource/de.mindbroker.sport/
+
+Das Maven-POM als Startpunkt für alle Doku und Entwicklungsschritte: svn://svn.mindbroker.de/opensource/de.mindbroker.sport/trunk/pom.xml
+
+SpotFeatures.
+
+Tabelle:
+||Url                              ||UserOwned||OpenBugs||OpenSource||OpensStats||Finanzierung   ||Umsatz
+|http://sport.mindbroker.de/       |ja        |ja       |ja         |ja         |50k KayGroschen|100 EUR
+|http://sportme.de/                |nein      |nein     |nein       |nein       |ja              |0
+|http://netzathleten.de/           |nein      |nein     |nein       |nein       |???             |0
+|http://www.championsworld.de/     |nein      |nein     |nein       |nein       |2m EUR          |0
+|http://www.spielerkabine.net/     |nein      |nein     |nein       |nein       |???             |0
+|http://www.vereinsheim.de/        |nein      |nein     |nein       |nein       |???             |0
+|http://meinverein24.de/           |nein      |nein     |nein       |nein       |???             |0
+|http://www.hartplatzhelden.de/    |nein      |nein     |nein       |nein       |???             |0
+
+
+Potentielle Kooperationspartner:
+* http://gaysquash.de/
+* http://www.tanzportal-thueringen.de/
+* Unisport
+
+Teilprojekte:
+* MindBaggern
+
+GeschaeftsModell:
+* Kooperationen mit
+** Krankenkassen
+** Sportverbänden
+** Sportartikelherstellern
+** Medienunternehmen
+
+* Premium-Dienste
+
+* Werbung

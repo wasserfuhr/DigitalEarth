@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.057958
+* LaengenGrad: 13.753795
+* SlimNess: 0.8
+* GraDient: 315
+* BoundingBox: 10
+* HomePage: http://www.filmnaechte-albertbruecke.de/

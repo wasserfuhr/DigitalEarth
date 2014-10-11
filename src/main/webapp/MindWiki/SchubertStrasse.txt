@@ -1,0 +1,3 @@
+* IsA: MindStreet
+* NamedAfter: FranzSchubert
+* ConnectsTo: KaetheKollwitzUfer

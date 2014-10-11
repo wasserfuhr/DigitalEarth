@@ -1,0 +1,2 @@
+* IsA: MindStreet
+* ConnectsTo: RitterStrasse

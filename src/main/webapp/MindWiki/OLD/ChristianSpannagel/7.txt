@@ -1,0 +1,7 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/ChristianSpannagel
+* PageNumber: 5
+* PagePath: LarryPage HectorGarciaMolina GerhardWeikum TobiasNipkow GregorSnelting UlrikSchroeder ChristianSpannagel
+|[TwittEr:cspannagel]
+|[XingLe:Christian_Spannagel]
+|[FaceBook:1177999881]

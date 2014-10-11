@@ -1,0 +1,5 @@
+* IsA: PerSon
+* HomePage: http://www.frankwestphal.de/
+* HasTalked: RainerWasserfuhr DirkRiehle MatthiasJugel StephanSchmidt
+|[TwittEr:frankwestphal]
+|[DelIcioUs:frankwestphal]

@@ -1,0 +1,5 @@
+* IsA: MindThing
+* InterWiki: [DeWikiPedia:Virgo-Superhaufen]
+* PartOf: UniVerse
+
+EndOfGreatness

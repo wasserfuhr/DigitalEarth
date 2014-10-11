@@ -1,0 +1,16 @@
+* MindTags: MindEvent
+
+!Termin: Januar 2008
+!Ort: WirkZentrum (GeheStrasse21, StadtDresden)
+
+Ein MindEvent, bei dem RainerWasserfuhr mal in aller Ruhe philosophieinteressierte Köpfe (BeautifulMind's) in die
+Welt des WebZwoNull und dessen digitales UhTopia namens NooPolis einführt.
+
+Themenvorschläge:
+* InterNet
+* SocialNetwork's
+* SecondLife
+* Wikis, WikiPedia und CamelCase
+* RSS-Feeds und BlogLines
+* MindBrowser
+* VerFassung

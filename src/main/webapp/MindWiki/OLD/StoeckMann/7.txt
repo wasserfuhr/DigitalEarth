@@ -1,0 +1,17 @@
+* MindTags: MindPlace
+* BoundingBox: 12
+* BreitenGrad: 51.0768
+* LaengenGrad: 13.7256
+* GraDient: 100
+* SlimNess: 0.6
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.07724&lon=13.725796&zoom=18&layers=B000FTTT ToDo
+
+Der wohl weltweit zweite WikiBasiert'e Friseursalon der Welt:
+
+||von         ||bis ||MindBroker        ||Barber           ||WieWarIch||EUR||Tip||SmallTalk
+|20080625   | |RainerWasserfuhr   |ClaudiaStoeckmann|GerneWieder|9,50|1,00|
+|20080422:1800|:1820|RainerWasserfuhr   |ClaudiaStoeckmann|GerneWieder|9,50|1,50|
+|20080208:1640|:1655|RainerWasserfuhr|ClaudiaStoeckmann |GerneWieder|9,50|1,50|LadenAuf,HomeOffice,VirtuellesUnternehmen,DresdenChess,NacktSchach
+
+Ideen von RaWa für weiteres SmallTalk:
+* WikiBasiert, JoAna, NooPolis, MooresLaw, XingLe, DresdenChess, EnErgie, SecondHalfOfTheChessboard, FutureMap, IntelligenceExplosion, TuringTest

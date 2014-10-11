@@ -1,0 +1,7 @@
+* MindTags: MindPeople
+* JahrGang: 1753
+* BirthDay: 01-11
+* HasKissed: JohannWolfgangVonGoethe
+* LebensEnde: 1828
+||AusLand
+|[DeWikiPedia:Charlotte_Buff]

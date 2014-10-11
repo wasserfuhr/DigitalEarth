@@ -1,0 +1,5 @@
+Der Wechselkurs gibt an, in welchem Verhältnis Euro in KayGroschen  getauscht werden können. 
+
+Dieser Wechselkurs ist flexibel und wird durch Angebot und Nachfrage bestimmt. 
+
+Der Tausch erfolgt über http://bank.mindbroker.de/.

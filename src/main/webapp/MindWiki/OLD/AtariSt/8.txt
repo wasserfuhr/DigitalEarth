@@ -1,0 +1,24 @@
+* MindTags: ErZaehlung
+* InterWiki: [DeWikiPedia:Atari_ST], [WikiWikiWeb:AtariSt]
+
+Um 1986 herum programmierte RainerWasserfuhr LuxorChess, ein Schachprogramm für AtariSt.
+Der meiste Aufwand steckte zwar nicht in der Spielstrategie, sondern in der für
+die damalige Zeit schon recht aufwendigen dreidimensionalen
+Darstellung des Brettes. Aber immerhin: LuxorChess erkannte die gültigen Züge und
+rügte den Spieler mit einem form_alert "Ungültiger Zug !", falls er Tricks versuchte.
+LuxorChess beherrschte, wie die im SourceCode zu findenden Bezeichnungen "roch_s_ku" und "roch_s_la" vermuten lassen,
+wohl sogar [DeWikiPedia:Rochade].
+
+Exponentielle Machtfantasien waren ihm damals fremd (möglicherweise auch heute noch.).
+Er dachte nicht daran, das beste Schachprogramm der Welt schreiben zu wollen.
+Er glaubte, was er hier und jetzt sah: Der 8-MHz-Takt des [DeWikiPedia:Motorola_68000]
+und die 640×400 Pixel auf dem Schwarz-Weiss-Monitor.
+
+Er hatte eine vage Vorstellung von FortSchritt.
+
+Im Spiel gegen das eigene Programm steckte eine ganz andere Erkenntnis.
+Zwar konnte er es noch schlagen. Aber er sah die MoegLich'keit,
+es irgendwann nicht mehr zu können. Später las er bei SigmundFreud über die 3 [DeWikiPedia:Kränkungen_der_Menschheit].
+Vielleicht war dies hier schon eine Vorahnung der vierten Kränkung.
+
+Mit diesem Rüstzeug ging es an die __UniKl__.

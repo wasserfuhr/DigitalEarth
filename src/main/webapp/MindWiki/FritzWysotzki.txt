@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/69/4575
+* HomePage: http://ki.cs.tu-berlin.de/wysotzki/

@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* VorName: Jip
+* NachName: de Kort
+* FoAf: http://www.kwark.org/XML/foaf.rdf

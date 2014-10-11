@@ -1,0 +1,6 @@
+* IsA: PerSon
+* BornIn: 2010
+* BirthDay: 04-16
+
+NieceOf RoHu
+GrandChildOf RenateHunold HelmutHunold

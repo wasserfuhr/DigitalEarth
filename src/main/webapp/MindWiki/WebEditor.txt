@@ -1,0 +1,14 @@
+Welcome to the WebEditor.
+Each BigTableNomic WebApp comes with a built in WebEditor.
+Here you can add and edit SourceCode for an AppEngine WebApp in RealTime.
+The SourceCode is stored inside a BigTable via the low level API.
+
+BigTable stores each of it's data as an Entity.
+BigTable can scale up to billions of them.
+GoogleModerator had up to 700 requests per second.
+Other large AppEngine are BuddyPoke or CricWaves. 
+BuddyPoke had more than 12m user per month.
+
+BigTable offers two ways of Entity identification:
+* by name
+* by id

@@ -1,0 +1,29 @@
+The CitiZens of NooPolis want to TransLate their ConStitution into many other WorldLanguage's:
+
+||ISO [1]||# [2]||Name ||% [3]||ConStitution||WikiPage  ||TransLate
+|zh|1215|chinesisch   |  2|宪法         |XianFa         |RainerWasserfuhr
+|en|690|englisch     |100|Constitution|ConStitution   |RainerWasserfuhr
+|hi|525|hindi        |  0|संविधान       |               |AbdulKalam??
+|es|447|spanisch     | 75|Constitucion|ConStitucion   |MarcoRibke HeikeRibke MartinVarsavsky??
+|fr|290|französisch  |  2|Constitution|LaConstitution |RainerWasserfuhr LoicLeMeur?? JeffClavier??
+|ar|290|arabisch     |  0|دستور         |               |
+|ru|240|russisch     |  2|Конституция  |KonStituzija  |RainerWasserfuhr DimitriUwarov
+|pt|218|portugiesisch|  2|Constituicao |ConStituicao  |RainerWasserfuhr
+|de|155|deutsch      | 95|Verfassung   |VerFassung    |RainerWasserfuhr HeikeRibke
+|ja|127|japanisch    |  0|憲法         |               |JoiIto??
+|ko| 78|koreanisch   |  0|헌법          |              |
+|tr| 70|türkisch     |  2|Anayasa      |              |CemBasman?
+|pl| 56|polnisch     |  0|Konstytucja  |KonStytucja   |
+|el| 12|griechisch   |  2|Σύνταγμα     |              |
+|bg|  9|bulgarisch   |  0|Конституция  |              |RainerWasserfuhr
+|lt|  4|litauisch    |  2|Konstitucija |KonStitucija  |IngridaPlunksnyte
+|sl|  2|slowenisch   |  2|Ustava       |UstavaNooPolis|ZigaTurk??
+|et|  1|estisch      |  0|Ustava       |UstavaNooPolis|SteveJurvetson?? RossMayfield??
+|lb|0.3|luxemburgisch|  0|Constitutioun|ConStitutioun |MartinRoell?
+|jbo| 0|lojban       |  0|lilbasni     |LilBasni      |RainerWasserfuhr
+Legend:
+* [#1] Language code according to [WikiPedia:ISO_639-1]
+* [#2] Number of total speakers in million
+* [#3] translation completed (in percent)
+
+Soon: An overview at: http://www.mindbroker.de/synopsis

@@ -1,0 +1,9 @@
+* IsA: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Mitch_Kapor] [WebSeitz:MitchKapor]
+* JahrGang: 1950
+* BirthDay: 11-01
+* DbLp: http://dblp.uni-trier.de/rec/pid/73/5277
+* HomePage: http://www.kapor.com/
+* PageNumber: 3
+* PagePath: LarryPage TerryWinograd RandallDavis MitchKapor
+|[TwittEr:mkapor]

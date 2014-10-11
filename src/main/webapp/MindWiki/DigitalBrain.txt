@@ -1,0 +1,3 @@
+* MindTags: ProJect
+
+A main ProJect of MindBroker: A DigitalTwin of RainerWasserfuhr, capable to pass the TuringTest for LongBetOne UnTil2029.

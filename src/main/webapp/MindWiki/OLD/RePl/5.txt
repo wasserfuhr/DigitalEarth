@@ -1,0 +1,33 @@
+* InterWiki: [WikiPedia:Read-eval-print_loop], [WikiWikiWeb:ReadEvalPrintLoop]
+
+useful for ReplClj:
+
+!list tables:
+{{{
+(let
+ [hConf (new org.apache.hadoop.hbase.HBaseConfiguration)
+  hBase (new org.apache.hadoop.hbase.client.HBaseAdmin hConf)
+  logTableDesc (new org.apache.hadoop.hbase.HTableDescriptor "ChatLog") ]
+  (apply str
+   (map
+    (fn [x]
+     (str
+        (.getNameAsString x) " - " ))
+       (.listTables hBase))
+    )
+  )
+)
+}}}
+
+!create table:
+{{{
+(let
+ [hConf (new org.apache.hadoop.hbase.HBaseConfiguration)
+  hBase (new org.apache.hadoop.hbase.client.HBaseAdmin hConf)
+  newTableDesc (new org.apache.hadoop.hbase.HTableDescriptor "MindId")]
+ (do
+  (.addFamily
+   newTableDesc
+   (new org.apache.hadoop.hbase.HColumnDescriptor "id:"))
+  (.createTable hBase newTableDesc)))
+}}}

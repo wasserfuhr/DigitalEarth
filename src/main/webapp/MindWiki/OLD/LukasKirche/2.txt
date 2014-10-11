@@ -1,0 +1,3 @@
+* IsA: GottesHaus
+* InterWiki: [DeWikiPedia:Lukaskirche_(Dresden)]
+* PartOf: SuedVorstadt

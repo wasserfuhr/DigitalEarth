@@ -1,0 +1,7 @@
+* IsA: MinisTer ProFessor
+* InterWiki: [DeWikiPedia:Rainer_Ortleb]
+* BornIn: 1944
+* BirthDay: 06-05
+* DbLp: http://dblp.uni-trier.de/rec/pid/44/6977
+* PageNumber: 9
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy GregorEngels ErnstErichDoberkat WolfgangFranke RainerOrtleb

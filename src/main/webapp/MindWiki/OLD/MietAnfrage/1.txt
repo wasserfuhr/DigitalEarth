@@ -1,0 +1,5 @@
+wer möchte in den LockSchuppen einziehen?
+
+||ab    ||EnterPrise   ||MindOne   ||qm||KaltMiete [1]
+|2009-10|GriebenSchmalz|JoergKeller|32|?
+[#1] in EuRo

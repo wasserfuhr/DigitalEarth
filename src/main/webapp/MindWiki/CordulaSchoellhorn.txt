@@ -1,0 +1,2 @@
+* IsA: PerSon
+* HasTalked: ConstanceWolter RalfLippold RainerWasserfuhr

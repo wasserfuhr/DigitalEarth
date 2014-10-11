@@ -1,0 +1,9 @@
+* IsA: ProFessor
+* InterWiki: [DorfWiki:HansGertGraebe]
+* DbLp: http://dblp.uni-trier.de/rec/pid/77/1171
+* HomePage: http://www.hg-graebe.de/
+* CurrentProjects: SeminarWissen
+* PageNumber: InFinite
+|[XingLe:HansGert_Graebe]
+|[TwittEr:hgg]
+|[FaceBook:1181074185]

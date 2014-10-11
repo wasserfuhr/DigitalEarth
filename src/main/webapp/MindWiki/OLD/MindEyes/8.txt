@@ -1,0 +1,11 @@
+* MindTags: FutureCardIdea
+* MindLine: 2015
+
+Bis spätestens 2015 im MindShop: Brillen oder Kontaktlinsen mit eingebauter EyeCam, Bewegungssensoren und semipermeablem Display, die ein Overlay vom RealLife mit einem 3D- und 4D-WorldModel ermöglichen.
+Das Modell wird in RealTime an die Kopf- und Körperbewegungen angepasst.
+Alle Texte und Schriften, die MindEyes sehen, können automatisch gescannt und aufgezeichnet werden.
+Texte in FremdSprache'n werden automatisch übersetzt.
+Das heisst: __Jeder__ Text, den ein MindEyes-Nutzer jemals in seinem Leben gelesen hat, wird
+in der Zukunft abrufbar sein. __Jedes__ Wort, welches jemals gelesen wurde, kann per MindSearch durchsucht werden.
+
+Die MindEyes erkennen auch, falls sich BuergerInnen mit MindId in der Nähe befinden. Falls die erkannten BuergerInnen gemeinsame KnisterRinge besitzen, dienen die MindEyes als NacktSichtBrille.

@@ -1,0 +1,5 @@
+* MindTags: ProFessor
+* JahrGang: 1941
+* BirthDay: 08-05
+* HomePage: http://www-ags.dfki.uni-sb.de/
+* MindSkill: ArTelligence

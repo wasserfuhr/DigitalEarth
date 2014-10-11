@@ -1,0 +1,34 @@
+* KindOf: EnterPrise
+
+BigCo in DeutschLand:
+
+AdiDas
+AllianzSe
+BaSf
+BayerAg
+BeiersDorf
+BmwAg
+CommerzBank
+DaimlerAg
+DeutschBank
+DeutschBoerse
+DeutschPost
+DeutschTelekom
+EonAg
+FreseniusMedicalCare
+FreseniusSe
+HenkelKgaa
+InfinEon
+KsAg
+LindeAg
+LuftHansa
+ManSe
+MerckKgaa
+MetroAg
+MunichRe
+RweAg
+SalzgitterAg
+SapAg
+SieMens
+ThyssenKrupp
+VolksWagen

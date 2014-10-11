@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Liz_Mohn]
+* BornIn: 1941
+* BirthDay: 06-21
+* MarriedTo: ReinhardMohn

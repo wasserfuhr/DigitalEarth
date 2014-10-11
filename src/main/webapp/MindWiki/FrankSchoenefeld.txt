@@ -1,0 +1,8 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/82/1039
+* HomePage: http://www.t-systems-mms.com/unternehmen/geschaeftsfuehrung/3.4.3_dr._frank_schoenefeld
+* MindBlog: http://www.rules-of-the-game.de/
+* PageNumber: 8
+* PagePath: LarryPage SergeyBrin MonikaHenzinger DavidEppstein JoanFeigenbaum TimBl ChristianBizer SoerenAuer FrankSchoenefeld
+|[XingLe:Frank_Schoenefeld2]
+|[TwittEr:frank_open]

@@ -1,0 +1,5 @@
+* IsA: MindBook
+* InterWiki: [WikiPedia:Pattern_Recognition_(novel)]
+* DcAuthor: WilliamGibson
+
+PatternMatch

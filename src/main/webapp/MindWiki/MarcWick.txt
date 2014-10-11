@@ -1,0 +1,4 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/49/1735
+* PageNumber: 2
+* PagePath: LarryPage TerryWinograd NorbertStreitz HeinzDieterBoecker MichaelHerczeg ThomasWinkler RainerKoch MarcWick

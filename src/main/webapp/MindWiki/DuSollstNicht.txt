@@ -1,0 +1,5 @@
+DoNt
+
+AntiPattern.
+
+Besser: Wenn Du... dann...

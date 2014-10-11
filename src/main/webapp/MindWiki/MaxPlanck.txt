@@ -1,0 +1,6 @@
+* IsA: ProFessor NobelPrizeLaureate
+* InterWiki: [DeWikiPedia:Max_Planck]
+* BornIn: 1858
+* BirthDay: 04-23
+* DiedIn: 1947
+* MindSkill: QuantenLehrer

@@ -1,0 +1,14 @@
+* IsA: UnternehmensGruender WikiMind
+* InterWiki: [WikiWikiWeb:StephanSchmidt]
+* DbLp: http://dblp.uni-trier.de/rec/pid/55/3842
+* CoAuthor: MatthiasJugel
+* PageNumber: -1
+* HomePage: http://www.codemonkeyism.com/
+* MindBlog: http://stephan.reposita.org/
+* PastProjects: SnipSnap
+* MindSkill: MultiUserDungeon
+|[XingLe:Stephan_Schmidt3]
+|[FaceBook:1246411370]
+|[TwittEr:codemonkeyism]
+|[LinkedIn:codemonkeyism]
+|[DelIcioUs:CodeMonkeyism]

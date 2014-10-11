@@ -1,0 +1,7 @@
+* IsA: SocialNetwork
+* InterWiki: [WebSeitz:AdvoGato] [WikiPedia:Advogato]
+* HomePage: http://www.advogato.org/
+* MindOne: RaphLevien
+* MitWirkende: RichardStallman EricRaymond AlanCox BrucePerens JamieZawinski
+
+best WebOfTrust on PlanetEarth?

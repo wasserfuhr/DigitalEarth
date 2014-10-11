@@ -1,0 +1,9 @@
+* MindTags: MindPlace
+* HomePage: http://www.tzdresden.de/
+* BreitenGrad: 51.0128
+* LaengenGrad: 13.7537
+* BoundingBox: 150
+* MindCount: 50
+
+MeMo:
+* 20090303:1800-2100: RainerWasserfuhr, JuergenKohn, KatharinaKuehnel EtAl: BdCs, DieterSchischke, FutureSax, TraumZeitAlter

@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/db/indices/a-tree/b/Bergmann:Ralph.html
+* HomePage: http://www.uni-trier.de/index.php?id=12983
+* PageNumber: 8
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach MichaelRichter RalphBergmann
+|[XingLe:Ralph_Bergmann]

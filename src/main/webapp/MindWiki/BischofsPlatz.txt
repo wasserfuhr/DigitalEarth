@@ -1,0 +1,3 @@
+* IsA: MindSquare
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/248632526
+* PartOf: HechtViertel

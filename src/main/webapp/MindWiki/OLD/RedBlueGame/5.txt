@@ -1,0 +1,12 @@
+Lists of MindPeople:
+* AcceleratingFuturePeopleDatabase
+* AgiPioneer
+* ElektrischerReporter
+* ForbesList
+* FrankfurterTreppe
+* GermanysBestWebFounder
+* OvercomingBias
+* SiggiBecker
+* SingularitySummit
+* VanityFair
+* WorkAtGoogle

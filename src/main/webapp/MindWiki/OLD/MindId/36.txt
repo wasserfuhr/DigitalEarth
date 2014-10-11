@@ -1,0 +1,11 @@
+Alle eingeladenen BuergerInnen erhalten nach Zustimmung zur VerFassung eine MindId: http://id.mindbroker.de/
+
+Jeder MindBroker kann nach dem Login verschiedene WebApps nutzen.
+Das Login ist immer der eigene CamelCase-Name (z. B. RainerWasserfuhr).
+
+Erste WebApps mit MindId-Login:
+* PieschenBank: http://bank.mindbroker.de/
+* MindBlog: http://blog.mindbroker.de/
+* InBox: http://inbox.mindbroker.de/ 
+
+Später: OpenId für jeden User einer MindBroker-WebApp.

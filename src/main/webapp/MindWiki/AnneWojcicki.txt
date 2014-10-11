@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Anne_Wojcicki]
+* BornIn: 1973
+* BirthDay: 07-28

@@ -1,0 +1,4 @@
+* MindTags: WikiMind
+* InterWiki: [DeWikiPedia:Ward_Cunningham], [LangReiter:Ward+Cunningham], [WebSeitz:WardCunningham]
+* JahrGang: 1941
+* BirthDay: 05-26

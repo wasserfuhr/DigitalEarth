@@ -1,0 +1,13 @@
+* IsA: WikiWall
+
+|| ||a||b||c||d||e||f||g||h
+||1| |TransparentMan | | | | | |
+||2|BeGehungen |HeidiMorgenstern |VisAVis |BahnChefSpiel | | |GoogleFluse |
+||3| | |GraphitPapier | |PostKarten |PostKarten | |BallSaalSpiel
+||4|PieschenSamt |TalDrei | | | | | |
+||5| | |WeltSpiel | ||ArtWikiWall |ArtWikiWall |EnisRat |
+||6|PieschenBank | | |GretchenFaust | |HfBk | |
+||7| |XingleQuartett | | |PieschenArtGroup | | |SingularTheater
+||8|BootStrap | |SystemKunst | |LockSchuppen | |RuedigerJohn |VomTellerwaescherZumMillionaer
+
+http://spreadsheets.google.com/ccc?key=0Ajye42NB5rdhdGtFQUhvaUVINTk0TlZiZC1GdWduQmc

@@ -1,0 +1,57 @@
+* InterWiki: [AgiriWiki:AGIRI_Events], [DdWiki:Stadtwiki:Veranstaltungen], [DeWikiPedia:Oktober_2008],
+ [OpenCog:Current_events] 
+
+The WikiBased Calendar of NooPolis.
+
+(Events in the WikiLender have a "When" and an optional "UnTil". Things which only have an "UnTil" can be found as DeadLine)
+||When        ||UnTil||      ||MindPlace    ||What                    ||MindPeople
+|20090115:2200|     |        |ArTeum        |Party                    |RainerWasserfuhr? EtAl
+|20090116:1300|     |        |KahnaLetto    |WorldCrash-Lunch         |RainerWasserfuhr?, EtAl
+|20090116:2000|     |        |StadtDresden  |DiaLog                   |RainerWasserfuhr, JeMand
+|20090116:2000|     |        |StadtDresden  |DiaLog                   |RainerWasserfuhr, JeMand
+|20090120     |     |        |Washington    |InAuguration             |BarackObama, JoeBiden
+|20090121:1500|     |        |Heidenau      |NooPolis                 |RainerWasserfuhr, MichaelKlotsche
+|20090121:1900|     |        |StadtDresden  |DiaLog                   |RainerWasserfuhr, JeMand
+|20090123     |     |        |HamBurg       |MicroBloggingConference  |CemBasman, EvanProdromou EtAl
+|20090124     |     |        |HamBurg       |MicroBloggingConference  |CemBasman, EvanProdromou EtAl
+|20090124:2000|     |        |StadtDresden  |BirthDay-Party           |JeMand, JeMand, RainerWasserfuhr
+|20090125     |     |        |StadtMuenchen |DLD                      |HeikoHebig, HubertBurda?
+|20090126     |     |        |StadtMuenchen |DLD                      |HeikoHebig, HubertBurda?
+|20090127     |     |        |StadtMuenchen |DLD                      |HeikoHebig, HubertBurda?
+|20090125     |     |        |StadtMuenchen |DLD                      |HeikoHebig, HubertBurda?
+|20090128     |     |        |Davos         |WorldEconomicForum       |KlausSchwab EtAl
+|20090129     |     |        |Davos         |WorldEconomicForum       |KlausSchwab EtAl
+|20090130     |     |        |Davos         |WorldEconomicForum       |KlausSchwab EtAl
+|20090131     |     |        |Davos         |WorldEconomicForum       |KlausSchwab EtAl
+|20090201     |     |        |Davos         |WorldEconomicForum       |KlausSchwab EtAl
+|20090219:1111|     |        |AlterMarkt    |AlAaf                    |RainerWasserfuhr? EtAl
+|20090302     |     |        |MesseHannover |CeBit-Opening            |AngelaMerkel, ArnoldSchwarzenegger?
+|20090306     |     |        |Arlington     |AGI09                    |BenGoertzel, BruceKlein EtAl
+|20090308:0930|     |        |StadtDresden  |DresdenOpenSpace         |ThomasKoeplin, RainerWasserfuhr? EtAl
+|20090320     |     |        |StadtDresden  |HutBall                  |RainerWasserfuhr? EtAl
+|20090321     |     |        |StadtDresden  |HutBall-Party            |RainerWasserfuhr? EtAl
+|20090401     |     |        |StadtBerlin   |RePublica                |MarkusBeckedahl EtAl
+|20090402     |     |        |StadtBerlin   |RePublica                |MarkusBeckedahl EtAl
+|20090403     |     |        |StadtBerlin   |RePublica                |MarkusBeckedahl EtAl
+|20090408:1500|     |        |StadtDresden  |ProbeAlarm               |
+|20090425     |     |        |StadtDresden  |BarCampDresden           |MartinFrindt, RainerWasserfuhr? EtAl
+|20090523     |     |        |ReichsTag     |MindOne-Wahl DeutschLand |HorstKoehler, AngelaMerkel, NorbertLammert, GesineSchwan?
+|20090607     |     |        |EurOpa        |Wahlen                   |BuergerInnen,CitiZens,CiudaDanos,CitoYens,Državljan
+|20091025     |     |        |OrlandoFl     |WikiSym                  |DirkRiehle?, RainerWasserfuhr? EtAl
+|20121221     |     |        |PlanetErde    |13.0.0.0.0               |
+|20261113     |     |        |PlanetErde    |DoomsDay                 |HeinzVonFoerster EtAl
+
+everything else is on the FutureMap
+!Was War:
+
+||When        ||Until||      ||Where        ||What                    ||Who
+|20090114:1500|     |        |StadtDresden  |ProbeAlarm               |
+|20090112:2030|     |        |SeidenStrasse |PhilosophischesNachtcafe |AnettHerrmann EtAl
+|20090111:1700|     |        |MaxZwo        |DiaLog                   |RainerWasserfuhr, JeMand
+|20090105:1900|     |        |VereinshausJohannstadt|MontagsKreis     |NorbertRost, AndreasPoldrack EtAl
+|20090105:1330|     |        |WirkZentrum   |Zähler-Ablesung          |RainerWasserfuhr, JeMand
+|20090104:1645|     |        |MaxZwo        |DiaLog                   |RainerWasserfuhr, JeMand
+|20090103:1045|     |        |RauschenBach  |Brunch                   |RainerWasserfuhr, ChristineSchlinck, JfSchlinck, JeMand
+|20090102     |     |        |StadtDresden  |IntegralerSalon          |AndreasPoldrack?
+
+Former Events: WasWar.

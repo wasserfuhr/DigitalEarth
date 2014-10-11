@@ -1,0 +1,4 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Nicolas_Sarkozy]
+* JahrGang: 1955
+* BirthDay: 01-28

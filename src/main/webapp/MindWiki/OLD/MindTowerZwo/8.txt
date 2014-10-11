@@ -1,0 +1,27 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:DVB-Hochhaus]
+* MindLine: 2011
+* BreitenGrad: 51.064048
+* LaengenGrad: 13.746413
+* BoundingBox: 20
+* GraDient: 
+* http://www.das-neue-dresden.de/paulickhochhaus.html
+
+am Albertplatz. Neue Filiale der PieschenBank ab 2010. Für die MindBau AhGe zur Planung des MindTower.
+
+[{Image src='http://farm4.static.flickr.com/3261/2842488586_195d1482b8_m.jpg'}]
+
+Levels:
+
+||Level||sqm||
+|10|200
+|9|220
+|8|220
+|7|230
+|6|260
+|5|300
+|4|300
+|3|300
+|2|300
+|1|300
+|Ground|280|Reception

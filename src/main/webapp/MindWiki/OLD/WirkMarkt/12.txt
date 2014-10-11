@@ -1,0 +1,24 @@
+WirkenStattArbeiten: Dinge die BuergerInnen beim Aufbau von NooPolis tun könnten:
+
+(Willst Du selbst Dienstleistungen anbieten? WerdeMindBroker!)
+
+|| ||h||Projekt||Budget||do      ||it
+| | 4|NooPolis     | 0|übersetze |VerFassung und andere wichtige Seiten in andere WeltSprache'n
+| | 4|UnserGrid    | 0|code      |RSS Feed
+| | 4|MindId       | 0|code      |Passwort vergessen
+| | 4|MindWiki     | 0|entwerfe  |MindLogo
+| | 4|MindWiki     | 0|entwerfe  |FacIvon
+| | 4|MindFloor    | 0|code      |MindCss
+| | 4|MindHome     | 0|code      |MindCss
+| | 4|GeoMindBroker| 0|code      |MindCss
+| | 1|DoItProject  | 0|integriere|MindLine
+| | 4|DoItProject  | 0|migriere  |Jedes Item der DoIt-Tabelle als Item
+| | 4|DoItProject  | 0|integriere|Seitenwechsel
+| | 4|DoItProject  | 0|erstelle  |die Seite "Konfiguration"
+| | 4|DoItProject  | 0|integriere|export Funktion für DoIt zu iCal (ics)
+| | 4|DoItProject  | 0|integriere|Projects
+| | 4|DoItProject  | 0|integriere|bessere DetailAnsicht von den ToDos (schon besprochen)
+| | 2|DoItProject  | 0|integriere|DoJo DatePicker
+| | 2|DoItProject  | 0|erstelle  |Haken für dropDownMenüs
+| | 6|MindId       | 0|code      |message: "Du bist nicht eingeloggt", "Auf diese Seite hast du nur Zugriff, wenn du eingeloggt bist"
+| | 3|MindId       | 0|code      |Anzeige von Freunden, die gerade online sind

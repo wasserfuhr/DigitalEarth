@@ -1,0 +1,70 @@
+;
+;
+;{{{
+
+((defn facebook []
+    (str "
+    <fb:dashboard>
+      <fb:action href='login' requirelogin=1>Create a new Prediction</fb:action> 
+    </fb:dashboard>
+
+<div class='container'><a rel='nofollow' href='http://www.seesmic.com/video/RLT2mvuo0y' class='l_play' play='&lt;object width=&quot;380&quot; height=&quot;320&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://seesmic.com/embeds/wrapper.swf&quot;/&gt;&lt;param name=&quot;bgcolor&quot; value=&quot;#666666&quot;/&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;never&quot;/&gt;&lt;param name=&quot;flashVars&quot; value=&quot;video=RLT2mvuo0y&amp;version=threadedplayer&amp;startVideo=true&quot;/&gt;&lt;embed src=&quot;http://seesmic.com/embeds/wrapper.swf&quot; type=&quot;application/x-shockwave-flash&quot; flashVars=&quot;video=RLT2mvuo0y&amp;version=threadedplayer&amp;startVideo=true&quot; allowFullScreen=&quot;true&quot; bgcolor=&quot;#666666&quot; allowScriptAccess=&quot;never&quot; width=&quot;380&quot; height=&quot;320&quot;/&gt;&lt;/object&gt;'><img src='http://t.seesmic.com/thumbnail/chCeWiIQJp_th1.jpg' class='thumbnail' style='width:160px; height:120px' alt='TweetUpDd2019' title='TweetUpDd2019'/></a><div class='l_play' style='left:68px;top:48px'><img src='/static/images/playbutton.png?v=e0945b4f8977280369439f20d15fdd93' alt='Play'/></div></div>
+
+            
+            
+    <fb:editor action='?do-it'>
+       <fb:editor-text label='Title' name='title' value=''/>
+       <fb:editor-text label='Spot' name='author' value=''/>
+       <fb:editor-custom label='Status'>
+         <select name='state'>
+           <option value='0' selected>have read</option>
+           <option value='1'>am reading</option>
+           <option value='2'>want to read</option>
+         </select> 
+      </fb:editor-custom> 
+       <fb:editor-textarea label='Comment' name='comment'/>
+       <fb:editor-buttonset>  
+         <fb:editor-button value='Add'/> 
+          <fb:editor-button value='Recommend'/>
+        <fb:editor-cancel />  
+     </fb:editor-buttonset>
+    </fb:editor>"
+     (apply str (map (fn [x] (str x ": " (.getParameter request x) "<br/>")) 
+       (enumeration-seq (.getParameterNames request))))
+;     (apply str (.getParameterValues request))
+   ;  (enumeration-seq (.getParameterNames request))
+     " <br/> "
+     (.getParameter request "title")
+     " <br/> "
+     (.getParameter request "author")
+     " <br/> "
+     (.toString request) 
+     " <br/> "
+    (let 
+      [prop (new java.util.Properties)
+       tmp (.load prop (new java.io.FileInputStream "/mnt/home/noopolis/fb.props"))
+       canvas (.getCanvasRequest
+               (new net.sf.fb4j.canvas.CanvasApplication
+                (.getProperty prop "apiKey")
+                (.getProperty prop "secretKey"))
+               request)]
+       (try
+        (.getUserId
+         (.getFacebookSession canvas))
+        (catch net.sf.fb4j.UserNotLoggedInError e (str "not logged in: " e))))
+         
+       "::"  (.getAttribute request "requestAttribute") "."
+;         (
+     ;     (cast net.sf.fb4j.FacebookSession
+      ;     .getFacebookSession
+       ;    (cast net.sf.fb4j.canvas.CanvasRequest
+        ;     (.getAttribute request "requestAttribute"))
+         ;  )))
+
+    "
+<fb:request-form type='friends connection' content='hello MindBroker' invite='true'
+                 action='http://apps.facebook.com/mindbroker'>
+  <fb:multi-friend-selector rows='4' actiontext='Connect yourself with other CitiZens' />
+</fb:request-form>")))
+
+;}}}

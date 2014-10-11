@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/NorbertAStreitz
+* HomePage: http://www.ipsi.fraunhofer.de/ambiente/profil/mitarbeiter/streitz.html
+* TurkNumber: 2
+* TurkPath: ZigaTurk PeterLinde JohnSmith NorbertStreitz

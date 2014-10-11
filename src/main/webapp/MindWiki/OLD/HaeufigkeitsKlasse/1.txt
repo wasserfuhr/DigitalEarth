@@ -1,0 +1,13 @@
+* 8: Wasser
+* 10: Wein
+* 13: Champagner
+* 16: Eiscreme
+* 16: Taittinger
+* 17: Schaumwein
+* 18: Ruinart
+* 19: Pommery
+* 21: Cremant
+* 21: Dosage
+* 21: Lafitte
+
+Da haben wir noch einiges zu lernen und zu verkosten ;)

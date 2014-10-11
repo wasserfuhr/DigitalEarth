@@ -1,0 +1,4 @@
+* IsA: PerSon
+* MindQuote: "Frei sein, heißt wählen können, wessen Sklave man sein will."
+* InterWiki: [DeWikiPedia:Jeanne_Moreau]
+* BirthDay: 01-23

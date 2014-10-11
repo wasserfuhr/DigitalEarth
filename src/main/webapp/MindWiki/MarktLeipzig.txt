@@ -1,0 +1,3 @@
+* IsA: MindSquare
+* InterWiki: [DeWikiPedia:Markt_(Leipzig)]
+* ConnectsTo: GrimmaischeStrasse

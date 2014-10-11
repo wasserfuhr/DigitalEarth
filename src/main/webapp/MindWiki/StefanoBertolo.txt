@@ -1,0 +1,7 @@
+* IsA: PerSon
+* EnsId: http://www.okkam.org/entity/ed5bdc09-ca66-4435-b48e-6df558315fa1
+* DbLp: http://dblp.uni-trier.de/rec/pid/35/2457
+* PageNumber: 8
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker RudiStuder JuergenAngele JonCurtis StefanoBertolo
+* MindSkill: OpenCyc PredictionMarket FpSeven
+|[TwittEr:sclopit]

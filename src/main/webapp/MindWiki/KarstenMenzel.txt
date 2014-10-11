@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/75/1739 
+* ViAf: http://viaf.org/viaf/5612915 (ToDo?)
+* HomePage: http://zuse.ucc.ie/~karsten/

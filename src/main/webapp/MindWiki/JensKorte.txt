@@ -1,0 +1,6 @@
+* MindTags: UnternehmensGruender
+* WohnSitz: StadtDresden
+* InvitedBy: RalfLippold
+||AusLand
+|[XingLe:Jens_Korte]
+|[TwittEr:JensKorte]

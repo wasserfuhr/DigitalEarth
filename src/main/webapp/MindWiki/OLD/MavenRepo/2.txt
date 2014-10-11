@@ -1,0 +1,8 @@
+Jars für UnsereProjekte werden immer per Maven-Dependency eingebunden.
+
+Falls ein benötigtes jar noch nicht bei [ibiblio|http://www.ibiblio.org/maven2/] ist, bauen wir ein künstliches POM um das Jar:
+
+svn://svn.mindbroker.de/mvnrepo
+
+Es wird dann deployed auf http://mvnrepo.mindbroker.de/mvnrepo/
+

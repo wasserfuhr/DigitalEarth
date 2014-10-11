@@ -1,0 +1,5 @@
+
+|3|DresdenDrohne
+|7|ElbOper
+|10|MindTower
+|50|PetaBitPlatte

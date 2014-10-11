@@ -1,0 +1,7 @@
+* IsA: MindSquare
+* InterWiki: [DdWiki:Postplatz] [DeWikiPedia:Postplatz_(Dresden)]
+* BreitenGrad: 51.051069
+* LaengenGrad: 13.7325
+* BoundingBox: 140
+* NearBy: AltmarktGalerie
+* ConnectsTo: WilsdrufferStrasse

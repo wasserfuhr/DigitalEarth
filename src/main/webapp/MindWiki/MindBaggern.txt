@@ -1,0 +1,18 @@
+WikiBasiert'es Volleyballmanagementsystem.
+
+Der MindCourt besteht aus 
+* Court 1
+
+Auf jedem Court spielen die Teams RedVsBlue.
+Jedes Team hat die Spieler Red1,Red2 bzw Blue1, Blue2 etc.
+
+Jedes Spiel ist entweder Training oder Game.
+Jedes Game hat 1 Satz, bis 16 Punkte, mindestens 2 Punkte Vorsprung
+Jedes Game hat einen SchiRi.
+
+Der Ball und jeder Spieler sind mit LocalPositioningSystem ausgestattet.
+Der Ort von Ball und Spielern wird alle 100 Millisekunden auf http://baggern.mindbroker.de veröffentlicht.
+
+||Court||Art||SchiRi||Red1||Blue1||Red2||Blue2||...
+|1|Training|  |RainerWasserfuhr|NN
+|1|Game    |NN|RainerWasserfuhr|NN

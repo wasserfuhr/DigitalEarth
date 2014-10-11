@@ -1,0 +1,2 @@
+* IsA: UsState
+* InterWiki: [DeWikiPedia:New_Mexico]

@@ -1,0 +1,11 @@
+* WohnSitz: HamBurg
+* JahrGang: 1953
+* SprachWelt: tr,sv,de,en
+
+||AusLand
+|[WorldWideWeb:sprechblase.wordpress.com]
+|[WorldWideWeb:startupweekend.wordpress.com]
+|[XingLe:Cem_Basman]
+|[LinkedIn:Basman]
+|[WorldWideWeb:http://www.qype.com/people/CemB]
+|TwoThreeHq:Cem]

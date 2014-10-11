@@ -1,0 +1,27 @@
+Beim AusserboerslicherHandel per Limit-Order-Verfahren werden Orders erst ausgeführt, 
+
+wenn der Kurs die vom Anleger angegebene Ober- oder Untergrenze (Limit) 
+
+über- oder unterschreitet.
+
+
+
+
+Die TradeGate AG erklärt dies auf seiner Internetseite so: 
+
+LimitOrder -Verfahren:
+
+Sie können Orders zu einem Festpreis in TRADEGATE einstellen. Alle Orders sind tagesgültig. 
+
+Sobald ein Kauf- oder ein Verkaufsauftrag vom Preislimit und der gewünschten Stückzahl gegen ein Quote des Market Makers, der TRADEGATE AG, ausführbar wird, findet ohne Zeitverzug ein automatisches Matching statt. 
+
+Das Matching erfolgt nach zeitlichem Ordereingang. 
+
+Eine Ausführung zu einem größeren als dem angegebenen Limit ist nicht möglich. 
+
+Die Einstellung von Bestens- oder Billigst-Orders ist nicht möglich. 
+
+Bei gleichem Kauf-/Verkaufslimit, aber größerer Stückzahl, finden keine automatischen Teilausführungen statt. 
+
+Alle Orders sind somit "All or Nothing"-Orders.
+

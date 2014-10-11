@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/42/998
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker StefanDecker UweAssmann
+|[XingLe:Uwe_Assmann2]
+
+TuDresden

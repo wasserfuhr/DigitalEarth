@@ -1,0 +1,43 @@
+* MindTags: PredictionMarket
+* InterWiki: [DeWikiPedia:Präsidentschaftswahl_2008_(Vereinigte_Staaten)][WebSeitz:PresidentialCandidates2008],[WikiPedia:United_States_presidential_election,_2008]
+
+Let's try a WikiBased PredictionMarket with KayGroschen for the UsElection08:
+
+!The shares:
+* AlanKeyes
+* BarackObama
+* DennisKucinich
+* DuncanHunter
+* HillaryClinton
+* JohnEdwards
+* JohnMcCain
+* MikeGravel
+* MikeHuckabee
+* MittRomney
+* RonPaul
+* RudolphGiuliani
+
+!The rules:
+* Each candidate has 1000 Shares
+* You can invest an amount of x KayGroschen into each share.
+* They are IPO-issued by PieschenBank. You can buy them for 1 KayGroschen per share.
+* You can trade your shares with other CitiZens.
+* The sum of all shares sold by PieschenBank is payed to the ShareHolder's of the winning candidate.
+* The shares of the winner of the UsElection08 will be bought back by PieschenBank for 1 KayGroschen per share after being officially declared at WikiPedia.
+* The shares of the other candidates will be worthless. 
+
+!ShareHolder
+||ShareHolder ||Share          ||#
+|Citizen1     |BarackObama     |100
+|Citizen2     |BarackObama     |100
+|Citizen2     |HillaryClinton  |80
+etc.
+
+!Bids/Asks
+||ShareHolder ||Share       ||bid/ask 	||#||KayGroschen per share
+|Citizen1     |BarackObama  |sells      |10|20
+|Citizen3     |BarackObama  |buys       |10|18
+
+!Times&Sales
+||Date        ||Share       ||sold by   ||to         ||#||KayGroschen per share
+|20080131:1200|BarackObama  |Citizen1   |Citizen2    |10|15

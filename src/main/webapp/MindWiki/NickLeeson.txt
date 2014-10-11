@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Nick_Leeson]
+* BornIn: 1967
+* BirthDay: 02-25

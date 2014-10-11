@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* HomePage: http://www.ost-pol.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/4374304 ToDo

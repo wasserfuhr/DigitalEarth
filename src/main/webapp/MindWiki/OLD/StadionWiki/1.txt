@@ -1,0 +1,4 @@
+a SportWiki for SpectatorSports. SocialObject: Seat
+
+||WikiLender  ||Stadium           ||Sponsor   ||Block||Row||Seat
+|20090411:1400|RudolfHarbigStadion|GeHeim     |?|?|?

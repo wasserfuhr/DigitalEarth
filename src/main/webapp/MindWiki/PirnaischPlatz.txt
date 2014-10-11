@@ -1,0 +1,3 @@
+* IsA: MindSquare
+* ConnectsTo: GrunaerStrasse StPetersburgerStrasse
+* MindCult: Café RingelBlume

@@ -1,0 +1,34 @@
+* IsA: EventSeries
+
+WaveWednesday in der StadtDresden.
+
+Am besten: Vorher bei GoogleWave anmelden und nen LapTop mitbringen! RalfLippold und RainerWasserfuhr vergeben gern Invites.
+
+!WwDd 2: 2010-04-28:1900 in der SuedVorstadt
+* Beginn 19h
+* Geplante/anfragte Orte
+** SlUb
+** Lehrstuhl für WissensArchitektur
+** Institut für BauInformatik
+** DresdenExists / BarkhausenBau
+
+!WwDd 1: 2010-04-14:1900 im LockOffice
+* http://www.facebook.com/event.php?eid=114651001894694
+* EinTritt: 1 LockCoupon
+(1 LockCoupon kostete 512 KayGroschen für BuergerInnen von NooPolis)
+
+Themenvorschläge:
+* Prolog im Zukunftsraum: Kurzüberblick von RalfLippold zu LockSchuppen, LockOffice und CoOrpheum
+* Zueignung: Kurzüberblick von RainerWasserfuhr zu MindBroker und NooPolis
+* Einführung in GoogleWave (RainerWasserfuhr + LockCrowd)
+* Alternativen: EtherPad GoogleDocs
+* Extensions + Gadgets
+* Robots
+* WaveCash
+* GoogleWaveInZahlen
+* GoogleWave2015
+* GoogleWave2056
+
+Speziell für den 1. WwDd bot RainerWasserfuhr insgesamt 8 LockCoupon's für je 4 EuRo an.
+
+Ausserdem bot RainerWasserfuhr noch 1 LockCoupon's für je 100 w$ WaveCash an. 

@@ -1,0 +1,41 @@
+Dieses Foto: http://www.flickr.com/photos/60843848@N00/2800908920/
+
+Wird im RealFilm zum Leben erweckt.
+
+{{{
+Camera:  	Fujifilm FinePixA204
+Exposure: 	0.007 sec (1/140)
+Aperture: 	f/3.5
+Focal Length: 	14.3 mm
+ISO Speed: 	100
+Exposure Bias: 	0/100 EV
+Flash: 	Flash did not fire
+
+X-Resolution: 	72 dpi
+Y-Resolution: 	72 dpi
+Software: 	Digital Camera FinePixA204 Ver1.00
+Date and Time: 	2008:08:05 18:53:01
+YCbCr Positioning: 	Co-Sited
+Exposure Program: 	Normal
+Date and Time (Original): 	2008:08:05 18:53:01
+Date and Time (Digitized): 	2008:08:05 18:53:01
+Compressed Bits per Pixel: 	2 bits
+Shutter Speed: 	710/100
+Brightness: 	589/100
+Maximum Lens Aperture: 	360/100
+Metering Mode: 	Pattern
+Color Space: 	sRGB
+Focal Plane X-Resolution: 	2462 dpc
+Focal Plane Y-Resolution: 	2462 dpc
+Sensing Method: 	One-chip colour area sensor
+Compression: 	JPEG
+Orientation: 	Horizontal (normal)
+Quality: 	NORMAL
+Sharpness: 	3
+Flash Mode: 	2
+Flash Strength: 	0/10
+Tag::Fujifilm::0x1023: 	640, 480
+Tag::Fujifilm::0x1032: 	1
+Image Width: 	960 pixels
+Image Height: 	1280 pixels
+}}}

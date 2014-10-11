@@ -1,0 +1,4 @@
+* MindTags: ProFessor
+* InterWiki: [OpenCyc:PatLangley]
+* HomePage: [http://www.isle.org/~langley/]
+* MindSkill: ArTelligence

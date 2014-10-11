@@ -1,0 +1,30 @@
+* HerKunft: "__S__imple __P__rotocol __a__nd __R__DF __Q__uery __L__anguage"
+* InterWiki: [DeWikiPedia:SPARQL]
+
+{{{
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+
+select ?place ?lat ?lon where {
+   ?place geo:lat ?lat.
+   ?place geo:long ?long.
+   filter(?lat > 51 && ?lat<52 && ?long > 13 && ?long<14)
+} order by ?lat
+
+select count (?place) {
+   ?place geo:lat ?lat.
+   ?place geo:long ?long.
+}
+}}}
+
+{{{
+SELECT DISTINCT * WHERE {
+   ?p1 dc:creator <http://dblp.l3s.de/d2r/resource/authors/Manfred_Meyer>.
+   ?p1 dc:creator ?a1.
+   ?p2 dc:creator ?a1.
+   ?p2 dc:creator ?a2.
+   ?p3 dc:creator ?a2.
+   ?p3 dc:creator <http://dblp.l3s.de/d2r/resource/authors/Andreas_Abecker>
+}
+LIMIT 10
+}}}

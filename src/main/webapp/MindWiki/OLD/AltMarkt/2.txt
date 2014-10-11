@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Altmarkt]
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/9824066

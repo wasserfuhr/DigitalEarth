@@ -1,0 +1,45 @@
+* HomePage: http://www.cool-silicon.org/
+* MindOne: GerhardFettweis
+
+    * Actix GmbH
+    * Agilion GmbH
+    * AIS Automation Dresden GmbH
+    * AMD
+    * AMTC GmbH & Co. KG
+    * Arxes GmbH
+    * Avitronic GmbH
+    * Blue Wonder Communications GmbH
+    * Cotesa GmbH
+    * Digades GmbH
+    * DMOS GmbH
+    * dresden elektronik verkehrstechnik gmbh
+    * GLOBALFOUNDRIES
+    * HAP GmbH Dresden
+    * HSEB
+    * HTS GmbH
+    * IMA Materialforschung und Anwendungstechnik GmbH
+    * Infineon Technologies Dresden GmbH
+    * KomSa Kommunikation Sachsen AG
+    * KSW Microtec AG
+    * MUGLER AG
+    * NXP Semiconductors Dresden
+    * PE IC Design
+    * Plastic Logic GmbH
+    * RadioOpt GmbH
+    * RHe Microsystems GmbH
+    * Roth & Rau – Ortner GmbH
+    * Roth & Rau AG
+    * SAW Components Dresden GmbH
+    * Signalion GmbH
+    * SQL Projekt AG
+    * Systema GmbH Dresden
+    * T-Mobile Deutschland GmbH
+    * T-Systems Multimedia Solutions GmbH
+    * TraceTronic GmbH
+    * TU Dresden, LEI
+    * Vodafone D2 GmbH
+    * voice INTER connect GmbH
+    * X-FAB Dresden GmbH & Co. KG
+    * Zeiss SMT
+    * ZMDI
+

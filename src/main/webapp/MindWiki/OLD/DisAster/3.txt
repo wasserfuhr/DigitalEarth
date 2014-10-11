@@ -1,0 +1,10 @@
+* HerKunft: [WikiPedia:Disaster]: "from the Greek pejorative prefix dis- bad + aster star"
+
+On TimeLine:20080215 the main server of our SocialGrid didn't respond to ssh logins.
+So RainerWasserfuhr tried to reboot the server, but unfortunately, "ec2-reboot-instances" failed, WernerVogels and ams@amazon.com didn't respond, so a DisAster ReCovery was necessary.
+
+Fortunately, we have SocialBackup, so we only lost:
+* the MindId of CitiZens AnjaFrenzel,FrankLorenz+BastianScherbeck.
+* 4 days of the RecentChanges
+* ~10 payments at the PieschenBank (mainly BegruessungsGeld and LiebesRinge)
+* the postings+comments of the MindBlog.

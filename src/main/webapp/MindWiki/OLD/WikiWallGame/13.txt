@@ -1,0 +1,19 @@
+The WikiWallGame is played by CitiZens of NooPolis via ScreenR, based on our 16x16 board (the WikiWall) which is also physically located at our LockOffice. Each of the 256 WikiWallCard's RePresent's a WikiPage inside our MindWiki. 
+
+The rules:
+# start to record a ScreenR ScreenCast
+# edit your WikiWall, e.g. RalfLippoldWikiWall
+# add MindProps "WikiWallGame"
+# open a clock on your LapTop and start to type for 2 minutes
+# make sure that you stay inside the time limit
+# count the number of blue, red and black words 
+# add them with the date of ToDay (ReMember that you are FansOfIso8601) to the WikiTable below 
+# publish the ScreenR  and add the DeepLink your ScreenCast
+
+||on       ||player           ||blue||on WikiWall||red||black||total||ScreenCast
+|2010-03-0?|AlexanderFriedland|?|?|?|?|?|http://screenr.com/?
+|2010-03-0?|HolgerHelas       |?|?|?|?|?|http://screenr.com/?
+|2010-03-0?|SoerenRogoll      |?|?|?|?|?|http://screenr.com/?
+|2010-03-07|RalfLippold       |21|21| 1|0|22|http://screenr.com/Vzh
+|2010-03-07|MartinKoser       | 4| 2|12|0|16|http://screenr.com/Lzh
+|2010-03-03|RainerWasserfuhr  |20|20|0|0|20|http://screenr.com/OOh

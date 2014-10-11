@@ -1,0 +1,3 @@
+* MindBroker bestätigen sich wechselseitig als Trustees
+* Sicherheitskritische FreiHeit'en erfordern eine Mindestanzahl an Trustees.
+* SocialPassword

@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* HomePage: http://www.hfv-speyer.de/wirtz/Lehrstuhlinhaber.htm
+* JahrGang: 1964
+* ViAf: http://viaf.org/viaf/40257921

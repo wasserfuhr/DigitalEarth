@@ -1,0 +1,14 @@
+* MindTags: MindPlace
+
+* RiegelPlatz
+* ...
+* BuergerStrasse
+* MoritzburgerPlatz
+* ListStrasse
+* ...
+* Bischofsplatz
+* BischofsWeg
+* AlaunPlatz
+* GoerlitzerStrasse
+* ...
+* GeorgPalitzschStrasse

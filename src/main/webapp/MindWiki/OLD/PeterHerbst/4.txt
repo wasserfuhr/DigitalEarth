@@ -1,0 +1,14 @@
+# JahrGang: 1971
+# BirthDay: 10-11
+# WohnSitz: StrieSen, DresDen
+
+# TimeZone: CEST
+# SprachWelt: de, en-1, und AugenSprache
+# MindBrowser: FireFox, SRWareIron, Ie8
+
+MindSkill: GroundView, KnowLeage for bank, finance, 
+
+* InvitedBy: RainerWasserfuhr
+||AusLand
+|[XingLe:Peter_Herbst2]
+|[SkyPe:pit_autumn]

@@ -1,0 +1,12 @@
+* IsA: CitiZen
+* InvitedBy: RainerWasserfuhr
+* MindId: 21
+* BornIn: 1978
+* HomeStead: StadtBerlin
+* LebensErwartung: 2038
+* MindSkill: ApacheMaven RussischSalsa JavaClass
+|[WorldWideWeb:www.thinkplexx.com]
+|[XingLe:Dimitri_Uwarov]
+|[SkyPe:neokrates]
+|[FaceBook:836618205]
+|[FlickEr:8030162@N02]

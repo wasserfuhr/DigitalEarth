@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Anders_Hejlsberg]
+* DbLp: http://dblp.uni-trier.de/rec/pid/48/2908
+* PageNumber: 13
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge BarneyPell MichaelGenesereth JayTenenbaum AlanKay DanIngalls RobertHirschfeld GuySteele AndersHejlsberg

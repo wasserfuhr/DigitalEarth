@@ -1,0 +1,3 @@
+WebApp's, die unser SocialGrid hostet, haben auf jeder Page einen Link "ViewSource", bei dem man sich den SourceCode der WebApp anschauen kann.
+
+Siehe auch: http://www.langreiter.com/space/2004-08-27

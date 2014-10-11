@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* HomePage: http://www.iro.umontreal.ca/~paquetse/
+
+DbLp: http://dblp.uni-trier.de/rec/pid/23/4514 ? (DbLpBug???)

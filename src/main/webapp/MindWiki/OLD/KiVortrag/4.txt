@@ -1,0 +1,49 @@
+* PieschenTv: http://seesmic.com/videos/thcSdn7qdF
+
+http://www.evoluzzer.info/node/20
+
+RainerWasserfuhr hat am 15.12.2008 um 19:00 Uhr im VereinshausJohannstadt in der StadtDresden beim MontagsKreis einen VorTrag gehalten mit dem Titel
+
+__Wann werden menschliche und maschinelle Intelligenz verschmelzen?__
+
+(Der VorTrag wurde kurzfristig vorgezogen, da NorbertRost kurzfristig erkrankt war).
+
+Auf einer logarithmischen Skala hat RainerWasserfuhr die technischen Kennzahlen
+seiner eigenen Computer, angefangen vom CommodoreSixtyFour (ca. 1984)
+bis 2008 dargestellt.
+
+[{Image src='http://farm4.static.flickr.com/3235/3148361169_e018aee5cf.jpg'}] [*|http://www.flickr.com/photos/rainerw/3148361169/]
+
+Die meisten Kennzahlen folgen einem ExPo'nentiellen Muster.
+
+In der HirnForschung wird die theoretische Rechenleistung des
+HuMan'en Gehirns meist mit einem DeziPetaFlops
+abgeschätzt, also 10.000.000.000.000.000 Fliesspunktoperationen
+pro Sekunde. Bei der SuperComp-Konferenz im CongressCenterDresden im Juni 2008
+wurde mit dem EiBiEm RoadRunner der erste SuperComp'uter 
+vorgestellt, der die PetaFlops-Marke erreichte (Kostenpunkt: 133.000.000 UsDollar).
+
+Bei EiBiEm gibt es zwei ProJect'e zur Simulation HuMan'er Gehirne:
+* BlueBrain
+* CTwoSTwo
+ 
+MitchKapor und RayKurzweil wetten bei LongBetOne um 20.000 UsDollar, ob UnTil2029 der TuringTest
+bestanden wird: Juroren müssen in einem 25-minütigen Test entscheiden, ob sie mit einem
+echten Menschen oder einem ChatBot gechattet haben.
+
+Wir redeten über MoegLich'e, DenkBar'e, WuenschBar'e und WahrSchein'liche ZuKuenfte.
+
+Die 12 anwesenden Teilnehmer beim MontagsKreis wurden einer SchaetzQual unterworfen
+und mussten sich für MitchKapor oder RayKurzweil entscheiden. 75% entscheiden sich für RayKurzweil.
+
+75% der Teilnehmer hielten also für 2029 ein Szenario für WahrSchein'lich (laut Fragestellung also >50%), dass 
+ChatBot's nicht mehr von Menschen unterscheidbar sind.
+
+An diesem Punkt insistierte RainerWasserfuhr darauf, sich die Konsequenzen 
+dieses Szenarios schonungslos mit all seinen Risiken auszumalen.
+FriendlyAi vs DarkAi: AiRisk. Sobald ChatBot's MoegLich sein werden, werden sie
+nicht mehr aus unserem UniVerse verschwinden.
+
+FriendlyAi: Das MindWiki als erster Kristallisationspunkt für einen DigitalTwin, der UnTil2029 den RainerTest bestehen soll.
+
+Im ganzen VorTrag wurde zu keinem Zeitpunkt TheSingularity angesprochen.

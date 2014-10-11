@@ -1,0 +1,3 @@
+http://do.mindbroker.de/
+
+svn://svn.mindbroker.de/opensource/de.mindbroker.doit

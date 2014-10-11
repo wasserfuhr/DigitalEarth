@@ -1,0 +1,7 @@
+* IsA: MindStreet
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/4431513
+* ConnectsTo: WahnsdorferStrasse
+
+MeMo:
+* 2008-12-02: RainerWasserfuhr JeMand: MontagsKreis SeaSteading GoogleSea GoogleEarth
+* 2008-12-01: RainerWasserfuhr JeMand: WimpernPusten SeminarWissen SecondLife LindenDollar DresdenOpenSpace PieschenTv EhochIx HochBegabt MindNumber KinderZeichnung

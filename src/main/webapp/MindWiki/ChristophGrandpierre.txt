@@ -1,0 +1,7 @@
+* IsA: PerSon
+* HomePage: http://www-05.ibm.com/de/ibm/unternehmen/management/grandpierre.html
+* BornIn: 1968
+* BirthDay: 02-11
+* WorksFor: EiBiEm
+
+TopManager

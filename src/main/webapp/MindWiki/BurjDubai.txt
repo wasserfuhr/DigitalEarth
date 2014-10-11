@@ -1,0 +1,10 @@
+* IsA: MindPlace
+* InterWiki: [DeWikiPedia:Burj_Dubai]
+* BreitenGrad: 25.19713
+* LaengenGrad: 55.27411
+* BoundingBox: 50
+* NormalNull: 600
+* PartOf: DuBai
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/47513882
+
+MindBet: Könnte die LockSchuppenAg dort bis 20121231 ein LockOfficeDubai haben? 512m über NormalNull mindestens?

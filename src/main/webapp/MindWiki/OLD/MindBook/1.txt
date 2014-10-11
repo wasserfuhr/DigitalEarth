@@ -1,0 +1,1 @@
+alle IsBn's von Büchern, die BuergerInnen jemals gelesen haben.

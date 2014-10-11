@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* HomePage: http://www.architekturpsychologie-dresden.de/cv.html
+* HasTalked: RainerWasserfuhr YvonneSchubert

@@ -1,0 +1,5 @@
+* IsA: CoWorkingSpace
+* PartOf: OrpheumDresden
+|[TwittEr:CoOrpheum]
+
+PiratePad: http://piratepad.net/CoOrpheum

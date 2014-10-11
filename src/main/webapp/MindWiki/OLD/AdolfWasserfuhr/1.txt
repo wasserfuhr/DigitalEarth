@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* BirthPlace: UnterMausbach
+* JahrGang: 1852
+* BirthDay: 01-08
+* LebensEnde: 1919
+* PapaZwoNull: PeterWilhelmWasserfuhr

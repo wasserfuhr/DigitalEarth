@@ -1,0 +1,10 @@
+* HerKunft: "Latin percipere, pp. perceptus (“‘take hold of, obtain, receive, observe’”) < per (“‘by, through’”) + capere (“‘to take’”);"
+* InterWiki: [AgiriWiki:Perception], [DeWikiPedia:Wahrnehmung]
+* MindQuote: "Die Fähigkeit zur Sinneswahrnehmung (Perzeption) kann bewusst durch AufMerksam'keit gesteigert werden." - DeWikiPedia
+
+fundamental ability of a ConScious system.
+
+instead of PerCeive'ing from RealLife sources (sound, vision, smell, taste etc) we will limit ourselves to already AbsTra'cted sources like WebFeed's or ChatLog's.
+More generally: To PerCeive is to make an HtTp GET.
+
+Then start to build a WorldModel.

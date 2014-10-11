@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/a/AAiken
+* HomePage: http://theory.stanford.edu/~aiken/
+* PageNumber: 5
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi AlexAiken

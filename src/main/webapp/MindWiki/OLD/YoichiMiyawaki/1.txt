@@ -1,0 +1,4 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/81/6413
+* PageNumber: 11
+* PagePath: LarryPage ... AlexSmola KlausRobertMueller KazuyukiAihara MasatoOkada YoichiMiyawaki

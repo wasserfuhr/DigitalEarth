@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.07015
+* LaengenGrad: 13.7475
+* BoundingBox: 30
+
+http://www.flower-power.de/Dresden/Startframe.htm

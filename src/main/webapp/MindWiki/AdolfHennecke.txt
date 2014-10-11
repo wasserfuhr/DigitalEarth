@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Adolf_Hennecke]
+* BornIn: 1905
+* BirthDay: 03-25
+* DiedIn: 1975
+* ViAf: http://viaf.org/viaf/35253283
+* MindSkill: NormBrecher

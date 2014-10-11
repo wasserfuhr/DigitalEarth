@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/j/StefanJablonski
+* HomePage: http://www.ai4.uni-bayreuth.de/de/team/01_Jablonski_Stefan/
+* MindSkill: WorkFlow
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd NorbertStreitz RalfSteinmetz ErichOrtner HartmutWedekind StefanJablonski

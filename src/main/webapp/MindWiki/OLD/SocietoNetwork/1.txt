@@ -1,0 +1,6 @@
+Nachdem ein SocialNetwork eine bestimmte Stufe an Komplexität und Reife erreicht hat,
+könnte es beginnen, ähnliche Binnenstrukturen auszuprägen wie Gesellschaften auch:
+* Ökonomien für die Entlohnung und den Tausch von Dienstleistungen (PieschenBank), 
+* Kodifizierung von Regeln (MindKodex und VerFassung)
+* Instanzen zur Prüfung von Regelbefolgungen (MindTrust) und
+* Mitbestimmungsformen zur von Weiterentwicklung von Regeln (BuergerBeteiligung)

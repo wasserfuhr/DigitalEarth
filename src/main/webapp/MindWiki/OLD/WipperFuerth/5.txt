@@ -1,0 +1,5 @@
+http://www.wipperfuerth.de/ : "Wipperfürth - Die älteste Stadt im Bergischen Land"
+
+* BreitenGrad: 51.116667
+* LaengenGrad: 7.4
+* BoundingBox: 2000

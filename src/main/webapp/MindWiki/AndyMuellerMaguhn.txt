@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Andy_Müller-Maguhn]
+* BornIn: 1971
+* BirthDay: 10-03
+
+ChaosComputerClub

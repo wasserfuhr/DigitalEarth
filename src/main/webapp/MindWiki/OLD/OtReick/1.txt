@@ -1,0 +1,3 @@
+* IsA: DiStrict
+* InterWiki: http://de.wikipedia.org/wiki/Reick
+* NearBy: OtStrehlen, OtDobritz, OtProhlis

@@ -1,0 +1,5 @@
+The SemanticMind will a SemanticWeb based Model of a DigitalTwin of RainerWasserfuhr.
+
+It consists of concrete like places, books, ideas, PerSon's or general ConCept's.
+
+It is created from a public LifeWiki started end of 2006 that grew to a PageCount of over 10.000 WikiPage's UnTil january 2010.

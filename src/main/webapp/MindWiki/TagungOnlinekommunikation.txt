@@ -1,0 +1,5 @@
+* IsA: MindEvent
+* HashTag: tok10
+* MindPlace: StadtBerlin
+
+KlausEck PeterKruse SaschaLobo SacharKriwoj

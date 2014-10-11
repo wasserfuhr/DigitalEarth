@@ -1,0 +1,4 @@
+* IsA: MindPlan
+* NamedAfter: LarryPage
+
+TheGoal: LarryAndSergey join WaveSpirit.

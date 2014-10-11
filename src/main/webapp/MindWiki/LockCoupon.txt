@@ -1,0 +1,17 @@
+The basic UnitOfService sold by LockSchuppenAg.
+
+You can use LockCoupon's for:
+* 1 LockCoupon = 1h usage of CoWorkingSpace
+* 5 LockCoupon's = 1day usage of CoWorkingSpace
+* 80 LockCoupon's = 1 month usage of CoWorkingSpace
+* 2 LockCoupon's = 1 LockSchuppen-BeSuch (1h) with a qualified LockSchuppenFuehrer
+* 10 LockCoupon's = hold a 1 hour WorkShop in the LockAgora, including LockDrinks
+* get a first tour of the FutureLab2056
+* play the WikiWallGame
+* participate in a WorkShop (varying price)
+
+In TheFuture a LockCoupon might also be used at other CoWorkingSpace's operated by LockSchuppenAg (LockFranchise) 
+
+You can buy LockCoupon's in the MindShop or from other LockCouponOwner's.
+
+* ReVenue (updated regularly)

@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/c/ERodneyCanfield
+* HomePage: http://www.cs.uga.edu/~erc/
+* PageNumber: 8 
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker RudiStuder MarkusKroetzsch GuoQiangZhang ERodneyCanfield

@@ -1,0 +1,6 @@
+* IsA: PerSon
+* MindQuote: "I have a deep nostalgia for the future."
+* InterWiki: [DeWikiPedia:FM-2030] [WikiPedia:FM-2030]
+* BornIn: 1930
+* BirthDay: 10-15
+* ViAf: http://viaf.org/viaf/54611393

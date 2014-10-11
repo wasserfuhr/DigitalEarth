@@ -1,0 +1,3 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Frank_Wedekind]
+* BirthDay: 07-24

@@ -1,0 +1,7 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/33/7504
+* HomePage: http://thingthatthinks.com/
+* PageNumber: 10
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge JoergMueller KlausFischer2 PeterLoos ThomasDeelmann RolandGabriel PeterGluchowski MartinBoehringer
+* HasTalked: RainerWasserfuhr
+|[TwittEr:boehr]

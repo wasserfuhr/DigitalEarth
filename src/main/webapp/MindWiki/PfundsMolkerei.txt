@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Pfunds_Molkerei]
+* HomePage: http://www.pfunds.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/306681865
+* BoundingBox: 25
+* MindOne: WilfriedHensel

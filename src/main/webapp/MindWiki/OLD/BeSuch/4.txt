@@ -1,0 +1,49 @@
+Jeder Gast soll 1 LockShare erhalten!:
+
+||On||LockSchuppenFuehrer||Guests
+|20090523|RaWa|AgnesWasserfuhr,WernerWasserfuhr
+| |RaLi,RaWa|HolgerHelas,AlexanderGoetze
+| |RaLi,RaWa|ChristophHinderfeld,SiggiSchwarz,NorbertRost
+| |RaLi,RaWa|MaSc
+| |RaLi,RaWa|MarcS,Thomas???,DrMabe
+| |RaLi,RaWa|MaSc
+
+So könnte ein BeSuch im LockSchuppen 2012 aussehen:
+
+* TineRoyal: Guten Tag, ich heisse Sie herzlich Willkommen in unserem LockSchuppen-ZukunftsLabor. Ich bin Ihr virtueller AvaTar. Mit mir können Sie eine ZeitReise unternehmen und unsere ZuKunft erleben. Unser ZukunftsLabor beinhaltet die Ergebnisse der besten ZukunftsForscher auf PlanetErde.
+Zu Beginn machen wir ein kleines Spiel: Es ist ganz EinFach: Ich nenne eine Zahl und Sie VerDoppel'n sie einfach. Kann es los gehen?
+* JeMand: gut.
+* TineRoyal: 1
+* JeMand: 2
+* TineRoyal: 4
+* JeMand: 8
+* TineRoyal: 16
+* JeMand: 32
+* TineRoyal:  64
+* JeMand: 128
+* TineRoyal: 256
+* JeMand: 512
+* TineRoyal: 1024
+* JeMand: 2048
+* TineRoyal: 4096
+* JeMand: 8...192
+* TineRoyal: 16384
+* JeMand: ...32...7...68
+* TineRoyal: 65536
+ * JeMand: 1..31...072
+* TineRoyal: Gut... vielen Dank bisher. Hier sehen wir die Entwicklung der Rechenleistung von Computern seit 1900: http://www.flickr.com/photos/jurvetson/3656849977/ . Bitte beachten Sie, dass diese Grafik eine sogenannte logarithmische Skala hat. Wenn wir unser VerDoppel-Spiel insgesamt 100 mal hin- und hergespielt hätten, wäre die Zahl 1.267.650.600.228.229.401.496.703.205.376 herausgekommen. Das sind schon über hundert mal mehr als ein menschlicher Körper Atome hat.
+* JeMand: staunt.
+* TineRoyal: Hier sehen wir das menschliche Hirn. Es besteht aus rund 100.000.000.000 Neuronen, die im Durchschnitt mit je etwa 1000 SynApse'n verknüpft sind. Um die Grössenordnung zu veranschaulichen, haben wir unserer vereinfachtes Modell, die MindCube entwickelt: Wenn man alle Neuronen in diesen quadratischen Würfel der Kantenlänge 10cm umformen würde, und alle Neuronen wie in einem Gitter in gleichen Abständen anordnen würde, hätten wir knapp 5000x5000x5000 Neuronen, also 50 pro Millimeter.
+* JeMand: staunt.
+* TineRoyal: Hirnforschung wird die entscheidende Technologie des TwentyFirstCentury. Doch jetzt setzen Sie bitte erst einmal unsere LockCap auf:  http://mindbroker.de/wiki/LockCap. Keine Sorge, alle Geräte im LockSchuppen sind TÜV-geprüft.
+* JeMand: staunt.
+* TineRoyal: Die LockCap misst Ihre Hirnströme. Sie hat 32 Sensoren, deren Messergebnisse drahtlos auf diesen BildSchirm übertragen werden. Jetzt werden wir lernen, wie Sie nur durch Denken Ihre UmWelt mit der LockCap gestalten können. Jetzt kommen wir zu einem der ersten ZukunftsForscher, dessen Ideen den LockSchuppen massgeblich beeinflusst haben.
+[TineRoyal knipst über ihr eigenes LockCap die NovaLed-Lämpchen am KurzweilShrine an]
+* TineRoyal: Dies hier ist AlanTuring, einer der Pioniere der Informatik. Er hat massgeblich die Entschlüsselung der deutschen Enigma- Verschlüsselungsmaschinen im 2. Weltkrieg ermöglicht. Er war einer der Ersten, die sich über Gedanken über KuenstlicheIntelligenz gemacht haben. RayKurzweil hat 2002 um 20.000 UsDollar gewettet, dass bis spätestens 2029 der TuringTest bestanden wird.
+* TineRoyal: Jetzt kommen wir zu unserer LifeSciences-Abteilung: Hier sehen wir CraigVenter, einen der Väter der menschlichen Gensequenzierung. Dies ist der Beginn seiner DNA-Sequenz: TAACCCTAACCCTAACCCTAACCCTAACCCTAACCCTAACCCTAACCCTAACCCTAA  Die vollständige Sequenz besteht aus weiteren rund 3200000000 A-, C-, G- und T- Sequenzen.
+Die gesamte Sequenz ist seit 4. September 2007 öffentlich zugänglich. 
+* TineRoyal: Das hier ist SergeyBrin. JahrGang 1973 und UnternehmensGruender von GoogleInc. Heisst ActiveHelp. 
+*JeMand: das ist ja so genial! wird es eine broschüre o. ä. über den inhalt dieser ZeitReise geben? oder ein usb-stick oder WikiPedia > ZeitReise? das kann sich ja kein mensch merken...sowas wie ein Museumsführer! am besten mit Fotos für das visuelle Verständnis... [lizenz zum löschen]
+* TineRoyal: Jetzt kommen wir zu unserer NanoTech-Abteilung
+* NochJemand: GutenTag, isch würd hier gern ko-wörgn! … wo sind denn hier die SteckDosen? ;-) #dialektEditor
+* JeMand: EiNe AutomMat'ische CamelCaseKorrektur, PrakTisch! Ein RobOter? 

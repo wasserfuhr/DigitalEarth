@@ -1,0 +1,16 @@
+* InterWiki: [WebSeitz:SocialGraph]
+* InspiredBy: http://bradfitz.com/social-graph-problem/
+* CoinedBy: BradFitzpatrick
+
+The union of the FoafKnows-relationships of existing SocialNetwork's __plus__ the owl:SameAs-mappings between SocialNetwork's. The result: A MindId.
+
+The SocialGraph might emerge from
+* SwDf
+* DbLp
+* DbPedia
+* EnsId
+* ViAf
+* GoogleBuzz
+* FaceBook
+* TwittEr
+* XingLe

@@ -1,0 +1,5 @@
+||Mind||Wann||Bis||Wo||Nach||GeFaehrt||Was||kmh
+|RainerWasserfuhr|20070306:1036|:1045|WirkZentrum|WirkZentrum|Füsse|Einmal um den Blog|
+|DanielPoodratchi|20070306 | |STR|DRS||800
+|AndreasWeigel|20070306 | |STR|DRS||800
+|ChristineSchlinck|20070307|FRA|Valetta

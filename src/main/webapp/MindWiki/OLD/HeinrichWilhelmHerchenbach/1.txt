@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* JahrGang: 1765
+* BirthDay: 12-02
+* PapaZwoNull: JohannPeterHerchenbach
+* MamaZwoNull: AnnaBarbaraSoentgerath
+* LebensEnde: 1828

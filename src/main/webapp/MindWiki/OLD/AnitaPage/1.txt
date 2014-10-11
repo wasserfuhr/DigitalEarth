@@ -1,0 +1,7 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Anita_Page], [OpenCyc:AnitaPage]
+* JahrGang: 1910
+* BirthDay: 08-04
+* LebensEnde: 2008
+* HasTalked: BusterKeaton, ClarkGable, GretaGarbo
+* MindSkill: RealFilm, IchSchweige

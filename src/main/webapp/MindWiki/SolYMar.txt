@@ -1,0 +1,4 @@
+* IsA: GastStaette
+* HomePage: http://www.solymar-leipzig.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/640602445
+* PartOf: GottschedStrasse

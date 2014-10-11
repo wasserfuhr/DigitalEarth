@@ -1,0 +1,3 @@
+* MindTags: FutureCard
+* PreDictDe: Es gibt öffentlich zugangliche ComputableData mit dem FamilyTree mindestens 1.073.741.824 lebender PerSon'en
+* FutureNumber: 30

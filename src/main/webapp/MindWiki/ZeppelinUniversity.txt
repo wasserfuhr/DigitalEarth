@@ -1,0 +1,16 @@
+* IsA: HochSchule
+* InterWiki: [DeWikiPedia:Zeppelin_University]
+* SloGan: "Neu-Gierig-Toll-Kühn"
+* BreitenGrad: 47.6632
+* LaengenGrad: 9.4428
+* BoundingBox: 1250
+* MindOne: StephanJansen
+
+Bald WikiBasiert unter http://zeppelin.mindbroker.de/ ???
+
+EinfachMachen:
+* DirkBaecker
+* HelmutWillke
+* MatthiasHorx
+* NicoStehr
+* StephanJansen

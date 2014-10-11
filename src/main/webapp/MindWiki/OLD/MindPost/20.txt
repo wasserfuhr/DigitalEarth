@@ -1,0 +1,40 @@
+! Post 1: MindMac-NetzTeil
+Seit dem StartUpWeekEnd befindet sich dieses NetzTeil des MindMac von RainerWasserfuhr in HamBurg bei JasonFranklinStokes:
+
+[{Image src='http://farm2.static.flickr.com/1392/621357797_9fac5c91f0_m.jpg'}]
+http://www.flickr.com/photos/rainerw/621357797/
+
+Frage: Wer könnte Kurier sein:
+
+Geplanter Lieferweg:
+||von                ||an         ||am     ||in     ||Status
+|JasonFranklinStokes |CemBasman   |200711??|HamBurg |danke!
+|CemBasman           |VivianPein  |20071219|HamBurg |
+|VivianPein          |SoerenStamer|2007122?|HamBurg |
+
+weiterer möglicher Weg:
+
+SoerenStamer -> TinaPickhardt -> UteMoritz -> JirkaSchaefer -> YvonneSchubert -> RainerWasserfuhr
+
+Da das NetzTeil ein wichtiges Arbeitsmittel für den VorStand von MindBroker ist,
+erhält jeder Kurier 200 KayGroschen aus dem Budget von MindBroker für den Botengang.
+
+
+! Post 2: MindPhone-NetzTeil
+Im OberHolz befindet sich das NetzTeil des MindPhone.
+
+Geplanter Lieferweg:
+||von                ||an         ||am     ||in     ||Status
+|FalkLueke           |VivianPein  |200711??|HamBurg |pending
+
+Jeder Kurier sollte bei der Übergabe das Paket ordnungsgemäß mit einem MindEdding [unterschreiben|http://www.wortfeld.de/2007/10/paeckchen/].
+
+Der Weg jedes Pakets wird selbstredend als GPolyline auf der MindMap getrackt.
+
+
+! Post 3: MindBluse
+
+Geplanter Lieferweg:
+||von                ||an             ||am     ||in     ||Status
+|UteMoritz           |RainerWasserfuhr |20071224|WirkZemtrum|done
+|RainerWasserfuhr    |ChristineSchlinck|200712??|WirkZemtrum|pending

@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Jay_Wright_Forrester] [WebSeitz:JayForrester] [WikiWikiWeb:JayForrester]
+* JahrGang: 1918
+* BirthDay: 07-14
+* ViAf http://viaf.org/viaf/34456655
+* MindSkill: SystemDynamics

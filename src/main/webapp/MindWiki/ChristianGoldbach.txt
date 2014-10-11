@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* InterWiki: [OpenCyc:ChristianGoldbach-Scientist]
+* BirthDay: 03-18

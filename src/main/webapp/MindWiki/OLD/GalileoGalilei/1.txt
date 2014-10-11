@@ -1,0 +1,4 @@
+* MindTags: ProFessor
+* JahrGang: 1564
+* BirthDay: 02-15
+* LebensEnde: 1642

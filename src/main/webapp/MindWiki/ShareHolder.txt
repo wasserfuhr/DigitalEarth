@@ -1,0 +1,17 @@
+An EnterPrise of NooPolis has 1.000 or 1.000.000 shares for different ShareHolder's.
+
+!MindBroker ShareHolder:
+||                ||Share
+|RainerWasserfuhr |850
+|CemBasman        |50
+|YvonneSchubert   |30
+|AndreasWeigel    |20
+|Mini-ShareHolder |10
+
+Mini-ShareHolder:
+* TimBonnemann
+* RicardaDHerbrand
+* DimitriUwarov
+* JensFreydank
+
+Details: MindFloor.

@@ -1,0 +1,38 @@
+* IsA: MindAward
+* InterWiki: [DeWikiPedia:Pritzker-Preis]
+
+RedBlueGame:
+* 2010 KazuyoSejima RyueNishizawa
+* 2009 PeterZumthor
+* 2008 JeanNouvel
+* 2007 RichardRogers
+* 2006 PauloMendesDaRocha
+* 2005 ThomMayne
+* 2004 ZahaHadid
+* 2003 JornUtzon
+* 2002 GlennMurcutt
+* 2001 JacquesHerzog PierreDeMeuron
+* 2000 RemKoolhaas
+
+* 1984 RichardMeier 
+* 1983 IeohMingPei
+* 1982 KevinRoche
+* 1981 JamesStirling
+* 1980 LuisBarragan
+* 1979 PhilipJohnson
+
+* 1985 HansHollein
+* 1986 GottfriedBoehm
+* 1987 KenzoTange
+* 1988 GordonBunshaft OscarNiemeyer
+* 1989 FrankGehry
+* 1990 AldoRossi
+* 1991 RobertVenturi
+* 1992 AlvaroSiza
+* 1993 FumihikoMaki
+* 1994 ChristianDePortzamparc
+* 1995 TadaoAndo
+* 1996 RafaelMoneo
+* 1997 SverreFehn
+* 1998 RenzoPiano
+* 1999 NormanFoster

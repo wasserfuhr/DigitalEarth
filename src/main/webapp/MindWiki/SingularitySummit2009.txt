@@ -1,0 +1,33 @@
+* MindTags: MindEvent
+* HashTag: ss09
+
+NewYork SingularitySummit
+
+RedBlueGame:
+* AndersSandberg
+* AubreyDeGrey
+* BelaNagy
+* BenGoertzel
+* BradTempleton
+* DavidChalmers
+* EdBoyden
+* EliezerYudkowsky
+* GaryDrescher
+* GaryMarcus
+* GaryWolf
+* GregoryNenford
+* ItamarArel
+* JuergenSchmidhuber
+* MarcusHutter
+* MichaelNeilsen
+* NedSeeman
+* PeterThiel
+* RandalKoene
+* RayKurzweil
+* RobinHanson
+* AnnaSalamon
+* StephenWolfram
+* StuartHameroff
+* WilliamDickens
+
+AttendedBy: DavidOrban RodFurlan UlrikeReinhard EtAl

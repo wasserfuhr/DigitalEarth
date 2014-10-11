@@ -1,0 +1,16 @@
+* IsA: MindEvent
+* HomePage: http://barcampberlin3.mixxt.org/
+* HashTag: bcberlin3
+* MindPlace: StadtBerlin
+
+A BarCamp.
+
+CitiZens:
+* JanBoehme
+* PierreKerchner
+* OliverBerger
+* StefanNitzsche
+* TinaPickhardt
+
+Interesting MindPeople:
+* BjoernOgnibeni ChristianHeller FalkLueke GernotPoetsch MagdalenaBoettger MarkusBeckedahl MartinKoser PhilVonSassen EtAl

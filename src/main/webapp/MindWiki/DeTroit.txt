@@ -1,0 +1,4 @@
+* IsA: MindCity
+* InterWiki: [DeWikiPedia:Detroit] [WebSeitz:DetroitMi]
+* MindOne: DaveBing
+* PartOf: MichiGan

@@ -1,0 +1,3 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Ai_Weiwei]
+* BirthDay: 08-28

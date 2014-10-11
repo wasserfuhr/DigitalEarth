@@ -1,0 +1,10 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Immanuel_Kant], [OpenCyc:ImmanuelKant]
+* JahrGang: 1724
+* BirthDay: 04-22
+* LebensEnde: 1804
+* MindSkill: MindEyes, OrdNung
+
+ReFrame ImmanuelKant:
+* [DeWikiPedia:Kritik_der_reinen_Vernunft]: DiFer
+* [DeWikiPedia:Kritik_der_praktischen_Vernunft]: SeiMutig, DoIt, ReDo, VerFassung

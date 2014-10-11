@@ -1,0 +1,11 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Aubrey_de_Grey] [PlomWiki:AubreyDeGrey]
+* BornIn: 1963
+* BirthDay: 04-20
+* DbLp: http://dblp.uni-trier.de/rec/pid/16/100
+* MindSkill: LebensErwartung ImMortal
+* PageNumber: 9
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman JohnHopcroft RobertEndreTarjan ThomasLengauer ShoshanaWodak JacquesVanHelden DavidGilbert AubreyDeGrey
+|[FaceBook:709735014]
+
+[TwittEr:aubreydegrey]?

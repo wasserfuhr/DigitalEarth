@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Gojko_Mitić]
+* BornIn: 1940
+* BirthDay: 06-13

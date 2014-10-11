@@ -1,0 +1,3 @@
+* MindTags: ProFessor
+* HomePage: [http://kogs.informatik.uni-hamburg.de/~neumann/]
+* MindSkill: ArTelligence, MindEyes, ComputerVision

@@ -1,0 +1,5 @@
+The basic questions:
+which games do you play?
+when? when is GameOver?
+
+FiniteAndInfiniteGames

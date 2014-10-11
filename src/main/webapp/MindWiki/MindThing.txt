@@ -1,0 +1,2 @@
+* KindOf: NamedEntity
+* DeFine: a concrete physical thing with spacial boundary. Includes: The body of PerSon's

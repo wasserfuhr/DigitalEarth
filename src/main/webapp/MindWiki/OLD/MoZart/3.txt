@@ -1,0 +1,10 @@
+* MindTags: MindPeople
+* VorName: Wolfgang Amadeus
+* NachName: Mozart
+* InterWiki: [DeWikiPedia:Wolfgang_Amadeus_Mozart]
+* MamaZwoNull: AnnaMariaPertl
+* PapaZwoNull: LeopoldMozart
+* JahrGang: 1756
+* BirthDay: 01-27
+* LebensEnde: 1791
+* MindSkill: MindMusic

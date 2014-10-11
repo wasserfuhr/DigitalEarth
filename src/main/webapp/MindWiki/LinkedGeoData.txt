@@ -1,0 +1,4 @@
+* HomePage: http://linkedgeodata.org/About
+* MindOne: SoerenAuer
+
+SemanticWeb OpenStreetMap

@@ -1,0 +1,5 @@
+* MindTags: ReView
+
+Similar to FamousFifteen:
+For different SocialNetwork's: define 5 people for whom you can guarantee
+that they are real users with real identities.

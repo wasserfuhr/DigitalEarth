@@ -1,0 +1,14 @@
+* InterWiki: [DeWikiPedia:Maslowsche_Bedürfnispyramide], [WikiWikiWeb:MaslowsHierarchyOfNeeds]
+
+from bottom to top:
+* WeltFrieden
+* ObDach
+* MindCuisine
+* GeSund'heit
+* VerMoegen
+* RePutatio
+* MeinWerk
+
+and will need new levels on top for TransHuman beings:
+* ImMortal
+* ArTelligence

@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* OpenStreetMap: http://www.openstreetmap.org/?lat=50.94323&lon=13.94373&zoom=15 ToDo
+* NamedAfter: RottwernDorf

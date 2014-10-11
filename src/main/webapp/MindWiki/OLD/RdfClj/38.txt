@@ -1,0 +1,122 @@
+;
+;
+;{{{
+
+
+((defn rdf []
+  (handle "rdf"
+   (fn [request response]
+    (do
+     (.setContentType response "text/plain")
+      (let [
+        wikiName (.substring (.getRequestURI request) (.length "/rdf/")) ; "RainerWasserfuhr"
+        pageIndex (str " " (fetch-url-s "http://mindbroker.de/pageIndex.jsp") " ") ; TODO: might be cached
+        p (fetch-url (str "http://mindbroker.de/wiki/" wikiName "?skin=raw"))
+        l (line-seq (new java.io.LineNumberReader (new java.io.StringReader p)))
+        f (re-find #"(\* ([A-Z]+[a-z]+[A-Z]+[a-zA-Z0-9]*):)+" p)
+       ]
+       (str
+        (if (.equals "true" (.getParameter request "showPrefixes")) 
+; see http://mindbroker.de/wiki/NameSpace
+"
+@prefix :     <http://noopolis.org/rdf/>.
+@prefix dc:   <http://purl.org/dc/elements/1.1/>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix owl:  <http://www.w3.org/2002/07/owl#>.
+@prefix ldg:  <http://linkedgeodata.org/triplify/>.
+@prefix ldgv: <http://linkedgeodata.org/vocabulary/>.
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+")
+  ((defn props [lines prop account]
+    (if (not-empty lines)
+      (if prop
+        (let [
+           reg #"\* ([A-Z]+[a-z]+[A-Z]+[a-zA-Z0-9]*): ([^$]*)"
+           line (first lines)
+           fl (re-find reg line)
+           tag (second fl)
+           values (get fl 2)
+          ]
+          (if (not-empty tag)
+            (str
+              (if
+                (or
+                  (.equals "IsA" tag)
+                  (.equals "MindTags" tag))
+                (apply str
+                  (map (fn [cl]
+                   (str ":" wikiName " a :" cl ".\n"))
+                  (.split (.replace values "," " ")))))
+              (if
+                (.equals "HomePage" tag)
+                (str
+                  ":" wikiName " foaf:homepage <" (.replace (.replace values "[" "") "]" "") ">.\n"))
+              (if
+                (.equals "InterWiki" tag)
+                (let [
+                   reg #"\[([^\]]*)"
+                   fl (re-find reg values)
+                   iws (rest fl)
+                  ]
+                  (apply str
+                   (map (fn [iw]
+                    (str ":" wikiName " :interWiki \"" iw "\".\n"))
+                   iws))))
+              (if
+                (.equals "OpenStreetMap" tag)
+                (str
+                  ":" wikiName " owl:sameAs <http://linkedgeodata.org/triplify/"
+                  (.substring values (.length "http://www.openstreetmap.org/browse/"))
+                  "#id>.\n"))
+              (if
+                (.equals "KindOf" tag)
+                (str
+                  ":" wikiName " rdfs:subClassOf " values "\n"))
+              (props (rest lines) true false))
+            (props lines false true))
+        )
+        (if account
+         (if (.equals "||AusLand" (first lines))
+           (props (rest lines) false true)
+           (let [
+             reg #"\|\[([A-Z]+[a-z]+[A-Z]+[a-zA-Z0-9]*):([^\]]*)"
+             line (first lines)
+             fl (re-find reg line)
+             accountS (second fl)
+             accountName (get fl 2)
+            ]
+           (if (not-empty accountS)
+             (str "
+:" wikiName " foaf:holdsAccount 
+  [ a foaf:OnlineAccount;
+    foaf:name \"" accountS "\";
+    foaf:accountName \"" accountName "\"].\n"
+               (props (rest lines) false true))
+             (props lines false false)
+           )))
+         (let [
+             reg #"([A-Z]+[a-z]+[A-Z]+[a-zA-Z0-9]+)"
+             line (first lines)
+             fl (re-find reg line)
+            ]
+          (str
+           (apply str
+            (map
+             (fn [x]
+              (if
+               (.contains pageIndex (str " " x " "))
+               (str ":" wikiName " :LinkedTo :" x ".\n")
+               (str ":" wikiName " :WantedPage \"" x "\".\n")
+              ))
+             (rest fl)))
+           (props (rest lines) false false)
+          )
+        ))
+       )))
+   l true false))
+)))
+   (fn [] "")
+   )))
+
+;}}}

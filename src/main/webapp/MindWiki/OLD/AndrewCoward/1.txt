@@ -1,0 +1,12 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/96/2768
+* HomePage: http://cs.anu.edu.au/~Andrew.Coward/
+* PageNumber: 11
+
+PagePath:
+# LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker RudiStuder YorkSure
+# NicolaGuarino [http://dblp.uni-trier.de/db/indices/a-tree/g/Guarino:Nicola.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/w/Welty:Christopher_A=.html]
+# BringsjordSelmer [http://dblp.uni-trier.de/db/indices/a-tree/b/Bringsjord:Selmer.html]
+# RonSun [http://dblp.uni-trier.de/db/indices/a-tree/s/Sun:Ron.html]
+# AndrewCoward

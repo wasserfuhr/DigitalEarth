@@ -1,0 +1,13 @@
+The goal of the AiGame is to create a friendly artificial intelligence (for short: ArTelligence).
+
+Inspired by the ReSearch of BenGoertzel and his company NovaMente: Create a virtual multiuser world which is inhabited by real people and intelligent agents. Create an economical system with it's currency, banking system, (learning von SecondLife) TradeRegister with virtual enterprises and trading of goods and services. All this will be modeled with SemanticWeb technologies, OpenSource software, open APIs and open content.
+The acitivities of humans and intelligent agents will governed by a virtual e-Democracy with its own ConStitution.
+The players are CitiZens of a selforganizing SocialNetwork.
+
+* Our virtual world: NooPolis
+* Our currency: KayGroschen
+* Our bank: PieschenBank
+
+Questions:
+* How to build AI?
+* Why building AI?

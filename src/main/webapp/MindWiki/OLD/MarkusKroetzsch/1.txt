@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/85/782
+* HomePage: http://korrekt.org/
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker RudiStuder MarkusKroetzsch

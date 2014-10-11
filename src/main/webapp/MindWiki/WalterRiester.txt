@@ -1,0 +1,9 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Walter_Riester]
+* BornIn: 1943
+* BirthDay: 09-27
+* HomePage: http://www.walterriester.de/
+* HasTalked: GerhardSchroeder SabineChristiansen RainerWasserfuhr
+* PhonedWith: ChristineSchlinck
+* RiesterNummer: 0
+* MindSkill: RiesterRente

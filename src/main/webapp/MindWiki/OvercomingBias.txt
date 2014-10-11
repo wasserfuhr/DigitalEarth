@@ -1,0 +1,49 @@
+http://www.overcomingbias.com/
+
+About:
+* ArTelligence
+* TuringMaschine
+* TerraMind
+* PredictionMarket
+* ConScious'ness
+
+Editors:
+* RobinHanson
+* EliezerYudkowsky
+
+Contributors:
+* NickBostrom
+* HalFinney
+* NicholasShackel
+* PeterMcCluskey
+* JustinWolfers
+* PaulGowder
+* DavidBalan
+* PatriFriedman
+* AndersSandberg
+* CarlShulman
+* ArnoldKling
+* BruceBritton
+* JamesMiller
+* WillWilkinson
+* StuartArmstrong
+* AndrewGelman
+* MatthewPianalto
+* EricFalkenstein
+* NormanSiebrasse
+
+||                                                     ||DcAuthor       ||DcTitle
+|OvercomingBias:2008/12/sensual-experience]            |EliezerYudkowsky|Sensual Experience
+|OvercomingBias:2008/12/presuming-bets-are-bad]        |EliezerYudkowsky|Presuming Bets are Bad
+|OvercomingBias:2008/12/futarchy-is-nyt-buzzword-of-08]|RobinHanson     |'Futarchy' is NYT Buzzword of '08
+|OvercomingBias:2008/12/experts-are-for-certainty]     |EliezerYudkowsky|Experts Are For Certainty
+|OvercomingBias:2008/12/complex-novelty]               |EliezerYudkowsky|Complex Novelty
+|OvercomingBias:2008/12/high-challenge]                |EliezerYudkowsky|High Challenge
+|OvercomingBias:2008/12/weak-social-theories]          |RobinHanson     |Weak Social Theories
+|OvercomingBias:2008/12/christmas-signaling]           |RobinHanson     |Christmas Signaling
+|OvercomingBias:2008/12/fun-theory]                    |EliezerYudkowsky|Prolegomena to a Theory of Fun
+|OvercomingBias:2008/12/the-right-thing]               |EliezerYudkowsky|The Right Thing
+|OvercomingBias:2008/12/who-cheers-the-referee]        |RobinHanson     |Who Cheers The Referee?
+|OvercomingBias:]        |EliezerYudkowsky|
+|OvercomingBias:]        |EliezerYudkowsky|
+ 

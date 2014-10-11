@@ -1,0 +1,7 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Jim_Morrison], [OpenCyc:JimMorrison]
+* MindQuote: "Eine äußere Revolte ist ein Weg zu innerem Frieden.“
+* JahrGang: 1943
+* BirthDay: 12-08
+* LebensEnde: 1971
+* MindSkill: MindMusic

@@ -1,0 +1,4 @@
+* IsA: PerSon
+* WebLog: http://dearjunior.blogspot.com/
+* MindSkill: DomainModel
+|[TwittEr:danbjson]

@@ -1,0 +1,2 @@
+* IsA: SuperMarket
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/262134960

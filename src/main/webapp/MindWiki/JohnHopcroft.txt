@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:John_E._Hopcroft]
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/JohnEHopcroft
+* BirthDay: 10-03
+* PageNumber: 3
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman JohnHopcroft
+* HochSchule: CornellEdu

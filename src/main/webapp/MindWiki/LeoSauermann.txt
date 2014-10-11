@@ -1,0 +1,5 @@
+* IsA: UnternehmensGruender
+* DbLp: http://dblp.uni-trier.de/rec/pid/05/4610
+* HomePage: http://www.leobard.net/
+|[TwittEr:leobard]
+|[XingLe:Leo_Sauermann]

@@ -1,0 +1,30 @@
+* MindTags: MindEvent
+
+RedBlueGame:
+* OliverBaer
+* fukami
+* OliverGassner
+* SteffenGilge
+* RalfGraf
+* ChristophHörl
+* MatthiasKryn
+* BrigitteLüdecke
+* RenateMillebner
+* ThiemoMättig
+* PhilippNaderer
+* CharlotteNordahl
+* BeatePaland
+* RenéPönitz
+* GernotPoetsch
+* DieterRappold
+* JensRietdorf
+* MartinRöll
+* ColinSchlüter
+* FrankScholz
+* YvonneSchubert
+* MichaelSchuster
+* CleoSchütze
+* MandySchuetze
+* JanTheofel
+* RainerWasserfuhr
+* MathiasWellner

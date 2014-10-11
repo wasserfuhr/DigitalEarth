@@ -1,0 +1,13 @@
+* MindQuote: "vague but exciting"
+
+||ComPare    ||W3C     ||WwMc
+|since       |1994     |2009
+|MindOne     |TimBl    |TrueMan
+|Link        |HyperLink|InterWiki
+|MarkUp      |HtMl     |HyperMindMarkUpLanguage
+|ProtoCol    |HtTp     |MiTp
+|API         |CGI      |EditSource
+|Style       |CSS      |???
+|MarketLeader|GoogleInc|MindBroker
+|Ads         |AdWords  |NeuroAd
+|WebOfTrust  |-        |MindId

@@ -1,0 +1,23 @@
+* JahrGang: 1960
+* BirthPlace: StadtBerlin
+* WohnSitz: StadtBerlin
+* SprachWelt: de, en-3, fr-1, no-1, it-1
+* MindSkill: WikiNode
+||AusLand
+|[ClaimId:MattisManzel]
+|[SkyPe:mattismanzel]
+|[XingLe:Mattis_Manzel]
+|[FaceBook:610196227]
+|[FlickEr:mattismanzel]
+|[StudiVz:de1c07bda4a9a825]
+|[LinkedIn:MattisManzel]
+|[DelIcioUs:MattisManzel]
+|[TwittEr:mattis]
+|[DeWikiPediaUser:MattisManzel]
+|[YouTube:MattisManzel]
+|[WikiPediaUser:MattisManzel]
+|[SecondLife:Mattis_Voltaire]
+|[MyOpenId:MattisManzel]
+|[WorldWideWeb:communitywiki.org/odd/MattisManzel/FrontPage]
+
+MattisManzel IstEin wiki-Schreiber.

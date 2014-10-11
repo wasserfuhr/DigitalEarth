@@ -1,0 +1,20 @@
+* IsA: EnterPrise
+* NamedAfter: OtPieschen
+* MindOne: RainerWasserfuhr
+
+AndreasTest CoBoter ClaudiaTest OsterSpaziergang PhaetonBallett SemperRobOper WikiWallBot WillowBot ZwingeRasimo
+
+
+|| ||ShareHolder
+|1000|RainerWasserfuhr
+
+OrderBook:
+* RainerWasserfuhr offers 1 share for 1 KayGroschen
+* RainerWasserfuhr offers 1 share for 2 KayGroschen
+* RainerWasserfuhr offers 1 share for 4 KayGroschen
+* RainerWasserfuhr offers 1 share for 8 KayGroschen
+* RainerWasserfuhr offers 1 share for 16 KayGroschen
+* RainerWasserfuhr offers 1 share for 32 KayGroschen
+* RainerWasserfuhr offers 1 share for 64 KayGroschen
+
+if you want to trade, please go to PieschenBank and make a corresponding PayMent to the bidder.

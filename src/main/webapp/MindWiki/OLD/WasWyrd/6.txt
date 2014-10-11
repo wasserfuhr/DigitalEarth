@@ -1,0 +1,27 @@
+Unsere Termine:
+
+||Wann||Bis||Wo||Was||Wer
+|20070313:1800|:2100|DD, Reichenbachstraße|Business-English|YvonneSchubert
+|20070316:1930|:2359|Ethorion|Zukunft des Internet|RainerWasserfuhr, YvonneSchubert
+|20070320:1800|:2100|DD, Reichenbachstraße|Business-English|YvonneSchubert
+|20070323:1930|:2359|Ethorion|Literarischer Abend|YvonneSchubert
+|20070324:1000|:1830|Buchmesse Leipzig|Treffen|OliverGassner,NN,AlbanNikolaiHerbst
+|20070324:2000|:0400|WirkZentrum|WikiTchen|viele MindBroker
+|20070327:1200|:1600|privat|Zahn-OP|YvonneSchubert
+|20070327:1800|:2100|DD, Reichenbachstraße|Business-English|YvonneSchubert
+|20070330:1930|:2359|Ethorion|Thema: NN|RainerWasserfuhr, YvonneSchubert
+|20070428:1500|:2300|DusselDorf|4D-Schach|NN
+|20070823|:|USA|http://www.barcampusa.org/|RainerWasserfuhr
+|20070827|:|USA|http://www.burningman.com/|RainerWasserfuhr
+
+
+!Was War:
+|20070306:1100|:1700|WirkZentrum|RichardWagnerSinngularIty|RainerWasserfuhr, YvonneSchubert
+|20070306:1700|:2400|Dresden|Unternehmerstammtisch|RainerWasserfuhr
+|20070307:1000|:1400|MarktHalle|UnsereSorge'n zu ErdBeben beheben|RainerWasserfuhr,RaimarScherer
+|20070307:1600|:2359|privat|privat|YvonneSchubert
+|20070308:1800|:2200|Eppelsdorf|Lesung AndreasMalessa|AndreasWeigel,DanielPoodratchi
+|20070308:1800|:2300|Ranis|Lesung anh|NN,AlbanNikolaiHerbst
+|20070309:1400|:1500|Dresden Prohlis|Kundentermin|RainerWasserfuhr
+|20070310:0800|:1500|privat|privat|YvonneSchubert
+|20070313:0800|:1000|privat|privat|YvonneSchubert

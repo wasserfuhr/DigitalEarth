@@ -1,0 +1,7 @@
+* HerKunft: [WikiPedia:Manhattan]: "derives from the word Manna-hata, as written in the 1609 logbook of Robert Juet, an officer on Henry Hudson's yacht Halve Maen (Half Moon)"
+* MindTags: MindPlace
+* BreitenGrad: 40.802
+* LaengenGrad: -73.952
+* BoundingBox: 19000
+* SlimNess: 0.2
+* GraDient: 20

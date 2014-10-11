@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Ingolf_Roßberg]
+* BornIn: 1961
+* BirthDay: 03-22
+* ViAf: http://viaf.org/viaf/65171940

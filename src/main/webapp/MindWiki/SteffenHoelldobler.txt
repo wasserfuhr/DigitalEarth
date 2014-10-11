@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/48/415
+* HomePage: http://www.wv.inf.tu-dresden.de/People/Hoelldobler.html
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann WolfgangBibel SteffenHoelldobler

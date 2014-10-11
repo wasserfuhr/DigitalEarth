@@ -1,0 +1,30 @@
+* MacBook oder MacBookPro 
+* OS X 10.4
+
+Standard-Software:
+* FireFox
+* SunBird
+* ThunderBird
+* Skype
+* BitsOnWheels
+* NeoOffice
+* VLC
+* ChickenOfTheVnc
+* Adium
+* SecondLife
+* GoogleEarth
+* FreeMind
+
+Für Entwickler:
+* SQuirreLSQL
+* Eclipse 3.2
+* ITerm
+
+||Name||Geburt||Modell||HauptUser||HomeBase||
+|tasso|199x|Compaq|RainerWasserfuhr|WirkZentrum
+|ulysses|200x|T21|RainerWasserfuhr|WirkZentrum
+|triton2|200203|PowerBook|ChristineSchlinck|KaetheKollwitzUfer
+|triton|2003?|PowerBook|RainerWasserfuhr|WirkZentrum
+|othello|200701|MacBook|AndreasWeigel|OberReut
+|neptun|2007?|MacBookPro|RainerWasserfuhr|WirkZentrum
+|ares|20070323|T830|RainerWasserfuhr|WirkZentrum

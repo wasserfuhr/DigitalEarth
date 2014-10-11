@@ -1,0 +1,18 @@
+* MindTags: RandomlyGeneratedPageName PerSona
+* IntelLigence: 138
+* KasimirNummer: 0
+* LifeExpectancy: 2042
+* KnowLedge: 9040
+* GeSund: 0.90
+* InVentory: MoleskineOne NepTun MindPhone MindErsatzPhone BikeOne ToothBrushOne GarageOne
+* TestosteroneLevel: 45
+* MindPlace: StadtDresden
+* BlutDruck: 130/82
+* FullNess: 0.4
+* ThirstiNess: 0.5
+* HappiNess: 0.7
+* MentalModel: PerSon MindPlace MindThing Word BuchStabe MindNumber URL sentence sound PhoneNumber JavaClass EnterPrise currency country city water eye glasses brake key lock finger hand leg ear heat story book
+
+JxRa Esfandiary RuSirius PatternRecognition
+
+Menge aller VerSteh'baren BeDeut'ungen ist endlich.

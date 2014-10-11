@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Johannes_Grenzfurthner]
+* JahrGang: 1975
+* BirthDay: 06-13
+* HasTalked: ChristianHeller
+|[TwittEr:johannes_mono]

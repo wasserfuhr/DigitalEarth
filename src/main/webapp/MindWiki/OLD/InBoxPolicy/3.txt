@@ -1,0 +1,18 @@
+!MindPhone
+Anrufen darf nur, wer die als Nummer vom Anrufer vorher bei XingLe freigegeben hat
+
+!IhMail
+Email ist tot. SMTP sind "broken". SPF wird es nicht retten. MailIsDead! Deshalb __IhMail AbSchalten__.
+Jede IhMail die RainerWasserfuhr empfängt darf er im MindWiki veröffentlichen
+
+!TotesHolz
+Die Zusendung von TotesHolz ist nur in begründeten Ausnahmefällen erlaubt:
+* EinSchreiben
+* Nahrungsmittel
+** insbesondere darf AgnesWasserfuhr BerlinerBrot schicken
+* Postkarten aus dem UrLaub
+
+Der Absender darf prinzipiell nie ein UnterNehmen sein, sondern
+nur eine natürliche Person.
+
+Wer die InBox-Policy verletzt, wird bald hier gelistet ;)

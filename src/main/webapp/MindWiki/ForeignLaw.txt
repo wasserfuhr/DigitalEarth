@@ -1,0 +1,18 @@
+Since NooPolis wants to build it's own legal system, we have to define
+the boundaries to existing legal systems.
+
+The critical situation will be, when one of CitiZens tries to enforce
+legal rule concerning NooPolis without using the MindCourt.
+
+Some ForeignLaw's that may apply due to the multiple citizenship of the ImPrint holder RainerWasserfuhr:
+* § 5 Telemediengesetz 
+* § 55 Rundfunkstaatsvertrag
+
+Many other laws may apply
+* [DeWikiPedia:Kreditwesengesetz]
+* [DeWikiPedia:Markenrecht]
+* [DeWikiPedia:Jugendschutz]
+* ...
+
+One of the basic ideas of NooPolis is to __forget__ about any existing rules and laws
+and start a rule system from scratch as free agreement of the CitiZens, based on the ConStituion.

@@ -1,0 +1,17 @@
+* InspiredBy: TeamAcademy, BildungsBurg
+
+Wir stellen das BildungsSystem vom Kopf auf die Fuesse: PeerToPeer-ErZieh'ung und WeiterBildung!
+
+SingularBachelor:
+* Lehrer: RainerWasserfuhr
+* Schueler: RalfLippold, ChristineSchlinck, (YvonneSchubert?)
+
+LeanBachelor:
+* Lehrer: RalfLippold
+* Schueler: RainerWasserfuhr
+
+Weitere MindSkill's im Angebot:
+* JavaBachelor
+* WikiBachelor
+* InternetBachelor
+* FacebookBachelor

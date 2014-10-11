@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Wilhelm_Raabe]
+* BornIn: 1831
+* BirthDay: 09-08
+* ViAf: http://viaf.org/viaf/12379702

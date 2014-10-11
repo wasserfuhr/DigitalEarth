@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/51/4838
+* ErdosNumber: 2
+* ErdosPath: PaulErdos WinnieLi UrielRothblum

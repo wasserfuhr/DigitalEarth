@@ -1,0 +1,10 @@
+Da die WeltSprache noch nicht existiert, können BuergerInnen auf ihrer Profilseite
+ihre SprachWelt als MindProps angeben, und zwar als eine durch "|" getrennte Liste von [DeWikiPedia:ISO_639]-1 Kürzeln, an die man die Kenntnisstufen von [http://de.wikipedia.org/wiki/Wikipedia:Babel] anhängen kann.
+
+{{{
+* SprachWelt: de | en-2 | fr-1
+}}}
+bedeutet dann: 
+* Dieser Benutzer hat Deutsch als Muttersprache.
+* Dieser Benutzer kann Artikel in englischer Sprache bearbeiten und beteiligt sich an Diskussionen. („Wenn ich in einem Land dieser Sprache Urlaub mache, kann ich mich problemlos verständigen.“).
+* Dieser Benutzer versteht die französische Sprache gerade so gut, dass er sie als Quelle für Artikel in seiner Muttersprache verwenden kann. Er kann einfache Fragen stellen oder beantworten. („Ich kann die Sprache besser lesen/verstehen als schreiben/sprechen.“).

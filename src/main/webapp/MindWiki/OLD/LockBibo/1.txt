@@ -1,0 +1,8 @@
+! Library of the LockSchuppen (open to users):
+
+
+||Titel||Author || ISBN || Owner || lend to 
+| Kaizen - Der Schlüssel zum Erfolg der Japaner im Wettbewerb   |MasaakiImai | 3-548-35332-0 | AlexanderFriedland | LockOffice
+| Home Made Electronic Arts   | DominikLandwehr | 978-3-85616-462-1 | AlexanderFriedland | LockOffice
+| Business Model Generation   | AlexanderOsterwalder | 978-2-8399-0580-0 | RalfLippold | LockOffice
+| cell1   | cell2 | cell3 | cell4 | cell5

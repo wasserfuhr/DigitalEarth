@@ -1,0 +1,3 @@
+* MindTags: MinisTer
+* InterWiki: [OpenCyc:DagHammarskjold]
+* BirthDay: 07-29

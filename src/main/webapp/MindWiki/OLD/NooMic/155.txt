@@ -1,0 +1,332 @@
+; NooMic is NoMic with SourceCode for new NooPolis WebApp's - InSpir'ed by PerlNomic
+;{{{
+(let
+ [
+  hConf (new org.apache.hadoop.hbase.HBaseConfiguration)
+  hBase (new org.apache.hadoop.hbase.client.HBaseAdmin hConf)
+  logTableDesc (new org.apache.hadoop.hbase.HTableDescriptor "ChatLog")
+ ]
+(defn handle [name view & [controller]]
+  (do
+   (if
+    (.startsWith (.getPathInfo request) (str "/" name))
+    (str
+       "<h2>" name "</h2>" (view)))
+   (if
+    (.startsWith (.getPathInfo request) (str "/do/" name))
+    (do
+      (controller)
+      (.sendRedirect response (str "/" name "?message=created"))))
+)))
+(if (.startsWith (.getPathInfo request) "/do/base/new")
+ (let
+   [newTableDesc (new org.apache.hadoop.hbase.HTableDescriptor (.getParameter request "table"))]
+   (do
+    (.addFamily
+     newTableDesc
+     (new org.apache.hadoop.hbase.HColumnDescriptor 
+       (str (.getParameter request "family") ":")))
+    (.createTable hBase newTableDesc)
+    (.sendRedirect response (str "/base?message=created&" (.getParameter request "table")))
+   )
+ )
+ (str
+       (if
+         (.getParameter request "text")
+         (let
+             [batch
+               (new org.apache.hadoop.hbase.io.BatchUpdate 
+               (.toString (- (Long/MAX_VALUE) (.getTime (new java.util.Date)))))]
+             (do
+               (.put batch
+                "log:date"
+                 (.getBytes (.getParameter request "text")))
+               (.put batch
+                "log:session"
+                 (.getBytes (.getId (.getSession request))))
+               (.put batch
+                "log:user"
+                 (.getBytes 
+                     (if (.equals "FFC9D312FEE1A39576255B084E53DEBF"
+                           (.getId (.getSession request)))
+                       "RainerWasserfuhr"
+                       (.getRemoteHost request))))
+               (.commit
+                 (new org.apache.hadoop.hbase.client.HTable hConf "ChatLog")
+                 batch)))
+       )
+  "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
+    \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r" (read-string "(+ 23 34)")
+  "<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">
+    <head>
+      <title>NooPolis - Hacking the SourceCode of the NooSphere</title>
+      <link href='http://id.mindbroker.de/css/layout_vertical_listnav.css' rel='stylesheet' type='text/css'/>
+  <style type='text/css'> 
+#nav_main2 {
+	width: 100%;		/* Einfassen der Floats im IE */
+	float:left;         /* Einfassen der Floats in allen anderen Browsern */
+	background: #4e5155;
+	border-top: 1px #666 solid; 
+	line-height: 0px;
+	font-size: 90%;
+	height: 2.2em;
+	overflow:hidden;
+}
+
+#nav_main2 ul {
+	float:left;
+	display:inline;
+	margin:0;
+	padding: 0;
+	margin-left: 21px;
+	border-left: 0px #aaa solid; 
+	border-right: 0px #fff solid;
+	border-bottom: #f00 1px solid;
+}
+
+#nav_main2 ul li {
+	float: left;
+	display:inline;
+	margin: 0;
+	padding: 0;
+	font-size: 1.0em;
+	line-height: 1em;
+	list-style-type: none;
+	border-left: 0px #fff solid;
+	border-right: 0px #aaa solid;
+}
+
+#nav_main2 ul li a {
+	display:block;
+	width: auto;
+	font-size: 1em;
+	font-weight: normal;
+	background: transparent;
+	text-decoration: none;
+	color: #aaa;
+	margin: 0;
+	padding: .6em 0.8em;
+}
+
+#nav_main2 ul li a:focus,
+#nav_main2 ul li a:hover,
+#nav_main2 ul li a:active {
+	color: #fff;
+	text-decoration: none;
+}
+
+a.editpage               { color: #FF0000; text-decoration: none;
+ 	                         border-bottom: 1px dashed red; }
+
+#nav_main2 ul li#current2 { 
+	background: #4e5155 no-repeat bottom center; 
+}
+
+#nav_main2 ul li#current2 a,
+#nav_main2 ul li#current2 a:focus,
+#nav_main2 ul li#current2 a:hover,
+#nav_main2 ul li#current2 a:active {
+	color: #fff;
+	font-weight: bold;
+	background: transparent;
+	text-decoration: none;
+}
+  </style>
+    </head>
+    <body>
+     <div id='page_margins'>
+      <div id='page'>
+       <div id='header'>
+        <form action='http://mindbroker.de/do/login'>
+         <input type='hidden' name='wikiTarget' value=''/>
+  	  <div id='topnav'>
+            <!-- start: skip link navigation -->
+	    <a class='skip' href='#navigation' title='skip link'>Skip to the navigation</a><span class='hideme'>.</span>
+ 	    <a class='skip' href='#content' title='skip link'>Skip to the content</a><span class='hideme'>.</span>
+	    <!-- end: skip link navigation -->
+   	   <span>
+	    <a href='http://mindbroker.de/wiki/ImPressum'>Impressum</a> | 
+	    <input type='hidden' name='targetWebApp' value='null'/>
+         	  Login:
+	          <label for='wikiName'>WikiName:</label><input name='wikiName'/>
+	          <label>Password:</label><input name='password' type='password' size='8'/>
+	          <input type ='submit' value='Login'/>
+	          <br/>
+	          Noch kein Login? <a href='http://mindbroker.de/wiki/JoinNow'>JoinNow</a>!
+	    </span>
+	  </div>
+         </form>
+        <h1>NooPolis</h1>
+       </div>
+       <div id='nav'>
+ 	<a id='navigation' name='navigation'></a>
+	<div id='nav_main'>
+  	  <ul>
+	   <li " (if (.equals (.getPathInfo request) "/") "id='current'") "><a href='/'>Home</a></li>
+    	   <li " (if (.startsWith (.getPathInfo request) "/wiki") "id='current'") "><a href='/wiki'>Wiki</a></li>
+	   <li " (if (.startsWith (.getPathInfo request) "/base") "id='current'") "><a href='/base'>Base</a></li>
+    	   <li " (if (.startsWith (.getPathInfo request) "/board") "id='current'") "><a href='/board'>Board</a></li>
+    	  </ul>
+        </div>
+        <div id='nav_main2'>
+          <ul>
+           <li ><a href='/'><span>Profil</span></a></li>"
+           (if (.startsWith (.getPathInfo request) "/base")
+             "<li id='current2TODO'><a href='/base/new'><span>new Table</span></a></li>"
+           )
+         "</ul>
+  	 </div>
+       </div>
+       <div id='main'>
+        <div id='col2'>
+         <p>NooPolis is like WikiPedia, but additionally you can edit the source code
+           of our MindWiki WebApp. To do so, you have to gain the VerTrauen of existing
+           <a href='http://mindbroker.de/wiki/CitiZens'>CitiZens</a>.
+         </p>
+        </div>
+        <div id='col3'>
+         <div>
+         <h3>What are you thinking?</h3>
+         <h3 style='padding-left:5pt;'><i>Qu'est-ce que tu pense?</i></h3>
+         <h3 style='padding-left:10pt;'>Was denkst Du?</h3>
+         <form action='/' method='post'>
+          <div>
+           <textarea name='text' rows='5' cols='40' style='font-size:12pt;'></textarea>
+           <div style='float:right;'>
+            <input type='submit' value='Think!'/>
+           </div>
+          </div>
+          </form>
+         </div>"
+           (if (.equals (.getPathInfo request) "/")
+             (str
+                "<h2>Timeline</h2>
+                <table>"
+                ((defn scanZ [zz]
+                  (let [log (.next zz)]
+                   (if log
+                    (let [logValue (.getValue (.get log "log:date"))
+                          logTs (.getTimestamp (.get log "log:date"))
+                          now (.getTime (new java.util.Date))
+                          diffSec (long (/ (- now logTs) 1000))
+                          diffH (long (/ diffSec 3600))
+                         ]
+                      (str
+                        "<tr><td>"
+                           (if (< diffSec 60) (str diffSec " sec ago")
+                             (if (< diffSec 3600) (str (long (/ diffSec 60)) " min ago")
+                               (str diffH " h ago"))) "<br/><span style='font-size:7pt;'>"
+                           (.format
+                              (new java.text.SimpleDateFormat "yyyy-MM-dd hh:mm:ss")
+                              (new java.util.Date
+                                logTs)) "</span></td><td>"
+                            (if (.containsKey log "log:user")
+                               (new String (.getValue (.get log "log:user")))
+                               "RainerWasserfuhr") "</td><td>"
+                            (new String logValue) " <a href=''>#</a></td></tr>" 
+                     (scanZ zz)))
+                   )
+                  )
+                 )
+                 (.getScanner
+                   (new org.apache.hadoop.hbase.client.HTable hConf "ChatLog") 
+                   (into-array ["log:"]))
+                )
+               "</table>"
+             )
+           )
+       (handle "board"
+        (fn []
+       	 (str 
+       	  "<table>"
+ 	  (apply str 
+	   (map
+	     (fn  [x]
+	       (str
+	         "<tr>"
+	         (apply str (map (fn [y] (str "<td>20" x y "</td>")) (range 10)))
+                 "</tr>")) 
+	     (range 10)))
+	  "</table>")))
+       (if
+         (.startsWith (.getPathInfo request) "/puppenspiel")
+       	 (str
+       	  "<h2>PuppenSpiel</h2>
+       	  <table>"
+ 	  (apply str
+	   (map
+	     (fn  [x]
+	       (str
+	         "<tr><td><input value='" (char (+ 65 x)) "'></td></tr>"))
+	     (range 26)))
+	  "</table>")
+       )
+       (if
+         (.startsWith (.getPathInfo request) "/base")
+         (if (.startsWith (.getPathInfo request) "/base/")
+          (if (.startsWith (.getPathInfo request) "/base/new")
+           (str
+                "<h2>New Table:</h2>
+                  <form action='/do/base/new' method='post'>
+                    Name: <input name='table'/><br/>
+                    Family: <input name='family'/><br/>
+                    <input type='submit' value='create'/>
+                  </form>"
+           )
+           (let
+             [pageName (.substring (.getPathInfo request) (.length "/base/"))]
+             (str
+                "<h2>Table: " pageName "</h2>"
+                ((defn scanZ [zz]
+                  (let [next (.next zz)]
+                   (if next
+                    (str
+                     "<li>" (.format
+                              (new java.text.SimpleDateFormat "yyyy.MM.dd hh:mm:ss")
+                              (new java.util.Date 
+                                (.getTimestamp (.get next "log:date")))) ": "
+                            (new String (.getValue (.get next "log:date"))) "</li>" 
+                     (scanZ zz))
+                   )
+                  )
+                 )
+                 (.getScanner
+                   (new org.apache.hadoop.hbase.client.HTable hConf pageName) 
+                   (into-array ["log:"]))
+                )
+             )
+           )
+          )
+          (str
+            "<h2>Tables</h2>"
+            (apply str 
+             (map
+              (fn [x]
+                (str
+                 "<a href='/base/" (.getNameAsString x) "'>" (.getNameAsString x) "</a> "
+                ))
+              (.listTables hBase))
+            )
+         )
+         )
+       )
+   "      </div>
+        </div>
+        <div id='footer'>
+	  <a href='http://mindbroker.de/wiki/NooMic?skin=raw'>ViewSource</a>
+	  <sup><a href='http://mindbroker.de/wiki/ViewSource'
+	          title='what is ViewSource?'>?</a></sup>
+	  - <a href='http://mindbroker.de/Edit.jsp?page=NooMic'>EditSource</a>
+	  <sup><a href='http://mindbroker.de/wiki/EditSource'
+	          title='what is EditSource?'>?</a></sup>
+	  - Layout based on <a href='http://www.yaml.de/'>YAML</a>.
+	  Memory: " (.totalMemory (Runtime/getRuntime)) "
+	</div>
+       </div>
+      </div>
+    </body>\r"
+  "</html>"
+ )
+)
+)
+;}}}

@@ -1,0 +1,10 @@
+Ein FutureCaptain lädt SpielerInnen ein und leitet das FutureGame.
+
+Zu Beginn legt der FutureCaptain zwei Spielfelder auf den Spieltisch:
+* das TwentyFirstCentury als FutureMap
+* die SecondHalfOfTheChessboard mit den FutureNumber's
+
+Dann erklärt er das aktuelle FutureLaw mit FutureCard's, FutureNumber's, MindBet's etc.
+
+Ziel eines FutureGame ist es, möglichst viele KayGroschen zu gewinnen.
+Ein FutureGame endet, wenn der FutureCaptain GameOver sagt.

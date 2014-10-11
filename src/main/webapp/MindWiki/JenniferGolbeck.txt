@@ -1,0 +1,8 @@
+* IsA: PerSon
+* SwDf: http://data.semanticweb.org/person/jennifer-golbeck
+* DbLp: http://dblp.uni-trier.de/rec/pid/48/2412
+* HomePage: http://www.cs.umd.edu/~golbeck/
+* PageNumber: 5
+* PagePath: LarryPage TerryWinograd NorbertStreitz WendyHall JimHendler JenniferGolbeck
+
+BestPaperAward IsWc 2009

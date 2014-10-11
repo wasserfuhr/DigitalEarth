@@ -1,0 +1,2 @@
+Bald: Eine WebApp, die automatisch das Wiki editiert, wenn bestimmte EreignisFenster-Trigger im PerformancePanorama feuern.
+Wer wagt den TuringTest?

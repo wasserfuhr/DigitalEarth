@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* NamedAfter: StadtKoeln
+* PartOf: WilschDorf

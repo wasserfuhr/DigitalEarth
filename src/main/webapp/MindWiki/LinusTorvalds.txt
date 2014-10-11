@@ -1,0 +1,8 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Linus_Torvalds]
+* JahrGang: 1969
+* BirthDay: 12-28
+* MindBlog: http://torvalds-family.blogspot.com/
+* MindSkill: OpenSource
+|[TwittEr:linus_torvalds] 
+(<--GhostWriter??)

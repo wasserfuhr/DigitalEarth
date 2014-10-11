@@ -1,0 +1,75 @@
+SynTax of the MindWiki: (Subset of JspWiki SynTax)
+
+CamelCase
+
+!List
+{{{ 
+* item 1
+** item 1.1
+*** item 1.1.1
+* item 2
+}}}
+
+* item 1
+** item 1.1
+*** item 1.1.1
+* item 2
+* item 3
+
+!Numbered List
+{{{ 
+# item 1
+# item 2
+# item 3
+}}}
+
+# item 1
+# item 2
+# item 3
+
+!Headlines
+{{{
+!Headline
+}}}
+
+!Headline
+
+{{{
+!!Headline
+}}}
+!!Headline
+
+
+{{{
+!!!Headline
+}}}
+!!!Headline
+
+{{{
+!!!Headline
+}}}
+!!!Headline
+
+!Links
+{{{
+[W3C|http://w3.org/]
+}}}
+
+[W3C|http://w3.org/]
+
+!Images
+{{{
+[{Image src='http://farm4.static.flickr.com/3614/3426702414_fd71d46dfd_m.jpg'}]
+}}}
+[{Image src='http://farm4.static.flickr.com/3614/3426702414_fd71d46dfd_m.jpg'}]
+
+!WikiTable
+{{{
+||Head1||Head1
+|Cell 1.1|Cell 1.2
+|Cell 2.1|Cell 2.2
+}}}
+
+||Head1||Head1
+|Cell 1.1|Cell 1.2
+|Cell 2.1|Cell 2.2

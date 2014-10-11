@@ -1,0 +1,11 @@
+* MindTags: WikiMind
+* InterWiki: [WebSeitz:BillSeitz]
+* WohnSitz: NewYork
+* MindFaves: HlMencken
+
+Experte für CamelCase.
+
+||AusLand
+|[WorldWideWeb:webseitz.fluxent.com]
+|[DelIcioUs:seitz]
+|[TwittEr:BillSeitz]

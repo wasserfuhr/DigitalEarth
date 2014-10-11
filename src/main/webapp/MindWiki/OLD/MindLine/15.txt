@@ -1,0 +1,26 @@
+Die MindBrokerAg soll eine riesengrosse SpielWiese werden, auf es nur ganz selten eine DeadLine geben soll. Zur Zeit gibt es folgende Deadlines:
+
+||am     ||Ziel
+|20070331|MuevaPlan
+|20070405|MindBrokerKg Übergabe Steuerunterlagen an ChristineSchlinck
+|20070406|DoThings alpha
+|20070413|MindBrokerKg Jahresabschluss 2005 an Finanzamt
+|20070430|MindColors
+|20070430|MindLogo
+|20070520|MindBrokerKg Jahresabschluss 2006
+|20071231|MindBrokerAg
+|20071231|ServiceLevel
+|20080101|Redundantes Monitoring für UnserGrid
+|20081231|Finde PortFolioManager für WarrenBuffet
+|20090302|SecondLips
+|20100303|DelIq
+|20151231|Baubeginn MindTower
+|20200401|Opening GruenesWunder
+|20201231|Opening MindTower
+
+Alte DeadLines:
+||am     ||Ziel
+|20070331|SecondSalsa
+|20070324|WikiTchen
+|20070316|Vortrag bei Ethorion
+|20070315|Projektantrag an RaimerScherer schicken

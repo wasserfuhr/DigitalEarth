@@ -1,0 +1,4 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/18/5628
+* PagePath: ... NorbertKuhn IsabelJohn
+|[XingLe:Isabel_John]

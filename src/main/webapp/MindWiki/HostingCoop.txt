@@ -1,0 +1,6 @@
+Idea: Build a hosting CoOp where you can store __all__ your personal data on a server of our SocialGrid, including:
+* OpenId-based spam-free mail
+* your personal Blog
+* your Jabber based personal instant messaging server
+* your foto gallery
+* your personal wiki - interlinked with wikis of your friends via InterWiki

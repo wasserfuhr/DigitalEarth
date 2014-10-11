@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Alessandro_Cagliostro]
+* BornIn: 1743
+* DiedIn: 1795
+* MindSkill: PreTender

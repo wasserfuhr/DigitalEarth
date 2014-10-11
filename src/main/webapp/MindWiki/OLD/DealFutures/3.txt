@@ -1,0 +1,9 @@
+Wer kauft FaceBook? YaHoo oder MicroSoft?
+
+Geschätzte Deal-Volumes:
+||Deal||Schätzung||von
+|SecondLife|  $?m|YvonneSchubert
+|SecondLife|$400m|RainerWasserfuhr
+|FaceBook  |  $9b|RainerWasserfuhr
+
+DoIt: Eine WebApp, um auf zukünftige Übernahmedeals zu wetten.

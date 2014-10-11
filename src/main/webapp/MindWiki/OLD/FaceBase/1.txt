@@ -1,0 +1,3 @@
+The FaceBase is the set of all known faces of a MiNd,
+
+starting from MamaZwoNull, PapaZwoNull, and up to HalleBerry.

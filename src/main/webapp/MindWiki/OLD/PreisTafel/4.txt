@@ -1,0 +1,10 @@
+Eintrittspreise für einen ZuKunft'tag im LockSchuppen:
+||Alter von||bis||EuRo
+|128|255|4
+| 63|127|8
+| 32| 63|16
+| 16| 31|8
+|  8| 15|4
+|  4|  7|2
+|  2|  3|1
+|  0|  1|0

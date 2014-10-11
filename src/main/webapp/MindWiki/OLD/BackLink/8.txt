@@ -1,0 +1,35 @@
+* InterWiki: [WikiWikiWeb:BackLink]
+
+!RePort:
+|4169|MindTags
+|2922|InterWiki
+|1770|MindPeople
+|1268|HomePage
+|1136|BirthDay
+| 969|JahrGang
+| 840|MindPlace
+| 787|RainerWasserfuhr
+| 585|ProFessor
+| 322|NooPolis
+| 236|StadtDresden
+| 219|ChristineSchlinck
+| 189|MindBroker
+| 186|KayGroschen
+| 172|RalfLippold
+| 166|YvonneSchubert
+| 159|LockSchuppen
+| 129|RayKurzweil
+| 113|VerFassung
+| 109|PlanetErde
+| 108|PieschenBank
+| 105|EuRo
+|  98|HeikeRibke
+|  85|PieschenTv
+|  73|WirkZentrum
+|  67|GunterDueck
+|  67|HotTopics
+|  65|DanielPoodratchi
+|  63|DoIt
+|  59|ViAf
+|  50|WikiLender
+|  28|ZigaTurk

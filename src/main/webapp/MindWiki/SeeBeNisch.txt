@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Markranst%C3%A4dt#Ortsgliederung]
+* BreitenGrad: 51.28333
+* LaengenGrad: 12.23333
+* BoundingBox:
+* MindCount:

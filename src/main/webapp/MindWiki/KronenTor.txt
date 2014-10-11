@@ -1,0 +1,4 @@
+* IsA: MindPlace
+* PartOf: DresdenZwinger
+
+[DeWikiPedia:Zwinger_(Dresden)#Kronentor]

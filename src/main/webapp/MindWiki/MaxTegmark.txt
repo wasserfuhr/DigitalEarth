@@ -1,0 +1,10 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Max_Tegmark]
+* BornIn: 1967
+* BirthDay: 05-05
+* DbLp: http://dblp.uni-trier.de/rec/pid/25/6578
+* PageNumber: -1
+* HomePage: http://space.mit.edu/home/tegmark/
+* MindSkill: QuantumMind
+
+MitEdu

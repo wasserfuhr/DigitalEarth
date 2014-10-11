@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* SwDf: http://data.semanticweb.org/person/peter-fox
+* DbLp: http://dblp.uni-trier.de/rec/pid/f/PeterFox
+* HomePage: http://tw.rpi.edu/wiki/Peter_Fox
+* PageNumber: 11
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker MichaelSintek DanielOlmedilla JenniferGolbeck MarianneWinslett KurtStockinger ShishirBharathi PeterFox2
+* MindSkill: SemanticWiki

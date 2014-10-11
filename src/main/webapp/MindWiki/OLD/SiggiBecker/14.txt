@@ -1,0 +1,108 @@
+* MindTags: SingularityMind
+* WohnSitz: DuesselDorf
+* EnErgie: 400000
+||AusLand
+|[FriendFeed:siggibecker]
+|[DelIcioUs:siggiB]
+|[TwittEr:siggibecker]
+|[WorldWideWeb:www.siggibecker.de/blog/]
+|[SlideShare:SiggiB]
+
+Erste unvollständige Liste von erwähnten Personen und Konzepten:
+
+2005:
+* AstorPiazzolla ("Piazolla")
+* TheloniousMonk
+* CharlesMingus
+* RoscoeBartlett
+* AlphaCentauri
+* WolfgangClement
+* WikiPedia
+* WilliamEdwardsDeming
+* JosephJuran
+* DonAlphonso
+* MarioSixtus
+* JohnCrawford
+* DerekDeSollaPrice
+* ChristinePeterson
+* VerenaHuberDyson
+
+2004:
+* SusanCookGreuter
+* JeanPiaget
+* ClareWGraves
+* StanislavGrof
+* KenWilber
+* AbrahamMaslow
+* FrankTipler
+* FreemanDyson
+* NikolaiKardashev
+* RobertBradbury
+* MattiasHorx
+* ChristopherReeves
+* EliasCanetti
+* NorbertWiener
+* RayKurzweil
+* GeorgeBenson
+* BobMetcalfe
+* ClayShirky
+* BrunoDeFinetti
+* TomPeters
+* GuidoBrombach
+* KurtJansson
+* HermanKahn
+* GregoryBateson
+* LawrenceKohlberg
+* AlvarFreude
+* ChrisPhoenix
+* MikeTreder
+* AubreyDeGrey
+* MarikaRoeck
+* JohnBrockman
+* EricDrexler
+* JohnSmart
+* MichaelPowell
+* GordonMoore
+* ElizierYudkowsky 
+* SteveJurvetson 
+* JacobBekenstein
+* CycloTron
+* JohnAllenPaulos
+* EmerGier
+* IsaacAsimov
+* StrephonWilliams
+* KlarTraum
+* HarryBosma
+* GeorgeSoros
+* RobertScoble
+* WarrenBuffett
+* BillGates 
+* GeorgePor
+* TeilhardDeChardin
+* CraigVenter
+* EdwardDeBono
+* RalphWaldoEmerson
+* HugoDeGaris
+* RainerMariaRilke
+* KommUnion
+* LaRochefoucauld
+* OmeGa
+* DavidAllen
+* FreeMind
+* MartinRoell
+* BaltasarGracian
+* TheSingularity
+* FranzKafka
+* EliezerYudkowsky ("Elizier")
+* ShockLevel
+* PeakOil
+* AndrewZolli
+* SynBio
+* TimBray
+* MichaelCrichton
+
+2003:
+* AlDi
+* ArthusCClarke
+* ArthurSchopenhauer
+* MooresLaw

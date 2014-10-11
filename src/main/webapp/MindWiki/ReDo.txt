@@ -1,0 +1,52 @@
+* MindQuote: "WeAreWhatWeRepeatedlyDo" - MrAristotle
+
+DoIt RePeat'edly:
+
+WikiTable:
+||ReDo per||OrderedByShares||last    ||do      ||it
+|sec     |RainerWasserfuhr|MeNow     |do       |HeartBeat
+|4 sec   |RainerWasserfuhr|MeNow     |PsyChe   |
+|hour    |RainerWasserfuhr|2010-02-06|read     |hourly BookMark's and MindFeeds
+|day     |RainerWasserfuhr|2010-02-06|read     |daily MindFeeds
+|day     |RainerWasserfuhr|2010-02-07|do       |ManageMyLove
+|3 days  |RainerWasserfuhr|2010-02-06|read     |MindPaper
+|3 days  |RainerWasserfuhr|2010-01-19|check    |SocialGrid-Status
+|3 days  |RainerWasserfuhr|2010-02-05|do       |SocialBackup
+|3 days  |RainerWasserfuhr|2010-01-10|pour     |MindGreen
+|week    |RainerWasserfuhr|2007-11-20|sort     |TotHolz-InBox
+|week    |RainerWasserfuhr|2010-02-05|check    |BankAccount
+|week    |RainerWasserfuhr|2008-09-22|review   |DoIt
+|week    |RainerWasserfuhr|2009-09-17|read     |XingLe-Termine
+|week    |RainerWasserfuhr|2008-09-22|ReView   |ReDo
+|week    |RainerWasserfuhr|2010-01-18|ReView   |WikiLender
+|week    |RainerWasserfuhr|2010-01-18|ReView   |DiscussionForum
+|week    |RainerWasserfuhr|2009-08-02|read     |weekly MindFeeds
+|2 weeks |RainerWasserfuhr|2009-09-18|plan     |CashFlow
+|2 weeks |RainerWasserfuhr|2009-09-01|clean    |DoppelRoom
+|2 weeks |RainerWasserfuhr|2009-06-19|weigh    |BodyOne
+|month   |RainerWasserfuhr|2008-09-22|ReView   |IdeenPool
+|month   |RainerWasserfuhr|2007-12-06|ReView   |ReView
+|month   |RainerWasserfuhr|2010-01-11|do       |UstVa
+|month   |RainerWasserfuhr|2010-01-27|RePort   |PageCount
+|2 months|RainerWasserfuhr|2010-01-19|BackUp   |TwittEr
+|2 months|RainerWasserfuhr|2009-12-03|do       |HairCut
+|2 months|RainerWasserfuhr|2010-01-19|BackUp   |DelIcioUs
+|2 months|RainerWasserfuhr|2010-01-19|BackUp   |BlogLines
+|2 months|RainerWasserfuhr|2008-03-19|BackUp   |MindMac
+|2 months|RainerWasserfuhr|2010-03-23|change   |ToothBrush
+|2 months|RainerWasserfuhr|2009-01-14|ReView   |GiftSchrank
+|2 months|RainerWasserfuhr|2009-01-15|ReView   |WantedPages
+|3 months|RainerWasserfuhr|2008-05-19|ReFactor |DelIcioUs TagCloud
+|3 months|RainerWasserfuhr|2010-12-22|do       |SuggestFriends
+|year    |RainerWasserfuhr|2010-01-19|calculate|LebensErwartung
+|year    |RainerWasserfuhr|2008-12-30|do       |JahresAbschluss
+|year    |RainerWasserfuhr|2010-01-19|check    |ItRs
+|-| | | |
+|month   |RalfLippold     |2009-05-05|ReView   |ReView
+|-| | | |
+|hour    |ChristianHeller |2009-02-06:0000|check|IhMail
+|day     |ChristianHeller |2009-02-05|check    |AnrufBeantworter
+|day     |ChristianHeller |2009-02-05|check    |BankAccount
+|-| | | |
+|month   |HeikeRibke      |2008-08-14|do       |SocialBackup
+|month   |HeikeRibke      |2008-09-21|check    |BegruessungsGeld-PayMent's

@@ -1,0 +1,3 @@
+* IsA: Person
+* InterWiki: [DeWikiPedia:Holm_Friebe]
+* HasTalked: ChristianHeller

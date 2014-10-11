@@ -1,0 +1,7 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Jan_Peter_Balkenende]
+* BornIn: 1956
+* BirthDay: 05-07
+* EnsId: http://www.okkam.org/ens/id8dff2e3c-8e47-4251-850d-bbc99624567a
+* ViAf: http://viaf.org/viaf/18169244
+|[LinkedIn:janpeterbalkenende]

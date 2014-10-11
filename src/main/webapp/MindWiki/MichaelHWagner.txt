@@ -1,0 +1,6 @@
+* WohnSitz: NeuStadt
+* SprachWelt: de, en, fr, es, it, la
+* MindSkill: WeinLiebhaber
+||AusLand
+|[XingLe:MichaelH_Wagner]
+|[DeWikiPediaUser:Mihewag]

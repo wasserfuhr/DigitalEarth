@@ -1,0 +1,3 @@
+* MindTags: UnternehmensGruender
+* JahrGang: 1904
+* BirthDay: 06-11

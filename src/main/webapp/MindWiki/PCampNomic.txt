@@ -1,0 +1,16 @@
+* HomePage: http://mudball.net/nomic/
+
+NoMic at ParticipationCamp
+
+players:
+* HolgerNauheimer
+* MattCooperrider (admin)
+* RainerWasserfuhr
+* StephanDohrn	
+
+ideas:
+* allow score points to be transferable between players
+* play via TwittEr, FaceBook and NooPolis
+* connect with [TwittEr:twollars], KayGroschen and UsDollar
+* make the game ''much''faster
+* get inspirations from AgoraNomic, PerlNomic and NooMic

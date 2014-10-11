@@ -1,0 +1,9 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Peter_Kruse]
+* BornIn: 1955
+* BirthDay: 01-30
+* HomePage: http://www.nextpractice.de/en/company/prof-dr-peter-kruse
+* MindSkill: SystemDynamics
+* MindFaves: BiblioNetz DidYouKnow
+|[TwittEr:peter_kruse]
+|[FaceBook:100000510463807]

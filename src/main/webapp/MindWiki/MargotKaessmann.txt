@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Margot_Käßmann]
+* BornIn: 1958
+* BirthDay: 06-03
+* ViAf: http://viaf.org/viaf/52539015

@@ -1,0 +1,17 @@
+* InterWiki: [WebSeitz:BigCo]
+
+OrderedBy MarketCap:
+* ExxonMobil 
+* GeneralElectric
+* ChinaMobile
+* Industrial and Commercial Bank of China
+* MicroSoft
+* RoyalDutchShell
+* GazProm
+* AT&T
+* CitiGroup
+* BankOfAmerica
+* EiBiEm
+* SocieteGenerale
+* DeutschePost
+* SapAg

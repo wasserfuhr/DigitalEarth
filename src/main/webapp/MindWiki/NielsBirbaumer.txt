@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Niels_Birbaumer]
+* DbLp: http://dblp.uni-trier.de/rec/pid/36/991
+* BornIn: 1945
+* BirthDay: 05-11
+* HomePage: http://www.mp.uni-tuebingen.de/mp/index.php?id=62
+* MindSkill: BrainComputerInterface
+* PagePath: LarryPage ... ThomasLengauer AlexSmola BernhardSchoelkopf NielsBirbaumer

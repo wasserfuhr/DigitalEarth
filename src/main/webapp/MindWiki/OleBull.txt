@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Ole_Bull]
+* BornIn: 1810
+* BirthDay: 02-05
+* MindSkill: MindMusic

@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/53/5356
+* HomePage: http://www.uni-osnabrueck.de/3634.html

@@ -1,0 +1,11 @@
+UseCaseOne für SemanticTravelPlanner: wie kommt CryptonomiconOne aus SchlierBach per MindPost in HandOne?
+
+So könnte der Algorithmus aussehen:
+# Finde einen ersten MindPostBote »1« in der Nähe von CryptonomiconOne.
+# Sei N := 1
+# Finde die MindMove's von MindPostBote_N heraus.
+# Finde MindPlace's, an denen andere MindPeople sind, zu denen MindPostBote_N MindTrust hat.
+# If MindPostBote_N == RainerWasserfuhr GoTo #8
+# Sei N := N + 1
+# GoTo #3
+# lese CryptonomiconOne

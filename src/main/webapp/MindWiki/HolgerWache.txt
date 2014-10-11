@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/63/1753
+* HomePage: http://web.fhnw.ch/personenseiten/holger.wache/
+* PageNumber: 5
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker HolgerWache
+* MindSkill: SemanticWeb
+|[XingLe:Holger_Wache]

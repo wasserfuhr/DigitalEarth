@@ -1,0 +1,18 @@
+NielsBoeing says: http://www.woz.ch/artikel/rss/15628.html :
+
+"Eine Suchanfrage bei Google verbraucht innerhalb von Sekundenbruchteilen so viel Strom wie eine 10-Watt-Energiesparbirne in einer halben Stunde."
+
+5Wh mal 1,2 Milliarden Anfragen pro Tag ergibt 6E9 Wh.
+Also 2,2 E11Wh pro Jahr.
+
+According to [DeWikiPedia:Liste_der_größten_Stromproduzenten] the UnitedStates produced
+4.254 TeraWh of Electricity in the year 2006, so 4,2*10hoch15 Wh.
+
+On 2007 LoicLeMeur stated that "Google sucks 1% the US electricity": http://twitter.com/loiclemeur/statuses/285405712
+So let's assume that Loïc refers to the numbers of 2006.
+
+According to MartinVarsavsky, "Google is the largest consumer of electricity in the world": http://english.martinvarsavsky.net/general/google-is-the-largest-consumer-of-electricity-in-the-world.html
+
+Alcoa, one of the current world market leaders in aluminium production produces 96 GigaWh per day, so in average 4 GigaWatt. 
+
+Conclusion: ?

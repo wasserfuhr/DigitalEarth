@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Burj_al_Arab]
+* BreitenGrad: 25.1413
+* LaengenGrad: 55.1854
+* BoundingBox: 170
+* GraDient: 135

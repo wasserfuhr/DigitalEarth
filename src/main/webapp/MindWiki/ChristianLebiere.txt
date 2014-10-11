@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/57/241
+* HomePage: http://www.andrew.cmu.edu/user/cl/home.html
+* PagePath: 7
+* PageNumber: LarryPage TerryWinograd AllenNewell JohnMcCarthy EdwardFeigenbaum HerbertSimon DieterWallach ChristianLebiere

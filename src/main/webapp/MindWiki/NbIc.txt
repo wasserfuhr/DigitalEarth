@@ -1,0 +1,6 @@
+* InterWiki: [WikiPedia:NBIC]
+
+* NanoAssembler
+* BioMind
+* InformationTechnology
+* CognitiveModel

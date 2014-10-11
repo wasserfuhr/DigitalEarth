@@ -1,0 +1,7 @@
+* MindTags: MindPeople,UnterNehmer
+* SprachWelt: fr,en-4-accent, ru
+* HomePage: http://www.loiclemeur.com/
+* InterWiki: [WikiPedia:Loïc_Le_Meur]
+||AusLand
+|[TwittEr:loiclemeur]
+|[XingLe:Loic_LeMeur]

@@ -1,0 +1,3 @@
+The initial JspWiki for the SportPortal and then MindBrokerAg. ReVision's go back to (TimeLine:20061219).
+
+MovedTo MindWiki.

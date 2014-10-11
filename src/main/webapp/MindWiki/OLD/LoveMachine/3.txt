@@ -1,0 +1,5 @@
+* IsA: EnterPrise
+* HomePage: http://www.lovemachineinc.com/
+* FoundedBy: PhilipRosedale RyanDowne
+
+RoleModel for the DoOcracy and DoOconomy of NooPolis.

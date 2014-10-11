@@ -1,0 +1,9 @@
+Faves kennen einige BuergerInnen schon von FlickEr, YouTube, TwittEr und Co:
+Wenn Dir dort ein Foto, Video oder Twit gefällt, kannst Du es dort in Deine persönliche Favouritenliste
+aufnehmen.
+
+Im MindWiki sind die Faves natürlich: Wikiseiten! Alle BuergerInnen können MindFaves als MindProps auf ihrer Profilseite angeben. 
+
+Aktuelle MindFaves:
+
+* [{INSERT ReferringPagesPlugin}]

@@ -1,0 +1,4 @@
+* IsA: MindCity
+* HomePage: http://vancouver.ca/
+* InterWiki: [DeWikiPedia:Vancouver]
+* NamedAfter: CoeVorden

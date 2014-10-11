@@ -1,0 +1,7 @@
+* IsA: PerSon
+* SwDf: http://data.semanticweb.org/person/sebastian-boehm
+* DbLp: http://dblp.uni-trier.de/rec/pid/61/2996
+* PageNumber: 10
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann FranzBaader UlrikeSattler DmitryTsarkov MarkoLuther SebastianBoehm2
+
+DoCoMo

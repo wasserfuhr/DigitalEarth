@@ -1,0 +1,4 @@
+* Is: UnternehmensGruender
+* DbLp: http://dblp.uni-trier.de/rec/pid/04/7259
+* PageNumber: 10
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi AlexAiken RalfTreinen JanaKoehler ShlomoZilberstein  PeterNorvig FernandoPereira WilliamTunstallPedoe

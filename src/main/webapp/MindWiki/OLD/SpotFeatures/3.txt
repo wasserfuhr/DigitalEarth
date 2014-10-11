@@ -1,0 +1,17 @@
+general Social Network features
+* Suche
+* UserProfile
+* Freunde hinzufügen
+* Wer kennt wen über wen
+* Nachrichten schicken
+* Gruppen
+
+
+
+spot 1.0 features
+* "Eltern Gruppen" - Ein Club (Eltern Gruppe) kann mehrere Mannschaften (Kinds Gruppen) haben
+
+
+future spot features
+
+

@@ -1,0 +1,27 @@
+http://dvb.de/fahrplan/liniensearch.asp?liniennummer=liniennumeric&searchtxt=3&Anzeigen=senden&DatumFahrplan=22.12.2008
+
+* WilderMann
+* DorotheaErxlebenStrasse
+* Hubertusplatz
+* TrachenbergerPlatz
+* ZeithainerStraße
+* Liststraße
+* GrossenhainerPlatz
+* Lößnitzstraße
+* Bf.Neustadt(Hansastr.)
+* BahnhofNeustadt
+* AlbertPlatz
+* CarolaPlatz
+* Synagoge
+* PirnaischerPlatz
+* Walpurgisstraße
+* HauptbahnhofNord
+* Hauptbahnhof
+* Reichenbachstrasse
+* NürnbergerPlatz
+* MünchnerPlatz
+* NöthnitzerStraße
+* CämmerswalderStrasse
+* KotteWeg
+* Saarstraße
+* Achtbeeteweg

@@ -1,0 +1,30 @@
+Testlauf für DresdenChess:
+
+[{Image src='http://farm3.static.flickr.com/2130/2218760656_99b144d158.jpg'}]
+(view [with Google Maps|http://maps.google.com/maps?q=http://id.mindbroker.de/tictactoe], view [with Google Earth|http://id.mindbroker.de/tictactoe])
+
+!Regeln:
+Es gelten die üblichen Regeln von [DeWikiPedia:Tic_Tac_Toe]. 
+Team X spielt gegen Team O. Das Spielfeld besteht aus den in http://id.mindbroker.de/tictactoe angegegebenen Koordinaten.
+
+Ein Spielzug erfolgt, indem ein Spieler eine Message twittert: "DresdenTicTacToe: L:MindPlace", wobei MindPlace zum Zeitpunkt des
+Zuges im MindWiki als Seite angelegt und Laengen- und Breitengrad haben sowie eine BoundingBox <= 100 Meter haben muss.
+Der Spieler muß sich zum Zeitpunkt des Twitterns am angegebenen MindPlace befinden.
+Team X macht den ersten Zug. Jedes Team darf nur dann ziehen, wenn vorher ein Spieler des gegnerischen Teams gezogen hat.
+Teilnahmeberechtigt sind alle BuergerInnen, die auf ihrer Profilseite einen TwittEr-Account angegeben haben. Jeder Spieler kann Teammitglied entweder in Team X oder Team O Mitglied werden, indem er sich hier einträgt:
+
+!Team X:
+* RainerWasserfuhr
+
+!Team O
+* HeikeRibke
+
+!Bisherige Züge:
+* https://twitter.com/rainer/statuses/640108672
+* http://twitter.com/HeileRibke/statuses/640213852
+
+!Spielfeld:
+||----------- ||----------- ||----------- 
+|X: WirkZentrum| - | -
+| - | - | -
+|O:HotelKipping - | - | -

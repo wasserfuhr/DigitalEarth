@@ -1,0 +1,24 @@
+Das wichtigste Projekt der MindBrokerAg für 2007:
+Ein OpenSource- SocialNetwork für Sportler, Sportvereine und -mannschaften.
+
+Ziel für Ende 2007: 10.000 aktive Nutzer.
+
+Zielmarkt: Deutschland und deutschsprachige Nachbarn.
+
+Der zu Beginn festgelegte [ProjectCodeName|http://c2.com/cgi/wiki?ProjectCodeName]: spot.
+
+Der Sourcecode: svn://svn.mindbroker.de/opensource/de.mindbroker.spot/
+
+Das Maven-POM als Startpunkt für alle Doku und Entwicklungsschritte: svn://svn.mindbroker.de/opensource/de.mindbroker.spot/trunk/pom.xml
+
+Vorläufiger Vorschlag für die Domain: http://sport.mindbroker.de
+
+SpotFeatures.
+
+Potentielle Kooperationspartner:
+* http://gaysquash.de/
+* http://www.tanzportal-thueringen.de/
+* http://meinverein24.de/
+
+Teilprojekte:
+* MindBaggern

@@ -1,0 +1,3 @@
+* IsA: MindRoom
+* PartOf: SlUb
+* NearBy: GeZero43

@@ -1,0 +1,17 @@
+* InterWiki: [WikiPedia:Transnational_republic]
+* HomePage: http://www.transnationalrepublic.org/
+* XingGroup: https://www.xing.com/net/utnr/
+* MindOne: GeorgZoche
+
+||ComPare    ||TransnationalRepublic||NooPolis
+|MindOne     |GeorgZoche  |RainerWasserfuhr
+|Bank        |Centralbank |PieschenBank
+|Currency    |Payola/TransNationalGold|KayGroschen
+|GlaesernBank|no?         |yes
+|CitiZens    |5000        |105
+|WikiBased   |no          |yes
+|WebOfTrust  |?           |yes
+|FaceBookGroup|[FaceBookGroup:10783208412]|[FaceBookGroup:4065199285]
+|FaceBookGroup#|227       |56
+|XingGroup   |yes         |no
+|FutureMap   |?           |yes

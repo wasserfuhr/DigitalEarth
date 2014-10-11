@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Olpe_(Kürten)]
+* BreitenGrad: 51.0449
+* LaengenGrad: 7.2884
+* BoundingBox: 500
+* MindCount: 2000

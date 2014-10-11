@@ -1,0 +1,2 @@
+* Passworte werden nicht im Klartext, sondern nur deren Hashwerte gespeichert (derzeit mittels java.security.MessageDigest)
+* Bei vergessenem Passwort kann und wird das alte Passwort nicht per Mail zugeschickt, sondern der Nutzer fragt zwei seiner Trustees, das Passwort zurückzusetzen, die dem Nutzer über einen anderen gesicherten Kommunikationskanal unabhängig voneinander zwei Rücksetz-TANs zusenden. Nur wenn beide TANs zusammen vom Nutzer richtig angegeben werden, erfolgt die Rücksetzung.

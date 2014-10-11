@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Neal_Stephenson], [MeatballWiki:NealStephenson], [OpenCyc:NealStephenson], [WebSeitz:NealStephenson], [WikiWikiWeb:NealStephenson]
+* JahrGang: 1959
+* BirthDay: 10-31
+* MindSkill: SciFi

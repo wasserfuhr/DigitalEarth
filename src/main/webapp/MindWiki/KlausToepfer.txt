@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Klaus_Töpfer]
+* BirthDay: 07-29
+* BornIn: 1938
+* ViAf: http://viaf.org/viaf/59572248
+* ParteiWiki: CduWiki
+
+ViafBug: http://viaf.org/viaf/77112936 http://viaf.org/viaf/47060673

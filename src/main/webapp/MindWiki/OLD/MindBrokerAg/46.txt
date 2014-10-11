@@ -1,0 +1,38 @@
+[[az:ذهن]]
+[[de:Geist]]
+[[en:Mind]]
+[[eo:Menso]]
+[[es:Mente]]
+[[fi:Mieli]]
+[[fr:Esprit]]
+[[hr:Um]]
+[[ia:Mente]]
+[[it:Mente]]
+[[ja:心]]
+[[lt:Protas]]
+[[nl:Geest]]
+[[pl:Umysł]]
+[[pt:Mente]]
+[[simple:Mind]]
+[[sq:Mendja]]
+[[zh-min-nan:Sim]]
+
+Eine eingeschworene Gemeinschaft von stilbewussten MindTueftel-begeisterten DenkSport'lern und BoersenSpiel'ern
+mit virtuellem Spielgeld von 50.000 MindShares zu 1 KayGroschen.
+MindLine: Irgendwann 2007 im VereinsRegister der StadtDresden eingetragen? MindVote!
+
+Organe: HauptVersammlung, VorStand, AufSichtsRat.
+
+!Hauptaktionäre
+[{Image src='http://floor.mindbroker.de/chart'}]
+(Maßgeblich beim StillGestanden)
+
+!Kleinaktionäre
+[{Image src='http://floor.mindbroker.de/chart?small'}]
+
+!Kurse und Futures:
+||MindBroker     ||MindFutures||IpoKurs||Aktueller Kurs
+|RainerWasserfuhr|          30|   10,00|9,501
+|DanielPoodratchi|          10|    4,50|3,5
+|AndreasWeigel   |            |        |2,501
+|YvonneSchubert  |            |    5,00|1,505

@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Carl_Friedrich_Gauß]
+* BirthDay: 04-30

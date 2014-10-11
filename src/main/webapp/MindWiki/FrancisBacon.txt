@@ -1,0 +1,5 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Francis_Bacon]
+* BornIn: 1561
+* BirthDay: 01-22
+* DiedIn: 1626

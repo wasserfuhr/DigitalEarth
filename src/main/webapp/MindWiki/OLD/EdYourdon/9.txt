@@ -1,0 +1,9 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Edward_Yourdon] [WikiWikiWeb:EdYourdon]
+* JahrGang: 1944
+* BirthDay: 04-30
+* DbLp: http://dblp.uni-trier.de/rec/pid/14/4816
+|[TwittEr:yourdon]
+|[FlickEr:yourdon]
+
+about RayKurzweil: http://twitter.com/yourdon/statuses/400142802

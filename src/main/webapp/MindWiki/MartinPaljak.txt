@@ -1,0 +1,8 @@
+* IsA: PerSon
+* OpenId: https://openid.ee/u/martin.paljak
+* HomePage: http://martin.paljak.pri.ee/
+|[TwittEr:MartinPaljak]
+
+OpenId EestiVabariik
+
+HasTalked RainerWasserfuhr at BarCamp StadtBerlin 2007?

@@ -1,0 +1,4 @@
+* IsA: PerSon
+* HasTalked: WernerWasserfuhr
+
+MindSchule

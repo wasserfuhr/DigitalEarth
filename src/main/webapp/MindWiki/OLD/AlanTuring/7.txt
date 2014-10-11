@@ -1,0 +1,9 @@
+* IsA: SingularityMind
+* InterWiki: [DeWikiPedia:Alan_Turing] [WikiPedia:Alan_Turing]
+* MindQuote: ""At the end of the century, the use of words and general educated opinion will have changed so much that one will be able to speak of „machines thinking“ without expecting to be ContraDict'ed." - 1950
+* JahrGang: 1912
+* BirthDay: 06-23
+* LebensEnde: 1954
+* DbLp: http://dblp.uni-trier.de/rec/pid/t/AlanMTuring
+* MindFaves: TuringMaschine
+* DoctoralAdvisor: AlonzoChurch

@@ -1,0 +1,54 @@
+* IstEin: MindPeople
+* RdfClass: http://xmlns.com/foaf/0.1/#Person 
+
+CAUTION: People who are probably irreversibly infected by the concept of TheSingularity:
+* AlexandraSurdina?
+* AndreasStuhlmueller
+* AubreyDeGrey
+* BastiHirsch??
+* BenGoertzel
+* BillClinton??
+* BillSeitz
+* CharlesStross!
+* ChristianHeller
+* ChristinePeterson
+* CraigVenter?
+* DamienBroderick
+* DavidBrin
+* EdRegis
+* EdYourdon?
+* EliezerYudkowsky!
+* FrankTipler
+* IainBanks
+* JamaisCascio
+* JohnRobb
+* FrancisHeylighen
+* GunterDueck??
+* HugoDeGaris!!
+* JohnSmart!!
+* JoshuaSchachter?
+* LarryPage
+* LionKimbro
+* MarcAndreessen
+* MarkFinnern
+* MarkusBreuer?
+* MarkusFix
+* MarkZuckerberg?
+* MartineRothblatt!
+* MaxMore!
+* MichaelAnissimov
+* NickBostrom
+* NovaSpivack?
+* PeterThiel!
+* PeterVoss!
+* PhilippLenssen?
+* RainerWasserfuhr?
+* RayKurzweil!
+* SiggiBecker!
+* SoerenStamer?
+* SteveJurvetson!
+* TimBruysten
+* TylerEmerson
+* YvonneSchubert?
+* VernorVinge!!
+* WolfgangBibel

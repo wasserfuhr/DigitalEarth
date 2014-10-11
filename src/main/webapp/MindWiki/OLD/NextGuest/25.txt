@@ -1,0 +1,62 @@
+Who could be the NextGuest for a LockSession at the LockOffice? BrainStorm:
+||PerSon           ||[1]||InvitedBy
+|AndreasPoldrack   |x|RainerWasserfuhr
+|AnneRichter       | |RalfLippold
+|ChristineSchlinck |x|RainerWasserfuhr
+|ConstanceWolter   | |RalfLippold
+|DirkHilbert       | |RalfLippold
+|DirkJesse         | |RalfLippold
+|EvaLubas          | |RainerWasserfuhr
+|FrankLorenz       | |RainerWasserfuhr
+|FrankSchoenefeld  | |RalfLippold
+|GunterDueck       | |RainerWasserfuhr
+|HeidiGallinat     |x|RainerWasserfuhr
+|HeikeKwarteng     |r|RainerWasserfuhr
+|HolgerBertling    | |RainerWasserfuhr
+|HelmaOrosz        | |DirkHilbert
+|JanaDiesner       | |RalfLippold
+|JanaKaluscha      |x|RainerWasserfuhr
+|JanaSchlegel      | |RalfLippold
+|JanBoehme         | |RalfLippold
+|JanKreuter        | |RainerWasserfuhr
+|JebBush           | |RayKurzweil
+|JensBemme         | |RalfLippold
+|JensDoege         | |RainerWasserfuhr
+|JensFreydank      | |RainerWasserfuhr
+|JensKorte         | |RalfLippold
+|JensOsthues       |x|RainerWasserfuhr
+|JensUweSauer      | |RalfLippold
+|JfSchlinck        |x|RainerWasserfuhr
+|JoelKaczmarek     | |RalfLippold
+|JoergKeller       | |RainerWasserfuhr
+|JohannesHuenich   | |RalfLippold
+|JoseTajada        | |RainerWasserfuhr
+|JuergenAnke       | |RalfLippold
+|JuergenKohn       | |RainerWasserfuhr
+|JuliaBonk         | |WinfriedLueg
+|KarolKozak        | |RainerWasserfuhr
+|KarstenPeters     | |RainerWasserfuhr
+|KatharinaKuehnel  | |RainerWasserfuhr
+|KatrinKahle       |x|RainerWasserfuhr
+|KirstinWalther    | |RainerWasserfuhr
+|KlausNicolai      | |RainerWasserfuhr
+|MandyHelas        | |RalfLippold
+|MarcelBoehme      | |RainerWasserfuhr
+|MarcusBertelsmeier|x|RalfLippold
+|NorbertRost       | |RalfLippold
+|NadineOhneE       | |RalfLippold
+|PetraAlexandraBuhl| |RalfLippold
+|RaikFischer       | |RainerWasserfuhr
+|RalphSonntag      | |RalfLippold
+|RayKurzweil       |r|RalfLippold
+|ReneBoehm         | |RalfLippold
+|SebastianBoehm    | |RainerWasserfuhr
+|SiggiSchwarz      | |RainerWasserfuhr
+|StanislawTillich  | |HelmaOrosz
+|UlrichSoeder      | |RainerWasserfuhr
+|UlrichVanStipriaan| |RainerWasserfuhr
+|WinfriedLueg      |x|RainerWasserfuhr
+|YvonneSchubert    |x|RainerWasserfuhr
+Legend [#1]:
+* r: invited, but has as remote HomeStead far from StadtDresden
+* x: invited 

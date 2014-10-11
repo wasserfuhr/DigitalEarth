@@ -1,0 +1,5 @@
+* IsA: ProJect
+* MitWirkende: ChristianMueller DieterSpath GabiBlodau MarioLanza NiklausKohler RaimarSchererRainerWasserfuhr UweForgber EtAl
+* HotTopics: BuildingModel WorkFlow RobOt
+
+TuDresden UniKarlsruhe

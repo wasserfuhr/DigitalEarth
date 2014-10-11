@@ -1,0 +1,10 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/96/2830
+* PageNumber: 12
+* PagePath: MichaelRichter StefanWess
+
+# [http://dblp.uni-trier.de/db/indices/a-tree/w/Wess:Stefan.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/v/Vo=szlig=:Angi.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/a/Akkermans:Hans.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/a/Anjewierden:Anjo.html]
+LiliaEfimova

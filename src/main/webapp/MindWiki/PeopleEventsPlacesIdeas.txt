@@ -1,0 +1,7 @@
+roughly spoken, the MindWiki is about
+* P: MindPeople
+* E: MindEvent's
+* P: MindPlace's
+* I: Ideas (MindPattern)
+
+PePiAr

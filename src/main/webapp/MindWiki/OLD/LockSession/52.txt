@@ -1,0 +1,66 @@
+To add a LockSession please copy next paragraph/Um eine LockSession hinzuzufügen bitte den nachfolgenden Paragraphen kopieren:
+* yyyy-MM-dd: NextGuest
+** MindPlace:
+** HotTopics:
+** LockOfficer:
+** PresencingStatus
+*** RealName
+**** SessionRating: 
+**** good: 
+**** tricky: 
+**** learned: 
+**** NextAction: 
+**** NextGuest: 
+
+PiratenPartei LiquidDemocracy 
+
+Bisherige BeSuch'er/ ReCent guests at the LockOffice:
+* 2010-03-05:1630: RobertWartenberg
+** PresencingStatus
+*** RainerWasserfuhr
+**** SessionRating: ***
+**** good: spannende ConNect'ions rund um MindId
+**** tricky: LockSchuppenAg vermitteln
+**** learned: siehe good
+**** NextAction: coache RaLi
+**** NextGuest: ThomasVonDerElbe
+* 2010-03-04:1400: SmForSounders
+** MindPlace: LockAgora
+** PresencingStatus
+*** RainerWasserfuhr
+**** SessionRating: ***
+**** good: viele NeuGier'ige Leute im LockOffice
+**** tricky: zu wenig Zeit, zu starr am Programm gehalten, keine Slides vorab/OnLine
+**** learned: ComPlex'ität von WebZwoNull aus didaktischer Sicht
+**** NextAction: neuer WorkShop: SemanticWebHandsOn 
+**** NextGuest: AlexanderGehre
+* 2010-03-03:1030-1130: MatthiasEichhoff
+** MindPlace: SkyPe
+** HotTopics: CrowdSourcing SecondInterest AmartyaSen RayKurzweil FrankSchaetzing NasaCoLab SecondLife LockSchuppen StaatlicheKunstsammlungen InnovationWorkshop BolognaProcess DesignThinking HubBerlin ExistenzGruender BundesWehr
+** LockOfficer: RalfLippold
+** PresencingStatus
+*** RalfLippold
+**** SessionRating: ****
+**** good: Spontane LockSession
+**** tricky: nix
+**** learned: SecondInterest ChristianWeilmeier
+**** NextAction: Invitation zu MindBroker
+**** NextGuest:
+* 2010-03-02:1530-1700 FriedemannHoeller
+** MindPlace: LockOffice
+** LockOfficer: RalfLippold RainerWasserfuhr
+** HotTopics: ParkPlatz  LongTermEvolution GerhardFettweis DresdenChess LockOffice DiffusionOfInnovations EricSchoop FlickR SchachOlympiade RobertVonWeizsaecker Kalmüken LongBetOne ChiefSingularityOfficer OpenStreetMap PolisProject ErnstMuellerStiftung PillNitz ExtremeBlue SmForFounders KuegelgenHaus BlueBrain LinieVier JuGene AnnetteSchavan BundesWehr
+** PresencingStatus
+*** RainerWasserfuhr
+**** SessionRating: ***
+**** good: WikiWall
+**** tricky: WandelDruck
+**** learned: activities at EiBiEm
+**** NextAction:
+**** NextGuest: GeorgMilbradt
+* 2010-02-28:1700 JfSchlinck ChristineSchlinck HeidiGallinat
+** MindPlace: LockOffice
+** LockOfficer: RalfLippold RainerWasserfuhr
+** HotTopics: DresdenExists ArturFriedrich ZettelKasten NiklasLuhmann JanHinrichs LarsHinrichs MartinRoell YvonneSchubert TeilhardDeChardin TimBonnemann TheSingularity RayKurzweil JohannesLohmeyer MooresLaw SiggiBecker GunterDueck NachHaltig PeterThiel WikiWall JirkaSchaefer RaimarScherer ZigaTurk
+
+more: LockSessionLog

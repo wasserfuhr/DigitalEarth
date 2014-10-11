@@ -1,0 +1,16 @@
+Was kann ich denn bei Mindbroker jetzt machen?
+
+Erster Schritt: gehe zu http://id.mindbroker.de/ und logge dich mit deinem WikiName (zB RainerWasserfuhr) und Deinem Passwort ein.
+
+Nach dem login kommst du auf http://id.mindbroker.de/dashboard?message=loggedIn 
+
+Dort kannst Du:
+* login to the wiki
+* invite other citizens
+* pay with KayGroschen or trade them
+* write postings for the MindBlog or write comments
+* view your Profile
+
+
+Kannst Du etwas kaputtmachen?
+* Nein, denn wir haben SocialBackup und alles kann editiert werden.

@@ -1,0 +1,12 @@
+* MindTags: ProFessor
+* DcTitle: Prof. Dr.-Ing.
+* JahrGang: 1952
+* BirthDay: 02-09
+* HomePage: http://tu-dresden.de/Members/raimar.scherer
+* TurkNumber: 1
+
+ProFessor für BauInformatik
+
+Haupterfinder von ToCee
+
+Experte für ErdBeben jeder Stärke auf der RichterSkala.

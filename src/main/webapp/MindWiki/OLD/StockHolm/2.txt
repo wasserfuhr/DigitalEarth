@@ -1,0 +1,7 @@
+* HerKunft: [DeWikiPedia:Stockholm] "Stock: Stock, Baumstamm; holm: kleine Insel"
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Stockholm]
+* BreitenGrad: 59.325
+* LaengenGrad: 18.05
+* BoundingBox: 13000
+* MindCount: 750000

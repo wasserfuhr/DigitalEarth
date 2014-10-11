@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Giulio_Tononi]
+* DbLp: http://dblp.uni-trier.de/rec/pid/49/6080
+* PagePath: LarryPage ... GiulioTononi

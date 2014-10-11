@@ -1,0 +1,10 @@
+* MindTags: WikiMind
+* InterWiki: [WebSeitz:BillSeitz]
+* WohnSitz: NewYork
+
+Experte für CamelCase.
+
+||AusLand
+|[WorldWideWeb:webseitz.fluxent.com]
+|[DelIcioUs:seitz]
+|[TwittEr:BillSeitz]

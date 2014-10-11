@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0384
+* LaengenGrad: 13.7306
+* BoundingBox: 20
+* http://www.hotel-kipping.de/

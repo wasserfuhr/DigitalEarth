@@ -1,0 +1,7 @@
+* MindTags: MindProps
+
+http://xmlns.com/foaf/spec/#term_currentProject
+
+FoAf
+
+CurrentProject

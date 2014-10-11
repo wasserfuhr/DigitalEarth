@@ -1,0 +1,8 @@
+AutoSuggestion?
+
+Nein, ein Projekt für Praktikanten bei MindBroker,
+um die Webseiten
+* http://www.adam-automobile.de/ und
+* http://evalubas.de/
+
+mal richtig WebZwoNull'ig zu machen.

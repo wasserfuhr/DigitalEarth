@@ -1,0 +1,4 @@
+||Name||Blöde Popups||CoolURIs
+|finya.de|ja|nein
+|neu.de|nein|ja
+|MindBroker|nein|ja

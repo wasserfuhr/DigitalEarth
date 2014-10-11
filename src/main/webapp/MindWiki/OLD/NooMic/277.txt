@@ -1,0 +1,228 @@
+; NooMic is NoMic with SourceCode for new NooPolis WebApp's - InSpir'ed by PerlNomic
+;{{{
+
+(let
+ [
+  hConf (new org.apache.hadoop.hbase.HBaseConfiguration)
+  hBase "TODO" ;(new org.apache.hadoop.hbase.client.HBaseAdmin hConf)
+  logTableDesc "TODO" ;(new org.apache.hadoop.hbase.HTableDescriptor "ChatLog")
+ ]
+
+(import '(java.net URL)
+        '(java.lang StringBuilder)
+        '(java.io BufferedReader InputStreamReader))
+
+(defn loggedIn? []
+  (.getAttribute (.getSession request) "WikiName")
+)
+
+(defn fetch-url-s
+      "Return the web page as a string."
+      ;http://gnuvince.wordpress.com/2008/11/18/fetching-web-comics-with-clojure-part-2/
+      [address]
+      (let [url (java.net.URL. address)]
+        (with-open [stream (. url (openStream))]
+          (let [buf (java.io.BufferedReader. (java.io.InputStreamReader. stream))]
+            ((defn a [b]
+              (let [line (.readLine b)]
+                (if (nil? line) ""
+                 (str line (a b)))))
+  buf)))))
+(defn fetch-url
+  "Return the web page as a string."
+  ;http://gnuvince.wordpress.com/2008/11/18/fetching-web-comics-with-clojure-part-2/
+  [address]
+  (let [url (java.net.URL. address)]
+    (with-open [stream (. url (openStream))]
+      (let [buf (java.io.BufferedReader. (java.io.InputStreamReader. stream))]
+        ;skip empty lines:
+        (.readLine buf) (.readLine buf) (.readLine buf)
+        (.readLine buf) (.readLine buf) (.readLine buf)
+        (.readLine buf) (.readLine buf) (.readLine buf)
+        (.readLine buf) (.readLine buf)
+        ((defn a [b] 
+          (let [line (.readLine b)]
+            (if (or (nil? line) (.equals line "</pre>")) ""
+             (str
+              (.replace
+              (.replace
+               (.replace
+                 (.replace line "\u0026quot;" "\"")
+                 "\u0026gt;" ">")
+                 "\u0026lt;" "<")
+                 "\u0026amp;" "\u0026")
+               "\r\n" (a b)))))
+         buf)))))
+(defn fetch-fn [name]
+  (eval (read-string (fetch-url (str "http://mindbroker.de/wiki/" name "Clj?skin=raw")))))
+(fetch-fn "Cache")
+(fetch-fn "Handle")
+(fetch-fn "Login")
+(fetch-fn "Logout")
+(defn handle [name view controller]
+  (if
+    (.startsWith (.getPathInfo request) (str "/" name))
+    (str
+       "<h2>" (.toUpperCase (.substring (str name "  ") 0 1)) (.substring (str name "  ") 1) "</h2>" (view))
+    (if (.startsWith (.getPathInfo request) (str "/do/" name))
+       (controller))))
+(if
+ (.startsWith (.getPathInfo request) "/facebook")
+ (fetch-fn "FaceBook")
+ (str
+  "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
+    \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r"
+  "<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">
+    <head>
+     <title>NooPolis - a MicroNation on the InterNet</title>
+     <link href='http://id.mindbroker.de/css/layout_vertical_listnav.css' rel='stylesheet' type='text/css'/>
+     <script type=*text/javascript' src='http://www.google-analytics.com/ga.js'></script>
+     <script type='text/javascript'>
+      var pageTracker = _gat._getTracker('UA-5959916-2');
+      pageTracker._trackPageview();
+     </script>
+     <style type='text/css'>"
+  (read-string (fetch-url (str "http://mindbroker.de/wiki/MindCss?skin=raw")))
+"    </style>
+    </head>
+    <body>
+     <div id='page_margins'>
+      <div id='page'>
+       <div id='header'>
+        <form action='/do/login'>
+         <input type='hidden' name='pathInfo' value='" (.getPathInfo request) "'/>
+         <input type='hidden' name='sesson' value='" (.getId (.getSession request)) "'/>
+  	  <div id='topnav'>
+            <!-- start: skip link navigation -->
+	    <a class='skip' href='#navigation' title='skip link'>Skip to the navigation</a><span class='hideme'>.</span>
+ 	    <a class='skip' href='#content' title='skip link'>Skip to the content</a><span class='hideme'>.</span>
+	    <!-- end: skip link navigation -->
+            <div class='langMenu'>
+             <img class='arrow' src='http://id.mindbroker.de/images/arrow.gif' width='7' height='10' alt='' />
+             <img class='flag' src='http://id.mindbroker.de/images/flag_de.gif' width='18' height='12'
+                alt='Deutsch' title='Deutsch'/>
+             <span class='text'>Deutsch</span>
+             <a href='do/language?en'><img class='flag' src='http://id.mindbroker.de/images/flag_en.gif' width='18' height='12' alt='English' title='English'/>
+             <span class='text'>English</span></a>
+             <span class='text2'> | </span>
+             <a href='http://mindbroker.de/wiki/ImPressum'>Impressum</a>
+            </div>
+   	   <span>"
+   	   (let [wikiName (.getAttribute (.getSession request) "WikiName")]
+    	    (if wikiName
+   	     (str "Hello <a href='/wiki/" wikiName "'>" wikiName "</a>.
+   	          <a href='/do/logout?pathInfo=" (.getPathInfo request) "'>LogOut</a>")
+   	     (str
+	   "<input type='hidden' name='targetWebApp' value='null'/>
+	    <input type='hidden' name='NooPolis' value='true'/>
+	    <input type='hidden' name='pathInfo' value='" (.getPathInfo request) "'/>
+         	  LogIn:
+	          <label for='wikiName'>WikiName:</label><input name='wikiName'/>
+	          <label>Password:</label><input name='password' type='password' size='8'/>
+	          <input type ='submit' value='Login'/>
+	          <br/>
+	          Noch kein LogIn?
+	          <br/>
+                  <a href='http://mindbroker.de/wiki/JoinNow'>JoinNow</a>!")))
+	   "</span>
+	  </div>
+         </form>
+
+  <div style='height:75px; width:755px; margin-top:12px; margin-bottom:8px; padding-top:20px; padding-left: 50px; margin-left:-20px;background-image:url(http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Earth-Moon.jpg/800px-Earth-Moon.jpg)'>
+  <h1 style='font-family: verdana;'><a href='/'>NooPolis</a></h1>
+  <table>
+   <tr>
+    <td><span style='color: white; font-weight:bold'><i>A new world starts with you and me</i></span>
+    <td style='padding-left:50px; color:#C0C0C0'>
+     NanoTech -
+     SyntheticBiology -
+     ArtificialIntelligence -
+     LifeExtension -
+    <br/>
+     SpaceExploration -
+     <a href='/wiki/TheSingularity'>TheSingularity</a>
+    </td>
+   </tr>
+  </table>
+ </div>
+
+
+       </div>
+       <div id='nav'>
+ 	<a id='navigation' name='navigation'></a>
+	<div id='nav_main'>
+  	  <ul>
+	   <li " (if (.equals (.getPathInfo request) "/") "id='current'") "><a href='/'>Home</a></li>
+    	   <li " (if (.startsWith (.getPathInfo request) "/id") "id='current'") "><a href='http://id.mindbroker.de/abroad'>Citizens</a></li>
+    	   <li " (if (.startsWith (.getPathInfo request) "/wiki") "id='current'") "><a href='/wiki/NooPolis'>Wiki</a></li>
+    	   <li " (if (.startsWith (.getPathInfo request) "/bank") "id='current'") "><a href='http://bank.mindbroker.de/'>Bank</a></li>
+	   <li " (if (.startsWith (.getPathInfo request) "/tv") "id='current'") "><a href='/tv'>TV</a></li>
+    	   <li " (if (.startsWith (.getPathInfo request) "/radio") "id='current'") "><a href='/radio'>Radio</a></li>
+    	  </ul>
+        </div>
+        <div id='nav_main2'>
+          <ul>
+           <li><a href='/'><span></span></a></li>"
+           (if (.startsWith (.getPathInfo request) "/base")
+             "<li id='current2TODO'><a href='/base/new'><span>new Table</span></a></li>"
+           )
+         "</ul>
+  	 </div>
+       </div>
+       <div id='main'>
+        <div id='col2'>
+         <p>NooPolis is a futuristic <a href='http://mindbroker.de/wiki/MicroNation'>MicroNation</a> on the InterNet.
+          <a href='http://noopolis.org/join'>JoinNow</a> and you can create
+          <a href='http://mindbroker.de/wiki/StartUp'>EnterPrises</a> for the
+          <a href='http://mindbroker.de/wiki/TwentyFirstCentury'>TwentyFirstCentury</a> as part of a
+          <a href='http://mindbroker.de/wiki/ComPlex'>complex</a> long running 
+          <a href='http://mindbroker.de/wiki/StartUpSim'>StartUpSimulation</a>
+          and trade them on the
+          <a href='http://mindbroker.de/wiki/MindFloor'>MindFloor</a>.
+         </p>
+        </div>
+        <div id='col3'>"
+    	 (if (.equals (.getPathInfo request) "/menow") 
+          "<div>
+            <h3>What are you thinking?</h3>
+            <h3 style='padding-left:5pt;'><i>Qu'est-ce que tu pense?</i></h3>
+            <h3 style='padding-left:10pt;'>Was denkst Du?</h3>
+            <form action='/' method='post'>
+             <div>
+              <textarea name='text' rows='5' cols='40' style='font-size:12pt;'></textarea>
+              <div style='float:right;'>
+               <input type='submit' value='Think!'/>
+              </div>
+             </div>
+           </form>
+          </div>")
+       (fetch-fn "FutureMap")
+       (fetch-fn "Index")
+       (fetch-fn "Join")
+       ;(fetch-fn "MindBase")
+       (fetch-fn "PieschenRadio")
+       (fetch-fn "PieschenTv")
+       (fetch-fn "Repl")
+       (fetch-fn "Summit")
+       (fetch-fn "Wiki")
+   "      </div>
+        </div>
+        <div id='footer'>
+	  <a href='http://mindbroker.de/wiki/NooMic?skin=raw'>ViewSource</a> 
+	  <sup><a href='http://mindbroker.de/wiki/ViewSource'
+	          title='what is ViewSource?'>?</a></sup>
+          - <a href='http://mindbroker.de/Edit.jsp?page=NooMic'>EditSource</a>
+          <sup><a href='http://mindbroker.de/wiki/EditSource' title='what is EditSource?'>?</a></sup>
+ 	  - Layout based on <a href='http://www.yaml.de/'>YAML</a>.
+	  Memory: " (.totalMemory (Runtime/getRuntime)) "
+	</div>
+       </div>
+      </div>
+    </body>\r"
+  "</html>"
+ )
+)
+)
+)
+)
+;}}}

@@ -1,0 +1,3 @@
+* InterWiki: [Thermodynamik]
+
+AbsTract, AcceleratingReturns, WeltFormel, InEquality

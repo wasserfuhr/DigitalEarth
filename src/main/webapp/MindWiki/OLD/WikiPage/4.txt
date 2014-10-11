@@ -1,0 +1,5 @@
+* MindTags: RdfClass
+* RdfClass: http://sw.deri.org/2005/04/wikipedia/wikiont.owl#Article
+* InterWiki:  [OpenCog:Node], [WebSeitz:WikiPage]
+
+The MindWiki consists of a list of WikiPage's each with a unique CamelCase name. The PageIndex shows them all. There is an OrdNung.

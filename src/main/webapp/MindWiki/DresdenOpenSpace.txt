@@ -1,0 +1,11 @@
+* IsA: MindEvent
+* HashTag: dos08
+* WikiLender: 2008-11-20
+* XingEvent: https://www.xing.com/events/1-dresden-open-space-261326
+* HomePage: http://www.community.dresdner-zukunftsforum.de/node/1074
+* MitWirkende: BjoernNegelmann FrankSchoenefeld IgorSchwarzmann JanBoehme JensBemme JuergenAnke KirstinWalther LilianaBarrioAlvers MarcellaGaeb MichaelRAlvers KlausHolthausen PeterKlingenburg RainerWasserfuhr RalfLippold RoyUhlmann SteffenBueffel ThomasKoeplin ThomasMueller TobiasKaufmann TobiasKroha WinfriedLachnit YvonneSchubert EtAl
+
+HotTopics:
+* ArTelligence PhaetonBallett SemanticWeb FoAf SparQl OpenSocial HiFive GoPubMed MichaelSchroeder WikiPedia RayKurzweil TotesHolz OpenStreetMap PlasticLogic TheSingularity RainerTest SuperComp TerraDsl BarCamp WebMontag TwittEr LydiaGv TuringTest OptoPuter ThumbOne JaronLanier EliezerYudkowsky ChristianHeller  KarinWasserfuhr AlternateReality.
+
+FollowUp: http://www.community.dresdner-zukunftsforum.de/node/322

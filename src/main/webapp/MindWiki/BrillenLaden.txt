@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* HomePage: http://mehrsehen.net/
+* BreitenGrad: 51.04902
+* LaengenGrad: 13.79002
+* BoundingBox: 30
+* GraDient: -25
+* SlimNess: 0.8

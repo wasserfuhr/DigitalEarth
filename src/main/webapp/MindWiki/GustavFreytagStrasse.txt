@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* NamedAfter: GustavFreytag
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/4859264

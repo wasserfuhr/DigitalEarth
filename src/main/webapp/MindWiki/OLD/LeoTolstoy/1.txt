@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* InterWiki: [OpenCyc:LeoTolstoy]
+* BirthDay: 09-09

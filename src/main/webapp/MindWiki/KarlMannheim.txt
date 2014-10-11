@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Karl_Mannheim]
+* JahrGang: 1893
+* BirthDay: 03-27
+* EselsBruecke: 	AlexanderGrothendieck-MoZart
+* LebensEnde: 1947
+* MindSkill: IdeoLogie

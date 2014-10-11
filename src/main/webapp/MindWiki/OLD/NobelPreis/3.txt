@@ -1,0 +1,8 @@
+RainerWasserfuhr wünscht sich eine WebApp, bei der man ErWartung'en auf die Nobelpreisträger der ZuKunft zeigen kann.
+
+unter http://nobel.mindbroker.de/.
+
+bis dahin hier:
+
+||MindBroker||Aktien||Jahr||für||Preisträger
+|RainerWasserfuhr|10|2020|Physik|AndreasStuhlmueller

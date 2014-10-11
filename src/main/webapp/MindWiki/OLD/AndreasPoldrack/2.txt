@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* WohnSitz: StadtDresden
+* HomePage: http://www.poldrack.info/
+* MindBlog: http://www.evoluzzer.info/

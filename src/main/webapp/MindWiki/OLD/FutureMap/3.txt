@@ -1,0 +1,38 @@
+We want to invent, dream and predict the future of NooPolis and the entire PlanetEarth.
+
+Therefore we use FutureCard's, which are arranged on a TimeLine by our CitiZens.
+Each FutureCard has:
+* a page in the MindWiki (with a unique PageName)
+* a CardOwner
+* an "UnTil"-value which has to be defined by the CardOwner
+
+||Card                 ||Year||Owner
+|FurchtloseZehntausend |2010|HeikeRibke
+|GoogleFog             |2018|ChristineSchlinck
+|ComputerGo            |2019|MartinRoell
+|LongBetOne            |2030|MartinRoell
+|LunarSteigenberger    |2040|RainerWasserfuhr
+
+More cards:
+* FurchtloseTausend
+* MindTowerZwo
+* GoogleSpaceTower
+* PieschenTower
+* ElbOper
+* SleepLess
+* FurchtloseMillion
+* NacktSichtBrille
+* MindTower
+* GoogleLife
+* GlaesernesUnternehmen
+* GlaeserneBank
+* WeltSprache
+* GoogleMind
+* GoogleMindPro
+* CraigKriek
+* ImMortal
+* GlaesernerMensch
+* UpLoad
+* TheSingularity
+* HiltonCentauri
+* MgmGrandOrion

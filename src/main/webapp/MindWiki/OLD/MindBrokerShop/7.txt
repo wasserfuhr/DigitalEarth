@@ -1,0 +1,18 @@
+Zur Zeit im Angebot im MindBrokerShop:
+
+||Name||EUR||Einheit
+|RainerWasserfuhr|120|1h
+|CallRainer|3|1min
+|MindBanner|100|Monat August 2007 im AgWiki
+|DanielPoodratchi|30|1h
+|YvonneSchubert|60|1h
+
+Leider sind alle genannten Produkte derzeit nur in beschränktem Umfange verfügbar.
+Immer gilt: Nur per VorKasse und zzgl der Mwst. in DeutschLand.
+
+Bald als WebApp für http://shop.mindbroker.de
+
+Testkäufer:
+* RainerWasserfuhr
+* AndreasWeigel
+* YvonneSchubert

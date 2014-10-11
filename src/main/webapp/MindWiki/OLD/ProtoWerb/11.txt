@@ -1,0 +1,38 @@
+* MindTags: EnterPrise
+* MindOne: JoergKeller
+[FaceBookGroup:56955301655]
+
+ProtoWerb is a StealthMode StartUp.
+
+If you want to learn more about ProtoWerb, please ask JoergKeller for a NonDisclosureAgreement.
+
+||Shares||ShareHolder
+|252|JoergKeller
+|200|ChristianFischer
+|200|*reserviert*
+|200|JeMand
+|148|RainerWasserfuhr
+
+Weitere MitWirkende:
+* YvonneSchubert
+
+Currently the following shares are publicly traded in the OrderBook of the MindFloor:
+
+''Derzeit werden folgende Shares öffentlich im OrderBuch des MindFloor's gehandelt:''
+
+!OrderBuch:
+||ShareHolder     ||Stück||Geld[1]||Kurs[1]||Brief[1]||Stück
+|JoergKeller      |      |    |    | ???| ??
+|RainerWasserfuhr |      |    |    |1024|  2
+||Last StockPrice ||     ||   ||???||   ||
+|RainerWasserfuhr |     ?|   ?|    |    |
+|JoergKeller      |     ?|   ?|    |    |
+[#1] in KayGroschen
+
+Potentielle Fans und ShareHolder?:
+* ChristineSchlinck
+* JuergenKohn
+* SebastianMitter
+* KatharinaKuehnel
+* DanielPoodratchi
+* OliverGassner

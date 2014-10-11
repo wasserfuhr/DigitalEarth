@@ -1,0 +1,3 @@
+* IsA: PerSona
+
+TellkampEsk'e RomanFigur

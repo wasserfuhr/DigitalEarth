@@ -1,0 +1,4 @@
+* MindTags: MindEvent
+* InSpiredBy: StartUpWeekEnd
+
+StartUpSim in der StadtDresden.

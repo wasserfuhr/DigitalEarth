@@ -1,0 +1,5 @@
+* MindTags: ProFessor
+* JahrGang: 1928
+* BirthDay: 08-22
+* LebensEnde: 2007
+* MindSkill: ComPose

@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* JahrGang: 1938
+* BirthDay: 07-15
+* MindSkill: RealFilm

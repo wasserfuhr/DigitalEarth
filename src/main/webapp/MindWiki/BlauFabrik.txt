@@ -1,0 +1,4 @@
+* IsA: MindPlace
+* OpenStreetMap: ToDo
+* HomePage: http://www.blauefabrik.de/
+* MindOne: GuenterHeinz

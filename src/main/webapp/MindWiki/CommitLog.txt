@@ -1,0 +1,2 @@
+Die RecentChanges und die SourceCode-Commits der SvnUser aggregieren.
+Eingabefeld für KayGroschen: PayPerCommit

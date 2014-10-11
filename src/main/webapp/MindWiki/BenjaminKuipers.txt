@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/k/BenjaminKuipers
+* HomePage: http://eecs.umich.edu/~kuipers/
+* PageNumber: 8
+* PagePath: LarryPage SergeyBrin MonikaHenzinger KurtMehlhorn FriedhelmMeyerAufDerHeide MichaelWand HansPeterSeidel SebastianThrun BenjaminKuipers

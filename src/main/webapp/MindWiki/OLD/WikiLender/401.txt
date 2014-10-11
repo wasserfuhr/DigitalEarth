@@ -1,0 +1,54 @@
+* InterWiki: [AgiriWiki:AGIRI_Events] [DdWiki:Stadtwiki:Veranstaltungen] [DeWikiPedia:September_2009]
+ [OpenCog:Current_events]
+
+The WikiBased calendar of NooPolis.
+
+(MindEvent's in the WikiLender have a "When" and an optional "UnTil". Things which only have an "UnTil" can be found as DeadLine)
+||When        ||UnTil||      ||MindPlace    ||What                    ||MindPeople
+|20091005     |     |        |StadtMeiningen|CoWorkingTreffen         |RalfLippold EtAl
+|20091005     |     |        |StadtDresden  |SocialBar                |AndreasPoldrack EtAl
+|20091006:1930|     |        |HygieneMuseum |BioMasse                 |DanielaThraen JoachimKrause EtAl
+|20091008     |     |        |GlaesernManufaktur|WorldCultureForum    |HansJoachimFrey EtAl
+|20091009     |     |        |GlaesernManufaktur|WorldCultureForum    |HansJoachimFrey EtAl
+|20091010     |     |        |GlaesernManufaktur|WorldCultureForum    |HansJoachimFrey EtAl
+|20091010:2000|     |        |ThomasKirche  |Konzert                  |ChristineSchlinck EtAl
+|20091017     |     |        |StadtLeipzig  |FreelanceCamp            |EtAl
+|20091018     |     |        |StadtLeipzig  |FreelanceCamp            |EtAl
+|20091019     |     |        |StadtDresden  |VorTrag                  |AndreasPoldrack YvonneSchubert EtAl
+|20091022     |     |        |HomeBase      |WwWebLern                |BastiHirsch? EtAl
+|20091025     |     |        |OrlandoFl     |WikiSym                  |DirkRiehle? EtAl
+|20091031     |     |        |StadtDresden  |RockTheTram              |SvenEchtermeyer EtAl
+|20091031     |     |        |StadtDresden  |HopeGala                 |ViolaKlein EtAl
+|20091107:2007|     |        |StadtDresden  |ProhibitionsParty        |
+|20091111:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|20091126:1930|     |        |StadtDresden  |VorTrag                  |WernerTikiKuestenmacher
+|20100211:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|20100305     |     |        |Lugano        |AgiConf                  |BenGoertzel? EtAl
+|20100505     |     |        |NordrheinWestfalen|NrwWahl2010          |JuergenRuettgers EtAl
+|20100610     |     |        |CongressCenterDresden|ZukunftsForum     |ThomasKoeplin EtAl
+|20101023     |     |        |LosAngeles    |LoebnerPrize             |HughLoebner EtAl
+|20110303:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|20120216:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|20121221     |     |        |PlanetErde    |13.0.0.0.0               |
+|2013         |     |        |DeutschLand   |BundestagsWahl2013       |
+|20261113     |     |        |PlanetErde    |DoomsDay                 |HeinzVonFoerster EtAl
+|20361217:1930|     |        |UniVerse      |End of HundertMalHundert |RainerWasserfuhr
+|20810903     |     |        |DeutschLand   |SonnenFinsternis         |
+
+everything else is on the FutureMap
+
+!WasWar:
+
+||When        ||UnTil||      ||MindPlace    ||What                    ||MindPeople
+|20091004:1530|     |        |LindenSchaenke|KaffeeKlatsch            |RainerWasserfuhr ChristineSchlinck EtAl
+|20091004     |     |        |NewYork       |SingularitySummit        |RayKurzweil EtAl
+|20091004:0830|     |        |HelsInki      |McPc                     |EtAl
+|20091003     |     |        |NewYork       |SingularitySummit        |RayKurzweil EtAl
+|20091003     |     |        |SaLoppe       |Party                    |EtAl
+|20091002     |     |        |FutureFactory |UbiGrate                 |JuergenAnke EtAl
+|20091002     |     |        |StadtDresden  |PonyhofSuppenParty       |ChristineSchlinck RainerWasserfuhr EtAl
+|20091001     |     |        |StadtDresden  |UndSonstSo               |EtAl
+|20091001     |     |        |StadtDresden  |UbiGrate                 |JuergenAnke EtAl
+|20091001     |     |        |StadtDresden  |FarmVille-DiaLog         |RainerWasserfuhr? JeMand?
+
+Earlier Events: WasWar.

@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Werner_Dilger]
+* BirthDay: 03-24
+* LebensEnde: 2007
+* DbLp: http://dblp.uni-trier.de/rec/pid/d/WDilger
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann PeterRaulefs WernerDilger

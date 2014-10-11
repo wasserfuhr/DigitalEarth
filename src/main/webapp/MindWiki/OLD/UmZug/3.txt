@@ -1,0 +1,13 @@
+||MindBroker     ||am     ||von          ||nach
+|MindBrokerKg    |20070920|FriedrichStr24|GeheStrasse21
+|MindBrokerKg    |2003    |AmmonHof      |FriedrichStr24
+|RainerWasserfuhr|1995    |KaisersLautern|StadtDresden
+
+DoIt: Lieferanten/Organisationen die bei UmZug wegen Adressänderung zu informieren sind:
+|Finanzamt|
+|Gewerbe|
+|Eplus |
+|INWX| ?
+|Telekom |
+|Bfa| nö
+|IHK| finished

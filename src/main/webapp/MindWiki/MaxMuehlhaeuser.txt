@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/m/MaxMuhlhauser
+* HomePage: http://www.tk.informatik.tu-darmstadt.de/index.php?id=max
+* PageNumber: 4
+* PagePath: LarryPage TerryWinograd NorbertStreitz RalfSteinmetz MaxMuehlhaeuser
+
+Ex-UniKl

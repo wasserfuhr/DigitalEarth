@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Karl-Erivan_Haub]
+* ChildOf: ErivanHaub
+
+NoBirthday

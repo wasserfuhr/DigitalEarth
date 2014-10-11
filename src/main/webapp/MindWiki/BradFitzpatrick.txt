@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/f/BradFitzpatrick
+* HomePage: http://bradfitz.com/
+* CoAuthor: LisaPhillips
+* PageNumber: InFinite
+|[TwittEr:bradfitz]

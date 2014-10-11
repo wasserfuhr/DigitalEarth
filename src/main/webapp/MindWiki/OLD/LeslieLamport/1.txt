@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Leslie_Lamport]
+* JahrGang: 1941
+* BirthDay: 02-07
+* ViAf: http://viaf.org/viaf/44417132
+* PageNumber: 7
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi MichaelStonebraker JeffreyUllman BarbaraLiskov LeslieLamport

@@ -1,0 +1,2 @@
+* IsA: HochSchule
+* InterWiki: [DeWikiPedia:Massachusetts_Institute_of_Technology] [OpenCyc:MIT] [WebSeitz:MIT]

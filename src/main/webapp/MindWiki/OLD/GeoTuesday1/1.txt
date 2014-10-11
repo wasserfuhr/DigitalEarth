@@ -1,0 +1,9 @@
+* MindTags: MindEvent
+
+Themen:
+* DresdenChess
+* DresdenTicTacToe
+* GeoOs
+* MindPlace
+
+Teilnehmer:

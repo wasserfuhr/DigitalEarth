@@ -1,0 +1,3 @@
+||OrderedByShares||EUR||KayGroschen
+|RainerWasserfuhr|  90|600
+|DanielPoodratchi|  15|100

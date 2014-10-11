@@ -1,0 +1,4 @@
+* MindTags: MindThing, FutureCard
+* BoundingBox: 0.1
+* PartOf: HandOne
+* PreDict: RainerWasserfuhr wird 24h lang seinen ThumbOne in RealTime tracken und broadcasten können... mit mindestens 1 (x,y,z)-TrackPoint pro Sekunde bei Fehlergenauigkeit von unter 10cm.

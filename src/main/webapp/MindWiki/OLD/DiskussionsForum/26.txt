@@ -1,0 +1,33 @@
+Siehe auch: AskMindBroker.
+
+HeikeRibke hat ein DiskussionsForum 's hier im MindWiki anlegt: Hier können neue Ideen länger besprochen werden, als nur mit ja und nein, wie beim MindVote. Ich weiß, es gibt den MindBlog. Aber dieser wird ja nur sehr spärlich genutzt.
+Ich fände es auch irgendwie "heimeliger", wenn das hier besprochen werden würde, weil dann die Diskussionen auch in den PageIndex transferiert werden würden. 
+Das Forum ist auch im LeftMenu. So ist es auch mehr im Bewusstsein von uns allen. Ich dachte, das ist vielleicht ein Fall für EinfachMachen.
+
+!WeltSprache
+Die gültige Fassung der VerFassung ist jetzt die englische ConStitution. Dadurch kann NooPolis viel schneller an eine größe Zahl von Menschen kommuniziert werden. Falls BuergerInnen jetzt Sorgen haben, nicht mehr alles zu verstehen: Die VerFassung kann in jeder Sprachvariante editiert werden: Das KabiNett sorgt dann schon dafür, daß alle BuergerInnen ImmerWieder in ihrer Muttersprache eine aktuelle Version erhalten.
+
+!FreiHeit
+HeikeRibke findest die Verfassungsänderung von FreiHeit zu FreiHeit'en einschränkend und will die Änderung nicht ohne Erklärung von RainerWasserfuhr hinnehmen. Die letzte FreiHeit bleibt Dir bis zu Deinem LebensEnde. Du kannst Dich auch noch im Knast entscheiden, wie Du das hinnimmst. Also ist das nichts besonderes. Ich müsste dann alle FreiHeit'en aufzählen.
+Ich diskutiere um diese Kleinigkeit, weil Du Dir ja Gedanken gemacht haben musst, wenn Du es extra editiert hast. Da stellt sich mir die Frage: Welche?? RainerWasserfuhr: FreiHeit könnte in NooPolis nicht nur als abstrakter philosophischer Begriff verwendet werden, sondern als ganz konkrete und genaue Handlungsoptionen von BuergerInnen, 
+die sie in NooPolis nutzen können. Falls irgendwann mal 100 oder 1.000 BuergerInnen existieren sollten, könnte
+zB die FreiHeit "VerFassung" bearbeiten auf die Mitglieder eines gewählten Verfassungsrates eingegrenzt werden.
+Oder die FreiHeit zum editieren des HausHalt auf Mitglieder des KabiNett. 
+
+!GeheimProjekt > BildungsBurg
+
+!SocialBackup
+FrankLorenz schlägt vor, dass SocialBackup System mit Hilfe von RSS zu vereinfachen. Es könnte ein RSS-Feed automatisch generiert werden, welcher jeweils Links auf die aktuellen zu sichernden Dateien als Enclosure enthält. Da sicherlich viele BuergerInnen schon PodcastReader verwenden könnten sie dann einfach den SocialBackup Feed abonnieren und so ohne weiteren Aufwand am SocialBackup teilnehmen. Als Erweiterung könnten die Downloads registriert und im Wiki protokolliert werden.
+HeikeRibke findet, dass das sehr gut klingt! Würde sich aber eine Darstellung in Laiensprache wünschen und würde gerne wissen, was ein PodcastReader ist. 
+Wenn Du das hier erklären könntest, dann würde ich eventuell auch mitmachen.
+
+Was ist ein PodcastReader (auch PodCatcher, FeedReader genannt)? Ähm ja. Das schreit nach einer Livedemonstration. Wo soll ich denn da anfangen? http://de.wikipedia.org/wiki/Podcasting
+Das Prinzip hier ist zumindest folgendes: Der PodCatcher läuft auf deinem Computer im Hintergrund und liest regelmäßig den abonnierten RSS-Feed (http://de.wikipedia.org/wiki/Rss). In dem findet er Verweise auf die aktuellen Dateien des SocialBackup. Immer wenn eine neue Datei gefunden wird, lädt er diese automatisch runter und legt sie in einen Ordner zur weiteren Verwendung. Teilweise kann man den PodCatcher auch so einstellen, dass er automatisch alte Dateien aus diesen Ordnern löscht. Beispiele für PodCatcher wären Juice http://juicereceiver.sourceforge.net/ oder Apples ITunes.
+
+Diee Seite SocialBackup wird momentan manuell von RainerWasserfuhr gepflegt: Erster Entwurf für den Feed: SocialBackupFeed.
+
+FrankLorenz findet den Feed gut, nur leider kann Juice wohl kein ATOM lesen und mit Yahoo Pipes bekommt man ihn leider auch nicht mal eben konvertiert, Inhaltlich passt es fast, die IDs der Entries sollten noch unterschiedlich sein.
+
+Die neuste Version von SocialBackupFeed scheint zu funktionieren (mit Juice)! Mal sehn wie es wird wenn es ein paar Tagen läuft.
+
+Der Feed ist also noch statisch?

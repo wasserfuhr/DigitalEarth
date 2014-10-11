@@ -1,0 +1,6 @@
+inspired by http://morale.erikbenson.com/person/erik
+
+||MindBroker      ||date    ||speed||coffeine||sleep||creativity
+|RainerWasserfuhr |200705187|105   |2        |10    |110
+
+MeNow

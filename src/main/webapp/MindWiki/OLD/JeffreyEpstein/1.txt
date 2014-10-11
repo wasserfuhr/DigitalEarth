@@ -1,0 +1,4 @@
+* MindTags: UnternehmensGruender
+* JahrGang: 1953
+* BirthDay: 01-20
+* MindSkill: VerMoegen

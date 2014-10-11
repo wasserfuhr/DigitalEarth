@@ -1,0 +1,228 @@
+Jede Änderung einer WikiPage im MindWiki wird als neue ReVision gespeichert und kann per MindClick im JspWiki unten rechts auf das Datum jeder WikiPage als [DeWikiPedia:Diff] dargestellt werden.
+
+Das ist auch praktisch für den TotalRecall.
+
+!RePort: WikiPage's with most ReVision's as of 20080921:
+||ReVision's||WikiPage||MovedTo
+|469|WasWyrd |WikiLender
+|269|[Main] |MindBroker
+|224|RainerWasserfuhr
+|210|DoIt
+|167|ImmerWieder|ReDo
+|145|WikiLender
+|124|MindPeople
+|108|SocialBackup
+| 85|NooPolis
+| 79|MindBroker
+| 69|HappyBirthday
+| 68|VerFassung
+| 64|ToDo |DoIt
+| 62|HeikeRibke
+| 61|DueckWiki
+| 60|MindLine |UnTil
+| 60|InterWiki
+| 59|MindBib
+| 54|WikiTchen
+| 54|RealFilm
+| 54|MitWirkende
+| 53|MindBrokerAg
+| 52|LeftMenu
+| 48|FavIcon
+| 46|PostAmt
+| 42|SocialNetwork
+| 42|SingularityMind
+| 41|MindId
+
+!At least 10 ReVision's:
+AgWiki
+AgnesWasserfuhr
+AlphaTester
+AndreasStuhlmueller
+AndreasWeigel
+ArTelligence
+AskMindBroker
+AusLand
+BastiHirsch
+BeautifulMind
+BegruessungsGeld
+BidAsk
+BildungsBurg
+BillSeitz
+BirthDay
+BootStrap
+BuergerInnen
+BuergerKonto
+BusinessPlan
+CabiNetElection
+CamelCase
+CemBasman
+ChatCode
+ChristineSchlinck
+CommitMent
+ConStitucion
+ConStitution
+CorpPedia
+CrowdWisdom
+DanielBruessler
+DanielPoodratchi
+DasExperiment
+DealFutures
+DelIcioUs
+DelIm
+DiskussionsForum
+DoIt
+DresdenChess
+DresdenScore
+DresdenTicTacToe
+DueckWiki
+EcZwo
+EdelBild
+EigenRisk
+ErWartung
+FavIcon
+ForbesList
+FreiHeit
+FutureSax
+GauLoises
+GeekIq
+GlaesernerMensch
+HandelsRegister
+HappyBirthday
+HausHalt
+HeikeRibke
+HerKunft
+ImPressum
+ImmerWieder
+IndexIndex
+IngridaPlunksnyte
+InterWiki
+JederMann
+KabiNettWahl
+KayGroschen
+KinderWunsch
+LarsHinrichs
+LastWill
+LebensErwartung
+LeftMenu
+LeistungsKonto
+LevelSieben
+MaRo
+Main
+MattisManzel
+MeNow
+MessiMatrix
+MiNd
+MindApi
+MindBib
+MindBroker
+MindBrokerAg
+MindBrokerKg
+MindBrokerSalon
+MindEis
+MindEvent
+MindFloor
+MindFutures
+MindId
+MindKodex
+MindLine
+MindMac
+MindMe
+MindPeople
+MindPet
+MindPicNic
+MindPlaces
+MindPost
+MindPrize
+MindProps
+MindSalon
+MindShop
+MindTower
+MindVerb
+MindVote
+MindWiki
+MitWirken
+MitWirkende
+NeustadtZwoNull
+NewsLetter
+NextId
+NooPolis
+NooPolisFaq
+NooSphere
+OliverGassner
+OpenConsult
+OpenId
+PerSona
+PerformancePanorama
+PieschenBank
+PostAmt
+PsychologischeGrundlagen
+QuickCapture
+RadiKal
+RainerWasserfuhr
+RauSing
+ReDo
+RealFilm
+RealRoman
+RedBlueGame
+RicardaDHerbrand
+SecondMind
+ShockLevel
+SiggiBecker
+SingularCamp
+SingularityMind
+SocialBackup
+SocialNetwork
+SourceCode
+SportPortal
+SpotFeatures
+SpotUserProfileData
+StartUpWeekEnd
+StefanNitzsche
+TageBuch
+TimBonnemann
+TineMisu
+ToDo
+TrueLove
+TrueMan
+TwittEr
+TwittiPedia
+UhTopia
+UmZug
+UnserBudget
+UnserGrid
+UnserNotar
+UnserSlogan
+UnserSteuerberater
+UnsereBugs
+UnsereDoMains
+UnsereMotivation
+UnsereProjekte
+UnternehmensGruender
+UsElection08
+UteMoritz
+VerFassung
+VerTrag
+VirtuelleOekonomie
+VorName
+WaldSchloesschenBruecke
+WarrenBuffett
+WasWar
+WasWyrd
+WechselKurs
+WeltSprache
+WerdeMindBroker
+WikiBoysZwo
+WikiLender
+WikiMind
+WikiNode
+WikiParty
+WikiTchen
+WikiWeiber
+WikiWeiberZwo
+WirkMarkt
+WirkZentrum
+XingLe
+XingZicktRum
+YvonneDieSonne
+YvonneSchubert
+ZigaTurk

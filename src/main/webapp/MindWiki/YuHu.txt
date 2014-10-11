@@ -1,0 +1,18 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/08/6001
+* HomePage: http://www.ee.ucla.edu/~hu/
+
+PagePath:
+# AndreasAbecker [http://dblp.uni-trier.de/db/indices/a-tree/a/Abecker:Andreas.html]
+# RudiStuder [http://dblp.uni-trier.de/db/indices/a-tree/s/Studer:Rudi.html]
+# DieterFensel [http://dblp.uni-trier.de/db/indices/a-tree/f/Fensel:Dieter.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/l/Lausen:Holger.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/s/Steinmetz:Nathalie.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/k/Kershenbaum:Aaron.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/m/Ma:Li.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/l/Li:Xin.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/h/Hu:Bo.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/m/Marek=Sadowska:Malgorzata.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/s/Singh:Amit.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/t/Trimberger:Steven.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/h/Hu:Yu.html]

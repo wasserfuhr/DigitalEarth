@@ -1,0 +1,8 @@
+Seit 20070917:1230 ist RainerWasserfuhr Postbote. Genauer gesagt: MetaPostBote.
+
+||am     ||von||bis||Pause
+|20070926|0900|1830|1
+|20070920|0900|1830|1
+|20070919|0900|1830|1
+|20070918|1000|1730|1
+|20070917|1230|1830|0

@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.048831
+* LaengenGrad: 13.740510
+* BoundingBox: 15
+* http://www.rauschenbach-deli.de/

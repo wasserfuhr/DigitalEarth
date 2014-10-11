@@ -1,0 +1,8 @@
+Eines Tages stand RainerWasserfuhr auf dem AlexanderPlatz und wollte den Fernsehturm besuchen.
+Leider war da aber grade eine lange Schlange, in der man ca. 30 min warten mußte.
+So viel Zeit hatte RainerWasserfuhr nicht, denn er wollte noch den nächsten TransRapid bekommen.
+
+Da dachte sich Rainer: Wäre es nicht mögliche eine PowerQueue zu haben, bei der diejenigen, die
+bereit sind, mehr Geld auszugeben, auch kürzer warten müssen.
+
+Mit dem MindPhone und der MindApi der PieschenBank könnte dies sogar bald möglich werden.

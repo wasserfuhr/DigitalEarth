@@ -1,0 +1,5 @@
+* IsA: PerSon
+* HomePage: http://tu-dresden.de/forschung/ansprechpartner/foerdermittelberatung
+* HasTalked: RainerWasserfuhr
+
+GruenderFoyer

@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Wang_Xuan]
+* BornIn: 1936
+* BirthDay: 02-05
+* DiedIn: 2006

@@ -1,0 +1,10 @@
+!!!mind-broker-wiki: wiki-node
+
+Welcome. 
+
+!Einstiegspunkte
+''starting points''
+
+
+!wiki-nodes benachbarter wikis
+''wiki-nodes of neighboring wikis''

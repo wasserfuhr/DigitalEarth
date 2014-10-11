@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Georg_Nemetschek]
+* BornIn: 1934
+* BirthDay: 06-05
+* ViAf: http://viaf.org/viaf/8233773
+* HomePage: http://www.nemetschek.com/de/home/unternehmen/menschen/firmengruender.html

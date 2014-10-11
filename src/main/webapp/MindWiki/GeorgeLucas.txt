@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:George_Lucas]
+* BornIn: 1944
+* BirthDay: 05-14

@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/g/VolkerGruhn
+* HomePage: http://ebus.informatik.uni-leipzig.de/www/de/kontakt/mitarbeiter/vg.html
+* PageNumber: 7
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy MichaelEvangelist VolkerGruhn
+|[XingLe:Volker_Gruhn]

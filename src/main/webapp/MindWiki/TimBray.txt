@@ -1,0 +1,9 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Tim_Bray]
+* DbLp: http://dblp.uni-trier.de/rec/pid/87/3386
+* BornIn: 1955
+* BirthDay: 06-21
+* HomePage: http://www.tbray.org/ongoing/
+* PageNumber: 9
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi MichaelStonebraker PeterLockemann JimGray AdamBosworth TimBray
+|[TwittEr:timbray]

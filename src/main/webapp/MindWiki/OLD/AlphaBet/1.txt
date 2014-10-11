@@ -1,0 +1,35 @@
+[DeWikiPedia:Buchstabiertafel]:
+
+
+|A |Anton |Alpha |Anna |Anton
+|Ä |Ärger |– |Äsch (Aesch) |Ärger
+|B |Berta |Bravo |Berta |Berta
+|C |Cäsar |Charlie |Cäsar |Cäsar
+|Ch |Charlotte |– |– |Christine (nicht gebräuchlich)
+|D |Dora |Delta |Daniel |Dora
+|E |Emil |Echo |Emil |Emil
+|F |Friedrich |Foxtrott |Friedrich |Friedrich
+|G |Gustav |Golf |Gustav |Gustav
+|H |Heinrich |Hotel |Heinrich |Heinrich
+|I |Ida |India |Ida |Ida
+|J |Julius |Juliett |Jakob |Julius
+|K |Kaufmann |Kilo |Kaiser |Konrad
+|L |Ludwig |Lima |Leopold |Ludwig
+|M |Martha |Mike |Marie |Martha
+|N |Nordpol |November |Niklaus |Nordpol
+|O |Otto |Oscar |Otto |Otto
+|Ö |Ökonom |– |Örlikon (Oerlikon) |Österreich
+|P |Paula |Papa |Peter |Paula
+|Q |Quelle |Quebec |Quasi |Quelle
+|R |Richard |Romeo |Rosa |Richard
+|S |Samuel |Sierra |Sophie |Siegfried
+|Sch |Schule |– |– |Schule
+|ß |Eszett |– |– |scharfes S
+|T |Theodor |Tango |Theodor |Theodor
+|U |Ulrich |Uniform |Ulrich |Ulrich
+|Ü |Übermut |– |Übermut |Übel
+|V |Viktor |Victor |Viktor |Viktor
+|W |Wilhelm |Whiskey |Wilhelm |Wilhelm
+|X |Xanthippe |X-Ray |Xaver |Xaver (früher: Xanthippe)
+|Y |Ypsilon |Yankee |Yverdon |Ypsilon
+|Z |Zacharias |Zulu |Zürich |Zürich (früher:Zeppelin)

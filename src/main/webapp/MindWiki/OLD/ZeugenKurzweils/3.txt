@@ -1,0 +1,7 @@
+||ComPa re         ||ZeugenJehovas    ||ZeugenKurzweils
+||BookOne          |TheBible          |TsIn
+||MindOne          |CharlesTazeRussell|RayKurzweil
+||                 |                  |RaptureOfTheNerds
+||YoungManWithBeard|JesusChrist       |AubreyDeGrey
+||OldManWithBeard  |GodTheFather      |AubreyDeGrey
+||                 |AscensionOfJesus  |SpaceTravel

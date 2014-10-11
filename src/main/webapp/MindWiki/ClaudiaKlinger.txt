@@ -1,0 +1,3 @@
+* IsA: PerSon
+|[TwittEr:HumanVoice]
+|[FaceBook:1014371019]

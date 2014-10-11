@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* MindOne: TorstenWiesener
+* HomePage: http://www.cafe-kontinental.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/250892760
+
+MeMo:
+* 20090511:1500: MartinRoell, RalfLippold, ChristineSchlinck, JfSchlinck, RainerWasserfuhr: SpiegelNeuron, ZehnFragen, WorldCrash, ArtificialIntelligence, MindPhone

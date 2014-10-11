@@ -1,0 +1,49 @@
+* InterWiki: [AgiriWiki:AGIRI_Events], [DdWiki:Stadtwiki:Veranstaltungen], [DeWikiPedia:April_2009],
+ [OpenCog:Current_events]
+
+The WikiBased calendar of NooPolis.
+
+(MindEvent's in the WikiLender have a "When" and an optional "UnTil". Things which only have an "UnTil" can be found as DeadLine)
+||When        ||UnTil||      ||MindPlace    ||What                    ||MindPeople
+|20090918     |     |        |KalkScheune   |GlobalFutureCamp         |MoritzAvenarius EtAl
+|20090709:2200|     |        |StadtDresden  |DiaLog                   |RainerWasserfuhr, JeMand
+|20090710:1100|     |        |LockSchuppen  |LockTreff                |RalfLippold, RainerWasserfuhr?, JensKorte, JeMand
+|20090722     |     |        |ShangHai      |SonnenFinsternis         |
+|20090728     |     |        |TuDresden     |GruenderTreff            |
+|20090807     |     |        |KoenigsUfer   |Konzert                  |HelgeSchneider EtAl
+|20090808     |     |        |KoenigsUfer   |Konzert                  |RolandKaiser EtAl
+|20090811:1600|     |        |StadtDresden  |InterView                |RainerWasserfuhr?
+|20090814     |     |        |FutureFactory |Besuchertag              |RalfLippold?
+|20090823:1600|     |        |LockSchuppen  |InterviewMovie           |RalfLippold, RainerWasserfuhr, CelineBerger
+|20090830     |     |        |FreistaatSachsen|SachsenWahl09          |BuergerInnen
+|20090830     |     |        |FreiBerg      |IndustrialHeritage       |RalfLippold?
+|20090831     |     |        |FreiBerg      |IndustrialHeritage       |RalfLippold?
+|20090901     |     |        |FreiBerg      |IndustrialHeritage       |RalfLippold?
+|20090918     |     |        |KalkScheune   |GlobalFutureCamp         |MoritzAvenarius EtAl
+|20090919     |     |        |KalkScheune   |GlobalFutureCamp         |MoritzAvenarius EtAl
+|20090927     |     |        |DeutschLand   |BundestagsWahl09         |
+|20091003     |     |        |NewYork       |SingularitySummit        |RayKurzweil EtAl
+|20091004     |     |        |NewYork       |SingularitySummit        |RayKurzweil EtAl
+|20091025     |     |        |OrlandoFl     |WikiSym                  |DirkRiehle?, RainerWasserfuhr? EtAl
+|20091004:0830|     |        |HelsInki      |http://www.mcpc2009.com/ |RalfLippold? EtAl
+|20091111:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|20091126:1930|     |        |StadtDresden  |VorTrag                  |WernerTikiKuestenmacher
+|20100211:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|20100610     |     |        |CongressCenterDresden|ZukunftsForum     |ThomasKoeplin EtAl
+|20110303:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|20120216:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|20121221     |     |        |PlanetErde    |13.0.0.0.0               |
+|20261113     |     |        |PlanetErde    |DoomsDay                 |HeinzVonFoerster EtAl
+|20810903     |     |        |DeutschLand   |SonnenFinsternis         |
+
+everything else is on the FutureMap
+
+!WasWar:
+
+||When        ||UnTil||      ||MindPlace    ||What                    ||MindPeople
+|20090708:1930|     |        |WirkZentrum   |JobWiki-DiaLog           |RainerWasserfuhr, JeMand
+|20090703     |     |        |BmwWerkLeipzig|Besuch                   |RalfLippold, JuergenAnke
+|20090702     |     |        |CafeLloyds    |SingularTalk             |RainerWasserfuhr, RalfLippold, AlexandraGrandpierre
+|20090701     |     |        |BergGarten    |Besuch                   |ChristineSchlinck
+
+Former Events: WasWar.

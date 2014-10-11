@@ -1,0 +1,9 @@
+* RdfProperty: http://xmlns.com/foaf/0.1/#homepage
+
+Candidates for HomePage's of your MindBrowser:
+* DoIt
+* BookMark
+* RecentChanges
+* IchDenke
+
+Currently: NextAction

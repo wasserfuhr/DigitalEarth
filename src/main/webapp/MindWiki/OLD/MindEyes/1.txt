@@ -1,0 +1,4 @@
+* MindLine: 2018
+
+Bis spätestens 2018 im MindShop: Brillen bzw Kontaktlinsen mit eingebauter Kamera und semipermeablem Display, welche ein
+Overlay vom RealLife mit einem 3D-Modell der Welt ermöglicht. Das Modell wird in Echtzeit an die Kopfbewegungen angepasst. Die MindEyes erkennen, falls sich BuergerInnen mit MindId in der Nähe befinden. Falls die BuergerInnen gemeinsame KnisterRinge besitzen, dienen die MindEyes auch als NacktSichtBrille.

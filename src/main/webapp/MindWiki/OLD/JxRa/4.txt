@@ -1,0 +1,11 @@
+* MindTags: RandomlyGeneratedPageName, PerSona
+* IntelLigence: 138
+* KnowLedge: 8300
+* LifeExpectancy: 2042
+* GeSund: 0.9
+* KasimirNummer: 0
+* TestosteroneLevel: 40
+* MindPlace: WirkZentrum
+* BlutDruck: 130/82
+* FullNess: 0.4
+* ThirstiNess: 0.8

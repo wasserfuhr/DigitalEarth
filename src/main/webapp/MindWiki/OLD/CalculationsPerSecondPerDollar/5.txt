@@ -1,0 +1,20 @@
+FutureModel
+
+calculations per Second per UsDollar in 2000: n.
+
+according to http://www.flickr.com/photos/jurvetson/3656849977/: n=10^8?
+
+||FutureModel||[1]||[1]
+|1957|10^0
+|2000|10^8
+|2009|     |1.12*10^9
+|2020|10^11
+|2040|10^16
+|2060|10^27
+|2080|10^40
+|2100|10^60
+* [#1] http://www.kurzweilai.net/articles/images/chart19.jpg
+* [#2] http://www.winner-dresden.de/index.php/cat/c3010200_Intel-reg--CPUs.html: IntEl Core 2 Duo E7400 2,8GHz = 104 EuRo = 148 UsDollar
+
+http://www.winner-dresden.de/product_info.php/info/p30399_Intel-reg--Core-2-Duo-E7400-2-8GHz-box.html : LinPack 100x100 (MFLOPS): 1.12*10^9 -> 
+http://www.cpu-world.com/CPUs/Core_2/Intel-Core%202%20Duo%20E6300%20HH80557PH0362M%20%28BX80557E6300%29.html

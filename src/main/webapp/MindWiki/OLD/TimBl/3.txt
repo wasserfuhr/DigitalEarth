@@ -1,0 +1,10 @@
+* MindTags: ProFessor
+* NachName: Berners-Lee
+* JahrGang: 1955
+* BirthDay: 06-08
+* InterWiki: [WikiPedia:Tim_Berners-Lee]
+
+GoogleSearch #3 for "tim", GoogleSearch #1 for "sir tim":
+
+||AusLand
+|[WorldWideWeb:www.w3.org/People/Berners-Lee/]

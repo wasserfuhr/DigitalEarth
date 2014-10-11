@@ -1,0 +1,7 @@
+* Jeder MindBroker kann IchAg werden.
+* Jede IchAg hat 1.000 Shares Stammkapital.
+* Jede IchAg kann auf dem MindFloor gehandelt werden.
+* Erwerb und Veräußerung von Anteilen an einer IchAg erfolgt per Auktion in EUR.
+* Jede IchAg veröffentlicht den Anteilseignern die Erklärung des EinKommen für die erwartete EinkommenSteuer.
+* Jeder Anteilseigner an einer IchAg hat Anspruch auf PayOut wie gemäß EinkommenSteuer erklärt.
+* Der Anspruch auf PayOut gilt bis zum LebensEnde der IchAg.

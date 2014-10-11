@@ -1,0 +1,6 @@
+* IsA: EnterPrise
+* HomePage: https://www.micropayment.de/
+* HeadQuarters: StadtBerlin
+* MindOne: AndreasRichter
+
+Micro-PayMent

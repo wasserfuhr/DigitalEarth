@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Rodney_A._Brooks]
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/RodneyABrooks
+* HomePage: http://people.csail.mit.edu/brooks/
+* PageNumber: 11
+* PagePath:  LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi AlexAiken RalfTreinen NachumDershowitz YuriGurevich BertrandMeyer GuySteele RodneyBrooks
+* MindSkill: ArTelligence

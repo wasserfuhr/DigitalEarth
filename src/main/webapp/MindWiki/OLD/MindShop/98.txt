@@ -1,0 +1,57 @@
+'' The MindShop is the central Selling PlatForm for EnterPrise's and CitiZens of NooPolis.''
+
+Der MindShop ist die zentrale Verkaufsplattform für UnterNehmen und BuergerInnen in NooPolis.
+
+''You can pay with KayGroschen. You can buy KayGroschen at the ForEx. Or: EarnKayGroschen.''
+
+Bezahlt wird mit KayGroschen. KayGroschen können an der ForEx erworben werden. Oder: EarnKayGroschen.
+
+''Currently availabe:''
+Zur Zeit im Angebot:
+||Year||ProDuct           ||Supplier          ||KayGroschen||Service       ||available 
+||Jahr||ProDukt           ||AnBieter          ||KayGroschen||Service       ||noch verfügbar 
+||2010|LockCoupon         |LockSchuppenAg     |         512|               |
+|     |NettDenken - Konzept & Entwicklung   |NettConsult |VerhandlungsBasis|NachBedarf    |
+|     |NettReden - Kommunikationsberatung   |NettConsult |VerhandlungsBasis|NachBedarf    |
+|     |NettVernetzen - SocialMedia Beratung |NettConsult |VerhandlungsBasis|NachBedarf    |
+|     |NettVerkaufen - Marketingberatung    |NettConsult |VerhandlungsBasis|NachBedarf    |
+|     |NettBeraten - Coaching & Konsultation|NettConsult |128            | ErstGespraech  |
+|     |GoogleWave Einladung|SoerenRogoll     |256         |               |10
+|     |LockBabel          |LockSchuppenAg     |        ab 1|              |
+|     |JoomlaEinfuehrung  |AlexanderFriedland |        3000|1 h            |
+|     |PreziEinfuehrung   |AlexanderFriedland |         500|15 min         |
+|     |xtraNormalEinfuehrung|AlexanderFriedland|       1000|30 min         |
+|     |WikiWallAd         |LockSchuppenAg     |        1024|               |4
+|     |MindWikiBachelor   |RainerWasserfuhr   |         500|               |3
+|     |LockConsultClassic |RalfLippold        |    ab 5.000|1h             |
+|     |StartUpSim         |RainerWasserfuhr   |      99.999|               |2
+|     |VerhandelnUndVerkaufen|RainerWasserfuhr|        2048|               |
+|     |LockSchuppen-BeSuch|LockSchuppenAg     |  PreisTafel|               |
+|     |SingularVortrag    |RainerWasserfuhr   |       5.000|               |3
+|     |SingularBachelor   |RainerWasserfuhr   |       2.048|               |3
+|     |OpenConsult        |RainerWasserfuhr   |    ab 1.000|               |
+|     |FamWis01           |FamilienFreund     |       2.500|1 h            |∞
+|     |FamWis02           |FamilienFreund     |       2.500|1 h            |∞
+|     |FamilienBanner     |FamilienFreund     |         500|1 Monat        |∞
+|     |FamilienArtikel    |FamilienFreund     |       1.000|1 Monat        |∞
+|     |MindBannerBlondieDenkt|ThomasKujawa    |         500|1 Monat        |∞
+|     |BabySpaziergang    |ChristineSchlinck  |         500|0,5            |
+|     |FotoAuftrag        |ChristineSchlinck  |    ab 5.000|2-4h           |
+|     |BauAuftrag         |ChristineSchlinck  |       5.000|1h             |
+|     |DatingFee          |ChristineSchlinck  |       5.000|3h             |
+|     |RockTheTram        |SvenEchtermeyer    |         189|2 Tickets      |17
+|     |FahrradReparatur   |JanKreuter         |        1000|1h             |
+|     |BabySitting        |JanKreuter         |        1000|1h             |
+|     |KfzDiagnose        |JanKreuter         |        2500|1h             |
+|     |KitesurfTheorie    |JanKreuter         |2*Java/Bier |1,5h           |∞  
+|     |KiteBasics         |JanKreuter         |        3000|2-3h           |
+|     |MindBanner         |MindBroker         |       2.000|1 Monat        |1
+|     |EheRinge           |MindBroker         |       1.000|               |
+|     |LiebesRinge        |MindBroker         |         100|               |
+|     |KnisterRinge       |MindBroker         |          10|               |
+||2012|ParisDresden       |MindWings          | | |
+||2015|MindEyes           |MindBroker         | | |
+||2020|SpaceLift-Trip     |SpaceLiftAg        | | |
+||2030|PetaBitPlatte      |MediaMarkt?        | | |
+||2035|TerraDsl           |DeutschTelekom?    | | |
+||2039|MoonNights         |LunarSteigenberger?| | |

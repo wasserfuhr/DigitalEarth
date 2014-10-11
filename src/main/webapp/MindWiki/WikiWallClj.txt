@@ -1,0 +1,70 @@
+{{{
+(str "<style type='text/css'>
+td>input {
+  margin: 0px;
+  width: 95px;
+  height: 18px;
+}
+td {
+  vertical-align: bottom;
+  height: 42px;
+}
+</style>
+<h1>Your WikiWall:</h1>
+Select your most important WikiPages from over 9500 WikiPages. Based on your choice, we will later define matching people, events and actions.
+<table>
+<tr><td><input/></td><td><input/></td><td><input/></td><td><input/></td></tr>
+<tr><td><input/></td><td><span style='font-size:7pt'>Your WikiName:</span><br/><input value='e.g. RalfLippold'/></td><td><input/></td><td><input/></td></tr>
+<tr><td><input/></td><td><input/></td><td><input/></td><td><input/></td></tr>
+<tr><td><input/></td><td><input/></td><td><input/></td><td><input/></td></tr>
+</table><input value='create my WikiWall' type='submit' size='20'/>")
+}}}
+
+{{{
+(str "
+  <script language='JavaScript'><!--
+   function clicked(e) {
+     if (!e) var e = window.event;
+     var tableLeft=document.getElementById('table');
+   //document.getElementById('status').innerHTML='++'+e.pageX+'-'+e.target.offsetLeft+'-'+e.target.parentNode.offsetLeft+'-'+e.target.offsetParent.offsetLeft;
+  var hexS='0123456789abcdef';
+  var col=
+   e.pageX-e.target.offsetLeft-e.target.offsetParent.offsetLeft;
+  col='#ffff'+hexS.charAt(17-Math.round(col/5))+'0';
+//  document.getElementById('status2').innerHTML=col;
+  e.target.style.backgroundColor=col;
+   }
+   document.onmousedown = clicked;
+   //-->
+
+  </script>
+<h1 id='status'></h1>
+<h1 id='status2'></h1>
+<table id='table'>
+  <tr>
+   <td>PeerAcademy</td>
+   <td>BlueBrain</td>
+   <td>BrainCopy</td>
+   <td>LongBetOne</td>
+  </tr>
+  <tr>
+   <td>LockSchuppen</td>
+   <td>TransparentMan</td>
+   <td>NanoBot</td>
+   <td>PeterPlan</td>
+  </tr>
+  <tr>
+   <td>DeepBlue</td>
+   <td style='font-weight:bold; background-color:#ff0;'>RayKurzweil</td>
+   <td>FutureLab2056</td>
+   <td>WikiWall</td>
+  </tr>
+  <tr>
+   <td>DavidOrban</td>
+   <td>NooPolis</td>
+   <td>LifeWiki</td>
+   <td>DigitalTwin</td>
+  </tr>
+</table>
+")
+}}}

@@ -1,0 +1,56 @@
+AndreasStuhlmueller: http://www.aiplayground.org/artikel/delicious-mates/
+
+Top 50 DelIcioUs mates of RainerWasserfuhr:
+{{{
+username             weight               # common bookmarks   # total bookmarks    % common
+--------------------------------------------------------------------------------------------
+siggiB               44.14726             28                   1023                 2.73705
+anissimov            10.61463             36                   6309                 0.57061
+robotact             10.27639             6                    180                  3.33333
+OliverG              9.43387              27                   4019                 0.67181
+kristjan.pecanac     6.65805              6                    233                  2.57511
+blogschau            5.88124              6                    268                  2.23881
+Onlinejournalismus   5.11136              10                   1022                 0.97847
+frank_tentler        4.93310              6                    397                  1.51134
+dakira               2.74603              5                    656                  0.76220
+indignation          2.35176              9                    925                  0.97297
+AndLang              2.33368              8                    1458                 0.54870
+andreas.s            2.32603              5                    480                  1.04167
+faltherr             2.30515              10                   2760                 0.36232
+gdvorsky             2.02345              4                    433                  0.92379
+siranus              1.94288              14                   6271                 0.22325
+solnetwork           1.91759              24                   18016                0.13321
+arueter              1.71003              6                    1486                 0.40377
+krotty               1.37699              8                    1364                 0.58651
+tamberg              1.29384              15                   7547                 0.19875
+mirrano              1.05354              6                    1567                 0.38290
+bellorie             0.98941              14                   10798                0.12965
+rainerhelmes         0.79839              6                    2458                 0.24410
+qpeter               0.75542              14                   4742                 0.29523
+gregorrothfuss       0.70132              11                   7587                 0.14498
+jbone                0.63722              17                   20047                0.08480
+smartattic           0.62635              14                   5516                 0.25381
+mayerne              0.58615              9                    3670                 0.24523
+bruysten             0.58445              6                    2493                 0.24067
+sschraml             0.57171              11                   4109                 0.26771
+pramodc84            0.54291              17                   9604                 0.17701
+martinroell          0.51121              6                    3218                 0.18645
+medienlese           0.49598              9                    6498                 0.13850
+ani625               0.41520              17                   12091                0.14060
+kfisch               0.40820              4                    2822                 0.14174
+jahmount             0.39810              9                    6610                 0.13616
+exposur3             0.33260              24                   37454                0.06408
+open80               0.31927              6                    4178                 0.14361
+atul                 0.28782              13                   13261                0.09803
+angusf               0.26124              24                   48302                0.04969
+tbonnemann           0.25541              6                    7248                 0.08278
+ricetopher           0.25187              5                    4310                 0.11601
+engmark              0.24367              10                   9057                 0.11041
+Preoccupations       0.23746              12                   14676                0.08177
+julan                0.23296              19                   27099                0.07011
+wnpxrz               0.19201              7                    8800                 0.07955
+gerd.storm           0.18886              20                   55148                0.03627
+cmrsampaio           0.16703              9                    11747                0.07662
+keyvowel             0.12666              9                    15788                0.05701
+fritz                0.11338              9                    20701                0.04348
+snearch              0.08064              5                    13387                0.03735}}}

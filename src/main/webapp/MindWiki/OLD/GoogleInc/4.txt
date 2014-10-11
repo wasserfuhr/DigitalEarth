@@ -1,0 +1,33 @@
+* MindTags: EnterPrise
+* InterWiki: [DeWikiPedia:Google_Inc.], [WebSeitz:GooGle]
+* IsIn: US38259P5089
+* FoundedBy: LarryPage, SergeyBrin
+* MitWirkende: EricSchmidt, MarissaMayer, PeterNorvig, JonUdell
+* InVest: AndyBechtolsheim
+
+||ComPare               ||GoogleInc       ||MindBroker 
+|RechtsForm             |Inc.             |UnLimited
+|SloGan                 |DontBeEvil       |ConnectingBeautifulMinds
+|Founded                |1998             |2007
+|FoundedBy              |LarryAndSergey   |RainerWasserfuhr EtAl
+|Based on               |BackRub          |VebMind
+|IPO                    |2004             |2007
+|at                     |NasDaq           |MindFloor
+|WikiBased              |yes              |yes
+|                       |GoogleMasterPlan |FutureMap
+|OpenSource             |a little bit     |yes
+|GlaesernesUnternehmen  |-                |yes
+|HeadQuarters           |OneSixZeroZeroAmphiTheatreParkway|WirkZentrum
+|City                   |GoogleCity       |MindCity
+|Country                |UnitedStates     |NooPolis
+|Planet                 |PlanetEarth      |NooSphere
+|Corporate Jet          |GoogleJet        |MindJetOne
+|* Model                |Boeing 767-200   |Boeing 737-200
+|* AirPort              |Moffett          |GrueterichInternationalAirport
+|MitWirkende            |Googlers         |WikiBoys, WikiWeiber
+|Bikes                  |gBikes           |BikeOne
+|OS                     |GoogleOs         |MindOs
+|Maps                   |GoogleMaps       |MindMap
+|Mascot                 |Stan             |UnserMindy
+|Corporate snake        |Kaiser           |SehSchlange
+|                       |MentalPlex       |MindReader

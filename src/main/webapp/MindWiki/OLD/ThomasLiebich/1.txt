@@ -1,0 +1,3 @@
+* IsA: PerSon
+* MindSkill: IndustryFoundationClasses
+|[XingLe:Thomas_Liebich]

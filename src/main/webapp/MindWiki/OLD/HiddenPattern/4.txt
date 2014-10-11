@@ -1,0 +1,43 @@
+* DcAuthor: BenGoertzel
+
+http://www.brownwalker.com/book.php?method=ISBN&book=1581129890
+
+mentions:
+
+MindPeople:
+* AlanTuring
+* ArthurRimbaud
+* BenjaminWhorf
+* BuckminsterFuller
+* CharlesSandersPeirce
+* DouglasHofstadter
+* EliezerYudkowsky
+* FriedrichNietzsche
+* DavidBohm
+* GottfriedWilhelmLeibniz
+* GregoryBateson
+* JamesJoyce
+* JesusChrist
+* JohannWolfgangVonGoethe
+* JohnCage
+* JohnColtrane
+* JohnEllisMcTaggart
+* KentPalmer
+* MarcelProust
+* MarcusHutter
+* MitchellPorter
+* MrAristotle
+* MrPlato
+* OctavioPaz
+* PhilDick
+* RobertAntonWilson
+* SamuelBeckett
+* ShaneLegg
+* StanislavGrof
+* ThichNhatHanh
+* WilliamShakespeare
+
+Topics:
+* ArTelligence
+* FaustZwo
+* PolyBody

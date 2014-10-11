@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Götz_Widmann]
+* BirthDay: 11-23
+* MindSkill: MindMusic

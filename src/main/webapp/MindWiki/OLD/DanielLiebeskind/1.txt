@@ -1,0 +1,3 @@
+* IsA: PerSon
+* HomePage:http://www.daniel-libeskind.com/
+* InterWiki: [DeWikiPedia:Daniel_Libeskind]

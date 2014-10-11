@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Horst_W._Opaschowski]
+* BornIn: 1941
+* BirthDay: 01-03
+* ViAf: http://viaf.org/viaf/51810989

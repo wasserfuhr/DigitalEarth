@@ -1,0 +1,11 @@
+* MindLine: 2020
+
+Im Jahr 2007 schaffte der TGV 574,8 km/h, also der MindTrain im Jahr 2020 mindestens 666 km/h: 25 min für die Strecke SchoeneFeld - MindTower.
+
+Mit ZugStrom und MindMac an jedem Sitzplatz in der first class. 
+
+Die Konstruktionspläne des TransRapid sind OpenSource.
+
+MindBau plant die Trasse.
+
+Einziger Zwischenstopp: MindLifter-AirHolidayPort im tiefsten Brand-enburg.

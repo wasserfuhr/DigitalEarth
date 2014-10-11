@@ -1,0 +1,21 @@
+!The Rules:
+* 32 human players, so
+** 16 for Team White
+** 16 for Team Black
+* duration: 5 hours
+* allowed moves are those of traditional Chess, except for pawns:
+** pawns can move in any direction, (capture in the traditional way)
+* each team can move it's pieces concurrently
+* a move is valid as soon as
+** a player is inside the BoundingBox of a MindPlace which is geotagged in the MindWiki and
+** she twitters a L:<location> where <location> is inside a chess square.
+* a player can move either by
+** walking
+** unicycle
+** bicycle
+** public transport
+* the players have to obey to the rules of StrassenVerkehrsOrdnung:
+** only use mobiles when you are not a VerkehrsTeilnehmer
+* the winner is the team which
+** plays checkmate or 
+** has more pieces after 5 hours

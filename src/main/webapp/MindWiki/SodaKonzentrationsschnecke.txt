@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Sodakonzentrationsschnecke]
+* BreitenGrad: 19.570
+* LaengenGrad: -99.002
+* BoundingBox: 3300

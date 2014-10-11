@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* InterWiki: [WikiPedia:Bao_Xishun]
+* BoundingBox: 2.36

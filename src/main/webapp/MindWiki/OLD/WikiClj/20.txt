@@ -1,0 +1,32 @@
+;create WikiPage views
+;{{{
+
+((defn wiki []
+  (handle "wiki"
+   (fn []
+    (let [name (.substring (.getPathInfo request) 6)]
+     (if (.startsWith (.getPathInfo request) "/wiki/" )
+      (str "WikiName: " (.getAttribute (.getSession request) "WikiName") "..."
+       (let
+        [buf
+         (new java.io.BufferedReader
+          (new java.io.StringReader
+           (fetch-url (str "http://mindbroker.de/wiki/" name "?skin=raw"))))]
+           ((fn mapLine [] 
+             (let [line (.readLine buf)]
+               (if line
+                 (str
+                   (if (.startsWith line "* ")
+                      ;;TODO (.compile "\* [A-Z]+[a-z]+[A-Z]+[a-z]+[a-zA-Z0-9]*: "
+                      (str "<li>" (.substring line 2) "</li>")
+                      line
+                   )
+                   (if (.equals "" line)
+                      "<br/>"
+                   )
+                   (mapLine))
+                 "")
+                 ))))))))
+   "")))
+
+;}}}

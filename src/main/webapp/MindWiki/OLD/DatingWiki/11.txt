@@ -1,0 +1,48 @@
+* MindTags: ReView
+
+Der LiebesMarkt von NooPolis.
+
+KandidatInnen können entweder mit ihrem RealName oder unter Zuhilfenahme eines Kupplers als JeMand aufgenommen werden.
+
+|| ||Single         ||BeuteSchema ||                     ||Kuppler
+|♂|RainerWasserfuhr |             |
+| |                 |Sucht        |♀
+| |                 |Alter        |25-37
+| |                 |Bildung      |HSA, Promo, ProFessor, UnterNehmer'in
+| |                 |IQ           |>140
+| |                 |Rauchen      |egal
+| |                 |Grösse       |172-185
+| |                 |Familienstand|bevorzugt kinderlos 
+| |                 |KinderWunsch |auf Verhandlungsbasis
+| |                 |WohnSitz     |StadtDresden
+|| ||               ||            ||                               ||
+|♂|JeMand           |             |          |RainerWasserfuhr
+| |                 |Sucht        |♀
+| |                 |Alter        |28-35 
+| |                 |Bildung      |gebildet
+| |                 |Rauchen      |nein
+| |                 |Grösse       |172-185
+| |                 |Familienstand|bevorzugt kinderlos 
+| |                 |KinderWunsch |ok
+| |                 |WohnSitz     |RheinMain
+|| ||               ||            ||                               ||
+| |ChristineSchlinck|             |                               |
+| |                 |Sucht        |♂
+| |                 |Alter        |34-39
+| |                 |Bildung      |normal
+| |                 |Grösse       |182-192
+| |                 |Familie      |kinderlieb 
+| |                 |Familienstand|ledig o. geschieden
+| |                 |Rauchen      |nein
+| |                 |WohnSitz     |StadtDresden
+|| ||               ||            ||                               ||
+| |UteMoritz        |
+| |                 |Sucht        |♂
+| |                 |Alter        |30-38
+| |                 |Bildung      |mindestens Diplom
+| |                 |Rauchen      |egal
+| |                 |IQ           |>125
+| |                 |Grösse       |183-195
+| |                 |Familie      |gerne
+| |                 |KinderWunsch |auf Verhandlungsbasis
+| |                 |WohnSitz     |von StadtBerlin bis PlanetErde

@@ -1,0 +1,43 @@
+http://grid.mindbroker.de/
+
+LIVE auf EcZwo.
+
+!UseCase: Anlegen eines neuen HostUser:
+{{{
+export NEWUSER=...
+useradd -m $NEWUSER
+su $NEWUSER
+cd
+mkdir tmp
+export DEPLOYER_VERSION=0.4
+wget http://mvnrepo.mindbroker.de/mvnrepo/de/mindbroker/deploy/$DEPLOYER_VERSION/deploy-$DEPLOYER_VERSION-jar-with-dependencies.jar
+}}}
+
+!UseCase: (Re-)Deployment der WebApp:
+{{{
+export GRIDUSER=...
+su $GRIDUSER
+cd
+ps aux |grep $USER|grep java
+kill -9 *pid*
+export JAVA_HOME=/usr/local/java/jdk1.7.0
+export PATH=$PATH:$JAVA_HOME/bin
+export DEPLOYER_VERSION=0.4
+nohup java -Djava.io.tmpdir="$PWD/tmp" -jar deploy-$DEPLOYER_VERSION-jar-with-dependencies.jar > nohup.log &
+tail -f nohup.log
+exit
+}}}
+
+
+Langfristiger Aufbau für UnserGrid: Jede WebApp wird so entworfen, dass sie für
+kleine Teams und Communities zugeschnitten ist - immer maximal so gross dass sie 
+auf einen Server passt.
+Jeder User kann nicht nur auf einer, sondern auf mehreren Gridknoten Daten ablegen.
+Alle Daten können redundant gespeichert werden, indem sie per *push* auf Subscriber-
+Server syndiziert werden.
+
+Beispielanwendungen:
+* Blogs
+* Tagging
+* Foto- und Videogalerien
+* Social Networking (FOAF-artig)

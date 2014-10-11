@@ -1,0 +1,4 @@
+* IsA: SuperMarket
+* HomePage: http://www.netto-online.de/angebote/handzettel.php?id=49021
+* NamedAfter: KamenzerStrasse
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/360207425

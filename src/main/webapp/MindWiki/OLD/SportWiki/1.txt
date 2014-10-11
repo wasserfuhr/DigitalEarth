@@ -1,0 +1,11 @@
+* NRW
+** StadtKoeln
+*** ErsterFcKoeln
+** WipperFeld
+*** DjkWipperfeld
+* Sachsen
+** StadtDresden
+*** DynamoDresden
+** SenftenBerg
+* Thüringen
+** MindSalsa

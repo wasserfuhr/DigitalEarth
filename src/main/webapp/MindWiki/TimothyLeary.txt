@@ -1,0 +1,8 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Timothy_Leary] [WebSeitz:TimLeary]
+* JahrGang: 1920
+* BirthDay: 10-22
+* LebensEnde: 1996
+* DbLp: http://dblp.uni-trier.de/rec/pid/50/150
+* ViAf: http://viaf.org/viaf/61548424
+* CoAuthor: JohnPerryBarlow

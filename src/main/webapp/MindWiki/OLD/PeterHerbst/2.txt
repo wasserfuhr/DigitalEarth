@@ -1,0 +1,10 @@
+
+# JahrGang: 1971
+# BirthDay: 10-11
+# WohnSitz: StriSen
+
+
+* InvitedBy: RainerWasserfuhr
+||AusLand
+|[XingLe:Peter_Herbst2]
+|[SkyPe:pit_autumn]

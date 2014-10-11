@@ -1,0 +1,49 @@
+Wer WerdeMindBroker als nächstes?
+
+Nächste MindId: 17.
+
+||MindId||MindBroker     ||NextId
+|      17|RainerWasserfuhr|DimitriUwarov
+|      18|RainerWasserfuhr|SoerenStamer
+
+Weitere Kandidaten ( "*": Von der Person selbst angefragt):
+* CemBasman
+* FrSc
+* JensWegerle
+* NicoleSimon
+* * SebastianMitter (20 EUR)
+* * KatharinaKuehnel
+* * JuergenKohn
+* alle MindPeople ohne LebensEnde
+* StephanMosel
+* AndreasStuhlmueller
+* AlexandraSurdina
+* BeatDoebeli
+* EvLu
+* HelmutLeitner
+* DirkRiehle
+* StephanSchmidt
+* MatthiasJugel
+* JosefBuechel
+* HagenStanek
+* ManuelaAmann
+* JaRe
+
+falls englische WebApps fertig:
+* JoiIto
+* LawrenceLessig
+* alle UnternehmensGruender
+
+Option auf je 200 MindShares:
+* AlGe
+* AlGo
+* PeKa
+* SeMi
+* SvSc
+
+Kandidaten:
+* HaSt
+* EvLu
+* Alle Teilnehmer von MindEvents
+
+Vanity-MindId: Runde Zahlen und Schnapszahlen werden nachher bei ebay versteigert.

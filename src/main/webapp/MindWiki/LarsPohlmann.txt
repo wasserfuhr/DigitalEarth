@@ -1,0 +1,5 @@
+IsA: PerSon
+
+HasTalked: SoerenRogoll
+
+|[FaceBook:1466717175]

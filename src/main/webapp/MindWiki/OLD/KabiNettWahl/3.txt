@@ -1,0 +1,11 @@
+MindVote für das KabiNett:
+
+MindLine: 20071015.
+
+Alle BuergerInnen haben 4 Stimmen:
+
+||Kandidat||MindVote
+|DanielPoodratchi|* RainerWasserfuhr
+|YvonneSchubert  |* RainerWasserfuhr
+|MattisManzel    |* RainerWasserfuhr
+|TimBonnemann    |* RainerWasserfuhr

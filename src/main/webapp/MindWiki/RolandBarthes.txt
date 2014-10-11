@@ -1,0 +1,5 @@
+* IsA: VisitingProfessor
+* InterWiki: [DeWikiPedia:Roland_Barthes] [OpenCyc:RolandBarthes-Semiotician]
+* BornIn: 1915
+* BirthDay: 11-12
+* DiedIn: 1980

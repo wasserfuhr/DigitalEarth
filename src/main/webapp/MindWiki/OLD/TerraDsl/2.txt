@@ -1,0 +1,2 @@
+* MindTags: FutureCard
+* PreDict: Mindestens ein Dutzend BuergerInnen von NooPolis haben in ihrem MindHome einen MindMac der für weniger als 100 EuRo pro Monat per FlatRate mit symmetrischer Bandbreite von mindestens 1.099.511.627.776 bit/sec mit dem InterNet verbunden ist.

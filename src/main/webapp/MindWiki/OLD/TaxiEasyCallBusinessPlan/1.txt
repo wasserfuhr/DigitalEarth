@@ -1,0 +1,19 @@
+__Bezeichnung der Idee__:
+Taxi - auf'm Land geht's einfach;-)
+
+Beschreibung der Idee:
+Taxifahrtoptimierung im ländlichen Raum über Nutzung von GPS-Ortung der Taxis. Durch Anwahl einer Zentraltelefonnummer automatische Zuordnung auf das günstigst entfernte Taxi bzw. dasjenige, das im Zulauf auf Standort ist.
+
+__Zu lösende Probleme__:
+Ungleichmäßige Auslastung der einzelnen Taxiunternehmen, Reduzierung Wartezeit Kunden, Vermeidung Mehrfachanrufe (jedes Unternehmen separat), unnötige Fahrten
+
+__Anwendungsfelder beim Endverbraucher__:
+* deutschlandweite Einwahlnummer für Taxibestellung im ländlichen Raum (automatische Kennung auf Handy!)
+* Ausweitung  der Anwendung auf CarSharing und BikeSharing
+
+__Weitere Forschungsaktivitäte__n:
+* Einsatz von EmbeddedSystem
+* TrackingSystems
+* RfId-Erkennung
+* GPS-Ortung
+* Kooperation mit CoWorkingSpace's

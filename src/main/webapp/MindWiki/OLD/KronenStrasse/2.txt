@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/4431513
+
+TotalRecall:
+* 20081202: RainerWasserfuhr, JeMand: MontagsKreis, SeaSteading, GoogleSea, GoogleEarth
+* 20081201: RainerWasserfuhr, JeMand: WimpernPusten, SeminarWissen, SecondLife, LindenDollar, DresdenOpenSpace, PieschenTv, EhochIx, HochBegabt, MindNumber, KinderZeichnung

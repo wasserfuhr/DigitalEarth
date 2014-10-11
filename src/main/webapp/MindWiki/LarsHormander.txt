@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Lars_Hörmander]
+* BornIn: 1931
+* BirthDay: 01-24
+* ViAf: http://viaf.org/viaf/61607686

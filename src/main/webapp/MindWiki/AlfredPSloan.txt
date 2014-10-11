@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Alfred_P._Sloan]
+* BirthDay: 05-23
+
+GeneralMotors

@@ -1,0 +1,1 @@
+Die VirtuelleOekonomie von NooPolis hat laut VerFassung eine initiale und fortan konstante GeldMenge von 10.000.000 KayGroschen.

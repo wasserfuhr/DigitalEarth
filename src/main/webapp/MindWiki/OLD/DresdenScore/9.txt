@@ -1,0 +1,29 @@
+The DresdenScore is a SemanticWeb quality measure from MindBroker ReSearch for your FoAf node inside the WebOfTrust-enabled GiantGlobalGraph.
+
+How does it work?
+* The seed of the NooPolis SocialGraph is the FoAf list of NooPolis CitiZens at http://id.mindbroker.de/citizens
+* The DresdenScore scutter recursively checks RDFS:seeAlso links with a breadth-first search strategy
+
+!The current Metrics:
+||Score||Mnemonic||Parameter
+|+10000|CitiZens|You belong to the CitiZens of NooPolis
+|+1000|MindTrust|for each MindTrust you have defined on your profile page (mapped to foaf:knows)
+|+1000|FoAf|You already have a FoAf file
+
+!Possible future metrics:
+||Score||Mnemonic||Parameter
+|+200|The URL of the homepage has it's own domain
+|+500|The URL contains valid XHTML
+|+500|The URL has FoAf auto discovery
+|+500|The FoAf contains valid RDF
+|+200|for each unique rdfs:seeAlso inside your FoAf
+|-300|for each rdfs:seeAlso which points to non existing resources
+|-200|for each rdfs:seeAlso which points to non validating RDF
+|-200|for each rdf:resource which points to a page other with HTTP other than 200 
+|+1000|your shortest foaf:knows-chain from CitiZens of NooPolis has length 1
+|+100|your shortest foaf:knows-chain from CitiZens of NooPolis has length 2
+|+10|your shortest foaf:knows-chain from CitiZens of NooPolis has length 3
+|+1|for each kilometer of distance between you and the BoundingBox of your foaf:knows-contact
+|-1000|you are not reachable by a transitive foaf:knows-chain from CitiZens of NooPolis
+|+10000|you belong to the ForbesList 2007 top 25
+|+1000 |for each member of the ForbesList 2007 top 25 who foaf:knows you

@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* InterWiki: [OpenCyc:CharlesBabbage]
+* JahrGang: 1791
+* LebensEnde: 1871

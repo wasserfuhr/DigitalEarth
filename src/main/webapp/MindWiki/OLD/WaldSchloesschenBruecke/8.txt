@@ -1,0 +1,12 @@
+* MindTag: MindPlace,CrowdWisdom
+* InterWiki: [DeWikiPedia:Waldschl%C3%B6%C3%9Fchenbr%C3%BCcke]
+* BreitenGrad: 51.0638
+* LaengenGrad: 13.7769
+* BoundingBox: 80
+* GraDient: 10
+* SlimNess: 0.3
+
+WasSchaetztDu: Ab wann kannst Du in der StadtDresden mit dem MindWay __über__ die WaldSchloesschenBruecke cruisen?:
+
+||wer              ||ErWartung||Unsicherheit (%)
+|RainerWasserfuhr  |2011      |20

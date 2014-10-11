@@ -1,0 +1,5 @@
+||Gastro         ||Date   ||Table||from||UnTil||Guests
+|CafeNeustadt    |20090417|  ?|1600|2130|RalfLippold, RainerWasserfuhr EtAl
+|EiscafeVenezia  |20090416| 32|2200|2300|RainerWasserfuhr
+|EiscafeVenezia  |20090415| 16|1600|1700|RainerWasserfuhr, HeidiGallinat
+|MaximusDresden  |20090403|  1|1710|2130|RalfLippold, RainerWasserfuhr

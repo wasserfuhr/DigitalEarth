@@ -1,0 +1,4 @@
+* MindLine: 2015
+* BreitenGrad: 51.04
+* LaengenGrad: 13.838
+* BoundingBox: 25

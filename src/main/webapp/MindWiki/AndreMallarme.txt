@@ -1,0 +1,6 @@
+* IsA: MinisTer
+* ViAf: http://viaf.org/viaf/816
+* BirthDay: 08-06
+* DiedIn: 1956
+
+http://fr.wikipedia.org/wiki/Andr%C3%A9_Mallarm%C3%A9

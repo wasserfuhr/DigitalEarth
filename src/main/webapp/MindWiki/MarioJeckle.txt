@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Mario_Jeckle]
+* BornIn: 1974
+* BirthDay: 08-25
+* DiedIn: 2004
+* DbLp: http://dblp.uni-trier.de/rec/pid/j/MarioJeckle
+* PageNumber: 3
+* PagePath: LarryPage HectorGarciaMolina ErhardRahm MarioJeckle

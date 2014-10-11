@@ -1,0 +1,15 @@
+||Kontonummer    ||Kontostand in KayGroschen
+|PieschenBank    |9.000.000*
+|RainerWasserfuhr|10.000
+|YvonneSchubert  |10.000
+|DanielPoodratchi|0 **
+|RicardaDHerbrand|0 **
+|AndreasWeigel   |10.000
+
+
+ * Die PieschenBank verfügt insgesamt über eine GeldMenge von 10.000.000 KayGroschen. Davon sind derzeit 1.000.000 KayGroschen zweckgebunden für die Auszahlung von BegruessungsGeld und KinderGeld. Die Tabelle verzeichnet also die 
+freien Mittel der PieschenBank.
+
+ ** pending: Zustimmung zur VerFassung.
+
+

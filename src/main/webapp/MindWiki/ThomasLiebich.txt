@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/42/2875
+* MindSkill: IndustryFoundationClasses
+* HasTalked: RainerWasserfuhr
+* PageNumber: InFinite
+|[XingLe:Thomas_Liebich6]

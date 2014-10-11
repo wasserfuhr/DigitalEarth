@@ -1,0 +1,5 @@
+* IsA: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Yadegar_Asisi]
+* HomePage: http://www.asisi.de/de/VisualCulture/YadegarAsisi/
+* JahrGang: 1955
+* MindSkill: ThinkBig

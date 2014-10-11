@@ -1,0 +1,101 @@
+(Events in the WikiLender have a "when" and an optional "until". Things which only have an "until" can be found at MindLine)
+||When        ||Until||      ||Where        ||What                    ||Who (OrderedByShares)
+|20080605     |     |        |StadtDresden  |Party                    |RainerWasserfuhr,ChristineSchlinck
+|20080607     |     |        |StadtBremen   |IdentityCamp             |RalfBendrath
+|20080607:1000|     |        |ScheuneDresden|DatenSpuren2008          |FrankLorenz
+|20080608     |     |        |StadtBremen   |IdentityCamp             |RalfBendrath
+|20080608     |     |        |StadtDresden  |ObWahlDresden08          |BuergerInnen
+|20080608:1000|     |        |ScheuneDresden|DatenSpuren2008          |FrankLorenz
+|20080609:2030|     |        |BailamorClub  |PhilosophischesNachtcafe |
+|20080610:1830   |     |        |Frankfurt a.M |VerisSage               |StefanBudian, HeikeRibke, RainerWasserfuhr? YvonneSchubert?
+|20080613     |     |        |NeuStadt      |BunteRepublik            |RainerWasserfuhr?
+|20080618     |     |        |HeidelBerg    |"Omnisophistisches"      |HeikeRibke?, GunterDueck
+|20080626     |     |        |CopenHagen    |ReBoot                   |RainerWasserfuhr?
+|20080627     |     |        |CopenHagen    |ReBoot                   |RainerWasserfuhr?
+|20080627     |     |        |StadtDresden  |ElbHangFest              |RainerWasserfuhr?
+|20080628     |     |        |StadtDresden  |ElbHangFest              |RainerWasserfuhr?
+|20080629     |     |        |StadtDresden  |ElbHangFest              |RainerWasserfuhr?
+|20080704     |     |        |StadtDresden  |Lange Nacht der Wissenschaften|RainerWasserfuhr?
+|20080707     |     |        |MaerkischesViertel|Party                |RainerWasserfuhr?
+|20080709     |     |        |StadtDresden  |JugSaxony                |RainerWasserfuhr?
+|20080717     |     |        |Oxford        |Global Catastrophic Risks Conference|EliezerYudkowsky
+|20080717     |     |        |Alexandria    |Wikimania                |RainerWasserfuhr?, JimboWales?
+|20080718     |     |        |Alexandria    |Wikimania                |RainerWasserfuhr?, JimboWales?
+|20080823     |     |        |GrosserGarten |Konzert                  |RainerWasserfuhr?, MarianneRosenberg
+|20080825     |     |        |BlackRockDesert|BurningMan              |RainerWasserfuhr?
+|20080908     |     |        |Porto         |WikiSym                  |DirkRiehle
+|20080909     |     |        |Porto         |WikiSym                  |DirkRiehle
+|20080910     |     |        |Porto         |WikiSym                  |DirkRiehle
+|20080923     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080924     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080925     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080925     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080926     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080926     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080927     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080928     |     |        |Bayern        |Landtagswahl             |GuentherBeckstein
+|20080928     |     |        |StadtDresden  |KogWis08                 |RainerWasserfuhr?
+|20081001     |     |        |StadtDresden  |GeNeMe                   |RainerWasserfuhr?
+|20081002     |     |        |StadtDresden  |GeNeMe                   |RainerWasserfuhr?
+|20081012     |     |        |ReadingUniversity|LoebnerPrize          |HughLoebner,KevinWarwick
+|20081018     |     |        |SanJose       |SingularitySummit        |RainerWasserfuhr?
+|20081030     |     |        |StadtDresden  |CyNetArt                 |RainerWasserfuhr?
+|20081104     |     |        |UnitedStates  |UsElection08             |BarackObama,HillaryClinton
+|20081112     |     |        |StadtDresden  |SchachOlympiade          |
+|200901       |     |        |Washington    |InAuguration             |BarackObama?,HillaryClinton?
+|20090523     |     |        |ReichsTag     |MindOne-Wahl DeutschLand |HorstKoehler, AngelaMerkel, NorbertLammert, GesineSchwan?
+|20090607     |     |        |EurOpa        |Wahlen                   |BuergerInnen,CitiZens,CiudaDanos,CitoYens,Državljan
+
+!Was War:
+||When        ||Until||      ||Where        ||What                    ||Who (OrderedByShares)
+|20080605     |     |        |CongressCenterDresden|ZukunftsForum     |DonTapscott,WolfgangWahlster
+|20080604:2100|     |        |ElbSegler     |Plaudern        |RainerWasserfuhr,FrankLorenz EtAl
+|20080604:1900|     |        |CongressCenterDresden|Rede              |GuidoWesterwelle, DirkHilbert
+|20080603     |     |        |AugustusGarten|PuffCafe-Plaudern        |RainerWasserfuhr EtAl
+|20080602     |     |        |StadtDresden  |WikiSym-plaudern         |RainerWasserfuhr EtAl
+|20080601     |     |        |Tenerife      |SemWiki2008              |
+|20080531     |     |        |ZeppelinUniversity|BarCamp              |OliverGassner, MartinKoser
+|20080601     |     |        |ZeppelinUniversity|BarCamp              |OliverGassner, MartinKoser
+|20080531:2015|     |        |TerrasseAmBischofsplatz|SingularityMind-Meeting|RainerWasserfuhr EtAl
+|20080531:1500|     |        |StadtDresden  |RepublikBbq              |RainerWasserfuhr,ChristineSchlinck EtAl
+|20080531:1000|     |        |StadtDresden  |UmZug                    |RainerWasserfuhr,ChristineSchlinck EtAl
+|20080528:1830|     |        |NuernbergerEi |ToCee-Meeting            |RainerWasserfuhr EtAl
+|20080528:1800|     |        |StadtBerlin   |BusinessAndBeer          |EhssanDariani
+|20080427:1830|     |        |NoerrStiefenhoferLutz|GruenderTreff     |
+|20080426:2030|     |        |BailamorClub  |PhilosophischesNachtcafe |
+|20080526     |     |        |LukasKirche   |Konzert                  |MarianneRosenberg
+|20080524     |     |        |WipperFuerth  |MindAbiAchtAcht          |
+|20080524     |     |        |StadtPirna    |Markt der Kulturen       |BobHooda
+|20080524:1800|     |        |StadtDresden  |WikiPedia meeting        |
+|20080523:1930|     |        |AuraRaum      |PhilosophischerKlub      |JensWegerle EtAl
+|20080518     |     |        |EastHamburg   |StartUpWeekEnd           |CemBasman EtAl
+|20080517     |     |        |EastHamburg   |StartUpWeekEnd           |CemBasman EtAl
+|20080516     |     |        |Lausanne      |GoingSolo                |StephanieBooth
+|20080515     |     |        |MuseumPrototyp|next08                   |SoerenStamer,MatthiasSchrader
+|20080511:2000|     |        |SemperOper    |Konzert                  |AnneSophieMutter
+|20080511:1500|     |        |SemperOper    |Konzert: BeetHoven       |MarekJanowski
+|20080508:1830|     |        |TuDresden     |GruenderFoyer            |RainerWasserfuhr, MichaelBrehm
+|20080508:1800|     |        |HamBurg       |Lunch2.0                 |TimoHeuer
+|20080508:1600|     |        |EiscafeVenezia|TwiNe user group DeutschLand|RainerWasserfuhr, AlfredLiesecke
+|20080507:1900|     |        |TzDresden     |Meeting                  |RainerWasserfuhr, JuergenKohn EtAl
+|20080504     |     |        |StadtLeipzig  |BarCamp                  |ThomasGigold
+|20080503     |     |        |StadtLeipzig  |BarCamp                  |ThomasGigold
+|20080503     |     |        |KaisersLautern|KammgarnFestival         |JulianWasserfuhr,RomanWasserfuhr
+|20080429:1430|     |        |LingnerSchloss|WirtschaftsSpionage      |DieterLudwig, KerstinTrautmann
+|20080428:2030|     |        |BailamorClub  |PhilosophischesNachtcafe |
+|20080426     |     |        |HebbelAmUfer  |UtopiaStockExchange      |
+|20080426     |     |        |GehAcht       |Saison Auftakt           |
+|20080425:2000|     |        |TechnischeSammlungen|LotteInWeimar-Film |RainerWasserfuhr
+|20080424:2000|     |        |OostEinde     |NeustadtZwoNull          |RainerWasserfuhr EtAl
+|20080424:1900|     |        |HygieneMuseum |Lesung                   |WilhelmGenazino
+|20080423:1200|     |        |WirkZentrum   |ReineMachFee             |RainerWasserfuhr, IngridaPlunksnyte
+|20080422:1800|     |        |StoeckMann    |HairCut                  |RainerWasserfuhr
+|20080421     |     |        |DuesselDorf   |WebMontag: WoZu 2.0      |TimBruysten
+|20080418:1930|     |        |LingnerSchloss|KlubDerIntelligenz       |JensWegerle
+|20080418:1300|     |        |TzDresden     |Consideo                 |FrancGrimm
+|20080414:2030|     |        |BailamorClub  |PhilosophischesNachtcafe |
+|20080404     |     |        |KalkScheune   |RePublica                |MarkusBeckedahl
+|20080403     |     |        |KalkScheune   |RePublica                |MarkusBeckedahl,ChristianHeller
+|20080402     |     |        |KalkScheune   |RePublica                |MarkusBeckedahl
+|20080401:2000|     |        |KathedralForum|"Wer ist Gott?"          |KarlLehmann
+Former Events: WasWar.

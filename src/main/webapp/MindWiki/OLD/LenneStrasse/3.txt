@@ -1,0 +1,3 @@
+* IsA: MindStreet
+* NamedAfter: PeterJosephLenne
+* ConnectsTo: HauptAllee StrassbuergerPlatz StriesenerStrasse HolbeinStrasse DuererStrasse SachsenAllee

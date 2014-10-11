@@ -1,0 +1,4 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/94/1038
+* ViAf: http://viaf.org/viaf/37814144
+* HomePage: http://tu-dresden.de/Members/peter.katranuschkov

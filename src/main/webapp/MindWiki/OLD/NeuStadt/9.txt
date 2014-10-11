@@ -1,0 +1,95 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Neustadt], [DeWikiPedia:Ortsamtsbereich_Neustadt_(Dresden)]
+* BreitenGrad: 51.066
+* LaengenGrad: 13.748
+* BoundingBox: 2000
+* MindCount: 40000
+
+TotalRecall:
+* 20080912: EnErgie, NooPhant, HiltonDresden, DerAugenblick, KloGo, LuxorChess, ReverseGo, TheMatrix, RedBlueGame, PatternRecognition, InFer, DasExperiment, GameOfLife, ComputerGo, LongBetOne, FutureMap, MindCube, LifeNaut, MartineRothblatt, PuffCafe, DigiZen, PiFilm, GoSeigen
+
+Kleines Experiment: Wieviel Items aus dem WortSchatz von RainerWasserfuhr befinden sich in der 
+rund 4.000.000 qm grossen BoundingBox der NeuStadt:
+
+* AlaunPark
+* AlaunStrasse
+* AlbertPlatz
+* Babos
+* BabyWaltz
+* Bailamor
+* BarParadox
+* BautzenerStrasse
+* BischofsWeg
+* BlueNote
+* Blumenau
+* CafeEuropa
+* CafeKontinental
+* CafeOle
+* CarteBlanche
+* CataPult
+* ClaudiasFriseursalon (gone?)
+* CommerzBank
+* DeutscheBank
+* DresdenFactoring
+* DevilsKitchen
+* DownTown
+* Duerum
+* ElPerroBoracho
+* FoerstereiStrasse
+* FranksBar
+* FressBude
+* Gaia
+* GoerlitzerStrasse
+* HauptPost
+* Hebedas
+* Hundertwasserfuhrhaus (never built)
+* JordanStrasse
+* KamenzerStrasse
+* KatharinenStrasse
+* KatysGarage
+* KoenigsbrueckerStrasse
+* GonnSumm
+* Kunsthof
+* LaVieEnRose (gone)
+* (Big?) Lebowski
+* LouisenStrasse
+* Lloyds
+* LutherKirche
+* LutherPlatz
+* Max
+* McXery
+* MondPalast
+* NudelTurm
+* Metronom
+* OezNemrut
+* OostEinde
+* Panama
+* PiesnitzStrasse
+* PfundsMolkerei
+* Projekttheater
+* Queens
+* RasKolNiKoff
+* RothenburgerStrasse
+* SchauBurg
+* ScheuneDresden
+* SchwalbenNest
+* SeidenStrasse
+* Spar
+* SparKasse
+* Suppen...
+* Thalia
+* TirNaNog
+* Tokyo
+
+damn, vergessen: 
+* Ballsall auf der Kamenzer
+* Der edle Videoverleih auf der Koenigsbruecker
+* Der italiener auf der Alaun
+
+Resumee: Also etwa alle 200000 qm dürfte ein Wort im MindCube von RainerWasserfuhr zu finden sein.
+
+Nachtrag von ChristineSchlinck:
+* PlanWirtschaft
+* Lofthouse
+* Panama
+* showbar 

@@ -1,0 +1,17 @@
+Schon GottfriedWilhelmLeibniz entwickelte die Idee der CharacteristicaUniversalis.
+
+In der gesamten Kultur-, Technik- und Geistesgeschichte findet eine Formalisierung der Kommunikation statt:
+* In der Mathematik und ihren exakten Formelsysteme schon seit Jahrhunderten. Anfangs in Bereichen wie Algebra und Analysis, später dank GottlobFrege, BertrandRussell, WittgenStein auch für beliebige Wissensbereiche.
+* In Form von Programmiersprachen werden formale Sprachen zu Kulturtechniken.
+* Im Hypertext wird der Vorgang des zeigenden Sprechens [DeWikiPedia:Deixis] ein technischer Akt.
+* In der WikiPedia werden Subjekte von Sprechakten des Allgemeinwissens zu exakt kodierten Ressourcen.
+* Im LifeWiki werd die Begriffswelt eines einzelnen Menschen zu exakt kodierten Ressourcen.
+* SemanticWeb
+
+Bausteine der KunstSprache im MindWiki:
+* CamelCase, um Wörter zu SemanticWeb-Ressourcen mit formaler Semantik zu machen.
+* AdJective
+* MindVerb
+* StateMent
+
+Die EmerGier'ende KunstSprache des MindWiki verbindet den SourceCode und die SprachWelt'en der WeltSprache zu einem PostReal'en SemanticWeb-KunstWerk.

@@ -1,0 +1,21 @@
+* MindTags: MindPeople
+* JahrGang: 1941
+* BirthDay: 01-12
+* WohnSitz: GrueterichEins
+* EheRinge: AbWw
+* MindFaves: KonradAdenauer
+* XingId: 8540657
+* WikiPate: RainerWasserfuhr
+||AusLand
+|[XingLe:Werner_Wasserfuhr]
+|[TwittEr:wernerw]
+
+InVest:
+* DaimlerAg
+* EonAg
+* SieMens
+* VolksWagen
+
+Ex-InVest:
+* SapAg
+* VolksWagen

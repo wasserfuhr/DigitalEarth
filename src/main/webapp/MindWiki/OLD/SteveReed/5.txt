@@ -1,0 +1,7 @@
+* MindTags: MindPeople
+* HomePage: http://texai.org/
+* WohnSitz: AustinTx
+* MindSkill: ArTelligence OpenCyc SemanticWeb
+||AusLand
+|[WikiPediaUser:StephenReed]
+|[TwittEr:stephenlreed]

@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/MahadevSatyanarayanan
+* HomePage: http://www-2.cs.cmu.edu/afs/cs.cmu.edu/user/satya/Web/home.html
+* PageNumber: 7
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi MichaelStonebraker MahadevSatyanarayanan

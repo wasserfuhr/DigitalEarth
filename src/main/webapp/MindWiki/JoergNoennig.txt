@@ -1,0 +1,2 @@
+* IsA: JuniorProfessor
+* HomePage: http://www.arch.tu-dresden.de/Industriebau/wissensarchitektur/personen/noennig.html

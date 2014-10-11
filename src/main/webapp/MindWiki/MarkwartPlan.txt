@@ -1,0 +1,5 @@
+* IsA: MindPlan
+
+die PieschenBank kauft für rund 2^20 KayGroschen einen BallSaal von MaFa.
+
+ZielChen: 2012-12-31

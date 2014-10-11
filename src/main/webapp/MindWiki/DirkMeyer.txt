@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Dirk_Meyer_(Mikroprozessorentwickler)]
+* BirthDay: 11-24
+* DbLp: http://dblp.uni-trier.de/rec/pid/82/2474
+* PageNumber: -1

@@ -1,0 +1,18 @@
+* KindOf: PerSon
+* InterWiki: [DeWikiPedia:Raumfahrer]
+
+RedBlueGame: OpenCyc-Examples of HuMan > PerSon > SkilledWorker > UpperClass > AstroNaut Include:
+* AlanBean
+* AlanShepard
+* BryonLichtenberg
+* BuzzAldrin
+* CharlesWalker
+* DanielBrandenstein
+* JamesLovell
+* JohnGlenn
+* JohnYYoung
+* KathrynThornton
+* MichaelCollins
+* NeilArmstrong
+* RonaldParise
+* StoryMusgrave

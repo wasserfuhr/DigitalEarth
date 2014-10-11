@@ -1,0 +1,9 @@
+wird MindBroker.
+* WohnSitz: StadtDresden
+* JahrGang: 1951
+* LebensErwartung: 2049
+
+
+||AusLand
+|[WorldWideWeb:evalubas.de]
+|[XingLe:Eva_Lubas]

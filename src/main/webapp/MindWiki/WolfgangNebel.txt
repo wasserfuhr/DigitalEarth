@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/n/WolfgangNebel
+* HomePage: http://ehs.informatik.uni-oldenburg.de/42662.html
+* PageNumber: 8
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ArndtBode HeinrichMayr HansJuergenAppelrath WolfgangNebel

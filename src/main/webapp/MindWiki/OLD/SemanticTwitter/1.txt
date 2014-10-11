@@ -1,0 +1,4 @@
+RainerWasserfuhr uses some kind of lightweight SemanticWeb TwittEr:
+* CamelCase tweets, linking to SemanticWeb resources of the MindWiki
+* GeoTweet'ing MindPlace's
+* HashTag's defined as MindProps

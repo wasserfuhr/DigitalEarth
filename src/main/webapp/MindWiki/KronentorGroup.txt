@@ -1,0 +1,7 @@
+* IsA: EnterPrise
+
+The managing group of
+* HotelKronentor
+* LunarSteigenberger
+* MindHotel
+* PensionMorgenstern

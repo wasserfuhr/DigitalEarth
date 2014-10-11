@@ -1,0 +1,3 @@
+* MindTags: FutureCard
+* PreDict: A SocialNetwork will exist with at least 1.073.741.824 active monthly users
+* FutureNumber: 30

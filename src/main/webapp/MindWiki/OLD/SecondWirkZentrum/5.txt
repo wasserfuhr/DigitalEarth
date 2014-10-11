@@ -1,0 +1,14 @@
+Ein SecondMind-Projekt:
+
+Unser Budget: 500 EUR:
+* messe den Grundriss von [hier|http://websvn.mindbroker.de/fileContent.jsp?url=de.mindbroker.home%2Ftrunk%2Fsrc%2Fmain%2Fwebapp%2Fflat.gif] ab
+* nehme die Aufmasse von Decken, Türen + Balkon
+* modelliere die Wohnung in einem CAD-Programm
+* exportiere ein möglichst präzises Modell als [IFC|http://de.wikipedia.org/wiki/Industry_Foundation_Classes]-Modell im [SPF-Format|http://de.wikipedia.org/wiki/Standard_for_the_exchange_of_product_model_data]
+* installiere den [Solibri Model Viewer|http://www.solibri.com/index.php?option=com_content&task=view&id=71&Itemid=44]
+* importiere das SPF-File in Solibri
+* flickre einen Screenshot des Solibri Model Tree
+* Angeregt durch die [Echtzeit-US-Wetterkarte|http://www.flickr.com/photos/rainerw/283860982/]:
+** baue im Massstab 1:500 im Stil von [Madurodam|http://nl.wikipedia.org/wiki/Madurodam] ein SecondDresden im Wohnzimmer des SecondWirkZentrum.
+
+[{Image src='http://websvn.mindbroker.de/fileData.jsp?url=de.mindbroker.home%2Ftrunk%2Fsrc%2Fmain%2Fwebapp%2Fflat.gif&crev=819'}]

@@ -1,0 +1,6 @@
+Bisherige Käufe im MindShop:
+
+||Datum  ||Produkt||Verkäufer||Käufer            || ||Stück||Preis||Währung
+|20090904|LockSchuppenVisit|LockSchuppenAg    |1     |5|Euro
+
+Unsere UmsatzPrognose.

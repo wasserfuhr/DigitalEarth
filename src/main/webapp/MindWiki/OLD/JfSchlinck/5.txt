@@ -1,0 +1,9 @@
+* MindTags: MindPeople
+* MamaZwoNull: ChristineSchlinck
+* JahrGang: 2008
+* GraDient: 180
+* BoundingBox: 0.47
+* WikiPate: RainerWasserfuhr
+* MindSkill: DrehenUndTreten, SchluckAuf
+
+* BirthDay

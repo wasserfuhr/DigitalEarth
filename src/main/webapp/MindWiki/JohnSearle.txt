@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:John_Searle]
+* BornIn: 1932
+* BirthDay: 07-31
+* MindFaves: ChineseRoom
+
+[TwittEr:JohnRSearle]: GhostWriter??

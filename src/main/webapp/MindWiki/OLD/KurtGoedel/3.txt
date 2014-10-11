@@ -1,0 +1,7 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Kurt_Gödel], [OpenCyc:KurtGodel]
+* JahrGang: 1906
+* BirthDay: 04-28
+* LebensEnde: 1978
+* MindSkill: TuringMaschine, KunstSprache, InFer
+* MindFaves: GottfriedWilhelmLeibniz

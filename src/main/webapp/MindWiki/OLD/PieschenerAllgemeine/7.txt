@@ -1,0 +1,28 @@
+Ein personalisierter TotHolz-NewsLetter aus dem OrtsteilPieschen und der StadtDresden für DeutschLand und ganz PlanetErde, nur echt mit CamelCase.
+
+!!PieschenerAllgemeine
+(Herausgeber: PieschenMediaGroup, ViSdW: RainerWasserfuhr)
+
+||Abonnent||YvonneSchubert
+|MindId   |2
+|WohnSitz |OtStriesen
+|VerMoegen|10,067 KayGroschen
+|QrCode   |[{Image src='http://farm3.static.flickr.com/2721/4229576587_bfa1bbe9fb_t.jpg'}]
+
+Persönliches GrussWort vom ChefRedaktuer: Liebe YvonneSchubert, dies ist die TotHolz-ErstAusgabe der PieschenerAllgemeine.
+Als BuergerIn mit MindId 2 stellt die MindPost Dir diese Ausgabe in Deinen BriefKasten zu.
+
+!KabiNettWahl
+Im April findet die 2. CabiNetElection der MicroNation NooPolis statt.
+
+Bis jetzt zur Wahl stehen:
+* SoerenRogoll?
+* AlexanderFriedland?
+* ConstanceWolter?
+
+Abstimmen und selbst kandidieren kannst Du im InterNet unter http://mindbroker.de/wiki/CabiNetElection.
+
+!RayInDresden
+RayKurzweil UnTil2010 in der StadtDresden. Dank TSystemsMms im CongressCenterDresden. Bald mehr.
+
+!MobileCamp

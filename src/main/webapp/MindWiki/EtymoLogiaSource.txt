@@ -1,0 +1,3 @@
+* IsA: MindProps
+
+supplementary MindProps to EtymoLogia: a DeepLink where the EtymoLogia is DeFin'ed

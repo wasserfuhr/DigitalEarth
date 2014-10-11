@@ -1,0 +1,3 @@
+for each ReVision.
+
+on (TimeLine:20090220) 408 out of 19179 ReVision's had a ChangeNote.

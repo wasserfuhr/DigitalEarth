@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Frank_Sinatra]
+* BirthDay: 12-12
+* HasKissed: KateMoss

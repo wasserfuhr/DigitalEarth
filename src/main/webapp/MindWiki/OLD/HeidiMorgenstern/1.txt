@@ -1,0 +1,4 @@
+* IsA: CitiZen
+* InvitedBy: RainerWasserfuhr
+* MindId: 46
+* WohnSitz: NeuStadt

@@ -1,0 +1,31 @@
+* InterWiki: [WebSeitz:BigCo]
+
+||MarketCap|| ||BigCo
+|466|XOM |ExxonMobil 
+|302|    |GazProm
+|296|CHL |ChinaMobile
+|262|MSFT|MicroSoft
+|242|    |Industrial and Commercial Bank of China
+|226|GE  |GeneralElectric
+|221|RDS |RoyalDutchShell
+|214|T   |AT&T
+|188|    |Nestlé
+|167|BAC |BankOfAmerica
+|160|IBM |EiBiEm
+|140|    |Google
+|123|    |EonAg
+|118|    |SieMens
+|115|C   |CitiGroup
+| 85|    |DaimlerAg
+| 82|    |DeutscheTelekom
+| 80|    |Allianz
+| 59|    |DeutscheBank
+| 58|    |SapAg
+| 49|SOCG|SocieteGenerale
+| 40|DPW |DeutschePost
+| 38|    |MunichRe
+| 29|RUKN|SwissRe
+| 13|    |AdiDas
+| 11|    |KuehneNagel
+|0.55|    |ComBots
+|0.33|    |XingLe

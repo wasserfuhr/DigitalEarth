@@ -1,0 +1,17 @@
+wir sprechen in NooPolis vorerst gepflegtes denglish, aber bald auch:
+||ISO *)||# *)|| || VerFassung
+|zh|867|chinesisch   |XianFa
+|en|690|englisch     |ConStitution
+|hi|525|hindi        |
+|es|447|spanisch     |ConStitucion
+|fr|447|französisch  |LaConstitution
+|ar|290|arabisch     |دستور
+|ru|240|russisch     |KonStituzija
+|pt|218|portugiesisch|ConStituicao
+|de|155|deutsch      |VerFassung
+|tr| 70|türkisch     |Anayasa
+|el| 12|griechisch   |Σύνταγμα
+|lt|  4|litauisch    |KonStitucija
+|sl|  2|slowenisch   |UstavaNooPolis
+
+[DeWikiPedia:Weltsprache]

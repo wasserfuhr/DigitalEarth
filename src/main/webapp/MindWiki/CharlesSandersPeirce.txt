@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Charles_S._Peirce], [OpenCyc:CharlesPeirce], [WikiWikiWeb:CharlesSandersPeirce]
+* JahrGang: 1839
+* BirthDay: 09-10
+* LebensEnde: 1914

@@ -1,0 +1,5 @@
+||ComPare   ||GlobalGeld||RegioGeld
+|Currency   |KayGroschen|ElbTaler HavelBluete EtAl
+|MoneySupply|constant   |
+|FreiGeld   |no         |yes
+|TransParent|yes        |no

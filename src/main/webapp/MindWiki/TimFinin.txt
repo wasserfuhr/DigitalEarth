@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/f/TWFinin
+* HomePage: http://www.cs.umbc.edu/~finin/
+* PageNumber: 9
+* PagePath: LarryPage ... JuergenAvenhaus JoergDenzinger TimFinin

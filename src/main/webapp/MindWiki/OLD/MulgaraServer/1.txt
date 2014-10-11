@@ -1,0 +1,6 @@
+* HomePage: http://mulgara.org/
+
+MindBase
+
+load <file:/Users/rainer/mind.n3> into <http://mindbroker.de/>
+select * {?a ?b ?c)

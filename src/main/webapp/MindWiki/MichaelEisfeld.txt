@@ -1,0 +1,4 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/87/4835
+* ViAf: http://viaf.org/viaf/67560296
+|[XingLe:Michael_Eisfeld]

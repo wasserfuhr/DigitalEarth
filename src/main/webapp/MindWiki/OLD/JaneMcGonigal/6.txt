@@ -1,0 +1,15 @@
+* MindTags: MindPeople
+* InterWiki: [WikiPedia:Jane_McGonigal]
+* JahrGang: 1977
+* EnErgie: 1000000
+* MindBlog: http://avantgame.blogspot.com/
+* MindSkill: PostReal
+||AusLand
+|[TwittEr:avantgame]
+
+Some ideas about advanced arg designs:
+* you are PuppetMaster
+* all players are PuppetMaster
+* there are multiple games played simultanously and competing with each other
+* social hacking goes to extremes, including UberHack
+* each game develops a specific ethics, whose codified rules are part of the InterGame

@@ -1,0 +1,9 @@
+* IsA: MindCity
+* InterWiki: [DeWikiPedia:New_York_City]
+* BreitenGrad: 40.69
+* LaengenGrad: -73.99
+* BoundingBox: 42000
+* MindCount: 8000000
+* MindOne: MichaelBlumberg
+
+ex MindOne: RudyGiuliani

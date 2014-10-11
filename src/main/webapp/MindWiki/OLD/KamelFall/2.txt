@@ -1,0 +1,30 @@
+Es war einmal WardCunningham. So um 1994 herum.
+Der scharte eine ganze Herde von Softwaregurus um
+sich herum. Man wollte voneinander lernen.
+Softwaregurus sind manchmal so: Dass sie ihre
+Lektionen nicht nur wie Herrschaftswissen für
+sich behielten, sondern miteinander teilen wollten.
+Die Muster festhalten, wie man etwas richtig oder
+falsch machen konnte. Pattern und AntiPattern nannten sie das.
+
+Schnell und einfach sollte es gehen.
+DoTheSimplestThingThatCouldPossiblyWork. 
+So einfach: Ein Wort, vorne ein Großbuchstabe und irgendwo in der Mitte 
+mindestens ein weiterer Großbuchstabe.
+Jedes Wort, welches so geschrieben wurde, führte
+und führt auch im Jahr 2008 noch auf eine neue Seite.
+Bei WardCunningham heisst dieser KamelFall: CamelCase.
+KamelFall, der auch die ganze WindelWelt-Erzählung durchziehen wird.
+
+Aber Achtung: Wir leben in einer globalisierten
+Welt. Wenn der japanische Gast im Jahr 2010 gelegentlich
+»Stadt Köln« eingeben wird, hat er vermutlich
+grade keine Umlaute auf seiner Tastatur zur
+Verfügung. Deshalb gibt es __keine__ Umlaute.
+Die Lingua-Franca, die von TroisDorf bis ToKyo
+universell ist, kann also nur aus den Buchstaben
+von A bis Z bestehen.
+
+Mit dem KamelFall steigt der IQ.
+Deshalb auch das zweite W in WindelWelt: groß geschrieben.
+Stört dies? Seis drum. Wir betreten hier Neuland, den HyperRoman.

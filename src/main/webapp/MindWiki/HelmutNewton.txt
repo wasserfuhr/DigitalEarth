@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Helmut_Newton]
+* BornIn: 1920
+* BirthDay: 10-31
+* DiedIn: 2004

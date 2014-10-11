@@ -1,0 +1,11 @@
+* IsA: FutureCard
+* PreDict: a HardDisk-like device with a storage capacity of at least 1.125.899.906.842.624 bit (~140 TeraByte) costs less than 100 EuRo
+* PreDictDe: ein festplattenartiges Gerät mit mindestens 1.125.899.906.842.624 bit (~140 Terabyte) Speicherkapazität kostet weniger als 100 EuRo
+* CardOwner: ChristineSchlinck
+* PreDict: 2030
+* FutureNumber: 50
+
+||PreDict'or       ||UnTil
+|RainerWasserfuhr  |2023
+
+http://www.slideshare.net/rainer/goodbyekurzweil/16

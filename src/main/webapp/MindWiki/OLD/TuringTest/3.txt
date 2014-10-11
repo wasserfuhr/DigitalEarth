@@ -1,0 +1,9 @@
+* InterWiki: [DeWikiPedia:Turing-Test]
+* MindQuote: ""Humans - God's attempt to pass the [Turing test|http://ourpla.net/cgi/pikie?TuringTest]."
+
+AlanTuring.
+
+An idea for a contest similar to the [Rules|http://loebner.net/Prizef/2007_Contest/Rules.html] of the LoebnerPrize, BUT
+* The Contestants programs have access the DelIcioUs user name of the Judge
+* Judges must have at least 5000 DelIcioUs bookmarks, with
+* 3000 bookmarks from more than 1 year ago.

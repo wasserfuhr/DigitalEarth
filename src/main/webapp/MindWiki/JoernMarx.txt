@@ -1,0 +1,5 @@
+* IsA: PerSon
+* BornIn: 1958
+* BirthDay: 11-09
+* HomePage: http://www.dresden.de/de/02/020/c_06.php
+* ParteiWiki: CduWiki

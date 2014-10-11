@@ -1,0 +1,22 @@
+||OldEconomy   ||NewEconomy
+|GeHeim        |GlaesernesUnternehmen
+|ArBeit        |Wissen
+|ChainOfCommand|TrustChain
+|TotesHolz     |WikiBasiert
+|No risk       |BeBold
+|No fun        |SpielWiese
+|Presence      |TelePresence
+|ArBeit'slos   |BasicIncome
+|GettingThingsDone|WoZu
+|ImPossible    |NotIfButWhen
+|ClubOfRome    |DresdenFutureGroup
+|SixSigma      |ShockLevel 4
+|WarrenBuffett |SteveJurvetson
+|BillGates     |MarkZuckerberg
+|JosefAckermann|LarsHinrichs *)
+|Peanuts       |KayGroschen
+|AdHoc         |NachHaltig
+|BusinessKasper|WissensKasper
+|AgGro         |AchtSam
+
+*) pending: NewXing

@@ -1,0 +1,3 @@
+* MindTags: ProJect
+* DcTitle: COMBI
+* DeScription: Computer-Integrated Object-Oriented Model for the Building Industry

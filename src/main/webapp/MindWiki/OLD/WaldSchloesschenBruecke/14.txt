@@ -1,0 +1,16 @@
+* MindTags: MindPlace, PredictionMarket
+* InterWiki: [DdWiki:Waldschlößchenbrücke], [DeWikiPedia:Waldschlößchenbrücke]
+* BreitenGrad: 51.0638
+* LaengenGrad: 13.7769
+* BoundingBox: 120
+* GraDient: 15
+* SlimNess: 0.2
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/27114933
+
+Ab Ende welchen Jahres werden WolfgangDonsbach, RaimarScherer, WolfgangTiefensee und ZigaTurk gemeinsam in der StadtDresden mit 4 MindWay's mit mindestens 40km/h __über__ die WaldSchloesschenBruecke cruisen?:
+
+Shares:
+* WaldSchloesschenBruecke2009
+* WaldSchloesschenBruecke2010
+* WaldSchloesschenBruecke2011
+* WaldSchloesschenBruecke2015

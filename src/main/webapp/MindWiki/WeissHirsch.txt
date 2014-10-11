@@ -1,0 +1,4 @@
+* IsA: DiStrict
+* InterWiki: [DeWikiPedia:Weißer_Hirsch]
+* PartOf: StadtDresden
+* NearBy: LoschWitz

@@ -1,0 +1,18 @@
+A NooPolis RealSpiel:
+
+
+!Regeln:
+Es gelten die üblichen Regeln von [DeWikiPedia:Tic_Tac_Toe]. 
+Team X spielt gegen Team O. Das Spielfeld besteht aus den in http://id.mindbroker.de/tictactoe angegegebenen Koordinaten.
+
+Ein Spielzug erfolgt, indem ein Spieler eine Message twittert: "*TicTacToe*: L:*MindPlace*", wobei *TicTacToe* und *MindPlace* zum Zeitpunkt des Zuges im MindWiki als Seite angelegt und Laengen- und Breitengrad haben sowie eine BoundingBox <= 100 Meter haben muss.
+Der Spieler muß sich zum Zeitpunkt des Twitterns am angegebenen MindPlace befinden.
+Team X macht den ersten Zug. Jedes Team darf nur dann ziehen, wenn vorher ein Spieler des gegnerischen Teams gezogen hat.
+Teilnahmeberechtigt sind alle BuergerInnen, die auf ihrer Profilseite einen TwittEr-Account angegeben haben. Jeder Spieler kann Teammitglied entweder in Team X oder Team O Mitglied werden, indem er sich hier einträgt:
+
+HeikeRibke hat überlesen, dass sie sich an dem Ort befinden muss. Findet diesen Fehler aber nicht so schlecht, weil sie denkt, dass es doch auch spannend wäre, wenn auch "Ausstädter"mitmachen dürften.
+Denn: so kann ich Dresden wenigstens virtuell kennen lernen und bekomme mehr Lust, Dresden auch einmal live zu besuchen und so mancher Instädter kommt so vielleicht auf Ideen seine Stadt an Orten zu besuchen, die er sonst nicht gehabt hätte. Und hey, ein wenig Mischmasch schadet nie!
+Und es ist auch nicht eben einfach so kleine Orte zu finden in einer Stadt, die man nicht kennt.
+Wenn Euch das zu lau ist, dann kann man es für Ausstädter beliebig schwerer machen, indem sie z.B. nur Orte angeben dürfen, an denen sie schon einmal waren, oder Orte zu denen sie eine kleine historische Geschichte schreiben u.s.f.
+
+[{INSERT ReferringPagesPlugin}]

@@ -1,0 +1,4 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Thomas_von_Aquin], [OpenCyc:ThomasAquinas]
+* JahrGang: 1225
+* LebensEnde: 1274

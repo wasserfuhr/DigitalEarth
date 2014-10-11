@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:John_Perry]
+* JahrGang: 1943
+* BirthDay: 01-16
+* DbLp: http://dblp.uni-trier.de/rec/pid/04/5854
+* HomePage: http://www-csli.stanford.edu/~jperry/

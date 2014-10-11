@@ -1,0 +1,6 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Isaac_Asimov], [OpenCyc:IsaacAsimov]
+* JahrGang: 1920
+* BirthDay: 01-02
+* EheVertrag: JanetAsimov
+* LebensEnde: 1992

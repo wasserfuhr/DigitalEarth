@@ -1,0 +1,5 @@
+* IsA: ProFessor MinisTer
+* InterWiki: [DeWikiPedia:Sabine_von_Schorlemer]
+* BornIn: 1959
+* BirthDay: 03-11
+* ViAf: http://viaf.org/viaf/20353339

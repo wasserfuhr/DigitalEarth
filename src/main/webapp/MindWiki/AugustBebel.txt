@@ -1,0 +1,3 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:August_Bebel]
+* BirthDay: 01-22

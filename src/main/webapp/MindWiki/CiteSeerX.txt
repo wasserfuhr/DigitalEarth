@@ -1,0 +1,2 @@
+most cited:
+ErichGamma, RichardHelm, RalphJohnson, JohnVlissides: Design Patterns: Elements of Reusable Object-Oriented Software.

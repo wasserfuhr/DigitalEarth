@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/l/WolfgangLenski
+* HomePage: http://lenski.name/
+* PageNumber: 9
+* PagePath: LarryPage ... UlrichFurbach IngoDahn WolfgangLenski

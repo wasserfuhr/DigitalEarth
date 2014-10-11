@@ -1,0 +1,15 @@
+* InterWiki: [WikiPedia:Google_Wave]
+
+GoogleInc
+
+InstantMessaging EtherPad RealTime DisRupt
+
+Some nice Gadgets:
+* http://sokoban-server.appspot.com/com.example.simplegadget.client.SokobanGadget.gadget.xml
+* wikifier@appspot.com
+* http://code.google.com/p/wave-poll/
+
+WaitingList:
+* MaxWippert
+* PierreKerchner
+* AndreasPoldrack

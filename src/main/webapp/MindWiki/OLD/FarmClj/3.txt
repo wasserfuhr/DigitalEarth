@@ -1,0 +1,37 @@
+;
+;
+;{{{
+
+((defn farm [] 
+  (handle "farm"
+   (fn []
+    (str "This is our virtual map. Currently you can buy land and grow plants on it."
+      "Edit <a href=''>MindFarm</a>"
+     "<table>"
+     " <tr><th></th></tr>"
+     " <tr>" ;;
+     ;; http://www.flickr.com/photos/abhijittembhekar/3345977842/sizes/t/
+     "  <td valign='top' style='background-image:url(http://farm4.static.flickr.com/3602/3565873025_fe85762da9_s.jpg)'>  <h1 style='font-family: verdana;'><img src='" (cache nil :RainerWasserfuhr) "' width='32' height='32'/>"
+     "</td>"
+     "  <td valign='top'><img src='http://farm4.static.flickr.com/3602/3565873025_fe85762da9_s.jpg'/></td>"
+     "  <td valign='top'><img src='http://farm4.static.flickr.com/3602/3565873025_fe85762da9_s.jpg'/></td>"
+     "  <td valign='top'><img src='http://farm4.static.flickr.com/3602/3565873025_fe85762da9_s.jpg'/></td>"
+     "  <td valign='top'><img src='http://farm4.static.flickr.com/3602/3565873025_fe85762da9_s.jpg'/></td>"
+     " </tr>"
+     " <tr>"
+     "  <td valign='top'><img src='http://farm4.static.flickr.com/3602/3565873025_fe85762da9_s.jpg'/></td>"
+     "  <td valign='top'><img src='http://farm4.static.flickr.com/3602/3565873025_fe85762da9_s.jpg'/></td>"
+     "  <td valign='top'><img src='http://farm4.static.flickr.com/3602/3565873025_fe85762da9_s.jpg'/></td>"
+     "  <td valign='top'><img src='http://farm4.static.flickr.com/3602/3565873025_fe85762da9_s.jpg'/></td>"
+     "  <td valign='top'><img src='http://farm4.static.flickr.com/3602/3565873025_fe85762da9_s.jpg'/></td>"
+     " </tr>"
+     " <tr>"
+     "  <td valign='top'><img src='http://farm4.static.flickr.com/3602/3565873025_fe85762da9_s.jpg'/></td>"
+     "  <td valign='top'><img src='http://farm4.static.flickr.com/3602/3565873025_fe85762da9_s.jpg'/></td>"
+     "  <td valign='top'><img src='http://farm4.static.flickr.com/3602/3565873025_fe85762da9_s.jpg'/></td>"
+     "  <td valign='top'><img src='http://farm4.static.flickr.com/3602/3565873025_fe85762da9_s.jpg'/></td>"
+     "  <td valign='top'><img src='http://farm4.static.flickr.com/3602/3565873025_fe85762da9_s.jpg'/></td>"
+     " </tr>"
+     "</table>")
+   ) ""))))
+;}}}

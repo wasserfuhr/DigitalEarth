@@ -1,0 +1,3 @@
+* MindTags: MinisTer
+* InterWiki: [OpenCyc:KimJongIl]
+* BirthDay: 02-16

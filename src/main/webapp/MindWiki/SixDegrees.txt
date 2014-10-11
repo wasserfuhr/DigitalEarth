@@ -1,0 +1,8 @@
+[WikiWikiWeb:SixDegreesOfSeparationTheory]
+
+The TrustChain in a SocietoNetwork:
+* FirstDegree
+* SecondDegree
+* ThirdDegree
+* FourthDegree
+* ...

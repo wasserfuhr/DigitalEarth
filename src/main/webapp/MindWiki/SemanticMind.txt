@@ -1,0 +1,152 @@
+* IsA: ProJect
+* InterWiki: [LangReiter:semanticmind]
+
+Idea: SubMit a MindPaper to IsWc 2010:
+
+!DcTitle: SemanticMind - A SemanticWeb based personal LifeWiki on the long road towards WholeBrainEmulation ;)
+
+The SemanticMind will be a SemanticWeb based Model of the personal KnowLedge of RainerWasserfuhr.
+
+It consists of concrete entities like places, books, ideas, PerSon's or general ConCept's like »NeuralCorrelatesOfConsciousness«.
+
+It is created from a public LifeWiki started end of 2006 that grew to a PageCount of over 10.000 WikiPage's UnTil january 2010.
+
+This MindPaper describes how the data is created, maintained, embedded into LinkedData and possible applications for the TimeToCome.
+
+!A SemanticWiki
+
+The ConTent is created and maintained by a slightly modified JspWiki.
+Each ReSource is first created as a WikiPage.
+The PageIndex of all WikiPage's is the base for all DeFin'ed ReSource's.
+Each WikiPage can be hooked into an OntoLogy via MindProps.
+40% of the WikiPage's are sorted into a lightweight OntoLogy with a "SubClassOf"-depth of 1 to 5 levels.
+
+!The data
+The RdF will soon be available as
+* MindN3
+* MindRdf
+
+This paper gives an introduction to the SemanticMind project, which is a long term approach
+to apply SemanticWeb technologies for modelling the knowledge of a single human brain and mind.
+
+!Background
+Cognitive sciences are going to become a dominant role in the coming decades.
+The BlueBrain by HenryMarkram EtAl estimates to have a functional simulation of the physiological 
+processes in the human brain until 2019 [*|http://news.bbc.co.uk/2/hi/technology/8164060.stm].
+
+Capturing the ConTent of a single human brain is a ComPlex and ambitious endeavour, whose just 
+activities started and strongly depend on technologies availiable and the NearerstFuture.
+WilliamSimsBainbridge developed questionnaires
+for "PersonalityCapture" [*|http://ssc.sagepub.com/cgi/content/abstract/21/3/267].
+
+According to RayKurzweil, the resolution of brain scanning technologies seems to be advancing
+at an exponential rate.
+
+But a working model of a real human, which is capable to
+to serve as a simulation in VirtualReality settings,
+should be in the reach during the next 15 to 25 years.
+
+A special focus of the ProJect in the first phases is on capturing the KnowLedge about
+PerSon's. A good portion of this can nowadays be done by evaluating and restructuring
+the data in MailBox'es FaceBook, TwittEr etc.
+
+The ReSearch in this domain is influenced by the PriVat'eness of affected PerSon's.
+
+Therefore the has a so called GiftSchrank (GermanLanguage for poison cabinet).
+
+So to create the world famous people of CommonSense KwowLedge (like JesusChrist, BarackObama or KarlMarx)
+down to the friendly salesgirl without a name in the bakery next door.
+
+Mapping RdF triples to neurons.
+
+The SemanticMind projects aims at the description
+
+SemanticMind started 2007.
+
+Other related approaches:
+* JerryMichalski maintains a public based on the SoftWare TheBrain.
+* BillSeitz with his WikiLog
+
+(February 2010)
+PageCount of 10666 WikiPage's.
+
+The averary number of edits ranges from 1 to almost 500 ReVision's per WikiPage.
+
+
+For example, the taxonomy of apples inside WikiPedia is:
+* Malus
+* Category:Maleae
+* Category:Maloideae
+* Category:Rosaceae
+* Category:Rosales
+* Category:Rosids
+* Category:Core_eudicots
+* Category:Eudicots
+* Category:Angiosperms
+* Category:Plants
+* Category:Eukaryotes
+* Category:Organisms
+
+Except maybe Plants, Eukaryotes and Organisms, neither of these terms is contained in the TreasuryOfWords
+of a PerSon with average academic education, except she is specializid in the field of systematic biology. 
+
+This might be a, but does not represent the
+that are necessary to reason about apples in everyday life.
+
+
+As of january 2010, 88 other PerSon's have 
+editing permissions for the MindWiki.
+In this sense, the MindWiki functions like WikiBased InBox
+
+!The cognitive graph
+
+The metaphor of mathematical graph has achieved some popularization . 
+SocialGraph for describing the relationship and across SocialNetwork's.
+
+In TimBernersLee coined the concept of the GiantGlobalGraph as 
+an anticipation of the emerging InternetOfThings.
+
+Brain with it's 100 billion neurons and on average 1000 synaptical connections.
+
+
+CognitiveGraph.
+
+In the SemanticMind project, the 
+
+Thinking as graph 
+
+Anticipating future technological progress in
+
+The SemanticMind as LinkedData
+
+Changing the social environment towards cognitive.
+
+DelicioUs
+
+
+The RdF itself is generated as NotationThree via CloJure code inside the MindWiki: RdfClj
+
+!LinkedData
+One of the InterWiki-links to WikiPedia and LifeWiki's WikiWikiWeb of WardCunningham or CommunityWiki.
+Since 2009 many PerSon's working as ReSearch'ers in ComputerScience also obtained DeepLink's to DbLp.
+
+The raw ConTent of the MindWiki is also available for DownLoad as MindZip.
+
+!From a PersonalWiki to a GroupWiki
+We opened up the MindWiki for additional users by invitation. The MindWiki has a strict RealName policy
+to ensure a high data quality and a UniqueNameAssumption.
+This means that each for ReSource of the PageIndex we can issue a OwL-DifferentFrom assurance.
+
+!From a GroupWiki to an EnterpriseWiki
+In March 2009 RainerWasserfuhr teamed up with RalfLippold to apply SemanticWiki technology
+for a new StartUp called LockSchuppenAg.
+
+The LockSchuppen is an AmbItio'us ProJect to renovate a former RoundHouse in the CityOfDresden 
+and create a ThinkAndDoTank about new ways of CoWorking and CoLiving 
+towards TheSingularity. The entire StartUp phase of LockSchuppenAg was managed
+by the MindWiki, including the ConTract of the ShareHolder's and the LockSchuppenBusinessPlan.
+
+!From an EnterpriseWiki to a OpenSocialNetwork
+ToDo
+
+ToDo: More Chapters: TransparentMan UnitedSemanticNations WorldDominance

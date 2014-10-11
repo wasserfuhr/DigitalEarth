@@ -1,0 +1,2 @@
+* MindQuote: "A ''is a'' B... never." - BillSeitz
+* InterWiki: [WebSeitz:IsA]

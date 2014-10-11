@@ -1,0 +1,2 @@
+* HomePage: http://www.w3.org/DesignIssues/Diff
+* DcAuthor: TimBl DanConnolly

@@ -1,0 +1,4 @@
+* WohnSitz: NuernBerg
+||AusLand
+|[WorldWideWeb:www.patchworking.de]
+|[XingLe:Daniel_Bruessler]

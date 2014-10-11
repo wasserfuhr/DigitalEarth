@@ -1,0 +1,7 @@
+* IsA: PostDoc
+* DbLp: http://dblp.uni-trier.de/rec/pid/41/1987
+* HomePage: http://eyaloren.org/
+* CurrentProjects: SemperWiki
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker StefanDecker EyalOren
+* MindSkill: SemanticWiki

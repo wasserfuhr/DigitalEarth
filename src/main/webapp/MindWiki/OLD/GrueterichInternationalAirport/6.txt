@@ -1,0 +1,30 @@
+* MindTags: MindPlace, FutureCardIdea
+* UnTil: 2015
+* BreitenGrad: 51.09690
+* LaengenGrad: 7.34115
+* BoundingBox: 20
+* MindCount: 0
+
+in der Nähe von WipperFuerth.
+
+DRAFT: To: GuidoForsting
+
+{{{
+Hallo Herr BuergerMeister,
+
+meine Eltern, AgnesWasserfuhr und WernerWasserfuhr wohnen in GrueterichEins,
+wo ich auch meine KindHeit und Jugend verbrachte.
+Sie klagen immerfort, daß ich so selten in der ProVinz bin.
+Seit einigen Jahren schon treibt mich der Gedanke, in 
+Grüterich hinter dem Haus meiner Eltern eine kleine Hubschrauberlandefläche
+zu bauen, damit ich im Notfall dort schnell vorbeischauen könnte,
+oder meine Eltern mal zu einem Flug zu meinem derzeitigen WohnSitz, der
+StadtDresden einzuladen.
+Nun kenne ich mich leider gar nicht mit Baugenehmigungen aus.
+Bestünde in den nächsten Jahren, sagen wir bis 2015, theoretisch die Möglichkeit,
+so etwa permanent dort zu bauen? Ich dachte an eine kleine NanoBeton-Fläche
+von rund 20x20 Metern, direkt hinter dem Haus meiner Eltern.
+
+Beste Grüße
+  RainerWasserfuhr
+}}}

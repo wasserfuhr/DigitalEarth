@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Zohar_Manna]
+* BornIn: 1939
+* DbLp: http://dblp.uni-trier.de/rec/pid/m/ZoharManna
+* PageNumber: 6
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger ZoharManna AmirPnueli ZoharManna

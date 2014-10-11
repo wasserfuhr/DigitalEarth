@@ -1,0 +1,16 @@
+WwwOhneWww
+
+not with AppEngine?
+
+HowTo BootStrap your own MicroNation:
+# DePloy the MindTar ConTent to the WorldWideWeb, e.g. http://mind.intellihaus.de/ (=MindVar:MindDump)
+## check UniCode: e.g. $MindDump/DistanzSpiel.txt should display "Appartementtür" with correct Encoding "UTF-8"
+# DownLoad the AppEngine SDK
+# create an AppEngine account
+# DePloy the NooPolis WebApp
+## call "Create an Application"
+## noopolis (=MindVar:NationDomain)
+## DownLoad the NooPolis WebApp
+## do the usual "appcfg.sh update" stuff
+## open $NationDomain/sql in your MindBrowser
+## execute the MindSql: »{{create table BootStrap (id int, content text, primary key (id))}}«

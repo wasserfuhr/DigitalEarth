@@ -1,0 +1,8 @@
+laut ExIf: Fujifilm FinePixA204
+
+* max 1600 x 1200 Pixel
+* optisches Zoom: 3x
+* digitales Zoom: 2,5x
+* Brennweite: 38-114mm
+* Speicher: 16 MB XD-Picture-Card
+* Display: 1,5 Zoll

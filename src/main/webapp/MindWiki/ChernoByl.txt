@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* HerKunft: "Son nom est constitué de deux adjectifs qui évoquent les deux visages de cette ville en été (tcherno) et en hiver (byl)."
+* InterWiki: [WikiPedia:Chernobyl]
+* BreitenGrad: 51.267
+* LaengenGrad: 30.217
+* BoundingBox: 1000

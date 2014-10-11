@@ -1,0 +1,24 @@
+!!Wann soll der MindBrokerSalon stattfinden?
+
+!SportPortal?
+||Voter          ||Vote
+|RainerWasserfuhr|ja
+
+
+||Voter          ||Vote
+|RainerWasserfuhr|200708
+
+
+!WichtigeBrowser: Nur FireFox?
+||Voter          ||Vote
+|RainerWasserfuhr|ja
+|DimitriUwarov   |nein
+
+!MindCal oder MindCalendar?
+||Voter          ||Vote
+|RainerWasserfuhr|cal
+
+!AlexWipperfuerth
+Wieviele Aktien hat AlexWipperfuerth als Geschenk verdient, damit er echt MindBroker wird?
+||Voter          ||Vote
+|RainerWasserfuhr|10

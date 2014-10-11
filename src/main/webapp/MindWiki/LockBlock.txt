@@ -1,0 +1,4 @@
+* IsA: MindThing
+* OwnedBy: RalfLippold
+
+eine Art WebBlock... eine TotHolz-SchatzKiste? ReView?

@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* JahrGang: 1911
+* BirthDay: 07-21
+* PapaZwoNull: AloisBoxberg
+* MindFaves: HoerZu

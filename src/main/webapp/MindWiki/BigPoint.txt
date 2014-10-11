@@ -1,0 +1,6 @@
+* IsA: EnterPrise
+* InterWiki: [WikiPedia:Bigpoint_Games]
+* MindOne: HeikoHubertz
+* HomePage: http://www.bigpoint.net/
+
+BrowserGame

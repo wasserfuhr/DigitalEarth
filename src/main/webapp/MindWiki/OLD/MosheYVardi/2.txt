@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Moshe_Y._Vardi]
+* DbLp: http://dblp.uni-trier.de/rec/pid/v/MosheYVardi
+* HomePage: http://www.cs.rice.edu/~vardi/

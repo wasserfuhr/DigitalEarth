@@ -1,0 +1,11 @@
+* MindTags: ProFessor
+* InterWiki: [LangReiter:Tim+Berners-Lee], [OpenCyc:SirTimBernersLee], [WikiPedia:Tim_Berners-Lee], [WikiWikiWeb:TimBernersLee]
+* HomePage: http://www.w3.org/People/Berners-Lee/
+* NachName: Berners-Lee
+* JahrGang: 1955
+* BirthDay: 06-08
+* MindKodex: LexTim
+* MindSkill: WorldWideWeb
+[TwittEr:timberners_lee]
+
+GoogleSearch #3 for "tim", GoogleSearch #1 for "sir tim"

@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.05276
+* LaengenGrad: 13.74072
+* BoundingBox: 95
+* HomePage: http://www.hilton.de/dresden

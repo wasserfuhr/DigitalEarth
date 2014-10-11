@@ -1,0 +1,10 @@
+* agile
+* global
+* lean
+* TransParent
+* TurnKey-enabled
+
+an entirely new economy on top of the SocialGraph.
+
+WikiBased from day one on.
+

@@ -1,0 +1,9 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/34/5725
+* HomePage: http://hans.uszkoreit.net/
+* PageNumber: 5
+* PagePath: LarryPage HectorGarciaMolina ErhardRahm MarioJeckle StefanMueller HansUszkoreit
+* CoAuthor: AndreasHeuer PeterLockemann
+* MindSkill: ArTelligence
+|[XingLe:Hans_Uszkoreit]
+|[FaceBook:717224804]

@@ -1,0 +1,5 @@
+* HomePage: http://www.media.mit.edu/
+* PartOf: MitEdu
+* InterWiki: [DeWikiPedia:MIT_Media_Lab]
+* MindOne: FrankMoss
+* FoundedBy: NicholasNegroponte

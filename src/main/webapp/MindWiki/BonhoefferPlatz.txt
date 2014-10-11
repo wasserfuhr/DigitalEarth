@@ -1,0 +1,3 @@
+* IsA: MindSquare
+* NamedAfter: MartinBonhoeffer
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/4232235 ToDo

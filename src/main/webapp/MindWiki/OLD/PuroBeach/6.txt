@@ -1,0 +1,9 @@
+* IsA: MindPlace
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.066231&lon=13.731467&zoom=18&layers=B000FTTT ToDo
+* HomePage: http://www.maxshock.de/KUNDEN/PUROBEACH/
+* MindOne: ChristianVonCanal
+
+MeMo:
+* 2010-06-23: AlexanderGehre AlexanderWolter BeatriceBaranov ChristianPaetz ConstanceWolter DirkRoehrborn FranziskaZepp GregorKampwerth HeidiGallinat HolgerJohn KarinaMatthes KatharinaScheerer KerstinTrautmann MarcusBertelsmeier NadinKarnath RicoPetrick RainerWasserfuhr SusannKrebs SvenMorlok ThomasMetzner: FutureSax JoergImmendorff JohnPad JosefAckermann MarkwartFaussner PieschenRobotics RrcRt TuringTest WerdeWunsch
+* MindPost ZukunftsForum BarCampBerlinZwo ReBoot DougEngelbart ZeppelinUniversity
+TwentyOne

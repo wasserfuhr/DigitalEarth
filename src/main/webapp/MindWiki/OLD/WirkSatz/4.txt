@@ -1,0 +1,5 @@
+pro Stunde:
+
+||OrderedByShares||EUR||KayGroschen
+|RainerWasserfuhr|  90|600
+|DanielPoodratchi|  12|200

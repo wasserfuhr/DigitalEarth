@@ -1,0 +1,7 @@
+* MindTags: FutureCard
+* PreDict: FaceBook hat eine VirtuelleOekonomie, deren Währung in EuRo oder UsDollar konvertierbar ist und ein jährliches Transaktionsvolumen von 68.719.476.736 EuRo übersteigt.
+* FutureCard: 36
+
+PeterThiel kennt sich damit aus.
+
+Am FaceTrust muss bis dahin aber noch etwas getuned werden.

@@ -1,0 +1,3 @@
+* InterWiki: [LangReiter:MapReduce],[WebSeitz:MapReduce]
+
+Die nächste Evolutionsstufe des WorldWideWeb: Nich nur punktueller Zugriff auf Daten eines SocialNetwork's per API, sondern alle Daten per MapReduce.

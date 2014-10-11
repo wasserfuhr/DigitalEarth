@@ -1,0 +1,5 @@
+Kriterien:
+* LebensErwartung angegeben
+* LastWill angegeben
+* KinderWunsch angegeben
+* All'FreiHeit

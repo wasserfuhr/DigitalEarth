@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Paul_Feyerabend]
+* JahrGang: 1924
+* BirthDay: 01-13
+* LebensEnde: 1994

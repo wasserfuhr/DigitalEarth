@@ -1,0 +1,3 @@
+Ein vierdimensionales GoSpiel.
+
+Später für http://go.mindbroker.de

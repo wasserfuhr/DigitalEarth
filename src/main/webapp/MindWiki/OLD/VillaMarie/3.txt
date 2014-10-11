@@ -1,0 +1,5 @@
+http://www.villa-marie.de/
+
+* BreitenGrad: 51.053021
+* LaengenGrad: 13.808424
+* BoundingBox: 20

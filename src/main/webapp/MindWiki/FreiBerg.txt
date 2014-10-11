@@ -1,0 +1,4 @@
+* IsA: MindCity
+* InterWiki: [DdWiki:Freiberg] [DeWikiPedia:Freiberg]
+* BoundingBox: 7000
+* MindCount: 40000

@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Heinz_Zemanek]
+* BornIn: 1920
+* BirthDay: 01-01
+* DbLp: http://dblp.uni-trier.de/rec/pid/11/2093
+* PageNumber: 8
+* PagePath: LarryPage TerryWinograd NorbertStreitz RalfSteinmetz MiraMezini KlausOstermann ChristianHofer GerhardChroust HeinzZemanek

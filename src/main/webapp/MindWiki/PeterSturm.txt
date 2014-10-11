@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/PeterSturm
+* PageNumber: 5
+* PagePath: LarryPage TerryWinograd NorbertStreitz RalfSteinmetz JuergenNehmer PeterSturm

@@ -1,0 +1,14 @@
+* MindTags: MinisTer
+* BirthDay: 09-21
+||[AusLand]
+|[TwittEr:KevinRuddPM]
+
+WesternAustralia: 129E
+
+Northern Territory: 138E
+
+SouthAustralia: 26S
+
+NewSouthWales: 141E
+
+Victoria: 29S

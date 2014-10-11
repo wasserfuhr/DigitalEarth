@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:William_Shakespeare], [OpenCyc:WilliamShakespeare], [WikiWikiWeb:WilliamShakespeare]
+* LebensEnde: 1616
+* JahrGang: 1564

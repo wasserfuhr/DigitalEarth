@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/62/2522
+* HomePage: http://www.davidandre.com/
+* PageNumber: 8
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge BarneyPell MichaelGenesereth DavidAndre

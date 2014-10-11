@@ -1,0 +1,15 @@
+* MindTags: MindEvent
+* XingEvent: https://www.xing.com/app/events?op=detail;id=172098
+
+!Teilnehmer: RainerWasserfuhr, NN1,NN2
+
+!Themen
+* ToCee
+* XML, SOAP
+* BurjDubai
+* AutoCad, Revit
+* ToCeeTenYearsLater
+* VorratsDaten
+* DresdenDrohne
+* DresdenChess
+* WaldSchloesschenBruecke

@@ -1,0 +1,24 @@
+MichaelAnissimov: "it makes sense to estimate probability distributions — we all have them, the difference is whether we explicitly acknowledge their presence and at least try to make them [logically self-consistent|http://www.acceleratingfuture.com/michael/blog/?p=595]"
+
+Je unsicherer etwas ist, desto wichtiger ist es, sich klar zu machen, wie man das Unsichere einschätzt.
+
+Wer bei der Frage der ErWartung zu lange rumredet, wird sonst einer LoewenJagd ausgesetzt.
+
+Eine ErWartung hat:
+# wahrscheinlichster Wert
+# Unsicherheit oder [DeWikiPedia:Varianz] (in Prozent)
+
+Beispiel: vergangene DealFutures-GeheimKosten von Google für JaiKu: 30m USD, Varianz 25%.
+
+ErWartung der Zahl der BuergerInnen:
+|20071231|YvonneSchubert   |30
+|20071231|EvaLubas         |43
+|20071231|HeikeRibke       |50
+|20071231|ChristineSchlinck|50
+|2008:   |                 |
+|20081231|YvonneSchubert   |150
+|20081231|EvaLubas         |220
+|20081231|ChristineSchlinck|300
+|20081231|HeikeRibke       |500
+|20101231|HeikeRibke       |10000
+

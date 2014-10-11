@@ -1,0 +1,19 @@
+%%( padding-left: 400px; font-size:90%)
+Denn "es ist eine Welt von Eigenschaften ohne Mann entstanden, von Erlebnissen ohne den, der sie erlebt."
+%%
+
+Eigenschaften, die auf den Profilseiten von BuergerInnen als Aufzählung angegeben werden können:
+* WohnSitz
+* JahrGang
+* LebensErwartung
+* LebensEnde
+* AusLand
+** TwittEr
+*** profile_image_url
+* MindPlaces
+** BreitenGrad
+** LaengenGrad
+** BoundingBox
+
+Die Eigenschaften können per MindApi von anderen WebApps ausgelesen und weiterverarbeitet werden.
+Sie sind also so etwas wie SemanticWiki light.

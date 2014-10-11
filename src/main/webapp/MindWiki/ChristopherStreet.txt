@@ -1,0 +1,3 @@
+* IsA: MindStreet
+* InterWiki: [DeWikiPedia:Christopher_Street]
+* PartOf: ManHattan

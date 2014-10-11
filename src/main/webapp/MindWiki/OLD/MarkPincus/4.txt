@@ -1,0 +1,3 @@
+* MindTags: UnternehmensGruender
+* FoAf: http://people.tribe.net/markpincus/foaf
+* InterWiki: [WikiPedia:Mark_Pincus]

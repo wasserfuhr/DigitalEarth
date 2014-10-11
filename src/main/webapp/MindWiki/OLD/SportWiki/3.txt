@@ -1,0 +1,32 @@
+Ein WikiMe für Sportler, Sportvereine und -mannschaften.
+
+Später ein eigenes JspWiki unter http://sport.mindbroker.de
+
+Zielmarkt: Deutschland und deutschsprachige Nachbarn.
+
+Teilprojekte:
+* MindBaggern
+
+GeschaeftsModell:
+* Kooperationen mit
+** Krankenkassen
+** Sportverbänden
+** Sportartikelherstellern
+** Medienunternehmen
+
+* Premium-Dienste
+
+* Werbung
+
+!Zukünftige Startseite:
+* NRW
+** StadtKoeln
+*** ErsterFcKoeln
+** WipperFeld
+*** DjkWipperfeld
+* Sachsen
+** StadtDresden
+*** DynamoDresden
+** SenftenBerg
+* Thüringen
+** MindSalsa

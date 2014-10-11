@@ -1,0 +1,11 @@
+ReCent'ly studied:
+
+20100121:
+* http://dblp.uni-trier.de/rec/bibtex/conf/semweb/GravesAH08 AlvaroGraves MindPath RdF
+
+20100116:
+* http://dblp.uni-trier.de/rec/bibtex/conf/agi/GoertzelP08 BenGoertzel
+* http://dblp.uni-trier.de/rec/bibtex/conf/IEEEicci/Goertzel09a BenGoertzel OpenCog
+
+20100112
+* http://dblp.uni-trier.de/rec/bibtex/conf/semweb/AuerLH09 SoerenAuer LinkedGeoData

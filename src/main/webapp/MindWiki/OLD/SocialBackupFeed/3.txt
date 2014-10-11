@@ -1,0 +1,32 @@
+SocialBackup via FeedReader: http://mindbroker.de/backupfeed.jsp
+
+{{{
+<?xml version="1.0" encoding="utf-8"?>
+<%@ page contentType="application/atom+xml" %>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>SocialBackup Feed</title>
+ <subtitle>A subtitle.</subtitle>
+ <updated>2008-01-27T18:30:02Z</updated>
+ <link href="http://mindbroker.de/backupfeed.jsp" rel="self"/>
+ <author>
+   <name>MindBroker</name>
+ </author>
+ <id>urn:uuid:60a76c8-d399-11d9-b91C-0003939e0af6</id>
+ <entry>
+   <title>MindBroker Social Backup: MindZip</title>
+   <link href="http://mindbroker.de/wiki/SocialBackup"/>
+   <link rel="enclosure" href="http://mindbroker.de/mind.zip"/>
+   <id>urn:uuid:1225695-cfb8-4ebb-aaaa-80da344efa6a</id>
+   <updated>2008-01-27T18:30:02Z</updated>
+   <summary>Some text.</summary>
+ </entry>
+ <entry>
+   <title>MindBroker Social Backup: MindZip</title>
+   <link href="http://mindbroker.de/wiki/SocialBackup"/>
+   <link rel="enclosure" href="http://mindbroker.de/bank.zip"/>
+   <id>urn:uuid:1225695-cfb8-4ebb-aaaa-80da344efa6a</id>
+   <updated>2008-01-27T18:30:02Z</updated>
+   <summary>Some text.</summary>
+ </entry>
+</feed>
+}}}

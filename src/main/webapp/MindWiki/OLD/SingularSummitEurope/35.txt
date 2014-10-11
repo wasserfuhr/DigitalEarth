@@ -1,0 +1,180 @@
+* MindTags: MindEvent
+* HashTag: sse09
+
+A GedankenSpiel of RainerWasserfuhr, RalfLippold, ChristineSchlinck and SiggiBecker:
+
+The
+
+__SingularSummitEurope__
+
+- already 2009 in the LockSchuppen? With RayKurzweil, Simultan-TransLate'd für DeutschSprech'ende???
+
+* WikiLender: One or two days in September 2009?
+
+* MindPlace-Candidates: TuDresden or PanoMeter or CongressCenterDresden or SemperOper'a or LockSchuppen
+
+Event Format: a mixture of a classical conference with a few KeyNote's plus a SingularCamp with OpenSpace elements.
+
+OrgaTeam: RainerWasserfuhr, RalfLippold, SiggiBecker, ChristineSchlinck, DavidOrban? BobRichards? ChristianHeller? JanBoehme??
+
+The intended price is __1.048.576,- EuRo__ per participant including german VAT (19%).
+
+Participants can apply for a special SingularSummitEurope-ScholarShip to a reduced price for 524.288, 262.144, 131.072, 65.536, 32.768, 16.384, 8.192, 4.096, 2.048, 1.024, 512, 256, 128, 64, 32, 16, 8, 4, 2 or 1 EuRo respectively.
+
+The ScholarShip has to be approved by at least two of the OrgaTeam members.
+
+OpenBook: Each PayMent of sponsors and participants is TransParent'ly documented in the MindWiki. 
+* 25% of earnings will go as a donation to the MethuselahFondation.
+* 75% of earnings will go to the LockSchuppenAg.
+
+* what they want to pay to participate
+* price for a giving a talk
+* sponsoring
+
+!BrainStorm: Sponsors:
+* BrandEins
+* ClariumCapital
+* CyberPort
+* DeutscheBahn
+* DeutscheTelekom
+* DeutscheWelle
+* DieZeit
+* DresdenInternationalUniversity
+* DvbAg
+* EaDs
+* FreistaatSachsen
+* FutureSax
+* GenRob
+* GlsBank
+* GoogleInc
+* HtwDresden
+* IBM
+* LaVilletta
+* MunichRe
+* NeoOrg
+* SingularityUniversity
+* StadtDresden
+* SuppenBar
+* SwissRe
+* TaschenBerg
+* TSystemsMms
+* TuDresden
+* XingLe
+* ZeppelinUniversity
+
+!BrainStorm: Participants, KeyNote-Speaker, ProFessor's, SingularityMind's, ZukunftsForscher, EntrePreneur's, OrgaTeam:
+ 
+||Participant       ||[1]||[2]||[3]||[4]||[5]||[6]||WantsToPay||HasPayed||ApprovedBy
+|AndersSandberg     | | | | |
+|AndreasPoldrack    | | | | |
+|AndreasStuhlmueller| | | | |E
+|AnjaEigner         | | | | |
+|AnneWill           | |M| | |
+|AubreyDeGrey       |K| | | |
+|AxelOckenfels      | | | |P| 
+|BastiHirsch        | | | | |
+|BenGoertzel        |K| |S| |E
+|BertramDressel     | | | | |
+|BillGates          | | | | |E
+|BillLiao           | | | | |E
+|BrunoGiussani      | | | | |
+|BobRichards        | | | | |
+|ChristineSchlinck  | | | | | |O|64 EuRo| |RainerWasserfuhr
+|ChristianHeller    | | |S| | |O?
+|DirkBaecker        | | | |P|
+|DavidBrin          |K| |S| |
+|DavidOrban         | | | | |
+|DirkHilbert        | | | | |
+|DirkRoehrborn      | | | | |E
+|PeterKlingenburg   | | | | |
+|EdgarSchein        | | | | |
+|FrankSchoenefeld   | | | | |
+|FrankVeit          | | | | | 
+|FranzJosefRadermacher| | |S|P| 
+|GunterDueck        | | |S| |
+|GuentherSchiwy     | | |S| | 
+|GuyKawasaki        | | | | |
+|HagenStanek        | | | | |E
+|HansMeuer          | | |S|P|
+|HassoPlattner      | | |S|P|E
+|HelmaOrosz         | | | | | 
+|HenryMarkram       |K| |S|P|
+|HubertBurda        | | | | |E
+|IanPearson         | | |S| |
+|IjGood             | | |S| |
+|JanBoehme          | | | | | |O?
+|JayForrester       | | |S|P|
+|JensBemme          | | | | |
+|JirkaSchaefer      | | | | |E
+|JoachimNiemeier    | | | |P|
+|JoergKeller        | | | | | 
+|JoergSiekmann      | | |S|P|
+|JohnNash           |K| |S|P|
+|JohnSterman        | | |S|P|
+|JuergenAnke        | | | | |E
+|JuergenSchmidhuber | |S| |P|E
+|KerstinTrautmann   | | | | |
+|KevinKelly         |K| |S| |
+|KurtBiedenkopf     | | | |P|
+|LarsHinrichs       | | | | |E
+|MarcusBertelsmeier | | | | |E
+|MarioSixtus        | | | | |
+|MartinNowak        | | | |P|
+|MartinRoell        | | | | |
+|MartinVarsavsky    | | | | |E
+|MatthiasHorx       | | |S| |
+|MichaelGreve       | | | | |E
+|MichaelSchefczyk   | | | |P|
+|NickBostrom        | | |S| |
+|NikolaiKardashev   |K| |S|P|
+|NorbertRost        | | | | |
+|NorbertBolz        | | |S| |
+|OliverGassner      | | | | |
+|OttoScharmer       | | | |P|
+|PeterClaussen      | | | | |
+|PeterHines         | | | |P|
+|PeterKlingenburg   | | | | |
+|PeterKruse         | | | |P| 
+|PeterNorvig        | | |S|P|
+|PeterSenge         | | | | | 
+|PeterThiel         |K| |S| |E
+|RaimarScherer      | | | |P|
+|RainerWasserfuhr   | | |S| | |O
+|RalfLippold        | | | | | |O
+|RangaYogeshwar     | |M| | | 
+|RayKurzweil        |K| |S| |E
+|ReinhardHeil       | | | | | 
+|RichardBranson     | | |S| |E
+|RichardFlorida     | | | |P|
+|SebastianMitter    | | | | | 
+|SebastianThrun     | | |S|P|
+|SethGodin          | | | | | 
+|SiggiBecker        | | |S| | |O
+|SoerenStamer       | | |S| |E
+|SteffenHoelldobler | | | |P| 
+|StephanJansen      | | | |P| 
+|SteveJurvetson     | | |S| |E
+|TimBl              |K| |S|P|
+|TimBruysten        | | | | |
+|TimOReilly         | | |S| |E
+|WilliamShatner     | | | | | 
+|WilliSchroll       | | | | | 
+|WilmHeinrich       | |M| | | 
+|WinfriedLachnit    | | | |P| 
+|WolfgangBibel      | | | |P| 
+|WolfgangDonsbach   | | | |P|
+|WolfgangWahlster   | | |S|P|
+|YadegarAsisi       |K| |S| |
+|ZigaTurk           | | |S|P|
+* [#1] Candidate as the KeyNote-Speaker
+* [#2] Moderator
+* [#3] Speaker
+* [#4] ProFessor
+* [#5] EntrePreneur
+* [#6] OrgaTeam
+
+Special guests:
+|AnSto |
+|ChSchu |
+|JuSt
+|MaSc 

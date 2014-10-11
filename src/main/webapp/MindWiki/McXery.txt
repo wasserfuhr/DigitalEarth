@@ -1,0 +1,2 @@
+* IsA: WirtsHaus
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.064302&lon=13.752602&zoom=18&layers=B000FTTT ToDo

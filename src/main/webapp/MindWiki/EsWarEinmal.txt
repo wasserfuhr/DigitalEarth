@@ -1,0 +1,3 @@
+AnFang ErZaehlung
+
+GlaesernMensch MindId GlaesernBank MoneySupply SemanticEconomy PrimaryKey VerAntwortung

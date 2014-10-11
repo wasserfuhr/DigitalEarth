@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Vinod_Khosla]
+* BirthDay: 01-28
+|[TwittEr:vkhosla]

@@ -1,0 +1,3 @@
+* RdfProperty: http://xmlns.com/foaf/0.1/based_near
+
+Alle MindPeople, die auf ihrer Profilseite einen WohnSitz angeben, werden bald auf der MindMap dargestellt.

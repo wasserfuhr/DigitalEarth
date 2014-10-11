@@ -1,0 +1,37 @@
+NoOs is a new social OperatingSystem on top of GoogleAppEngine that is based on OpenNess and a global WebOfTrust. Anything that happens on NoOs is public.
+
+It helps to build a SocialGraph that is complementary to FaceBook TwittEr GoogleWave WindowsLiveId OpenId or YaHoo
+and additionally based on WikiPedia ViAf and DbLp.
+
+NoOs will create
+* MicroNation's
+* VirtualCash
+* Semantics, Trust and Reasoning.
+
+At the core we have TruePeople who act with their RealName.
+
+NoOs is based on the spirit of OpenNess of ProJect's like WikiPedia or OpenStreetMap.
+
+If you are looking for private contexts, this is not supported by NoOs.
+
+AppEngine offers the InfraStructure to server side SoftWare of almost unlimited ComPlex'ity.
+
+Now our task is to improve the CloJure function called
+"noomic" step by step. It is quite similar to
+what Java developers will know as a servlet.
+However, NoOs is completely dynamic.
+In the 0.1 release, each admin can edit
+this function and therewith determine the
+behaviour of the entire platform.
+So it is completely open to the initial
+group of people to form a good WebOfTrust and
+to establish practises like PeerReview,
+testing procedures and quality assurance.
+
+
+The LongTerm goal of NoOs is to create a digital model of global ConScious'ness.
+
+Most important Motiv of the NooSphere: Based on [DeWikiPedia:Mimesis], ConScious'ness is TransForm'ed into
+more and more simple SoftWare. ComPress'ed SelfModel. BeingNoOne.
+
+UpLoad PostSingular AccelerAndo InfoMorph HumanOs OperatingSystem BootStrap

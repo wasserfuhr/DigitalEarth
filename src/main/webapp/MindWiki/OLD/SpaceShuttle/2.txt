@@ -1,0 +1,12 @@
+* KindOf: SpaceShip
+* InterWiki: [DeWikiPedia:Space_Shuttle]
+
+||SpaceShuttle||PrimaryKey
+|Challenger   |OV-099
+|Columbia     |OV-102
+|Discovery    |OV-103
+|Atlantis     |OV-104
+|Endeavour    |OV-105
+
+|Explorer     |OV-100
+|EnterPrise   |OV-101

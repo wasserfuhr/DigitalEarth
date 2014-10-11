@@ -1,0 +1,7 @@
+Bald: Eine WebApp, die automatisch TwittEr't und das Wiki editiert, wenn bestimmte Ereignisse feuern, zB:
+* überweise BegruessungsGeld
+* editiere #Nutzer bei SocialNetwork
+* TwittEr'e neue Nutzer und Änderungen an der VerFassung.
+
+||AusLand
+|[TwittEr:mindbroker]

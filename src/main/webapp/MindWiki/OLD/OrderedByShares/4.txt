@@ -1,0 +1,1 @@
+Im MindWiki von MindBroker werden Tabellen und Matrizen grundsätzlich nach der Zahl der Anteile der ShareHolder geordnet.

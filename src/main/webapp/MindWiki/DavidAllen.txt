@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [WebSeitz:DavidAllen]
+* BornIn: 1945
+* BirthDay: 12-28
+* MindSkill: GettingThingsDone
+|[TwittEr:gtdguy]

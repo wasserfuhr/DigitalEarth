@@ -1,0 +1,3 @@
+* IsA: MindSquare
+* ConnectsTo: KoenigsbrueckerStrasse
+* PartOf: ZeitenStroemung

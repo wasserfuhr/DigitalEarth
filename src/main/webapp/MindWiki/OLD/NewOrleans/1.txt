@@ -1,0 +1,2 @@
+* IsA: MindCity
+* PartOf: MissisSippi

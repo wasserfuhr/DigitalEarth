@@ -1,0 +1,2 @@
+Die VirtuelleOekonomie von NooPolis ist ein virtuelles Wirtschaftssystem, das über den WechselKurs real wirkt. 
+

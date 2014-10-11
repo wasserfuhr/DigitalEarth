@@ -1,0 +1,72 @@
+* MindTags: RealFilm
+* PieschenTv: http://www.youtube.com/watch?v=-2NqZe-EnN8
+
+Erste Szene im RealFilm: CaptionFile:
+
+LangDe:
+{{{
+0:00:06
+>> RainerWasserfuhr: Ich weiss nich immer wenn ich was zu dem Thema sage, dann fang ich bei MooresLaw an
+das is ganz das is ganz ganz langweilig und unaufregend.
+0:00:20
+Man muesste mal ausrechnen, wieviel Festplattenkapazitaet es
+0:00:26
+heutzutage auf der Welt gibt.
+0:00:30
+Sagenwer mal so wasweissich 300 Millionen, 400 Millionen, 500 Millionen PCs gibts, 
+0:00:35
+mit durchschnittlich 40, 50, 80, 200 GigaByte.
+0:00:44
+Und das Spannende is: das verdoppelt sich.
+0:00:46
+Und das Spannende is: Diese ganzen Kisten!,
+die vernetzen sich miteinander
+0:00:54
+und die Kapazitaeten zwischen diesen Kisten,
+die Transferkapazitaeten,
+0:01:01
+die verdoppeln sich, mindestens,
+in konstanten Zeitabstaenden.
+0:01:08
+Zeig mal!
+0:01:09
+>> StimmeAusDemOff
+Ich brauch unbedingt ein Stativ.
+0:01:12
+>> RainerWasserfuhr: Cut!
+}}}
+
+LangEn:
+{{{
+0:00:06
+>> RainerWasserfuhr: I dunno. Whenever I say something on this issue, then I'll start with  MooresLaw. This is... this is quite boring and unexciting.
+0:00:20
+One would have to calculate, how much hard disk capacity
+0:00:26
+there is now in the world
+0:00:30
+Let's say between -who knows- 300 million, 400 million, 500 million PersonalComputer's are out there
+0:00:35
+with in average 40, 50, 80, 200 GigaByte's
+0:00:44
+And the exciting thing is: This is doubling
+0:00:46
+And the exciting thing is: all these boxes
+are connecting themselves
+0:00:54
+and the capacities between these boxes,
+the bandwidth capacities,
+0:01:01
+are doubling at least
+in constant time intervals
+0:01:08
+Show me!
+0:01:09
+>> StimmeAusDemOff:
+I absolutely need a TriPod.
+0:01:12
+>> RainerWasserfuhr:
+Cut!
+}}}
+
+MooresLaw

@@ -1,0 +1,7 @@
+im LockSchuppen. Setzt auf jeder Stufe bestimme MindSkill's und einen Mindest-WortSchatz voraus.
+
+* Stufe 0: TastaTur InterNet SkyPe FaceBook TwittEr WikiPedia CamelCase RecentChanges GoogleWave 
+* Stufe 1: HtMl HtTp SingularDefinition ShockLevel
+* Stufe 2: FmRi SiAi RepRap EgoTunnel
+* Stufe 3: HpSg RePl MoSh
+* Stufe 4: SmEph

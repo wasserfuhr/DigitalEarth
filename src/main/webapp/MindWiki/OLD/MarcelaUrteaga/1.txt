@@ -1,0 +1,3 @@
+* IsA: CitiZen
+* InvitedBy: PhilippeGreier
+* MindId: 50

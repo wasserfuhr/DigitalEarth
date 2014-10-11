@@ -1,0 +1,18 @@
+* NamedAfter: MartinRoell
+
+The RoellNumber is similar to the ErdosNumber, but dedicated the famous ConDuct'or and musician MartinRoell, who once owned a KurzWeil.
+
+It is defined by people who at least once in their live played in a JamSession with MartinRoell.
+
+!RoellNumber=0
+* MartinRoell
+
+!RoellNumber=1
+* JanBoehme
+
+!Probably RoellNumber=3, 4 or 5
+* JohnColtrane???
+* RayKurzweil???
+* ReinerWeiss??
+* RomanWasserfuhr?
+* JulianWasserfuhr?

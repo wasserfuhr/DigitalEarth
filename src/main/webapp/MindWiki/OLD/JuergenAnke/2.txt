@@ -1,0 +1,5 @@
+* MindTags: UnternehmensGruender
+* WohnSitz: StadtDresden
+||AusLand
+|[XingLe:Juergen_Anke]
+|[SkyPe:juergen_anke]

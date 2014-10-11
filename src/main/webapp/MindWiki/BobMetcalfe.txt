@@ -1,0 +1,7 @@
+* IsA: UnternehmensGruender
+* InterWiki: [WikiPedia:Robert_Metcalfe]
+* BirthDay: 04-07
+* DbLp: http://dblp.uni-trier.de/rec/pid/69/829
+* PageNumber: 5
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy EdwardFeigenbaum BobMetcalfe
+|[TwittEr:BobMetcalfe]

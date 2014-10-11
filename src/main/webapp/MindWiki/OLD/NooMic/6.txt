@@ -1,0 +1,5 @@
+;(last ((defn stn [x](if (= x 1) '(1) (if (= x 2) '(1 2) (concat (stn (- x 1)) [(+ (last (stn (- x 1))) (last (stn (- x 2))))])))) 14))
+
+; (+ 21 21)
+
+"<form><input type=submit value=gagaga></form>"

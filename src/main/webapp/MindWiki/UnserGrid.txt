@@ -1,0 +1,50 @@
+LIVE on EcZwo: http://grid.mindbroker.de/
+
+||WebApp||Host                                    ||AjpPort
+|insider|ec2-67-202-32-245.compute-1.amazonaws.com|8009
+|id     |ec2-67-202-32-245.compute-1.amazonaws.com|8019
+|bank   |ec2-67-202-32-245.compute-1.amazonaws.com|8029
+|grid   |ec2-67-202-32-245.compute-1.amazonaws.com|8039
+|websvn |ec2-67-202-32-245.compute-1.amazonaws.com|8049
+|www    |ec2-67-202-32-245.compute-1.amazonaws.com|8059
+
+!UseCase: Create a new HostUser:
+{{{
+export NEWUSER=...
+useradd -m $NEWUSER -d /mnt/home/$NEWUSER
+ln -s /mnt/home/$NEWUSER /home/$NEWUSER
+su $NEWUSER
+cd
+mkdir tmp
+export DEPLOYER_VERSION=0.5
+wget http://mvnrepo.mindbroker.de/mvnrepo/de/mindbroker/deploy/$DEPLOYER_VERSION/deploy-$DEPLOYER_VERSION-jar-with-dependencies.jar
+}}}
+
+!UseCase: (Re-)Deployment a WebApp:
+{{{
+ssh id@id.mindbroker.de
+su -
+su GRIDUSER
+cd
+ps aux |grep $USER|grep java
+kill -9 *pid*
+export JAVA_HOME=/usr/local/java/jdk1.7.0
+export PATH=$PATH:$JAVA_HOME/bin
+export DEPLOYER_VERSION=0.5
+nohup java -Djava.io.tmpdir="$PWD/tmp" -jar deploy-$DEPLOYER_VERSION-jar-with-dependencies.jar de.mindbroker $USER *revision* *ajp-port* > nohup.log &
+tail -f nohup.log
+exit
+}}}
+
+Langfristiger Aufbau für UnserGrid: Jede WebApp wird so entworfen, dass sie für
+kleine Teams und Communities zugeschnitten ist - immer maximal so groß, dass sie 
+auf einen Server passt.
+Jeder User kann nicht nur auf einer, sondern auf mehreren Gridknoten Daten ablegen.
+Alle Daten können redundant gespeichert werden, indem sie per *push* auf Subscriber-
+Server syndiziert werden.
+
+Beispielanwendungen:
+* Blogs
+* Tagging
+* Foto- und Videogalerien
+* SocialNetwork'ing (FoAf-artig)

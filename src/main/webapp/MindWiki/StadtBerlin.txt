@@ -1,0 +1,102 @@
+* MindTags: MindPlace
+* BreitenGrad: 52.5183
+* LaengenGrad: 13.4083
+* BoundingBox: 15000
+* MindCount: 3400000
+
+http://en.oreilly.com/webexberlin2008/public/schedule/speakers:
+
+AlanPatrick
+AlbertoNardelli
+AlexStamos
+AlexandraDeschampsSonsino
+AndrazTori
+AndreCharland
+AndreasRavn
+ArdBiesheuvel
+BenHammersley
+BradyForrest
+BrianFling
+BrianSuda
+BrunoFigueiredo
+DieterRappold
+DionHinchcliffe
+DrewBartkiewicz
+DuaneNickull
+FelixPetersen
+GieldeNijs
+GustavMartner
+GustavVonSydow
+JpRangaswami
+JamesGovernor
+JeffBates
+JenniferPahlka
+JoeWalker
+JohnHendrikWeitzmann
+JohnLilly
+JonathanWeiss
+JoshDamonWilliams
+JyriEngestrom
+LeeBryant
+LucaMearelli
+MarkoSamastur
+MarkusBeckedahl
+MartinVarsavsky
+MatHampson
+MattiasMiksche
+MichelleThorne
+NikoNyman
+PeterStahl
+RobertGoldberg
+ScottRafer
+StefanMagdalinski
+StoweBoyd
+TariqKrim
+TonyDouglas
+YossiVardi
+
+
+!WikiPedia:
+Berlin is the capital city and one of sixteen states of Germany. With a population of 3.4 million within its city limits, Berlin is the country's largest city. It is the second most populous city and the ninth most populous urban area in the European Union. Located in northeastern Germany, it is the center of the Berlin-Brandenburg metropolitan area, comprising 5 million people from over 190 nations.
+
+First documented in the thirteenth century, Berlin was successively the capital of the Kingdom of Prussia (1701-1918), the German Empire (1871-1918), the Weimar Republic (1919-1933) and the Third Reich (1933-1945). After World War II, the city was divided; East Berlin became the capital of East Germany while West Berlin became a Western enclave, surrounded by the Berlin Wall from 1961-1989. Following German reunification in 1990, the city regained its status as the capital of all Germany.
+
+
+!SemanticWiki:
+Berlin is the capital city of Germany. 
+
+Berlin is one of sixteen states of Germany. 
+
+Berlin has a population of 3.4 million within its city limits. 
+
+Berlin is Germanys largest city.
+
+Berlin is the second most populous city in the European Union.
+
+Berlin is the ninth most populous urban area in the European Union.
+
+Berlin is located in northeastern Germany.
+
+Berlin is the center of the Berlin-Brandenburg metropolitan area.
+ 
+The Berlin-Brandenburg metropolitan area comprises 5 million people from over 190 nations.
+
+Berlin was first documented in the thirteenth century.
+
+Berlin was the capital of the Kingdom of Prussia from 1701 UnTil 1918.
+
+Berlin was the capital of the German Empire from 1871 UnTil 1918.
+
+Berlin was the capital of the Weimar Republic from 1919 UnTil 1933.
+
+Berlin was the capital of  the Third Reich from 1933 UnTil 1945.
+
+Berlin was divided After World War II.
+
+EastBerlin became the capital of DdErr.
+
+WestBerlin became a Western enclave.
+
+WestBerlin was surrounded by the Berlin Wall from 1961-1989. 
+
+Following German reunification in 1990, the city regained its status as the capital of all Germany.

@@ -1,0 +1,3 @@
+* HashTag: TR
+
+A TyPo in your tweet? LoeschenIstSuende: ReTweet with fixed TyPo and HashTag: "#TR"

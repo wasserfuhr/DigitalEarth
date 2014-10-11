@@ -1,0 +1,6 @@
+* IsA: ProFessor MinisTer
+* InterWiki: [DeWikiPedia:Kurt_Biedenkopf]
+* JahrGang: 1930
+* BirthDay: 01-28
+* MindFaves: IkEa
+* LandingPage: SingularSummerDresden

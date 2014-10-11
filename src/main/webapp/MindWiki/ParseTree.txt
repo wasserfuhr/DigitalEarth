@@ -1,0 +1,46 @@
+Aufgabe: Analysiere den [WikiPedia:Parse_tree] sowie die Semantik und Pragmatik für 
+folgenden Artikel: http://idw-online.de/pages/de/news244525
+
+{{{
+Ein wesentlicher Standortfaktor für Industriebetriebe ist, in die internationalen 
+Transport-Netzwerke eingebunden zu sein, um Güter möglichst schnell und kostengünstig 
+anliefern bzw. zu den Kunden transportieren zu können.
+
+Auch für die sächsischen und generell für die ostdeutschen Industriestandorte, strategisch 
+ohnehin günstig zwischen West-, Südost- und Osteuropa gelegen, ist eine optimale Einbindung 
+in diese Netzwerke von zentraler Bedeutung.
+
+Forscher der Eisenbahnbetriebswissenschaften an der TU Dresden entwickelten hierfür zunächst 
+theoretische Lösungsansätze, die nun in der Praxis umgesetzt werden.
+
+Am Beispiel des Industriestandortes Schwarzheide untersuchten sie, welche Eisenbahn-Infrastruktur 
+benötigt wird, um den Standort bestmöglich an das internationale Transport-Netzwerk anzuschließen, 
+wie vorhandene Infrastrukturen effektiver genutzt und durch welches Betriebskonzept Güter 
+schneller, wirtschaftlicher und damit kundenorientierter transportiert werden können.
+
+Die in der Studie der Dresdner Eisenbahnbetriebswissenschaftler vorgeschlagenen Maßnahmen zur 
+Verbesserung der Logistik und Betriebsführung der Eisenbahn werden derzeit realisiert.
+
+Beispielsweise wird die Infrastruktur auf dem Gelände der BASF sowie des Bahnhofs Ruhland an 
+die neuen Erfordernisse angepasst, Gleise werden verlängert, die Stellwerktechnik modernisiert 
+und die Weichenstruktur verändert.
+
+Damit gelang es den Wissenschaftlern, durch ihr praxisorientiertes Forschungsprojekt dazu 
+beizutragen, die Wirtschaftlichkeit der Verkehrswege zu verbessern, vorhandene Verkehrswege 
+zu erhalten, ostdeutsche Standorte durch die Einbindung in internationale Logistikketten 
+attraktiver zu machen, neuen Verkehr auf die Schiene zu verlagern, und damit die Wirtschaft 
+und den Umweltschutz zu fördern.
+
+Die Methoden, die in die Erstellung des neuen Konzepts einflossen, werden ständig weiterentwickelt, 
+verbessert und zunehmend für eine fachübergreifende Zusammenarbeit bereitgestellt.
+
+Anlässlich des 125jährigen Jubiläums der Eisenbahnbetriebslehre in Dresden findet am 21./22. Februar 
+2008 ein internationaler Fachkongress mit dem Thema "Eisenbahnbetrieb - Chancen und Herausforderungen 
+für Wissenschaft und Praxis" statt.
+
+Dieser Fachkongress hat das Ziel, die Verbindung von Eisenbahnbetrieb und Logistik in gemeinsamer 
+Forschung künftig noch enger auszugestalten, um auch auf diesem Weg weitere Vorteile für Industriekunden 
+und für die Fahrgäste im Schienen-Personenverkehr zu erschließen.
+
+Die Anmeldung zu dem Kongress ist bis zum 8. Februar 2008 per Post, Fax oder E-Mail möglich.
+}}}

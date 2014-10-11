@@ -1,0 +1,10 @@
+;create WikiPage views
+;{{{
+
+((defn wiki []
+  (handle "wiki"
+   (fn []
+     (if (.startsWith (.getPathInfo request) "/wiki/" )
+      (fetch-url (str "http://mindbroker.de/wiki/" (.substring (.getPathInfo request) 6) "?skin=raw"))))
+   "")))
+;}}}

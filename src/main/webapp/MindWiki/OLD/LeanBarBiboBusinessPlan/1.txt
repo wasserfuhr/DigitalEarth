@@ -1,0 +1,19 @@
+__Bezeichnung der Idee__:
+LeanBarBibo
+
+Beschreibung der Idee:
+Verbreitung des Wissens zu Lean Thinking durch Etablierung einer öffentlichen LeanThinking-Bibliothek in der Stadt Dresden. Das angeschlossene Cafe dient der Verköstigung und Durchführung von Lean-Workshops/-Sessions.
+
+__Zu lösende Probleme__:
+Nachhaltige Verbesserung von Prozess- und Organisationsabläufen innerhalb von Unternehmen und Institutionen
+
+__Anwendungsfelder beim Endverbrauche__r:
+- Durchlaufverkürzung von öffentlichen Planungsaufgaben
+- Integration als ActionLearning in universitäre Ausbildung
+- Best Practice-Ort für Unternehmen
+- Allgemeines Vermitteln von entsprechendem Wissen an Interessierte
+
+__Weitere Forschungsaktivitäten__:
+- Organisationspsychologie
+- LargeScaleChange
+- Theorie U

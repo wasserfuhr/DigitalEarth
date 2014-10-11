@@ -1,0 +1,2 @@
+* InterWiki: [WikiPedia:Bekenstein_bound]
+* NamedAfter: JacobBekenstein

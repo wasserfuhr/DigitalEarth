@@ -1,0 +1,11 @@
+Bisherige Käufe im MindShop:
+
+||On     ||Product         ||Sold by      ||KundIn          ||# ||Price||Currency
+|20090906|LockCoupon       |LockSchuppenAg|RainerWasserfuhr |  1|  1|EuRo
+|20090906|LockCoupon       |LockSchuppenAg|HeidiGallinat    |  1| 20|EuRo
+|20090904|LockSchuppenVisit|LockSchuppenAg|IrisSchilke      |  1|  5|EuRo
+|20090904|LockSchuppenVisit|LockSchuppenAg|ThiemoMaettig    |  1|  5|EuRo
+|20090904|LockSchuppenVisit|LockSchuppenAg|RaikFischer      |  1|  5|EuRo
+|20090904|LockSchuppenVisit|LockSchuppenAg|MarcelBoehme     |  1|  5|EuRo
+
+Unsere UmsatzPrognose.

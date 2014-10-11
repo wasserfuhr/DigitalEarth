@@ -1,0 +1,7 @@
+* IsA: UnternehmensGruender
+* BornIn: 1971
+* BirthDay: 03-21
+* MindSkill: VentureCapital
+|[XingLe:Mehrdad_Piroozram]
+|[TwittEr:piroozram]
+|[FaceBook:584096551]

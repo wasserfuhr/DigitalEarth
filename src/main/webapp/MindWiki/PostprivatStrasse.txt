@@ -1,0 +1,3 @@
+* IsA: MindStreet
+* PartOf: StadtKoeln
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/23575270

@@ -1,0 +1,71 @@
+%%( padding-left: 600px; font-size:90%)
+* integritas
+* perfectio
+* consonantia
+* commensuratio
+* convenientia
+* claritas
+%%
+
+Die VerFassung der WikiBasiert'en digitalen Republik NooPolis:
+(Bei weiteren Fragen: NooPolisFaq)
+
+!Grundsatz
+* Alle BuergerInnen haben FreiHeit.
+
+!Bürgerstatus
+* Alle BuergerInnen haben genau eine MindId und damit ein Login.
+* Mit Erwerb der MindId wird der Bürgerstatus erworben und die VerFassung anerkannt.
+* Alle BuergerInnen sind PerDu.
+* Alle BuergerInnen können neue BuergerInnen für die NextId vorschlagen. RainerWasserfuhr wird dann AchtSam die neuen BuergerInnen einladen.
+* Alle Bürger sind eingewoben in ein WebOfTrust. Neben der reinen Identifikation können sie damit anderen Bürgern ihr Vertrauen aussprechen.
+* Alle BuergerInnen verfügen dazu über 100 Trust-Points, die sie beliebigen anderen BuergerInnen zuordnen können.
+* Bei Registrierung muss der Einladende den bürgerlichen Vor- und Zunamen und das Geschlecht des Eingeladenen angeben.
+* Eine spätere Namensänderung bedarf der Verifikation durch mindestens zwei Trustees.
+* Bei LebensEnde von BuergerInnen gilt deren LastWill. Hier können sie ihr virtuelles Vermögen vererben.
+* Falls kein LastWill erklärt wurde, geht das virtuelle VerMoegen auf dem BankKonto an die PieschenBank.
+
+!Verfassung und Rechtswesen
+* Alle Regeln der VerFassung und Seiten des Wiki sind veränderbar.
+* Keine Regeländerung gilt rückwirkend.
+* Es gilt das AlleAugen-Prinzip.
+* Änderungen der VerFassung gelten als von allen BuergerInnen angenommen, wenn kein Bürger der Änderung binnen Veto-Frist durch Editieren im Wiki widerspricht.
+* Die VetoFrist beträgt 3 Tage. Falls ein Bürger länger AbWesend ist, kann er die Frist während der Abwesenheit auf 14 Tage erhöhen.
+* Bei Meinungsverschiedenheiten kann das KabiNett ein MindVote unter allen BuergerInnen beschließen.
+* Beim MindVote entscheiden alle BuergerInnen, deren BankKonto mindestens 1000 KayGroschen aufweist. Es entscheidet dabei die einfache Mehrheit.
+* Jeder Bürger nimmt einmal pro Monat an der UrWahl teil.
+* Bei Verletzung der VerFassung können BuergerInnen die Verhängung von Ordnungsgeldern oder die Beschränkung der FreiHeit von BuergerInnen beantragen.
+* Der MindCourt trifft ein Urteil per MindVote aller BuergerInnen.
+* Die FreiHeit von BuergerInnen kann nur eingeschränkt werden durch ein Urteil des MindCourt
+* Alle unter unseren Domains veröffentlichten Texte unterliegen der GnuFdl. 
+
+!Wirtschaft
+* NooPolis ist eine VirtuelleOekonomie. 
+* Die Währung von NooPolis sind KayGroschen. 
+* Die PieschenBank hütet sie.
+* Die Geldmenge beträgt 10.000.000 KayGroschen.
+* BuergerInnen haben ein BankKonto.
+* Alle Bewegungen auf einem BankKonto sind für alle BuergerInnen einsehbar.
+* Die Einnahmen und Ausgaben von NooPolis werden im HausHalt geregelt. 
+* NooPolis hat einen WirkMarkt, auf dem Bürger und UnterNehmen Leistungen nachfragen können.
+* NooPolis hat einen MindShop, auf dem Bürger und UnterNehmen Leistungen anbieten können.
+* Leistungen werden in KayGroschen bezahlt.
+* Auf dem HoheitsGebiet tätige Unternehmen sind im HandelsRegister gelistet.
+* Der MindShare jedes Unternehmens kann auf dem MindFloor gehandelt werden.
+* MindBroker ist ein VolksEigenerBetrieb auf dem HoheitsGebiet von NooPolis.
+* MindBroker ist der E-Government-ServiceProvider von NooPolis und Hüter der MindIds.
+* NooPolis fördert regionale Wirtschaftssysteme.
+* Für überregionale Zahlungsflüsse wird eine TobinTax erhoben.
+* BuergerInnen können auf ihrer Profilseite ein TobinTaxVote abgeben.
+* Falls BuergerInnen keine TobinTaxVote abgeben, wird ihr TobinTaxVote als "0%" angenommen.
+* Die Höhe der aktuellen TobinTax errechnet sich aus dem arithmetische Mittel aller TobinTaxVote's.
+
+!Regierung
+* NooPolis ist eine Republik mit dem LeaderShip-Modell des PrimusInterPares.
+* Alle BuergerInnen wählen einmal pro Jahr per KabiNettWahl das KabiNett von NooPolis.
+* Das KabiNett führt die laufenden Geschäfte von NooPolis.
+* Alle Mitglieder des KabiNett lesen ImmerWieder spätestens alle 3 Tage den KabiNettChat.
+* Mindestens einmal pro Woche lädt ein Mitglied des Kabinett zur SprechStunde ein.
+* Das KabiNett versendet einmal pro Monat den NewsLetter.
+* BuergerInnen müssen den Empfang des NewsLetter per EinSchreiben bestätigen.
+* Wenn BuergerInnen drei mal in Folge den Empfang des NewsLetters nicht bestätigen, erlischt der Bürgerstatus und das VerMoegen auf dem BankKonto geht an die PieschenBank.

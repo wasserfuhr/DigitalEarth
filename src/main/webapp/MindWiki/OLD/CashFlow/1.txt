@@ -1,0 +1,13 @@
+|20101101|-|1500|EuRo       |MindMove ShangHai
+|20101101|-|1200|UsDollar   |IsWc
+|20100320|-|  60|EuRo       |HutBall
+|20100315|-| 120|EuRo       |UmZug
+|20100301|+| 980|EuRo       |BankRaub
+|20100301|-|  55|EuRo       |GarageOne
+|20100301|-| 120|EuRo       |DoppelRoom
+|20100221|-| 300|EuRo       |XX
+|20100215|-|  15|EuRo       |WarenKorb
+|20100212|-|  15|EuRo       |WarenKorb
+|20100209|-|  15|EuRo       |WarenKorb
+|20100209|-|   7|EuRo       |DvbAg
+|20100206|-|  15|EuRo       |WarenKorb

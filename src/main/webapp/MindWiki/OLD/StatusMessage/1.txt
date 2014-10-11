@@ -1,0 +1,8 @@
+MindVote: Wo sollen MindBroker ihre StatusMessage posten?
+
+* Skype
+* Twitter
+* Jabber
+* AgWiki
+
+???

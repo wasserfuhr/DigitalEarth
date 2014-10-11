@@ -1,0 +1,58 @@
+* InterWiki: [DeWikiPedia:Virtual_International_Authority_File]
+* HomePage: http://www.d-nb.de/wir/projekte/viaf_info.htm
+
+ToDo: SameAs:
+* JacquesHerbrand: http://viaf.org/viaf/61912155 http://viaf.org/viaf/24739214
+* MarkusWasserfuhr: http://viaf.org/viaf/40492973 http://viaf.org/viaf/49022351
+* OliverGassner: http://viaf.org/viaf/28143094 http://viaf.org/viaf/28173695
+* RayKurzweil: http://viaf.org/viaf/62387199 http://viaf.org/viaf/27286496
+* ZigaTurk: http://viaf.org/viaf/80976012 http://viaf.org/viaf/16913270
+
+* http://viaf.org/viaf/15 LouisAntoineDePardaillanDeGondrin
+* http://viaf.org/viaf/27 Cauna, Bernard Augustin ...
+* http://viaf.org/viaf/36 CharlesDeNeufville
+* http://viaf.org/viaf/43 FelixPlatel
+* http://viaf.org/viaf/62 TommasoValguarnera
+* http://viaf.org/viaf/89 Do Van Hoanh
+* http://viaf.org/viaf/91 FelixMoustier
+* http://viaf.org/viaf/109 EnriqueBeck
+* http://viaf.org/viaf/113 De Santis, Angelo
+* http://viaf.org/viaf/121 Flory A.
+* http://viaf.org/viaf/132 Trúc Viên
+* http://viaf.org/viaf/145 Bang Jakob  Peter
+* http://viaf.org/viaf/150 Minard Paul 1858-1941
+* http://viaf.org/viaf/166 Pagi Antoine 1690?-17..
+* http://viaf.org/viaf/178 Sell, Karl, 1845-1914
+* http://viaf.org/viaf/184 Collard Maurice 17..-18..
+* http://viaf.org/viaf/197 Deve?ria A.
+* http://viaf.org/viaf/204 Kofler, Leo, 1837-1908
+* http://viaf.org/viaf/215 Raphae?l 18..-18..
+* http://viaf.org/viaf/227 Bode Wilhelm Julius Ludwig 1799-1854
+* http://viaf.org/viaf/236 Candlot, E. (Edouard), b. 1858
+* http://viaf.org/viaf/243 Canet, Louis
+* http://viaf.org/viaf/262 Dubail Rene? 18..-18..
+* http://viaf.org/viaf/270 Jouanny Charles
+* http://viaf.org/viaf/289 Mace? Gilles 1586-1637
+* http://viaf.org/viaf/291 Mayer Simon 1820-1887
+* http://viaf.org/viaf/301 Michel Eric 18..-19..
+* http://viaf.org/viaf/317 Mulgan, Alan Edward
+* http://viaf.org/viaf/329 Preux Jules 18..-18..
+* http://viaf.org/viaf/338 Quincieu E.
+* http://viaf.org/viaf/340 Thayer, R. H. (Rufus H.)
+* http://viaf.org/viaf/355 Tollet Tony 1857-1953
+* http://viaf.org/viaf/364 Cuinet, Vital
+* http://viaf.org/viaf/372 Haime Auguste 1790-1877
+* http://viaf.org/viaf/386 Neri, Achille, 1842-1925
+* http://viaf.org/viaf/393 Nguye?n Huu Kim
+* http://viaf.org/viaf/408 Page?zy Jules 18..-19..?
+* http://viaf.org/viaf/412 Piazza, Marco
+* http://viaf.org/viaf/420 Thein Alfred
+* http://viaf.org/viaf/431 Vial Camille 1830-1918
+* http://viaf.org/viaf/1000004 KarlEble
+* http://viaf.org/viaf/10000006 LanteaumeDeRomieu
+* http://viaf.org/viaf/20000007 NicolasSendrier
+* http://viaf.org/viaf/29546132 LotharZoegner
+* http://viaf.org/viaf/29546145 NiklasLuhmann
+* http://viaf.org/viaf/29546150 AlexandreCabral
+* http://viaf.org/viaf/39467397 BenGoertzel
+* http://viaf.org/viaf/52481432 JesusChrist

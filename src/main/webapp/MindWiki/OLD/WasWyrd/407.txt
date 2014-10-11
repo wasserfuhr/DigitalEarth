@@ -1,0 +1,101 @@
+Unsere Termine:
+
+(Termine haben ein "von" und ein "bis". Dinge die nur ein "bis" haben sind MindLine)
+
+||Wann        ||Bis ||       ||Wo           ||Was                     ||Wer (OrderedByShares)
+|20071228     |     |        |HamBurg       |Urlaub                   |ChristineSchlinck,NN
+|20071229     |     |        |OstSee        |JahrWechsel              |ChristineSchlinck,NN
+|20071231     |     |        |DeutschLand   |AnSprache                |AngelaMerkel
+|20080101     |     |        |DeutschLand   |Feiertag                 |
+|20080112     |     |        |GrueterichEins|Feier                    |RainerWasserfuhr?JosefBuechel?WernerWasserfuhr,AgnesWasserfuhr
+|20080118     |     |        |SemperOper    |SemperOpernBall          |UdoJuergens
+|20080120     |     |        |StadtMuenchen |DLD                      |RainerWasserfuhr?,HeikoHebig,HubertBurda?
+|20080121     |     |        |StadtMuenchen |DLD                      |RainerWasserfuhr?,HeikoHebig,HubertBurda?
+|20080122     |     |        |StadtMuenchen |DLD                      |RainerWasserfuhr?,HeikoHebig,HubertBurda?
+|20080126     |     |        |FeuerBach     |FeuerMind                |HeikeRibke,MarcoRibke,PeSt, u.a. und hoffentlich viele MindBroker
+|20080131:1111|     |        |StadtKoeln    |Höhepunkt der Säsong     |RainerWasserfuhr
+|200801xx     |     |        |WirkZentrum   |SingularCamp             |RainerWasserfuhr, YvonneSchubert
+|200801xx     |     |        |StadtDresden  |MindSalon                |RainerWasserfuhr
+|20080202     |     |        |KlagenFurt    |BarCamp                  |RainerWasserfuhr?, UteMoritz
+|20080203     |     |        |KlagenFurt    |BarCamp                  |RainerWasserfuhr?, UteMoritz
+|20080206     |     |        |StadtGenf     |lift                     |RainerWasserfuhr?
+|20080207     |     |        |StadtGenf     |lift                     |RainerWasserfuhr?
+|20080208     |     |        |StadtGenf     |lift                     |RainerWasserfuhr?
+|200803       |     |        |StadtBerlin   |WG-Besichtigung          |RainerWasserfuhr,RicardaDHerbrand
+|20080402     |     |        |StadtBerlin   |re:publica               |RainerWasserfuhr?,MarkusBeckedahl
+|20080403     |     |        |StadtBerlin   |re:publica               |RainerWasserfuhr?,MarkusBeckedahl
+|20080404     |     |        |StadtBerlin   |re:publica               |RainerWasserfuhr?,MarkusBeckedah
+|20080601     |     |        |ZeppelinUniversity|BarCamp              |MartinKoser?
+|20080923     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080924     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080925     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080925     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080926     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080926     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080927     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|200901       |     |        |Washington    |InAuguration             |BarackObama?,HillaryClinton?
+
+!Was War:
+||Wann        ||Bis ||       ||Wo           ||Was                     ||Wer
+|20071227     |     |        |StadtBerlin   |ZwoVierCcc               |TimPritlove
+|20071227     |     |        |Brocken       |Urlaub                   |ChristineSchlinck,NN
+|20071226     |     |        |DeutschLand   |Feiertag                 |
+|20071225     |     |        |DeutschLand   |AnSprache                |HorstKoehler
+|20071225     |     |        |DeutschLand   |Feiertag                 |
+|20071222:2x  |     |        |OrtsteilPieschen|BdSm-Party             |
+|20071222:2x  |     |        |NeuStadt      |MitterMind               |SebastianMitter
+|20071221:1400|     |        |WirkZentrum   |ReineMachFee             |RainerWasserfuhr,IndrigaPlunksnyte
+|20071220:2000|     |        |RasKolNiKoff  |InNewYork-Lesung         |RainerWasserfuhr,NN
+|20071220:2000|     |        |HamBurg       |EdelBild-Glühwein        |AnjaHornke
+|20071218:1400|     |        |DeutschLand   |Daumen drücken           |RainerWasserfuhr
+|20071217:1645|     |        |SchwarzMarktCafe|Armdrücken             |RainerWasserfuhr,YvonneSchubert
+|20071214:1930|     |        |AuraRaum      |NN.                      |YvonneSchubert,JensWegerle
+|20071214     |     |        |EssLingen     |Feier BamAg              |ChristineSchlinck
+|20071112:2030|     |        |WirkZentrum   |RealFilm sneak           |RainerWasserfuhr,NN
+|20071212     |     |        |StadtParis    |LeWebTrois               |LoicLeMeur
+|20071211     |     |        |StadtParis    |LeWebTrois               |LoicLeMeur
+|20071205:1000|     |        |BallhausWatzke|LuftBallons              |NN
+|20071204:1800|     |        |StadtDresden  |EhrenAmt                 |YvonneSchubert
+|20071203:1400|     |        |LeipZig       |Vortrag                  |GunterDueck
+|20071130     |     |        |Böblingen     |Konzert                  |MarilynManson
+|20071130:1930|     |        |AuraRaum      |Identitätsmanagement     |YvonneSchubert,JensWegerle
+|20071130:1630|     |        |WeihnachtsMarkt|XingLe-Glühwein         |YvonneSchubert
+|20071129:1800|     |        |StadtDresden  |privat                   |YvonneSchubert
+|20071128     |     |        |StadtDresden  |InnovationsForum         |
+|20071128     |     |        |StadtDresden  |Poesie-Event             |NicoleZiesche
+|20071126:1900|     |        |StadtKoeln    |WebMontag                |
+|20071123:1930|     |        |AuraRaum      |Literarischer Abend      |YvonneSchubert,JensWegerle
+|20071122:2030|     |        |StadtDresden  |Projektgespräch          |YvonneSchubert
+|20071121     |     |        |              |Feiertag                 |
+|20071119:1900|     |        |StadtJena     |WebMontag                |RicardaDHerbrand?
+|20071120:1200|     |        |WirkZentrum   |ReineMachFee             |YvonneSchubert, IngridaPlunksnyte
+|20071118     |     |        |              |Freizeit                 |YvonneSchubert
+|20071117     |     |        |              |Freizeit                 |YvonneSchubert
+|20071116:1930|     |cancelled|AuraRaum      |Literarischer Abend      |YvonneSchubert,JensWegerle
+|20071115:1900|     |        |SeaLife       |DresdenNetworking        |YvonneSchubert,EvaLubas?
+|20071114     |1123 |        |MaDeira       |BusinessTrip             |RainerWasserfuhr,ChristineSchlinck
+|20071114     |     |        |StadtDresden  |Vernissage   
+|20071113:1500|     |        |StadtDresden  |Vorstellungsgespräch     |YvonneSchubert
+|20071112:1200|     |        |WirkZentrum   |ReineMachFee             |YvonneSchubert, IngridaPlunksnyte
+|20071111     |     |        |StadtDresden  |DesignTagKonferenzZentrum|ChristineSchlinck
+|20071111:1111|     |        |StadtKoeln    |Start in die Säsong      |
+|20071111     |     |        |              |Freizeit                 |YvonneSchubert
+|20071110     |     |        |StadtDresden  |LifePerformer-Zentrum    |ChristineSchlinck
+|20071110     |     |        |              |Freizeit                 |YvonneSchubert
+|20071110     |     |CANCELED|StadtPrag     |PostAmt-Betriebsausflow  |
+|20071109     |     |CANCELED|StadtPrag     |PostAmt-Betriebsausflow  |
+|20071107     |     |        |StadtBerlin   |OML                      |RainerWasserfuhr?
+|20071107     |     |        |StadtBerlin   |GirlGeekDinner           |NicoleSimon
+|20071106:1830|     |        |TuDresden     |GruenderFoyer            |RainerWasserfuhr,FrSc
+|20071106:1800|     |        |StadtDresden  |privat                   |YvonneSchubert
+|20071104     |     |        |StadtBerlin   |BarCampBerlinZwo         |RainerWasserfuhr,ChristineSchlinck,UteMoritz und viele andere BuergerInnen
+|20071103:1000|     |        |StadtDresden  |2. WEC-Brunch im El Perro|
+|20071103     |     |        |StadtBerlin   |BarCampBerlinZwo         |RainerWasserfuhr,ChristineSchlinck und viele andere BuergerInnen
+|20071102:2300|     |CANCELED|StadtDresden  |RussenDisko              |
+|20071102:2000|     |        |SemperOper    |MahlersZweite            |FabioLuisi,CamillaNylund,AnkeVondung
+|20071102:2000|     |        |StadtDresden  |Lesung                   |WladimirKaminer
+|20071102:1930|     |        |AuraRaum      |Person u. Persönlichkeit |YvonneSchubert,JensWegerle
+|20071101:1900|     |        |WirkZentrum   |WikiWeiberZwo            |RainerWasserfuhr,YvonneSchubert,ChristineSchlinck, JensWegerle,IrisSchilke,KatharinaKuehnel,EvaLubas
+|20071101:1200|     |        |WirkZentrum   |ReineMachFee             |YvonneSchubert, IngridaPlunksnyte
+
+Ältere Sachen sind WasWar.

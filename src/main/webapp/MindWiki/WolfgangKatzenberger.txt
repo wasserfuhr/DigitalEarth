@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* HomePage: http://www.donau-uni.ac.at/de/universitaet/whois/03554/
+* HasTalked: SteffenBecker

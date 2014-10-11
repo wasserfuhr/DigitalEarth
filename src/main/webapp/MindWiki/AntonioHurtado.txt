@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* ViAf: http://viaf.org/viaf/15199795
+* HomePage: http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_maschinenwesen/iet/wket/team/hurtado
+* MindSkill: EastingHouse

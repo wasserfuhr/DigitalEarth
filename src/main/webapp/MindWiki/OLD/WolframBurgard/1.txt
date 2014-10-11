@@ -1,0 +1,4 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Wolfram_Burgard]
+* JahrGang: 1961
+* MindSkill: RobOt

@@ -1,0 +1,14 @@
+Definition von "AlphaTester": Leute den man vertrauen kann, dass sie ggf. Vertraulichkeit über das Projekt bewahren.
+
+Vorschläge:
+||Vorname||Nachname||m/f||Einladungsmail||Einlader||Xing
+|Dimitri|Uwarov|m| |rainer|
+|Lisanne|Malessa|m| |daniel|
+|Martin|Röll|m|martin@roell.net|rainer|https://www.xing.com/profile/Martin_Roell/ 
+|Matthias|Kehrer|m|matthias.kehrer@de.ibm.com|daniel|https://www.xing.com/profile/Matthias_Kehrer/ 
+|Oliver|Schmitt|m| |daniel|
+|Oliver|Gassner|m|kontakt@carpe.com|rainer|https://www.xing.com/profile/Oliver_Gassner/ 
+|Tim|Bonnemann|m| |rainer |
+|Uwe|Angerstein|m| |rainer|
+|Yvonne|Schubert|f|info@yvonneschubert.com|rainer|https://www.xing.com/profile/Yvonne_Schubert/ 
+

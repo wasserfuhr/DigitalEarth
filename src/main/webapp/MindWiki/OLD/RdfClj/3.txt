@@ -1,0 +1,27 @@
+;
+;
+;{{{
+(do
+ (.setContentType response "text/n3")
+ (let 
+  [wikiName (.substring (.getRequestURI request) (.length "/rdf/")) ; "RainerWasserfuhr"
+   p (fetch-url (str "http://mindbroker.de/wiki/" wikiName "?skin=raw"))
+   l (line-seq (new java.io.LineNumberReader (new java.io.StringReader p)))
+   f (re-find #"(\* ([A-Z]+[a-z]+[A-Z]+[a-zA-Z0-9]*):)+" p)
+  ]
+  ((defn props [x prop account]
+    (if (not-empty x)
+      (if prop
+        (let [
+           reg #"\* ([A-Z]+[a-z]+[A-Z]+[a-zA-Z0-9]*): ([^$]*)"
+           fl (re-find reg (first x))
+          ]
+          (if (not-empty (second fl))
+            (str
+              (second fl) ":" (get fl 2) ".\n" 
+              (props (rest x) true false))
+            (props (rest x) false true))
+        ))))
+   l true false))
+)
+;}}}

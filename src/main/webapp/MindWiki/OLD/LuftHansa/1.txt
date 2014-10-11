@@ -1,0 +1,7 @@
+* MindTags: EnterPrise
+* InterWiki: [DeWikiPedia:Lufthansa], [OpenCyc:Lufthansa-CommercialOrganization]
+* IsIn: DE0008232125
+
+AirLine.
+
+noch kein FlightWiki?

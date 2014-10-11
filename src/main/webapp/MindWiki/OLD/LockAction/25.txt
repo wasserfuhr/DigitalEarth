@@ -1,0 +1,67 @@
+__At present a project list__
+
+Individual ToDo list for contributors, that should be cleared every week
+
+NextAction's and NextProject's for LockSchuppen:
+* UpLoad SingularTalk (RaLi)
+* find InVest'ors (Project) - what is the final stage? what are the next actions?
+** search InVest'or who are interested in CoWorking (always a verb!)
+* find SponSor's (ProJect)
+** 
+* bring BusinessIdeas into existance (to the customer)
+** detail business ideas
+** organize meeting for learning about new ideas
+* RaLi: engage student (internship) into building up logo for LockSchuppen
+** find students on Twitter who are based in Dresden
+* RaLi: create XingEvent for next LockSchuppenTalk
+** 
+* RaWa: create a BuildingModel for GoogleEarth
+* RaLi: establish regular LockTalk (at CafeNeustadt)
+* write LockFutureSax (ongoing with help from PanuPihlasvaara)
+* define ValueProposition
+* PreDict MarketCap
+* sign a ConTract with DbServicesImmo to CLeanTheLockSchuppen (request sent, waiting for response)
+* make second FlickEr-FlashMob
+* make an appointment with GehAcht
+* inform IndustrieKultur on project, write an article
+* win UrbanSplash and other architectual offices as partners for co-operation  
+* ConNect with other TheHub's (such as [HubKingsCross|http://twitter.com/hubkingscross])
+* plant the LockRebe
+* cleanup outdoor facilities (WorkForShares)
+* RaWa: create a BuildingModel for SecondLife
+* get electricity from the DreWag
+* get MindWater from the DreWag
+* find Refrigerator
+* find (lean) office furniture (table, 2 chairs)
+* find sponsor for WiFi coverage
+* find Toilet (initially one ToiToi container)
+* do InAuguration of the SingularLightHouse
+* do InAuguration of the TurnTableOne-PlayGround by JfSchlinck
+* have a MindParty
+* create a PhotoSynth demo
+
+Done:
+* letter to AgenturFuerArbeit (sent on 09.07.2009)
+* integrate DenkmalschutzAmt (visit to LockSchuppen at 11.06.2009, see WikiLender)
+* RaLi/RaWa: put proposal for DbServicesImmo into action (sent out to DeutscheBahn in Leipzig 30.05.2009 via mail and email)
+* RaLi: Add as FlickEr ConTact's:
+** http://www.flickr.com/people/27168124@N02/
+** http://www.flickr.com/photos/oliverg/
+** http://www.flickr.com/photos/22454790@N05/ (YvonneSchubert )
+** http://www.flickr.com/photos/kujawa0708/
+** http://www.flickr.com/photos/elbflorenz/
+** http://www.flickr.com/photos/utemoritz/
+** http://www.flickr.com/photos/daniele85/
+* RaLi: decide about StockSplit
+* RaLi: added a 1 share offer for 512 KaGr for SimonKoeppl to LockSchuppenAg OrderBook
+* RaLi: ConNect'ed with AnitaSeidler, one of the founders of HubMadrid
+* RaLi: payed BegruessungsGeld to HeGa and CorneliaHeinz
+* made initial survey of the exterior site
+* made an appointment with DbServicesImmo
+* agreed on the LockContract for LockSchuppenAg
+* founded the LockSchuppenAg
+* made inside visit with employee MaSc of DbServicesImmo
+* ConTact'ed GehAcht
+* Subscribed to GehAcht NewsLetter
+* first LockFlashMob
+* made an InitialPublicOffering for LockSchuppenAg

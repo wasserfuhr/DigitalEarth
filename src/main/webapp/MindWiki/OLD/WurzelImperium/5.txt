@@ -1,0 +1,13 @@
+* InterWiki: [DeWikiPedia:Wurzelimperium]
+* HomePage: http://www.wurzelimperium.de/
+
+||Pflanze  ||n||min||wT||ROI[1]
+|Karotte   |2|10|0,06
+|Salat     |2|14|0,08
+|Gurke     |4|40|0,14
+|Radieschen|3|50|0,22
+|Erdbeere  |4|120|0,44
+|Tomate    |4|140|0,50
+[#1]wT per day
+
+http://spreadsheets.google.com/pub?key=tWw0Bc6NX9bydhOplJYcUVA

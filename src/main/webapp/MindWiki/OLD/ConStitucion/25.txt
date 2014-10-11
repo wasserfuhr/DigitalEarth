@@ -1,0 +1,76 @@
+* MindQuote: integritas - perfectio - consonantia - commensuratio - convenientia - claritas
+* WeltSprache: VerFassung
+* SprachWelt: es
+
+!Principio
+* Todos los CiudaDanos tienen LiberTad. 
+
+!Status del ciudadano
+* Todos los CiudaDanos tienen exactamente un MindId y con esto un login.
+* Se gana el status del ciudadano con la adquisición del MindId y con esto se reconoce la ConStitucion.
+* Todos los ciudadanos se TuTean
+* Todos los CiudaDanos se entretejen en un WebOfTrust. Con esto se puede identificarse y se puede expresar la confianza a un CiudaDano.
+* Todos los CiudaDanos pueden invitar nuevos CiudaDanos.
+*Antes de la invitación el ciudadano que invitar tiene que crear un página de perfil en el MindWiki por el nuevo ciudadano.
+*En la invitación el ciudadano que invitar tiene que indicar el nombre, apellidos y el sexo del nuevo ciudadano.
+*En la página de perfil el nombre y apellidos se escrito en CamelCase. Las excepciones permitidas son:
+**Nombre abreviado (por ejemplo Tina en lugar Martina)
+**Nombre artístico, si inscrito in el documento de identidad o el pasaporte (por ejemplo AlbanNikolaiHerbst)
+*A una modificación de nombre posterior (por ejemplo ContratoMatrimonial) tienen que aprobar por lo menos más dos CiudaDanos 
+*Cuando un CiudaDano llega al TerminoDeLaVida su LastWill (testamento) entra en vigor. Aquí se puede dejar su ForTuna virtual en herencia.
+*Si no se expresaba un LastWill, se pasa la ForTuna virtual en la CuentaBancaria a la PieschenBank
+
+!De la ConStitucion y del Ordenamiento jurídico
+*Se puede modficar todos las reglas da la ConStitucion y las páginas de MindWiki.
+*No modificación entra en vigor con efectos retroactivos
+*El principio de TodosOjos esta en vigor.
+*Todos los CiudaDanos aprueben modificaciones de ConStitucion, si no ciudadano contradice las modificaciones para editar en el wiki mientras el plazo de veto.
+*El PlazoDeVeto dura tres días. Si un ciudadano esta ausente mucho tiempo, ello puede prolongar el plazo a 14 días durante su AuSencia.
+*Con disparidades de opiniones el GabiNete puede decidir un MindVote bajo todos los CiudaDanos.
+*Con MindVote deciden todos los CiudaDanos cuya CuentaBancaria tiene por lo menos 1000 KayGroschen.
+*Cado uno ciudadano participa en una EleccionDePrincipio una vez por mes
+*Con infracción de ConStitucion los CiudaDanos pueden solicitar la imposición de multas o la restricción de LiberTad de los CiudaDanos.
+* El MindCourt toma una decisión con MindVote de todos los CiudaDanos.
+* Se puede solo restringe la LiberTad de los CiudaDanos con una sentencia del MindCourt.
+* Todos los textos que se publicó en nuestros dominios son sujeto de la licencia de documentación libre GNU (GNU Free Documentation License, GnuFdl)
+
+
+!De la Economía
+
+*NooPolis es una EconomiaVirtual
+*La moneda de NooPolis son KayGroschen
+*La PieschenBank (banca de emision) los cuida.
+*La masa monetaria asciende a 10.000.000 KayGroschen,
+*CiudaDanos tienen una CuentaBancaria
+*Todos los movimientos en una CuentaBancaria son visible para todos los CiudaDanos.
+*Los ingresos y los gastos de NooPolis son reglados en el PresuPuesto.
+*NooPolis tiene un MercadoDeTrabajoVoluntario en el que los ciudadanos y EmPresas pueden demandar rendimientos.
+*NooPolis tiene un MindShop en el que los CiudaDanos y EmPresas pueden ofertar rendimientos.
+*Rendimientos se pagan en KayGroschen
+*Empresas activos en el TerritorioDeSoberania estan inscribo en el RegistroMercantil.
+*El MindShare de cada empresa puede comerciarse en el MindFloor.
+*MindBroker es una EmpresaColectiva (un koljos) en el TerritorioDeSoberania de NooPolis.
+*MindBroker es el E-Government ServiceProvider de NooPolis y guardian de los MindIds
+*NooPolis fomenta régimen económico regional
+*CiudaDanos pueden dar un TobinTaxVote en su pagina de perfil.
+*En servicio de pagos supraregional se impone un TobinTax.
+*Si los CiudaDanos no dan un TobinTaxVote, un TobinTaxVote de “0%” esta supuesto.
+*El importe del TobinTax actual se calcula como el promedio de todos TobinTaxVotes
+*Transacciones en la CuentaBancaria, el MindFloor, el IpoKurs y NuestroPresupuesto se quedan almacenado hasta el FinDeVida de NooPolis.
+*El FinDeVida de NooPolis es el 20081231.
+
+
+! Del Gobierno
+
+* NooPolis es una republica con el modelo de LeaderShip del PrimusInterPares
+* Todos los CiudaDanos votan una vez por ano el GabiNete de NooPolis por EleccionDeGabinete.
+*- El GabiNete lleva los negocios corrientes de NooPolis.
+* Todos los miembros del GabiNete documentan sus acciones futuros (Dolt).
+* Todos los miembros del GabiNete llevan una lista de tareas por hacer, que vuelven a (ImmerWieder –  vuelven a kommen zurück um) cumplir
+* Todos los miembros del GabiNete vuelven a (ImmerWieder –  vuelven a kommen zurück um) leer la charla del gabinete (KabiNettChat), por lo menos todos tres dias.
+* Por lo menos una vez por semana un miembro del Gabinete invita por una HoraDeTutoria 
+* Todos los miembros del GabiNete reciben un pago una vez por mes de 10.000 KayGroschen de la PieschenBank (banco).
+* El GabiNete envia un BoletinDeNoticias una vez por mes.
+* Los CiudaDanos tienen que acusar recibo del BoletinDeNoticias por certificado
+* Si CiudaDanos no acusan recibo del BoletinDeNoticias tres veces seguidas, el status del CiudaDano prescribe y la fortuna pasa a una CuentaBancaria de la PieschenBank.
+

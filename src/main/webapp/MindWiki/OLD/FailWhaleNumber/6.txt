@@ -1,0 +1,17 @@
+The FailWhaleNumber is a little DegreesOfSeparation game similar to the ErdosNumber, BaconNumber or TurkNumber:
+
+
+The FailWhale number is defined as follows:
+* JackDorsey CEO and MindOne of TwittEr has FailWhaleNumber 0
+* the __first 100 followers__ of JackDorsey have FailWhaleNumber 1 (TwittEr shows exactly the 100 first followers on a profile page)
+* the __first 100 followers__ of somebody with FailWhaleNumber 1 has FailWhaleNumber 2
+* etc etc.
+
+Find your degree of separation from JackDorsey:
+
+!RainerWasserfuhr: FailWhaleNumber=4
+* 0: http://twitter.com/jack (follows 422)
+* 1: http://twitter.com/ev (695)
+* 2: http://twitter.com/jerrymichalski (359)
+* 3: http://twitter.com/heiko (512)
+* 4: http://twitter.com/rainer (166)

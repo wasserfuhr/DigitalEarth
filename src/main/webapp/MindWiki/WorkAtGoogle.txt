@@ -1,0 +1,63 @@
+* HomePage: http://www.langreiter.com/space/work-at-google
+
+ChristianLangreiter
+
+* DougLea
+* LarryPage
+* InvertedIndex
+* KrishnaBharat
+* MichaelStonebraker
+* MonikaHenzinger
+* PageRank
+* PeterNorvig
+* UdiManber
+* BarbaraLiskov
+* ConceptualGraphs
+* TextProcessing
+* TerryWinograd
+* ArtificialIntelligence
+* RadonTransform
+* AdvoGato
+* VladimirVapnik
+* HectorGarciaMolina
+* NaturalLanguageProcessing
+* Managing Gigabytes
+* "text clustering"
+* ChristopherManning
+* DanJurafsky
+* PhilipResnik
+* EricBrill
+* ClaireCardie
+* DragomirRadev
+* EllenRiloff
+* AdwaitRatnaparkhi
+* HansUszkoreit
+* AmyWeinberg
+* BonnieDorr
+* IanHWitten
+* RichardSproat
+* BruceSchneier
+* LinearHashing
+* ThomasDietterich
+* SkipList
+* TopicMaps
+* MartiHearst
+* DieterFensel
+* RossQuinlan 
+* SimilarityMeasures
+* SergeyBrin 
+* StefanDecker 
+* WolfgangWahlster
+* LucDeRaedt
+* MachineLearning
+* CiteSeer 
+* StephenWolfram
+* IvanSutherland
+* TopicMap
+* BuddyAllocation
+* MicrosoftResearch
+* YannLeCun 
+* HermannNey 
+* RobPike 
+* KentBeck
+* ErichGamma

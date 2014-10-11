@@ -1,0 +1,3 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Tarkan]
+* BirthDay: 10-17

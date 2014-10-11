@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/c/LucaCardelli
+* HomePage: http://lucacardelli.name/
+
+MicroSoft

@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Randy_Pausch] [LangReiter:Randy+Pausch]
+* BirthDay: 10-23
+* LebensEnde: 2008
+* DbLp: http://dblp.uni-trier.de/rec/pid/p/RandyFPausch
+* HomePage: http://download.srv.cs.cmu.edu/~pausch/
+* PageNumber: 
+* PagePath: LarryPage ... RandyPausch

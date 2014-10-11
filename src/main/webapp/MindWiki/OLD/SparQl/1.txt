@@ -1,0 +1,2 @@
+* HerKunft: "__S__imple __P__rotocol __a__nd __R__DF __Q__uery __L__anguage"
+* InterWiki: [DeWikiPedia:SPARQL]

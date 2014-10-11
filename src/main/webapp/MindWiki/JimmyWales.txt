@@ -1,0 +1,10 @@
+* IsA: WikiMind
+* InterWiki: [DeWikiPedia:Jimmy_Wales] [MeatballWiki:JimmyWales] [WebSeitz:JimmyWales] [WikiWikiWeb:JimmyWales]
+* JahrGang: 1966
+* BirthDay: 08-07
+* DbLp: http://dblp.uni-trier.de/rec/pid/31/6400
+* ViAf: http://viaf.org/viaf/96800423
+* PageNumber: InFinite
+* MindFaves: AynRand
+|[TwittEr:jimmy_wales]
+|[FaceBook:502752253]

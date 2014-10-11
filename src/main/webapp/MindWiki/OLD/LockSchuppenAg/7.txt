@@ -1,0 +1,33 @@
+* MindTags: EnterPrise
+* VorStand: RalfLippold
+* WikiAngel: RainerWasserfuhr
+
+Die LockSchuppenAg ist ein VirtuellesUnternehmen zur Planung, zum Bau und zum Betrieb des LockSchuppen's.
+
+Die PieschenBank hat dazu im HausHalt von NooPolis ein Startkapital von 1.000.000 KayGroschen bereitgestellt.
+
+Sie hat wie jedes UnterNehmen im HandelsRegister von NooPolis 1000 Shares.
+
+Jeder GeWinn aus UmSatz (zb Mieteinnahmen) verteilt sich in der ZuKunft gemäss:
+
+||Shares||ShareHolder
+|800|RalfLippold
+|200|RainerWasserfuhr
+
+InitialPublicOffering auf dem MindFloor:
+
+!OrderBuch:
+||ShareHolder     ||Geld-Stück||Kurs[1]||Brief-Stück
+|RainerWasserfuhr |           |2048|1
+|RainerWasserfuhr |           |1024|1
+|RainerWasserfuhr |           | 512|1
+|RainerWasserfuhr |           | 256|1
+|RainerWasserfuhr |           | 128|1
+|RainerWasserfuhr |           |  64|1
+|RainerWasserfuhr |           |  32|1
+|RainerWasserfuhr |           |  16|1
+|RainerWasserfuhr |           |   8|1
+|RainerWasserfuhr |           |   4|1
+|RainerWasserfuhr |           |   2|1
+|RainerWasserfuhr |           |   1|1
+[#1] in KayGroschen

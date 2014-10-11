@@ -1,0 +1,6 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Steffen_Heitmann]
+* BornIn: 1944
+* BirthDay: 09-08
+* HomePage: http://www.heitmann-steffen.de/
+* HasTalked: RoswithaHunold

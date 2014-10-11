@@ -1,0 +1,5 @@
+* 2. Kunde von MindBroker
+* JahrGang: 1941
+* WohnSitz: GrueterichEins
+* EheVertrag: mit AgnesWasserfuhr
+* MindFaves: KonradAdenauer

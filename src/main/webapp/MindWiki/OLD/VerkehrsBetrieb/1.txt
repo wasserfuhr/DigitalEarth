@@ -1,0 +1,4 @@
+für die MindCity:
+* Ein gut ausgebautes Netz von Strassenbahnen, Bussen und Bürgertaxis
+* keine starren Fahrpläne mehr
+* Sobald ein Bürger einen anderen Bürger treffen will, clickt er auf sein MindPhone und sieht, zu welcher Strasse er sich zum Einstieg begeben muss und wie weit das Verkehrsmittel noch entfernt ist.

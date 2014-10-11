@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* BirthDay: 11-02
+* MindFaves: GustavMahler
+* MindSkill: ConDuct

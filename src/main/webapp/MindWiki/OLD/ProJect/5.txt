@@ -1,0 +1,11 @@
+* HerKunft: "proiacere (pro = vor, für, iacere = werfen) und dessen Partizip proiectus"
+* MindTags: RdfClass
+* RdfProperty: http://xmlns.com/foaf/0.1/Project
+
+Interesting ProJect's:
+* CosmicEngineers
+* LifeNaut
+* OpenCog
+* OpenStreetMap
+* OrionsArm
+* SeaSteading

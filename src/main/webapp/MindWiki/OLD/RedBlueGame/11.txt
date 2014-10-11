@@ -1,0 +1,24 @@
+The RedBlueGame works as follows:
+
+We
+# take a list of interesting topics and/or MindPeople from a nearby wiki or website,
+# TransForm the list into CamelCase
+# compare list items are already in the PageIndex (=blue)
+# enjoy, explore and wikify the unknown items (=red)
+
+Examples:
+* AcceleratingFuturePeopleDatabase
+* AgiPioneer
+* ElektrischerReporter
+* ForbesList
+* FrankfurterTreppe
+* GermanysBestWebFounder
+* OvercomingBias
+* PayPalMafia
+* PenguiCon
+* SiggiBecker
+* SingularitySummit
+* TrilateralCommission
+* VanityFair
+* WorkAtGoogle
+* WorldGeniuses

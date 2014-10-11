@@ -1,0 +1,2 @@
+* HerKunft: "eine Kombination aus memory (Speicher) und resistor (elektr. Widerstand)"
+* InterWiki: [DeWikiPedia:MemRistor]

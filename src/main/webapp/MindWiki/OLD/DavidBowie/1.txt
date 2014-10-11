@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:David_Bowie], [OpenCyc:DavidBowie]
+* JahrGang: 01-08
+* BirthDay: 1947

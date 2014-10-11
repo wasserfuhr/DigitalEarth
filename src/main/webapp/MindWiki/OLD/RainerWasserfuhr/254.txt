@@ -1,0 +1,211 @@
+* JahrGang: 1969
+* BirthDay: 05-28
+* MamaZwoNull: AgnesWasserfuhr
+* PapaZwoNull: WernerWasserfuhr
+* BirthPlace: StJosefKrankenhaus
+* NamedAfter: RainerWasserfuhr2
+* SprachWelt: de en-2 fr-1 zh-0
+* AutoBiografie: RainerWasserfuhrCv
+* AvaTar: JxRa
+* ThreeTags: WikiAngel ZukunftsForschung ArtificialIntelligence
+* WohnSitz: StadtDresden
+* XingId: 752
+* TimeZone: CET
+* LastInBoxCheck: 20081014
+* MeinWerk: NooSphere
+* WoZu: ExTend
+* ShareHolder: MindBroker EdelBild LockSchuppenAg ProtoWerb
+* InVest: MindBroker EdelBild LockSchuppenAg
+* CurrentProjects: NooSphere NooPolis MindWiki
+* PastProjects: ConPlan ComBi ToCee IstForce PolitikBoerse ForStudents IntraBroker MadBhs AdidasPod MuevaPlan TeHome AzLn FamilyTree ComBotsIm IntelliTics PostPep EdelBild NooChess PiratesSociety ProtoWerb MindFloor
+* TurkNumber: 1
+* ShockLevel: 3.14
+* TraumZeitAlter: 2008
+* MindKodex: RainersLaw
+* MindRole: Founder ErklaerBaer ProblemBehebeBaer MetaBaer
+* MindSkill: java, eclipse, maven, svn, jetty, derby, hibernate, jsp, css, html, swarch, sysarch
+* MindFaves: TrueMan RealRoman RealFilm ArTelligence MindSummit TrueLove FutureMap KommUnion DistanzSpiel
+* MindMac: NepTun
+* MindBrowser: FireFox
+* IchBiete: Vorträge, Beratung und (Online-)Coaching zu ZukunftsForschung, SzenarioPlanung, LebensPlanung, AcceleratingChange, SpiralDynamics, SemanticWeb, ArtificialIntelligence, TechnologicalSingularity. Aus einem früheren Leben ausserdem noch ein wenig von diesem Abkürzungsgedöns: ooa, ood, java, j2ee, hibernate, hql, jsp, servlets, taglibs, xml, xslt, struts, spring, jsf, sql, derby, mysql, oracle, db2, jetty, tomcat, jboss, websphere, weblogic, portlets, ruby-on-rails-to-java-migration, soa, axis, rest, ajax, hessian, json, maven, ant, jira, eclipse, gef, swt, swing, webstart, svn, cvs, clearcase, clearquest, requisitepro, quickrules, extreme-programming, agile, scrum, tdd, mdd, ec2, linux, apache, wiki, semanticwiki, microformats, croquet, squeak, smalltalk, datamining, semanticwiki, rdf, foaf, sparql, owl, rdfs, yago, lisp, prolog, opencyc, cycl, opencog, probabilistic-logic, machinelearning, htm, holonQl, ai, agi.
+* IchSuche: BuergerInnen, CitiZens, CitOyens and CiudaDanos for NooPolis; Mitdenker und -macher für die Ausarbeitung und Realisierung langfristiger Technologie- und Gesellschaftsszenarien, unkonventionelle InVest'oren für DisRupt'ives und UnGlaub'liches, CoFounder for MindBroker, und vor allem: BeautifulMind's.
+* LiebesRinge: RwSv RwYs RwCs RwHg
+* EheVertrag: []
+* MindTrust: YvonneSchubert DanielPoodratchi RicardaDHerbrand AndreasWeigel UteMoritz NicoHagenburger TinaPickhardt TimBonnemann ChristineSchlinck OliverGassner IngridaPlunksnyte PierreKerchner NicoleZiesche AndreasDittes JanaDiesner MattisManzel HeikeRibke JensFreydank KatharinaKuehnel DimitriUwarov IrisSchilke SebastianMitter EvaLubas StefanNitzsche VivianPein MonteMiersch CemBasman FlorianKonnertz BastiHirsch VolkerGraubaum OliverBerger FrankLorenz JanBoehme DennisUlm BillLiao SilvanTGolega HeinzWeber DanielBruessler LarsKleinbeckes MichaelHWagner NorbertRost SvenEchtermeyer ChristianRieger ThomasKujawa MarcusBertelsmeier StephanHeller HansGertGraebe ChristianGuenzl TimBl DanBrickley SvenSchwarz JosephSmarr AndyOsier JipDeKort LeoSauermann BenjaminNowack StefanDecker MaxVoelkel RobertBasic JasonFranklinStokes SoerenStamer PhilippLenssen AgnesWasserfuhr WernerWasserfuhr ManuelaAmann
+* MindFollow: RalfLippold SiggiBecker MartinRoell BenGoertzel ChristineSchlinck ElbElfe ChristianHeller LarsHinrichs ZigaTurk AndreasPoldrack YvonneSchubert AndreasStuhlmueller DirkRiehle BruceKlein RoswithaHunold JensUweSauer MarcusBertelsmeier JfSchlinck DanielPoodratchi NadineJuppe
+* HasSeen: → RainerWasserfuhrHasSeen
+* HasTalked: → RainerWasserfuhrHasTalked
+* DrankBeerWith: → RainerWasserfuhrDrankBeerWith
+* HasTouched: → RainerWasserfuhrHasTouched
+* HasKissed: → RainerWasserfuhrHasKissed
+* InBox: RecentChanges, XingLe, FaceBook, StudiVz, TwittEr, WerKenntWen (DM or usage of "@rainer")
+* OpenId: http://wasserfuhr.com/
+* PoTs: tel:+49-177-4689332
+* InBody: BodyOne
+* HappyBirthday: BirthdayTwin JfSchlinck ChristineSchlinck RalfLippold DanielPoodratchi AgnesWasserfuhr WernerWasserfuhr ManuelaAmann MartinRoell MarcusBertelsmeier SiggiBecker HeidiGallinat YvonneSchubert HannasSchwester KnusperFlocke SebastianMitter BastiHirsch OliverGassner DimitriUwarov UteMoritz
+* UsElection08: BarackObama
+* EuropaWahl09: PiratenPartei
+* SachsenWahl09: PiratenPartei
+||AusLand
+|[DelIcioUs:rainer]
+|[BlogLines:rainer]
+|[TwittEr:rainer]
+|[SkyPe:wasserfuhr]
+|[FaceBook:509034915]
+|[XingLe:Rainer_Wasserfuhr]
+|[WerKenntWen:r7lorq3p]
+|[NeuDe:ulysseus]
+|[SeesMic:rainer]
+|[FlickEr:rainerw]
+|[SecondLife:Ted_Christensen]
+|[MyOpenId:rainer]
+|[DeWikiPediaUser:Rainer_Wasserfuhr]
+|[WikiPediaUser:Rainer_Wasserfuhr]
+|[YouTube:rainerw]
+|[DoppLr:rainer]
+|[LinkedIn:rainer]
+|[StudiVz:764e409c9a05fe31]
+|[ClaimId:rainer]
+|[PlaZes:582]
+|[SuSuh:rainerw]
+|[IhBay:rainerwasserfuhr]
+|[AmazonDeProfil:A3UQE1375AWSCI]
+
+|[WorldWideWeb:wasserfuhr.com]
+
+* http://2idi.com/contact/=rainer
+* http://www.advogato.org/person/rainer/
+* [http://agile-cologne.de:8080/snipsnap-0.5.2a/space/Rainer+Wasserfuhr]
+* [http://www.agiri.org/wiki/User:RainerWasserfuhr]
+* http://www.amazon.de/gp/pdp/profile/A3UQE1375AWSCI
+* http://amiamo.de/rainer
+* https://de.amiando.com/mycenter/showProfile.html?userId=28477450
+* http://barcamp.org/RainerWasserfuhr
+* http://demo.bimserver.org/user.jsp?id=104
+* http://www.blogger.com/profile/612218
+* https://epetitionen.bundestag.de/index.php?action=profile;u=70255
+* http://www.c2.com/cgi/wiki?RainerWasserfuhr
+* http://claimid.com/rainer
+* http://www.codecheck.ch/UserPage/rainer.pag
+* [http://docs.codehaus.org/display/~rainer]
+* http://www.cognitiones.de/doku.php/wiki/user/rainerwasserfuhr
+* http://commeta.ning.com/profile/RainerWasserfuhr
+* http://www.communitywiki.org/RainerWasserfuhr
+* http://www.dandyid.org/beta/users/user_id/2324/Rainer/Wasserfuhr/
+* http://wiki.dbpedia.org/RainerWasserfuhr
+* http://www.delfi-network.de/modules.php?name=Forums&file=profile&mode=viewprofile&u=44
+* [http://dresden.stadtwiki.de/wiki/Benutzer:Rainer_Wasserfuhr]
+* http://www.community.dresdner-zukunftsforum.de/user/93
+* http://www.wikiservice.at/dse/wiki.cgi?RainerWasserfuhr
+* http://feedback.ebay.de/ws/eBayISAPI.dll?ViewFeedback&userid=rainerwasserfuhr
+* http://www.erepublik.com/en/citizen/profile/1230691
+* http://esw.w3.org/topic/RainerWasserfuhr
+* http://everything2.com/index.pl?node_id=1273333
+* https://my.fdp.de/webcom/show_websiteprog.php/_c-928/_lkm-453/uid-rainerw/
+* http://friendfeed.com/rainer
+* http://profiles.friendster.com/rainerw
+* http://future.wikia.com/wiki/User:Rainer_Wasserfuhr
+* http://futuresnetwork.org/account/rainerw
+* http://www.geni.com/profile/index/4755377725010080097
+* http://goodtree.com/people/rainer
+* http://www.google.com/profiles/rainerwasserfuhr
+* http://www.gypsii.com/people.cgi?u=rainer
+* http://www.hallenprojekt.de/users/rainer
+* http://people.icq.com/people/about_me.php?uin=100428018
+* http://identoo.com/rainer
+* http://www.ikarma.com/id/17375
+* http://dev.indawo.de/profiles/rainer
+* http://rainer.jaiku.com/
+* http://www.javangelist.de/space/RW
+* http://rainer.joinr.de/
+* [http://ka.stadtwiki.net/Benutzer:Rainer_Wasserfuhr]
+* http://kluster.com/user_portfolios/1694
+* http://www.langreiter.com/space/Rainer+Wasserfuhr
+* http://www.last.fm/user/rainerw/
+* http://lifestrea.ms/user/rainer
+* http://www.lijit.com/users/rainerw
+* http://www.lokalisten.de/web/showuser/showInfo.do?accountId=343213
+* http://www.longbets.org/user/rainer
+* http://www.memebox.com/users/show/rainer
+* http://www.mybloglog.com/buzz/members/rainer/
+* http://mylid.net/rainer
+* http://rainer.myopenid.com/
+* http://www.myspace.com/rainer_w
+* http://www.naymz.com/search/rainer/wasserfuhr/1590943
+* [http://www.neo.org/view_member_details.php?view=335&view_status=0&prominent=0]
+* [http://notitio.us/#rainer]
+* http://www.numenta.com/mediawiki/index.php/User:Rainer
+* http://shapingtomorrowmain.ning.com/profile/RainerWasserfuhr
+* [http://opencog.org/wiki/User:RainerWasserfuhr]
+* [http://now.openspirit.de/index.php?title=Benutzer:Rainer_Wasserfuhr]
+* [http://www.nomic.net/~nomicwiki/index.php/RainerWasserfuhr]
+* http://www.odeo.com/playlists/155956696
+* [http://wiki.openid.net/User:Rainer]
+* [http://ontoworld.org/wiki/User:Rainer_Wasserfuhr]
+* http://www.orkut.com/Profile.aspx?uid=17453782836221352524
+* http://partei20.mixxt.de/networks/members/profiles/index.rainer.wasserfuhr
+* http://www.peopleaggregator.net/user.php?uid=900
+* [http://www.perrypedia.proc.org/Benutzer:Rainer_Wasserfuhr]
+* [http://wiki.piratenpartei.de/Benutzer:RainerWasserfuhr]
+* http://www.plasticthinking.org/wiki/RainerWasserfuhr
+* http://rainer.myplaxo.com/
+* http://beta.plazes.com/user/rainer
+* [http://wiki.plomlompom.de/index.php/Benutzer:Rainer_Wasserfuhr]
+* http://www.plurk.com/user/rainer
+* http://www.podcast.de/benutzer/LockSchuppen
+* http://pownce.com/rainer/
+* [http://www.powerofpolitics.com/PlayerInfoN.aspx?PID=117968]
+* http://www.qype.com/people/rainer
+* [http://wiki.regionales-wirtschaften.de/index.php/Benutzer:RainerWasserfuhr]
+* http://www.rfidbuzz.com/wiki/RainerWasserfuhr
+* http://www.rojo.com/mojo/3406/
+* http://www.scholarpedia.org/article/User:Wasserfuhr
+* [http://wiki.seasteading.org/index.php/User:RainerWasserfuhr]
+* http://gruendr.sixgroups.com/profile/rainer/
+* [http://semantic.stadtwiki.net/wiki/index.php/Benutzer:Rainer_Wasserfuhr]
+* http://www.slideshare.net/rainer
+* http://snipsnap.org/space/rainer
+* http://www.sourcecode.de/users/rainer
+* https://sourceforge.net/users/rwasserfuhr
+* [http://de.startupwiki.org/Benutzer:RainerWasserfuhr]
+* http://superstructgame.org/SEHIView/399
+* http://www.swivel.com/users/show/1001858
+* http://homesite.sxore.com/personae?id=948741ed
+* http://technorati.com/profile/rainerw
+* http://www.telewebber.de/profiles/rainer
+* http://jira.public.thoughtworks.org/secure/ViewProfile.jspa?name=rainer
+* http://people.tribe.net/rainer
+* http://www.twine.com/user/rainer
+* http://profile.typekey.com/rainer/
+* http://wasserfuhr.unddu.de/
+* http://www.usemod.com/cgi-bin/mb.pl?RainerWasserfuhr
+* http://rainer.pip.verisignlabs.com
+* http://www.verwandt.de/profile/Rainer_Wasserfuhr_90301133
+* http://rainer.videntity.org/
+* http://wiki.vowe.org/RainerWasserfuhr
+* http://rainer.vox.com/
+* http://wasserfuhr.wayn.com/
+* http://webmontag.de/doku.php?id=rainer_wasserfuhr
+* [http://de.wikinews.org/wiki/Benutzer:Rainer_Wasserfuhr]
+* [http://en.wikipedia.org/wiki/User:Rainer_Wasserfuhr]
+* [http://es.wikipedia.org/wiki/User:Rainer_Wasserfuhr]
+* [http://fr.wikipedia.org/wiki/User:Rainer_Wasserfuhr]
+* [http://lt.wikipedia.org/wiki/Naudotojas:Rainer_Wasserfuhr]
+* [http://sk.wikipedia.org/wiki/Redaktor:Rainer_Wasserfuhr]
+* [http://sl.wikipedia.org/wiki/Uporabnik:Rainer_Wasserfuhr]
+* [http://sv.wikipedia.org/wiki/User:Rainer_Wasserfuhr]
+* http://ws2005.wikisym.org/space/rainer
+* [http://wikitree.org/index.php?title=User:RainerWasserfuhr]
+* http://www.willstequatschen.de/profil.php?var2=290606 
+* [http://www.handelsblatt.com/wirtschaftswiki/index.php?title=Benutzer:Rainer_Wasserfuhr]
+* http://mysmall.wordpress.com/
+* http://workzone.autorenverzeichnis.de/cgi-bin/wiki?RainerWasserfuhr
+* http://rainerw.wiki.zoho.com/
+* [http://news.ycombinator.com/user?id=rainerw]
+* http://www.zenzuu.com/rainerw
+
+!InBox:
+AntWort auf die AntWort von RainerWasserfuhr, man könne die Nichtraucherwette per GlaeserneRaucher abhandeln:
+Buuuuh! Das ist kein guter AnSporn!
+
+Frage von HeikeRibke: wie haste Dir das denn vorgestellt, mit den BlankoBueschel'n? PierreKerchner ist in FrankFurt und ich in StuttGart.

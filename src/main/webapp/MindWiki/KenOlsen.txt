@@ -1,0 +1,3 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Ken_Olsen]
+* BirthDay: 02-20

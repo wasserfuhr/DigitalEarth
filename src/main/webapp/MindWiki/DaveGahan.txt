@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Dave_Gahan]
+* BornIn: 1962
+* BirthDay: 05-09

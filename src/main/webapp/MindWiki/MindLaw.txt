@@ -1,0 +1,1 @@
+* DeFin: an extension of MooresLaw towards CognitiveComputing, in order to create a ThinkingMachine that will pass the RainerTest and help RayKurzweil to win LongBetOne  UnTil2029. ThoughtsPerSecondPerKayGroschen

@@ -1,0 +1,3 @@
+* InterWiki: [CommunityWiki:FOAF][DeWikiPedia:FOAF],[WebSeitz:FOAF],[WikiWikiWeb:FriendOfaFriend]
+
+Friend of a friend.

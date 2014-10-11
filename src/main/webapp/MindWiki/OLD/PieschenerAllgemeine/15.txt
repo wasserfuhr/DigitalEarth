@@ -1,0 +1,35 @@
+* PartOf: PieschenMediaGroup
+|[TwittEr:PieschenPrint]
+
+Der personalisierte TotHolz-NewsLetter aus dem OrtsteilPieschen und der StadtDresden an alle BuergerInnen von NooPolis in DeutschLand und ganz PlanetErde, nur echt mit CamelCase.
+
+(ErstAusgabe, AufLage: 95, ViSdW: RainerWasserfuhr)
+
+||AbonnentIn||YvonneSchubert
+|MindId   |2
+|WohnSitz |OtStriesen
+|VerMoegen|10,067 KayGroschen
+|QrCode   |[{Image src='http://farm3.static.flickr.com/2721/4229576587_bfa1bbe9fb_t.jpg'}]
+
+Persönliches GrussWort vom ChefRedakteur: Liebe YvonneSchubert, dies ist die TotHolz-ErstAusgabe der PieschenerAllgemeine.
+Als BuergerIn mit MindId 2 stellt die MindPost Dir diese Ausgabe in Deinen BriefKasten zu.
+
+!KabiNettWahl
+Seit [TimeLine:2010-04-09] findet die 2. CabiNetElection der MicroNation NooPolis statt.
+
+Bis jetzt zur Wahl stehen:
+* SoerenRogoll?
+* AlexanderFriedland?
+* ConstanceWolter?
+* RalfLippold
+
+Abstimmen und selbst kandidieren kannst Du im InterNet unter http://mindbroker.de/wiki/CabiNetElection.
+
+!RayInDresden
+Der auf ganz L:PlanetErde bekannte ZukunftsForscher und SingularPapst RayKurzweil am [TimeLine:2010-06-10] dank TSystemsMms zusammen mit WorldWideWeb-ErFind'er Sir TimBl im CongressCenterDresden. Bald mehr.
+
+!MobileCamp
+Ab [TimeLine:2010-04-24] an der TuDresden. Kommst Du auch?
+
+!CloudComputing für die PlanVerwaltung
+(SchleichWerbung) Seit [TimeLine:2010-04-07] gibt es mit »ThirtyTwo« ein junges dynamisches neues UnterNehmen zur Entwicklung von SoftWare für die PlanVerwaltung in WissensBasiert'en BauUnternehmen. ThirtyTwo entwickelt SoftWare für AppEngine, mit der ein bislang unerreichtes Mass an Skalierbarkeit und Hochverfügbarkeit zu unschlagbar günstigem Preis sichergestellt werden kann.

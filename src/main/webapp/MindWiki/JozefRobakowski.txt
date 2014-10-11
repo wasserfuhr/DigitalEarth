@@ -1,0 +1,3 @@
+* IsA: PerSon
+* BornIn: 1939
+* HomePage: http://www.robakowski.net/

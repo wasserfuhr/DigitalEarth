@@ -1,0 +1,6 @@
+* IsA: PerSon
+* BornIn: 1787
+* BirthDay: 02-24
+* DiedIn: 1867
+
+http://books.google.com/books?id=iyZoAAAAMAAJ&q=wasserfuhr

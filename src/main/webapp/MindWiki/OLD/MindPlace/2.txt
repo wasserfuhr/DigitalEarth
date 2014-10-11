@@ -1,0 +1,21 @@
+Bald werden alle Orte, auf deren Seite im MindWiki Längen- und Breitengrad als MindProps angegeben sind, auf der MindMap dargestellt:
+
+Einfach als MindProps angeben:
+
+{{{
+* MindTags: MindPlace
+}}}
+
+[{INSERT ReferringPagesPlugin}]
+
+gewünschte Orte:
+* EchterDingen
+* FeuerSee
+* FriedrichsHain
+* Hawaii
+* HonoLulu
+* LeinFelden
+* NordAmerika
+* OesterFeld
+* SchwabenStrasse
+* WaiKiki

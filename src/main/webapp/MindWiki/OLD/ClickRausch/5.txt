@@ -1,0 +1,6 @@
+* Nette FaceBook-App mit ClickRausch-Effekt: http://apps.facebook.com/comparepeople/
+* Mutter aller ClickRauschs: http://hotornot.com/
+* ClickRausch von DirkRiehle: http://cosornot.com/
+* OneTag
+* bald: MindMap
+* Quartett (mit MindProps?)

@@ -1,0 +1,9 @@
+||ComPare ||StadtDresden||StadtLeipzig
+|Costs    |16    |50
+|KnistProb|80    |75
+|Knist    |***   |****
+|Danach   |**    |****
+|DiaLog   |***   |****
+|Ambiente |***   |****
+|GeFuehl  |***   |****
+|UnStress |****  |***

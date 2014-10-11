@@ -1,0 +1,10 @@
+Eine WebApp, um DoIts zu automatisieren. 
+
+bald: http://doit.mindbroker.de/
+
+SourceCode: svn://svn.mindbroker.de/opensource/de.mindbroker.doit
+
+Alternativen:
+* http://mein.todooo.com/
+* http://vitalist.com/
+* http://gopingme.com/

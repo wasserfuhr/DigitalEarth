@@ -1,0 +1,8 @@
+* IsA: EnterPrise
+* EtymoLogia: "__Int__egrated __el__ectronics"
+* MindQuote: "The future of the company is ... to push the technology ever closer to TheSingularity" - JustinRattner
+* InterWiki: [OpenCyc:IntelCorporation] [WebSeitz:InTel] [WikiPedia:Intel_Corporation] [WikiWikiWeb:IntelCorporation]
+* FoundedBy: GordonMoore RobertNoyce
+* MindOne: PaulOtellini
+* IsIn: US4581401001
+|[TwittEr:intel]

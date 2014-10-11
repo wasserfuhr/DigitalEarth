@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Jürgen_Fliege]
+* BirthPlace: RadeVormWald
+* BornIn: 1947
+* BirthDay: 03-30

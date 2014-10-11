@@ -1,0 +1,29 @@
+%%( padding-left: 400px; font-size:95%)
+"Was ist der Einbruch in eine Bank gegen die Gründung einer Bank?" - Die DreiGroschenOper, 1928
+%%
+
+Die PieschenBank ist die Staatsbank von NooPolis. ALPHA: http://bank.mindbroker.de/
+
+Hauptsitz: Das WirkZentrum.
+
+Kommissarischer Generaldirektor der Pieschenbank: RainerWasserfuhr.
+
+Staatsvermögen: 10.000.000 KayGroschen.
+
+Die Einnahmen und Ausgaben sind dokumentiert im HausHalt. 
+
+Die PieschenBank bietet jedem Bürger ein BuergerKonto und ein Depot mit MindShare's von UnterNehmen in NooPolis. Sie legt den aktuellen WechselKurs von KayGroschen zu Euro fest.
+
+
+Für UnterNehmen beabsichtigt die PieschenBank, 1-Click-Gründungen zu ermöglichen:
+Mit Eintragung im HandelsRegister soll den Gründern eine unmittelbar geschäftsfähige RechtsForm bereitgestellt werden,
+einschliesslich:
+* VerTrag
+* Bankkonto
+* BusinessPlan-Wiki
+* UnserBudget
+* Template für das GeschaeftsModell
+* LeistungsKonto
+* MindErp
+* EigenRisk-Analyse
+* Feststellung des IpoKurs

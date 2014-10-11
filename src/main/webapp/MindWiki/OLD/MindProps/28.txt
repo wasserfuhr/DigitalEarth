@@ -1,0 +1,175 @@
+* MindQuote: Denn "es ist eine Welt von Eigenschaften ohne Mann entstanden, von Erlebnissen ohne den, der sie erlebt."
+
+Auf jeder Seite im MindWiki kann man Eigenschaften definieren nach dem Muster:
+
+{{{
+* PropName: Wert
+}}}
+
+Die Eigenschaften können per MindApi von anderen WebApp's einfach ausgelesen und weiterverarbeitet werden.
+
+Eigenschaften, die auf Seiten angegeben werden können:
+
+Auf allen Seiten:
+* InterWiki
+* MindLine
+* MindQuote
+* MindTags
+* SprachWelt
+
+MindBook:
+* IsBn
+
+MindPeople:
+* AusLand
+** TwittEr
+*** profile_image_url (MindPeople die TwittEr nutzen und dort ein Profilfoto angegeben haben, werden bei einigen WebApp's mit Foto dargestellt)
+* BirthDay
+* IchBiete
+* IchSuche
+* InBody
+* EheRinge
+* JahrGang
+* KnisterRinge
+* LebensEnde
+* LebensErwartung
+* LiebesRinge
+* MindBrowser
+* MindColor
+* MindFaves
+* MindFollow
+* MindMac
+* MindSkill
+* MindTrust
+* ShockLevel
+* TobinTaxVote
+* TraumGruppe
+* TraumJahrGang
+* TurkNumber
+* WohnSitz
+* XingId
+* SteuerNummer
+
+MindPlaces:
+* BreitenGrad
+* LaengenGrad
+* BoundingBox
+* NormalNull
+* GraDient
+* SlimNess
+
+UnterNehmen:
+* HeadQuarters
+* IsIn
+* MindOne
+* SteuerNummer
+
+The most frequently used MindProps:
+|842|MindTags
+|484|InterWiki
+|349|JahrGang
+|170|BirthDay
+|165|BoundingBox
+|164|LaengenGrad
+|164|BreitenGrad
+|149|HomePage
+|111|MindSkill
+| 83|LebensEnde
+| 70|HerKunft
+| 53|WohnSitz
+| 50|MindQuote
+| 46|MindCount
+| 39|MindLine
+| 27|SprachWelt
+| 27|SlimNess
+| 27|GraDient
+| 21|RdfProperty
+| 20|MindFaves
+| 18|FoAf
+| 14|DcTitle
+| 12|VorName
+| 11|WorldLanguages
+| 11|NachName
+| 10|SloGan
+|  8|WeltSprache
+|  8|RdfClass
+|  8|NormalNull
+|  8|MindTrust
+|  8|MindOne
+|  8|EheVertrag
+|  7|IstEin
+|  7|HeadQuarters
+|  6|PapaZwoNull
+|  6|MindBlog
+|  6|LebensErwartung
+|  6|IsIn
+|  6|CurrentProjects
+|  5|MindMac
+|  5|MamaZwoNull
+|  4|XingId
+|  4|DeScription
+|  3|XingEvent
+|  3|UstId
+|  3|ShockLevel
+|  3|PastProjects
+|  3|MitWirkende
+|  3|MindRole
+|  3|IsBn
+|  3|InBox
+|  3|HandelsRegister
+|  3|FoafKnows
+|  2|XingPate
+|  2|UnternehmensGruender
+|  2|TurkNumber
+|  2|TraumZeitAlter
+|  2|TraumGast
+|  2|TimeLine
+|  2|RechtsForm
+|  2|MindPate
+|  2|MindKodex
+|  2|MindBrowser
+|  2|LiebesRinge
+|  2|JederMann
+|  2|InBody
+|  2|IchSuche
+|  2|IchBiete
+|  2|HasKissed
+|  2|FortunePerMind
+|  2|FeedReader
+|  2|EyeColor
+|  2|EheRinge
+|  2|DcCreator
+|  2|BoundingBoxCaptain
+|  2|BoardCenter
+|  1|WoZu
+|  1|WikiPate
+|  1|WaterHandICap
+|  1|VertretungsBerechtigt
+|  1|UsElection08
+|  1|TimeZone
+|  1|StartedAt
+|  1|SerienNummer
+|  1|PropName
+|  1|ProjectLead
+|  1|PoTs
+|  1|OpenId
+|  1|MovedTo
+|  1|MindPlace
+|  1|MindPet
+|  1|MindFollow
+|  1|MiNd
+|  1|LexBill
+|  1|InVest
+|  1|HumanHeight
+|  1|HochZeit
+|  1|HasTalked
+|  1|HasSeen
+|  1|FormerlyKnownAs
+|  1|FinishedAt
+|  1|EuropeanArticleNumber
+|  1|EinSchreiben
+|  1|EheZeuge
+|  1|DueckGefaerbt
+|  1|BoardSize
+
+MindProps sind so etwas wie SemanticWiki light.

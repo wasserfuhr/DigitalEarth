@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Dave_Bing]
+* BirthDay: 11-24
+|[TwittEr:davebing]

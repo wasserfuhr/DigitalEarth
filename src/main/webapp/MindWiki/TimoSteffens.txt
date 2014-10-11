@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/06/801
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann ClausRainerRollinger TimoSteffens
+|[XingLe:Timo_Steffens]

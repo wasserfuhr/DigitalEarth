@@ -1,0 +1,28 @@
+{{{                                                                                                        
+<%@page language="java" contentType="text/html; charset=UTF-8"%>
+<%@page import="java.util.Random"%>
+ <style type="text/css">
+body {
+background: #000;
+color: #0F0;
+}
+ </style>
+<body>
+<pre>
+<%
+int rows=60;
+for (int i=0; i<40; i++) {
+  for (int j=0; j<rows; j++) {
+    String cc=""+new Character((char)(65+new Random().nextInt(26)));
+    if ( i == 5 && (j%2 == 1) && j>10 && j<20) { cc="<font color=\"#006000\">"+" H A P P Y    ".charAt(j-10)+"</font>";}
+    if ( i == 15 && (j%2 == 1) && j>20 && j<38) { cc="<font color=\"#006000\">"+" B I R T H D A Y    ".charAt(j-20)+"</font>";}
+    if ( i == 25 && (j%2 == 1) && j>30 && j<42) { cc="<font color=\"#006000\">"+" M A R T I N    ".charAt(j-30)+"</font>";}
+    if ( i == 35 && (j%2 == 1) && j>40 && j<56) { cc="<font color=\"#006000\">"+" M i n d E i s ?     ".charAt(j-40)+"</font>";}
+    %><%=cc%> <%
+  }%>
+<%
+}
+  for (int j=0; j<rows-4; j++) {
+    %>  <%
+  }%>-&gt; <a href="/matrix">next</a>
+}}}

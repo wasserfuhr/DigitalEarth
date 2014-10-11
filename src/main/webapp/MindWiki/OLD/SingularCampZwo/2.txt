@@ -1,0 +1,5 @@
+Ein MindEvent für SingularityMinds, Nachfolger von SingularCamp.
+
+Teilnehmer:
+* RainerWasserfuhr
+* ThomasPromny

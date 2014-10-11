@@ -1,0 +1,4 @@
+* InterWiki: [WikiPedia:Singularity_Institute_for_Artificial_Intelligence]
+* MindOne: MichaelVassar
+
+Board: BrianAtkins, SabineAtkins, TylerEmerson, RayKurzweil, MichaelRaimondi

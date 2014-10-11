@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* NamedAfter: FritzReuter
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.07425&lon=13.73994&zoom=16&layers=B000FTFT ToDo

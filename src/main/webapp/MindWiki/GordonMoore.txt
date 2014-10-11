@@ -1,0 +1,7 @@
+* IsA: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Gordon_Moore] [WikiWikiWeb:GordonMoore]
+* MindQuote: "MooresLaw will continue as long as Moore does, [anyhow|http://www.youtube.com/watch?v=us5uuz-VIkM#05:00]."
+* BornIn: 1929
+* BirthDay: 01-03
+* DbLp: http://dblp.uni-trier.de/rec/pid/83/5340
+* PageNumber: -1

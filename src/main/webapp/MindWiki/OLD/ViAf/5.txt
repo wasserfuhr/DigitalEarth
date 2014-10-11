@@ -1,0 +1,10 @@
+* HerKunft: Virtual International Authority File
+* HomePage: http://www.d-nb.de/wir/projekte/viaf_info.htm
+
+SameAs:
+* MarkusWasserfuhr: http://viaf.org/viaf/40492973 http://viaf.org/viaf/49022351
+* JacquesHerbrand: http://viaf.org/viaf/61912155 http://viaf.org/viaf/24739214
+
+
+OliverGassner: http://d-nb.info/gnd/129168580 http://d-nb.info/gnd/130291587
+http://viaf.org/viaf/28143094 http://viaf.org/viaf/28173695

@@ -1,0 +1,17 @@
+* HomePage: http://herrdersterne.de/
+
+||ComPare    ||HerrDerSterne||NooPolis
+|MindOne     |SvenPaeselt   |RainerWasserfuhr
+|User        |Spieler       |BuergerInnen
+|Money       |Credits       |KayGroschen
+|UniVerse    |Planets       |RealLife
+|Recht       |VerTrag       |VerFassung
+|#Player     |167           |64
+|Voting      |Abstimmung    |MindVote
+|Börse       |ja            |MindFloor
+|Schiffe     |              |MindShipOne, MindJetOne
+|BlackHole   |RaumGraben    |ja
+|1 EuRo =    |20.000 credits|20 KayGroschen
+|ShootingStar|RisingSystems |LockSchuppenAg
+
+JoergKeller, ChristianFischer

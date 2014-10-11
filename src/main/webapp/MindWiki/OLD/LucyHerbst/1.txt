@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* JahrGang: 2009
+* BirthDay: 05-10
+* PapaZwoNull: PeterHerbst

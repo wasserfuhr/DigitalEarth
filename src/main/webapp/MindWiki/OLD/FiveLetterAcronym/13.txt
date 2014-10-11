@@ -1,0 +1,16 @@
+* BaFin
+* CeBit
+* CoBrA
+* DiSud
+* HtTps
+* IcAnn
+* LoHaS
+* PeKiP
+* SiMca
+* StCcg
+* SwTcg
+* ToeFl
+* WtfPl
+* YagNi
+* YaHoo
+* YaSsn

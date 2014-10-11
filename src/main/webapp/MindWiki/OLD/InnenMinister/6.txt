@@ -1,0 +1,9 @@
+* verstaatlicht StudiVz, WerKenntWen und XingLe
+* Stellt den SocialNetwork's die Datenbanken der Einwohnermeldeämter zur Verfügung
+* lässt Dubletten bereinigen
+* macht die Personalausweisnummer zum Primärschlüssel
+* Es gibt keine Flughafenkontrollen mehr
+* Flugzeuge betreten dürfen nur noch Mitglieder von StudiVz und XingLe, die höchstens ThreeDegree vom InnenMinister entfernt sind.
+* Passagierlisten werden im FlightWiki dokumentiert
+* Falls jemand in einem Flugzeug eine Bombe zündet oder es entführt, werden alle seine Kontakte für 5 Jahre vom  Flugverkehr ausgeschlossen.
+* Jeder Fluggast aus Nicht-EU-Ländern bekommt einen Paten im PatenLand.

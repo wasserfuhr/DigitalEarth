@@ -1,0 +1,4 @@
+* IsA: MindPlace
+* InterWiki: [DeWikiPedia:Kügelgenhaus_–_Museum_der_Dresdner_Romantik]
+* NearBy: HauptStrasse
+* NamedAfter: GerhardVonKuegelgen

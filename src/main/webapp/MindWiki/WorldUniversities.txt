@@ -1,0 +1,27 @@
+[WikiPedia:Academic_Ranking_of_World_Universities]
+
+# HarvardEdu
+# StanfordEdu
+# BerkeleyEdu
+# CamAcUk
+# MitEdu
+# CalTech
+# ColumbiaEdu
+# PrincetonEdu
+# UChicagoEdu
+# OxAcUk
+# YaleEdu
+# CornellEdu
+...
+* UTokyoAcJp
+...
+* EthzCh
+...
+* LmuDe
+* TumDe
+...
+* CmuEdu
+...
+* HujiAcIl
+...
+* MsuRu

@@ -1,0 +1,61 @@
+;
+;
+;{{{
+
+((defn favelet [] 
+  (handle "favelet"
+   (fn []
+    (let
+      [url (.substring (.getPathInfo request) (.length "/favelet/" ))
+       urlFixed (.replace url"http:/" "http://") ;; ??strange??
+      ]
+      (str
+       (if (.contains urlFixed "dblp")
+        (let [
+          fetchS (fetch-url-s urlFixed)
+          fbLine (re-find #"<h1 key=\"homepages/([^\"]*)\">([^<]*) <" fetchS)
+          id (second fbLine)
+          pageName (.replace (.get fbLine 2) " " "")
+         ]
+         (str "Copy to <a href='http://mindbroker.de/Edit.jsp?page=" pageName "'>MindWiki</a>:
+<textarea rows='4' cols='60'>
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/" id "
+* PageNumber: 
+* PagePath: LarryPage ... " pageName "
+</textarea>")))
+       (if (.contains urlFixed "wikipedia")
+         wpPageName (.substring urlFixed (.length "http://de.wikipedia.org/wiki/"))
+         pageName (.replace wpPageName "_" "")
+         editUrl (str "http://de.wikipedia.org/w/index.php?title=" wpPageName "&action=edit")
+         fetchS (fetch-url-s editUrl)
+         fbLine (re-find #"\|GEBURTSDATUM=([^\|]*)" fetchS)
+         dates (.split (.trim (second fbLine)) " ")
+         month (second dates)
+         monthK (keyword (.replace month "ä" "ae"))
+         monthS (get { 
+               :Januar "01"
+               :Februar "02"
+               :Maerz "03"
+               :April "04"
+               :Mai "05"
+               :Juni "06"
+               :Juli "07"
+               :August "08"
+               :September "09"
+               :Oktober "10"
+               :Novemver "11"
+               :Dezember "12"
+             } monthK)
+        ]
+        (str "Copy to <a href='http://mindbroker.de/Edit.jsp?page=" pageName "'>MindWiki</a>:
+<textarea rows='4' cols='60'>
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:" wpPageName "]
+* BornIn: " (get dates 2) "
+* BirthDay: "  (first dates ) "-" monthK "
+* ViAf: 
+</textarea>"))))))
+
+   ) ""))))
+;}}}

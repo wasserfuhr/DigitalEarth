@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Carl_Gustav_Jung]
+* BirthDay: 07-27

@@ -1,0 +1,31 @@
+[EtherPad:FaceGoogle] - SnapShot:
+
+Welcome to this EtherPad!
+
+This pad text is SynChron'ized as you type, so that EveryOne viewing this page sees the same text. This allows you to collaborate seamlessly!
+
+To edit this EtherPad, you have to read and agree to http://etherpad.com/EtherSpirit.
+
+This EtherPad is an experimental collaborative HardScienceFiction novel that describes
+an EtherPad DeBate between C-level executives of FaceBook and GoogleInc in order to prepare __the__ InterNet merger of the decade:
+
+April 1st, 2010:
+* LarryPage: Hello MarkZuckerberg.
+* MarkZuckerberg:  Hello LarryAndSergey.
+* SergeyBrin: Hollo MarkZuckerberg... how is PeterThiel?
+* PeterThiel: Hello SergeyBrin, are MarissaMayer and EricSchmidt with you?
+* EricSchmidt: Hello FaceBook, here we are, so let's start. What's your MarkeptCap? Our current StockPrice is 512 UsDollar, so we are at 162 440 000 000 UsDollar.
+* PeterThiel: Our MarketCap is 15 000 000 000 UsDollar.
+* EricSchmidt: Ouch... 
+* PeterThiel: We will be able to roll out our FaceDollar project next month: A global currency for a then estimated UserBase of 400 000 000 active MonthyActiveUser.
+* LarryPage: You are too late. WaveCash is currently taking off. 1 WaveCoin is already at 128 UsDollar.
+* SergeyBrin: Please let's first talk about the technical issues: How shall we merge our UserBase's?
+* MarkZuckerberg: Please first tell us about  your InfraStructure. Where is UrsHoelzle?
+* UrsHoelzle: Currently we have 2.097.152 commodity server nodes, which we are doubling every 18 months.
+* PeterThiel: Please, guys, let's focus first on our competitors. 
+* MarissaMayer: *clears her throat*... TwittEr? ;) ... @ev, are you there?
+* EvanWilliams: Hi followers: What do you think how we fixed our performance ProBlem's... we slaughtered the FailWhale on a BigTable...
+* PeterThiel: We already outpaced one of our foremost competitors at end of 2009, when our UserBase surpassed the 308.241.000 CitiZens of the UnitedStates.
+* EricSchmidt: So what about your plans for the UnitedSemanticNations?
+* MarkZuckerberg: One moment, let me just write on the Wall of our ChiefSemanticOfficer...
+* TimBl: Hello SemanticWorld. I just got stuck in the GiantGlobalGraph with my FbId 512908782.

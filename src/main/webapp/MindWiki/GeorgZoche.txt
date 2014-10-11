@@ -1,0 +1,6 @@
+* IsA: PerSon
+* BornIn: 1968
+* BirthDay: 03-14
+* HasTalked: JosephRatzinger
+|[XingLe:Georg_Zoche]
+|[FaceBook:713946637]

@@ -1,0 +1,10 @@
+||PassWort     ||InSider
+|DiBa          |RainerWasserfuhr,YvonneSchubert
+|NorisBank     |RainerWasserfuhr,YvonneSchubert
+|PostBank      |RainerWasserfuhr,YvonneSchubert
+|UnserGrid-root|RainerWasserfuhr,DanielPoodratchi
+|Fritzbox im Wirkzentrum|RainerWasserfuhr
+|PINs der Handies|RainerWasserfuhr,YvonneSchubert
+|WebDe-InBox von RainerWasserfuhr|RainerWasserfuhr,YvonneSchubert
+
+Ausserdem: Schlüssel des FirmenWagen und der Türen

@@ -1,0 +1,6 @@
+vom SysAdmin umbenannte PageName's:
+* 20090206: "Kinder- und Elternakademien" > KindElternAkademie
+
+export PRE=Digital
+export POST=Ewigkeit
+mv $PRE+$POST.txt $PRE$POST.txt; mv OLD/$PRE+$POST OLD/$PRE$POST

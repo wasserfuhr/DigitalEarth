@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* HomePage: http://www.netlib.org/utk/people/JackDongarra/
+* MindSkill: SuperComp
+* PageNumber: 8
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy ArndtBode HenriCasanova JackDongarra

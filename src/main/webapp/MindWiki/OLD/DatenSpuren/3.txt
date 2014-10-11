@@ -1,0 +1,5 @@
+* IsA: EventSeries
+* HomePage: http://www.datenspuren.de/
+* MindPlace: ScheuneDresden
+
+2010: ChristianFischer ChristianHeller ChristianHorchert FrankBecker GeraldineArndt RainerWasserfuhr RalfLippold RobertWartenberg SebastianBoehm TimPritlove EtAl

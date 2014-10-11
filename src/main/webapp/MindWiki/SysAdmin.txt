@@ -1,0 +1,3 @@
+* InterWiki: [WikiWikiWeb:SysAdmin]
+
+SysAdmin for the MindWiki: RainerWasserfuhr

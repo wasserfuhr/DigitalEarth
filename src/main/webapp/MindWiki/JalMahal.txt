@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* InterWiki: [WikiPedia:Jal_Mahal]
+* PartOf: ManSagarLake

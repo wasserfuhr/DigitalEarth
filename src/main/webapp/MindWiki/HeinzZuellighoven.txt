@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/z/HZullighoven
+* HomePage: http://agis-www.informatik.uni-hamburg.de/swt/people/heinz-zuellighoven/

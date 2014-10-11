@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.03025
+* LaengenGrad: 13.74517
+* BoundingBox: 20
+* HomePage: http://www.cafe-jaehnig.de

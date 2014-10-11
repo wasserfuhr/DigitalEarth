@@ -1,0 +1,3 @@
+* IsA: MindHotel
+* InterWiki: [DeWikiPedia:Hotel_Elephant]
+* OpenStreetMap: http://www.openstreetmap.org/?lat=50.978889&lon=11.330278&zoom=18&layers=B000FTT ToDo

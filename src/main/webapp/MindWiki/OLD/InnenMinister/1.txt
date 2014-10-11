@@ -1,0 +1,7 @@
+* verstaatlicht UnserXing und StudiVz
+* Stellt beiden Networks die Datenbanken der Einwohnermeldeämter zur Verfügung
+* lässt Dubletten bereinigen
+* macht die Personalausweisnummer zum Primärschlüssel
+* Flugzeuge betreten dürfen nur noch Mitglieder von StudiVz und UnserXing, die höchstens 3 Grade vom Innenminister entfernt sind.
+* Es gibt keine Flughafenkontrollen mehr
+* Falls jemand in einem Flugzeug eine Bombe zündet oder es entführt, werden alle seine Kontakte für 5 Jahre vom  Flugverkehr ausgeschlossen.

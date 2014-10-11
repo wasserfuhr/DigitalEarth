@@ -1,0 +1,6 @@
+{{{
+   if ( !request.getHeader("user-agent").contains("Firefox") ) {%>
+      <p style="text-decoration: blink">Sieht diese Seite komisch aus? Etwa keine RundeEcken? Schade, dann nutzt Du wohl 
+      den falschen Browser. Denn jeder echte MindBroker surft mit FireFox.</p>
+   <%}
+}}}

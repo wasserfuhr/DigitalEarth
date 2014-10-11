@@ -1,0 +1,30 @@
+* InterWiki: [DeWikiPedia:Künstliche_Intelligenz], [LangReiter:AI], [ThoughtStorms:ArtificialIntelligence],[WebSeitz:AI]
+
+short for: ArtificialIntelligence.
+
+SergeyBrin wants to achieve AI [until 2020|http://www.siggibecker.de/blog/archives/2007/01/cyc-und-google-totgesagte-leben-langer/]
+
+When will ArTelligence exist, so that human MiNd's will no longer be considered
+as the highest development of ConScious'ness:
+
+||Jahr||MindBroker
+|2025|ShaneLegg
+|2029|KurzWeil
+|2029|RainerWasserfuhr
+|2080|DimitriUwarov
+|2222|YvonneSchubert
+
+BruceKlein already asked this: http://www.novamente.net/bruce/index.php/?p=54
+
+Modules:
+* Goals: DoIt, ReDo, RoadMap
+* Perception: MindEyes, MindFeeds
+* Memory: SemanticWeb
+* InFer'ence
+
+Concepts: RauSing, MetaMan, BlueMan, TerraMind, AvaTar, BlueMind, PanOrama, NewMind.
+
+The RoadMap to ArTelligence will be stridden simultaneously via the three noble paths:
+* BioMind
+* GoogleMind
+* NewMind

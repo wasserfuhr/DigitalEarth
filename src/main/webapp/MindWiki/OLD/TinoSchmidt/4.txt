@@ -1,0 +1,6 @@
+* IsA: PerSon
+* HomePage: http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_mathematik_und_naturwissenschaften/fachrichtung_psychologie/i1/allgpsy/mitarbeiter/tino_schmidt/schmidt
+* HasTalked: RainerWasserfuhr MartinRoell GunterDueck
+|[XingLe:Tino_Schmidt]
+
+MeMo: 2010-07-16: HauptStrasse: RodneyBrooks AlanTuring HowTheMindWorks 

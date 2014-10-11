@@ -1,0 +1,9 @@
+* MindTags: MindPlace
+* BoundingBox: 25
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/24355319
+
+TotalRecall:
+* 20081201: AndreasPoldrack, NorbertRost, RainerWasserfuhr EtAl: EnErgie, GeoMantie, RupertSheldrake, RudolfSteiner, DresdenOpenSpace, OsCar, PatentWahn, TwentyTwelveFilm, DasSystem, JosefAckermann, GoetzWerner, WorldCrash, SahraWagenknecht, TotalRecall, DatenSchutz, NooPolis, IntegralerSalon, DieVioletten, TuringTest, BrainCopy
+* 20081110: AndreasPoldrack, RainerWasserfuhr EtAl: SpiralDynamics, KenWilber, NachHaltig
+* 20081013: NorbertRost, RainerWasserfuhr EtAl: WorldCrash, ComputationalEconomics, DasSystem, EinfacheLeute, JosefAckermann, TwentyFirstCentury, SchaetzQual, DeutscheBank, WeltFrieden, TobinTax, FutureMap, WorldStateIsInevitable, ForbesList, ConSpire, SchwarmIntelligenz, MindWater, DieVioletten, ErdStrahlen, SimulationArgument, IntelligenceExplosion, ZweiStein, TuringTest, KenWilber, GrueneEbene
+* 20080709:1900 NorbertRost, RainerWasserfuhr EtAl: ElbTaler, NooPolis, VerFassung, KayGroschen

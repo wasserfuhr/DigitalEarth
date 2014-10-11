@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.064
+* LaengenGrad: 13.822
+* BoundingBox: 30
+* HomePage: http://www.kakadubar.de/

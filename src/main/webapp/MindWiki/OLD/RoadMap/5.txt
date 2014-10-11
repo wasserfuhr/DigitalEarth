@@ -1,0 +1,6 @@
+* finde viele gute und kluge BuergerInnen für NooPolis
+* handele, tausche und schenke KayGroschen zwischen BuergerInnen
+* code eine funktionsfähige InBox für die Kommunikation zwischen BuergerInnen.
+* finde MitWirkende mit CommitMent
+
+konkret: DoIt.

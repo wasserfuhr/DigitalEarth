@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/59/3326
+* HomePage: http://www.mathematik.uni-kassel.de/~koepf/
+* PageNumber: 6
+* PagePath: LarryPage SergeyBrin MonikaHenzinger KurtMehlhorn FriedhelmMeyerAufDerHeide ErnstWMayr WolframKoepf

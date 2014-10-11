@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Ellen_DeGeneres]
+* BirthDay: 01-26
+|[TwittEr:TheEllenShow]

@@ -1,0 +1,55 @@
+;
+;
+;{{{
+
+
+((defn bank [] 
+  (handle "bank"
+   (fn []
+(do
+ (Class/forName "org.apache.derby.jdbc.EmbeddedDriver")
+ (let
+  [con (java.sql.DriverManager/getConnection"jdbc:derby:base;create=true" "SYSDBA" "masterkey")
+  stmt (.createStatement con)
+  depotUserName (new java.util.Hashtable)
+  depotCorpName (new java.util.Hashtable)]
+  (do
+   ((defn fillUser [rs]
+    (if (.next rs)
+     (do
+      (.put depotUserName (.getInt rs 1) (.getString rs "wikiname"))
+      (fillUser rs))))
+    (.executeQuery stmt "select * from depot,user_ where depot.user_id=user_.id"))
+   ((defn fillCorp [rs]
+    (if (.next rs)
+     (do
+      (.put depotCorpName (.getInt rs 1) (.getString rs "wikiname"))
+      (fillCorp rs))))
+    (.executeQuery stmt "select * from depot,corp where depot.corp_id=corp.id"))
+   (defn getName [id]
+     (if (.containsKey depotUserName id)
+       (.get depotUserName id)
+       (.get depotCorpName id)))
+   (str "
+     <table>
+      <tr><th>On</th><th>To</th><th>From</th><th>Procurer</th><th> </th><th>KayGroschen</th></tr>"
+  ((defn recurs [rs]
+   (if (.next rs)
+     (str "<tr><td>"
+      (.getDate rs "date") "</td><td>"
+       (getName (.getInt rs "receiver_id"))
+      "</td><td>"
+      (getName (.getInt rs "sender_id"))
+      "</td><td>"
+      (if (not= (.getInt rs "procurer_id")
+              (.getInt rs "sender_id"))
+         (getName (.getInt rs "procurer_id")))
+      "</td><td>"
+      (.getString rs "text") "</td><td>"
+      (.getDouble rs "amount") "</td></tr>" 
+    (recurs rs))
+   ))
+  (.executeQuery stmt "select * from payment order by id desc"))
+  "<table>")
+))""))))
+;}}}

@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:David_Brin], [OpenCyc:DavidBrin], [WebSeitz:DavidBrin]
+* JahrGang: 1950
+* BirthDay: 10-06
+* HomePage: http://www.davidbrin.com/
+* MindSkill: SciFi

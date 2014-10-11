@@ -1,0 +1,10 @@
+WwwOhneWww
+
+not with AppEngine?
+
+How to BootStrap your own MicroNation:
+# DePloy the MindTar ConTent to the WorldWideWeb, e.g. http://mind.intellihaus.de/ (MindVar:MindDump)
+## check UniCode: e.g. http://mind.intellihaus.de/DistanzSpiel.txt should display "Appartementtür" with correct Encoding "UTF-8"
+# create an AppEngine account
+# DePloy the NooPolis WebApp
+# call 

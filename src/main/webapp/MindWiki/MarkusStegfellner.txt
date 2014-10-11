@@ -1,0 +1,2 @@
+* IsA: PerSon
+* InvitedBy: RalfLippold

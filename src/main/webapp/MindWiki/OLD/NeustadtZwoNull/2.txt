@@ -1,0 +1,18 @@
+* MindTags: MindEvent
+
+!Ort: OostEinde
+!Beginn: 24.04.2007 um 20:00
+* XingLe: https://www.xing.com/app/events?op=detail;id=203578
+
+!Programmvorschläge:
+* SemanticWeb
+* KurzWeil und SingularityIsNear
+* AiGame
+* DresdenChess
+* NooPolis GeneralAssembly
+
+Teilnehmer:
+* JanBoehme
+* RainerWasserfuhr
+* FrankLorenz?
+* SebastianMitter?

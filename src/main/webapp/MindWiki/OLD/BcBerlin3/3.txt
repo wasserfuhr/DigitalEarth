@@ -1,0 +1,15 @@
+* MindTags: MindEvent
+* HomePage: http://barcampberlin3.mixxt.org/
+
+BarCamp in the StadtBerlin.
+
+CitiZens:
+* JanBoehme
+* PierreKerchner
+* OliverBerger
+* StefanNitzsche
+* TinaPickhardt
+
+Interesting MindPeople:
+* BjoernOgnibeni, ChristianHeller, FalkLueke, GernotPoetsch, MagdalenaBoettger, MarkusBeckedahl, MartinKoser, PhilVonSassen
+EtAt

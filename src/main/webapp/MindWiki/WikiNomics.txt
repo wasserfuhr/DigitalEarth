@@ -1,0 +1,4 @@
+Ursprünglich ein Buch von DonTapscott.
+
+HeuReka! Idee: jede Seite im MindWiki bekommt ein eigenes BankKonto.
+BuergerInnen können an ''jede'' Seite KayGroschen überweisen und die Eigentumsanteile an der Seite auf dem MindFloor handeln.

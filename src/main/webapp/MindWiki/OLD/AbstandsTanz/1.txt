@@ -1,0 +1,6 @@
+Ein von EvaLubas vorgeschlagenes Spiel, welches beim WikiWeiberZwo-MindEvent ausprobiert wurde:
+
+Der AbstandsTanz kann in Gruppen von ca 5-10 Menschen gespielt werden:
+Jeder Teilnehmer wählt zwei andere Teilnehmer aus, verrät aber nicht, welche.
+Anschliessend bewegen sich alle Teilnehmer so, dass der eigene Abstand
+zu den 2 Auswählten immer gleich ist.

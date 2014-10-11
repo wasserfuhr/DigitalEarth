@@ -1,0 +1,8 @@
+UnternehmensGruender'in: DueckWiki.
+
+* JahrGang: 1973
+* WohnSitz: FeuerBach
+
+||AusLand
+|[XingLe:Heike_Ribke]
+|[SkyPe:heike.ribke]

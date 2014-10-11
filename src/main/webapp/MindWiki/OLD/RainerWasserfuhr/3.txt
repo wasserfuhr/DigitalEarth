@@ -1,0 +1,4 @@
+* role: Founder, JSP-Developer
+* homepage: http://wasserfuhr.com
+* svn-user:rainer
+* xing: https://www.xing.com/profile/Rainer_Wasserfuhr

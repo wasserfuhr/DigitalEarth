@@ -1,0 +1,4 @@
+* InspiredBy: ErdosNumber
+* NamedAfter: BarackObama
+
+ShookHandsWithObama

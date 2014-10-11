@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Ebersbach_(bei_Großenhain)]
+* BreitenGrad: 51.24056
+* LaengenGrad: 13.66
+* BoundingBox: 500

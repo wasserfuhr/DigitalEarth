@@ -1,0 +1,5 @@
+OpenId für alle 1.342.000 BuergerInnen.
+
+* BreitenGrad: 58.786
+* LaengenGrad: 25.739
+* BoundingBox: 356000

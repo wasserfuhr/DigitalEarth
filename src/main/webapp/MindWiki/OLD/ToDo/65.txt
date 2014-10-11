@@ -1,0 +1,8 @@
+→ DoIt
+
+FliessText-ToDo's als BrainStorm-VorStufe für DoIt:
+* NooMic: code einen BootStrapper in CloJure, der Unterseiten aus dem MindWiki liest, evaluiert und cached.
+nimm MoegLich'st wenige Änderungen an NooMicJsp vor. Als Data... speichere im Servlet-Application ConText?
+* lade den BootStrapper und auch die Unterseiten nicht mehr immer, sondern nur
+Dies könnte auch der Hook sein für eine erste kleine SicherHeit's-Schicht, zb als FreiHeit-Konstantenliste mit
+berechtigten Developern.

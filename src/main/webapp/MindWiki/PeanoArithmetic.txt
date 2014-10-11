@@ -1,0 +1,2 @@
+* InterWiki: [WikiWikiWeb:PeanoArithmetic]
+* NamedAfter: GiuseppePeano

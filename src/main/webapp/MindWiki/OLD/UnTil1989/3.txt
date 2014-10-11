@@ -1,0 +1,11 @@
+||When        ||UnTil||      ||MindPlace  ||What                    ||MindPeople
+|19891109     |     |        |VillingenSchwenningen|BwInf           |RainerWasserfuhr, HansKuelzer
+|19891109     |     |        |DdErr       |MauerFall                |YvonneSchubert EtAl
+|19881221     |     |        |LockerBie   |Crash                    |
+|19880602     |     |        |CockerWiese |Konzert                  |JoeCocker
+|19870907     |     |        |StadtBonn   |                         |ErichHonecker, HelmutKohl
+|19870612:1400|     |        |StadtBerlin |TearDownThisWall         |RonaldReagan, RichardVonWeizsaecker, HelmutKohl, EberhardDiepgen
+|19851016:1530|     |        |StadtDresden|nothing                  |UweTellkamp
+|19830926     |     |        |Serpukhov-15|nothing                  |StanislavPetrov
+|19810412     |     |        |KennedySpaceCenter|TakeOff            |JohnYoung, RobertCrippen
+|1978         |     |        |StadtKoeln  |GeldAutomat              |HelmutEwering

@@ -1,0 +1,21 @@
+* MindTags: MinisTer
+* JahrGang: 1977
+* BirthDay: 07-01
+* WohnSitz: StadtDresden 
+* SprachWelt: de, en-1
+* LebensErwartung: 2054
+* TraumZeitAlter: 2010
+* MindFaves: ReneEgli,DanielCraig,FengShui,FlickEr,MindBau,PayBack
+* LiebesRinge: RwCs,CsRb
+* FoAf: http://tine.intellihaus.de/foaf.rdf
+* MindTrust: RainerWasserfuhr,YvonneSchubert,DanielPoodratchi,AndreasWeigel,UteMoritz, HeikeRibke,IrisSchilke,SebastianMitter,StefanNitzsche
+* http://blog.intellihaus.de/
+||AusLand
+|[SkyPe:schlinck]
+|[XingLe:Christine_Schlinck]
+|[TwittEr:tineroyal]
+|[FlickEr:lifecosmos]
+|[WorldWideWeb:intellihaus.de]
+|[FaceBook:718970549]
+|[SecondLife:Clarisse_Schumann]
+|[DeWikiPediaUser:Christine_Schlinck]

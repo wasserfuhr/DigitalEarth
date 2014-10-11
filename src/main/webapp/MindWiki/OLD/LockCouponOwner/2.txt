@@ -1,0 +1,47 @@
+!Current Owner
+||SerialNumber||Owner
+|1|IrisSchilke
+|2|ThiemoMaettig
+|3|RaikFischer
+|4|MarcelBoehme
+|5|HeidiGallinat
+|6|MarkusStamm
+|7|MarkusStamm
+|8|RainerWasserfuhr
+|9|RegineZiolko
+|10|RainerWasserfuhr
+|11|RainerWasserfuhr
+|12|RainerWasserfuhr
+|13|KarenWeinert
+|14|KarenWeinert
+|15|KarenWeinert
+|16|KarenWeinert
+|17|KarenWeinert
+|...|
+|35|RainerWasserfuhr
+|36|RalfLippold
+|37|RalfLippold
+|...|
+|102|RalfLippold
+
+||On     ||SerialNumber||from         ||to              ||reason
+|2010-02-01|146-202|LockSchuppenAg    |RalfLippold      |LockCouponEmission
+|2010-02-01|118-145|LockSchuppenAg    |RainerWasserfuhr |LockCouponEmission
+|2010-02-01|108-117|LockSchuppenAg    |OliverGasser     |LockCouponEmission
+|2010-02-01|106-107|LockSchuppenAg    |MarkusStamm      |LockCouponEmission
+|2010-02-01|105    |LockSchuppenAg    |ChristianHeller  |LockCouponEmission
+|2010-02-01|104    |LockSchuppenAg    |PeterHerbst      |LockCouponEmission
+|2010-02-01|103    |LockSchuppenAg    |ChristineSchlinck|LockCouponEmission
+|2010-01-03| 36-102|LockSchuppenAg    |RalfLippold      |LockCouponEmission
+|2010-01-03| 10- 35|LockSchuppenAg    |RainerWasserfuhr |LockCouponEmission
+|2010-01-03|  8    |LockSchuppenAg    |RainerWasserfuhr |LockCouponEmission
+|2010-01-03|  7    |LockSchuppenAg    |MarkusStamm      |LockCouponEmission
+|2010-01-03|  6    |LockSchuppenAg    |MarkusStamm      |LockCouponEmission
+|2009-12-31|  6    |WinfriedLueg      |LockSchuppenAg   |LockSession
+|2009-12-31|  6    |RainerWasserfuhr  |WinfriedLueg     |gift
+|2009-09-06|  6    |LockSchuppenAg    |RainerWasserfuhr |Kauf
+|2009-09-06|  5    |LockSchuppenAg    |HeidiGallinat    |Kauf
+|2009-09-04|  4    |LockSchuppenAg    |MarcelBoehme     |BeSuch
+|2009-09-04|  3    |LockSchuppenAg    |RaikFischer      |BeSuch
+|2009-09-04|  2    |LockSchuppenAg    |ThiemoMaettig    |BeSuch
+|2009-09-04|  1    |LockSchuppenAg    |IrisSchilke      |BeSuch

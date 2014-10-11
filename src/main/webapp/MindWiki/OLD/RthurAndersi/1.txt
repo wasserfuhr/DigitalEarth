@@ -1,0 +1,2 @@
+* MindTags: MindThings
+* BoundingBox: 0.025

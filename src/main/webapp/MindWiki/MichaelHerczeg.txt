@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Michael_Herczeg]
+* BornIn: 1956
+* BirthDay: 05-16
+* BirthPlace: LudwigsBurg
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/MichaelHerczeg
+* HomePage: http://www.imis.uni-luebeck.de/herczeg/

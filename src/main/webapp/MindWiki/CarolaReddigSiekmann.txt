@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/CarolaReddigSiekmann
+* ViAf: http://viaf.org/viaf/5614304
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann WolfgangWahlster CarolaReddigSiekmann

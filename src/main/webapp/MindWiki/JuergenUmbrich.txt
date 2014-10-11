@@ -1,0 +1,8 @@
+* IsA: PerSon
+* SwDf: http://data.semanticweb.org/person/juergen-umbrich
+* DbLp: http://dblp.uni-trier.de/rec/pid/27/1299
+* HomePage: http://www.umbrich.net/
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker StefanDecker JuergenUmbrich
+|[TwittEr:JuUm]
+|[XingLe:Juergen_Umbrich]

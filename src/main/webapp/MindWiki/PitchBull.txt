@@ -1,0 +1,22 @@
+Ein Pitch des PitchBull für NooPolis (ghostwriting by: PitchBitch):
+
+NooPolis wird eine neue Art von SocialNetwork. NooPolis ist ein SocialNetwork von übermorgen. Es ist eine virtuelle Republik mit BuergerBeteiligung und hat eine VirtuelleOekonomie. 
+Das Herzstück von NooPolis ist die WikiBasiert'e VerFassung.
+Sie ist für alle BuergerInnen bindend __und__ kann von allen BuergerInnen jederzeit editiert werden.
+
+Die drei wichtigsten Werte von NooPolis sind FreiHeit, Vertrauen und TransParenz: 
+
+1. FreiHeit heißt SelbstOrganisation. Die BuergerInnen selbst definieren die Regeln, nach denen die Republik funktioniert. Im Vordergrund steht hier ein dynamischer Prozeß, und nicht nur ein statischer VerTrag. NooPolis basiert auf einer im Wiki editierbaren VerFassung, welche die BuergerInnen selbst schreiben und verändern. Der erste Satz unserer Verfassung lautet: Alle BuergerInnen haben FreiHeit. 
+
+2. Vertrauen entsteht durch ein WebOfTrust. Die Identität aller BuergerInnen (MindId) wird durch ein Netz von gegenseitigen Vertrauensbezeugungen verifiziert und gesichert. So entsteht eine wirklich vertrauenswürdige Community.
+
+3. TransParenz entsteht durch die ausschließliche Verwendung von OpenSource-Software. Der Quelltext kann auf jeder Webseite per ViewSource eingesehen werden. Auch die Administration der Server ist TransParent.
+
+Das Neue an dieser Republik ist, dass sie über eine eigene VirtuelleOekonomie verfügt, über eigene Unternehmen und eine eigene Währung namens KayGroschen. 
+
+Die Idee dahinter: auf dem HoheitsGebiet von NooPolis werden Unternehmen gegründet, die auf einem MarketPlace ihre Produkte und Dienstleistungen anbieten, welche von den BuergerInnen nachgefragt werden. Die Bezahlung erfolgt in KayGroschen. Zusätzlich können die UnterNehmen Aktien ausgeben, welche auf dem MindFloor gehandelt werden. 
+
+Um diese Grundfunktionen gruppieren sich weitere WebApp's, welche die Infrastruktur der Republik zur Verfügung stellen: Die InBox für Nachrichten, das MindBlog für Information und Diskussion, die PieschenBank für den Zahlungsverkehr und MindVote's für Umfragen.
+
+
+Und echte MindBroker trinken nur MetaBeer und Wodka-PitchBull.

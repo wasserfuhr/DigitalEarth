@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* BirthDay: 01-08
+* HomePage: http://www.klaus-peter-flosbach.de/
+* HasTalked: HorstKoehler

@@ -1,0 +1,34 @@
+* InterWiki: [WebSeitz:BigCo]
+
+||MarketCap|| ||BigCo
+|459|XOM |ExxonMobil
+|343|GE  |GeneralElectric
+|291|    |GazProm
+|270|CHL |ChinaMobile
+|263|MSFT|MicroSoft
+|227|    |PetroChina
+|215|RDS |RoyalDutchShell
+|216|T   |AT&T
+|198|    |Industrial and Commercial Bank of China
+|193|VTX:NESN|Nestlé
+|160|BAC |BankOfAmerica
+|160|IBM |EiBiEm
+|132|GOOG|Google
+|124|FRA:EOA|EonAg
+| 97|C   |CitiGroup
+| 95|FRA:SIE|SieMens
+| 82|FRA:DAI|DaimlerAg
+| 82|FRA:DTE|DeutscheTelekom
+| 75|FRA:ALV|Allianz
+| 59|FRA:SAP|SapAg
+| 53|FRA:DBK|DeutscheBank
+| 45|SOCG|SocieteGenerale
+| 37|FRA:DPW |DeutschePost
+| 37|    |MunichRe
+| 29|RUKN|SwissRe
+| 13|FRA:ADS|AdiDas
+| 11|    |KuehneNagel
+|0.53|    |ComBots
+|0.32|    |XingLe
+
+http://en.wikipedia.org/wiki/List_of_corporations_by_market_capitalization

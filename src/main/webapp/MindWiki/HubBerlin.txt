@@ -1,0 +1,6 @@
+* IsA: CoWorkingSpace
+* HomePage: http://berlin.the-hub.net/public/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/606164068
+* NearBy: ErkelenzDamm
+* PartOf: TheHub
+|[TwittEr:HUBBerlin]

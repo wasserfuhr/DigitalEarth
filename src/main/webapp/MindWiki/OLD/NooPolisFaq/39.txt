@@ -1,0 +1,48 @@
+* WorldLanguages: deutsch: NooPolisFaqDe
+
+!About
+* What is the key benefit of NooPolis? Why should I JoinNow?
+** In just a few years, almost 2.000.000.000 people have found together on the InterNet. However, many political social and financial institutions failed in adopting the new reality of a global society. In NooPolis you can ConNect with committed people and shape the future of global society and digital economy.
+* What are the basic ideas?
+** Social and economic power of CitiZens is based on skills, responsibility, trust and transparency (OpenPower)
+* Why did you create a new currency can't you just EuRo or UsDollar?
+* How many people are you?
+** see [here|http://id.mindbroker.de/] 
+* How will you make money?
+** NooPolis as such is not to make money, but to create a platform for new forms of value creation. 
+* I don't understand some wiki entries. What is it actually?
+** If you do not understand some page in the MindWiki: Ask RainerWasserfuhr or other CitiZens.
+* What is origin of the name NooPolis?
+** The name has its roots in the ancient greek [Polis|http://en.wikipedia.org/wiki/Polis] and the NooSphere of TeilhardDeChardin.
+* Why does NooPolis have an EndOfLife UnTil2012?
+** Because we still do not know whether and to what extent a VirtualEconomy complies with the laws in Germany and EurOpa. Until then NooPolis is a game and StartUpSim simulation with a time limit.
+* Can the EndOfLife of NooPolis change?
+** At any time, if the CitiZens and their ConStitution wish: ItsaWiki! ;)
+* Who had the idea?
+** RainerWasserfuhr with valuable feedback from other CitiZens.
+* When did NooPolis start?
+** NooPolis started in the summer of 2007 and steadily expanded since.
+* How did the idea for NooPolis emerge?
+** The idea originated [here|http://www.flickr.com/photos/rainerw/308191869/]
+
+!Currency
+* Why does NooPolis have a virtual currency?
+** Because KayGroschen game with a lot more imagination of MitWirkende'n promotes.
+* What can I do with KayGroschen?
+** buy services in the MindShop
+** create a StartUp, sell your products
+** trade shares on the MindFloor
+* Do I have to balance my BankAccount on my taxable? How?
+** we plan to ask your tax consultant
+
+!Economy
+* How is the VirtualEconomy compatible to the real economy?
+** Through exchange of EuRo in KayGroschen at the __ForEx__.
+
+!Other
+* Can I use my existing OpenId to log in to  NooPolis?
+** Not yet. JoinNow and help us with the implementation!
+* Can I get a notification when I have new mail in my InBox?
+** Not now, possibly later. As an interim solution: Join the MindChat.
+* How safe is my data with you?
+** Our software is OpenSource. On each page, there is ViewSource. Do you have suggestions for improvement? JoinNow and help us in the implementation!

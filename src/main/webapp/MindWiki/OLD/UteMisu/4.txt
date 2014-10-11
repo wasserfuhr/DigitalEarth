@@ -1,0 +1,18 @@
+||Ort                 ||Nr  ||Breiten|Grad||LaengenGrad||VorName||Bote||Status
+|Herzjesukirche       |     |47.06961| 15.4557 |       |RainerWasserfuhr
+|VillaKollmann        |     |47.07667| 15.4569 |       |RainerWasserfuhr
+|Karl-Franzens-Uni    |     |47.07805| 15.4491 |       |RainerWasserfuhr
+|LeechKirche          |     |47.07556| 15.4469 |      |RainerWasserfuhr
+|GrazerOper           |     |47.069053|15.44556|      |RainerWasserfuhr
+|-
+|Forum Stadtpark      |     | 47.074652|  15.4435|      |RainerWasserfuhr
+|UhrTurm              |     |47.075463|  15.4367|      |RainerWasserfuhr
+|Volkskundemuseum     |     | 47.074733|  15.4396|      |RainerWasserfuhr
+|Campus02             |     |47.088333|  15.439|      |RainerWasserfuhr
+|-
+|JustizanstaltKarlau  |     |47.054317| 15.42965|      |RainerWasserfuhr
+|JustizanstaltJakomini|     |47.0603  | 15.4453|      |RainerWasserfuhr
+|Franziskanerkloster  |     |47.070483|  15.43678|      |RainerWasserfuhr
+|Griesplatz           |     |47.063333|  15.4286|      |RainerWasserfuhr
+|Franziskanerkloster  |     |47.070483|  15.43678|      |RainerWasserfuhr
+|GrazHbf              |     |47.072222|  15.4169|      |RainerWasserfuhr

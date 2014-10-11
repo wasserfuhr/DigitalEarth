@@ -1,0 +1,11 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/l/TLengauer
+* HomePage: [http://bioinf.mpi-inf.mpg.de/homepage/index.php?&account=lengauer]
+* MindSkill: BioMind
+
+PagePath:
+# MonikaHenzinger
+# [http://dblp.uni-trier.de/db/indices/a-tree/n/N=auml=her:Stefan.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/b/Buchheim:Christoph.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/j/J=uuml=nger:Michael.html]
+ThomasLengauer

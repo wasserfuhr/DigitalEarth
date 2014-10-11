@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/RobertHirschfeld
+* HomePage: http://www.hpi.uni-potsdam.de/personen/professoren/hirschfeld.html
+* PageNumber: 11
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge BarneyPell MichaelGenesereth JayTenenbaum AlanKay DanIngalls RobertHirschfeld
+* HasTalked: RainerWasserfuhr DirkRiehle
+
+UniPotsdam

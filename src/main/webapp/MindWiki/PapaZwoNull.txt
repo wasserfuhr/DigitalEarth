@@ -1,0 +1,1 @@
+* RdfProperty: http://purl.org/vocab/relationship/childOf

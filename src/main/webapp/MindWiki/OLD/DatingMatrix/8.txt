@@ -1,0 +1,7 @@
+||Name          ||Ab ||Blöde Popups||CoolURIs||OpenSource||UserOwned||Trust||Recommendations
+|finya.de       |200?|ja           |nein     |nein       |nein |nein |nein
+|NeuDe          |200?|ja           |ja       |nein       |nein |teils|nein
+|AltCom         |200?|?            |?        |nein       |nein |nein |nein
+|SklavenZentrale|200?|nein         |?        |nein       |nein |ja   |nein
+|HeuteAbend     |2008|nein         |ja       |ja         |ja   |ja   |ja
+|AdultFriendFinder

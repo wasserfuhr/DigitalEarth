@@ -1,0 +1,17 @@
+Zur Zeit im Angebot im MindShop:
+
+||Name            ||Preis||Einheit||Service
+|CallRainer       |     3| EUR/min|
+|MindBanner       |   100|     EUR|Monat Oktober 2007 im AgWiki
+|MindBanner       |   200|     EUR|Monat November 2007 im AgWiki
+|MindBanner       |   400|     EUR|Monat Dezember 2007 im AgWiki
+|MindBanner       |   400|     EUR|ExPo: Monat Januar 2008 im AgWiki
+|YvonneSchubert   |    60|     EUR|1h
+|ChristineSchlinck|    30|     EUR|FengShui-Beratung
+|DanielPoodratchi |    30|     EUR|1h
+|AndreasWeigel    |    20|     EUR|1h
+
+Leider sind alle genannten Produkte derzeit nur in beschränktem Umfange verfügbar.
+Immer gilt: Nur per VorKasse und zzgl der Mwst. in DeutschLand.
+
+Bald als WebApp für http://shop.mindbroker.de

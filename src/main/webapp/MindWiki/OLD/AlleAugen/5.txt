@@ -1,0 +1,15 @@
+"AlleAugen" ist das WikiBasiert'e Bürge- und Beglaubigungsprinzip von MindBroker, mit dem besonders relevante Wikipages einem Review unterliegen und dennoch ganz ohne UnserNotar auskommen.
+
+Grundsätzlich kann jede Seite von allen BuergerInnen editiert werden.
+
+Falls
+* BuergerInnen die Gültigkeit einer Seitenbearbeitung anzweifeln (z. B. bei Sicherheitslücken, Geschäftsunfähigkeit des Editierenden etc.) und 
+* der ursprünglich Editierende AbWesend ist oder bei seinem LebensEnde,
+kann er einen MindVote unter den n/2 BuergerInnen mit den höchsten Beträgen auf dem BuergerKonto einfordern:
+
+AchtAugen: (Also 4 BuergerInnen)
+* LastWill
+
+SechsAugen: (Also 3 BuergerInnen)
+* VerFassung
+* VerTrag

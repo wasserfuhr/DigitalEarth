@@ -1,0 +1,4 @@
+* IsA: PerSona
+* InterWiki: [DeWikiPedia:Olaf_Schubert]
+* BornIn: 1967
+* BirthDay: 11-07

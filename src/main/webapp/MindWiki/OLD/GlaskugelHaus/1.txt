@@ -1,0 +1,2 @@
+* IsA: KugelHaus
+* NearBy: WienerPlatz DresdenHbf

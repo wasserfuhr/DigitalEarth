@@ -1,0 +1,11 @@
+es gibt bisher, noch keine allgemein akzeptierte Definition von MusTer...
+
+erst einmal nur:
+
+http://de.wikipedia.org/wiki/Muster
+
+ChristopherAlexander ein Architekt definierte MusTer 1977 in seinem Buch "a pattern language" folgendermaßen:
+Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution  to that problem, such a way that you can use this solution a million times over without ever doing it the same way twice.
+
+jedes MusTer beschriebt ein wiederkehrend auftretendes Problem aus unserer Umgebung,  und beschreibt dann den Kern der Lösung zu diesem Problem. Die Beschreibung dieses Kerns wieder lässt uns die Lösung millionenfach wieder verwenden, ohne es auch nur zwei Mal auf dieselbe Art tun zu müssen.
+

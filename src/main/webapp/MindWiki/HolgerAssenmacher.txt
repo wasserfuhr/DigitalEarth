@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/06/5171
+* PageNumber: 12
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach JuergenNehmer PeterSturm FriedemannMattern ReinhardSchwarz HolgerPeine HolgerAssenmacher
+|[XingLe:Holger_Assenmacher]

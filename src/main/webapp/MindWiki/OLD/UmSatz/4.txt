@@ -1,0 +1,7 @@
+Bisherige Käufe im MindShop:
+
+||Datum  ||Käufer          ||Produkt   ||Unikat ||Stück||Preis||Gesamt
+|20080205|RainerWasserfuhr |LiebesRinge|RwCs    |1     |100|100
+|20080205|RainerWasserfuhr |LiebesRinge|RwYs    |1     |100|100
+
+Unsere UmsatzPrognose.

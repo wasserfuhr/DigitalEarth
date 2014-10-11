@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Paul_Erdős] [WikiWikiWeb:PaulErdos]
+* BirthDay: 03-26
+* LebensEnde: 1996
+* DbLp: http://dblp.uni-trier.de/rec/pid/e/PErdos
+* BaconNumber: 4

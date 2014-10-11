@@ -1,0 +1,10 @@
+||                  ||2007 ||2008
+|InVest             |      |
+|-RainerWasserfuhr  | 20700| 4500
+|PayOut             |      |
+|- YvonneSchubert   | 18000|    0
+|- DanielPoodratchi |  2000| 1000
+|- OliverGassner    |     0| 2500
+|EcZwo              |   700| 1000
+
+Einige MitWirkende haben ein CommitMent.

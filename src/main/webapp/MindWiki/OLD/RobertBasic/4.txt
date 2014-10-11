@@ -1,0 +1,7 @@
+* MindTags: MindPeople
+* FoAf: http://www.ecademy.com/module.php?mod=network&op=foafrdf&uid=35916
+||AusLand
+|[WorldWideWeb:www.basicthinking.de]
+
+* http://www.basicthinking.de/blog/feed/: BlogLines subscriber: 733
+* http://feeds.feedburner.com/basicthinking/rss: BlogLines subscriber: 13

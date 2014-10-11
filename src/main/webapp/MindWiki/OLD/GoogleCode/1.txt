@@ -1,0 +1,6 @@
+how to install the BigTableNomic WebApp from GoogleCode inside EclipseIde:
+
+* have a JavaVm (tested with: >= 1.6) and ApacheMaven (tested with >= 3.0) installed
+* add the DeepLink shown at http://code.google.com/p/bigtablenomic/source/checkout
+
+Call "mvn buildnumber:create install"

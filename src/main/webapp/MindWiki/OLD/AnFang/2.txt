@@ -1,0 +1,4 @@
+Diese ErZaehlung hier ist nicht linear, sondern spannt sich wie eine NetzSpinne
+über das ganze MindWiki. Ein RoterFaden existiert dennoch: Am Ende jeder Erzählstation ist
+das letzte Wort __fett__ und verlinkt zur nächsten Erzählstation.
+Der AnFang jeder ordentlichen ErZaehlung ist die __GeBurt__.

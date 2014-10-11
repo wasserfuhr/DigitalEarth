@@ -1,0 +1,4 @@
+* IsA: PerSon
+* PageNumber: 12
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach JuergenNehmer PeterSturm FriedemannMattern ReinhardSchwarz HolgerPeine HolgerAssenmacher
+|[XingLe:Holger_Assenmacher]

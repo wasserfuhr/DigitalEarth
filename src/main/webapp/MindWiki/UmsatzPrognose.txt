@@ -1,0 +1,13 @@
+WasSchaetztDu: Für den BusinessPlan: Wie hoch wird der UmSatz für welche Produkte im MindShop?:
+
+||EnterPrise   ||PreDict'ed by  ||on    ||Produkt          ||Stück||Gesamtumsatz||Währung
+|LockSchuppenAg|RainerWasserfuhr|2010-05|LockCoupon          |20|  7.500|KayGroschen
+|LockSchuppenAg|RainerWasserfuhr|2010-04|LockCoupon          |15|  5.000|KayGroschen
+|LockSchuppenAg|RainerWasserfuhr|2009-06|CLeanFee            | 1|      2|EuRo
+|LockSchuppenAg|RalfLippold     |2009-06|SingularSummitEurope| 1|    128|EuRo
+|LockSchuppenAg|RalfLippold     |2009-05|CLeanFee            | 1|    128|EuRo
+|LockSchuppenAg|RainerWasserfuhr|2009-05|CLeanFee            | 1|      1|EuRo
+|LockSchuppenAg|RainerWasserfuhr|2009-05|SingularSummitEurope| 1|    128|EuRo
+|MindBroker    |RainerWasserfuhr|2010   |StartUpSim          | 1|  5.000|KayGroschen
+|MindBroker    |RainerWasserfuhr|2009   |StartUpSim          | 1| 99.999|KayGroschen
+|MindBroker    |RainerWasserfuhr|2009   |OpenConsult-Stunden |80|120.000|KayGroschen

@@ -1,0 +1,10 @@
+* MindTags: MindPeople
+* HomePage: http://www.mattmahoney.net/
+
+Some quick 'n dirty thoughts on this paper: http://www.mattmahoney.net/agi.html
+
+As language for this distributed ArTelligence, use SemanticWeb-StateMent's.
+
+Publish statements as XMPP-stream, similar to the TwittEr API.
+
+Instead of questions, use RDF-StateMent's with variables, similar to SPAQRL.

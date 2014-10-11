@@ -1,0 +1,3 @@
+Eine JSP-basierte Wiki/Weblog-Software die RainerWasserfuhr ca. 2002 für die MindBrokerKg geschrieben hat.
+
+Seither live unter http://intrabroker.com/

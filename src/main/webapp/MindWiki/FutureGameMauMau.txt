@@ -1,0 +1,11 @@
+* InspiredBy: VisitenkartenMaumau
+
+Bald ein FutureGame- MauMau?:
+* RainerWasserfuhr kauft bei BueroUhlmann 100 Notizzettel.
+* Auf jeden Zettel schreibt RainerWasserfuhr ein CamelCase-Wort aus dem PageIndex, zB NacktSichtBrille
+* Bei jedem MindEvent können BuergerInnen die Zettel kaufen
+* Käufer schreiben auf den Notizzettel:
+** ihren CamelCase-Namen
+** ab wann es das Objekt oder Ereignis geben wird
+* Käufer können das Objekt weiterverkaufen
+* Jeder Käufer wird im MindWiki dokumentiert

@@ -1,0 +1,6 @@
+* InterWiki: [WikiPedia:Clickstream]
+
+GedankenSpiel: FireFox-Plugin schreiben, das den ClickStream loggen und publishen kann.
+
+BlackList pflegen, wo aus DatenSchutz-Gründen nicht geloggt werden kann (DatingMatrix, XingLe etc?).
+Diese Sites mehr und mehr AbSchalten.

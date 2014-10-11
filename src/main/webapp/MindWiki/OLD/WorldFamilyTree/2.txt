@@ -1,0 +1,7 @@
+* MindTags: FutureCard
+* PreDict: Public ComputableData with the FamilyTree of at least 1.073.741.824 living PerSon's will be available
+* PreDictDe: Es gibt öffentlich zugangliche ComputableData mit dem FamilyTree mindestens 1.073.741.824 lebender PerSon'en
+* FutureNumber: 30
+
+||PreDict'or     ||UnTil
+|RainerWasserfuhr|2015

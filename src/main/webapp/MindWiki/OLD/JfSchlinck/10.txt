@@ -1,0 +1,21 @@
+* MindTags: WunderKind
+* SprachWelt: de
+* MamaZwoNull: ChristineSchlinck
+* PapaZwoNull: JeMand
+* JahrGang: 2008
+* WoZu: ImMortal
+* TraumZeitAlter: 2008
+* GraDient: 180
+* BoundingBox: 0.47
+* WohnSitz: BergGarten 
+* BirthPlace: JosephStift
+* MindTrust: ChristineSchlinck
+* WikiPate: RainerWasserfuhr
+* MindSkill: DrehenUndTreten, SchluckAuf, DeziPetaFlops
+* InBody: {"20081010:1200", 4.2}
+
+* BirthDay: 10-1?
+||AusLand
+|[TwittEr:?]
+
+bald: MindQuote: "bruähhwahaauäääää!"

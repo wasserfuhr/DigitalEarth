@@ -1,0 +1,37 @@
+* InterWiki: [WikiPedia:Speed_prior]
+
+For NewMind: randomly generated rules about StateMent's.
+Validity of rules is tested by computing limited number of steps,
+validated against: A HappiNess function?
+
+NewMind has a temporal memory which is constructed in
+analogy to the 43-folders-MetaPhor of the [WikiWikiWeb:TicklerFile]:
+Future actions are organized on a hierarchical temporal horizon.
+Predictions are computed against this horizon.
+
+Future actions include state transitions of the WorldModel.
+
+Simplest UseCase: sun light on and off every day.
+
+Parallal to this ZeitStrahl there is the semantic level,
+constructed from atoms out of the SinnChemie-Baukasten:
+Like a TuringMachine, walking on the PageIndex.
+
+So basically the SpeedPrior-programs are HyperText.
+External PerCeive'ing can be simulated by copying texts from
+a [AgiriWiki:Sensory_Stimulus].
+
+So the sketch of a basic algorithm for a DigitalTwin:
+* start from the HomePage of the real twin, eg RainerWasserfuhr
+* list actions on the ReDo page, eg:
+** fetch content of HomePage-MindProps
+** compare content with PageIndex-atoms
+** fetch feeds of MindBlog-MindProps
+** compose new WikiPage from PageIndex-atoms
+** learn MindProps
+** create indices on pages
+** check if pagename has DelIcioUs links
+* learn to act in the external world via http POST: 
+** comments
+** TwittEr
+** creating accounts

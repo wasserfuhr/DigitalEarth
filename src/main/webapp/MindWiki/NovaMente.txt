@@ -1,0 +1,3 @@
+* IsA: EnterPrise
+* InterWiki: [AgiriWiki:Novamente] [OpenCog:MindOntology:Novamente]
+* MindOne: BenGoertzel

@@ -1,0 +1,15 @@
+||MindBroker     ||VerMoegen||Erbe
+|RainerWasserfuhr|50%       |PieschenBank
+|RainerWasserfuhr|20%       |ChristineSchlinck
+|RainerWasserfuhr|15%       |YvonneSchubert
+|RainerWasserfuhr|15%       |DanielPoodratchi
+
+Zum Abschreiben und Unterschreiben auf TotesHolz:
+{{{
+Hier verfüge ich, dass bei meinem LebensEnde mein VerMoegen
+gemäß der zum ZeitPunkt des LebensEnde's unter 
+  http://mindbroker.de/wiki/LastWill
+angebenen Anteile vererbt wird.
+
+Name,Datum,Ort
+}}}

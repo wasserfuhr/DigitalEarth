@@ -1,0 +1,3 @@
+* MindTags: ProJect
+
+ProjectCodeName für ein WorldModel und LifeWiki der MindBrokerKg.

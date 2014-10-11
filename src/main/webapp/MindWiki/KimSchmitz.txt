@@ -1,0 +1,4 @@
+* IsA: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Kim_Schmitz]
+* BornIn: 1974
+* BirthDay: 01-21

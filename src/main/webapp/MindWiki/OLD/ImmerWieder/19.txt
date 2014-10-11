@@ -1,0 +1,33 @@
+"ImmerWieder" ist das wikibasierte Wiedervorlageprinzip des AgWiki:
+
+WikiSpec:
+||ImmerWieder      ||OrderedByShares||last   ||do      ||it
+|ImmerWiederTag    |RainerWasserfuhr|20070518|lese     |MindFeeds
+|ImmerWiederWoche  |RainerWasserfuhr|20070401|reviewe  |DoIt
+|ImmerWiederWoche  |RainerWasserfuhr|20070518|mache    |SocialBackup
+|ImmerWiederWoche  |RainerWasserfuhr|20070518|giesse   |MindGreen
+|ImmerWiederMonat  |RainerWasserfuhr|20070518|reviewe  |ImmerWieder
+|ImmerWiederMonat  |RainerWasserfuhr|20070518|duenge   |MindGreen
+|ImmerWiederMonat  |RainerWasserfuhr|20070508|mache    |UstVA
+|ImmerWiederWoche  |RainerWasserfuhr|20070501|reviewe  |UnserBudget
+|ImmerWiederMonat  |RainerWasserfuhr|        |downloade|KontoAuszuege 
+|ImmerWiederQuartal|RainerWasserfuhr|        |mache    |Lagebericht
+|ImmerWiederJahr   |RainerWasserfuhr|20070413|mache    |JahresAbschluss
+|ImmerWiederWoche  |DanielPoodratchi|        |lese     |MindFeeds
+|ImmerWiederWoche  |DanielPoodratchi|20070518|reviewe  |UnserBudget
+|ImmerWiederMonat  |DanielPoodratchi|        |mache    |SocialBackup
+|ImmerWiederWoche  |AndreasWeigel   |        |reviewe  |UnserBudget
+|ImmerWiederWoche  |YvonneSchubert  |20070522|lerne    |Englisch
+|ImmerWiederWoche  |YvonneSchubert  |20070524|lese     |MindFeeds
+|ImmerWiederWoche  |YvonneSchubert  |20070522|lese     |heise-Newsticker
+|ImmerWiederWoche  |YvonneSchubert  |20070420|teste    |Software
+|ImmerWiederWoche  |YvonneSchubert  |20070521|lese     |Post
+|ImmerWiederWoche  |YvonneSchubert  |20070521|bestelle |MindFee
+|ImmerWiederMonat  |YvonneSchubert  |20070521|mache    |SocialBackup
+|ImmerWiederMonat  |YvonneSchubert  |20070418|sortiere |Belegstapel
+|ImmerWiederMonat  |YvonneSchubert  |20070521|bestelle |Lebensmittel
+|ImmerWiederMonat  |YvonneSchubert  |20070522|lese     |Xing-Termine
+|ImmerWiederJahr   |YvonneSchubert  |20060131|mache    |Vorsorgeuntersuchungen
+
+
+TagUndNacht: husch!

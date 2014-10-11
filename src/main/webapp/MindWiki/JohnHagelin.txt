@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:John_Hagelin]
+* BirthDay: 06-09

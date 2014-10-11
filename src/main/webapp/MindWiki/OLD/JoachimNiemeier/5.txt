@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Joachim_Niemeier]
+* JahrGang: 1955
+* BirthDay: 12-27
+* DbLp: http://dblp.uni-trier.de/rec/pid/07/3635
+|[XingLe:Joachim_Niemeier]
+|[TwittEr:JoachimNiemeier]
+|[FaceBook:543349038]

@@ -1,0 +1,1 @@
+*Beim Verschicken von Nachrichten oder speichern von Profildaten werde keine Umlaute übernommen

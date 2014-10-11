@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Harald_Welte]
+* BornIn: 1979
+* MindSkill: OpenSource
+* HasTalked: RainerWasserfuhr
+|[XingLe:Harald_Welte]

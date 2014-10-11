@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Mathis_Wackernagel]
+* BirthDay: 11-10
+
+NachHaltig

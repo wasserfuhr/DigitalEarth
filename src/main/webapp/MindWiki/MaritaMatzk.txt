@@ -1,0 +1,4 @@
+* IsA: PerSon
+* HomeStead: NeuStadt
+* BornIn: 1982
+* HomePage: http://www.marita-matzk.de/

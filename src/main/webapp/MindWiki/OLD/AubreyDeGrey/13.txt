@@ -1,0 +1,10 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Aubrey_de_Grey] [PlomWiki:AubreyDeGrey]
+* JahrGang: 1963
+* BirthDay: 04-20
+* MindSkill: LebensErwartung ImMortal
+* PageNumber: 13
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi MichaelStonebraker JeffreyUllman JohnHopcroft RobertEndreTarjan ThomasLengauer ShoshanaWodak JacquesVanHelden DavidGilbert AubreyDeGrey
+||AusLand
+|[FaceBook:709735014]
+|[TwittEr:ag24ag24]

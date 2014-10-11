@@ -1,0 +1,36 @@
+The initial and constant MoneySupply of NooPolis according to the ConStitution:
+
+''Das anfängliche und konstante Staats-VerMoegen von NooPolis laut VerFassung'':
+
+10.000.000 KayGroschen
+
+Bisherige Verwendung des VerMoegen's:
+
+||KayGroschen||thereof||for                              ||expensed
+||         ||''davon''||''für''                          ||''ausgegeben''
+||1.600.000||       ||Aktionsprogramm FurchtloseTausend  ||
+|          |1.000.000|WelcomeMoney/''BegruessungsGeld''  |125.000
+|          |  500.000|KinderGeld                         |10.000
+|          |   40.000|InviteGroschen                     |12.600
+|          |   10.000|Census/''VolksZaehlung''           |0
+||3.400.000||        ||Education and ReSearch            ||0
+||         ||        ||''Bildung und Forschung''         ||
+|          |2.718.281|SingularAcademy                    |2.718.281
+|          |  500.000|MindPrize-PreisGeld                |
+||2.800.000||       ||SeedCapital for StartUp's          ||2.200.000
+||         ||       ||''GruendungsKapital for StartUp's''||
+|          |1.000.000|MindBroker as Serviceprovider for the eGovernment- und eBanking-Infrastructure of NooPolis|1.000.000
+|          |1.000.000|LockSchuppenAg                     |1.000.000
+|          |  500.000|StartUpSaxony                      |0
+|          |  200.000|FamilienFreund                     |200.000
+||1.200.000||        ||CrowdWisdom- estimates and PredictionMarket's     ||0
+||         ||        ||''CrowdWisdom-Schätzungen und PredictionMarket's''||
+|          |1.000.000|LongBetOne-PredictionMarket
+|          |  100.000|Je 10 mal 10.000 KayGroschen für FutureGame-PreisGeld
+|          |   10.000|Je 100 mal 100 KayGroschen für jede CrowdWisdom-Schätzung im MindWiki
+||1.000.000||        ||Other                               ||0
+||         ||        ||''Sonstiges''                       ||
+|          |  210.000|Mitglieder des KabiNett im Jahr 2008
+|          |  200.000|UnserAdVocat für die Ermöglichung des Devisenhandels mit dem AusLand
+|          |   80.000|GuerillaMarketing bei PieschenTv, TwittEr, FlickEr und co.  |2099
+|          |   10.000|TwittiPedia

@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Mount_Rainier], [OpenCyc:MountRanier]
+* BreitenGrad: 46.8522
+* LaengenGrad: -121.761
+* BoundingBox: 10000
+* HomePage: http://www.nps.gov/mora/

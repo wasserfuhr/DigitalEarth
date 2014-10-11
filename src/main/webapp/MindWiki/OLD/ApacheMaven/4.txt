@@ -1,0 +1,2 @@
+* InterWiki: [DeWikiPedia:Apache_Maven] [WikiWikiWeb:ApacheMaven]
+* HomePage: http://maven.apache.org/

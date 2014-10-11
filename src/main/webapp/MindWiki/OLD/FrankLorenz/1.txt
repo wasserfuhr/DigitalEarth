@@ -1,0 +1,14 @@
+JahrGang: 1979
+
+WohnSitz: StadtDresden
+
+||AusLand
+|[ClaimId:franklorenz]
+|[DoppLr:elbflorenz]
+|[FaceBook:738049033]
+|[FlickEr:elbflorenz]
+|[LinkedIn:???]
+|[TwittEr:elbflorenz]
+|[SkyPe:elbflorenz]
+|[SecondLife:Frank_Sachs] ???
+|[XingLe:Frank_Lorenz21]

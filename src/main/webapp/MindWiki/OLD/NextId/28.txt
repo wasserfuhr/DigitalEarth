@@ -1,0 +1,56 @@
+Wer WerdeMindBroker als nächstes?
+
+Ein paar BeautifulMind's, die in Frage kämen:
+
+||MindId *)||Einladender    ||NextId
+|         +|HeikeRibke      |FlorianKonnertz
+|         +|RainerWasserfuhr|CemBasman
+|         *|RainerWasserfuhr|BastiHirsch
+|          |HeikeRibke      |MarcPilloud
+|          |HeikeRibke      |GunterDueck
+|          |RainerWasserfuhr|ChristianHeller
+|         *|RainerWasserfuhr|JuergenKohn
+|          |RainerWasserfuhr|BeatDoebeli
+|          |RainerWasserfuhr|KaKl
+|        *?|RainerWasserfuhr|MiIv
+|          |RainerWasserfuhr|AndreasStuhlmueller
+|          |RainerWasserfuhr|AlexandraSurdina
+|          |RainerWasserfuhr|AnjaEigner
+|          |RainerWasserfuhr|JensWegerle
+|          |RainerWasserfuhr|NicoleSimon
+|          |RainerWasserfuhr|SoerenStamer
+|          |ChristineSchlinck|CoSc
+|          |RainerWasserfuhr|FrSc
+|          |RainerWasserfuhr|IlKu
+|          |RainerWasserfuhr|alle MindPeople ohne LebensEnde
+|          |RainerWasserfuhr|StephanMosel
+|          |RainerWasserfuhr|JuRi
+|          |RainerWasserfuhr|HelmutLeitner
+|          |RainerWasserfuhr|DirkRiehle
+|          |RainerWasserfuhr|StephanSchmidt
+|          |RainerWasserfuhr|MatthiasJugel
+|          |RainerWasserfuhr|JosefBuechel
+|          |RainerWasserfuhr|HagenStanek
+|          |RainerWasserfuhr|ManuelaAmann
+|          |RainerWasserfuhr|JaRe
+|          |DanielPoodratchi|AurelienEyoum
+|          |DanielPoodratchi|Michael B. 
+|          |RainerWasserfuhr|Alle Teilnehmer von MindEvents
+
+"*": Von der Person selbst angefragt
+"+": Von der Person selbst angefragt+Einladung verschickt
+
+falls WebApp's mit englischer SprachWelt fertig:
+* JoiIto
+* LawrenceLessig
+* JimboWales
+* alle UnternehmensGruender
+
+Option auf je 200 MindShares:
+* AlGe
+* AlexanderGola
+* PeKa
+* SebastianMitter
+* SvSc
+
+Vanity-MindId: Runde Zahlen und Schnapszahlen werden bald bei ebay versteigert.

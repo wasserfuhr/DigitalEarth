@@ -1,0 +1,4 @@
+Kriterien:
+* LastWill
+* WunschKind
+* All'FreiHeit

@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.090483
+* LaengenGrad: 13.6205
+* BoundingBox: 300
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/25392160

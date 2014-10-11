@@ -1,0 +1,49 @@
+* InterWiki: [DeWikiPedia:Google_App_Engine] [LangReiter:Google+App+Engine] [WebSeitz:GoogleAppEngine]
+* HomePage: http://appengine.google.com/
+
+BigTable AsService
+
+{{{
+ge import="
+java.io.PushbackReader,
+java.io.StringReader,
+java.sql.Connection,
+java.sql.Driver,
+java.sql.ResultSet,
+java.sql.Statement,
+java.util.Properties,
+clojure.lang.Compiler,
+clojure.lang.LispReader,
+clojure.lang.RT,
+clojure.lang.Var
+"%><%
+
+ Properties props = new Properties();
+ props.put("user","");
+ props.put("password","");
+ String url = "jdbc:jiql://local";
+
+ Class clazz = Class.forName("org.jiql.jdbc.Driver");
+ Driver driver = (Driver) clazz.newInstance();
+ Connection conn = driver.connect(url,props);
+ Statement stmt = conn.createStatement();
+
+ // row 1 points to the row that contains the current revision:
+ String idq="select content from BootStrap where id=1";
+
+ ResultSet rs=stmt.executeQuery(idq);
+ rs.next();
+ String id=rs.getString(1);
+
+ //get the actual CloJure code that has to be executed:
+ String q="select content from BootStrap where id="+id;
+ rs=stmt.executeQuery(q);
+ rs.next();
+ String code=rs.getString(1);
+
+ Object noomicExpr=LispReader.read(new PushbackReader(new
+StringReader(code)), true, null, false);
+ Var noomicFn=(Var) Compiler.eval( noomicExpr);
+ application.setAttribute("clojure", noomicFn);
+%><%=noomicFn.invoke(request,response)%>
+}}}

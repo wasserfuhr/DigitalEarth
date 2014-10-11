@@ -1,0 +1,5 @@
+* IsA: UnternehmensGruender
+* DcTitle: HRH Prince Alwaleed bin Talal bin Abdulaziz Alsaud
+* InterWiki: [DeWikiPedia:Al-Walid_ibn_Talal_Al_Saud]
+* BornIn: 1957
+* BirthDay: 03-07

@@ -1,0 +1,80 @@
+Unsere Termine:
+
+(Termine haben ein "von" und ein "bis". Dinge die nur ein "bis" haben sind MindLine)
+
+||Wann        ||Bis ||       ||Wo           ||Was                     ||Wer (OrderedByShares)
+|20071020     |     |        |StadtDresden  |Meeting                  |RainerWasserfuhr?,Indianer
+|20071020:1030|     |        |ElPerro       |Brunch                   |RainerWasserfuhr, ChristineSchlinck, UteMoritz, YvonneSchubert
+|20071020:1800|     |        |StadtDresden  |SuSuh from sub to top    |RainerWasserfuhr,UteMoritz,NicoHagenburger,StWo, ChristineSchlinck?
+|20071020     |     |        |StadtZuerich  |http://barcamp.ch/BlogCampSwitzerland_2-0|OliverGassner
+|20071021     |     |        |StadtDresden  |Meeting                  |RainerWasserfuhr,Indianer
+|20071023     |     |        |StadtDresden  |MUT                      |RainerWasserfuhr?
+|20071023:1000|     |        |StadtDresden  |privat                   |YvonneSchubert
+|20071023:1730|     |        |StadtDresden  |TZ-Afterwork             |RainerWasserfuhr?
+|20071024:1900|     |        |WirkZentrum   |WikiBoys                 |RainerWasserfuhr, ChristineSchlinck
+|20071024:1900|     |        |RAe Kreuzer   |Vortrag                  |YvonneSchubert
+|20071025:1900|     |        |StadtDresden  |privat                   |YvonneSchubert
+|20071026     |     |        |              |Freizeit                 |YvonneSchubert
+|20071026:1300|     |        |BergGiessHuebel|UnterNehmerTag           |RainerWasserfuhr?
+|20071026:2000|     |        |StadtDresden  |SAP-Stammtisch           |RainerWasserfuhr?
+|20071027:1900|     |        |StadtDresden  |2hoch4-Ball              |RainerWasserfuhr?
+|20071028     |     |        |EurOpa        |Ende der SommerZeit      |AlleAugen
+|20071101:1900|     |        |WirkZentrum   |WikiWeiberZwo              |RainerWasserfuhr, ChristineSchlinck?, YvonneSchubert
+|20071101:1100|     |        |StadtFrankfurt|Grundsteinlegung         |ChristineSchlinck
+|200711xx     |     |        |StadtDresden  |MindSalon                |RainerWasserfuhr
+|20071102:0900|     |        |WirkZentrum   |SingularCamp             |RainerWasserfuhr,YvonneSchubert,TimBonnemann?
+|20071102:2000|     |        |SemperOper    |MahlersZweite            |RainerWasserfuhr,YvonneSchubert?,TimBonnemann?,FabioLuisi,CamillaNylund,AnkeVondung
+|20071102:2000|     |        |StadtDresden  |Lesung                   |WladimirKaminer
+|20071102:2300|     |        |StadtDresden  |RussenDisko              |RainerWasserfuhr,DimitriUwarov?,NiZi?,WladimirKaminer?
+|20071103     |     |        |StadtBerlin   |Barcamp 2                |RainerWasserfuhr?,TimBonnemann?,UteMoritz?
+|20071103:1000|     |        |StadtDresden  |2. WEC-Brunch im El Perro|YvonneSchubert
+|20071106     |     |        |TuDresden     |GruenderFoyer            |RainerWasserfuhr,NiZi
+|20071107     |     |        |StadtBerlin   |GirlGeekDinner           |UteMoritz?,NicoleSimon
+|20071109     |     |        |StadtPrag     |PostAmt-Betriebsausflow  |RainerWasserfuhr?
+|20071110     |     |        |StadtPrag     |PostAmt-Betriebsausflow  |RainerWasserfuhr?
+|20071111:1111|     |        |StadtKoeln    |Start in die Säsong      |RainerWasserfuhr
+|20071112:1900|     |        |StadtJena     |WebMontag?               |RainerWasserfuhr?,RicardaDHerbrand?
+|20071114     |     |        |StadtDresden  |Vernissage               |RainerWasserfuhr?
+|20071121     |     |        |              |Feiertag                 |
+|2007112x     |     |        |StadtDresden  |Poesie-Event             |RainerWasserfuhr?,NiZi
+|20071130     |     |        |Böblingen     |MarilynManson            |RainerWasserfuhr?,NN
+|20071203:1400|     |        |StadtLeipzig  |Vortrag                  |RainerWasserfuhr?,GunterDueck
+|20071225     |     |        |DeutschLand   |Feiertag                 |
+|20071226     |     |        |DeutschLand   |Feiertag                 |
+|20071228     |     |        |              |Urlaub                   |YvonneSchubert
+|20071229     |     |        |              |Freizeit                 |YvonneSchubert
+|20071229     |     |        |              |Freizeit                 |YvonneSchubert
+|20071231     |     |        |              |Urlaub                   |YvonneSchubert
+|20080101     |     |        |DeutschLand   |Feiertag                 |
+|20080102     |     |        |              |Urlaub                   |YvonneSchubert
+|20080131:1111|     |        |StadtKoeln    |Höhepunkt der Säsong     |RainerWasserfuhr
+|20080202     |     |        |KlagenFurt    |BarCamp                  |RainerWasserfuhr?, UteMoritz?
+|20080203     |     |        |KlagenFurt    |BarCamp                  |RainerWasserfuhr?, UteMoritz?
+|200803       |     |        |StadtBerlin   |WG-Besichtigung          |RainerWasserfuhr,RicardaDHerbrand
+|200901       |     |        |Washington    |InAuguration             |BarackObama?,HillaryClinton?
+
+!Was War:
+||Wann        ||Bis ||       ||Wo           ||Was                     ||Wer
+|20071019:1800|     |        |StadtDresden  |TalWiki-Tutorial         |RainerWasserfuhr,UteMoritz
+|20071019:1900|     |        |StadtDresden  |InConcert: HolgerBiege   |YvonneSchubert
+|20071019:1200|     |        |WirkZentrum   |Fee                      |YvonneSchubert
+|20071019     |     |        |StadtDresden  |Meeting                  |RainerWasserfuhr?,Indianer
+|20071018:1830|     |        |StadtDresden  |privat                   |YvonneSchubert
+|20071018     |     |        |StadtDresden  |Meeting                  |RainerWasserfuhr?,Indianer
+|20071017:1900|     |        |WirkZentrum   |WikiWeiber               |RainerWasserfuhr,YvonneSchubert, ChristineSchlinck, HeikeRibke, EvaLubas, SebastianMitter, KatharinaKuehnel, IrisSchilke
+|20071017:1200|     |        |StadtDresden  |Meeting                     |MaRo, YvonneSchubert
+|20071016:1930|     |        |RiesaEfau     |Architektur und Gesellschaft|YvonneSchubert
+|20071015     |     |        |StadtBerlin   |WebMontag                |RainerWasserfuhr?
+|20071014     |     |        |              |Freizeit                 |YvonneSchubert
+|20071014:1500|     |        |ElbSegler     |GeekIq walking           |RainerWasserfuhr,SeMi
+|20071013     |     |        |              |Freizeit                 |YvonneSchubert
+|20071012:1400|     |        |WirkZentrum   |Wirken der Fee           |IngridaPlunksnyte
+|20071010:1900|     |        |StadtDresden  |Xing AfterWork Kakadu    |RainerWasserfuhr,ChristineSchlinck,NiZi
+|20071006     |     |        |StadtMuenchen |BarCamp                  |OliverGassner,TinaPickhardt
+|20071005:2000|     |        |WirkZentrum   |Volleyball-Stammtisch    |RainerWasserfuhr,NN
+|20071005:1930|     |        |AuraRaum      |Respekt                  |ChristineSchlinck,JensWegerle
+|20071003     |     |        |DeutschLand   |Feiertag                 |
+|20071002:1800|     |        |StadtDresden  |privat                   |YvonneSchubert
+|20071001     |     |        |              |Urlaub                   |YvonneSchubert
+
+Altere Sachen sind WasWar.

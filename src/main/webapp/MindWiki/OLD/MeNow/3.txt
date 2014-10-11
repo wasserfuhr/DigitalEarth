@@ -1,0 +1,7 @@
+TwittEr goes SemanticWeb:
+
+http://schema.menow.org/
+
+Example:
+||No             ||MindPeople    || ||
+|20080220:1732MEZ|RainerWasserfuhr|isEating|MaggiFlaedleSuppe

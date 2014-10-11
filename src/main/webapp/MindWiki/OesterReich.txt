@@ -1,0 +1,4 @@
+* IsA: NationState
+* InterWiki: [DeWikiPedia:Österreich]
+* MindOne: HeinzFischer
+* NearBy: DeutschLand

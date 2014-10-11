@@ -1,0 +1,22 @@
+||When        ||UnTil||      ||MindPlace  ||What                    ||MindPeople
+|19690721:025620|   |        |TranquillityBase|OneSmallStep         |NeilArmstrong
+|19690628     |     |        |ChristopherStreet|AufStand            |BuergerInnen
+|19690528     |     |        |StJosefKrankenhaus|GeBurt             |RainerWasserfuhr, AgnesWasserfuhr
+|19681209     |     |        |BrooksHall  |TheMotherOfAllDemos      |DougEngelbart
+|19630828     |     |        |LincolnMemorial|IHaveADream           |MartinLutherKing
+|19630626     |     |        |StadtBerlin |IchBinEinBerliner        |JfKennedy
+|19620912     |     |        |RiceStadium |WeChooseTheMoon          |JfKennedy
+|19470418     |     |        |HelgoLand   |BritishBang              |
+|19450909     |     |        |CambridgeMa |UnsereBugs               |GraceHopper
+|19450806     |     |        |HiroShima   |                         |
+|19390901:0445|     |        |EurOpa      |                         |
+|1933         |     |        |DeutschLand |                         |
+|1918         |     |        |DeutschLand |                         |
+|19140628     |     |        |Sarajevo    |                         |FranzFerdinand, SophieChotek, GavriloPrincip
+|18940406     |     |        |ShellMan    |GeBurt                   |GertrudeBaines
+|18930910     |     |        |OlivalOurem |GeBurt                   |MariaDeJesus
+|18930420     |     |        |MorganCounty|GeBurt                   |EdnaParker
+|18480221     |     |        |            |ManiFest                 |
+|1789         |     |        |            |                         |
+|15171031     |     |        |            |                         |MartinLuther
+|1328         |     |        |WipperFuerth|KayGroschen-Prägung      |

@@ -1,0 +1,2 @@
+* HerKunft: Beginner’s All-purpose Symbolic Instruction Code
+* InterWiki: [DeWikiPedia:BASIC] [WikiWikiWeb:BasicLanguage]

@@ -1,0 +1,6 @@
+* IsA: PerSon
+* SwDf: http://data.semanticweb.org/person/alexandre-passant
+* DbLp: http://dblp.uni-trier.de/rec/pid/65/5112
+* HomePage: http://apassant.net/
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker StefanDecker AlexandrePassant

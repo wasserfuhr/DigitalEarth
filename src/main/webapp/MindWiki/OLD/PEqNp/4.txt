@@ -1,0 +1,4 @@
+* MindTags: PredictionMarket, FutureCard
+* InterWiki: [DeWikiPedia:P-NP-Problem]
+* DcTitle: P=NP
+* PreDict: Es gibt eine AntWort auf die Frage ob P=NP gilt.

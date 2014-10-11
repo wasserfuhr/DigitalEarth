@@ -1,0 +1,12 @@
+[inspiriert|http://riehle.org/computer-science/research/2007/wikis4se-2007-ppaper.html] durch DirkRiehle und analog zu [WikiPedia:Test-driven_development] oder [WikiPedia:Model-driven_development]
+betreibt MindBroker konsequentes WikiDrivenDevelopment:
+
+* Der allererste Prototyp einer webbasierten Software ist ein Wiki.
+* Die Nutzer werden zuerst als ProfilSeite angelegt. Sie beinhaltet:
+** Nutzer
+** Softwareentwickler
+** Geldgeber ([WikiWikiWeb:GoldOwner])
+* Der PageIndex ist Grundlage für ein Projekt-Glossar und das DomainModel.
+* Anhand der RecentChanges lassen sich typische und wiederkehrende Usecases ablesen und automatisieren.
+* Strukturierte Daten werden als Wiki-Tabellen, MindTags oder MindProps im Wiki abgelegt.
+* Per MindApi werden um das MindWiki herum weitere WebApp's entwickelt.

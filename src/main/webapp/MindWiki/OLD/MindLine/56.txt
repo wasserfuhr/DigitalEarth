@@ -1,0 +1,66 @@
+MindBroker ist eine riesengroße SpielWiese, auf der es kaum eine DeadLine gibt. Lediglich eigene VerSprechen, MindBet's oder Termindruck bei NachBarn geben uns folgende Deadlines:
+
+||am     ||Ziel
+|20080831|MindBrokerKg Jahresabschluss an Finanzamt
+|20090302|SecondLips
+|20100303|DelIq
+|20401231|LunarSteigenberger-Opening
+
+!Unsere ErWartung für die RoadMap:
+|20081231|MindPrize
+|2008|NacktAufAnJa
+|2009|EarthLife
+|2010|MindTowerZwo
+|2010|SemanticEconomy
+|2012|GoogleLife
+|2012|LifeCellOne
+|2012|LummaTuete
+|2012|PieschenerRevolution
+|2012|PolyBody
+|2012|SleepLess
+|2014|PieschenTower
+|2015|EigenRisk
+|2015|ElbOper
+|2015|GrueterichInternationalAirport
+|2015|KoalaBaerSteak
+|2015|MindEyes
+|2015|OneLaptopPerMind
+|2015|PieschenPalast
+|20151231|MindTower-Baubeginn
+|2018|NanoBoro
+|2019|SystemClash
+|20200401|GruenesWunder
+|2020|GeheimProjekt
+|2020|MindTower
+|2020|MindWater
+|2020|TransRapid
+|2020|WyrdMind
+|2022|TrueLove
+|20230831|RealFilm-Premiere
+|2029|LongBetOne
+|2029|NewMind
+|2030|GoogleMind
+|2035|AlleAugenLeben
+|2035|BioMind
+|2045|LebensErwartung von RainerWasserfuhr
+|2050|FruchtBlase
+|2050|NooSphere
+|2065|LebensErwartung von YvonneSchubert
+|2100|GlobusCassus
+|2100|UnTil2100
+
+Alte MindLine's:
+||am          ||Ziel
+|20080520     |FutureSax Phase 3
+|20080226     |FutureSax Phase 2
+|20071231     |XingBus
+|20071211     |FutureSax Phase 1
+|20071130     |GlaeserneBank
+|20070413:1200|MindBrokerKg Jahresabschluss 2005 an Finanzamt
+|20070406     |DoItProject Alpha
+|20070405     |MindBrokerKg Übergabe Steuerunterlagen an ChristineSchlinck
+|20070331     |SecondSalsa
+|20070324     |WikiTchen
+|20070315     |BauVOGrid-Projektantrag an RaimarScherer schicken
+
+[{INSERT ReferringPagesPlugin}]

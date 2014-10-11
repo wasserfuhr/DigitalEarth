@@ -1,0 +1,20 @@
+* InterWiki: [DeWikiPedia:Herbrand-Award]
+
+dedicated to: JacquesHerbrand
+
+* 1992 LarryWos
+* 1994 WoodyBledsoe
+* 1996 JohnAlanRobinson
+* 1997 WenTsunWu
+* 1998 GerardHuet
+* 1999 RobertSBoyer, JStrotherMoore
+* 2000 WilliamMcCune
+* 2001 DonaldLoveland
+* 2002 MarkStickel
+* 2003 PeterBAndrews
+* 2004 HaraldGanzinger
+* 2005 MartinDavis
+* 2006 WolfgangBibel
+* 2007 AlanBundy
+* 2008 EdmundMClarke
+* 2009 DeepakKapur

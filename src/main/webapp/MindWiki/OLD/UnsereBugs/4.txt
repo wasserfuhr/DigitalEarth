@@ -1,0 +1,2 @@
+*Beim Verschicken von Nachrichten oder speichern von Profildaten werde keine Umlaute übernommen - [rainer]
+*Bei dem Versuch große Nachrichten (ca. 200 Zeichen) zu verschicken Fehler -> 500 "could not insert: [de.mindbroker.spot.ejb.Message]" das gleiche bei dem Versuch einen langen "Über Mich" Text zu speichern

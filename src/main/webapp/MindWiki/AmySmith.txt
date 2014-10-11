@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* HomePage: http://web.mit.edu/mmadinot/www/home.html
+* MindOne: DevelopmentLab

@@ -1,0 +1,4 @@
+* IsA: PerSon
+* HasTalked: HolgerJohn RainerWasserfuhr TinoSchmidt
+
+HomePage: http://www.riegel-partner.de/

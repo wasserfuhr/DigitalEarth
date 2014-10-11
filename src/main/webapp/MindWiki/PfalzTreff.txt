@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0773
+* LaengenGrad: 13.7165
+* BoundingBox: 12 
+* http://www.pfalztreff.de/

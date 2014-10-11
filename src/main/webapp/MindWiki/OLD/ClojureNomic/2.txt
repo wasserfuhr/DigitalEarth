@@ -1,0 +1,4 @@
+A CloJure NoMic, now ReName'd to BigTableNomic.
+
+Soon we may also support FbConnect - 
+JoinNow and implement it for which is the game currency.

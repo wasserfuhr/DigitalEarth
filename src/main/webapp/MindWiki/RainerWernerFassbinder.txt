@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Rainer_Werner_Fassbinder]
+* BornIn: 1945
+* BirthDay: 05-31

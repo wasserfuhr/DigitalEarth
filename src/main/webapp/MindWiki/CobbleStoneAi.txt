@@ -1,0 +1,2 @@
+* IsA: FutureCard
+* PreDict: [This picture|http://www.flickr.com/photos/34105375@N03/3296662254/] will be GeoTag'ged automatically

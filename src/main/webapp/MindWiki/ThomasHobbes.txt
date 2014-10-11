@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Thomas_Hobbes]
+* BornIn: 1588
+* BirthDay: 04-05
+* DiedIn: 1679

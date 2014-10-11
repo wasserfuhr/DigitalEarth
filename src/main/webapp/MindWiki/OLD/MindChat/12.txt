@@ -1,0 +1,16 @@
+Many active CitiZens of NooPolis chat via SkyPe.
+
+We have created some SkypeChat's:
+||public|Name
+|x|CoWorkChat
+|x|CoWorkingChat
+|x|FutureChat
+|x|IntelliChat
+|-|KabiNettChat
+|-|LockChat
+|-|NooChat
+|-|VorStandsChat
+
+Also the weekly ConsultationHour with the CabiNet might be held via SkyPe.
+
+For the TimeToCome we consider to switch from ClosedSource SkyPe to OpenSource InstantMessaging alternatives like XmPp or GoogleWave.

@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Christoph_Moosbauer]
+* BornIn: 1969
+* BirthDay: 05-31
+* ParteiWiki: SpdWiki
+
+BundesTag

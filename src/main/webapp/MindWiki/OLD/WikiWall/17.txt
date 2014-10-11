@@ -1,0 +1,40 @@
+The WikiWall below also can be seen at LockOffice for visitors. The intention of it is to find and manage the most important topics (be it persons, enterprises, technologies, or ideas) connected with the LockSchuppen project.
+
+http://www.flickr.com/photos/ralflippold/4211829656 :
+
+(the following WikiTable is generated via [a|http://spreadsheets.google.com/pub?key=tJsnUrFH9ZjsYZ9nhgzu96g] GoogleDoc
+
+!Process for updating data:
+
+* Go to [GoogleDoc|http://spreadsheets.google.com/pub?key=tJsnUrFH9ZjsYZ9nhgzu96g]
+* change data in the matrix
+* copy first column
+* go back to WikiWall
+* and paste the copied data over present data
+
+| | | | | | | | |JohnSterman | | | | | | | | | | |
+| | | | | | | |JeffBoyer  | | | | | | | | | | | |
+| | | | | | |PaulFLevy  | | | | | | | | | | | | |
+| | | | | |EdgarSchein | | | | | | | | | | | | | |
+| | | | | | | | |ScottMonty  | | | | | |PerKristiansen | |SeaNation | |LisaPirwitz |
+| | | | | |DirkSpannaus | |AlfredHanner | |EricVonHippel | |ArturFriedrich | |MartinRoell | |JamesParsons  | |FutureCard | |
+| | | | | | |UlrichDeppendorf | |DigitalTwin | |AntjeLippold | |PeterPlan  | |HolgerDemnitz | |FrankSchoenefeld | |MartinFiedler |
+| | | | | | | |RichardFlorida | |__WikiWallAd__ | |JanHinrichs  | |GottfriedWilhelmLeibniz | |SocialMedia | |WilhelmZoergiebel | |
+| | | | | | |DonGreer | |CarloRatti | |MichaelBean | |MartinAha  | |SpuerschtWieIDenk | |PamelaPaquinHall | |PieschenBank |
+| | | | | | | |GunterDueck | | | | | |ArtKleiner | |RalphSonntag | |LockTeam | |
+| | | | | | | | |EdRugero | |LockSchuppen | |TheSingularity | |OttoScharmer | |InterNet | |PeterStawowy |
+| | | | | | | | | |JimWomack | |JensBemme | |PresencingStatus | |VilleKeranen | |EquipMent | |
+| | | | | | | | |RachelReagan | | | |TelePresence | |OpenCoffeeClubDresden | |PeterEberle | |JohannesPartanen |
+| | | | | | | |MarkGraban | |RayInDresden | |SystemDynamics | |BusinessEnglishBachelor | |CamelCase | |AudioTagging | |
+| | | | | | |BertramDressel | |ThomasGerhardt | | | |RalfLippold | |TwitterKurs | |NooPolis | | |
+| | | | | | | | | | | |SemanticWeb | |MindWiki | |CharlesVanDerHaegen | |VilleKeranen | |
+| | | | | | | | | | |PeterTeichmann | | | |AndrewParker | |HeinzEggert | | |
+| | | | | | | | | | | |PeterSenge | |PieschenMedia | | | | | |
+| | | | | | | | | | | | |ChristophAnders | |MariaBoeckmann | |WikiWall | | |
+| | | | | | | | | | | | | |PeterClaussen | |SupPorter | | | |
+| | | | | | | | | | | | | | |KaiRopers | |JayForrester | | |
+
+http://www.flickr.com/photos/ralflippold/4179002538/ :
+|Sponsoren|Internetseite             |TwitterKurs               |SocialMedia Kurs
+|                    |SocialMedia             |UnternehmensNarr|Erfahrung
+|                    |Org v. Schulungen |CommunityBuilding |GruenderHilfe|KreativeLoesungen|CustomerChallenge

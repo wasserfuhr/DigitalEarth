@@ -1,0 +1,22 @@
+* InterWiki: [DeWikiPedia:Bookmarklet]
+
+DelIcioUs:
+{{{
+javascript:location.href='http://delicious.com/rainer?v=3&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title)
+}}}
+
+BlogLines:
+{{{javascript:location.href='http://www.bloglines.com/sub/'+location.href}}}
+
+DbLp -> MindWiki:
+{{{ToDo: javascript:location.href='http://noopolis.org/favelet/'+location.href
+}}}
+
+{{{
+(let
+ [url "http://dblp.uni-trier.de/db/indices/a-tree/g/Gaedke:Martin.html"
+  fbLine (re-find #"<h1 key=\"homepages/([^\"]*)\"" (fetch-url-s url))
+  id  (second fbLine)
+ ]
+ (str "
+* DbLp: http://dblp.uni-trier.de/rec/pid/" id))}}}

@@ -1,0 +1,3 @@
+CitiZens of NooPolis can define their personal 4x4 WikiWall and link it from their WikiHomePage.
+
+Just copy it from templates like RalfLippoldWikiWall or RainerWasserfuhrWikiWall.

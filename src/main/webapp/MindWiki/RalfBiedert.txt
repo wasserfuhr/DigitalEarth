@@ -1,0 +1,5 @@
+* IsA: PerSon
+* HomePage: http://www.dfki.uni-kl.de/~biedert/
+|[XingLe:Ralf_Biedert]
+
+DfKi

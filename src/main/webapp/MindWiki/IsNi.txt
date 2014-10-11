@@ -1,0 +1,4 @@
+* InterWiki: [WikiPedia:International_Standard_Name_Identifier]
+* HomePage: http://www.isni.org/
+
+MindId

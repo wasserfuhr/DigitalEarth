@@ -1,0 +1,35 @@
+SocialBackup via FeedReader: http://mindbroker.de/backupfeed.jsp
+
+{{{
+<?xml version="1.0" encoding="utf-8"?>
+<%@page import="java.io.File"%>
+<%@ page contentType="application/rss+xml"%>
+<%
+  String dateS="Sat, 31 May 2008"; // DayOfWeek must be correct!
+%>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <description>A subtitle.</description>
+    <title>SocialBackup Feed</title>
+    <pubDate><%=dateS%> 00:00:15 +0200</pubDate>
+    <link>http://mindbroker.de/backupfeed.jsp</link>
+    <atom:link href="http://mindbroker.de/backupfeed.jsp" rel="self" type="application/rss+xml" />
+<%
+  String backups[]={"bank","mind","source"};
+  String date="20080531";
+  for (int i=0; i<backups.length;i++) {
+    File f=new File("/home/insider/apache-tomcat-6.0.14/webapps/ROOT/"+backups[i]+".zip");
+    long len=f.length();%>
+    <item>
+      <description>See http://mindbroker.de/wiki/SocialBackup</description>
+      <title>MindBroker Social Backup: <%=backups[i]%>.zip</title>
+      <link>http://mindbroker.de/wiki/SocialBackup#<%=backups[i]%></link>
+      <enclosure url="http://mindbroker.de/<%=date%>.backup_<%=backups[i]%>.zip" type="application/zip" length="<%=len%>"/>
+      <guid isPermaLink="false">urn:uuid:122595-cfb8-4bb-aaaa-80da344ef<%=backups[i]%></guid>
+      <pubDate><%=dateS%> 00:00:15 +0200</pubDate>
+      <source url="http://mindbroker.de/backupfeed.jsp">SocialBackup Feed</source>
+    </item>
+<%}%>
+  </channel>
+</rss>
+}}}

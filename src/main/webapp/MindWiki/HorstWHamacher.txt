@@ -1,0 +1,3 @@
+* MindTags: ProFessor
+* BirthDay: 04-21
+* HomePage: [http://optimierung.mathematik.uni-kl.de/~hamacher/]

@@ -1,0 +1,5 @@
+in der Nähe von WipperFuerth
+
+* BreitenGrad: 51.096603
+* LaengenGrad: 7.341150
+* BoundingBox: 20

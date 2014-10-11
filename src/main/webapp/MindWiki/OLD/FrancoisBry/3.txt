@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/FrancoisBry
+* HomePage: http://www.pms.ifi.lmu.de/mitarbeiter/bry/
+* MindBlog: http://www.pms.ifi.lmu.de/erlebt/
+|[DelIcioUs:fbry]

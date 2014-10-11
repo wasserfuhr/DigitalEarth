@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Sepp_Maier]
+* BirthDay: 02-28
+
+A SoccerPlayer who played as GoalKeeper for BayernMuenchen which has a stadium with 69.250 seats and who was born in DeutschLand which is a NationState that has 81.882.342 inhabitants.

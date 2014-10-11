@@ -1,0 +1,16 @@
+||on        ||EuRo||CoGuest
+|2010-05-04:2208|4|MarcusBertelsmeier
+|2010-05-04:1954|2|MarcoDziallas
+|2010-05-04:1928|2|FlorianKlare
+|2010-05-04:1921|2|RalfLippold
+|2010-05-04:1902|2|DaniloHommel
+|2010-05-04:1331|1|LydiaGruber
+|2010-05-04:1327|1|JanGlatter
+|2010-05-04:1327|1|StephanFinck
+|2010-05-03:2145|2|AlexanderGoetze
+|2010-05-03:2145|2|HolgerHelas
+|2010-05-03:2130|2|RainerWasserfuhr
+
+RainerWasserfuhr ist die Interims-BarKasse
+
+later ReVenue

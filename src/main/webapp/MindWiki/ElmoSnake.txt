@@ -1,0 +1,17 @@
+SchuleDerIntelligenz for ElMo EtAl: we ProGram a SnakeGame via WebGl.
+
+{{{
+<h1>EliasSnake</h1>
+<script>
+  var snakeField=new array[30][30];
+  //snakeField[3][];
+
+  function paintField() {};
+  for (zeile=0;zeile<20;zeile++) {
+    for (spalte=0;spalte <20; spalte ++) {
+    }
+  }
+
+  paintField();
+</script>
+}}}

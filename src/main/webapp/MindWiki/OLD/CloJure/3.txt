@@ -1,0 +1,11 @@
+* InterWiki: [LangReiter:Clojure], [WikiPedia:Clojure]
+* HomePage: http://clojure.org/
+* MindOne: RichHickey
+
+Root: NooMic + NooMicJsp
+
+Modules:
+* HandleClj
+* MindBaseClj
+* PieschenTvClj
+* WikiClj

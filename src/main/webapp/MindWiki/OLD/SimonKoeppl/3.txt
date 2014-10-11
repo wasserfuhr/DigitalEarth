@@ -1,0 +1,16 @@
+* WohnSitz: StadtDresden
+* JahrGang: 1986
+* BirthDay: 05-22
+* SprachWelt: de, en-2, nl-2, pl-0
+* BirthPlace: DiakonissenKrankenhaus
+* MindBrowser: SafariBrowser, FireFox
+* IchBiete: SozioLogie, KommunikationsWissenschaft, JournalIsmus, PublicRelations, MarkeTing, ...
+
+||AusLand
+|[TwittEr:neonlicht]
+|[SkyPe:simons_koeppl]
+|[FaceBook:1013785539]
+|[IhBay:skoeppl]
+
+
+

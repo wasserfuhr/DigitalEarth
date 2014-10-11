@@ -1,0 +1,22 @@
+* MindQuote: "Die nahe Zukunft von exponentiellen Prozessen wird überschätzt, die ferne [unterschätzt|http://www.siggibecker.de/blog/archives/2005/10/grand-challenge-red-team/]"
+
+GenSeidenFaden.
+
+WirWollen nicht immer exponentiell denken. Manchmal ist Enthaltsamkeit besser: NullWachstum. SigMoid.
+
+Filling the SecondHalfOfTheChessboard is quite simple:
+{{{
+<%@page import="java.math.BigInteger"%>
+<%BigInteger ii= new BigInteger("1");
+
+for (int i=0; i<=100; i++) {
+%>|<%=2000+i%>|<%
+  String ij=ii.toString();
+  ii=ii.add(ii);
+  while (ij.length() >3) {
+    String prefix=ij.substring(0,(ij.length()+2)%3+1);
+    ij=ij.substring(prefix.length());
+    %><%=prefix%>.<%
+  }%><%=ij%>|
+<%}%>
+}}}

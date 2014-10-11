@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:A._P._J._Abdul_Kalam], [OpenCyc:AbdulKalam]
+* JahrGang: 1931
+* BirthDay: 10-15

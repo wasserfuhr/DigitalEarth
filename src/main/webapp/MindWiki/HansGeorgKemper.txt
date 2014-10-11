@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/66/5008
+* HomePage: http://www.bwi.uni-stuttgart.de/index.php?id=241
+* PageNumber: 9
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ArndtBode HeinrichMayr RalfDetlefKutsche BodoRieger HansGeorgKemper

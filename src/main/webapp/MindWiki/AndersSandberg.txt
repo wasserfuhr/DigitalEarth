@@ -1,0 +1,9 @@
+* IsA: SingularityMind
+* InterWiki: [WikiPedia:Anders_Sandberg]
+* JahrGang: 1972
+* BirthDay: 07-11
+* DbLp: http://dblp.uni-trier.de/rec/pid/41/6156
+* MindBlog: http://www.aleph.se/andart/
+* MindSkill: ArTelligence NoMic ZuKunft
+|[FlickEr:arenamontanus]
+|[TwittEr:anderssandberg]

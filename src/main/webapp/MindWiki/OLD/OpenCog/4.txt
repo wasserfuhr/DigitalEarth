@@ -1,0 +1,21 @@
+* MindTags: ProJect
+* MindOne: BenGoertzel
+* HomePage: http://www.opencog.org/
+
+NovaMente OpenSource.
+
+Mapping OpenCog terms:
+||MindWiki  ||OpenCog
+|WikiPage   |[OpenCog:Atom]
+|PageIndex  |[OpenCog:Atomspace]
+|WikiLender |[OpenCog:Current_events]
+|MindBase   |[OpenCog:HypergraphDB]
+|IstEin     |[OpenCog:InheritanceLink]
+|MindBot    |[OpenCog:MindAgents]
+|NewMind    |[OpenCog:OpenCog_Prime]
+|SelfImprove|[OpenCog:OpenCogPrime:SelfModification]
+|PerCeive   |[OpenCog:PerceptNode]
+|StateMent  |[OpenCog:PredicateNode]
+|SandBox    |[OpenCog:Sandbox]
+
+[OpenCog:OpenCogPrime:AtomNotation]

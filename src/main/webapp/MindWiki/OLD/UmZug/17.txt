@@ -1,0 +1,29 @@
+||who             ||on     ||from                ||to
+|RalfLippold      |200909  |FritzReuterStrasse18|
+|MartinRoell      |20090622|FoerstereiStrasse    |WonKwangSa
+|RalfLippold      |20090414|SchoenfelderStrasse11|FritzReuterStrasse18
+|ChristineSchlinck|2008    |KaetheKollwitzUfer74 |BergGarten
+|MindBrokerKg     |20070920|FriedrichStrasse24   |WirkZentrum
+|MindBrokerKg     |2003    |AmmonHof             |FriedrichStrasse24
+|ChristineSchlinck|200?    |FriedrichStrasse24   |KaetheKollwitzUfer74
+|RainerWasserfuhr |2002    |MartinLutherStrasse  |WirkZentrum
+|RainerWasserfuhr |200?    |KamenzerStrasse      |MartinLutherStrasse
+|RainerWasserfuhr |199?    |HoerigStrasse        |KamenzerStrasse
+|RainerWasserfuhr |1995    |KaisersLautern       |HoerigStrasse
+|RainerWasserfuhr |199?    |KindergartenStrasse  |BeethovenStrasse
+|RainerWasserfuhr |199?    |BluecherStrasse      |KindergartenStrasse
+|RainerWasserfuhr |199?    |WackenmuehlStrasse   |BluecherStrasse
+|RainerWasserfuhr |1989    |GrueterichEins       |WackenmuehlStrasse
+
+DoIt: Lieferanten/Organisationen die bei UmZug wegen Adressänderung zu informieren sind:
+|FinanzAmt  |finished
+|HandelsRegister|finished
+|Gewerbe    |finished
+|IHK        |finished
+|InWx       |finished
+|Eplus      |finished
+|EinsUndEins|finished
+|Strato     |finished
+|Telekom    |kündigen
+|Bfa        |?
+|BSB        |kündigen

@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Steffen_Flath]
+* BirthDay: 02-10
+* ParteiWiki: CduWiki

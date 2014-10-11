@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Eric_von_Hippel]
+* BornIn: 1941
+* BirthDay: 08-27
+* ViAf: http://viaf.org/viaf/94058569
+* HomePage: http://web.mit.edu/evhippel/www/
+* FanPage: http://www.ericvonhippel.com/

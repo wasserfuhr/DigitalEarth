@@ -1,0 +1,7 @@
+* IsA: PerSon
+* MindQuote: "gilt als eine der GeistReich'sten Frauen des 18. JahrHundert's" - DeWikiPedia
+* InterWiki: [DeWikiPedia:Marie_Thérèse_Rodet_Geoffrin]
+* BornIn: 1699
+* BirthDay: 06-02
+* DiedIn: 1777
+* HasTalked: JeanBaptisteLeRond

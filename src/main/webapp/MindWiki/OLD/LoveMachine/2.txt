@@ -1,0 +1,3 @@
+* IsA: EnterPrise
+* HomePage: http://www.lovemachineinc.com/
+* FoundedBy: PhilipRosedale RyanDowne

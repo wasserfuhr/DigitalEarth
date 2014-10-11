@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Patrick_J._Hayes]
+* DbLp: http://dblp.uni-trier.de/rec/pid/11/719
+* HomePage: http://www.ihmc.us/users/phayes/PatHayesAbout.html
+* JahrGang: 1944
+* BirthDay: 08-21
+* PageNumber: 5
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman PatHayes

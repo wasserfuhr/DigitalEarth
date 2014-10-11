@@ -1,0 +1,7 @@
+* IsA: PerSon
+* SwDf: http://data.semanticweb.org/person/dan-brickley
+* FoAf: http://danbri.org/foaf.rdf
+* PageNumber: 7
+* PagePath: LarryPage SergeyBrin JeffreyUllman JimGray MichaelStonebraker DougLenat RamanathanGuha DanBrickley
+|[TwittEr:danbri]
+|[FaceBook:501730978]

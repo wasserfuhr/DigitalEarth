@@ -1,0 +1,4 @@
+* IsA: PerSon
+* MindSkill: IndustryFoundationClasses
+* HasTalked: RainerWasserfuhr
+|[XingLe:Thomas_Liebich6]

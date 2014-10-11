@@ -1,0 +1,6 @@
+* IsA: PerSon
+* HomePage: http://www.dulig.de/
+* BirthDay: 02-26
+* ParteiWiki: SpdWiki
+|[FaceBook:1445537613]
+|[TwittEr:martindulig]

@@ -1,0 +1,9 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Theo_Härder]
+* JahrGang: 1945
+* BirthDay: 08-28
+* MindSkill: DataBase
+* PageNumber: 12
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi MichaelStonebraker JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach JuergenAvenhaus TheoHaerder
+* TurkNumber: 7
+* TurkPath: ZigaTurk JohnSmith NorbertStreitz ThorstenPrante RalfSteinmetz ErichOrtner TheoHaerder

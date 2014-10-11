@@ -1,0 +1,4 @@
+* HerKunft: In Sanskrit, Kasth (काष्ठ) is "wood" and Mandap (मंडप/मण्डप) is "covered shelter."
+* IsA: MindCity
+* InterWiki: [DeWikipedia:Kathmandu] [OpenCyc:CityOfKathmanduNepal]
+* TwinTown: Eugene Matsumoto XiAn Yangon Myanmar Minsk PyongYang

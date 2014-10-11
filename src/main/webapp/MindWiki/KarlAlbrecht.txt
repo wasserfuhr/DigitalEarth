@@ -1,0 +1,6 @@
+* IsA: UnternehmensGruender
+* ViAf: http://viaf.org/viaf/69866698
+* InterWiki: [DeWikiPedia:Karl_Albrecht]
+* ChildOf: AnnaAlbrecht KarlAlbrecht2
+* BornIn: 1920
+* BirthDay: 02-20

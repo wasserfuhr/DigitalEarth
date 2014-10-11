@@ -1,0 +1,9 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Ernst_Ulrich_von_Weizsäcker]
+* ChildOf: CarlFriedrichVonWeizsaecker 
+* BornIn: 1939
+* BirthDay: 06-25
+* DbLp: http://dblp.uni-trier.de/rec/pid/78/1334
+* PageNumber: InFinite
+* MindSkill: NachHaltig
+* ParteiWiki: SpdWiki

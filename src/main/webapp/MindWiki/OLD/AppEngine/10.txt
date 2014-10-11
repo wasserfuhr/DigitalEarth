@@ -1,0 +1,57 @@
+* InterWiki: [DeWikiPedia:Google_App_Engine] [LangReiter:Google+App+Engine] [WebSeitz:GoogleAppEngine]
+* HomePage: http://appengine.google.com/
+
+BigTable AsService
+
+{{{
+<%@page import="
+java.io.PushbackReader,
+java.io.StringReader,
+java.util.Date,
+clojure.lang.Compiler,
+clojure.lang.IFn,
+clojure.lang.LispReader,
+clojure.lang.RT,
+com.google.appengine.api.datastore.DatastoreService,
+com.google.appengine.api.datastore.DatastoreServiceFactory,
+com.google.appengine.api.datastore.Entity,
+com.google.appengine.api.datastore.EntityNotFoundException,
+com.google.appengine.api.datastore.Key,
+com.google.appengine.api.datastore.KeyFactory,
+com.google.appengine.api.datastore.Text,
+com.google.appengine.api.memcache.MemcacheService,
+com.google.appengine.api.memcache.MemcacheServiceFactory
+"%><%
+ DatastoreService service=DatastoreServiceFactory.getDatastoreService();
+ //by convention, the *key* of the actual BootStrap function is stored at key "BootStrap/1":
+ Key key=KeyFactory.createKey("BootStrap",1l);
+ Entity e;
+ String code;
+ MemcacheService memCache=MemcacheServiceFactory.getMemcacheService();
+ IFn noomicFn=(IFn) memCache.get("BootStrapFn");
+ if (noomicFn==null || "yes".equals( request.getParameter("reloadBootStrapFn"))) {
+  try {
+   e= DatastoreServiceFactory.getDatastoreService().get(key);
+   String newCode=((Text)e.getProperty("content")).getValue();
+   key=KeyFactory.createKey("BootStrap",Long.parseLong(newCode));
+   e= service.get(key);
+   code=((Text) e.getProperty("content")).getValue();
+  } catch (EntityNotFoundException ex) { // was the datastore empty?
+   //then fill it:
+   e=new Entity(key);
+   Entity hw=new Entity("BootStrap");
+   code="(fn [request response] \"HelloWorld\")";
+   hw.setProperty("content",new Text(code));
+   hw.setProperty("date",new Date());
+   Key hwKey=service.put(hw);
+   e.setProperty("content",new Text(hwKey.getId()+""));
+   service.put(e);
+  }
+  PushbackReader pr = new PushbackReader(new StringReader(code));
+  Object noomicExpr=LispReader.read( pr, true, null, false);
+  noomicFn=(IFn) Compiler.eval( noomicExpr);
+  memCache.put("BootStrapFn", noomicFn);
+ }
+ //application.setAttribute("clojure", noomicFn);
+%><%=noomicFn.invoke(request,response)%>
+}}}

@@ -1,0 +1,11 @@
+* MindQuote: "This company is built on Wikis" - ShashiSeth, Product Manager, Search Quality, GoogleInc; at WikiSym 2005, SanDiego. 
+
+MindBroker is a VirtualEnterprise, which operates mainly WikiBased. Our Wiki, the MindWiki, is the focus of our work. 
+Our main project is NooPolis, a complex WikiBased simulation of a MicroNation with VirtualEconomy. You can JoinNow. We consider our coworkers, customers and suppliers as CitiZens of the MicroNation NooPolis. Each of them receives an invitation for a MindId with a LogIn which allows them to edit the MindWiki.
+* Whoever works with us: MitWirkende
+* When to do something specific: Appointments, meetings, conferences, MindEvent's: WikiLender
+* Where to go: The RoadMap
+* What to do: UnsereProjekte and DoIt
+* What to do repeatedly: ReDo
+* When to do something latest: DeadLine
+* writing SourceCode with WikiDrivenDevelopment

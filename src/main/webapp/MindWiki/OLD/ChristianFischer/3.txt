@@ -1,0 +1,5 @@
+* MindTags: UnternehmensGruender
+* WohnSitz: StadtDresden
+* MindSkill: SubVersion
+||AusLand
+|[XingLe:Christian_Fischer207]

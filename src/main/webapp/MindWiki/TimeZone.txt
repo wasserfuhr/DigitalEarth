@@ -1,0 +1,6 @@
+* InterWiki: [MeatballWiki:TimeZone]
+
+* JST
+* MET
+* UTC
+* PST

@@ -1,0 +1,5 @@
+Die ExIf-Datumsangaben sind meist falsch. Möglicherweise auch die von DsCf0030.
+Methoden für den TimeCheck:
+* Schauen, ob kurz vorher oder nachher Bilder von Uhren geschossen wurden, oder von Ereignissen,
+die präzise datierbar sind (BalloonSpotting, SteamboatSpotting, DampfLok, Start- und Landedaten von MindJetOne)
+* Sonnenstand, Winkel von Schatten (erfordert oft ein genaues geometisches Modell der beschatteten Objekte und der Sonnenstandsastronomie)

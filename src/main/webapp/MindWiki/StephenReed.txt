@@ -1,0 +1,6 @@
+* IsA: PerSon
+* HomePage: http://texai.org/
+* HomeStead: AustinTx
+* MindSkill: ArTelligence OpenCyc SemanticWeb
+|[WikiPediaUser:StephenReed]
+|[TwittEr:stephenlreed]

@@ -1,0 +1,17 @@
+* MindTags: MindPeople
+* HomePage: http://www.hg-graebe.de/
+
+HotTopics für einen VorTrag von RainerWasserfuhr an der UniLeipzig
+* MindWiki
+* LifeWiki
+* WikiTable
+* SemanticWiki
+* BlueBrain
+* DasExperiment
+* NooPolis
+* VerFassung
+* SocialNetwork
+* WebOfTrust
+* KayGroschen
+* PieschenBank
+* StartUpSim

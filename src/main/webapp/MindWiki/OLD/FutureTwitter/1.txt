@@ -1,0 +1,4 @@
+* MindTags: ReView
+* InspiredBy: DistanzSpiel
+
+like TwittEr, put with an additional TimeLine for each tweet, which can be placed on any point in the VerGangen'heit, GegenWart or ZuKunft

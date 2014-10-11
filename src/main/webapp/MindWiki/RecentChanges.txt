@@ -1,0 +1,2 @@
+(TimeZone is EasternStandardTime)
+[{RecentChangesPlugin since=6}]

@@ -1,0 +1,3 @@
+* IsA: MindStreet
+* InterWiki: [DdWiki:Prager_Straße] [DeWikiPedia:Prager_Straße_(Dresden)]
+* ConnectsTo: AltMarkt

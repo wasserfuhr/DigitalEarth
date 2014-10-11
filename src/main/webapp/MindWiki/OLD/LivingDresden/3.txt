@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* HomePage: http://www.maximus-dresden.de/
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.05757&lon=13.727851&zoom=18&layers=B000FTTT ToDo
+
+TotalRecall:
+* 20090212:2130: RainerWasserfuhr, JeMand, JeMand: ErnemannTurm, WachAuf, MindParty

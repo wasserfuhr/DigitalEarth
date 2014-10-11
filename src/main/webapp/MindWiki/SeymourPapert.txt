@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Seymour_Papert] [WikiWikiWeb:SeymourPapert]
+* BornIn: 1928
+* BirthDay: 03-01
+* HasTalked: JeanPiaget
+* MindSkill: ArTelligence

@@ -1,0 +1,9 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Franz_Josef_Radermacher]
+* JahrGang: 1950
+* BirthDay: 03-20
+* DbLp: http://dblp.uni-trier.de/rec/pid/r/FranzJosefRadermacher
+* HomePage: http://www.faw-neu-ulm.de/node/41
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd NorbertStreitz WendyHall JimHandler WolfgangWahlster FranzJosefRadermacher
+* MindSkill: ArTelligence NachHaltig WeltVertrag

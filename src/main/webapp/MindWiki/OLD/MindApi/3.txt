@@ -1,0 +1,5 @@
+Eine offene API zur Programmierung von WebApps für UnserGrid
+* Das AgWiki kann [wiefolgt|http://websvn.mindbroker.de/showfile.svn?path=%2fde.mindbroker.id%2ftrunk%2fsrc%2fmain%2fwebapp%2ftwit.jsp&revision=HEAD&name=opensource] angezapft werden.
+* Am einfachsten per Java, siehe bei UnsereProjekte den SourceCode, z. B. bei InBox.
+* MindPhp: mittels Quercus.
+* MindRuby: mittels JRuby.

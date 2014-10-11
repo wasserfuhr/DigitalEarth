@@ -1,0 +1,4 @@
+* IsA: MindCity
+* InterWiki: [DeWikiPedia:Osnabrück]
+* MindOne: BorisPistorius
+* PartOf: LowerSaxony

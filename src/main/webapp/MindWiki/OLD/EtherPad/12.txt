@@ -1,0 +1,24 @@
+* HomePage: http://etherpad.com/
+
+DisRupt'ive pre GoogleWave technology:
+
+||MindWiki          ||SprachWelt||EtherPad||
+|                   |      |http://etherpad.com/CoworkVisitingTour |in CityOfBoston, NewYork, Philadelphia, CapeCod
+|AgenturFuerArbeit  |LangDe|http://etherpad.com/AgenturFuerArbeit  |Anfrage, 1.600 EntrePreneur'e in der StadtDresden zusammenzubringen; German)
+|AnneWillSingularity|LangDe|http://etherpad.com/AnneWillSingularity
+|                   |LangEn|http://etherpad.com/CoWorkVisitQuestions
+|DistanzSpiel       |LangDe|http://etherpad.com/DistanzSpiel
+|HelmaWave          |LangEn|http://etherpad.com/HelmaWave
+|                   |LangDe|http://etherpad.com/jeanxd (German)
+|                   |LangDe|http://etherpad.com/LockSz (German)
+|LangFr             |LangFr|http://etherpad.com/LangFr
+| | |http://etherpad.com/LockProject_100Bikes |Bringing a new company on the market, CrowedConsulting; English)
+| | |http://etherpad.com/LockSchuppen         |Erster Briefentwurf für LockSchuppen-Anmietung; German)
+| | |http://etherpad.com/LockSchuppenFuture   |Die Zukunft des LockSchuppen's - noch ist die Leinwand leer und weiß, German/ English)
+| | |http://etherpad.com/LockSchuppenSurvey |adapting a survey of the http://pbworks.coworking.com; English)
+| | |http://etherpad.com/LockSchuppenTippingPoint |when will LockSchuppen run on its own?; German)
+|LockVorgehen | |http://etherpad.com/LockVorgehen | Planung künftiger LockSchuppenTalk's
+| | |http://etherpad.com/NooPolis
+| | |http://etherpad.com/PrototypingCoWorking |How do you see CoWorking and benefits/ misfits to your life concept?; English)
+| | |http://etherpad.com/TED-RayKurzweil-SingularityUniversity |German-English)
+| | |http://etherpad.com/ZuKunft |Wie wir uns dem Jahr 2056 annähern; German)

@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Ivanka_Trump]
+* ChildOf: IvanaTrump DonaldTrump
+* BirthDay: 10-30
+* EnsId: http://www.okkam.org/ens/ide18588f9-0437-4d1b-9bfc-9bfd7ad9984b
+|[TwittEr:Ivanka_Trump]

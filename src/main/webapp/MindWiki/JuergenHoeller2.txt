@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* HomePage: http://www.springsource.com/web/guest/people/jhoeller
+* MindSkill: SpringFramework

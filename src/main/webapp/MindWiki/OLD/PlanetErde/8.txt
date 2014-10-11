@@ -1,0 +1,13 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Erde], [OpenCyc:PlanetEarth]
+* BreitenGrad: 0
+* LaengenGrad: 0
+* BoundingBox: 12956274
+* BoundingBoxCaptain: RainerWasserfuhr
+* NormalNull: -6378137
+* MindCount:  6648281377
+* WaterHandICap: 70.7
+
+♁.
+
+in UhTopia.

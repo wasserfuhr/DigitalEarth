@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:São_Paulo]
+* BreitenGrad: -23.56
+* LaengenGrad: -46.64
+* BoundingBox: 32000
+* MindCount: 10000000

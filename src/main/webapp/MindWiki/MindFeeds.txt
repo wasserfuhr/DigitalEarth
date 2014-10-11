@@ -1,0 +1,22 @@
+Ein Social-FeedReader für alle BuergerInnen.
+
+Später mal http://feeds.mindbroker.de
+
+DasExperiment: An almost complete list of the Feeds read by RainerWasserfuhr:
+||MindPeople         |B|D|T|F|FF
+||ChristianHeller    | | |X| |  |
+||ChristineSchlinck  |X| |X|X|  |
+||MartinRoell        |X|X|X|X|  |
+||OliverGassner      |X|X| | |  |
+||BenGoertzel        |X| |X| |  |
+||SteveJurvetson     |X| |X| |  |
+||YvonneSchubert     | | |X| |  |
+||SiggiBecker        | |X|X| | X|
+
+Legend:
+* B: MindBlog
+* D: DelIcioUs
+* T: TwittEr
+* F: FlickEr
+* FF: FriendFeed
+* B: MindBlog

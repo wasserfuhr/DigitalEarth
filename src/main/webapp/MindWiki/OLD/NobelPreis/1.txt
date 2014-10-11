@@ -1,0 +1,3 @@
+RainerWasserfuhrWuenschtSich eine WebApp, bei der man Wetten auf die Nobelpreisträger der Zukunft machen kann.
+
+unter http://nobel.mindbroker.de/.

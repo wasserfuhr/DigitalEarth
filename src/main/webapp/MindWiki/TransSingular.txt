@@ -1,0 +1,1 @@
+if TheSingularity is s in f(t)=1/(s-t) for t->s, then a TransSingular TransForm'ation is a ZenSlap towards t>s ;)

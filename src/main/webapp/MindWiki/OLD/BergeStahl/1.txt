@@ -1,0 +1,3 @@
+* MindTags: MindThing
+* InterWiki: [DeWikiPedia:Berge_Stahl]
+* BoundingBox: 342

@@ -1,0 +1,7 @@
+* MindTags: ProFessor
+* JahrGang: 1953
+* BirthDay: 02-02
+* HomePage: [http://www.dfki.de/~wahlster/]
+* MindSkill: ArTelligence
+* TurkNumber: 11
+* TurkPath: ... MichaelRichter FranzJosefRadermacher WolfgangWahlster

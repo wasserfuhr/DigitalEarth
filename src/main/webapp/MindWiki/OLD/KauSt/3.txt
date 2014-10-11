@@ -1,0 +1,4 @@
+* IsA: HochSchule
+* InterWiki: [WikiPedia:King_Abdullah_University_of_Science_and_Technology]
+* PartOf: SaudiArabia
+|[TwittEr:kaust_news]

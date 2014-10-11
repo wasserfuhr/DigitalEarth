@@ -1,0 +1,5 @@
+* IsA: PerSon
+|[FaceBook:100000329240350]
+|[TwittEr:janszky]
+|[LinkedIn:svengaborjanszky]
+|[XingLe:SvenGabor_Janszky]

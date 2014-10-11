@@ -1,0 +1,11 @@
+GedankenSpiel: In regelmäßigen Abständen findet eine UrWahl über die VerFassung statt.
+
+Die UrWahl von NooPolis ist frei, gleich und öffentlich.
+
+Alle BuergerInnen von NooPolis können mittels
+* Ja,
+* Nein oder
+* Enthaltung
+über die VerFassung abstimmen. Bei der Abstimmung mit "Nein" muss genau eine WikiPage des MindWiki als Begründung für die Stimmverweigerung angegeben werden.
+
+Falls nach 7 Tagen mehr Nein- als Jastimmen abgegeben wurden, wird NooPolis aufgelöst.

@@ -1,0 +1,9 @@
+* WohnSitz: StadtLeipzig
+* SprachWelt: de
+* TimeZone: CET
+* MindFaves: OpenCoffeeClub
+||AusLand
+|[XingLe:Martin_Gamnitzer]
+|[YaHoo:media9966]
+|[SkyPe:media9966]
+|[TwittEr:martin_LE]

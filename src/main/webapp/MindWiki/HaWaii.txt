@@ -1,0 +1,5 @@
+Teil der United States, aber nicht immer für JederMann in der BoundingBox: http://www.flickr.com/photos/rainerw/283860982/
+
+* BreitenGrad: 23.988
+* LaengenGrad: -164.54
+* BoundingBox: 900000

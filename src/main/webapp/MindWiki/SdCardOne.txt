@@ -1,0 +1,5 @@
+* MindTags: MindThing
+* OwnedBy: RainerWasserfuhr
+* BoundingBox: 0.0032
+
+1 GigaByte.

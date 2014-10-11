@@ -1,0 +1,5 @@
+* HerKunft: "your InterNet ID"
+* HomePage: http://www.yiid.com/
+* MindOne: MarcoRipanti
+
+MindId mit OpenId, aber ohne VerFassung und BuergerBeteiligung

@@ -1,0 +1,29 @@
+HtMl to HiccupClj:
+{{{                                                         
+(let [
+    xml
+     (clojure.xml/parse "Desktop/PieschenBank_editing.html")
+    xml0
+     (clojure.xml/parse
+      (java.io.ByteArrayInputStream.
+       (.getBytes
+        "<html><head></head><body><h1>HelloWorld</h1><div><a alt=\"click\" href=\"/home\">home</a><br/></div></body></html>\n\r"
+        "UTF-8")))
+    noop (.. System out (println xml))
+    traverse
+     (defn trav [head depth]
+      ;indent by depth:
+      (str "\n\r" (apply str (map (fn [x] "  ") (range depth))) "[" (:tag head)
+       (if (:attrs head)
+        (str " {"
+         (apply str (map (fn [x]
+          (str (first x) " \"" (second x) "\" ")) (:attrs head))) "}"))
+       (apply str (map (fn [x]
+         (if (= String (type x))
+          (str " \"" x "\"")
+          (trav x (+ depth 1))))
+         (:content head)))
+      "]"
+      ))]
+ (.. System out (println (str "\n\r" (trav xml 0)))))
+ }}}

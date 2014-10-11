@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Kurländer_Palais], [DeWikiPedia:Kurländer_Palais]
+* BreitenGrad: 51.05132
+* LaengenGrad: 13.74516
+* BoundingBox: 40
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/23082227

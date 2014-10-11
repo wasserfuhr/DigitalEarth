@@ -1,0 +1,24 @@
+* IsA: MindPlace
+* PartOf: OrpheumDresden
+* InterWiki: [DdWiki:CoOrpheum]
+* OperatedBy: CoOrpheumUnlimited
+* HomePage: http://www.coorpheum.de/
+|[FaceBookGroup:113320995364446]
+|[TwittEr:CoOrpheum]
+|[FlickEr:coorpheum]
+
+PiratePad: http://piratepad.net/CoOrpheum
+
+SpeedTest: Ergebnisse von http://www.speedmeter.de
+(Kopiert am 12.05.10 11:26)
+Download aus Deutschland : 1400 Kbit/Sek
+Upload : 396 kbit/Sek
+Verbindung : 904 Verb/Min
+Ping Test Deutschland : 98 ms
+
+Ergebnisse von http://www.speedmeter.de
+(Kopiert am 29.05.10 00:31)
+Download aus Deutschland : 17485 Kbit/Sek
+Upload : 3645 kbit/Sek
+Verbindung : 1620 Verb/Min
+Ping Test Deutschland : 57 ms

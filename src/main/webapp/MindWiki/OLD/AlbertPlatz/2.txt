@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Albertplatz], [DeWikiPedia:Albertplatz_(Dresden)]
+
+TotalRecall
+* 20081206:1500: RainerWasserfuhr, JeMand: DresdenOpenSpace, OpenStreetMap, AppEngine, AnDroid, ApacheMaven, HadoopHBase, SemanticWeb

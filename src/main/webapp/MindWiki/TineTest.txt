@@ -1,0 +1,154 @@
+* MindTags: FutureCard
+* UnTil: 2030
+* PreDict: A 3D AvaTar of ChristineSchlinck will pass the TuringTest for a PerSon who knows ChristineSchlinck
+* DependsOn: LongBetOne
+* CardOwner: DanielPoodratchi
+* CardHolder: RainerWasserfuhr
+
+inspired by [this idea|http://dwave.wordpress.com/2008/08/30/immortality/] from GeordieRose:
+
+The TineTest is an extension of the TuringTest.
+Soon we will once a year put ChristineSchlinck behind one of two magic semipermeable curtains.
+
+[{Image src='http://farm1.static.flickr.com/97/280626741_2c26ccce3b_m.jpg'}][*|http://flickr.com/photos/lifecosmos/280626741/]
+
+A TestPerson will sit in front of the two magic curtains.
+By ZuFall'sgenerator, ChristineSchlinck will be put behind one of the curtains.
+
+The TestPerson will talk simultaneously to
+* the __real__ ChristineSchlinck__, and
+* an immersive 3D AvaTar-simulation of ChristineSchlinck, with synthetic voice and animated face and body movements
+
+At the end of 25 minutes, the test person has to decide, behind which curtain
+the __real__ ChristineSchlinck was.
+
+We start with the PersonalityCapture of ChristineSchlinck here:
+
+!HasVisited:
+* Aegypten
+* AmsterDam
+* Aruba
+* StadtBerlin
+* StadtDresden
+* DuBai
+* DuesselDorf
+* Goerlitz
+* GranCanaria
+* GrueterichEins
+* Harz
+* Hurghada
+* Ibiza
+* KarlsRuhe
+* StadtKoeln
+* Konstanz
+* LandauPfalz
+* Leipzig
+* Luxor
+* Malta
+* Madeira
+* Madrid
+* Mallorca
+* MannHeim
+* Menorca
+* MuenChen
+* Paris
+* PotsDam
+* Prag
+* RadeBeul
+* Ruegen
+* Spiekeroog
+* StrassBurg
+* StuttGart
+* Teneriffa
+* Tuerkei
+* Tunesien
+* Venezia
+* WaldRohrBach
+* WipperFuerth
+
+!HasTalked
+* LuigiColani
+* MarioAdorf
+* OttoSander
+* SabineBall BunteRepublik 2008
+
+!HasSeen:
+* ElkeHeidenreich
+* GarryKasparov
+* HansOlafHenkel
+* HelmaOrosz
+* JulianNidaRuemelin
+* KlausWowereit
+* RobbieWilliams
+* VladimirPutin
+
+!HasPhoned:
+* WalterRiester
+
+!HasKissed:
+* RainerWasserfuhr
+EtAl
+
+!Films seen:
+* TheMatrix
+* HarryPotter
+* MenInBlackIi
+
+!HasRead:
+* LoolaPrinzip
+* WildDuck
+* EmotionaleIntelligenz
+
+!WortSchatz:
+* (20.01.09 16:59:28) ChristineSchlinck: bzw
+* (20.01.09 16:59:30) ChristineSchlinck: abs
+* (20.01.09 16:59:34) ChristineSchlinck: bw
+* (20.01.09 16:59:42) ChristineSchlinck: iv
+* (20.01.09 16:59:43) ChristineSchlinck: ia
+* (20.01.09 16:59:46) ChristineSchlinck: ppa
+* (20.01.09 16:59:52) ChristineSchlinck: gmbh
+* (20.01.09 16:59:53) ChristineSchlinck: ag
+* (20.01.09 16:59:53) ChristineSchlinck: kg
+* (20.01.09 17:00:20) ChristineSchlinck: mfg
+* (20.01.09 17:00:30) ChristineSchlinck: ssw
+* (20.01.09 17:00:30) ChristineSchlinck: ssv
+* (20.01.09 17:00:36) ChristineSchlinck: nn
+* (20.01.09 17:00:55) ChristineSchlinck: tv
+* (20.01.09 17:00:55) ChristineSchlinck: pc
+* (20.01.09 17:00:59) ChristineSchlinck: www
+* (20.01.09 17:01:17) ChristineSchlinck: nr
+* (20.01.09 17:01:22) ChristineSchlinck: usw
+* (20.01.09 17:01:25) ChristineSchlinck: bspl
+* (20.01.09 17:02:13) ChristineSchlinck: url
+
+(London, Schule)
+Teneriffa, Mutter
+CranCanaria, Mutter
+Tunesien, Matthias
+Ägypten, Matthias
+(Paris, Matthias)
+Ibiza, alleine
+Portugal, Martin
+Türkei, Martin
+Teneriffa, Martin
+Ägypten, Xaver
+Tunesien, Mutter
+Ägypten, Rainer
+(Prag, Rainer)
+(Berlin, Rainer, Corry/Andreas)
+Menorca, Corry/Andreas/Tom
+Madrid, Rainer
+Venedig, Rainer
+Mallorca, Corry/Andreas/Tom
+Amsterdam, Rainer
+Aruba, Rainer
+Dubai, Rainer
+Malta, Corry/Andreas
+(München, Ramón)
+Madeira, Rainer
+(Berlin, Ramón)
+(Harz, Ramón)
+(Rügen, Ramón)
+(Prag, Corry/Andreas)
+(Potsdam, Ramón)
+(Weimar, Corry/Andreas)

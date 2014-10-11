@@ -1,0 +1,2 @@
+MindProps für einen MindPlace: eine [WikiPedia:Minimum_bounding_box] um einen Ort, in Metern
+

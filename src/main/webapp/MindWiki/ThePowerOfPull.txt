@@ -1,0 +1,4 @@
+* IsA: MindBook
+* DcAuthor: JohnHagel JohnSeelyBrown
+
+FaceBookPage: powerofpull (ToDo)

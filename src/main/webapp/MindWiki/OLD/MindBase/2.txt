@@ -1,0 +1,3 @@
+The MindBase will be a HadoopHBase based database operated on our SocialGrid.
+
+CitiZens will be able to submit MapReduce jobs to the MindBase in order to create new and exciting MashUp's from the DataMap of NooPolis.

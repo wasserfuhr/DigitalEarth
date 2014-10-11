@@ -1,0 +1,5 @@
+A Wiki with it's own SourceCode inside.
+
+Example: NooMic
+
+How to BootStrap?

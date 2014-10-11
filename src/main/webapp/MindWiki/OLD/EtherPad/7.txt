@@ -1,0 +1,22 @@
+* HomePage: http://etherpad.com/
+
+* http://etherpad.com/AnneWillSingularity (German)
+* http://etherpad.com/DistanzSpiel (German)
+* http://etherpad.com/HelmaWave (German)
+* http://etherpad.com/jeanxd (German)
+* http://etherpad.com/LockSz (German)
+* http://etherpad.com/LockSchuppen (Erster Briefentwurf für LockSchuppen-Anmietung; German)
+* http://etherpad.com/LockSchuppenFuture
+* http://etherpad.com/NooPolis
+* http://etherpad.com/TED-RayKurzweil-SingularityUniversity (German-English)
+* http://etherpad.com/ZuKunft (Wie wir uns dem Jahr 2056 annähern; German)
+* http://etherpad.com/LockProject_100Bikes (Bringing a new company on the market, CrowedConsulting; English)
+* http://etherpad.com/LockSchuppenTippingPoint (when will LockSchuppen run on its own?; German)
+* http://etherpad.com/PrototypingCoWorking (How do you see CoWorking and benefits/ misfits to your life concept?; English)
+* http://etherpad.com/LockSchuppenSurvey (adapting a survey of the http://pbworks.coworking.com; English)
+* http://etherpad.com/AgenturFuerArbeit (Anfrage, 1.600 Entrepreneure in Dresden zusammenzubringen; German)
+
+* CorneliaHeinz
+* MartinLindner
+* RainerWasserfuhr
+* RalfLippold

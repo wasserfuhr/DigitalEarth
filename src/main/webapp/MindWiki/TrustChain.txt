@@ -1,0 +1,12 @@
+NooPolis is designed as a true WebOfTrust.
+
+Each activity of CitiZens (e.g. editing the MindWiki, including the ConStitution and the GovernmentBudget of NooPolis)
+can be traced back to a root TrustChain.
+
+At the beginning, the TrustChain was created by RainerWasserfuhr (as MindOne).
+
+In the future, the TrustChain might evolve into a mechanism which is independent of a single person,
+e.g. to a CabiNet.
+
+When a citizen trust to another citizen, they also accept the VerAntwortung
+in the case that the trusted person misuses his trust and his FreeDom.

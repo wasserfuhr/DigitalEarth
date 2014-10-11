@@ -1,0 +1,33 @@
+* IsA: MindAward
+* InterWiki: [DeWikiPedia:Konrad-Zuse-Medaille]
+* NamedAfter: KonradZuse
+
+RedBlueGame:
+* 2009 ReinhardWilhelm
+* 2007 ManfredBroy
+* 2006 IngoWegener
+* 2003 ThomasLengauer
+* 2001 TheoHaerder
+* 1999 GuenterHotz
+* 1997 JoseLuisEncarnacao
+* 1995 KurtMehlhorn
+* 1993 CarlAdamPetri
+* 1991 WilhelmKaemmerer
+* 1989 NikolausJoachimLehmann
+* 1989 RobertPiloty
+* 1987 HeinzBilling
+
+BauInformatik:
+* 2009: ErnstRank
+* 2005 	RichardJunge
+* 2002 	KlausSchiller
+* 2000 	ErnstRiffel
+* 1997 	GeorgNemetschek
+* 1995 	Kurt W. Pauli
+* 1993 	LeonhardObermeyer
+* 1991 	JohannesJaenike
+* 1989 	Hermann C. Flessner
+* 1987 	VolkerHahn
+* 1985 	HeinzNixdorf
+* 1983 	FridolinHallauer
+* 1981 	KonradZuse

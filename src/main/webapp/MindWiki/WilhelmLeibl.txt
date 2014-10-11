@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Wilhelm_Leibl]
+* BornIn: 1844
+* BirthDay: 10-23
+* ViAf: http://viaf.org/viaf/17371382

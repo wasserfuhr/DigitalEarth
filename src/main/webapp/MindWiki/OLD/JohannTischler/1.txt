@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* JahrGang: 1946
+* ViAf: http://viaf.org/viaf/12321610

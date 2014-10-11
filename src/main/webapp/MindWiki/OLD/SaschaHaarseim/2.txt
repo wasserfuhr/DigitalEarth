@@ -1,0 +1,4 @@
+* IsA: PerSon
+* HasTalked: ChristineSchlinck RainerWasserfuhr RalfLippold RoswithaHunold
+* MindSkill: PoKern
+|[XingLe:Sascha_Haarseim]

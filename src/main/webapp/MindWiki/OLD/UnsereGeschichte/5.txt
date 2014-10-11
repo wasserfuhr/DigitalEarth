@@ -1,0 +1,9 @@
+* 1999:  RainerWasserfuhr und YvonneSchubert gründen die MindBrokerKg
+* 2000 beginnen wir mit der Implementierung einer ASP-Plattform für Börsenspiele
+* 2001 präsentieren wir auf der Cebit unseren Prototypen mit virtuellen Börsenmärkten für die Popularität deutscher Parteien und Politiker
+* 2002 beginnen wir die Implentierung von IntraBroker
+* 2002-08: Start von Consulting-Services: Beratung für SiemensDematic
+* danach Software-Consulting unter anderem für AdiDas, DeutschePost, T-Systems, Müller-Altvatter und ComBots.
+* 2006-09 Beginn der Implementierung eines SportPortals
+* 2007-07-19:0900 RainerWasserfuhr und YvonneSchubert gründen VebMind.
+* 2007-08: NooPolis wird Rahmenprojekt für alle UnsereProjekte.

@@ -1,0 +1,21 @@
+; NooMic is NoMic with SourceCode for new NooPolis WebApp's - InSpir'ed by PerlNomic
+;{{{
+
+(defn noomic [request response]
+  (str "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
+    \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">
+ <head>
+  <title>NooPolis - the futuristic MicroNation on the InterNet</title>
+  <link href='http://static.mindbroker.de/css/layout_vertical_listnav.css' rel='stylesheet' type='text/css'/>
+  <style type='text/css'>
+  </style>
+ </head>
+ <body>
+  <h1>Hello " (.getParameter request "param") ".</h1>
+ We will soon be back. Much faster than ever before ;)
+ </body>
+</html>
+")
+)
+;}}}

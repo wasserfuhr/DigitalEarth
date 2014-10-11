@@ -1,0 +1,71 @@
+Behind http://noopolis.org/ there is simply:
+* a running HadoopHBase
+* A WebApp with jars:
+* CloJure
+* HadoopHBase 
+* http://mesh.dl.sourceforge.net/sourceforge/json-lib/json-lib-2.2.3-jdk15.jar
+* http://mesh.dl.sourceforge.net/sourceforge/fb4j/fb4j-0.1.3-alpha.jar
+* ApacheDerby
+
+with the following JSP:
+{{{
+<%@ page import="
+java.io.BufferedReader,
+java.io.InputStreamReader,
+java.io.PushbackReader,
+java.io.StringReader,
+java.io.StringWriter,
+java.net.URL,
+clojure.lang.Compiler,
+clojure.lang.LispReader,
+clojure.lang.RT,
+clojure.lang.Var
+"%><%
+  Var noomicFn=(Var) application.getAttribute("clojure");
+  if (null== noomicFn
+      ||"/refreshClojure".equals( request.getPathInfo() ) ) {
+    RT.var("clojure.core","application", application);
+    URL url = new URL("http://mindbroker.de/wiki/NooMicClj?skin=raw");
+    BufferedReader br= new BufferedReader(
+       new InputStreamReader( url.openConnection().getInputStream(),"UTF-8"));
+    //11 times:
+    br.readLine();    br.readLine();   br.readLine();
+    br.readLine();    br.readLine();   br.readLine();
+    br.readLine();    br.readLine();   br.readLine();
+    br.readLine();    br.readLine();
+    String line;
+    StringWriter sw=new StringWriter();
+    while ((line=br.readLine() ) != null ) {
+      line=line.replace("&quot;","\"");
+      line=line.replace("&lt;","<");
+      line=line.replace("&gt;",">");
+      sw.append(line);
+      sw.append('\r');
+    }
+    //test: String s="(defn noomic [request response] (str \"hello \" (.getParameter request \"param\")))\n\r";
+    Object noomicExpr=LispReader.read(new PushbackReader(new StringReader(sw.toString())), true, null, false);
+    noomicFn=(Var) Compiler.eval( noomicExpr);
+    application.setAttribute("clojure", noomicFn);
+ }
+%><%=noomicFn.invoke(request,response)%>
+}}}
+
+and this web.xml:
+{{{
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+   version="2.5">
+  <display-name>NooPolis</display-name>
+  <description>NooPolis</description>
+  <servlet>
+    <servlet-name>index</servlet-name>
+    <jsp-file>/index.jsp</jsp-file>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>index</servlet-name>
+    <url-pattern>/*</url-pattern>
+  </servlet-mapping>
+</web-app>
+}}}
+So when you edit NooMic, it will go live to http://noopolis.org/.

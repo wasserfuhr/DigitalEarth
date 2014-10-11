@@ -1,0 +1,93 @@
+||MM||DD||MindPeople
+|12|31|
+|12|30|MrTitus, TheodorFontane, AlfredEinstein, RobertHossein, BertiVogts, TraceyUllman, SabeerBhatia
+|12|29|ThBe
+|12|28|DavidAllen, RuiNaiwei, LinusTorvalds, MM
+|12|27|JohannesKepler, LouisPasteur, KurtBeyer, CarlZuckmayer, MarleneDietrich, SebastianHaffner, EmilObermann, MichelPiccoli, GerardDepardieu,KlausFischer, JoachimNiemeier, Guido Westerwelle
+|12|26|
+|12|25|HectorRuiz
+|12|24|JesusChrist
+|12|23|HelmutSchmidt, BernhardKegel
+|12|22|GiacomoPuccini, OttoHoelder, FilippoTommasoMarinetti, PhilippFuerchtegottReemtsma, GustafGruendgens, JohnCSlater, MaxBill, LadyBirdJohnson, SigridSemper, PaulWolfowitz, ManfredBurgsmueller, MauriceGibb, RobinGibb, BerndSchuster, FelicitasHoppe, NaKa
+|12|21|KonradWilhelmLedderhose, LeopoldVonRanke, KarlAugustLingner, JanLukasiewicz, ClareWGraves, HeinrichBoell, KurtWaldheim, AliciaAlonso, HeinrichAdameck, JaneFonda, FrankZappa, HuJintao, ReinhardMey, PacoDiLucia, JeffreyKatzenberg, AndrasSchiff, JuergenDomian, FlorenceGriffithJoyner, AnkeEngelke, CemOezdemir, KieferSutherland, MicheilSaakaschwili, JulieDelpy
+|12|20|CharlotteBuehler, DavidBohm, FriederikeMayroecker, GeoffreyHowe, OttoGrafLambsdorff, ManfredLahnstein, JeanClaudeTrichet, UriGeller, AlanParsons, BeatriceRichter, WauHolland, StefanDecker, JD, ChristianHeller
+|12|19|ElisabethNoelleNeumann, AbigailJohnson 
+|12|18|ReinerHartenstein, LarsHinrichs
+|12|17|WillardLibby, ArminMuellerStahl, KlausKinkel, GigiDAgostino, ClaudiaBiene, CarmenCasanova, JamesWindsor
+|12|16|BeetHoven,  JaneAusten, ZoltanKodaly, MargaretMead, BarbaraKent, ArthurCClarke, PhilipKDick, LivUllmann, JohnAbercrombie, BaerbelSchaefer, HeikeDrechsler, PaulVanDyk
+|12|15|MrNero, OscarNiemeyer, WillyBrandt, FreemanDyson, KlausZumwinkel, JuliaFriedrichs, GA
+|12|14|GoSuzaku, NostraDamus, TychoBrahe, ErichPonto, PaulEluard, KurtSchuschnigg, ErichSchneider, KarlCarstens, LeonardoBoff, MichaelGlos, MikeKrueger, EvaMattes, ErhardWunderlich, BelaBe, R, VG, AnEi
+|12|13|LudvigHolberg, HeinrichHeine, WernerVonSiemens, GeorgePolya, TalcottParsons, CurdJuergens, GeorgeShultz, HectorNeriCastaneda, HeinzGeorgKramm, LudwigHolgerPfahls, DieterEilts,
+|12|12|GustaveFlaubert, EdvardMunch, AkibaRubinstein, ManesSperber, RoyDouglas, FrankSinatra, ChinghizAitmatov, RenateSchmidt, EmersonFittipaldi, HeinerFlassbeck, TomGerhardt, VolkerBeck, ElseBuschheuer,
+|12|11|HectorBerlioz, EmilRathenau, RobertKoch, MaxBorn, FiorelloLaGuardia, AlexanderSolschenizyn, HeinzSchenk, PaulGreengard, HeinzFlorianOertel, JeanLouisTrintignant, FerdinandAlexanderPorsche, FrankSchoebel, ReinholdKliegl, ViswanathanAnand 
+|12|10|AdaLovelace, CesarFranck, LudwigKlages, OlivierMessiaen, JorgeSemprun, JenniferNitsch
+|12|09|GemmaFrisius, GraceHopper, IjGood, GunterDueck, JohnMalkovich, MarcoRibke
+|12|08|MariaStuart, AdolphKolping, FriedrichSiemens, CamilleClaudel, JacquesHadamard, JeanSibelius, DiegoRivera, BohuslavMartinu, GerhardLoewenthal, SammyDavisJr, JoachimFest, NiklasLuhmann, ArnulfRainer, JimMorrison, MarkPesce, BenGoertzel
+|12|07|VladDraculea, OttoAmmon, MaxMerkel, MarioSoares, NoamChomsky, TomWaits, RobertKubica, KirstenErl, tencate, jabb
+|12|06|GunnarMyrdal, PaulDeMan, DaveBrubeck, NikolausHarnoncourt, RolfHoppe, HenrykGorecki, PeterHandke, MariusMuellerWesternhagen, KekeRosberg, TonyWoodcock, MichaelaSchaffrath
+|12|05|ClydeVernonCessna, FritzLang, WaltDisney, WernerHeisenberg, JohannesHeesters, KlausSammer, JoseCarreras, KlausAllofs, MarionKracht, PatriciaKaas, fra
+|12|04|WassilyKandinsky, RainerMariaRilke, AlfredHershey, AnkeHuber
+|12|03|
+|12|02|OttoDix
+|12|01|
+|11|30|JacquesBarzun, HansMoravec
+|11|29|JohnTempleton, GeorgeGilder
+|11|28|FriedrichEngels, StefanZweig, ClaudeLeviStrauss, EwaldLienen, JulianNidaRuemelin, AnnaNicoleSmith 
+|11|27|
+|11|26|
+|11|25|
+|11|24|SelmerBringsjord
+|11|23|
+|11|22|
+|11|21|
+|11|20|
+|11|19|PeterDrucker, EricSchoop
+|11|18|
+|11|17|
+|11|16|WarrenMcCulloch
+|11|15|
+|11|14|
+|11|13|HeinzVonFoerster, EvaZeisel
+|11|12|RolandBarthes
+|11|11|ChristineHaderthauer
+|11|10|ShaneLegg
+|11|09|ErnstMoritzGeyger
+|11|08|PeterWeiss, JackKilby
+|11|07|
+|11|06|RobertMusil
+|11|05|TildaSwinton
+|11|04|
+|11|03|HubertusHeil
+|11|02|LeonidLevin
+|11|01|RainerHunold, MitchKapor, SD
+|10|31|JanVermeer, JohnKeats, OttilieVonGoethe, KarlWeierstrass, ChiangKaiShek, JeanAmery, HelmutNewton, FritzWalter, BarbaraBelGeddes, HelmutJedele, BudSpencer, AngelikaKallwass, HaraldGanzinger, NealStephenson, MarcoVanBasten, AlexanderGrischuk
+|10|30|HermannVonPuecklerMuskau, HeinrichCotta, PaulValery, EzraPound, GeorgHeym, AnnaWing, LouisMalle, DiegoMaradona, StefanKuntz, XieJun, FrediBobic
+|10|29|EdmondHalley, AdolphDiesterweg, EddieConstantine, BarujBenacerraf, NikiDeSaintPhalle, DieterNuhr, MircoNontschew
+|10|28|WolfgangBibel, BillGates
+|10|27|
+|10|26|HillaryClinton
+|10|25|LawrenceKohlberg
+|10|24|
+|10|23|AlbertLortzing, IljaFrank, PhilipRosenthal, ColeenGray, HansZehetmair, EdsonArantesDoNascimento, MichaelCrichton, UlrichStein, DollyBuster, DirkHilbert
+|10|22|FranzLiszt, RobertCapa, DorisLessing, TimothyLeary, RobertRauschenberg, CatherineDeneuve, WolfgangThierse, KlausEck
+|10|21|JaneMcGonigal
+|10|20|
+|10|19|
+|10|18|CharlesStross
+|10|17|JuergenWeber
+|10|16|
+|10|15|HubertDreyfus, FriedrichNietzsche, FereidounEsfandiary, AbdulKalam, MichelFoucault, ChrisDeBurgh
+|10|14|HeinrichLuebke, HannahArendt, JohnWooden, HelmutSchelsky, RogerMoore, ThomasLuckmann, UdoKier, CraigVenter
+|10|13|PaulPotts
+|10|12|GoIchijo, ArthurNikisch, BobSheppard, GerhardKienbaum, PhilipJohnsonLaird, WilliamSimsBainbridge
+|10|11|ThichNhatHanh, JfSchlinck
+|10|10|S
+|10|09|
+|10|08|
+|10|07|VladimirPutin
+|10|06|GeorgeWestinghouse, LeCorbusier, DavidBrin
+|10|05|DenisDiderot
+|10|04|ChristopherAlexander
+|10|03|AlvinToffler
+|10|02|
+|10|01|

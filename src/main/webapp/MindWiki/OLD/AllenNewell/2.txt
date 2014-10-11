@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Allen_Newell] [WikiWikiWeb:AllenNewell]
+* JahrGang: 1927
+* BirthDay: 03-19
+* LebensEnde: 1992
+* DbLp: http://dblp.uni-trier.de/rec/pid/01/4946

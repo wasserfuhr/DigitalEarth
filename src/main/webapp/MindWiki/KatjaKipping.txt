@@ -1,0 +1,8 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Katja_Kipping]
+* BirthPlace: StadtDresden
+* BornIn: 1978
+* BirthDay: 01-18
+* ParteiWiki: LinkeWiki
+
+BundesTag

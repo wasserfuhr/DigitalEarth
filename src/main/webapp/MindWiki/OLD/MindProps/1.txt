@@ -1,0 +1,5 @@
+* JahrGang
+* LebensErwartung
+* LebensEnde
+* LaengenGrad
+* BreitenGrad

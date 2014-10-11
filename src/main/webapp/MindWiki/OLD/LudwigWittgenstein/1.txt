@@ -1,0 +1,7 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Ludwig_Wittgenstein], [OpenCyc:LudwigWittgenstein]
+* JahrGang: 1889
+* BirthDay: 04-26
+* LebensEnde: 1951
+* HasTalked: AdolfHitler
+* MindSkill: AusSage, SprachSpiel, WahrHeit

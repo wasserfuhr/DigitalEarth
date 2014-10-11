@@ -1,0 +1,47 @@
+|[TwittEr:BigTableNomic]
+
+BigTableNomic is a CodeNomic played on top of the functional ProgrammingLanguage CloJure, installed as a WebApp hosted on AppEngine from GoogleInc.
+
+To play BigTableNomic, you should be familiar with
+* how a WebApp on the JavaVm and on AppEngine works
+* BigTable, as seen through the low level Java DataStore-API
+* CloJure, as our main language
+
+BigTableNomic is inspired by PerlNomic, but additionally allows to create very a dynamic and scalable game inventory because of the underlying BigTable InfraStructure.
+
+To JoinNow you only need a GoogleAccount.
+
+For coordinating the BigTableNomic developers we will use a simple "DogFood" application that is based on the BigTable entity "ChatMessage" that is sorted in reverse chronological order by property "date" and shown on the HomePage.
+
+The BootStrap WebApp is at
+  http://bigtablenomic.appspot.com/
+Other WebApp's based on NoOs can call BootStrap WebApp adownload their initial
+version from GoogleCode.
+
+Currently BigTableNomic is played on these AppEngine WebApp's:
+||ReVision||WebApp
+|32|http://bigtablenomic.appspot.com/
+|32|http://noopolis.appspot.com/
+|ToDo|http://pieschenbank.appspot.com/
+
+BigTableNomic is similar to a WiKi, but here the PageContent is not static text,
+but a dynamically executable fragment of SourceCode. 
+Currently BigTableNomic supports SourceCode for
+* CloJure
+* JavaScript (similar to Helma)
+* PHP
+
+In TheFuture we might also support server side languages like
+* graily
+* jRuby
+* Jython
+* Scala
+
+NoOs wants to help create an ecosystem for programmers, web designers
+and users, offering
+* Identity
+* Trust
+* Currency
+* SemanticWeb
+
+The LongTerm key purpose of NoOs is to play the AiGame to ArtificialGeneralIntelligence, where you define one or more AvaTar's and play Scenes at the SingularTheater

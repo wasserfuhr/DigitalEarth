@@ -1,0 +1,15 @@
+* IsA: MindHome
+* PartOf: HighTwentyOne
+
+SpeedTest: 
+2010-03-23:0155
+Download aus Deutschland : 12371 Kbit/Sek
+Upload : 430 kbit/Sek
+Verbindung : 1080 Verb/Min
+Ping Test Deutschland : 68 ms
+
+2010-03-23:0158
+DownLoad aus Deutschland : 11399 Kbit/Sek
+UpLoad : 417 kbit/Sek
+Verbindung : 1508 Verb/Min
+Ping Test Deutschland : 75 ms

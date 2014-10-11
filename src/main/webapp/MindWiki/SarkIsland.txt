@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Sark]
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/27748769

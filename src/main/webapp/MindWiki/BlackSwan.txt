@@ -1,0 +1,4 @@
+* IsA: FutureCard
+* InterWiki: [ThoughtStorms:BlackSwan]
+* CardOwner: *reserved*
+* UnTil: 2055

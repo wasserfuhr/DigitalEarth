@@ -1,0 +1,3 @@
+Eine Karte im Zukunfts-MauMau.
+Wer die Karte als "CardOwner" besitzt, muss sagen, ab wann NooPolis mehr als 1.000.000 BuergerInnen haben wird.
+Zulässig sind wie immer Werte zwischen 2008 und 9999.

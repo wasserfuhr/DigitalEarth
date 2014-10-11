@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Bob_Bemer] [WikiWikiWeb:BobBemer]
+* BirthDay: 02-08
+* DbLp: http://dblp.uni-trier.de/rec/pid/51/3155

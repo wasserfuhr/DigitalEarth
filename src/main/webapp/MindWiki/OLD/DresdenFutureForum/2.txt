@@ -1,0 +1,5 @@
+* IsA: EventSeries
+* HomePage: http://www.dresdner-zukunftsforum.de/
+* MindBlog: http://www.dresdner-zukunftsforum.de/blog/
+* OperatedBy: TSystemsMms
+|[TwittEr:DresdenFuture]

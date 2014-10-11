@@ -1,0 +1,3 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Peter_Gabriel]
+* BirthDay: 02-13

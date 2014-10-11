@@ -1,0 +1,9 @@
+* MindId: 107
+* InvitedBy: ThomasKujawa
+* JahrGang: 1970
+* BirthDay: 03-16
+* SprachWelt: de
+* WohnSitz: EilenBurg
+* TimeZone: CET
+* MindBrowser: FireFox
+|[XingLe:Reinhard_Selent]

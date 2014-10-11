@@ -1,0 +1,21 @@
+;
+;
+;{{{
+
+((defn forex [] 
+  (handle "favelet"
+   (fn []
+    (str
+     "copy to <a href=''>MindWiki</a>:
+      <textarea>"
+      (let
+      [url (.substring (.getPathInfo request) (.length "/favelet/" ))
+       fbLine (re-find #"<h1 key=\"homepages/([^\"]*)\"" (fetch-url-s url))
+       id  (second fbLine)
+      ]
+      (str "
+* DbLp: http://dblp.uni-trier.de/rec/pid/" id))
+      "</textarea>"
+    )
+   ) ""))))
+;}}}

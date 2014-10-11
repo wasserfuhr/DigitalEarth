@@ -1,0 +1,34 @@
+* HomePage http://twitterholic.com/
+
+http://twitterholic.com/top100/followers
+
+||  ||PerSon
+|  2|BarackObama
+|  4|BritneySpears
+|  5|AshtonKutcher
+|  6|LanceArmstrong
+| 10|AlGore
+| 13|EvanWilliams
+| 24|MichaelArrington
+| 27|JohnMcCain
+| 35|BizStone
+| 37|JackDorsey
+| 39|TonyRobbins
+| 46|DemiMoore
+| 80|TimOReilly
+| 84|DavidAllen
+| 92|GuyKawasaki
+|189|WilliamShatner
+|321|LoicLeMeur
+|1165|NicoleSimon
+|1378|JimmyWales
+|2360|JeffClavier
+|2524|MartinVarsavsky
+|2848|RobertBasic
+|3844|OliverGassner
+|8516|WardCunningham
+|12334|OliverBerger
+|21642|KirstinWalther
+|32430|MartinRoell
+|42277|RainerWasserfuhr
+|99044|ChristineSchlinck

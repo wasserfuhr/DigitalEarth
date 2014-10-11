@@ -1,0 +1,4 @@
+* IsA: PerSon
+* HomePage: http://forschungsinfo.de/Mitarbeiter/Archiv/mit_scholz.asp
+* DifferentFrom: AnnaMariaScholz
+* MindSkill: ExzellenzInitiative

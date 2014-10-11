@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/51/3949
+* HomePage: http://www.inf.tu-dresden.de/index.php?node_id=588
+* PageNumber: 5
+* PagePath: LarryPage TerryWinograd NorbertStreitz RalfSteinmetz MaxMuehlhaeuser AlexanderSchill

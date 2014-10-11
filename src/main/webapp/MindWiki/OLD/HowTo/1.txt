@@ -1,0 +1,14 @@
+for XiNao:
+
+This is the public LifeWiki of RainerWasserfuhr called »MindWiki«. 
+
+At the beginning of the LockYear 2009 it had a PageCount of over 9377 WikiPage's. You can click on each blue UnderLine'd word. A red UnderLine'd word is one of the many WantedPages.
+
+The MindWiki started as a ProjectWiki for the SportPortal, but grew into a general purpose during preparation of the legendary WikiTchen party.
+
+Some people are allowed to edit the MindWiki.
+Therefore they have to agree to the ConStitution.
+
+The LeftMenu has the most important aids for navigation.
+
+Each WikiPage can have BackLink's from other WikiPage's.

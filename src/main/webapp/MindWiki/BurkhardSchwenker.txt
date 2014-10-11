@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Burkhard_Schwenker]
+* BornIn: 1958
+* BirthDay: 04-24
+
+WorkedFor RolandBergerSc

@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Kulturpalast_(Dresden)]
+* BreitenGrad: 51.05094
+* LaengenGrad: 13.73844
+* BoundingBox: 60
+* HomePage: http://www.kulturpalast-dresden.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/283620740

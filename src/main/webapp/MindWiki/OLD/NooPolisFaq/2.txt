@@ -1,0 +1,24 @@
+*About
+Was ist der zentrale Kundennutzen von NooPolis? Warum soll ich mich anmelden?
+Ich verstehe die meisten Wikieinträge nicht! Worum geht es eigentlich?
+
+*Politik
+Ist NooPolis eine Demokratie?
+Wenn immer der das größte Stimmrecht hat, der das größte Guthaben hat, gibt es doch gar keine echte Buergerbeteiligung?
+
+*Währung
+Warum muss es in NooPolis überhaupt eine virtuelle Währung geben?
+Was kann ich mit KayGroschen machen?
+Muss ich mein Guthaben auf meinem Buergerkonto versteuern? Wie?
+
+*Wirtschaft
+Wie ist die VirtuelleOekonomie an die reale Wirtschaft anschlussfähig? 
+Wie kann in NooPolis ein Projekt mit Beteiligung von Siemens stattfinden?
+
+*Sonstiges
+Warum kann ich in NooPolis meine bereits vorhandene OpenID nicht verwenden?
+
+
+
+
+

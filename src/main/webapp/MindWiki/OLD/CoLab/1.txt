@@ -1,0 +1,2 @@
+* MindTag: MindPlace
+[CoLab|http://colab.arc.nasa.gov/] SingularityUniversity NasaAmesResearchCenter RayKurzweil BobRichards DavidOrban

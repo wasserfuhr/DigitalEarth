@@ -1,0 +1,57 @@
+Beim MindHacking gibt RainerWasserfuhr eine Einführung, wie man schnell und einfach Software für MindBroker und NooPolis
+entwickelt. Interessenten können sich via [SkyPe:wasserfuhr] einklinken und können danach
+
+!Inhalte 
+(angelehnt an: http://barcampberlin.pbwiki.com/JavaOnMavenRails)
+
+Angeregt durch den berühmten RubyOnRails-Screencast "Creating a weblog in 15 minutes" (http://www.rubyonrails.org/screencasts )
+werden wir eine kleine PureJava basierte WebApp coden und live stellen.
+
+Grobe Roadmap:
+# JDK installieren
+# Eclipse installieren
+# Maven2 installieren
+# SourceCode aus SVN auschecken
+# Lokaler Test mit jetty:run
+# HTMLUnit-Test schreiben
+# JSPs coden
+# Deployment auf UnserGrid
+
+
+Detaillierte Schritte:
+* JDK >= 1.5 installieren: http://download.java.net/jdk6/binaries/ , rund 50-60 MB. Mac User können den Schritt überspringen, da Java schon vorinstalliert ist. 
+* Eclipse >= 3.3 installieren. http://www.eclipse.org/downloads/
+* Maven >=2.0.8 installieren, http://maven.apache.org/download.html , ZIP auspacken, die MAVEN/bin in den PATH aufnehmen, die erfolgreiche Installation mit
+
+{{{
+ mvn -version
+}}}
+testen. 
+
+Den SourceCode in Eclipse einbinden:
+{{{
+  svn://svn.mindbroker.de/opensource/
+}}}
+
+Ein Projekt auschecken:
+{{{
+  svn://svn.mindbroker.de/opensource/de.mindbroker.de/trunk
+}}}
+
+Lokal Testen mit
+{{{
+ mvn jetty:run
+}}}
+
+und unter 
+
+ http://127.0.0.1:8080/
+
+sollte die erste Applikation laufen.
+
+
+Weitere Schritte:
+* schreibe HTMLUnit-Test  
+* coden JSPs 
+* deploye auf UnserGrid
+* generiere Projekt-Site

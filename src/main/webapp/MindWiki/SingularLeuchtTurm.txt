@@ -1,0 +1,3 @@
+* IsA: SchornStein
+* PartOf: LockSchuppen
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/368106122

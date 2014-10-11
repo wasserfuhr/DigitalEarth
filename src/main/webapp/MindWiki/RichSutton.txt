@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/48/6070
+* HomePage: http://webdocs.cs.ualberta.ca/~sutton/index.html
+* PageNumber: 5
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy MarvinMinsky RichSutton
+* MindSkill: ReinforcementLearning

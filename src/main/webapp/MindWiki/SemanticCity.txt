@@ -1,0 +1,12 @@
+||Stadt||HebeSatz
+|AmsterDam|+ 7 Meter bis 20xx?
+|StadtBerlin|?
+|StadtDresden|4xx
+|DuBai|0 Liter Öl 20xx?
+|KarlsRuhe|?
+|LasVegas|0 Liter Wasser 20xx?
+|WipperFuerth|Bester RehRuecken der Welt
+
+MindBet: UnTil2011 kann man in mindestens einer SemanticCity eine Ag per AgApi in weniger als 1 sec gründen.
+
+WissensStadt

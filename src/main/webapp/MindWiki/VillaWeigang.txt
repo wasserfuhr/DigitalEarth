@@ -1,0 +1,4 @@
+* IsA: MindPlace
+* NearBy: GoetheAllee
+
+StandesAmt der StadtDresden

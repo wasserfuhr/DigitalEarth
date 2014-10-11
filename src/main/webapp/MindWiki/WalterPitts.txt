@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Walter_Pitts]
+* JahrGang: 1923
+* BirthDay: 04-23
+* FoafKnows: WarrenMcCulloch NorbertWiener
+* LebensEnde: 1969
+* MindSkill: MiNd

@@ -1,0 +1,6 @@
+Hätten Sie sich im Oktober 2007 jemals vorstellen können, dass schon einen Monat später auf PlanetErde eine Bank existieren würde, deren
+* Onlinebanking-Software OpenSource sind,
+* Kontostände für alle Kunden einsehbar sind,
+* Überweisungen per RSS subscribiert werden können,
+* Überweisungstexte CamelCase-sensitiv sind und deren
+* kompletter MindSql-Dump für alle Inhaber eines BankKonto heruntergeladen werden können?

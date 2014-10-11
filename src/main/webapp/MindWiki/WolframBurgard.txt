@@ -1,0 +1,5 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Wolfram_Burgard]
+* JahrGang: 1961
+* MindSkill: RobOt, ArTelligence, WahrSchein
+* HomePage: [http://www.informatik.uni-freiburg.de/~burgard/]

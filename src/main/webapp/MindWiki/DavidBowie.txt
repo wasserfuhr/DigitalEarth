@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:David_Bowie] [OpenCyc:DavidBowie]
+* JahrGang: 1947
+* BirthDay: 01-08

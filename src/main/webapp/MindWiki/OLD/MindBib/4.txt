@@ -1,0 +1,10 @@
+||Authors||Date||Type||Title
+|RainerWasserfuhr,RaimarScherer|200006|inProceedings|Distributed Management of Co-operative Design Processes
+|RainerWasserfuhr,YvonneSchubert|199909|talk|aware-net.de: Dynamic terminological spaces for personal and cooperative knowledge management
+|RaimarScherer,RainerWasserfuhr,PeterKatranuschkov, DirkHamann,RobertAmor,MattiHannus,ZigaTurk|199709|inProceedings|A Concurrent Engineering IT Environment for the Building Construction Industry
+|RainerWasserfuhr|199810|inProceedings|Shared Process Models for Distributed Co-operative Engineering
+|RainerWasserfuhr,RaimarScherer|199908|inProceedings|Towards Role Based Management of Cooperative Design Processes
+|RainerWasserfuhr|199809|inProceedings|Integrierte IT-Environments für die kooperative Planung im Bauprozeß
+|ZigaTurk,RainerWasserfuhr,PeterKatranuschkov,RobertAmor,MattiHannus,RaimarScherer|199706|inProceedings|Conceptual Modelling of a Concurrent Engineering Environment
+|RainerWasserfuhr,RaimarScherer|199702|inProceedings|Information Management in the Concurrent Design Process
+|Terhorst,GregorKampwerth,Niehuis,Benninghoven|1992|artice|Sputtered neutrals mass spectrometry of organic molecules using multiphoton postionization

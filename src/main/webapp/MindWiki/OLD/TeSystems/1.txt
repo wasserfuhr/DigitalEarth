@@ -1,0 +1,4 @@
+* InterWiki: [DeWikiPedia:T-Systems]
+* DcTitle: T-Systems
+* HeadQuarters: FrankFurt
+* UstId: DE 118645675

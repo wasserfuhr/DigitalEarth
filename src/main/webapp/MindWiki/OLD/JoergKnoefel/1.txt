@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* WohnSitz: StadtBerlin
+* HomePage: http://www.derknoefel.de/
+* JahrGang: 1962

@@ -1,0 +1,3 @@
+* KindOf: NamedEntity
+* a concrete physical thing with spacial boundary
+* includes: The body of living MindPeople

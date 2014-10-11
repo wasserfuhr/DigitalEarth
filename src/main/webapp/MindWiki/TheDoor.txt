@@ -1,0 +1,5 @@
+During TheExperiment.
+
+The only exception: TheDoor of the WirkZentrum.
+BUT: TheDoor only opens, when the opening request is scheduled via MindWiki.
+Everything that goes through this door has to be traced in the MindWiki.

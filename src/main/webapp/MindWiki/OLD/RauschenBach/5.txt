@@ -1,0 +1,9 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.048831
+* LaengenGrad: 13.740510
+* BoundingBox: 15
+* HomePage: http://www.rauschenbach-deli.de/
+
+TotalRecall:
+* 20081012:1830: RainerWasserfuhr, JeMand, JeMand: XxlDresden, GrosserGarten, GoogleFluse, ArTelligence, TwentyFirstCentury, SecondHalfOfTheChessboard, FutureNumber, MindWater, DigiZen, WeltUntergang, UnTil2100, TheSingularity, BlackSwan, JfSchlinck, DeziPetaFlops, TuringTest, DigitalTwin, IntelligenceExplosion, PetaBitPlatte, MichaelSchroeder, CxCr4, LrRk2, ZehnFragen, FermiParadox, DresdenDolls
+* 20080?: RainerWasserfuhr, JeMand, JeMand: MatthiasHorx, RayKurzweil

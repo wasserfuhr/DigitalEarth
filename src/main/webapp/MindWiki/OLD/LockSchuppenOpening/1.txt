@@ -1,0 +1,6 @@
+* IsA: FutureCard
+* UnTil: 20120623
+
+CardOwner?
+
+AmbItio'us Predict'ion: On the 100th BirthDay of AlanTuring, the LockSchuppen will be opened.

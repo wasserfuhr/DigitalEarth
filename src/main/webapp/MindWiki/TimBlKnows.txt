@@ -1,0 +1,63 @@
+TimBl FoafKnows:
+
+|*invalid* |http://www.w3.org/RDF/Validator/run/1265598889040#cm
+|*invalid* |http://www.w3.org/RDF/Validator/run/1265598889040#dj
+|*invalid* |http://www.w3.org/RDF/Validator/run/1265598889040#edd
+|AxelPolleres |http://bblfish.net/people/henry/card#me
+|DanBrickley |http://danbri.org/foaf.rdf#danbri
+|James_Martin |http://dbpedia.org/resource/James_Martin_%28author%29
+|JohnGage |http://dbpedia.org/resource/John_Gage
+|JohnKlensin |http://dbpedia.org/resource/John_Klensin
+|JohnMarkoff |http://dbpedia.org/resource/John_Markoff
+|JohnSeelyBrown |http://dbpedia.org/resource/John_Seely_Brown
+|TimBray |http://dbpedia.org/resource/Tim_Bray
+|JoeLambda |http://dig.csail.mit.edu/2007/wiki/people/JoeLambda#JL
+|RobertHoffmann |http://dig.csail.mit.edu/2007/wiki/people/RobertHoffmann#RMH
+|RalphSwick |http://dig.csail.mit.edu/People/RRS
+|YosiScharf |http://dig.csail.mit.edu/People/yosi#YES
+|DanielKrech |http://eikeon.com/foaf.rdf#eikeon
+|EddDumbill |http://heddley.com/edd/foaf.rdf#edd
+|*invalid* |http://hometown.aol.com/chbussler/foaf/chbussler.foaf#me
+|NicholasGibbins |http://id.ecs.soton.ac.uk/person/1269
+|WendyHall |http://id.ecs.soton.ac.uk/person/1650
+|NigelRShadbolt |http://id.ecs.soton.ac.uk/person/2686
+|LeslieCarr |http://id.ecs.soton.ac.uk/person/60
+|SeanBPalmer |http://inamidst.com/sbp/foaf#Sean
+|CharlesMcCathieNevile|http://my.opera.com/chaals/xml/foaf#me
+| |http://my.opera.com/howcome/xml/foaf#howcome
+| |http://myopenlink.net/dataspace/person/kidehen#this
+| |http://norman.walsh.name/knows/who#norman-walsh
+| |http://people.apache.org/~oshani/foaf.rdf#me
+| |http://people.csail.mit.edu/crowell/foaf.rdf#crowell
+| |http://people.csail.mit.edu/lkagal/foaf#me
+| |http://people.csail.mit.edu/psz/foaf.rdf#me
+| |http://people.csail.mit.edu/ryanlee/about#ryanlee
+|SimonJHernandez|http://people.w3.org/simon/foaf#i
+| |http://presbrey.mit.edu/foaf.rdf#presbrey
+|TomIlube|http://qdos.com/people/tom.xrdf#me
+| |http://research.microsoft.com/~henrikn/foaf.xml#me
+| |http://rit.mellon.org/Members/ihf/foaf.rdf#me
+| |http://sw-app.org/mic.xhtml#i
+| |http://swordfish.rdfweb.org/people/libby/rdfweb/webwho.xrdf#me
+| |http://teole.jfouffa.org/People/Teole/card.rdf#me
+| |http://users.ecs.soton.ac.uk/mc/mcfoaf.rdf#me
+| |http://web.mit.edu/ruthdhan/www/foaf.rdf#ruthdhan
+| |http://web.mit.edu/shinnyih/foaf.rdf#
+|AaronSwartz|http://www.aaronsw.com/about.xrdf#aaronsw
+| |http://www.cambridgesemantics.com/people/lee
+|JimHendler|http://www.cs.umd.edu/~hendler/2003/foaf.rdf#jhendler
+| |http://www.dajobe.org/foaf.rdf#i
+| |http://www.isi.edu/~gil/foaf.rdf#me
+|IvanHerman|http://www.ivan-herman.net/foaf.rdf#me
+| |http://www.kjetil.kjernsmo.net/foaf#me
+| |http://www.lassila.org/ora.rdf#me
+| |http://www.mindswap.org/2004/owl/mindswappers#Bijan.Parsia
+|JenniferGolbeck|http://www.mindswap.org/2004/owl/mindswappers#Jennifer.Golbeck
+| |http://www.w3.org/People/Berners-Lee/card#amy
+| |http://www.w3.org/People/Connolly/#me
+| |http://www.w3.org/People/EM/contact#me
+| |http://www.w3.org/People/Jacobs/contact.rdf#IanJacobs
+| |http://www.w3.org/People/djweitzner/foaf#DJW
+|KarlDubost|http://www.w3.org/People/karl/karl-foaf.xrdf#me
+|SusieStephens |genid:Ub1
+|DannyAyers |genid:A8636

@@ -1,0 +1,4 @@
+||PerSon        ||TwittEr             ||GhostWriter
+|BarackObama    |[TwittEr:BarackObama]|
+|JfSchlinck     |[TwittEr:jfschlinck] |RainerWasserfuhr, ChristineSchlinck
+|FredricKurzweil|[TwittEr:fkurzweil]  |GeHeim

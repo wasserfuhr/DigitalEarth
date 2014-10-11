@@ -1,0 +1,17 @@
+* MindTags: MindPlace
+* MindLine: 2020
+* BreitenGrad: 51.08986
+* LaengenGrad: 13.77880
+* BoundingBox: 200
+
+Im Norden der StadtDresden. Mindestens 1024m hoch dank NanoBeton.
+
+ChristineSchlinck ist designierter VorStand der MindBau und kann anfangen, mit einer OpenSource-Alternative zu AutoCad die Entwürfe für den MindTower zu planen. UnserDesigner könnte helfen. Ausserdem die BetonBoot-erfahrenen BauIgel der TuDresden und die noch tollkühnere ZeppelinUniversity.
+
+
+!ErWartung: Wie wahrscheinlich ist es, dass 2020 in Dresden ein 1024 m hoher MindTower steht...:
+
+||MindBroker      ||%
+|DimitriUwarov    |5
+|RainerWasserfuhr |6
+|HeikeRibke    |4

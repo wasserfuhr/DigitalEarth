@@ -1,0 +1,4 @@
+* IsA: MindCity
+* InterWiki: [DeWikiPedia:Jyväskylä]
+* PartOf: FinLand
+* HomePage: http://www.jyvaskyla.fi/

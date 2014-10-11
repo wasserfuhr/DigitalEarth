@@ -1,0 +1,5 @@
+"eurís, „weit“ und οψ, ops, „Sicht“, „Gesicht“ ... daher Eurṓpē, „die Frau mit der weiten Sicht“"
+
+* BreitenGrad: 54
+* LaengenGrad: 19
+* BoundingBox: 20000000

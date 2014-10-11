@@ -1,0 +1,5 @@
+* MindTags: EnterPrise
+* HerKunft: "Integrated electronics"
+* InterWiki: [OpenCyc:IntelCorporation], [WebSeitz:InTel], [WikiPedia:Intel_Corporation]
+* MindOne: PaulOtellini
+* IsIn: US4581401001

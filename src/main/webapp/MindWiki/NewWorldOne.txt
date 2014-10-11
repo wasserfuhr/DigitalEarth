@@ -1,0 +1,34 @@
+NewWorld with MindFarm
+
+BrainStorm:
+
+Rules
+* TaskForce
+
+* currencies:
+** EnErgie - under the condition that it happens TransParent'ly
+** KayGroschen - constant
+
+DomainModel: 
+* Object
+* Quantity
+
+UseCase:
+* CitiZen buys apple
+* CitiZen buys area
+* CitiZen eats apple: apple--; AppleSeed+=4;
+
+Next things to come:
+* Body
+* ApplePie
+* Electricity
+* Mobility
+* NewHolland harvester
+* Water
+* Silicon
+* CoCrPt
+* OpenStreetMap
+* SpatialModel
+* NoOs
+
+FarmClj is a ProtoType of a game. BrainStorm: FarmVille FarmTown RealEstate WeizenMehl FoodShelterAndWeb

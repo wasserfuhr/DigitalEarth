@@ -1,0 +1,7 @@
+* IsA: EventSeries
+* HomePage: http://cargocollective.com/undsonstso
+|[TwittEr:undsonstso]
+
+* 5: MarcusAnhaeuser
+* 4
+* 3: RainerWasserfuhr 

@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Köln] [OpenCyc:CityOfCologneGermany]
+* BreitenGrad: 50.9425
+* LaengenGrad: 6.958889
+* BoundingBox: 19840
+* MindCount: 950000

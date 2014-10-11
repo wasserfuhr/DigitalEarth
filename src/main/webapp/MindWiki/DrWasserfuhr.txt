@@ -1,0 +1,1 @@
+* SloGan: WikiBasiert'e CrowdWisdom-ErZeug'ung einer DisSertation.

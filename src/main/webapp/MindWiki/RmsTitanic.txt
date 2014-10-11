@@ -1,0 +1,3 @@
+* MindTags: MindThing
+* InterWiki: [OpenCyc:RMS_Titanic_TheShip]
+* MindOne: EdwardSmith

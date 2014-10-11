@@ -1,0 +1,19 @@
+||OldEconomy   ||NewEconomy
+|GeHeim        |GlaesernesUnternehmen
+|ArBeit        |Wissen
+|ChainOfCommand|TrustChain
+|TotesHolz     |WikiBasiert
+|No risk       |BeBold
+|Presence      |TelePresence
+|ArBeit'slos   |BasicIncome
+|GettingThingsDone|WoZu
+|ImPossible    |NotIfButWhen
+|ClubOfRome    |DresdenFutureGroup
+|SixSigma      |ShockLevel 4
+|WarrenBuffett |SteveJurvetson
+|BillGates     |MarkZuckerberg
+|JosefAckermann|LarsHinrichs *)
+|AdHoc         |NachHaltig
+|              |AchtSam
+
+*) pending: NewXing

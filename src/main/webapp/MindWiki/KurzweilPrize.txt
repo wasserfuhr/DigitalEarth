@@ -1,0 +1,5 @@
+* NamedAfter: RayKurzweil
+
+AgiConf:
+* 2010: SunYi TobiasGlasmachers TomSchaul JuergenSchmidhuber
+* 2009: NeilCrossley EmanuelKitzelmann MartinHofmann UteSchmid

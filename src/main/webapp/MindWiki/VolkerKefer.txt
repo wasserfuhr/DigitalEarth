@@ -1,0 +1,3 @@
+* IsA: PerSon
+* WorksFor: DeutschBahn
+* HomePage: http://www.deutschebahn.com/site/bahn/de/unternehmen/dbmlag/ueberblick/vorstand/technik.html

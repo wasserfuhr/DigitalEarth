@@ -1,0 +1,12 @@
+Idee: Selbst im Falle der physikalischen Zerstörung des MindHoster-Datacenters (z. B. nach MondBeben) kann die komplette
+Infrastruktur mittels SocialBackup wieder hergestellt werden.
+
+Folgende Schritte sind notwendig für das BootStrap:
+
+# bestelle einen Root-Server bei einem MindHoster
+# konnektiere die Domain mindbroker.de und alle Subdomains auf die IP des Servers
+# lege einen User "insider" an
+# su insider
+# wget http://apache.mirroring.de/tomcat/tomcat-5/v5.5.25/bin/apache-tomcat-5.5.25.zip
+# wget http://www.ecyrd.com/~jalkanen/JSPWiki/2.4.104/JSPWiki-2.4.104-bin.zip
+# DoIt: beschreibe weitere Schritte

@@ -1,0 +1,5 @@
+* IsA: PerSon
+* HasTalked: RainerWasserfuhr
+|[XingLe:Wolfgang_Sperling]
+
+Ex-OntoPrise

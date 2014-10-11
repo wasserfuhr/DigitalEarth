@@ -1,0 +1,30 @@
+;
+;
+;{{{
+
+((defn repl [] 
+  (handle "repl"
+   (fn []
+    (str
+     (if (and 
+          (.equals "eval" (.getParameter request "eval"))
+          (.equals "84.179.109.235" (.getRemoteAddr request))) ;TODO make more secure
+        (eval (read-string (.getParameter request "expression")))
+     )
+     "<form action='/repl'>
+       <textarea name='expression' rows='15' cols='75'>" 
+         (str "" (.getParameter request "expression")) 
+       "</textarea>
+       <input type='submit' name='eval' value='eval'/>
+      </form>"
+     "<table>"
+     " <tr><th>on</th><th>by</th><th>expression</th></tr>"
+     " <tr>"
+     "  <td valign='top'>RayKurzweil</td>"
+     " </tr>"
+     " <tr>"
+     "  <td valign='top'>DavidBrin</td>"
+     " </tr>"
+     "</table>")
+   ) ""))))
+;}}}

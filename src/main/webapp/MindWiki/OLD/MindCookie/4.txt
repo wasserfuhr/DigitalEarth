@@ -1,0 +1,28 @@
+ClickDummy:
+
+{{{
+Dies ist das große neue MonsterGehirn der Zukunft. Es besteht aus $count(pageIndex) $) Cookie-Krümeln. 
+Die Krümel sind durch ein geheimes Netz von Nanofäden miteinander verbunden, die von der grossen MindSpinne gehütet werden.
+Es befinden sich darunter Schätze von ungeahntem Reichtum, gefährlichen Abenteuern, gruseligen TyPo-Hyänen und
+der tödlichen SehSchlange.
+
+Dies ist Dein persönlicher erster MindCookie:
+   $select 8 random from SinnAtome$
+}}}
+
+SinnAtome=
+* Aa
+* Ab
+* Ac
+* ...
+* An
+* ...
+* At
+* ...
+* Pe
+* ...
+* Rc
+* ...
+* Zx
+* Zy
+* Zz

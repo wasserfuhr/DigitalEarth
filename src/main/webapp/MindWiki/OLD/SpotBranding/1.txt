@@ -1,0 +1,5 @@
+"spot" ist nur der zu Beginn festgelegte interne [ProjectCodeName|http://c2.com/cgi/wiki?ProjectCodeName].
+
+Vor dem BetaTest muss die endgültige Marke und Domain festgelegt werden.
+
+ToDo: Hier kann YvonneSchubert mal ihre bisherigen Erkenntnisse festhalten.

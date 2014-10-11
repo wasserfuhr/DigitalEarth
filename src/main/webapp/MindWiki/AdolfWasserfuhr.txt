@@ -1,0 +1,6 @@
+* IsA: PerSon
+* BirthPlace: UnterMausbach
+* BornIn: 1852
+* BirthDay: 01-08
+* ChildOf: PeterWilhelmWasserfuhr
+* DiedIn: 1919

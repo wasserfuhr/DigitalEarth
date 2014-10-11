@@ -1,0 +1,23 @@
+* InterWiki: [ThoughtStorms:SuperStruct]
+* HomePage: http://www.superstructgame.org/
+* MindOne: JaneMcGonigal
+
+AlternateReality.
+
+beware to find the right RabbitHole. Otherweise: FalscheLoch!
+
+FirstFuture.
+
+||         ||SuperStruct    ||FutureGame
+|MindOne   |JaneMcGonigal   |RainerWasserfuhr
+|Horizon   |UnTil2019       |TwentyFirstCentury
+|started   |2008            |2007
+|UnTil     |2008            |UnTil2100
+|Player    |SeHi            |BuergerInnen
+|Rules     |static          |dynamic
+|WikiBased |no              |yes
+|          |Superstructures |FutureCard's
+|          |Points          |KayGroschen
+
+TyPo's:
+* http://superstructgame.org/s/diseasome  cme → come, mappingt → mapping

@@ -1,0 +1,4 @@
+* IsA: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Ralph_Dommermuth]
+* BornIn: 1963
+* BirthDay: 11-19

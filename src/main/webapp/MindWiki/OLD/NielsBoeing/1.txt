@@ -1,0 +1,11 @@
+http://www.woz.ch/artikel/rss/15628.html
+
+Eine Suchanfrage bei Google verbraucht innerhalb von Sekundenbruchteilen so viel Strom wie eine 10-Watt-Energiesparbirne in einer halben Stunde.
+
+5Wh mal 1,2 Milliarden Anfragen pro Tag ergibt 6x10hoch9Wh.
+Also 2,2*10hoch11Wh pro Jahr.
+
+Laut [DeWikiPedia:Liste_der_größten_Stromproduzenten] wurden in den UnitedStates im Jahr 2006
+4.254 TeraWh also 4,2*10hoch15 Wh Strom produziert.
+
+Demnach

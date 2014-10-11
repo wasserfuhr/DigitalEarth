@@ -1,0 +1,3 @@
+* IsA: PerSon
+* ChildOf: SergeyBrin AnneWojcicki
+* BornIn: 2008

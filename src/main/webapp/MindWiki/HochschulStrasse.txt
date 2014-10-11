@@ -1,0 +1,3 @@
+* IsA: MindStreet
+* ConnectsTo: SchnorrStrasse StrehlenerStrasse
+* PartOf: SuedVorstadt

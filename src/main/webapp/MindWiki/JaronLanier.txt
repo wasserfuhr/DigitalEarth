@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Jaron_Lanier] [WebSeitz:JaronLanier] [WikiWikiWeb:JaronLanier]
+* BirthDay: 05-03
+* DbLp: http://dblp.uni-trier.de/rec/pid/56/1699
+* HomePage: http://www.jaronlanier.com/
+* PageNumber: 12
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi AlexAiken RalfTreinen NachumDershowitz YuriGurevich BertrandMeyer GuySteele EstherDyson JaronLanier

@@ -1,0 +1,12 @@
+* MindTags: WikiMind
+* InterWiki: [WebSeitz:BillSeitz]
+* WohnSitz: NewYork
+* MindFaves: HlMencken
+* LexBill: If "502 Bad Gateway" Then ReLoad
+
+Experte für CamelCase.
+
+||AusLand
+|[WorldWideWeb:webseitz.fluxent.com]
+|[DelIcioUs:seitz]
+|[TwittEr:BillSeitz]

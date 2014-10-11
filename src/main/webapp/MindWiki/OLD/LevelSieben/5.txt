@@ -1,0 +1,6 @@
+Kriterien:
+# LebensErwartung angegeben
+# LastWill angegeben
+# KinderWunsch angegeben
+# All'FreiHeit
+# surft ab 20080101 ausschliesslich per öffentlichem MindProxy

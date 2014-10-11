@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Pierre_Geisensetter]
+* BornIn: 1972
+* BirthDay: 07-27

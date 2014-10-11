@@ -1,0 +1,2 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Kernkraftwerk_Dresden], [OpenCyc:Dresden-NuclearPowerPlant]

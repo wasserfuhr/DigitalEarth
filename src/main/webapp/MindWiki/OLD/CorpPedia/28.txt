@@ -1,0 +1,24 @@
+Welche großen, mittleren und kleinen UnterNehmen haben wie große unternehmensweite interne WikiPedia- artige Projekte:
+
+||UnterNehmen||Seiten ||Autoren||Software||Mitarbeiter||Quelle         ||gefragt     ||AntWort *)
+|DeutschePost|?       |        ?|?        |520112     |                |             |
+|SieMens     |?       |        ?|?        |480000     |NN              |20071219     |
+|EiBiEm      |?       |        ?|?        |355766     |                |             |
+|OracleCorp  |?       |        ?|?        |56133      |NN              |20071219     |
+|SapAg       |?       |        ?|?        |42772      |NN              |20071219     |
+|FraPort     |>1.100  |      340|MediaWiki|28246      |WielandStuetzel |20080304     |
+|EiBiEm.de   |3.766   |      966|MediaWiki|25000      |GunterDueck     |20071219     |25min
+|GoogleInc   |?       |        ?|?        |15916      |                |             |
+|BamAg       |?       |        ?|?        |700        |NN              |20071220:1042|?
+|SynAxon     |>15.000 |        ?|MediaWiki|130        |FrankRoebers    |20071219     |1min
+|Atlassian   |10.400  |      176|Confluence|125       |NN              |20070926     |**)
+|EdelBild    |?       |        ?|?        |82         |NN              |20071220     |?
+|SeTo        |648     |       23|Trac     |11         |JanBoehme       |20071220:1014|~130min
+|SuSuh       |28      |        8|TinyPm   |8          |NicoHagenburger |20071219:2140|~10h
+|MindBroker  |2.110   |      ~15|JspWiki  |1,5        |RainerWasserfuhr|20080305     |-
+
+* *) Zeit die verging, bis ein Gefragter, der sich damit auskennen sollte, eine AntWort gab. (Eine völlig unrepräsentative, aber amüsante Kennzahl, da RainerWasserfuhr beim Fragen nicht wusste, ob der Gefragte sich zB gerade im UrLaub oder sonstwie AbWesend war)
+* **) http://blogs.atlassian.com/news/2007/09/atlassian_wiki.html
+
+Siehe auch: http://wikipedistik.de/umfrage/ergebnisse.html
+

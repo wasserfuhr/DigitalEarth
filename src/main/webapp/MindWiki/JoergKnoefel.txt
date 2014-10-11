@@ -1,0 +1,6 @@
+* IsA: PerSon
+* WohnSitz: StadtBerlin
+* HomePage: http://www.derknoefel.de/
+* BornIn: 1962
+
+had an Exposition in NuernBerg

@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Robin_Milner]
+* BornIn: 1934
+* BirthDay: 01-13
+* DiedIn: 2010
+* DbLp: http://dblp.uni-trier.de/rec/pid/m/RobinMilner
+* PageNumber: 10
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger ZoharManna AmirPnueli ZoharManna MartinAbadi LucaCardelli PeterWegner RobinMilner

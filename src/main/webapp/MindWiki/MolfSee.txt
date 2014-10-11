@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Molfsee]
+* BoundingBox: 2500
+* MindCount: 4000
+
+No GoogleCity.

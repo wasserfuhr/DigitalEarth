@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* HomePage: http://www.nasa.gov/centers/ames/home/
+||AusLand
+|[TwittEr:NASA_Ames]
+|[TwittEr:nasa-ames-people]
+NaSa

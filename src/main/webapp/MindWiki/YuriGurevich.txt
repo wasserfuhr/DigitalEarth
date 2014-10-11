@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/g/YuriGurevich
+* HomePage: http://research.microsoft.com/en-us/um/people/gurevich/
+* PageNumber: 8
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi AlexAiken RalfTreinen NachumDershowitz YuriGurevich

@@ -1,0 +1,3 @@
+* IsA: PerSon
+* ChildOf: StanleyArmourDunham
+* BirthDay: 11-29

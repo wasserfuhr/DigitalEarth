@@ -1,0 +1,40 @@
+* MindTags: EnterPrise
+* MindOne: RalfLippold
+* WikiAngel: RainerWasserfuhr
+* MitWirkende: SimonKoeppl, ChristineSchlinck, CorneliaHeinz, RicoLieberwirth und weitere SupPorter
+
+The LockSchuppenAg is a TransParent VirtualEnterprise to plan, build and operate the LockSchuppen.
+
+''Die LockSchuppenAg ist ein TransParent'es VirtuellesUnternehmen zur Planung, zum Bau und zum Betrieb des LockSchuppen's.''
+
+The LockSchuppenAg has 1.000.000 Shares. Earnings from revenue of the LockSchuppen in the future will be distributed among ShareHolder's according to this WikiTable:
+
+''Die LockSchuppenAg hat 1.000.000 Shares. Jeder GeWinn aus UmSatz (zb EinTritt oder MietAnfrage) verteilt sich in der ZuKunft gemäss dieser WikiTable:''
+
+||Shares||ShareHolder
+|762.000|RalfLippold
+|214.000|RainerWasserfuhr
+|  7.000|ChristianHeller
+|  4.000|ChristineSchlinck
+|  5.000|PeterHerbst
+|  3.000|SimonKoeppl
+|  2.000|CorneliaHeinz
+|  2.000|RicoLieberwirth
+|  1.000|NorbertRost
+
+Currently the following shares are publicly traded in the OrderBook of the MindFloor:
+
+''Derzeit werden folgende Shares öffentlich im OrderBuch des MindFloor's gehandelt:''
+
+!OrderBook:
+||ShareHolder     ||Qty  ||Bid[1]||Price[1]||Ask[1]||Qty
+||                ||Stück||Geld[1]||Kurs[1]||Brief[1]||Stück
+||                ||     ||(Kaufanfrage)||   ||(Verkaufsgebot)||
+|RainerWasserfuhr |      |     |       |8,0|3000
+|RainerWasserfuhr |      |     |       |4,0|2000
+||Last StockPrice ||     ||    ||0,512 ||  ||
+|RainerWasserfuhr |   500|2,0  |       |   |
+|RainerWasserfuhr |  2000|1,5  |       |   |
+[#1] per share in KayGroschen
+
+Successful orders are documented on the MindFloor.

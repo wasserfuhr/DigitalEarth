@@ -1,0 +1,32 @@
+Unser SourceCode: Finest BananaWare since invention of WikiDrivenDevelopment ;):
+
+SourceCode wird mit [SVN|http://de.wikipedia.org/wiki/Subversion_%28Software%29] verwaltet:
+* svn://svn.mindbroker.de/opensource/
+Per Webbrowser kann man sich den SourceCode unter 
+*  http://websvn.mindbroker.de/
+anschauen. Darunter UnsereProjekte. Alles PureJava. Jedes Projekt wird in ReverseDomain-Notation im SVN abgelegt.
+Pro Projekt gibt es den üblichen [SVN-Konventionen|http://svnbook.red-bean.com/en/1.1/ch05s04.html] entsprechend die Ordner "trunk", "tags" und "branches", wobei derzeit keine Projekte branches benötigen.
+
+Schritte für Entwickler:
+* installiere ein JDK ab 1.5
+* installiere Eclipse 3.3
+* installiere Maven 2.0.7
+* installiere [Subversive|http://www.polarion.org/index.php?page=overview&project=subversive]
+* füge svn://svn.mindbroker.de/opensource/ als repository-Location hinzu.
+* checke ein Projekt aus
+* folge den Anweisungen im pom.xml
+
+Für alle BuergerInnen ist das Login für SVN der CamelCase-Name.
+Das Anlegen des SVN-Accounts geht leider noch nicht automatisch, sondern per Anfrage an RainerWasserfuhr.
+
+MindKodex:
+* CodeIsLaw: Die Regeln von MindBroker ergeben sich aus der VerFassung, dem VerTrag und dem SourceCode.
+* Auf Anfrage können die Entwickler mit SourceCode-CommitMent ihn erläutern. 
+* FixBugsFirst: UnsereBugs.
+* Halte die ProjektDokumentation so kurz und knapp wie möglich, [WikiWikiWeb:TheSourceCodeIsTheSpecification] ABER:
+* schreibe selbsterklärenden SourceCode, der für neue MitWirkende so einfach und schnell wie möglich verstanden werden kann.
+* IMMER bevor Du mit dem Coden anfängst: Mache ein SVN update.
+* Sobald Du einen funktionierenden und getesteten Stand erreicht hat, mache ein Commit.
+* Kündige grössere Änderungen am Code im LockLog an.
+* Mache auf jeden Fall spätestens täglich ein Commit.
+* Alle Bezeichnungen im Sourcecode (Klassen, Packages, Kommentare, jsp-Dateinamen, Servlet-URLs, ...) sollten english sein. Schaue Dir einige Teile des schon vorhandenen SourceCode an um ein Gefühl dafür zu bekommen.

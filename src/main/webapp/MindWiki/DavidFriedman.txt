@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:David_D._Friedman]
+* BirthDay: 02-12
+* ChildOf: MiltonFriedman

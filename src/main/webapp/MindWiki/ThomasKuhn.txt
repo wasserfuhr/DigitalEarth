@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Thomas_Samuel_Kuhn]
+* BornIn: 1922
+* BirthDay: 07-18
+* DiedIn: 1996

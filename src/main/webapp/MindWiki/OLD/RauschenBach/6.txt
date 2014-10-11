@@ -1,0 +1,11 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.04883
+* LaengenGrad: 13.74051
+* BoundingBox: 25
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/257554576
+* HomePage: http://www.rauschenbach-deli.de/
+
+TotalRecall:
+* 20081016:1645: RainerWasserfuhr, JeMand: IgelTours, FreiTal, FutureCard, RollOut, BlankoBueschel, MindTower, BarCamp, RainerWasserfuhrStirbt, KrankenKasse, ReineMachFee, DirkHilbert, RudolfHarbigStadion, MoPo, LangeWeile, CynthiaNeaman, VmPeople, SchwarzerKoffer
+* 20081012:1830: RainerWasserfuhr, JeMand, JeMand: XxlDresden, GrosserGarten, GoogleFluse, ArTelligence, TwentyFirstCentury, SecondHalfOfTheChessboard, FutureNumber, MindWater, DigiZen, WeltUntergang, UnTil2100, TheSingularity, BlackSwan, JfSchlinck, DeziPetaFlops, TuringTest, DigitalTwin, IntelligenceExplosion, PetaBitPlatte, MichaelSchroeder, CxCr4, LrRk2, ZehnFragen, FermiParadox, DresdenDolls
+* 20080?: RainerWasserfuhr, JeMand, JeMand: MatthiasHorx, RayKurzweil

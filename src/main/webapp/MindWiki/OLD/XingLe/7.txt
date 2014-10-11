@@ -1,0 +1,3 @@
+http://xing.com: Ein SocialNetwork ohne WebOfTrust, aus dem irgendwie trotz OpenSocial die ShareHolder-Fantasie entschwunden ist. Hint for LarsHinrichs: Ticket#2007042110001224
+
+[DeWikiPedia:XING]

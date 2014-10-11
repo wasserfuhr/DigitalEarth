@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* http://www.openstreetmap.org/browse/node/347430293
+
+TotalRecall:
+* RainerWasserfuhr, JeMand: PostBank, SteffenHoelldobler, TuDresden, BauInformatik, WebBlock, BdCs, JuergenKohn, BasicIncome, CaCert, KayGroschen, WebOfTrust, ChristianHeller, EmbracingPostPrivacy, HausHalt, VerFassung

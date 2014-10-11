@@ -1,0 +1,7 @@
+Eine halbmanuell per ZuFall aus der MindMatrix (erste 4 BuchStabe'n oben links) generierte WikiPage.
+
+Wenn das MindWiki als rudimentäres erstes Modell für ein NewMind betrachtet werden kann, ist StUq
+ein Testfall für stochastische Methoden in NewMind.
+
+Welche Kausalitäten führen sonst dazu, dass sonst eine WikiPage angelegt wird?
+

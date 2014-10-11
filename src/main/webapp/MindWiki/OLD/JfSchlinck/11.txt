@@ -1,0 +1,18 @@
+* MindTags: WunderKind
+* MindQuote: "bruähhwahaauäääää!"
+* SprachWelt: de
+* VorName: Jannis Florentin
+* MamaZwoNull: ChristineSchlinck
+* JahrGang: 2008
+* BirthDay: 10-11:1741
+* WoZu: ImMortal
+* TraumZeitAlter: 2008
+* BoundingBox: 0.47
+* WohnSitz: BergGarten 
+* BirthPlace: JosephStift
+* MindTrust: ChristineSchlinck
+* WikiPate: RainerWasserfuhr
+* MindSkill: DrehenUndTreten, SchluckAuf, DeziPetaFlops
+* InBody: {"20081010:1200", 4.2}
+||AusLand
+|[TwittEr:jfschlinck]

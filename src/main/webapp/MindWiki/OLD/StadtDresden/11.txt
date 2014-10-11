@@ -1,0 +1,8 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Dresden], [DeWikiPedia:Dresden], [OpenCyc:CityOfDresdenGermany], [WikiPedia:Dresden]
+* LaengenGrad: 13.717
+* BreitenGrad: 51.078
+* BoundingBox: 10000
+* MindCount: 450000
+
+[http://www.openaerialmap.org/?zoom=12&lat=51.06583&lon=13.74673&layers=BF]

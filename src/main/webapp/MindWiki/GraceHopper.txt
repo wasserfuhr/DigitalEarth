@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Grace_Hopper] [WikiWikiWeb:GraceHopper]
+* JahrGang: 1906
+* BirthDay: 12-09
+* LebensEnde: 1992
+* DbLp: http://dblp.uni-trier.de/rec/pid/51/3005
+* MindSkill: UnsereBugs

@@ -1,0 +1,3 @@
+konzeptueller Platzhalter für eine spätere formale Wikisprache, die sowohl maschinenlesbar, als auch von menschlichen MiNd's interpretierbar ist. Setzt sich zusammen aus den Inhalten des PageIndex, MindProps, MindTags und MindVerb's.
+
+StateMent?

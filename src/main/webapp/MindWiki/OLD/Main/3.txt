@@ -1,0 +1,6 @@
+!Huhu
+
+Bitte *vor* dem Anmelden die [Regeln] lesen.
+
+!Was bisher geschah:
+[{RecentChangesPlugin since=30}]

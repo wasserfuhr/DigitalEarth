@@ -1,0 +1,41 @@
+* IsA: EventSeries
+
+ParteiCdu FreistaatSachsen ThinkTank
+
+!2010
+* HomePage: http://wissen.cdu-sachsen.de/erleben/denkfabrik/2010
+* TeilNehmer: 
+AlexanderWendt2
+AndreasBoer
+AntonioHurtado
+DieterSchuetz
+DietrichVonKlaeden
+ElisabethOpitz
+FalkLange
+FrankKupfer
+FrankRichter
+GeorgMilbradt
+HansBernhardBeus
+HeinzRiederer
+HolgerBrandes
+JannaPahnke
+JensSpahn
+JuergenStark
+JuttaGuenther
+KarlLeo
+KlausNicolai?
+MarkusRassiller
+MatthiasBlock
+MatthiasBoeck
+MichaelKretschmer
+MichaelSagurna
+PatriciaSolaro
+RamonaNagel
+RolandWoller
+SabineVonSchorlemer
+SebastianFischer
+StanislawTillich
+ThomasBuerger
+ThomasLipp
+UlrichBrummer
+ReneToussaint

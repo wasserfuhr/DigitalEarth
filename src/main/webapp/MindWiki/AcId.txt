@@ -1,0 +1,5 @@
+* InterWiki: [DeWikiPedia:ACID]
+
+atomicity, consistency, isolation und durability
+
+TransAction

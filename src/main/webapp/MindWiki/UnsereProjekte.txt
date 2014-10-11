@@ -1,0 +1,41 @@
+||Status||Phase  ||MindWiki      ||Leitung         ||svn     ||UnsereDoMains
+|LIVE|InvitedBeta|UnserGrid      |RainerWasserfuhr |grid     |
+|LIVE|InvitedBeta|IntraBroker    |RainerWasserfuhr |mindpaths|intrabroker.com
+|LIVE|InvitedBeta|MindId         |RainerWasserfuhr |id       |
+|LIVE|InvitedBeta|PieschenBank   |RainerWasserfuhr |bank     |
+|LIVE|Alpha      |GeoMindBroker  |RainerWasserfuhr |geo      |
+|LIVE|InvitedBeta|InBox          |RainerWasserfuhr |inbox    |
+|LIVE|InvitedBeta|MindBlog       |RainerWasserfuhr |blog     |
+|LIVE|ProtoTyp   |MindCal        |RainerWasserfuhr |cal      |
+|LIVE|ProtoTyp   |MindHome       |RainerWasserfuhr |home     |
+|    |WikiSpec   |ForbesList     |RainerWasserfuhr |rich     |
+|    |ProtoTyp   |SportPortal    |DanielPoodratchi |sport    |
+|    |ProtoTyp   |MindFloor      |RainerWasserfuhr |floor    |
+|    |Alpha      |DoItProject    |DanielPoodratchi |doit     |
+|    |ProtoTyp   |MindBrokerCore |RainerWasserfuhr |core     |
+|    |ProtoTyp   |MindFee        |RainerWasserfuhr |fee      |
+|    |ProtoTyp   |SemanticMind   |RainerWasserfuhr |semantic |
+|    |ProtoTyp   |MindShop       |RainerWasserfuhr |shop     |
+|    |WikiSpec   |MindFutures    |RainerWasserfuhr |futures  |
+|    |MindWiki   |MindSalon      |RainerWasserfuhr |         |
+|    |MindWiki   |DesignArtAndClothes|DanielPoodratchi|      |
+|    |VISION     |WyrdMind       |RainerWasserfuhr |         |
+|    |FINISHED   |WikiTchen      |RainerWasserfuhr |         |wikitchen.de
+|    |FINISHED   |MindPicNic     |RainerWasserfuhr |         |
+
+Projektphasen:
+* Erste Ideen im MindWiki als textuelle Beschreibung des Projektes
+* WikiSpec
+* Skelett: MavenPom und erste Hibernate-Klassen des DomainModel
+* ProtoTyp
+* Alpha
+* ClosedBeta
+* InvitedBeta
+* 1.0
+* 1.1
+* ...
+* 2.0
+* 2.1
+* ff
+
+Weitere Projekte bei der MindBrokerKg.

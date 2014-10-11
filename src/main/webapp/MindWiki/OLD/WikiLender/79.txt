@@ -1,0 +1,67 @@
+(Events in the WikiLender have a "when" and an optional "until". Things which only have an "until" can be found at MindLine)
+||When        ||Until||      ||Where        ||What                    ||Who (OrderedByShares)
+|20080809     |     |        |StadtDresden  |Konzert                  |RolandKaiser
+|20080813:1900|     |        |VereinshausJohannstadt|ElbTaler-Treffen |RainerWasserfuhr,NorbertRost?
+|20080819:2100|     |        |AlteFeuerwache|rapide Augenbewegung     |RainerWasserfuhr?
+|20080823     |     |        |GrosserGarten |Konzert                  |RainerWasserfuhr?, MarianneRosenberg
+|20080823     |     |        |StadtLeipzig  |Games Convention         |RainerWasserfuhr?
+|20080824     |     |        |NottingHill   |Carnival                 |RainerWasserfuhr?
+|20080825     |     |        |BlackRockDesert|BurningMan              |RainerWasserfuhr?
+|20080827     |     |        |IkeaDresden   |KraeftSkiva              |RainerWasserfuhr?
+|20080828     |     |        |StadtDresden  |MarketingClubDresden     |RainerWasserfuhr?
+|20080830:2000|     |        |ClubEule      |African Summer Night     |RainerWasserfuhr?, BobHooda
+|20080908     |     |        |StadtDresden  |Besüchle                 |HeikeRibke
+|20080908     |     |        |Porto         |WikiSym                  |DirkRiehle
+|20080909     |     |        |Porto         |WikiSym                  |DirkRiehle
+|20080910     |     |        |Porto         |WikiSym                  |DirkRiehle
+|20080912     |     |        |StadtDresden  |KuensterBall             |RainerWasserfuhr?
+|20080919:1430|     |        |OTwoWorld     |Wissenschaft vom Glück   |TenzinGyatso
+|20080919:2000|     |        |AlterSchlachthof|Konzert                |RainerWasserfuhr?,GoetzAlsmann
+|20080922     |     |        |PlanetEarth   |SuperStruct              |RainerWasserfuhr?
+|20080923     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080924     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080925     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080925     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080926     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080926     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080927     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080928     |     |        |Bayern        |Landtagswahl             |GuentherBeckstein
+|20080928     |     |        |StadtDresden  |KogWis08                 |RainerWasserfuhr?
+|20081001     |     |        |StadtDresden  |GeNeMe                   |RainerWasserfuhr?
+|20081002     |     |        |StadtDresden  |GeNeMe                   |RainerWasserfuhr?
+|20081008:1500|     |        |StadtDresden  |Probealarm               |
+|20081012     |     |        |ReadingUniversity|LoebnerPrize          |HughLoebner,KevinWarwick
+|20081025     |     |        |MontgomeryTheater|SingularitySummit     |RainerWasserfuhr?
+|20081030     |     |        |StadtDresden  |CyNetArt                 |RainerWasserfuhr?
+|20081104     |     |        |UnitedStates  |UsElection08             |BarackObama,HillaryClinton
+|20081112     |     |        |StadtDresden  |SchachOlympiade          |
+|200901       |     |        |Washington    |InAuguration             |BarackObama?,HillaryClinton?
+|20090523     |     |        |ReichsTag     |MindOne-Wahl DeutschLand |HorstKoehler, AngelaMerkel, NorbertLammert, GesineSchwan?
+|20090607     |     |        |EurOpa        |Wahlen                   |BuergerInnen,CitiZens,CiudaDanos,CitoYens,Državljan
+
+!Was War:
+||When        ||Until||      ||Where        ||What                    ||Who (OrderedByShares)
+|20080729     |     |        |GolfanlageUllersdorf|Putt-Dating              |RainerWasserfuhr,YvonneSchubert, JaDi, MaRo
+|20080729     |     |        |AlteFeuerwache|Mac-User-Treff           |
+|20080728:2030|     |        |NeuStadt      |PhilosophischesNachtcafe |
+|20080725:1930|     |        |AuraRaum      |Neid                     |JensWegerle
+|20080724     |     |        |StadtBerlin   |Konzert                  |EttaScollo,AlbanNikolaiHerbst
+|20080719     |     |        |DortMund      |LoveParade               |
+|20080718     |     |        |Alexandria    |Wikimania                |JimboWales?
+|20080718     |     |        |StadtDresden  |KuensterBall             |
+|20080717     |     |        |Oxford        |Global Catastrophic Risks Conference|EliezerYudkowsky
+|20080717     |     |        |Alexandria    |WikiMania                |JimboWales?
+|20080715:1900|     |        |WaldSchloesschen|Diskussion             |
+|20080714:2030|     |        |SeidenStrasse |PhilosophischesNachtcafe |
+|20080712     |     |        |StadtDresden  |Pferderennen             |
+|20080711:1700|     |        |VolksHaus     |Freundeskreistreffen     |HansJochenVogel,PeterStruck,ChristianeKohl
+|20080709:1900|     |        |StadtDresden  |JugSaxony                |
+|20080709:1900|     |        |VereinshausJohannstadt|ElbTaler-Treffen |RainerWasserfuhr,NorbertRost
+|20080709:1500|     |        |StadtDresden  |Probealarm               |
+|20080708:2000|     |        |StadtMuseum   |Vortrag                  |GunterDueck
+|20080707     |     |        |MaerkischesViertel|Party                |UteMoritz
+|20080705:1930|     |        |StadtDresden  |GaumenSchmausParty       |RainerWasserfuhr,ChristineSchlinck EtAl
+|20080704:1930|     |        |AuraRaum      |Disziplin und Disziplinierung|YvonneSchubert
+|20080704     |     |        |StadtDresden  |Lange Nacht der Wissenschaften|
+|20080701:2000|     |        |KathedralForum|Gott, Moral und die Neurowissenschaften|UlrichBraun
+Former Events: WasWar.

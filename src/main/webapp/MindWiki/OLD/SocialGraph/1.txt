@@ -1,0 +1,3 @@
+* http://del.icio.us/tag/socialgraph
+* http://bradfitz.com/social-graph-problem/
+* MindId

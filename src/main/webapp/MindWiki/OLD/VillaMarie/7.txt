@@ -1,0 +1,10 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.053021
+* LaengenGrad: 13.808424
+* BoundingBox: 20
+* HomePage: http://www.villa-marie.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/246851437
+
+TotalRecall
+* 20090131:1715: RainerWasserfuhr, JeMand: FaceBook, StudiVz, JohariFenster
+* ChristineSchlinck, RainerWasserfuhr: WaldRohrBach, WunderKind, UpLoad, WindelWelt, BlueBrain, HalleBerry, DanielCraig, TwittEr, HenryMarkram, EigenMuster, ReDo, DoIt, TrueLove, KabiNett, BlueMind, SuperComp, JoeTsien, NielsBirbaumer, SpracheDesGehirns, SaLoppe, JustinRattner, BrainComputerInterface, CxCr4, WikiPedia, SocialBackup, MindZip, PageIndex, PannaCotta, XingLe, GolfanlageUllersdorf, FilmnaechteAlbertbruecke, SteveJobs

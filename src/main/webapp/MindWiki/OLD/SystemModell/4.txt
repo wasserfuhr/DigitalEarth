@@ -1,0 +1,7 @@
+Durch sein SystemModell versucht Becker Freud so zu modifizieren, oder seine Instanzen konkreter darzustellen, dass es für den Anwender dieses Modells  einsichtig wird, welche Instanz wann und wie in ihm, oder im Klienten agiert. Das hilft
+
+1. Genauer zu sagen, an welcher Stelle etwas schief läuft
+
+2. Es gibt dem Betrachter die Möglichkeit, ein Gefühl für die Funktionsweise des Menschen zu bekommen
+
+3. Und das soll hier der wichtigste Punkt sein, es lässt das Konzept der MaChina noch einmal deutlicher aufleuchten!

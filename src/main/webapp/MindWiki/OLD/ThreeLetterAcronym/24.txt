@@ -1,0 +1,281 @@
+* InterWiki: [DeWikiPedia:Dreibuchstabenabkürzung], [WikiWikiWeb:ThreeLetterAcronym]
+
+im WortSchatz von RainerWasserfuhr sind unter anderem folgende aller 26^3=17.576 ThreeLetterAcronym's mit einer BeDeut'ung verknüpft:
+* aal: andere ArBeit'en lassen
+* abb: asea brown boveri
+* abc: AlphaBet
+* ada: AdaLovelace
+* add: AufMerksam
+* afk: away from TastaTur
+* afm: away from MindMac, aber MindPhone dabei
+* agi: ArtificialGeneralIntelligence
+* aig
+* aim: InstantMessaging
+* ajp: SocialGrid
+* alf: Alf
+* amd: AmDe
+* ant
+* anh: AlbanNikolaiHerbst
+* aol: InterNet
+* api: MindHacking
+* aqc: QuantPuter
+* ard: StaatsFunk
+* arg: AlternateReality
+* asp
+* bam: BamMatrix
+* bbl: be back later
+* bci
+* bdd
+* bdi: HansOlafHenkel
+* bip
+* bmf
+* bmw: BmwAg
+* boa: BayesianOptimizationAlgorithm
+* bpb
+* brd: DeutschLand
+* brn: BunteRepublik
+* bsp
+* btw: by the MindWay
+* btx: DeutschTelekom
+* bvb: DortMund
+* bvg: StadtBerlin
+* cad: AutoCad
+* cam
+* cax
+* ccc: NothingToHide
+* cdg: AirPort Paris
+* cdu: CduPartei
+* cee: ToCee
+* ceo: VorStand
+* ces: LasVegas
+* cet: TimeZone
+* cfo: VorStand
+* cgn: AirPort StadtKoeln
+* cia: WireTap
+* cms
+* cnn
+* csd
+* css: WorldWideWeb
+* csu: CduWiki
+* csv
+* cto: ChiefTechnologyOfficer
+* cvs: SourceCode
+* dab
+* dai
+* ddr: DdErr
+* dem
+* dfb
+* dld
+* dlf
+* dna: MindGene
+* dnt: NationalTheater
+* drm
+* dst: TimeZone
+* dsl: DigitalSubscriberLine DomainSpecificLanguage DuschenShavenLiften
+* dvb: DvbAg
+* dvd
+* eai
+* eds
+* etc: EtCetera
+* erp: MindErp
+* eur: EuRo
+* evb: EvbGymnasium
+* exp: ExPo
+* fai: FriendlyAi
+* faq: AnFrage
+* fax
+* faz
+* fbi: WireTap
+* fdl: GnuFdl
+* fdp: FdpWiki
+* fib: FrauenInfoBörse
+* fkk
+* flv: SeesMic
+* fra: AirPort FrankFurt
+* fud
+* gal: GruenWiki
+* gcc: GNU C Compiler
+* gcj
+* gef
+* gem: AtariSt
+* gfk: NuernBerg
+* gfs
+* git: SourceCode
+* gmt: TimeZone
+* gmx
+* gnu: GnuFdl
+* gpl
+* gps
+* gti: MindCar
+* gui
+* gwb: GeorgeWBush
+* hal: EytschEyEl
+* hci
+* hpc: SuperComp
+* hql
+* hre: HypeRealEstate
+* hsv: HamBurg
+* htm: JeffHawkins
+* ibm: EiBiEm
+* icq: InstantMessaging
+* ide
+* idf: IntEl
+* idn
+* ipo: IpoKurs
+* isa: IstEin
+* isc: SuperComp
+* isp: InterNet
+* isv: InterNet
+* jar: JosephRatzinger
+* jbi
+* jdk: MindHacking
+* jfk: AirPort
+* jms
+* jmx
+* jre: MindHacking
+* jsf: MindHacking
+* jsp: MindHacking
+* jsr
+* kfw: VerMoegen
+* kgb: WireTap
+* kgv: BusinessPlan
+* khd: DeutzAg
+* klm: AirLine
+* kmu: UnterNehmen
+* lbs
+* lol
+* lsd: LysergicAcidDiethylamide
+* mad: AirPort
+* mda: MindPhoe
+* mdb: BundesTag
+* mdd: DomainModel
+* mdl: BundesTag
+* mdr: StaatsFunk
+* mez: TimeZone
+* mfg
+* mfs: DdErr
+* mgm: LasVegas
+* mom: einen Moment bitte
+* mrd: ForbesList
+* mud: MultiUserDungeon
+* ncc: NeuralCorrelatesOfConsciousness
+* nda: NonDisclosureAgreement
+* ndr: StaatsFunk
+* nfc
+* nlp
+* npd
+* npe: SourceCode
+* nrw
+* nsa
+* nsf: WilliamSimsBainbridge
+* nsu
+* nyc
+* nyt
+* ocr
+* ooa
+* ood
+* oop
+* oql
+* orm
+* osx: MindOs
+* owl: SemanticWeb
+* pal
+* pdf: MindPdf
+* pds
+* php
+* pie: PieModel
+* pim
+* pms
+* poi: ApachePoi
+* psp
+* pst
+* qed: BeWeis
+* raf: SystemClash
+* rai
+* ram
+* rcp
+* rdf: SemanticWeb
+* rdh: StadtJena
+* rem
+* rfc
+* rip: LebensEnde
+* rna: MindGene
+* rom
+* ror
+* rsa: RivestShamirAdleman 
+* rtl: StaatsFunk
+* rup
+* rvw: ReView
+* rwe: EnErgie
+* sap: SapAg
+* scm: SourceCode
+* seo
+* sfb: ReSearch
+* sha
+* soa
+* spd: SpdWiki
+* spl
+* sps: Speicherprogrammierbare Steuerung
+* sql: MindSql
+* ssl
+* sso
+* ssv
+* ssw
+* suv: MindCar
+* svk
+* svn: SubVersion
+* swt
+* tcp: InterNet
+* tdd
+* ted: ChrisAnderson2
+* tfz: TriebFahrzeug
+* tla: ThreeLetterAcronym
+* tld: DoMain
+* tsi: SeaSteading
+* tso
+* tud: TuDresden
+* tui: TuiLuna
+* uae: DuBai
+* uav: DresdenDrohne
+* ugc
+* ufo
+* uka: KarlsRuhe
+* uml
+* ups: MindPost
+* usa: UnitedStates
+* usb
+* usd: UsDollar
+* usw: EtAl
+* usv: GooglePower
+* utc: UniversalCoordinatedTime
+* utf: UniCode Transformation Format
+* vet: voraussichtlicher Entbindungstermin der GeBurt
+* vfb: StuttGart
+* vfl: SportWiki
+* vlc: MindMusic
+* vlt: vielleicht
+* vma: von mir aus
+* vnc: ChickenOfTheVnc
+* vpn
+* vrm
+* vtt: ToCee
+* wap
+* war: WebApp
+* wdr: StaatsFunk
+* wef: WorldEconomicForum
+* wjt
+* wkw: WerKenntWen
+* wlw: WerLiefertWas
+* wom: MindMusic
+* wot
+* wow
+* wsv
+* wtc
+* wwf
+* www: WorldWideWeb
+* xda
+* xen
+* xfn
+* xml: WorldWideWeb
+* zdf: ZettDeEff
+* zdk: DdErr

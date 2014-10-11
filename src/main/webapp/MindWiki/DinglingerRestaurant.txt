@@ -1,0 +1,9 @@
+* MindTags: MindPlace
+* HomePage: http://www.dinglinger-restaurant.de/
+* MindOne: DavidSchubert
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/320948919
+* BoundingBox: 20
+
+TotalRecall:
+* 20081203:1930: RainerWasserfuhr, JeMand, JeMand: SchlossMilkersdorf, MoleSkine, MoleskineOne, EheVertrag, SinnFonie, NeuDe
+* 20081128:2015: RainerWasserfuhr EtAl: DresdenErleben, SeminarWissen, BuergerInnen, TheMatrix, SpaceOdyssey, StarWars, MinorityReport, EiPhone, DresdenExists, HassoPlattner, PotsDam, AdolfMerckle, PhaetonBallett, ZwingeRasimo, NooPolis, TerraDsl, FutureMap, MindBroker, PredictionMarket, DatenKrake, NewHollandCr9090, SecondLife, GareDeLaLune, MartinTest, SeesMic, TwittEr, LichtSchwert, GoogleAnalytics, NeuDe

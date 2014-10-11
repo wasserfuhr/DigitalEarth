@@ -1,0 +1,3 @@
+wann haben SiggiBecker, SusanneStanicki,  KerstinDoelle, KarenWeinert oder DorotheeMueller Zeit für eine MusikStunde UnterRicht?
+
+Dafür ein WikiBasiert'es Tool mit automatischer Errechnung der RoellNumber.

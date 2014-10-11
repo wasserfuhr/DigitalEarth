@@ -1,0 +1,47 @@
+%%( padding-left: 400px; font-size:90%)
+Denn "es ist eine Welt von Eigenschaften ohne Mann entstanden, von Erlebnissen ohne den, der sie erlebt."
+%%
+
+MindProps sind so etwas wie SemanticWiki light. Auf jeder Seite kann man Eigenschaften definieren:
+
+{{{
+* PropName: Wert
+}}}
+
+Die Eigenschaften können per MindApi von anderen WebApps ausgelesen und weiterverarbeitet werden.
+
+Eigenschaften, die auf den Profilseiten der MindPeople angegeben werden können:
+* AusLand
+* IchSuche
+* IchBiete
+** TwittEr
+*** profile_image_url
+* EheRinge
+* JahrGang
+* LebensErwartung
+* LebensEnde
+* MindMac
+* MindSkill
+* MindColor
+* MindFaves
+* ShockLevel
+* TraumGruppe
+* WohnSitz
+* XingId
+* SteuerNummer
+
+UnterNehmen:
+* HeadQuarters
+* IsIn
+* MindOne
+* SteuerNummer
+
+MindPlaces:
+* BreitenGrad
+* LaengenGrad
+* BoundingBox
+* NormalNull
+
+Auf allen Seiten:
+* MindLine
+* MindTags

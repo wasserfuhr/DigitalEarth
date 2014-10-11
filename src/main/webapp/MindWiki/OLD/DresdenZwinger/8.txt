@@ -1,0 +1,11 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Zwinger], [DeWikiPedia:Zwinger_(Dresden)]
+* BreitenGrad: 51.0530
+* LaengenGrad: 13.7338
+* BoundingBox: 100
+* GraDient: -25
+* SlimNess: 0.8
+
+TotalRecall: 20080908: ChristineSchlinck, HR, RainerWasserfuhr: CarminaBurana, FutureMap, TheSingularity, IntelligenceExplosion, InterNet, VerGangen, GottfriedWilhelmLeibniz, MindShift, SabineChristiansenSingularity, PhaetonBallett, ZwingeRasimo, 
+TineTest, JesusChrist, JesusChristus, TwittEr, RealFilm, InterWiki, WikiPedia, WikiMind, BillSeitz, PhilJones, 
+JohnAbbe

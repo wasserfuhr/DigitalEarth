@@ -1,0 +1,23 @@
+* InterWiki: [DeWikiPedia:Digital_Bibliography_%26_Library_Project]
+* HomePage: http://dblp.uni-trier.de/
+* MindOne: MichaelLey
+
+MindScholar
+
+||MindWiki         ||DbLp
+|EnnoTolzmann      |http://dblp.uni-trier.de/db/indices/a-tree/t/Tolzmann:Enno.html
+|GunterDueck       |http://dblp.uni-trier.de/db/indices/a-tree/d/Dueck:Gunter.html
+|HansGertGraebe    |http://dblp.uni-trier.de/db/indices/a-tree/g/Gr=auml=be:Hans=Gert.html
+|JoergSiekmann     |http://dblp.uni-trier.de/db/indices/a-tree/s/Siekmann:J=ouml=rg_H=.html
+|JuergenAvenhaus   |http://dblp.uni-trier.de/db/indices/a-tree/a/Avenhaus:J=uuml=rgen.html
+|KarstenMenzel     |http://dblp.uni-trier.de/db/indices/a-tree/m/Menzel:Karsten.html
+|KlausMadlener     |http://dblp.uni-trier.de/db/indices/a-tree/m/Madlener:Klaus.html
+|MattiHannus       |http://dblp.uni-trier.de/db/indices/a-tree/h/Hannus:Matti.html
+|MichaelLey        |http://dblp.uni-trier.de/db/indices/a-tree/l/Ley:Michael.html
+|MichaelRichter    |http://dblp.uni-trier.de/db/indices/a-tree/r/Richter:Michael_M=.html
+|PeterKatranuschkov|http://dblp.uni-trier.de/db/indices/a-tree/k/Katranuschkov:Peter.html
+|RaimerScherer     |http://dblp.uni-trier.de/db/indices/a-tree/s/Scherer:Raimar_J=.html
+|RayKurzweil       |http://dblp.uni-trier.de/db/indices/a-tree/k/Kurzweil:Raymond.html
+|RobertAmor        |http://dblp.uni-trier.de/db/indices/a-tree/a/Amor:Robert.html
+|TimBl             |http://dblp.uni-trier.de/db/indices/a-tree/b/Berners=Lee:Tim.html
+|ZigaTurk          |http://dblp.uni-trier.de/db/indices/a-tree/t/Turk:Ziga.html

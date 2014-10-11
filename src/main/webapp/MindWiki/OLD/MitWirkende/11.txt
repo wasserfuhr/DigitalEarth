@@ -1,0 +1,15 @@
+Bisherige MitWirkende:
+
+||Name||svn||MindMac||SecondLife||
+|RainerWasserfuhr|rainer|neptun|Ted Christensen
+|DanielPoodratchi|daniel| |Daniel Foysten
+|OliverGassner|oliver| |Oliver Gassner
+|AndreasWeigel|andreasw| |B4d4 Bind
+|YvonneSchubert|yvonne|nana|
+|ChristineSchlinck|tine|triton|Clarisse Schumann
+|RicardaDHerbrand| | |
+|HagenStanek| | |Huge Norie
+
+neu hinzukommen werden voraussichtlich:
+* MichaelBohner (=cc-snake000-at-gmx.de) - JSP, JS Developer
+* AurelienEyoum Eyoum (=aurelien.eyoum-at-googlemail.com) - CSS & HTML, https://www.xing.com/profile/Aurelien_Eyoum/

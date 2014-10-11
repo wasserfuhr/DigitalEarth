@@ -1,0 +1,35 @@
+; NooMic is NoMic with SourceCode for new NooPolis WebApp's - InSpir'ed by PerlNomic
+;{{{
+(let
+ [
+  hConf (new org.apache.hadoop.hbase.HBaseConfiguration)
+  hBase (new org.apache.hadoop.hbase.client.HBaseAdmin hConf)
+  logTableDesc (new org.apache.hadoop.hbase.HTableDescriptor "ChatLog")
+ ]
+ 
+(import '(java.net URL)
+        '(java.lang StringBuilder)
+        '(java.io BufferedReader InputStreamReader))
+
+(defn fetch-url
+  "Return the web page as a string."
+  ;http://gnuvince.wordpress.com/2008/11/18/fetching-web-comics-with-clojure-part-2/
+  [address]
+  (let [url (java.net.URL. address)]
+    (with-open [stream (. url (openStream))]
+      (let [buf (java.io.BufferedReader. (java.io.InputStreamReader. stream))]
+        ;skip empty lines:
+        (.readLine buf) (.readLine buf) (.readLine buf)
+        (.readLine buf) (.readLine buf) (.readLine buf)
+        (.readLine buf) (.readLine buf) (.readLine buf)
+        (.readLine buf) (.readLine buf)
+        ((defn a [b] 
+          (let [line (.readLine b)]
+            (if (or (nil? line) (.equals line "</pre>")) ""
+             (str (.replace line "\u0026quot;" "\"") "\r\n" (a b)))))
+         buf)))))
+(defn fetch-fn [name]
+  (eval (read-string (fetch-url (str "http://mindbroker.de/wiki/" name "Clj?skin=raw")))))
+(fetch-fn "Handle")
+)
+;}}}

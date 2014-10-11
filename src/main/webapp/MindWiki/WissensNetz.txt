@@ -1,0 +1,8 @@
+MindBroker ermöglicht den Aufbau von WissensNetz'en, in denen persönliches Wissen gepflegt und mit anderen 
+Menschen vernetzt werden kann. Ähnlich wie bei WikiPedia geschieht dies WikiBasiert, hier jedoch
+wird jedes einzelne WissensNetz zum Abbild des persönlichen Wissens eines Menschen.
+Jedes WissensNetz besteht aus WikiPage's mit eindeutigem PageName und PageContent
+mit FliessText. Im FliessText können andere WikiPage's verlinkt werden, indem
+im FliessText der PageName genannt wird.
+
+19990702.aware_manifest.txt

@@ -1,0 +1,35 @@
+We have created some SkypeChat's:
+||public||Name  ||MitWirkende         ||OptOut
+|x|AfricaChat   |RaWa
+|-|AnthiChat    |RaWa RaLi AnTh
+|-|BayChat      |RaWa RaLi TiBo BaHi
+|x|BildungsChat |
+|x|BrokerChat   |BrokerChat
+|x|CoWorkChat   |CoWorkChat
+|-|CoWorkingChat|CoWorkingChat
+|-|DoChat       |RaWa RoHu KuFa BoHo?
+|-|FriendsOfKrishnaChat|FriendsOfKrishnaChat
+|x|FamilienChat |RaWa RaLi ThKu AnSc
+|x|FutureChat   |FutureChat
+|-|GiniChat     |RaWa SiBe TiBr       |RaLi
+|x|IntelliChat  |
+|-|KabiNettChat |
+|-|KissChat     |RaWa SeMi            |RaLi
+|-|LockChat     |LockChat
+|-|MindChat     |?
+|-|NooChat      |?
+|-|PlomChat     |RaWa RaLi ChHe
+|-|RosenChat    |RaWa RoHu JaFi       |RaLi
+|-|SchneckenChat|RaWa ChSc MaBe       |RaLi
+|x|SeedChat     |RaWa
+|-|SingularCampChat|RaWa RaLi DaOr
+|-|SingularChat |RaWa RaLi DaOr
+|-|StepChat     |RaWa RaLi GuSt
+|-|SunChat      |RaWa RaLi YvSc           |JuAn
+|-|VorStandsChat|?
+|-|WonneChat    |RaWa YvSc RoHu BoHo?     |RaLi
+|-|RosenChat    |RaWa RoHu JaFi           |RaLi
+
+Also the weekly ConsultationHour with the CabiNet might be held via SkyPe.
+
+For TheFuture we consider to switch from ClosedSource SkyPe to OpenSource InstantMessaging alternatives like XmPp or GoogleWave.

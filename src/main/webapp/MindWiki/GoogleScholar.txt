@@ -1,0 +1,7 @@
+
+|0yzJc5Yi0fMJ|17568861650932018387|16784|Design patterns: elements of reusable object-oriented software
+|dB5lUzJUaj0J| 4425442158969167476| 9431|ArtificialIntelligence: a modern approach
+|f9CbEJVJbxMJ| 1400418913713115263| 5164|The entity-relationship model—toward a unified view of data 
+|5v0elwZ1iWcJ|77460622928881581542|   11|Conceptual modelling of a concurrent engineering environment
+|Q4hdve-68PYJ|17793927666577803331|    9|COMBI final report
+|-sh7cslIoD4J| 4512686856671578362|    8|A Concurrent Engineering IT Environment for the Building Construction Industry

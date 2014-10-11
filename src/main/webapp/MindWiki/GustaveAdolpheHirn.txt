@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Gustave-Adolphe_Hirn]
+* BirthDay: 08-21
+* EselsBruecke: JohannWolfgangVonGoethe-MaxWeber
+* MindSkill: ThermoDynamics

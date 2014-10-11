@@ -1,0 +1,2 @@
+* KindOf: MindEvent
+with EclipseHorse EtAl

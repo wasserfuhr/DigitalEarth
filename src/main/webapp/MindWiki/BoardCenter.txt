@@ -1,0 +1,1 @@
+MindProps for NooChess and TicTacToe.

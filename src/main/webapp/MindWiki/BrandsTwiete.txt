@@ -1,0 +1,3 @@
+* IsA: MindStreet
+* InterWiki: [DeWikiPedia:Brandstwiete]
+* PartOf: HamBurg

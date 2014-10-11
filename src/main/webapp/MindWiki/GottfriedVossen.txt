@@ -1,0 +1,4 @@
+* MindTags: ProFessor
+* HomePage: http://dbms.uni-muenster.de/people/Vossen/
+* MindSkill: MindSql
+|[XingLe:Gottfried_Vossen]

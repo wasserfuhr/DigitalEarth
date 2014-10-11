@@ -1,0 +1,18 @@
+StadtDresden:
+* ChristianeFiliusJehne
+* ElkeZimmermann
+* EvaJaehnigen
+* JensHoffsommer
+* JohannesLichdi
+* KarlHeinzGerstenberg
+* SabineFriedel
+* StephanKuehn
+* ThomasTrepte
+* TorstenHans
+
+WipperFuerth:
+* AndreasSchmitz
+* BastianWeingaertner
+* FrankMederlet
+* GerdKohlgrueber
+* HaraldKoppelberg

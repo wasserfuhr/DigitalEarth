@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [WikiWikiWeb:FrankGerhardt]
+* DbLp: http://dblp.uni-trier.de/rec/pid/68/4037
+* PageNumber: 15
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy GregorEngels ErnstErichDoberkat HeinzZuellighoven DirkRiehle JamesNoble JanVitek UrsHoelzle DavidUngar ErikErnst FrankGerhardt
+|[TwittEr:frankgerhardt]
+|[XingLe:Frank_Gerhardt]

@@ -1,0 +1,6 @@
+* IsA: MinisTer PotUs
+* InterWiki: [DeWikiPedia:Ronald_Reagan] [OpenCyc:RonaldReagan] [WebSeitz:RonaldReagan]
+* BornIn: 1911
+* BirthDay: 02-06
+* DiedIn: 2004
+* ViAf: http://viaf.org/viaf/76321889

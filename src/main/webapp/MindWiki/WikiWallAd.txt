@@ -1,0 +1,18 @@
+your ad on the WikiWall?:
+||days||KayGroschen
+|2   |400
+|4   |900
+|8   |1600
+|16  |2500
+|32  |3600
+|64  |4900
+|128 |6400
+|256 |8100
+
+Customer BrainStorm:
+* FamilienFreund
+* SaftTante
+* AugustusRex
+* UbiGrate
+* SeedMatch
+* TSystemsMms

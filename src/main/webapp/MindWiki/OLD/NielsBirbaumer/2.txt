@@ -1,0 +1,4 @@
+* MindTags: ProFessor
+* HomePage: [http://www.mp.uni-tuebingen.de/mp/index.php?id=62]
+* JahrGang: 1946
+* MindSkill: BrainComputerInterface

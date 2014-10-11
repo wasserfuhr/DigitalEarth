@@ -1,0 +1,15 @@
+Tabellenartige Vergleiche von Dingen im MindWiki:
+
+(angeregt durch: DbMatrix)
+
+||Name
+|CorpPedia
+|DbMatrix
+|DatingMatrix
+|FictioMatrix
+|MetaMatrix
+|OpenId
+|SocialNetwork
+|SportPortal
+|WikiMatrix
+|WikiMind

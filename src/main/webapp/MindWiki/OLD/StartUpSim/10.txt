@@ -1,0 +1,39 @@
+Eine ein- oder besser mehrtägige Simulation, bei dem UnternehmensGruender und Führungskräfte spielerisch lernen können, in NooPolis ein StartUp als WikiBasiert'es GlaesernesUnternehmen zu gründen, oder auch gleich mehrere StartUp's im WettBewerb gegeneinander.
+
+Empfohlene Teilnehmerzahl: 2-200
+
+Empfohlener Zeitplan:
+* 2 oder mehr Tage oder Wochenenden oder ein ganzes StartUpYear
+* durchaus mit teilweise wechselnden Teilnehmern
+
+Empfohlene Kenntnisse:
+* BWL
+* Software-Entwicklung
+* Marketing
+* Grafik & Design
+* Recht
+* InterNet
+
+Ablauf: Die Teilnehmer
+* werden zu Beginn BuergerInnen von NooPolis
+* sie oder ein Hauptveranstalter erwerben im MindShop das Produkt "StartUpSim" für die Teilnahme.
+* lernen das Bearbeiten von WikiPage's, zB indem sie ihre WikiHomePage im MindWiki anlegen.
+* legen eine Seite für das StartUpSim-Event im MindWiki an
+* sammeln dort mehrere GeschaeftsIdee'n
+* wählen per MindVote zwei oder mehrere StartUp-Favoriten aus
+* wählen, bei welchem davon sie teilnehmen möchten
+* legen die ShareHolder und deren CommitMent, den WirkSatz aller MitWirkende'n und daraus folgenden ShareHolder-Anteile fest
+* die Entwickler erhalten ein MindHacking-Tutorial und lernen SourceCode für das NooPolis-SocialGrid zu entwickeln
+* die ShareHolder ermitteln, welche weiteren Leistungen sie für ihr StartUp benötigen und schreiben sie auf dem MarketPlace aus
+* das KabiNett oder andere BuergerInnen können derweil Änderungen der VerFassung vorschlagen und umsetzen, die während des StartUpSim von den Teilnehmern zu berücksichtigen sind
+* andere BuergerInnen prüfen, ob alle Schritte im Einklang mit der VerFassung erfolgen und legen ggf. Beschwerden beim MindCourt ein
+* jederzeit können StartUpSim-MitWirkende und auch alle BuergerInnen Shares ihres StartUp's oder auch die von WettBewerb'ern auf dem MindFloor handeln.
+
+Potentielle Kunden:
+* UnternehmensGruender
+* StartUpWeekEnd
+* DresdenExists
+* Führungskräfte von DAX-Unternehmen
+* McKinsey, KienBaum und die BigFour
+* HochSchule'n
+* IhaKa

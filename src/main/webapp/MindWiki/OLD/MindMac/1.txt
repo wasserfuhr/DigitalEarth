@@ -1,0 +1,21 @@
+* MacBook oder MacBookPro 
+* OS X 10.4
+
+Standard-Software:
+* FireFox
+* SunBird
+* ThunderBird
+* Skype
+* BitsOnWheels
+* NeoOffice
+* VLC
+* ChickenOfTheVnc
+* Adium
+* SecondLife
+* GoogleEarth
+* FreeMind
+
+Für Entwickler:
+* SQuirreLSQL
+* Eclipse 3.2
+* ITerm

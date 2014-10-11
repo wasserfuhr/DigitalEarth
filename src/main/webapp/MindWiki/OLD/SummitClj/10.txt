@@ -1,0 +1,18 @@
+;
+;
+;{{{
+
+((defn summit [] 
+  (handle "summit"
+   (fn []
+    (str "<img src='" (cache nil :RainerWasserfuhr) "' width='32' height='32'/>"
+     "<table>"
+     " <tr><th>Speaker</th></tr>"
+     " <tr>"
+     "  <td valign='top'></td>"
+     " </tr>"
+     "<script src='http://maps.google.com/maps?file=api&v=2&sensor=false&key=ABQIAAAA1cVkdYTDy6dgkLBaZGZt4hSrDpLsHpWiNyhCh1SSqrwIb71UdBSHMZAW0ihJwz04rZIFaVVg-lQczA' type='text/javascript'></script>"
+     "<div id='map_canvas' style='width: 500px; height: 300px'></div>"
+     "</table>")
+   ) ""))))
+;}}}

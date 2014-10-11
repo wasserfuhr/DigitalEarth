@@ -1,0 +1,26 @@
+* IsA: EventSeries
+* OperatedBy: PieschenArtGroup
+
+http://www.facebook.com/event.php?eid=&index=1
+http://www.facebook.com/event.php?eid=161616293870471&index=1
+
+||am      ||#||Soll||Ist||Wo||FbEvent||ArtDirector||GuestList
+|2010-12-24?|#10|256|?|FbEvent:?|BlauFabrik?|
+|2010-12-17?|#9|128|?|FbEvent:?|PensionMorgenstern?|
+|2010-12-10?|#8|64|?|FbEvent:?|PensionMorgenstern|
+|2010-12-03|#7|32|?|FbEvent:178178268862528|PensionMorgenstern|HeMo RaWa ChWe
+|2010-11-19|#6|16|?|FbEvent:169232333095800|PensionMorgenstern|
+|2010-11-05|#5|8|?|FbEvent:161616293870471|PensionMorgenstern|
+|2010-10-29|#4|4|8|FbEvent:106990262701742|PensionMorgenstern|ElMo HeMo RaWa|DeborahMorgenstern KathleenParma
+|2010-10-22|#3|2|5|FbEvent:152442908130848|PensionMorgenstern|HeMo RaWa|DeborahMorgenstern 
+|2010-10-15|#2|1|3|FbEvent:154288501277696|PensionMorgenstern|ElMo HeMo RaWa|DeborahMorgenstern
+|2010-10-08|#1|0|0|FbEvent:141354969242795|PensionMorgenstern|HeMo RaWa|
+HeMo RaWa|
+
+Installation
+KonzeptKunst 
+ArtWikiWall ArtWikiWalk
+
+BusinessKasper
+
+GuestList: AlexanderFriedland ChristopherSimpson ElliEisbein HeidiGallinat HolgerJohn HolgerKnaak MarcusBertelsmeier

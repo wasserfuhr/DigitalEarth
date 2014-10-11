@@ -1,0 +1,19 @@
+Das FutureLaw regelt ergänzend zur VerFassung von NooPolis den Besitz und das Eigentum von FutureCard's und deren Handhabung auf der FutureMap.
+
+* RainerWasserfuhr hütet eines grosses Büschel von Blanko-FutureCard's in der SchatzKiste der PieschenBank
+* Wer einen Teil vom BlankoBueschel abhaben will, kennt ja Mittel und Wege, um diese Seite hier zu editieren ;)
+* Jede FutureCard ist ein Unikat
+* Jede FutureCard liegt auf unserem Spielbrett, dem TwentyFirstCentury
+* Auf jeder FutureCard müssen angegeben sein
+** der eindeutige __Name__ der WikiPage im MindWiki (zB "PhaetonBallett")
+** die __PreDict__'tion: ein knackiger Einzeiler über den Gegenstand der FutureCard
+** der __CardOwner__
+** das __UnTil__: Durch das UnTil wird die FutureCard
+** das __ForSaleFor__: Der Preis zu dem der CardOwner unmittelbar seine FutureCard verkaufen würde (preferred currency: KayGroschen, or EuRo or UsDollar if the CardOwner isn't one of the CitiZens of NooPolis yet) 
+* Der CardOwner hat jede seiner FutureCard's sorgfältig aufzubewahren
+* Alle CardOwner haben bei der Teilnahme an einem MindEvent der DresdenFutureGroup ihre FutureCard's mitzubringen.
+* Der CardOwner kann jederzeit seine FutureCard
+** weitergeben an andere MindPeople, die sich damit dem FutureLaw bedingungslos unterwerfen
+** im MindShop zum Verkauf anbieten
+* FutureCard's können per MindPost an den neuen CardOwner gesendet werden
+* Am Ende jedes FutureGame's kann der FutureCaptain aus dem HausHalt von NooPolis ein Preisgeld von bis zu 10 KiloKayGroschen an die Teilnehmer ausschütten

@@ -1,0 +1,2 @@
+* IsA: PerSon
+* BornIn: 2010

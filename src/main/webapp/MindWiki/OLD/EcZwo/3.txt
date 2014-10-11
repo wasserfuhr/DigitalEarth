@@ -1,0 +1,5 @@
+http://aws.amazon.com/ec2
+
+1 Kiste pro Monat 54 EUR + ein bisschen Traffic
+
+

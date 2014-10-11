@@ -1,0 +1,5 @@
+redet nicht immer so lange rum. 
+
+Eine ErWartung hat:
+# wahrscheinlichster Wert
+# Unsicherheit (in Prozent)

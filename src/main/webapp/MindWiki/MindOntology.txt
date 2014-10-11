@@ -1,0 +1,51 @@
+* InterWiki: [OpenCog:MindOntology]
+
+The LongTerm goal of MindBroker is to build a ThinkingMachine,
+that helps RayKurzweil to win LongBetOne UnTil2029.
+For growing in this direction, we develop a DomainModel,
+that clearly DeFin'es and formalizes our foundamental (sic!) ConCept's.
+It will be the basis for the implementation of the MindMachine on top of NoOs.
+
+
+When DeFin'ing the basic term (UrObjekt) of our DomainModel, we have to choose carefully
+from a broad range of PriorArt alternatives, e.g. ObjectOrientedDesign SemanticWeb TopicMaps or NeuroScience.
+OpenCog OntoLogy:
+
+In order to distinguish the mental representations from
+the different terms of NaturalLanguage, we introduce 
+the basic ConCept of a »MindPattern«.
+Similar ConCept's could be "Entity" "ObJect" "Thing" or "Topic".
+
+We use the more generic term »MindPattern« to emphasize that it may also 
+cover actions or behavioural pattern.
+We want to create a ProCess for continuous SupervisedLearning of MindPattern.
+Our BabyAi will be like a digital toddler, tought by user interaction.  
+We plan to use the vast amounts of SemanticWeb data, that
+is currently growing around the LinkedData communities.
+
+A MindPattern can be learned by interacting with the outside WorLd or deduced from own thoughts.
+
+Many MindPattern have a name.
+
+For our first steps we DeFin'e a basic MindNameSpace, that
+will be managed by the MindWiki, which has a UniqueNameAssumption for it's PageIndex.
+
+So for example, most HuMan's will be able to recognise
+28910 28911 or 29912 as numbers.
+However, only for owners or fans of the CommodoreSixtyFour will
+know that reminds them of the fmous "28911 bytes free". So in some MiNd's,
+this causes an activation of CommodoreSixtyFour.
+
+Each MindPattern is ConNect'ed to zero or more other MindPattern's.
+Currently they are represented as CamelCase and they define
+a graph of BackLink's for each WikiPage.
+
+You are invited to JoinNow and become part of this LongTerm
+journey.
+
+Your first action when you interact with
+the BabyAi will be to choose your name
+under which you can be uniquely identified in TheFuture.
+We have a strict RealName convention at MindBroker.
+We are accustomed to work in the public sphere
+and the the mode of PerpetualBeta.

@@ -1,0 +1,5 @@
+* KindOf: RdfClass
+
+Root in the UpperOntology of the NooPolis SemanticWeb.
+
+represented by a WikiPage.

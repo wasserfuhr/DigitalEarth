@@ -1,0 +1,3 @@
+||am||Name||Schenkender||Anzahl||Einheit
+|20070331|Matze|RainerWasserfuhr|2|EUR
+|20070401|Maria|RainerWasserfuhr|10|EUR

@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Sch%C3%B6nfeld_(Sachsen)]
+* MindOne: HansJoachimWeigel
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.303&lon=13.706&zoom=16 ToDo

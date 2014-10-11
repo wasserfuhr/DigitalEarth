@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/75/6115
+* HomePage: http://www.csg.ethz.ch/people/plattner

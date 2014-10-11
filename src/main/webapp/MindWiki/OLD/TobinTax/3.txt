@@ -1,0 +1,10 @@
+* InterWiki: [DeWikiPedia:Tobin-Steuer]
+
+Vorschlag für eine Erweiterung der VerFassung:
+* Für überregionale Zahlungsflüsse wird eine TobinTax erhoben.
+* BuergerInnen können auf ihrer Profilseite im MindWiki ein TobinTaxVote abgeben.
+* Falls BuergerInnen keine TobinTaxVote abgeben, wird ihr TobinTaxVote als "0%" angenommen.
+* Die Höhe der aktuellen TobinTax errechnet sich aus dem arithmetische Mittel aller TobinTaxVote's.
+
+Bald könnte bei überregionalen Zahlungsflüssen dann automatisch bei jeder Bewegung auf dem BankKonto
+eine TobinTax abgerechnet werden, die beispielsweise in einen CeOhZwo-Fonds geleitet werden könnte.

@@ -1,0 +1,4 @@
+* IsA: PerSon
+* BirthDay: 05-29
+* InterWiki: [DeWikiPedia:Kerstin_Hensel]
+* HasTalked: HeidiMorgenstern

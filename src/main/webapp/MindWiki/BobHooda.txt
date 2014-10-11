@@ -1,0 +1,6 @@
+* IsA: PerSon
+* HasTalked: JohannesRau HeinzEggert
+|[FaceBook:100000967252350]
+|[XingLe:Bob_Hooda2]
+
+deprecated: [FaceBook:1851842133]

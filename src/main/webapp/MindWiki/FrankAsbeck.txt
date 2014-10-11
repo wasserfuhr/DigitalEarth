@@ -1,0 +1,3 @@
+* IsA: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Frank_Asbeck]
+* BirthDay: 08-11

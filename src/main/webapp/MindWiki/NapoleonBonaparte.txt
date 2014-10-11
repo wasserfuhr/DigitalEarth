@@ -1,0 +1,5 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Napoleon_Bonaparte] [OpenCyc:NapoleonI]
+* BornIn: 1769
+* BirthDay: 08-15
+* DiedIn: 1821

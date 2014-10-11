@@ -1,0 +1,4 @@
+* IsA: PerSon
+* HomePage: http://borisgloger.com/
+* MindSkill: ScrumProcess
+|[XingLe:Boris_Gloger]

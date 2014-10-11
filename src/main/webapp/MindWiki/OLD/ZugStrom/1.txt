@@ -1,0 +1,9 @@
+http://twitter.com/PickiHH/statuses/224417412 : "man müsste mal ein *Welcher Zug hat Strom* Wiki machen..."
+
+was hiermit geschieht...
+
+||Zug||Strom?
+|ICE 123| ja
+|EC 233| nein
+
+Frage: Was wäre der richtige Primärschlüssel? zB ICE 203 oder die ID des individuellen Zuges?

@@ -1,0 +1,14 @@
+Quoted from [Another Day, Another Singularity|http://www.privateworld.com/archives/106-Another-day,-another-singularity.html]
+
+The one line descriptor of a singularity, courtesy of [WikiPedia:Technological_singularity] is:
+
+"a theoretical point in the development of a scientific civilization at which technological progress accelerates into infinity or beyond prediction"
+
+The fallout of this can be described appropriately in the following two passages:
+* It is a point where our old models must be discarded and a new reality rules. (VernorVinge)
+
+and
+
+* In futures studies, a technological singularity represents a hypothetical "event horizon" in the predictability of human technological development. Past this event horizon, following the creation of strong artificial intelligence or the amplification of human intelligence, existing models of the future cease to give reliable or accurate answers. [...] as one approaches TheSingularity, models of the future become less reliable, just as conventional models of physics break down as one approaches a gravitational singularity.
+
+Both courtesy of [TheSingularity is Nonsense|http://alife.co.uk/essays/the_singularity_is_nonsense/]

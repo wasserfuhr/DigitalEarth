@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Peter_Handke]
+* BornIn: 1942
+* BirthDay: 12-06

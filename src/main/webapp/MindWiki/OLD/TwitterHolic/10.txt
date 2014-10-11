@@ -1,0 +1,58 @@
+* HomePage http://twitterholic.com/
+
+http://twitterholic.com/top100/followers
+
+||Rank[1]||[2]||PerSon
+|  1|  5|AshtonKutcher
+|  3|  4|BritneySpears
+|  7|  2|BarackObama
+| 12| 46|DemiMoore
+| 15|  6|LanceArmstrong
+| 19| 10|AlGore
+| 26| 13|EvanWilliams
+| 43| 27|JohnMcCain
+| 46| 39|TonyRobbins
+| 58| 24|MichaelArrington
+| 59| 35|BizStone
+| 65| 37|JackDorsey
+| 99| 80|TimOReilly
+|110| 84|DavidAllen
+|307| 92|GuyKawasaki
+|398|189|WilliamShatner
+|650|  ?|TomSiwik
+|1272|321|LoicLeMeur
+|2569|1355|SaschaLobo
+|3565|989|JoiIto
+|3639|795|RossMayfield
+|3758|1378|JimmyWales
+|4089|1165|NicoleSimon
+|4674|   ?|JohnnyHaeussler
+|5807|2564|WernerVogels
+|5828|2699|MarioSixtus
+|6002|2884|TimPritlove
+|6283|2524|MartinVarsavsky
+|6650|2360|JeffClavier
+|8590|2848|RobertBasic
+|9291|   ?|NicoLumma
+|9350|6208|JaneMcGonigal
+|9497|3607|LarsHinrichs
+|10674|  ?|MarkusAngermeier
+|11262|3844|OliverGassner
+|11532|8516|WardCunningham
+|14307|7933|CemBasman
+|19932|12334|OliverBerger
+|23267|    ?|ChristianHeller
+|24277|21642|KirstinWalther
+|51162|    ?|PeterStawowy
+|57614|    ?|RalfLippold
+|62191|    ?|JohannesLohmeyer
+|63629|32430|MartinRoell
+|72082|    ?|DirkRoehrborn
+|74444|    ?|StephanBoehlig
+|78905|42277|RainerWasserfuhr
+|79761|116705|ZigaTurk
+|84441|99044|ChristineSchlinck
+|162915|   ?|GunterDueck
+by number of followers:
+[#1] as of 20090728
+[#2] as of 20090302

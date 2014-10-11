@@ -1,0 +1,10 @@
+* MindTags: MindThing
+* BreitenGrad: 51.073834
+* LaengenGrad: 13.729916
+* BoundingBox: 0.5
+
+WikiBasiert'es GeoCaching im WirkZentrum.
+
+||am || ||
+|20080919|in|ZweiKletten
+|20080919|in|R2D2

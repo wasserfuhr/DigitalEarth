@@ -1,0 +1,7 @@
+* InterWiki: [DeWikiPedia:Parteitag]
+
+||Partei    ||von    ||bis    ||MindPlace
+|PiratenWiki|20090704|20090704|HamBurg
+|CduWiki    |20081130|20081202|StuttGart
+
+Jetzt alle mit ParteiWiki!

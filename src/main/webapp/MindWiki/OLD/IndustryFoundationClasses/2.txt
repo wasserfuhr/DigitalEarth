@@ -1,0 +1,3 @@
+* InterWiki: [DeWikiPedia:Industry_Foundation_Classes]
+
+ISO-Standard for intelligente 3D-BuildingModel's

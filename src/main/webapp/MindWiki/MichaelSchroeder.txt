@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/MichaelSchroeder
+* HomePage: http://www.biotec.tu-dresden.de/schroeder
+* MindSkill: SemanticWeb BioMind
+* PageNumber: 9
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcDermott RichardFikes TomGruber JayTenenbaum AlanKay AndreasRaab MichaelSchroeder
+* HasTalked: RainerWasserfuhr

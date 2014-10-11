@@ -1,0 +1,36 @@
+VerFassung
+
+* Alle Bürger von NooPolis haben FreiHeit.
+* Jeder Bürger von NooPolis hat genau eine MindId und damit ein Login.
+* Jeder Bürger kann weitere Bürger einladen.
+* Bei Registrierung muss der bürgerliche Vor- und Zuname und das Geschlecht angegeben werden.
+* Mit Erwerb der MindId wird der Bürgerstatus erworben und die Verfassung anerkannt.
+
+
+* Alle Bürger von NooPolis sind eingewoben in ein WebOfTrust. Neben der reinen Identifikation können sie damit graduell Vertrauen aussprechen.
+* Eine spätere Namensänderung bedarf der Verifikation durch mindestens zwei Trustees.
+* Die BuergerListe ist ein Verzeichnis aller aktuellen Bürger von NooPolis.
+
+
+* NooPolis ist eine VirtuelleOekonomie. 
+* Die Währung von NooPolis sind KayGroschen. 
+* Die PieschenBank hütet sie und legt den jeweils aktuellen WechselKurs fest.
+* Änderungen der Geldmenge von mehr als 10% bedürfen der Zustimmung der Bürger per MindVote.
+* Die Einnahmen und Ausgaben von NooPolis werden von den Bürgern im Rahmen des HausHalt'es selbst geregelt. 
+* NooPolis finanziert sich durch SteuerEinnahmen.
+
+
+* NooPolis ist eine Republik mit dem LeaderShip-Modell des PrimusInterPares.
+* Gründer sind RainerWasserfuhr und YvonneSchubert.
+* Alle Regeln der Noopolis-Verfassung sind veränderbar.
+* Keine Regeländerung gilt rückwirkend.
+* Änderungen der Verfassung erfordern die Zustimmung aller Bürger, deren Besitz mindestens 1000 KayGroschen beträgt.
+* Regeländerungen gelten als von allen Bürger angenommen, wenn kein Bürger der Änderung binnen Veto-Frist durch Editieren im Wiki widerspricht.
+* Die Veto-Frist beträgt 3 Tage. Falls ein Bürger länger AbWesend ist, kann er die Frist während der Abwesenheit auf 14 Tage erhöhen.
+* Bei Meinungsverschiedenheiten kommt es zu einem MindVote unter allen Bürgern. Es entscheidet dabei die einfache Mehrheit der KayGroschen.
+* Jeder Bürger nimmt einmal pro Monat an der UrWahl teil.
+* Nimmt ein Bürger 3x nacheinander nicht an der UrWahl teil, erlischt seine StaatsBuergerschaft und sein Vermögen geht an die PieschenBank.
+* Auf dem HoheitsGebiet von NooPolis tätige Unternehmen tragen sich im HandelsRegister ein.
+* Der MindShare jedes Unternehmens kann auf dem MindFloor gehandelt werden.
+* MindBroker ist ein VolksEigenerBetrieb auf dem HoheitsGebiet von NooPolis.
+* MindBroker ist der E-Government-ServiceProvider von NooPolis und Hüter der MindIds.

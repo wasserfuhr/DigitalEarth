@@ -1,0 +1,4 @@
+* IsA: PerSon
+* ChildOf: NokBunker
+
+[WikiPedia:Chang_and_Eng_Bunker]

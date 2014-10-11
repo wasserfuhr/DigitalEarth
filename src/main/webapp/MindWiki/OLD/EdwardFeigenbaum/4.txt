@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Edward_Feigenbaum] [OpenCyc:EdwardFeigenbaum-ComputerScientist]
+* JahrGang: 1936
+* BirthDay: 01-20
+* DbLp: http://dblp.uni-trier.de/rec/pid/f/EdwardAFeigenbaum
+* HomePage: http://ksl-web.stanford.edu/people/eaf/
+* MindSkill: ArTelligence
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy EdwardFeigenbaum

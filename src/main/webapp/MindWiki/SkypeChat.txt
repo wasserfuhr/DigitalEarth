@@ -1,0 +1,37 @@
+We have created some SkypeChat's:
+||public||Name  ||MitWirkende         ||OptOut
+|x|AfricaChat   |RaWa
+|-|AnthiChat    |RaWa AnTh            |RaLi
+|-|BayChat      |RaWa RaLi TiBo BaHi
+|x|BildungsChat |
+|x|BrokerChat   |BrokerChat
+|-|CoChat       |RaWa RaLi MaRo       |CoWo JoGo
+|-|CooChat      |CoWo RaWa RaLi MaRo  |
+|x|CoWorkChat   |CoWorkChat
+|-|CoWorkingChat|CoWorkingChat
+|-|DoChat       |RaWa RoHu KuFa BoHo?
+|-|FriendsOfKrishnaChat|FriendsOfKrishnaChat
+|x|FamilienChat |RaWa RaLi ThKu AnSc
+|x|FutureChat   |FutureChat
+|-|GiniChat     |RaWa SiBe TiBr       |RaLi
+|x|IntelliChat  |
+|-|KabiNettChat |
+|-|KissChat     |RaWa SeMi            |RaLi
+|-|LockChat     |LockChat
+|-|MindChat     |?
+|-|NooChat      |?
+|-|PbChat       |RaWa RaLi PaBu
+|-|PlomChat     |RaWa RaLi ChHe
+|-|RosenChat    |RaWa RoHu JaFi       |RaLi
+|-|SchneckenChat|RaWa ChSc MaBe       |RaLi
+|x|SeedChat     |RaWa
+|-|SingularCampChat|RaWa RaLi DaOr
+|-|SingularChat |RaWa RaLi DaOr
+|-|StepChat     |RaWa RaLi GuSt
+|-|SunChat      |RaWa RaLi YvSc           |JuAn
+|-|TeaChat      |RaWa RaLi MaRo
+|-|VorStandsChat|?
+|-|WonneChat    |RaWa YvSc RoHu BoHo?     |RaLi
+|-|RosenChat    |RaWa RoHu JaFi           |RaLi
+
+For TheFuture we consider to switch from ClosedSource SkyPe to OpenSource InstantMessaging alternatives like XmPp or GoogleWave.

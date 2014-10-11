@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Edward_Castronova]
+* MindSkill: VirtualEconomy

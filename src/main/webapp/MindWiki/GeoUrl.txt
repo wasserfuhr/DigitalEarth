@@ -1,0 +1,12 @@
+* InterWiki: [MeatballWiki:GeoUrl]
+
+MindPlace
+
+LockSchuppen:
+* [http://maps.google.com/maps?ll=51.067,13.741&t=h&z=21]
+* [http://maps.live.de/LiveSearch.LocalLive?cp=51.067~13.741&style=o&lvl=2]
+* [http://www.openstreetmap.org/?lat=51.067&lon=13.741&zoom=18]
+* [http://www.goyellow.de/map/?lon=13.741&lat=51.067&z=19&mt=Hybrid]
+
+DerTurm:
+* [http://maps.live.de/LiveSearch.LocalLive?cp=51.0606~13.8224&style=o&lvl=2]

@@ -1,0 +1,5 @@
+erste Gedanken zur Sicherheitsarchitektur von spot:
+
+Das Passwort des Users wird nur als Hash-Digest auf dem Spot-Server verschickt.
+* Passwörter werden niemals im Klartext über HTTP oder SMTP verschickt.
+* um ein vergessenes Passwort zu recoveren.... Hier noch viel ToDo!!

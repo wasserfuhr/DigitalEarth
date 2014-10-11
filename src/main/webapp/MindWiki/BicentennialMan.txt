@@ -1,0 +1,3 @@
+* MindTags: MindBook
+* InterWiki: [WikiPedia:The_Bicentennial_Man]
+* DcAuthor: IsaacAsimov

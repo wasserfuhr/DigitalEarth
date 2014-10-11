@@ -1,0 +1,47 @@
+DbLp »SameAs« bugs:
+
+submitted to MichaelLey:
+** [http://dblp.uni-trier.de/db/indices/a-tree/h/Heistermann:J=ouml=rg.html]
+** [http://dblp.uni-trier.de/db/indices/a-tree/h/Heisterman:J=ouml=rg.html]
+
+pending:
+* AlanKay
+** [http://dblp.uni-trier.de/db/indices/a-tree/k/Kay:Alan.html]
+** [http://dblp.uni-trier.de/db/indices/a-tree/k/Kay:Alan_C=.html]
+* CraigVenter
+** [http://dblp.uni-trier.de/db/indices/a-tree/v/Venter:J=_Craig.html]
+** [http://dblp.uni-trier.de/db/indices/a-tree/v/Venter:J=_C=.html]
+* EricSchmidt
+** [http://dblp.uni-trier.de/db/indices/a-tree/s/Schmidt:Eric.html]
+** [http://dblp.uni-trier.de/db/indices/a-tree/s/Schmidt:Eric_E=.html]
+* EvaKuehn:
+** TyPo: [http://dblp.uni-trier.de/db/indices/a-tree/k/K=uuml=hn:eva.html]
+* FrancesAllen
+** [http://dblp.uni-trier.de/db/indices/a-tree/a/Allen:Frances.html]
+** [http://dblp.uni-trier.de/db/indices/a-tree/a/Allen:Frances_E=.html]
+* HansGrabowski [DeWikiPedia:Hans_Grabowski]
+** [http://dblp.uni-trier.de/db/indices/a-tree/g/Grabowski:H=.html]
+** [http://dblp.uni-trier.de/db/indices/a-tree/g/Grabowski:Hans.html]
+* JohnMcCarthy
+** [http://dblp.uni-trier.de/db/indices/a-tree/m/McCarthy:John_L=.html]
+** [http://dblp.uni-trier.de/db/indices/a-tree/m/McCarthy:John.html]
+* JuergenWaesch
+** [http://dblp.uni-trier.de/db/indices/a-tree/w/W=auml=sch:J=uuml=rgen.html]
+** [http://dblp.uni-trier.de/db/indices/a-tree/w/W=auml=sch:J=.html]
+* LarryPage
+** http://dblp.uni-trier.de/rec/pid/p/LawrencePage does not work
+* MicahClark
+** [http://dblp.uni-trier.de/db/indices/a-tree/c/Clark:Micah.html]
+** [http://dblp.uni-trier.de/db/indices/a-tree/c/Clark:Micah_Henry.html]
+* MichaelRichter
+** http://dblp.uni-trier.de/rec/pid/m/MichaelMRichter does not work
+* RaimarScherer
+** [http://dblp.uni-trier.de/db/indices/a-tree/s/Scherer:Raimar.html]
+** [http://dblp.uni-trier.de/db/indices/a-tree/s/Scherer:Raimar_J=.html]
+** [http://dblp.uni-trier.de/db/indices/a-tree/s/Scherer:R=_J=.html]
+* ReinerHartenstein
+** [http://dblp.uni-trier.de/db/indices/a-tree/h/Hartenstein:Reiner_W=.html]
+** [http://dblp.uni-trier.de/db/indices/a-tree/h/Hartenstein:Reiner.html]
+* WilliamSimsBainbridge
+** [http://dblp.uni-trier.de/db/indices/a-tree/b/Bainbridge:William.html]
+** [http://dblp.uni-trier.de/db/indices/a-tree/b/Bainbridge:William_Sims.html]

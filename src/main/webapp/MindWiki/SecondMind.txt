@@ -1,0 +1,10 @@
+ProjectCodeName von NooPolis für UnsereProjekte rund um SecondLife und CroQuet, als Vorstufe zu WyrdMind.
+
+Projekte:
+* SecondWirkZentrum
+* SecondDresden
+
+Tools:
+* http://www.blender.org/: OpenSource-Tool for 3D-Modelling (Import/Export: VrMl, DXF, 3DS etc)
+* IndustryFoundationClasses
+* [Solibri Model Viewer|http://www.solibri.com/index.php?option=com_content&task=view&id=71&Itemid=44]: Browser for IndustryFoundationClasses

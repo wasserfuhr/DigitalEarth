@@ -1,0 +1,15 @@
+%%( padding-left: 400px; font-size:95%)
+"Was ist der Einbruch in eine Bank gegen die Gründung einer Bank?" - Die DreiGroschenOper, 1928
+%%
+
+Die PieschenBank ist die Staatsbank von NooPolis.
+
+Hauptsitz: Das WirkZentrum in der GeheStrasse21 im OrtsteilPieschen in der StadtDresden in DeutschLand.
+
+Generaldirektor der Pieschenbank: RainerWasserfuhr.
+
+Staatsvermögen: 10.000.000 KayGroschen.
+
+Die Einnahmen und Ausgaben sind dokumentiert im HausHalt.
+
+Die PieschenBank bietet jedem Bürger ein Bankkonto und ein Depot mit MindShares von UnterNehmen in NooPolis.

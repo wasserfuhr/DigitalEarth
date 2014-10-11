@@ -1,0 +1,36 @@
+Da die KommentarFunktion aktuell defekt ist (RainerWasserfuhr wurde bereits per SkyPe informiert), lege ich gegen den MindBrokerBusinessPlan Veto ein. Unten aufgeführte Regeln und Bedingungen widersprechen der VerFassung. 
+\\
+--ThomasKujawa, 2009-09-27
+
+----
+
+MindBroker wird sich finanzieren durch Premium-Mitgliedschaften für die BuergerInnen von NooPolis.
+Diese werden in EuRo auf das VolksKonto eingezahlt.
+Nach Eingang auf das VolksKonto werden EuRo in KayGroschen umgetauscht.
+Anfangs wird dies durch einen festen WechselKurs von 50 EuRo für 1000 KayGroschen (=1 KiloKayGroschen).
+Ein Monat Premium-Mitgliedschaft kostet 100 KayGroschen, also umgrechnet 5 EuRo. Es umfasst folgende Leistungen:
+
+||Leistung         ||Basic||Premium
+|BankAccount       |ja    |ja
+|MindWiki lesen    |ja    |ja
+|MindWiki editieren|nein  |ja
+|CabiNetElection   |nein  |ja
+
+Mit den eingenommenen EuRo werden bezahlt:
+* das SocialGrid bei Amazon-EcZwo-DataCenter
+* ObDach, MindCuisine und TaschenGeld für die ShareHolder von MindBroker
+ 
+
+Ein weiteres Produkt von MindBroker soll später der DigitalTwin werden:
+Werkzeuge und KnowHow um ein digitales Abbild des eigenen BeWusst'seins zu schaffen.
+Besonders gut informierte Kreise gehen mittleriweile davon aus,dass zwischen 2030 und 2050 TheSingularity eintreten
+wird. Dann werden menschliches und künstliches BeWusst'sein verschmolzen sein.
+MindBroker versucht, ein PostSingular'es BusinessModel zu schaffen.
+
+Früher nannte einige so etwas: WissensManagement.
+In wenigen Jahren werden Neuroheadsets den Massenmarkt
+erobern:
+"The EmotivEpoc neuroheadset is priced at $299 neuroheadsets will begin shipping in late 2008."
+Ein immer genaueres Abbild eigener Erfahrungen, Erlebnisse und Empfindungen, das 
+alle eigenen Aktivitäten im InterNet und "echten" Leben begleitet.
+MindBroker wird ein führendes UnterNehmen für SemanticWeb-basierte digitale Modelle des eigenen Denkens.

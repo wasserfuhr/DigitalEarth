@@ -1,0 +1,11 @@
+* IsA: ProFessor
+* JahrGang: 1971
+* DbLp: http://dblp.uni-trier.de/rec/pid/11/4107
+* ViAf: http://viaf.org/viaf/79465590
+* HomePage: http://vsr.informatik.tu-chemnitz.de/people/gaedke/
+* ThreeTags: ProFessor TuChemnitz FutureObsessed
+* PageNumber: 7
+* PagePath: LarryPage SergeyBrin MonikaHenzinger DavidEppstein JoanFeigenbaum TimBl ChristianBizer MartinGaedke
+|[XingLe:Martin_Gaedke]
+|[TwittEr:gaedke]
+|[FaceBook:709312952]

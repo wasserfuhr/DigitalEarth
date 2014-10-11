@@ -1,0 +1,7 @@
+roughly spoken, the WikiWall and the MindWiki are about
+* P: MindPeople
+* E: MindEvent's
+* P: MindPlace's
+* I: Ideas (MindPattern) 
+* A: NextAction's
+* R: ReVenue

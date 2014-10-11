@@ -1,0 +1,6 @@
+* MindTags: UnternehmensGruender
+* WohnSitz: StadtDresden
+* MindSkill: SubVersion
+* ObamaNumber: 3
+||AusLand
+|[XingLe:Christian_Fischer207]

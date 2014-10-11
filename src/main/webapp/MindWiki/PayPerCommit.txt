@@ -1,0 +1,4 @@
+bald für SvnUser:
+
+Entwickler, die SourceCode für das SocialGrid committen, können __beim__ commit einen Betrag
+angeben, den sie als Bezahlung erhalten wollen. Die PieschenBank überweist automatisch.

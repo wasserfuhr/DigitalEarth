@@ -1,0 +1,10 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Karlsruhe]
+* BreitenGrad: 49.014
+* LaengenGrad: 8.4043
+* BoundingBox: 5000
+* MindCount: 300000
+
+Wohl die MindCity auf PlanetErde mit der höchsten Zahl an StadtWiki-Seiten pro Einwohner.
+
+Wohl die MindCity auf PlanetErde mit der höchsten Zahl an StadtWiki-Seiten überhaupt.

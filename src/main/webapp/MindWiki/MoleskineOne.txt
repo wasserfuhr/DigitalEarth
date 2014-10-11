@@ -1,0 +1,4 @@
+* IsA: MindThing
+* OwnedBy: RainerWasserfuhr
+
+IstEin MoleSkine

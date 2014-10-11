@@ -1,0 +1,22 @@
+wir sprechen in NooPolis vorerst gepflegtes denglish, aber bald auch:
+||ISO 1)||# 2)||Name ||% 3)|| VerFassung
+|zh|867|chinesisch   |  2|XianFa
+|en|690|englisch     | 50|ConStitution
+|hi|525|hindi        |  0|
+|es|447|spanisch     |  2|ConStitucion
+|fr|447|französisch  |  2|LaConstitution
+|ar|290|arabisch     |  0|دستور
+|ru|240|russisch     |  2|KonStituzija
+|pt|218|portugiesisch|  2|ConStituicao
+|de|155|deutsch      |100|VerFassung
+|tr| 70|türkisch     |  2|Anayasa
+|el| 12|griechisch   |  2|Σύνταγμα
+|lt|  4|litauisch    |  2|KonStitucija
+|sl|  2|slowenisch   |  2|UstavaNooPolis
+
+Legende:
+* 1) Sprachcode nach ISO 639-1
+* 2) Zahl der Sprecher in Millionen
+* 3) Grad der Fertigstellung der Verfassungsübersetzung
+
+[DeWikiPedia:Weltsprache]

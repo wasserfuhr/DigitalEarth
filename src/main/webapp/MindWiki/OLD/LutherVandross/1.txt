@@ -1,0 +1,8 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Luther_Vandross]
+* BornIn: 1951
+* BirthDay: 04-20
+* DiedIn: 2005
+* MindSkill: MindMusic
+
+KillingMeSoftly

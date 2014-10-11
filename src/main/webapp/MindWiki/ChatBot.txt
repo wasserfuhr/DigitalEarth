@@ -1,0 +1,9 @@
+* InterWiki: [DeWikiPedia:Chatbot], [WikiWikiWeb:ChatBot]
+
+First ideas:
+* restrict to a formal KunstSprache - don't care about parsing and ambiguities
+* chatting creates a WorldModel - first of the speakers and their chat
+* the ChatBot starts from scratch with an empty mind, but can be taught
+* definitions can be learned
+
+HeuReka!: let the ChatBot be a ZukunftsForscher-AvaTar. Maybe his name should be: MrHorx.

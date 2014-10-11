@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:John_Malkovich] [OpenCyc:JohnMalkovich]
+* BornIn: 1953
+* BirthDay: 12-09

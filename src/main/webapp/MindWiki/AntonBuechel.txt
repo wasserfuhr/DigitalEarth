@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* JahrGang: 1831
+* BirthDay: 04-16
+* MamaZwoNull: CatharinaBuechel
+* PapaZwoNull: HeinrichBuechel
+* LebensEnde: 1904

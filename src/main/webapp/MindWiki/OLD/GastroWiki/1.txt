@@ -1,0 +1,2 @@
+||Gastro||Date||Table||from||UnTil||Guests
+|MaximusDresden|20090403|?|1710|2130|RalfLippold, RainerWasserfuhr

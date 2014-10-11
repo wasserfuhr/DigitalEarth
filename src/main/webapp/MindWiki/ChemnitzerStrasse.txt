@@ -1,0 +1,3 @@
+* IsA: MindStreet
+* PartOf: SuedVorstadt
+* ConnectedTo: NuernbergerStrasse

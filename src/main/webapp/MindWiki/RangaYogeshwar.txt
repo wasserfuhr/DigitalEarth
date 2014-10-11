@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Ranga_Yogeshwar]
+* BornIn: 1959
+* BirthDay: 05-18

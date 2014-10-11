@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* HomePage: http://alexosterwalder.com/
+* MindSkill: BusinessModel

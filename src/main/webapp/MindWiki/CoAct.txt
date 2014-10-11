@@ -1,0 +1,6 @@
+CoAct is model of distributed, global, asynchronous, collaborative decision making
+and working.
+
+Rules:
+* NEVER use synchronous media (like phone, SkyPe calls)
+* Do everything as public as possible (e.g. wiki instead of mail)

@@ -1,0 +1,30 @@
+!!!mind-broker-wiki: wiki-node
+
+Willkommen. \\
+Das __mind-broker-wiki__ ist ein Experimentierfeld für [virtuelle Ökonomien|http://mindbroker.de/wiki/VirtuelleOekonomie] und [social networks|http://mindbroker.de/wiki/SocialNetwork] der übernächsten Generation.
+
+''Welcome.'' \\
+''The mind-broker-wiki is an experimentation field for virtual economies and social networks of the next forthcoming generation. The working language in the mind-broker-wiki is German.'' \\
+\\
+
+!Einstiegspunkte
+''starting points''
+* [Startseite|http://mindbroker.de/]
+* [recent changes|http://mindbroker.de/wiki/RecentChanges]\\
+\\
+
+!wiki-nodes benachbarter wikis
+''wiki-nodes of neighboring wikis''
+* [s23-wiki: wiki-node|http://s23.org/wiki/WikiNode], disorganisierter Geek-Inhalt \\
+\\
+
+!das mind-broker-wiki in wiki-Zentren
+''the mind-broker-wiki in wiki-centers''
+* [obm-wiki-Nest / eTerra-wiki-de: mind-broker-wiki|http://socialsynergyweb.net/cgi-bin/wiki/ETerraDe/MindBrokerWiki] \\
+\\
+
+!Kommunikation in Echtzeit
+''real-time communication''
+* irc n/a
+* collab-editor: gobby, ting.sheep.art.pl:6522, page ~NoLinkMindBrokerWiki
+* VoIP: n/a

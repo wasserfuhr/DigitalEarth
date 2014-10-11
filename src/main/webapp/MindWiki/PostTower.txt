@@ -1,0 +1,8 @@
+* IsA: MindPlace
+* BreitenGrad: 50.715556
+* LaengenGrad: 7.13
+* BoundingBox: 30
+* InterWiki: [DeWikiPedia:Post_Tower]
+* PartOf: StadtBonn
+
+"das höchste Bürogebäude NrW's". Knapp ein Sechstel so hoch wie der MindTower.

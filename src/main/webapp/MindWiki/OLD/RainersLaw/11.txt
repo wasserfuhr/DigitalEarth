@@ -1,0 +1,2 @@
+* maximiere FreiHeit
+* beschleunige, aber unter strengster Beachtung der ZeroResistance-Strategie

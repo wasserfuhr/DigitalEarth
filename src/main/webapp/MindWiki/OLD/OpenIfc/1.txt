@@ -1,0 +1,4 @@
+* HomePage: http://www.openifctools.org/
+* MindOne: EikeTauscher
+
+OpenEverything: Open BuildingModel via IndustryFoundationClasses

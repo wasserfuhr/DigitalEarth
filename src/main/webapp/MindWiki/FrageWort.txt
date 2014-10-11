@@ -1,0 +1,14 @@
+* InterWiki: [DeWikiPedia:Interrogativpronomen]
+
+ask:
+* ob: IfThen, NotIfButWhen
+* wann: VerGangen, GegenWart, ZuKunft
+* warum: InFer
+* was: MindThing
+* wem: MindPeople
+* wer: MindPeople
+* weshalb: InFer
+* wie: HowTo
+* wieso: InFer
+* wo: MindPlace
+* WoZu: RoadMap

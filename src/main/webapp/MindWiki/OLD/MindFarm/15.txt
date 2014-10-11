@@ -1,0 +1,68 @@
+The MindFarm is a WikiBased BrowserGame for the VirtualEconomy of NooPolis.
+
+Here is how it works:
+* The goal of the MindFarm-BrowserGame is to create a realistic digital SystemDynamics model of PlanetEarth, with different parameters, both of ToDay and the rest of the TwentyFirstCentury.
+* All CitiZens of NooPolis can play MindFarm.
+* Our board is PlanetEarth as you can see [here|http://maps.google.com/maps?q=http://noopolis.org/kml]
+* you can buy land in the MindShop.
+
+We have a small virtual field: . PlanetEarth is subdivided into Units.
+The units have a Latitude and Longitude.
+
+Later on, Units will be subdivided.
+
+Layers:
+* L0: entire PlanetEarth (1 unit)
+* L1: size of 10 Degrees of latitude and longitude (18x36 units)
+* L2: 1 Degree (10x10 units)
+* L3: 0.1 Degrees
+* L4: 0.01 Degrees
+* L5: 0.001 Degrees
+* L6: 0.0001 Degrees
+
+FactBase:
+* MindCount
+* WaterHandICap
+* EnErgie
+* CalculationsPerSecond
+* Cars
+* Bikes
+* Planes
+* ElectroCar's
+
+Rules
+* TaskForce
+* members of the have to at least one move 
+
+
+Allowed moves:
+* Buy land in the MindShop
+* edit the Rules
+* currencies:
+** EnErgie - under the condition that it happens TransParent'ly
+** KayGroschen - constant
+** you can trade 
+
+DomainModel: 
+* Object
+* Quantity
+
+UseCase:
+* CitiZen buys apple
+* CitiZen buys area
+* CitiZen eats apple: apple--; AppleSeed+=4;
+
+Next things to come:
+* Body
+* ApplePie
+* Electricity
+* Mobility
+* NewHolland harvester
+* Water
+* Silicon
+* CoCrPt
+* OpenStreetMap
+* SpatialModel
+* NoOs
+
+FarmClj is a ProtoType of a game. BrainStorm: FarmVille FarmTown RealEstate WeizenMehl FoodShelterAndWeb

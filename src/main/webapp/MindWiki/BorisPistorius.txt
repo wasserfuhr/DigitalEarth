@@ -1,0 +1,5 @@
+* IsA: BuergerMeister
+* BirthPlace: OsnaBrueck
+* BornIn: 1960
+* BirthDay: 03-14 
+* ParteiWiki: SpdWiki

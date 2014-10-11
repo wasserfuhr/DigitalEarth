@@ -1,0 +1,3 @@
+* MindTags: MindBook
+* InterWiki: [WikiPedia:Artificial_Intelligence:_A_Modern_Approach]
+* DcAuthor: StuartRussell, PeterNorvig

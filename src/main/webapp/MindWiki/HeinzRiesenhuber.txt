@@ -1,0 +1,4 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Heinz_Riesenhuber]
+* BirthDay: 12-01
+* DbLp: http://dblp.uni-trier.de/rec/pid/17/100

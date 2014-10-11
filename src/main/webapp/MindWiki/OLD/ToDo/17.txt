@@ -1,0 +1,30 @@
+RainerWasserfuhr
+* schreibe ProjektPlan
+* schreibe AlphaTester
+* schreibe BetaTester
+* schreibe ContinuousIntegration
+* code die Suchfunktion
+* ziehe den DemoServer auf Port 80 um
+* refactore Messages und Contacts in Mindbroker core.
+
+DanielPoodratchi
+* code "Antworten" bei eingegangenen Nachrichten
+* code userGuestbook
+* verstehe Mindbroker core
+* code Passwort vergessen
+* code Passwort ändern
+* rede mit Madeleine wegen Grafiken - done
+* rede mit Rainer wegen den neuen JSPs - done
+* code Userprofile fertig - done
+* verhindere duplikate in ClubMembership.class und TeamMembership.class - done
+
+AndreasWeigel
+* erstelle Formular für UserProfile
+* optimiere Layout für alle Browser
+* integriere Messages
+* integriere logout/registrieren buttons
+
+AurelienEyoum
+* recherchiere nach Fußballer Rechten
+* recherchiere nach existierenden Datenbanken von Fußballern
+* schaue video2brainCSS

@@ -1,0 +1,4 @@
+* IsA: PerSon
+* ViAf: http://viaf.org/viaf/47957547
+* BornIn: 1967
+* HomePage: http://www.pillkahn.de/

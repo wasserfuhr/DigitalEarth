@@ -1,0 +1,7 @@
+
+InspiredBy [WikiPedia:Best,_worst_and_average_case]
+
+||           ||MarketCap||WahrSchein'lichkeit||
+|Best case   |  |
+|Average case|  |
+|Worst case  |  |

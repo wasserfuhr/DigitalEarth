@@ -1,0 +1,8 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Rudolf-Harbig-Stadion], [DeWikiPedia:Rudolf-Harbig-Stadion]
+* BoundingBox: 150
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/23005467
+
+MeMo:
+* 20090411: RainerWasserfuhr, JeMand: MindPost, RauMobil, BlackBerry, FiRa, FussBall, KayUwePanzer, PieschenRadio, WurzelImperium
+* 20081005: RainerWasserfuhr, JeMand: SpectatorSports, FutureMap, TwinPrime, WeizenMehl, GrigoriPerelman, NewHollandCr9000, SergeiKapitsa, FranzJosefRadermacher, WikiLender, FiRa, BamAg, AufMerk, ManageMyLove, BlauMond, BlueWaters, DeepBlue, BayernMuenchen, KaisersLautern, SampDoria, GlaeserneDynamo, NacktSichtBrille, TotalRecall, ZwingeRasimo, TheSingularity, AnneWillSingularity, DirkHilbert, BeckenHusserl, AlternateReality, TheGame, JaneMcGonigal, VmPeople, MaehdrescherBallett, SecondHalfOfTheChessboard, NooPhant, FuerstenZug, WarCraft, StadtDresden

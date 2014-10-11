@@ -1,0 +1,4 @@
+* MindTags: EventSeries
+* HomePage: http://wiki.openstreetmap.org/index.php/DresdnerOSMStammtisch
+
+OpenStreetMap StadtDresden

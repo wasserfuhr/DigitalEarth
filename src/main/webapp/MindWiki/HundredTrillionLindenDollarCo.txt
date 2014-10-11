@@ -1,0 +1,5 @@
+1 UsDollar = 265 LindenDollar
+
+1 HundredTrillionLindenDollar = 100.000.000.000.000 LindenDollar = 377.358.491.000 UsDollar
+
+MarketCap of ExxonMobil-BigCo = 466b UsDollar = 265*266b LindenDollar = 377 TrillionLindenDollar

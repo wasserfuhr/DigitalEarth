@@ -1,0 +1,6 @@
+||MindBroker||Zeit||NotRuf
+|RainerWasserfuhr |Mo-So: 11-23|24x7 
+|YvonneSchubert   |Mo-So: 9-23 |24x7 BackUp für RainerWasserfuhr
+|DanielPoodratchi |?           |24x7 BackUp für RainerWasserfuhr
+
+BackUp heisst: Wenn NotRuf#1 nicht binnen 60 min reagiert, kann der NotRuf beim BackUp erfolgen.

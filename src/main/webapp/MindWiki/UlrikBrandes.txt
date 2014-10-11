@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/UlrikBrandes
+* PageNumber: 6
+* PagePath: LarryPage SergeyBrin MonikaHenzinger KurtMehlhorn FriedhelmMeyerAufDerHeide DorotheaWagner UlrikBrandes

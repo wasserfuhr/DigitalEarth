@@ -1,0 +1,26 @@
+* IsA: MindPlace
+* InterWiki: [DeWikiPedia:DVB-Hochhaus]
+* OpenStreetMap: http://openstreetmap.org/browse/way/23160164
+* BreitenGrad: 51.064048
+* LaengenGrad: 13.746413
+* BoundingBox: 20
+* GraDient: 35
+* PartOf: AlbertPlatz
+
+Neue Filiale der PieschenBank? Für die MindBau AhGe zur Planung des MindTower.
+
+[{Image src='http://farm4.static.flickr.com/3261/2842488586_195d1482b8_m.jpg'}]
+
+Levels:
+||Level||sqm||
+|10|200|WikiTchenZwo
+|9|220
+|8|220
+|7|230
+|6|260
+|5|300
+|4|300
+|3|300
+|2|300
+|1|300
+|Ground|280|Reception

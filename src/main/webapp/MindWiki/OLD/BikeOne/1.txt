@@ -1,0 +1,1 @@
+might have an embedded GPS sender.

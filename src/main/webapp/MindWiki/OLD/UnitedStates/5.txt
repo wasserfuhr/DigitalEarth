@@ -1,0 +1,11 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Vereinigte_Staaten], [WebSeitz:USA]
+* BreitenGrad: 37
+* LaengenGrad: -96
+* BoundingBox: 3000000
+
+CO: 37°N - 41°N - 102°W - 109°W
+
+UT: 37°N - 42°N , 109°W - 114°W
+
+WY: 41° N - 45° N, 104°3' W - 111°3' W

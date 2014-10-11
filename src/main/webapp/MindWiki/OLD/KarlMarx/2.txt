@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Karl_Marx], [OpenCyc:KarlMarx]
+* JahrGang: 1818
+* BirthDay: 05-05
+* LebensEnde: 1883

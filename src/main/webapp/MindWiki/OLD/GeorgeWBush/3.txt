@@ -1,0 +1,7 @@
+* MindTags: MinisTer, PotUs
+* InterWiki: [OpenCyc:GeorgeWBush], [WebSeitz:GeorgeWBush]
+* JahrGang: 1946
+* BirthDay: 07-06
+* MamaZwoNull: BarbaraBush
+* PapaZwoNull: GeorgeHWBush
+* MindSkill: SegWay

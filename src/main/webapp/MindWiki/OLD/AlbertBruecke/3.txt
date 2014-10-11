@@ -1,0 +1,8 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Albertbrücke] [DeWikiPedia:Albertbrücke]
+* BreitenGrad: 51.057102
+* LaengenGrad: 13.754581
+* SlimNess: 0.2
+* GraDient: 45
+* BoundingBox: 100
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/12498058

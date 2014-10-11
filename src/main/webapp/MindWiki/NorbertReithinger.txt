@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/03/1627
+* HomePage: http://www.dfki.de/~bert/
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd NorbertStreitz WendyHall JimHendler WolfgangWahlster NorbertReithinger

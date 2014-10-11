@@ -1,0 +1,4 @@
+* IsA: MindPlace
+* InterWiki: [DeWikiPedia:Neue_Terrasse]
+* PartOf: OstraUfer
+* NearBy: SaechsischLandtag SemperOper ItalienischDoerfchen

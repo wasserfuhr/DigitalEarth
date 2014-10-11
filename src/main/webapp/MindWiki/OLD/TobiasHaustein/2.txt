@@ -1,0 +1,3 @@
+* IsA: UnternehmensGruender
+* HasTalked: RainerWasserfuhr JoergVossbrink
+|[XingLe:Tobias_Haustein]

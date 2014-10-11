@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Robert_Floyd]
+* BirthDay: 06-08
+* LebensEnde: 2001
+* DbLp: http://dblp.uni-trier.de/rec/pid/f/RobertFFloyd
+* PageNumber: 3
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllmann RobertFloyd

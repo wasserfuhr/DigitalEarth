@@ -1,0 +1,38 @@
+Wenn ein UnterNehmen im HandelsRegister eingetragen wird, einigen sich die ShareHolder auf folgenden VerTrag:
+
+Satzung:
+* Alle aktuellen Unterzeichner dieses Vertrages sind ShareHolder des UnterNehmen's gemäß der VerFassung von NooPolis.
+* Der VerTrag besteht aus der Satzung und sonstigen Regeln
+* Alle Regeln in diesem VerTrag sind wie bei einem NoMic-Spiel veränderbar.
+* Keine Regeländerung gilt rückwirkend.
+* Änderungen der Satzung erfordern die Zustimmung aller ShareHolder mit mehr als 1000 KayGroschen.
+* Regeländerungen gelten als von allen ShareHolder'n angenommen, wenn kein anderer Gesellschafter der Änderung binnen Veto-Frist durch editieren im Wiki widerspricht.
+* Die Veto-Frist beträgt 3 Tage. Falls ein Gesellschafter länger AbWesend ist, kann er die Frist während der Abwesenheit auf 14 Tage erhöhen.
+* Bei Meinungsverschiedenheiten kommt es zu einem MindVote unter allen ShareHolder'n. Es entscheidet dabei die einfache Mehrheit der KayGroschen.
+* Jeder ShareHolder kann auf seiner Seite im MindWiki einen Abgeordneten für seinen MindVote festlegen. Der Abgeordnete kann bei Abstimmungen mit den Stimmanteilen des Gesellschafters abstimmen.
+* Jeder Spieler hat das Recht, jederzeit aus dem Spiel auszusteigen. Der Ausstieg gilt als vollzogen, wenn der Ausstieg im Wiki editiert wurde.
+* Die Urversion des Vertrags ist das SocialBackup des MindWiki 2008xxxx mit MD5-Sum xxx.
+* Die Ur-ShareHolder unterzeichnen einen Ausdruck dieser Wikiseite mit ihrem Schweiß und Blut.
+* Dies wird das letzte und einzige Dokument des UnterNehmen's auf Papier sein.
+* Der Zweck des UnterNehmen's ist es, Gewinn zu machen und diesen an aktuelle ShareHolder auszuschütten. 
+* Geschäftsinhalt ist der Verkauf von Dienstleistungen im MindShop.
+* Jeder ShareHolder kann eine oder mehrere der folgenden Funktionen erfüllen:
+** Investor
+** Dienstleister
+** Bezieher von UnterHalt und ObDach.
+* Jeder ShareHolder kann seine Dienste des UnterNehmen's gegen KayGroschen zum Kauf anbieten. Erbrachte Leistungen werden gemäß einem vorher festzulegenden WirkSatz als KayGroschen seinem Konto gutgeschrieben.
+* Einnahmen aus dem MindShop fließen entsprechend der Anteile der KayGroschen ebenfalls am Jahresende durch Überweisung an die ShareHolder.
+* ShareHolder führen ein LeistungsKonto mit EUR und KayGroschen.
+* ShareHolder und Lieferanten erbringen MindService.
+* Jeder MindService kann entlohnt werden als
+** PayOut (einmalig)
+** MindShare (Anteile am UnterNehmen)
+* Änderungen bei KayGroschen werden im MindFloor protokolliert.
+* Die BuchHaltung merkt sich jede EinNahme und AusGabe.
+* Die AusSchuettung der Erlöse aus erbrachten Diensten erfolgt jeweils am Jahresende durch Überweisung an ein BankKonto des ShareHolder's.
+* Jeder ShareHolder versteuert seine Einnahmen selbst im Rahmen seiner jährlichen Einkommenssteuererklärung
+* Haftende ShareHolder sind NN1 (x%), NN2 (y%) und NN3...
+
+Unterzeichner: NN1, NN2, NN3...
+
+Ur-ShareHolder: NN1, NN2, ...

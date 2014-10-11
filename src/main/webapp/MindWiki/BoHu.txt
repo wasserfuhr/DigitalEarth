@@ -1,0 +1,5 @@
+* IsA: PerSon
+* SwDf: http://data.semanticweb.org/person/bo-hu
+* DbLp: http://dblp.uni-trier.de/rec/pid/04/2380
+* HomePage: http://users.ecs.soton.ac.uk/bh/
+* PagePath: LarryPage ... BoHu

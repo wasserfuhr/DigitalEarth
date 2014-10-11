@@ -1,0 +1,17 @@
+Die MindBrokerAg soll eine riesengrosse SpielWiese werden, auf es nur ganz selten eine DeadLine geben soll. Zur Zeit gibt es folgende Deadlines:
+
+||am     ||Ziel
+|20070331|SecondSalsa
+|20070331|MuevaPlan
+|20070401|MindBrokerKg Jahresabschluss 2005
+|20070406|DoThings alpha
+|20070520|MindBrokerKg Jahresabschluss 2006
+|20071231|MindBrokerAg
+|20090302|SecondLips
+|20100303|DelIq
+
+Alte DeadLines:
+||am     ||Ziel
+|20070315|Projektantrag an RaimerScherer schicken
+|20070316|Vortrag bei Ethorion
+|20070324|WikiTchen

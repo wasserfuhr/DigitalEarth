@@ -1,0 +1,20 @@
+* MindTags: FutureCard, MindPlace, ProJect
+* PreDict: Im Norden der StadtDresden wird ein mindestens 1024m hohes Gebäude stehen, dank NanoBeton.
+* UnTil: 2070
+* CardOwner: HeikeRibke
+* CardHolder: RainerWasserfuhr
+* BreitenGrad: 51.08986
+* LaengenGrad: 13.77880
+* BoundingBox: 200
+
+JeMand könnte EinfachMachen und damit anfangen, mit einer OpenSource-Alternative zu AutoCad die Entwürfe für den MindTower zu planen. UnserDesigner könnte helfen. Ausserdem die BetonBoot-erfahrenen BauIgel der TuDresden und die noch tollkühnere ZeppelinUniversity?
+
+!ErWartung: Wie WahrSchein'lich wird in welchem Jahr in der StadtDresden ein 1024 m hoher MindTower stehen?:
+||Predict'or      ||UnTil||%
+|RainerWasserfuhr |2020|6
+|DimitriUwarov    |2020|5
+|HeikeRibke       |2020|4
+
+(Hier könnte auch Deine PreDict'ion stehen... JoinNow?)
+
+Doch noch ist der MindTower ein viel zu gewagter __ZeitSprung__.

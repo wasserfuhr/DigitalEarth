@@ -1,0 +1,8 @@
+* InterWiki: [WikiPedia:Blue_Waters]
+* UnTil: 2011
+
+from EiBiEm:
+* Peak performance: 10^16 FLOPS
+* RAM: 620 TB
+
+ShaneLegg [says|http://www.vetta.org/2008/07/first-brain-scale-super-computer/]: this is as much as a HuMan MiNd.

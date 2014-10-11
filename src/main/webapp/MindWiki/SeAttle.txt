@@ -1,0 +1,3 @@
+* IsA: MindCity
+* NamedAfter: ChiefSeattle
+* PartOf: WashingtonState

@@ -1,0 +1,10 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Joachim_Niemeier]
+* BornIn: 1955
+* BirthDay: 12-27
+* DbLp: http://dblp.uni-trier.de/rec/pid/07/3635
+* PageNumber: 10
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann WolfgangBibel KlausPJantke KlausPeterFaehnrich HansJoergBullinger JoachimNiemeier
+|[XingLe:Joachim_Niemeier]
+|[TwittEr:JoachimNiemeier]
+|[FaceBook:543349038]

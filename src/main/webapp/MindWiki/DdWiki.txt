@@ -1,0 +1,5 @@
+* IsA: StadtWiki
+* HomePage: http://dresden.stadtwiki.de/wiki/Hauptseite
+* MindOne: ChristianStruebing
+* MitWirkende: IrisSchilke MatthiasErfurth ConradNutschan RainerWasserfuhr MichaelWinkler EtAl
+StadtDresden

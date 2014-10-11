@@ -1,0 +1,2 @@
+* IsA: UsState
+* InterWiki: [DeWikiPedia:Washington_(Bundesstaat)] [OpenCyc:Washington-State]

@@ -1,0 +1,8 @@
+* IsA: DiStrict
+* InterWiki: [DeWikiPedia:Connewitz]
+* MindCount: 15000
+* BoundingBox: 2500
+* PartOf: StadtLeipzig
+
+MeMo
+* 2010-02-13: RainerWasserfuhr JeMand: AgrartechnikSachsen AkiKaurismaki AnkeSevenich AlfredHerrhausen AndreasBaader AugsburgerPuppenkiste AvatarFilm BaaderMeinhofKomplexFilm BasicIncome BaumwollSpinnerei BenBecker BjoernEngholm BlackboxBrd BondParty BrunoGanz CaptainFuture ChristineWestermann ChristophWaltz ClarkGable DavidLynch EdelgardBulmahn EdgarReitz EduardZimmermann EricRohmer EugenDrewermann FickPieschen FridaKahlo FriedrichZimmermann FritzLang FutureSax GoetzAlsmann GoogleBuzz GuenterBehnisch GuentherOettinger GustafGruendgens HansOlafHenkel HeideSimonis HeinzMelkus HellaVonSinnen HelmaOrosz HenryArnold HerbertVonKarajan HochBegab IngvarKamprad JfSchlinck JimKnopf JohannesDyba JosephFrings KaisersLautern KarlAlbrecht KarlLehmann KlausKleinfeld KurtMasur LarsHinrichs LeoApotheker LeSpace LockSchuppen ManuelaAmann MarleneDietrich MoMa MontagsDemo MindLego MischaWolf NeoRauch NeuDe OpenBc OlofPalme PanTau PauloSergio PeterSchneider PetraSchuermann QuentinTarantino RainerWasserfuhrHasTalked RalfLippold RaumKompanie ReinerCalmund RogerWillemsen RudiCarrell SadoMaso SteveJobs SusiMueller TapetenWerk TheoAlbrecht ThomasKirche TwittEr UdoLattek UlrikeMeinhof UmTs WalterRiester WesterWave WestFernsehen WikiPedia WolfgangSchaeuble WolfgangTiefensee XingLe YadegarAsisi YvonneSchubert

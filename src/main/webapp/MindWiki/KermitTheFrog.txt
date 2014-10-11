@@ -1,0 +1,5 @@
+* InterWiki: [OpenCyc:Kermit-TheFrog] [WikiPedia:Kermit_the_Frog]
+
+JimHenson
+
+OpenCyc: Frog < Amphibian < Vertebrate < HumanScaleObject < PartiallyTangible < ThreeDimensionalThing < PolyDimensionalThing < PositiveDimensionalThing < SpatialThing < Individual < Thing

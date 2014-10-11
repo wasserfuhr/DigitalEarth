@@ -1,0 +1,39 @@
+* MindQuote: "We are what we RePeat'edly do" - MrAristotle
+
+DoIt RePeat'edly:
+
+WikiTable:
+||ImmerWieder||OrderedByShares||last||do     ||it
+|hour    |RainerWasserfuhr|20080922:1900|read|hourly MindFeeds
+|day     |RainerWasserfuhr|20081007|read     |daily MindFeeds
+|3 days  |RainerWasserfuhr|20081007|check    |SocialGrid-Status
+|3 days  |RainerWasserfuhr|20081006|do       |SocialBackup
+|3 days  |RainerWasserfuhr|20080922|pour     |MindGreen
+|week    |RainerWasserfuhr|20071120|sort     |TotesHolz-InBox
+|week    |RainerWasserfuhr|20080313|check    |BankAccount
+|week    |RainerWasserfuhr|20080922|review   |DoIt
+|week    |RainerWasserfuhr|20080922|read     |XingLe-Termine
+|week    |RainerWasserfuhr|20080922|check    |FaceBook
+|week    |RainerWasserfuhr|20080922|review   |ReDo
+|week    |RainerWasserfuhr|20080922|review   |WikiLender
+|week    |RainerWasserfuhr|20080922|review   |DiscussionForum
+|week    |RainerWasserfuhr|20080922|read     |weekly MindFeeds
+|week    |RainerWasserfuhr|20080922|backup   |TwittEr
+|2 weeks |RainerWasserfuhr|20071127|plan     |CashFlow
+|2 weeks |RainerWasserfuhr|20080422|order    |ReineMachFee
+|2 weeks |RainerWasserfuhr|20080911|weigh    |BodyOne
+|month   |RainerWasserfuhr|20071112|download |BankStatement NorisBank
+|month   |RainerWasserfuhr|20071206|review   |ReView
+|month   |RainerWasserfuhr|20080909|do       |UstVA
+|month   |RainerWasserfuhr|20080922|fertilize|MindGreen
+|6 weeks |RainerWasserfuhr|20080828|do       |HairCut
+|6 weeks |RainerWasserfuhr|200810??|check    |FollowPolicy
+|6 weeks |RainerWasserfuhr|20080915|backup   |DelIcioUs
+|6 weeks |RainerWasserfuhr|20080916|backup   |BlogLines
+|6 weeks |RainerWasserfuhr|20080319|backup   |MindMac
+|6 weeks |RainerWasserfuhr|20080519|refactor |DelIcioUs TagCloud
+|year    |RainerWasserfuhr|20080101|calculate|LebensErwartung
+|year    |RainerWasserfuhr|20080330|do       |JahresAbschluss
+|-| | | |
+|month   |HeikeRibke      |20080814|do       |SocialBackup
+|month   |HeikeRibke      |20080921|check    |BegruessungsGeld-payments

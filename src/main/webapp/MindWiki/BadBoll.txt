@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Bad_Boll]
+* BoundingBox: 3000
+* MindCount: 5000

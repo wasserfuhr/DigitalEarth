@@ -1,0 +1,5 @@
+* IsA: NobelPrizeLaureate ProFessor
+* InterWiki: [DeWikiPedia:Jody_Williams]
+* BornIn: 1950
+* BirthDay: 10-09
+* ViAf: http://viaf.org/viaf/68644319

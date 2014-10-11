@@ -1,0 +1,3 @@
+* Maler eines MindPoster's.
+* JahrGang: 1902
+* LebensEnde: 1968

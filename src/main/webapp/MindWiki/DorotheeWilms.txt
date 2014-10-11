@@ -1,0 +1,7 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Dorothee_Wilms]
+* BornIn: 1929
+* BirthDay: 10-11
+* DbLp: http://dblp.uni-trier.de/rec/pid/01/6474
+* PageNumber: InFinite
+* ParteiWiki: CduWiki

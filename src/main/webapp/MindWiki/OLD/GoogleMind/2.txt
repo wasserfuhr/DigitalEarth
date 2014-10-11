@@ -1,0 +1,7 @@
+* MindLine: 2030
+
+Like GoogleEarth, but for zooming down into your own brain.
+
+With GoogleMind, you can see the activities of your [WikiPedia:Cortical_column]s.
+
+With GoogleMindPro you can see and edit the activities of single neurons and change the synaptic connections.

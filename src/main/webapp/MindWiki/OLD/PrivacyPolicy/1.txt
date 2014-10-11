@@ -1,0 +1,9 @@
+(inspired by http://www.langreiter.com/space/privacy-policy)
+
+All activity on the site mindbroker.de and each of it's subdomains is being logged; based on apache httpd log files.
+
+JkLogStampFormat "[%a %b %d %H:%M:%S %Y] "
+
+Currently these log files are not further analyzed, but based on these log files, CitiZens with a RootPassword to our SocialGrid can see or infer what city you come from, what ISP you're using, often even what company you are working for, what you're looking at, the coolness factor of your soft- and hardware equipment, why you came here &c. Here and on the wider Internet, consider yourself watched, because that's what you are—on more levels than you may realize.
+
+We don't sell or share any personally identifiable data with third parties (or any data, for that matter).

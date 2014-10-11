@@ -1,0 +1,3 @@
+* Elektronen: Bits
+* Atome: Buchstaben
+* Moleküle: CamelCase

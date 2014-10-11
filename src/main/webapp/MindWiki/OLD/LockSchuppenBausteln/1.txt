@@ -1,0 +1,5 @@
+* IsA: EventSeries
+
+wir treffen uns im LockOffice und bausteln gemeinsam RealLife-LockSchuppen3D-BuildingModel's, zB mit KnetMasse TotHolz StyroPor oder LeGo.
+
+Ausserdem CadHackDay

@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* JahrGang: 1973
+* BirthDay: 11-22
+* MindSkill: MindGene
+
+[http://www.gopubmed.org/GoMeshPubMed/search?q=7060721%5Bprofile%5D]

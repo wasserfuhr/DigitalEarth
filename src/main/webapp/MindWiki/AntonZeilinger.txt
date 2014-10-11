@@ -1,0 +1,10 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Anton_Zeilinger] [LangReiter:Anton+Zeilinger]
+* JahrGang: 1945
+* BirthDay: 05-20
+* DbLp: http://dblp.uni-trier.de/rec/pid/73/352
+* PageNumber: 7
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman RobertFloyd RonRivest StefanWolf RenatoRenner AntonZeilinger
+* HomePage: http://www.quantum.at/zeilinger
+* MindBlog: http://quantinger.blogspot.com/
+* MindSkill: QuantenLehrer

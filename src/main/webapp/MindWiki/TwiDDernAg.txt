@@ -1,0 +1,8 @@
+* IsA: EnterPrise
+* MindOne: AlexanderFriedland
+* MindShares: 1000
+
+||Shares||ShareHolder
+|649|AlexanderFriedland
+|251|LockSchuppenAg
+|100|SoerenRogoll

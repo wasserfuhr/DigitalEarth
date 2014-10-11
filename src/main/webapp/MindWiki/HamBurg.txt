@@ -1,0 +1,8 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Hamburg]
+* BreitenGrad: 53.4857
+* LaengenGrad: 10.0125
+* BoundingBox: 10000
+* MindCount: 1500000
+
+LarsHinrichs: Asiatisch: Man Wah, Reeperbahn Italiener: Poletto Suhsi: WA-YO (nippon Hotel) Deluxe: Le Canard Mittags City: Casse Croute Fusion: East Sonntags Brunch: Lühmann in Blankenese Thai: Sala Thai, Hafencity Orient: Saliba Indisch: Shikara Karibik: Roatan Very Different and you won't find it in NYC: 1) Dialog im Dunkeln 2) Ti Breizh 3) Rodizio [*|https://www.xing.com/opensocial/canvas;app=4;view-params={"qId":"19465"}]

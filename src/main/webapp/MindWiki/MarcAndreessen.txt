@@ -1,0 +1,6 @@
+* IsA: UnternehmensGruender
+* InterWiki: [LangReiter:Marc+Andreessen] [WebSeitz:MarcAndreessen] [WikiPedia:Marc_Andreessen]
+* BornIn: 1971
+* BirthDay: 07-09
+
+|[TwittEr:pmarca] ?

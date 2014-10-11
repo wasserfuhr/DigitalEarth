@@ -1,0 +1,7 @@
+* IsA: PerSon
+* SwDf: http://data.semanticweb.org/person/ansgar-bernardi
+* DbLp: http://dblp.uni-trier.de/rec/pid/66/6401
+* HomePage: http://www.dfki.uni-kl.de/~bernardi/
+* MindSkill: SemanticWeb
+* PageNumber: 5
+* PagePath: LarryPage ... AndreasAbecker AnsgarBernardi

@@ -1,0 +1,12 @@
+* InterWiki: [MeatballWiki:RealName], [WikiWikiWeb:RealName]
+
+Bei folgenden SocialNetwork's akzeptiert RainerWasserfuhr nur Kontaktanfragen mit überprüfbaren RealName'n:
+* FaceBook
+* FoAf
+* LinkedIn
+* XingLe
+
+Nicht dagegen:
+* FlickEr
+* DelIcioUs
+* TwittEr

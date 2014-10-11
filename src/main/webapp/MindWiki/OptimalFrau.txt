@@ -1,0 +1,5 @@
+BeuteSchema für den TransparentMan. Maschinenlesbar zur ActionGraph-Berechnung mittels StriPs.
+
+Optimierungsparameter: GuteGespraeche, MindDuft, WildeOrgien
+
+DieLiebe PolyTreu

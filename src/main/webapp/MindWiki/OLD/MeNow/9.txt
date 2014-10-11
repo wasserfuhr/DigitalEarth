@@ -1,0 +1,13 @@
+TwittEr goes SemanticWeb:
+
+http://schema.menow.org/
+
+WikiTable:
+||No             ||MindPeople    ||MindVerb||
+|20080908:1723MESZ|RainerWasserfuhr|talking|mit ChristienSchlinck on Festnetz
+|20080908:1545MESZ|RainerWasserfuhr|walking|across the AlbertPlatz and feeling like "Autos schossen aus schmalen, tiefen Strassen in die Seichtigkeit heller Plätze"
+|20080908:1224MESZ|RainerWasserfuhr|being|DresdenZwinger
+|20080908:0822MESZ|RainerWasserfuhr|happy|about a tweet from JaneMcGonigal
+|20080907:1624MESZ|RainerWasserfuhr| |very excited about DasExperiment
+|20080907:1110MESZ|RainerWasserfuhr| |mitten im normalen leben, fühle mich irgendwie wie auf dem OberSalzberg
+|20080220:1732MEZ |RainerWasserfuhr|isEating|MaggiFlaedleSuppe

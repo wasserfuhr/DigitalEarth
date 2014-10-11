@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/n/StefanNaher
+* HomePage: 
+* PageNumber: 
+* PagePath: LarryPage ... StefanNaeher

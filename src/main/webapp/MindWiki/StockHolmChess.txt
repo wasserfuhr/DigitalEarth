@@ -1,0 +1,3 @@
+* MindTags: NooChess
+
+A realworld game of chess for StockHolm.

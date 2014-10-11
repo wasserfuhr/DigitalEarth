@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+
+TotalRecall: Themen eines Gespräches, das an diesem Ort geführt wurde:
+SecondLife, RepRap, CitiZens, MindShop.

@@ -1,0 +1,19 @@
+http://grid.mindbroker.de/
+
+LIVE auf EcZwo.
+
+Anlegen eines neuen HostUser:
+{{{
+export NEWUSER=...
+useradd -m $NEWUSER
+su $NEWUSER
+cd
+mkdir tmp
+export JAVA_HOME=/usr/local/java/jdk1.7.0
+export PATH=$PATH:$JAVA_HOME/bin
+export DEPLOYER_VERSION=0.2
+wget http://mvnrepo.mindbroker.de/mvnrepo/de/mindbroker/deploy/$DEPLOYER_VERSION/deploy-$DEPLOYER_VERSION-jar-with-dependencies.jar
+nohup java -Djava.io.tmpdir="$PWD/tmp" -jar deploy-$DEPLOYER_VERSION-jar-with-dependencies.jar > nohup.log &
+tail -f nohup.log
+exit
+}}}

@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Rodney_A._Brooks]
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/RodneyABrooks
+* HomePage: http://people.csail.mit.edu/brooks/
+* PageNumber: 13
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge BarneyPell MichaelGenesereth JayTenenbaum AlanKay DanIngalls RobertHirschfeld GuySteele RodneyBrooks
+* MindSkill: ArTelligence

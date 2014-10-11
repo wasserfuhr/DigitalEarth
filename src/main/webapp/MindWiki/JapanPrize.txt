@@ -1,0 +1,30 @@
+* IsA: MindAward
+* InterWiki: [DeWikiPedia:Japan-Preis]
+
+RedBlueGame:
+* 2010: ShunIchiIwasaki PeterVitousek
+* 2009: DennisMeadows DavidEKuhl
+* 2008: VintCerf RobertEKahn VictorAMcKusick
+* 2007: AlbertFert PeterGruenberg PeterShawAshton
+* 2006: JohnTHoughton AkiraEndM
+* 2005: MakotoNagao MasatoshiTakeichi ErkkiRuoslahti
+* 2004: KenichiHonda AkiraFujishima KeithJSainsbury JohnHLawton
+* 2003: BenoitMandelbrot JamesYorke SeijiOgawa
+* 2002: TimBl AnneMcLaren AndrzejKTarkowski
+* 2001: JohnBGoodenough TimothyRParsons
+* 2000: IanLMcHarg KimishigeIshizaka
+* 1999: WWesleyPeterson JackLStrominger DonCregWiley
+* 1998: LeoEsaki JozefSchell MarcCEVanMontagu
+* 1997: TakashiSugimura BruceAmes JosephFEngelberger HiroyukiYoshikawa
+* 1996: CharlesKKao MasaoItM
+* 1995: NickHolonyak EdwardFKnipling
+* 1994: WilliamHaywardPickering ArvidCarlsson
+* 1993: FrankPress KaryMullis
+* 1992: GerhardErtl ErnestJohnChristopherPolge
+* 1991: JacquesLouisLions JohnJulianWild
+* 1990: MarvinMinsky WilliamJasonMorgan DanMcKenzie XavierLePichon
+* 1989: FrankSherwoodRowland EliasJamesCoreyJr
+* 1988: GeorgesVendryes DonaldHenderson IsaoArita FrankFenner LucMontagnier RobertCharlesGallo
+* 1987: HenryBeachell GurdevSKhush TheodoreMaiman
+* 1986: DavidTurnbull WillemKolff
+* 1985: JohnRPierce EphraimKatzir

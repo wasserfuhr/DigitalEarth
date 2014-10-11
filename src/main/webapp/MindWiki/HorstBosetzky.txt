@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* BornIn: 1938
+* BirthDay: 02-01
+* HomePage: http://www.horstbosetzky.de/

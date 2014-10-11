@@ -1,0 +1,6 @@
+* MindLine: 20080501
+Geheimprojekt für HagenStanek. 100 Aktien.
+
+Per MindVote wird entschieden ob er sie bekommt.
+
+Der SourceCode muss im SVN eingecheckt sein und Roblets müssen pomifiziert sein.

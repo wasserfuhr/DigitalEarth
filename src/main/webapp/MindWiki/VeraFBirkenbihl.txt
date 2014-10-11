@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Vera_Felicitas_Birkenbihl]
+* JahrGang: 1946
+* BirthDay: 04-26
+* ViAf: http://viaf.org/viaf/45389021
+|[TwittEr:VeraFBirkenbihl]

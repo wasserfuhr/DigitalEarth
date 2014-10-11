@@ -1,0 +1,3 @@
+* MindTags: ProFessor
+* InterWiki: [WikiPedia:Richard_Jozsa]
+* MindSkill: QuantPuter

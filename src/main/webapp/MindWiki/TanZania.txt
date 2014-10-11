@@ -1,0 +1,3 @@
+* EtymoLogia: Blend of Tanganyika and Zanzibar + ia
+* EtymoLogiaSource: http://en.wiktionary.org/wiki/Tanzania
+* IsA: NationState

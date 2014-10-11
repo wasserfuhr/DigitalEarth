@@ -1,0 +1,5 @@
+* IsA: MindPlace
+* InspiredBy: RohwerKnochen
+* NamedAfter: RainerWasserfuhr
+
+NuernbergerPlatz - AlbertPlatz

@@ -1,0 +1,1 @@
+ClosedWorldAssumption applied to SocialGraph with SocialNetworkPolicy

@@ -1,0 +1,1 @@
+IchBin ein riesiges NeuralNetwork, dass in seine UmWelt ausstrahlt, und sie Stück für Stück mit dem SingularVirus infiziert.

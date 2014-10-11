@@ -1,0 +1,42 @@
+* IsA: HochSchule
+* HomePage: http://singularacademy.appspot.com/
+|[TwittEr:singularay]
+
+At the SingularAcademy you can learn to understand AcceleratingChange and to apply it's consequences to your life.
+
+The SingularAcademy is a joint ProJect started by RalfLippold and RainerWasserfuhr under the umbrella of the LockSchuppenAg for bringing the ConCept of TheSingularity to EurOpa.
+
+The curriculum is broken down to CourseWare with 5-minute units of networked ScreenR ScreenCast's.
+
+A ScientificCommittee will ReView the ScreenCast's and assign different amounts of KayGroschen for each ScreenCast.
+
+BrainStorm:
+
+Candidates for ScientificCommittee:
+|ProFessor|AlexanderWendt
+|ProFessor|AugustWilhelmScheer
+|ProFessor|DirkBaecker
+|ProFessor|DirkRiehle
+|ProFessor|GunterDueck
+|ProFessor|JeanPolMartin
+|ProFessor|KlausLandfried
+|ProFessor|MartinGaedke
+|ProFessor|PeterFuchs
+|ProFessor|PeterKruse
+|ProFessor|RalphSonntag
+|Dr       |RicoPetrick
+|Dr       |RoswithaHunold
+|ProFessor|WolfgangBibel
+|ProFessor|ZigaTurk
+
+Candidates as ManagingDirector's:
+* BastiHirsch
+* DavidOrban
+* RainerWasserfuhr
+* RalfLippold
+
+ToDo/NextAction's:
+* ask people to JoinNow as ScientificCommittee or ManagingDirector's.
+
+Done:
+* requested and approved 2 718 281 KayGroschen from the GovernmentBudget of NooPolis (InspiredBy the EulerNumber)

@@ -1,0 +1,17 @@
+!DRAFT: ReFraming NooPolis als MetaAg:
+
+Leitideen von IntraBroker:
+* Völlige TransParenz aller Unternehmensbereiche
+** wir setzen nur OpenSource-Software ein
+** Alle Kunden- und Lieferantenbeziehungen sind einsehbar
+* Grundlegende Vereinfachung der RechtsForm und aktiven Mitarbeiter-Beteiligung durch eine VirtuelleOekonomie
+* Gesellschafter, Mitarbeiter und Kunden bilden auf Basis einer VerFassung eine virtuelle Republik nach den Grundsätzen der SelbstOrganisation und der BuergerBeteiligung
+** WikiBasiert'er Gesellschafter-VerTrag
+* Das gesamte UnterNehmen ist BootStrap-fähig
+
+||2007||2008||2009||2010
+|ReVenue
+|InVest
+|CommitMent
+|PayOut
+|MindShare

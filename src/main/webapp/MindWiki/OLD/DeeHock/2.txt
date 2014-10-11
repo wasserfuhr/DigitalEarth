@@ -1,0 +1,2 @@
+* ist UnternehmensGruender
+* JahrGang: 1930

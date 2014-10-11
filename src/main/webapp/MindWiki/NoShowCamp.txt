@@ -1,0 +1,12 @@
+* MindTags: MindEvent
+
+Ein BarCamp-artiges MindEvent, bei dem man in der StadtDresden zusammenkommt.
+Wir plaudern über Wikis, NooPolis, UnitedNations ZwoNull, KayGroschen, DresdenChess und die PieschenBank.
+
+!Ort:    WirkZentrum
+!Beginn: 2008
+!Dauer:  ca. 3h
+
+!Interessenten:
+* RainerWasserfuhr
+* FrankLorenz

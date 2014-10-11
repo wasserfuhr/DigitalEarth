@@ -1,0 +1,9 @@
+* MindTags: WikiMind
+* InterWiki: [WikiPedia:Joi_Ito]
+* JahrGang: 1966
+* BirthDay: 06-19
+||AusLand
+|[WorldWideWeb:joi.ito.com]
+|[TwittEr:Joi]
+|[FlickEr:joi]
+|[DelIcioUs:joi_ito]

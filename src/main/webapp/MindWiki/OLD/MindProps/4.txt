@@ -1,0 +1,13 @@
+Denn "es ist eine Welt von Eigenschaften ohne Mann entstanden, von Erlebnissen ohne den, der sie erlebt."
+
+Eigenschaften, die auf den Profilseiten von BuergerInnen als Aufzählung angegeben werden können:
+* JahrGang
+* LebensErwartung
+* LebensEnde
+* WohnSitz
+** LangenGrad
+* AusLand
+** TwittEr
+*** profile_image_url
+* MindPlaces
+** BreitenGrad

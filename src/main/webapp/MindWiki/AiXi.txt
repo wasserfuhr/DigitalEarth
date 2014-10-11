@@ -1,0 +1,6 @@
+* HomePage: http://www.hutter1.net/ai/aixigentle.htm
+
+ArtificialIntelligence , [DeWikiPedia:Xi]
+
+a_t^* = \arg\max\limits_{a_t}\sum\limits_{o_t r_t} \dots \max\limits_{a_{t+m}}\sum\limits_{o_{t+m} r_{t+m}}[r_t + \dots + r_{t+m}]
+\sum\limits_{q:U(q,a_1...a_{t+m})=o_1 r_1 ... o_{t+m}r_{t+m}}2^{-\ell(q)}.

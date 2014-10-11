@@ -1,0 +1,33 @@
+* MindTags: EnterPrise
+* MindOne: RalfLippold
+* WikiAngel: RainerWasserfuhr
+
+The LockSchuppenAg is a TransParent VirtualEnterprise to plan, build and operate the LockSchuppen.
+
+''Die LockSchuppenAg ist ein TransParent'es VirtuellesUnternehmen zur Planung, zum Bau und zum Betrieb des LockSchuppen's.''
+
+The LockSchuppenAg has 1.000.000 Shares. Earnings from revenue of the LockSchuppen in the future will be distributed among ShareHolder's according to this WikiTable:
+
+''Die LockSchuppenAg hat 1.000.000 Shares. Jeder GeWinn aus UmSatz (zb EinTritt oder MietAnfrage) verteilt sich in der ZuKunft gemäss dieser WikiTable:''
+
+[{Image src='http://bank.mindbroker.de/googlePie?stock=12'}]
+
+||Shares||ShareHolder
+|671.000|RalfLippold
+|279.800|RainerWasserfuhr
+| 21.000|MarkusStamm
+|  7.000|ChristianHeller
+|  6.000|PeterHerbst
+|  5.200|ChristineSchlinck
+|  3.000|SimonKoeppl
+|  2.000|CorneliaHeinz
+|  2.000|RicoLieberwirth
+|  1.000|JanKreuter
+|  1.000|JoelKaczmarek
+|  1.000|NorbertRost
+
+Shares are publicly traded in the __OrderBook__.
+
+''Shares werden öffentlich im __OrderBuch__ gehandelt''
+
+Successful orders and other transfers of LockShare's are documented on the MindFloor.

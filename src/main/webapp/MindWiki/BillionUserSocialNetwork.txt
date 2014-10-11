@@ -1,0 +1,9 @@
+* IsA: FutureCard
+* PreDict: The first SocialNetwork will exist with at least 1.073.741.824 MonthlyActiveUsers
+* FutureNumber: 30
+* UnTil: 20??
+* CardOwner: ?
+
+||            ||UnTil
+|MarcoDziallas|20xx?
+|RalfLippold  |2020

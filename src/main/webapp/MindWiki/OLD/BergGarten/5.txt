@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* MindCount: 1.5
+
+TotalRecall:
+* 20090122:1900: ChristineSchlinck, RainerWasserfuhr: DanielCraig, KindchenSchema
+* 20080928: ChristineSchlinck, RainerWasserfuhr: HerbstUndWeinfest, LoewenJagd, WerKenntHeidi, TheMatrix, ZingeRasimo, BioMind, SimulationArgument, FutureMap, DoIt, GeniusAtWork, DirkHilbert, WolkeNeun, MgmGrand, SeaBlue, FaceBase

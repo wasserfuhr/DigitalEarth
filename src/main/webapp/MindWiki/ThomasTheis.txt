@@ -1,0 +1,4 @@
+* IsA: PerSon
+* HomePage: http://www.theisweb.de/
+* MindSkill: MySql
+|[XingLe:Thomas_Theis4]

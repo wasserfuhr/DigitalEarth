@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Altmarkt], [DeWikiPedia:Altmarkt_(Dresden)]
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/9824066

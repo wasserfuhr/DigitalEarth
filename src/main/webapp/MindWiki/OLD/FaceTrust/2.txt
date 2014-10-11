@@ -1,0 +1,5 @@
+RainerWasserfuhr garantiert, dass es sich bei jedem seiner FaceBook-Kontakte am 15.10.2007 01:45 MESZ um echte und eindeutige Personen handelt.
+
+Diese Garantie kann für die weitere Zukunft allerdings nur unter Einschränkung gegeben werden, da FaceBook
+ weder OpenSource noch über hinreichend TransParent'e OpenInfrastructure noch über SocialPasswords verfügt.
+Ganz zu schweigen von HttPs.

@@ -1,0 +1,12 @@
+* JahrGang: 1943
+* WohnSitz: GrueterichEins
+* EheVertrag: mit WernerWasserfuhr
+* EheRinge: AbWw
+* XingId: 8540657
+* XingPate: RainerWasserfuhr
+* MindPate: RainerWasserfuhr
+
+LexAgnes: Jedesmal, wenn AgnesWasserfuhr den Vornamen von RicardaDHerbrand falsch ausspricht, bekommt RainerWasserfuhr einen RehRuecken gebacken.
+
+||AusLand
+|[XingLe:Agnes_Wasserfuhr]

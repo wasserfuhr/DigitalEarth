@@ -1,0 +1,15 @@
+* MindTags: MindPeople
+* WohnSitz: StadtDresden
+* CurrentProjects: GuteFragen
+* MindFaves: BookMooch
+* MindSkill: AchtSam, FlickEr, GettingThingsDone, NoMic
+* HomePage: http://www.roell.net/
+* MindBlog: http://gutefragen.de/
+||AusLand
+|[TwittEr:martinroell]
+|[DelIcioUs:martinroell]
+
+HotTopics für zukünftige konversationale MindMusic zwischen RainerWasserfuhr, MartinRoell EtAl, in EiscafeVenezia, PlanWirtschaft, CafeSaite &co:
+* TrueLife, WoZu, GuteFragen, SpaceCast, DigitalTwin, PredictionMarket, RedBlueGame, MindReader,
+GemischtesDoppel, TotalRecall, PuffCafe, DingAnSich, KeineWerbungGesetz, SocialBackup,
+NoMic, ClosedWorld, DatenSchutz, HolyData, GettingThingsDone, SemanticWeb, ZwingeRasimo, EnErgie, DerAugenblick

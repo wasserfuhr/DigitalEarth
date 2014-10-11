@@ -1,0 +1,31 @@
+[Registrierung]
+*Benutzername - name
+*Email - email
+*Passwort - password
+
+PersönlicheDaten
+*Bild - profileImage
+*Vorname - firstName
+*Nachname - lastName
+*Geschlecht - sex
+*Geburtsdatum - yearOfBirth
+*Land - country
+*Stadt - city
+*Postleitzahl - postalCode
+*Straße - street
+*Geburtsort - birthplace
+*Handynummer - mobileNumber
+*Größe - size
+*Gewicht - weight
+*Beruf - job
+
+[SportDaten]
+*Sportarten - sports
+*Trikot-Lieblingsnummer - tricotNumber
+*Bisherige sportliche Kariere - sportsCareer
+*lieblings Manschaften - favoriteClubs
+*lieblings Ligen - favoriteLeagues
+*lieblings Sportler - favoriteAthlete
+*lieblings Sportfilme - favoriteSportsMovie
+
+

@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+
+hat es geschafft, WipperFuerth in korrekter Schreibung und Umlaut, (allerdings mit UniCode-Fehler in der InterNet-Ausgabe) in die NewYorkTimes zu bringen:
+http://www.nytimes.com/2003/06/22/magazine/the-marketing-of-no-marketing.html?pagewanted=2

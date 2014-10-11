@@ -1,0 +1,5 @@
+* IsA: FutureCard
+* PreDict: JeMand wird im OrpheumDresden ein HoloDeck für RainerWasserfuhr halten
+* UnTil: 2039
+
+TuringTest

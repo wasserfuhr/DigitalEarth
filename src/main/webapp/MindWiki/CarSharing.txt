@@ -1,0 +1,11 @@
+Die erste WikiBasiert'e CarSharing-Community auf PlanetErde?:
+
+||InHaber          ||MindCar  ||Shared *)
+|ChristineSchlinck |SÜW-ZW 768|?
+
+* *) BuergerInnen können den MindKey beim Inhaber abholen und das MindCar nutzen.
+Kosten pro km: 100 KayGroschen.
+
+Jede Fahrt könnte dann hier protokolliert werden:
+||InHaber          ||MindCar  ||km von||km bis||Ziel
+|RainerWasserfuhr  |DD-RW 285 |154590|154596|AnJa

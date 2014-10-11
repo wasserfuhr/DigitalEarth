@@ -1,0 +1,12 @@
+Knapp 1 Jahr nach dem IpoKurs haben die ShareHolder von XingLe nur noch wenig Fantasie in ihr InVest.
+
+MindBroker ReSearch hat daher eine CrowdWisdom-Studie in Auftrag gegeben zur Konzeption von NewXing:
+
+Erste Ergebnisse:
+* Eine fast repräsentative Studie unter den FamousFifteen von RainerWasserfuhr (und vor allem den WikiWeiber'n) ergab: XingLe muss nicht nur unter der Hand, sondern völlig offiziell in DatingMatrix. BusinessKasper sind eh mega-out.
+* Xing wird OpenId Provider.
+* Der SourceCode von Xing wird OpenSource.
+* Es gibt ein WebOfTrust mit PatenLand für IngridaPlunksnyte. (Hint for LarsHinrichs: Ticket#2007042110001224)
+* Die Moderatoren von Gruppen können gewählt und abgewählt werden.
+* Es gibt endlich eine vernünftge MindApi-konforme Schnittstelle
+* Last but not least: CamelCase-konforme Umfirmierung in XiNg : XingLe NextGeneration

@@ -1,0 +1,4 @@
+* MindTags: MindThing
+* IstEin: Heissluftballon
+* Farbe: Blau-Weiss
+* AircraftRegistration: D-OPAC

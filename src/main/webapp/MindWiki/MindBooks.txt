@@ -1,0 +1,13 @@
+Idee von OliverGassner:
+
+* thema wählen
+* ausgewählte blogs nach OptIn fragen
+* yahoo pipe bauen, die x blogs auf dieses stichwort filtert
+* rss generieren (140 zeichen)
+* twitterkanal zu thema
+* via loudtwitter den twitterkanal auf ein Blog abbilden
+* im Blog einen deutschsprachigen und einen englischsprachgen amazon-store verbinden
+* jeden tag oder jede woche zu einem anderen neuen thema so ne konstruktion bauen
+* die blogs untereinander vernetzen, so dass immer 2 auf 2 andere zeigen
+
+wenn man teile von oben selbst baut, kann man sich ne menge accounteinrichterei sparen

@@ -1,0 +1,17 @@
+ProjectCodeName für alle Dinge die MindBroker in SecondLife machen wird.
+
+Erste Projektideen:
+* SecondDresden: Wichtige Gebäude der StadtDresden nachbauen.
+
+ChiefSecondLifeOfficer (C2O) wird OliverGassner und ChristineSchlinck seine Privatsekretärin.
+
+Vorläufige Domain für diesbezügliche Websachen: http://second.mindbroker.de/
+
+Ab sofort 500 EUR für folgende Aufgabe:
+* finde eine SL-Parzelle, auf der man das WirkZentrum im Massstab 1:1 nachbauen kann.
+* baue den Grundriss von [hier|http://websvn.mindbroker.de/fileContent.jsp?url=de.mindbroker.home%2Ftrunk%2Fsrc%2Fmain%2Fwebapp%2Fflat.gif] nehmen und als Wohnung  
+
+
+
+
+[{Image src='http://websvn.mindbroker.de/fileData.jsp?url=de.mindbroker.home%2Ftrunk%2Fsrc%2Fmain%2Fwebapp%2Fflat.gif&crev=819'}]

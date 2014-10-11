@@ -1,0 +1,8 @@
+* MindTags: ReView
+
+Wette von RainerWasserfuhr mit ChristineSchlinck:
+Spätestens am 3.3.2010 wird es eine Website geben, auf der man den URL seines DelIcioUs-Accounts eingeben kann.
+Wenn der Nutzer des Accounts mehr als 1.000 Bookmarks hat, generiert diese Website eine Hypothese über den [DeWikiPedia:IQ] des
+Nutzers. In 75% aller Fälle darf das Ergebnis um nicht mehr als 20% vom IQ des Nutzers abweichen.
+
+Das Ergebnis lässt sich durch eine Studie einer etablierten Forschungseinrichtung validieren.

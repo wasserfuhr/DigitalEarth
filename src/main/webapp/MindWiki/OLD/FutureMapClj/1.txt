@@ -1,0 +1,20 @@
+;
+;
+;{{{
+
+((defn futuremap [] 
+       (handle "futuremap"
+        (fn []
+       	 (str
+       	  "<table>"
+ 	  (apply str 
+	   (map
+	     (fn [x]
+	       (str
+	         "<tr>"
+	         (apply str (map (fn [y] (str "<td>20" x y "</td>")) (range 10)))
+                 "</tr>")) 
+	     (range 10)))
+	  "</table>") ) "" )
+   )))
+;}}}

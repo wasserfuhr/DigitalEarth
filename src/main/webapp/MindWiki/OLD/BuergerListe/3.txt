@@ -1,0 +1,4 @@
+||Bürger||Trustee 1||Trustee 2
+|RainerWasserfuhr| |
+|YvonneSchubert|RainerWasserfuhr|
+|AndreasWeigel|RainerWasserfuhr|

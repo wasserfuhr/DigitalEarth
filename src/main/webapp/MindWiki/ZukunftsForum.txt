@@ -1,0 +1,10 @@
+* IsA: EventSeries
+* HomePage: http://www.dresdner-zukunftsforum.de/
+* MindBlog: http://www.dresdner-zukunftsforum.de/blog/
+* OperatedBy: TSystemsMms
+|[TwittEr:DresdenFuture]
+
+* 2010-06-10: RayKurzweil TimBl YadegarAsisi
+* 2008-06-05: DonTapscott WolfgangWahlster YadegarAsisi RangaYogeshwar
+* 2006-11-16: TimOReilly RichardScase JaronLanier
+* 2005-06-10: StephanSchambach PeterGlotz MichelleDeLussanet EberhardBurger

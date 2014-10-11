@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/t/WalterFTichy
+* HomePage: http://wwwipd.ira.uka.de/~tichy/
+* PageNumber: 
+* PagePath: LarryPage ... PeterLockemann WalterFTichy

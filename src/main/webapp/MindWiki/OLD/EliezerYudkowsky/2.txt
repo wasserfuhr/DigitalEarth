@@ -1,0 +1,5 @@
+* MindTags: SingularityMind
+* InterWiki: [WikiPedia:Eliezer_Yudkowsky]
+* JahrGang: 1979
+* HomePage: http://yudkowsky.net/
+* MindQuote: "Our sole responsibility is to produce something smarter than we are; any problems beyond that are not ours [to solve|http://sysopmind.com/singularity.html]".

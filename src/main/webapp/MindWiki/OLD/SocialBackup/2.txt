@@ -1,0 +1,6 @@
+Ein Backup des gesamten AgWiki:
+
+20070603:1904: http://ag.mindbroker.de/mind.zip
+
+||MindBroker||letzter Download
+|RainerWasserfuhr|20070403:1902

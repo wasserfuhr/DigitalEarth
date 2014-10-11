@@ -1,0 +1,6 @@
+* IsA: PerSon
+* BornIn: 1957
+* HomePage: http://www.openclassic.de/
+* MindSkill: MindMusic
+* MindFaves: BeethovensSiebte
+* HasTalked: RainerWasserfuhr MarcusBertelsmeier

@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0651
+* LaengenGrad: 13.7561
+* BoundingBox: 30
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/67354286

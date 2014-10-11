@@ -1,0 +1,23 @@
+* InterWiki: [WebSeitz:SocialObject]
+
+Schöne Kurzform für ObjectCenteredSociality (http://www.zengestrom.com/blog/2005/04/why_some_social.html ) aus http://www.agenturblog.de/2007-10/portable-social-networks-meetup/.
+
+Wenn man SocialSoftware baut, sollte man darauf achten, dass die Interaktionen der Nutzer sich um "Dinge" zentrieren:
+
+* FlickEr: Fotos, Tags
+* XingLe: Kontakte
+* DelIcioUs: Bookmarks, Tags
+etc.
+
+||SocialObject||FaceBook||XingLe||SkyPe||DoppLr||FlickEr||DelIcioUs||TwittEr
+|Contact      |x      |x        |x     |x      |x       |x         |x
+|MindGroup    |x      |x        |x     |       |x       |          |
+|Message      |x      |x        |x     |       |x       |x         |x
+|Tag          |       |         |      |       |x       |x         |
+|Fave         |       |x        |      |       |x       |          |x
+|Photos       |x      |x        |      |       |x       |          |
+|Bookmark     |x      |x        |      |       |        |x         |
+|Call         |       |         |x     |       |        |          |
+|Trips        |       |         |      |x      |        |          |
+
+In NooPolis werden dies WahrSchein'lich: KayGroschen und MindWiki-Seiten.

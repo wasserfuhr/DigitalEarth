@@ -1,0 +1,8 @@
+||MindBroker   ||von||bis||Rest
+|YvonneSchubert|-|-|9
+|YvonneSchubert|20070928|-|8
+|YvonneSchubert|20071001|-|7
+|YvonneSchubert|20071228|-|6
+|YvonneSchubert|20071231|-|5
+||||
+|YvonneSchubert|20080102|-|20

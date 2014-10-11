@@ -1,0 +1,6 @@
+
+Beim AusserboerslicherHandel per Limit-Order-Verfahren werden Orders erst ausgeführt, 
+
+wenn der Kurs die vom Anleger angegebene Ober- oder Untergrenze (Limit) 
+
+über- oder unterschreitet.

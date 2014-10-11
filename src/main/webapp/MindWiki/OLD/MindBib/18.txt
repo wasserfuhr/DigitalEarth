@@ -1,0 +1,24 @@
+||Authors                              ||Date    ||Type   ||Title
+|JoergLonthoff,ErichOrtner,Seeanner,Wolf|2007|inProceedings|Mobile Hunters - Reloaded (Poster)
+|Ralf Heese, Sven Herschel, FelixNaumann, Armin Roth|2005|inProceedings|Self-Extending Peer Data Management
+|KurzWeil            |2005|book|The Singularity Is Near
+|VladislavCapek, Daniel P. Sheehan|2005|book|Challenges to The Second Law of Thermodynamics
+|EricEvans           |2004|book|Domain-Driven Design
+|Heinemann,ErichOrtner,Sternhuber|2004|inProceedings|Sprachbasierte Wissensrekonstruktion am Beispiel des Einkommensteuergesetzes.
+|AlexanderWendt      |2003|inProceedings|Why a World State is Inevitable: Teleology and the Logic of Anarchy.
+|RainerWasserfuhr,RaimarScherer|200006|inProceedings|Distributed Management of Co-operative Design Processes
+|RainerWasserfuhr,YvonneSchubert|199909|talk|aware-net.de: Dynamic terminological spaces for personal and cooperative knowledge management
+|RainerWasserfuhr,RaimarScherer|199908|inProceedings|Towards Role Based Management of Cooperative Design Processes
+|RaimarScherer,RainerWasserfuhr,PeterKatranuschkov, DirkHamann,RobertAmor,MattiHannus,ZigaTurk|199709|inProceedings|A Concurrent Engineering IT Environment for the Building Construction Industry
+|RainerWasserfuhr|199810|inProceedings|Shared Process Models for Distributed Co-operative Engineering
+|RainerWasserfuhr|199809|inProceedings|Integrierte IT-Environments für die kooperative Planung im Bauprozeß
+|ZigaTurk,RainerWasserfuhr, PeterKatranuschkov,RobertAmor, MattiHannus,RaimarScherer|199706|inProceedings|Conceptual Modelling of a Concurrent Engineering Environment
+|RainerWasserfuhr,RaimarScherer|199702|inProceedings|Information Management in the Concurrent Design Process
+|Terhorst,GregorKampwerth,Niehuis,Benninghoven|1992|article|Sputtered neutrals mass spectrometry of organic molecules using multiphoton postionization
+|TomStonier             |1991|book|Information und die innere Struktur des Universums
+|RobertKowalski         |1974|inProceedings|Predicate Logic as Programming Language.
+|ClaudeShannon          |1948|article|A Mathematical Theory of Communication. 
+|FriedrichNietzsche     |1882|book|Die fröhliche Wissenschaft
+|GottfriedWilhelmLeibniz|1714|book|Monadologie
+|Descartes              |1641|book|Meditationes de prima philosophia
+|Descartes              |1637|book|Discours de la méthode

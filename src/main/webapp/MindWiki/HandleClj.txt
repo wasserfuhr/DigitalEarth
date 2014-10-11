@@ -1,0 +1,34 @@
+;
+;
+;{{{
+
+(do
+ ;for MindBase keys:
+ (defn getTimestamp [next] ;; as java.util.Date
+   (new java.util.Date
+    (- (Long/MAX_VALUE)
+      "TODO" ;(org.apache.hadoop.hbase.util.Bytes/toLong (.getRow next))
+      ))
+ )
+ ;for MindBase keys:
+ (defn dateOfNow [] ;; as byte[]
+   "TODO" ;(org.apache.hadoop.hbase.util.Bytes/toBytes (- (Long/MAX_VALUE) (.getTime (new java.util.Date))))
+   )
+ 
+ (defn camelify [camels]
+  (apply str
+   (map
+    (fn [keyword]
+     (str "<a href='http://mindbroker.de/wiki/" (.trim keyword) "'>" (.trim keyword) "</a> "))
+      (seq 
+       (.split
+        camels
+        ",")))))))
+
+;  (if
+ ;   (.startsWith (.getPathInfo request) (str "/do/" name))
+  ;    (do
+   ;     (controller)
+    ;    (.sendRedirect response (str "/" name "?message=created"))))
+    )
+;}}}

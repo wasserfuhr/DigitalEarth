@@ -1,0 +1,2 @@
+* MindTags: MindPeople
+* FoAf: http://www.advogato.org/person/miguel/foaf.rdf

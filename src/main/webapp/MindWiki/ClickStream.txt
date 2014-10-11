@@ -1,0 +1,9 @@
+* MindTags: GedankenSpiel ReView
+* InterWiki: [WikiPedia:Clickstream]
+
+FireFox-PlugIn schreiben, das den ClickStream loggen und publishen kann.
+
+Think [WikiPedia:APML].
+
+BlackList pflegen, wo aus DatenSchutz-Gründen nicht geloggt werden kann (DatingMatrix, XingLe etc?).
+Diese Sites mehr und mehr AbSchalten.

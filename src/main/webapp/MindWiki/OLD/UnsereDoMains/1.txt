@@ -1,0 +1,30 @@
+Spot sollte schöne URLs haben.
+
+Vorbilder:
+flickr:
+* http://www.flickr.com/photos/rainerw
+* http://www.flickr.com/photos/rainerw/tags
+* http://www.flickr.com/photos/rainerw/tags/dresden
+* http://www.flickr.com/photos/tags/burjdubai
+* http://www.flickr.com/cameras/
+* http://www.flickr.com/cameras/nikon
+* http://www.flickr.com/cameras/nikon/coolpix_s10
+
+
+Entwurf für spot:
+* http://spoooort.de/clubs
+* http://spoooort.de/clubs/create
+* http://spoooort.de/clubs/123
+* http://spoooort.de/clubs/123/member
+* http://spoooort.de/clubs/123/teams
+* http://spoooort.de/clubs/123/teams/456
+* http://spoooort.de/profile/rainer
+* http://spoooort.de/profile/rainer/edit
+* http://spoooort.de/profile/rainer/events
+* http://spoooort.de/profile/rainer/gallery
+* http://spoooort.de/profile/rainer/messages
+* http://spoooort.de/profile/rainer/fans
+* http://spoooort.de/imprint
+* http://spoooort.de/sitemap
+* http://spoooort.de/join
+* http://spoooort.de/privacy

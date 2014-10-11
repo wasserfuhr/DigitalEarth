@@ -1,0 +1,17 @@
+* MindLine: 2020
+
+A ForeSight scenario from MindBroker ReSearch:
+
+A TransparentSociety with a SemanticWeb based SupplyChain connecting customers and suppliers.
+
+Example:
+
+||year||Customer          ||bugdet  ||supplier  ||product
+|2008|happy first OpenConsult-customer|10000 EuRo|RainerWasserfuhr|OpenConsult
+|2008|RainerWasserfuhr    | 1000 EuRo|MindPlus  |food errands
+|2008|RainerWasserfuhr    | 1000 EuRo|ARAL      |gas
+|2008|RainerWasserfuhr    | 1000 EuRo|MindWings |MindMove
+|2008|RainerWasserfuhr    | 6000 EuRo|MindHome  |rental
+|2008|RainerWasserfuhr    |  500 EuRo|AppleInc  |MindPhone
+|2009|RainerWasserfuhr    | 2000 EuRo|AppleInc  |MindMac
+|2012|RainerWasserfuhr    | 2000 EuRo|AppleInc  |MindMac

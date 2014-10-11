@@ -1,0 +1,20 @@
+ProjectCodeName für Dinge die MindBroker in SecondLife machen wird.
+
+
+ChiefSecondLifeOfficer (C2O) wird OliverGassner und ChristineSchlinck seine Privatsekretärin.
+
+Vorläufige Domain für diesbezügliche Websachen: http://second.mindbroker.de/
+
+UnserBudget hat ab sofort 500 EUR für SecondWirkZentrum:
+* finde eine SL-Parzelle, auf der man das WirkZentrum im Massstab 1:1 nachbauen kann.
+* baue den Grundriss von [hier|http://websvn.mindbroker.de/fileContent.jsp?url=de.mindbroker.home%2Ftrunk%2Fsrc%2Fmain%2Fwebapp%2Fflat.gif] nehmen und als Wohnung  
+* baue im Stil von [Madurodam|http://nl.wikipedia.org/wiki/Madurodam] auf dem IpoParkett im Wohnzimmer des Wirkzentrum wichtige Gebäude der StadtDresden im Massstab 1:500 nach (Vorbild: [Echtzeit-US-Wetterkarte|http://www.flickr.com/photos/rainerw/283860982/]:
+** FrauenKirche
+** SemperOper
+** Zwinger
+** WaldSchloesschenBruecke
+** BlauesWunder
+** GruenesWunder
+** MindTower
+
+[{Image src='http://websvn.mindbroker.de/fileData.jsp?url=de.mindbroker.home%2Ftrunk%2Fsrc%2Fmain%2Fwebapp%2Fflat.gif&crev=819'}]

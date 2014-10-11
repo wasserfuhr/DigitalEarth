@@ -1,0 +1,8 @@
+* JahrGang: 1896
+* LebensEnde: 1980
+
+Konzepte: Objektpermanenz, Entwicklungsstufen hin zu logisch-formalem Denken.
+
+
+||AusLand
+|[DeWikiPedia:Jean_Piaget]

@@ -1,0 +1,4 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Günther_Oettinger]
+* BirthDay: 10-15
+* ParteiWiki: CduWiki

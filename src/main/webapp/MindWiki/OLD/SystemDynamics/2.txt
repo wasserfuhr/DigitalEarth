@@ -1,0 +1,2 @@
+* InterWiki: [WikiPedia:System_dynamics]
+* [WikiSD|http://systemdynamics.org/wiki]

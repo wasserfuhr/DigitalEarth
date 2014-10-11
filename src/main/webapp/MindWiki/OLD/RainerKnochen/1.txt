@@ -1,0 +1,4 @@
+* IsA: MindPlace
+* InspiredBy: RohwerKnochen
+
+NuernbergerPlatz - AlbertPlatz

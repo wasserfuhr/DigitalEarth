@@ -1,0 +1,13 @@
+||MindBroker     ||MindMe||Available||Sleeping||Busy
+|RainerWasserfuhr|       |          |         | x
+||Gesamt         | 0     | 0        | 0       | 1
+
+
+MindVote: Wo sollen MindBroker ihre StatusMessage posten?
+
+* Skype
+* Twitter
+* Jabber
+* AgWiki
+
+???

@@ -1,0 +1,9 @@
+* IsA: ProFessor
+* MindQuote: "Es gibt kein richtiges Leben im Falschen."
+* InterWiki: [DeWikiPedia:Theodor_W._Adorno]
+* BornIn: 1903
+* BirthDay: 09-11
+* DiedIn: 1969
+* MindSkill: MindMusic
+* MindFaves: PolyTreu
+* ViAf: http://viaf.org/viaf/95247377

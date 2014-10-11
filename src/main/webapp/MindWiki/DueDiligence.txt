@@ -1,0 +1,24 @@
+* InterWiki: [WikiPedia:Due_diligence]
+
+||ComPare      ||MindBroker      ||ProtoWerb       ||LockSchuppenAg  ||FamilienFreund ||CreoSphere
+|Since         |2007             |20080805         |20090324         |20090519        |20100103
+|MindOne       |RainerWasserfuhr |JoergKeller      |RalfLippold      |JanaSchlegel    |MarcoDziallas
+|WikiAngel     |RainerWasserfuhr |RainerWasserfuhr |RainerWasserfuhr |                |RainerWasserfuhr
+|SpinOff of    |MindBrokerKg     |QiMonda          |-                |FamilienFreundKg|
+|MitWirkende   |1-2              |3-4              |3-4              |2               |2
+|EigenKapital  |1 Mio KayGroschen|1000 EuRo        |1 Mio KayGroschen|200000 KayGroschen|-
+|BusinessModel |SoftWare         |GeHeim           |LockSchuppen     |                |
+|KapitalBedarf |0                |1 Mio EuRo       |2-3 Mio EuRo     |                |?
+|ShareHolder   |9                |5                |11               |2               |2
+|VerTrag       |x                |bald?            |x                |x               |x
+|BusinessPlan  |WikiBasiert      |MsWord           |WikiBasiert      |soon?           |?
+|InitialPublicOffering|? KayGroschen|1 KayGroschen |1 KayGroschen    |1 KayGroschen   |soon
+|TwittEr       |[TwittEr:mindbroker]|-             |[TwittEr:LockSchuppen]|[TwittEr:familienfreund]|?
+|Public SkypeChat|MindChat       |-                |LockChat         |-    |LockChat 
+|FaceBookGroup |[FaceBookGroup:4065199285]|[FaceBookGroup:56955301655]|[FaceBookGroup:73285988115]|
+|FaceBookGroup#|48               |6                |62               |         |
+|FlickR        |-                |[FlickEr:ralflippold]|-            |[FlickEr:familienfreund]|
+|TimeSheet     |x                |x                |-                |-        |
+|WirkSatz      |x                |x                |-                |-        |
+|StartUpWiki   |MindWiki         |x, GeHeim        |MindWiki         |MindWiki |MindWiki
+|SprachWelt    |LangDe           |LangDe           |LangEn           |LangDe   |?

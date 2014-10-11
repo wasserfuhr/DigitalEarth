@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Andreas_Papandreou]
+* BornIn: 1919
+* BirthDay: 02-05
+* ViAf: http://viaf.org/viaf/36956756

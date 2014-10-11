@@ -1,0 +1,73 @@
+The MindFloor is the virtual trading platform for shares of EnterPrise's and PredictionMarket's in NooPolis:
+
+!Transfer of MindShare's between ShareHolder's
+||On          ||EnterPrise   ||Shares||Price||from          ||to              ||Comment
+|20090429:1800|LockSchuppenAg|   1.0 |   0|RainerWasserfuhr |NorbertRost      |PayOut: 20.00 EuRo
+|20090429:1229|LockSchuppenAg|  16.0 | 512|RalfLippold      |RainerWasserfuhr |Trade
+|20090428:1540|ProtoWerb     |   1.0 |   0|RainerWasserfuhr |JoergKeller      |PayOut: 1.00 EuRo
+|20090428:1540|ProtoWerb     |   1.0 |   0|RainerWasserfuhr |JoergKeller      |PayOut: 0.20 EuRo
+|20090428:1340|LockSchuppenAg|   1.0 |   0|RainerWasserfuhr |RalfLippold      |PayOut: 10 EuRo
+|20090423:1001|LockSchuppenAg|   4.0 | 512|RalfLippold      |ChristineSchlinck|Trade
+|20090422:2227|LockSchuppenAg|  10.0 | 512|RalfLippold      |RainerWasserfuhr |Trade
+|20090422:2227|LockSchuppenAg|   1.0 | 512|RalfLippold      |SimonKoeppl      |Trade
+|20090422:1606|LockSchuppenAg|   1.0 | 512[1]|RainerWasserfuhr |RicoLieberwirth  |Trade
+|20090422:1606|LockSchuppenAg|   1.0 | 256[1]|RainerWasserfuhr |RicoLieberwirth  |Trade
+|20090418:1935|LockSchuppenAg|   1.0 | 128[1]|RalfLippold      |CorneliaHeinz    |Trade
+|20090418:1935|LockSchuppenAg|   1.0 | 128[1]|RainerWasserfuhr |CorneliaHeinz    |Trade
+|20090418:0258|LockSchuppenAg|   1.0 |  64|RainerWasserfuhr |ChristianHeller  |Trade
+|20090418:0258|LockSchuppenAg|   1.0 |  32|RainerWasserfuhr |ChristianHeller  |Trade
+|20090418:0258|LockSchuppenAg|   1.0 |  16|RainerWasserfuhr |ChristianHeller  |Trade
+|20090418:0258|LockSchuppenAg|   1.0 |   8|RainerWasserfuhr |ChristianHeller  |Trade
+|20090418:0258|LockSchuppenAg|   1.0 |   4|RainerWasserfuhr |ChristianHeller  |Trade
+|20090418:0258|LockSchuppenAg|   1.0 |   2|RainerWasserfuhr |ChristianHeller  |Trade
+|20090418:0258|LockSchuppenAg|   1.0 |   1|RainerWasserfuhr |ChristianHeller  |Trade
+|20090417:2348|LockSchuppenAg| 200.0 |   0|RalfLippold |RainerWasserfuhr |WikiAngel zur Visionsumsetzung von LockSchuppen
+|20080519:1945|MindBroker    |   0.4 |   0|RainerWasserfuhr |DanielPoodratchi |geschenkte Aufrundung auf ganze Shares 
+|20080519:1945|MindBroker    |   0.06|   0|RainerWasserfuhr |YvonneSchubert   |geschenkte Aufrundung auf ganze Shares 
+|20080519:1945|MindBroker    |   0.08|   0|RainerWasserfuhr |AndreasWeigel    |geschenkte Aufrundung auf ganze Shares 
+|20080519:1945|MindBroker    |   0.42|   0|RainerWasserfuhr |RicardaDHerbrand |geschenkte Aufrundung auf ganze Shares 
+|20080519:1945|MindBroker    |   0.6 |   0|RainerWasserfuhr |DimitriUwarov    |geschenkte Aufrundung auf ganze Shares 
+|20080519:1945|MindBroker|   0.8 |0|RainerWasserfuhr |JensFreydank     |geschenkte Aufrundung auf ganze Shares 
+|20080101:2247|MindBroker|  39.9 |0|OliverGassner    |RainerWasserfuhr |PayOut
+|20071231:0428|MindBroker|  50.0 |0|RainerWasserfuhr |CemBasman        |DankeSchoen für MindPost
+|20071030:0317|MindBroker|  30.0 |0|AndreasWeigel    |RainerWasserfuhr |Anteilsanpassung an aktuelles CommitMent
+|200710xx     |MindBroker| 100.0 |0|DanielPoodratchi |RainerWasserfuhr |Anteilsanpassung wegen PayOut
+|200709xx     |MindBroker|  10.0 |0|OliverGassner    |RainerWasserfuhr |Anteilsanpassung wegen PayOut
+|20070811:0445|MindBroker|  10.0 |0|DanielPoodratchi |RainerWasserfuhr |Anteilsanpassung an aktuelles CommitMent
+|20070806:0521|MindBroker|  10.0 |0|YvonneSchubert   |RainerWasserfuhr |Anpassung für DoIt und ImmerWieder
+|20070525:0955|MindBroker|   0.2 |0|RainerWasserfuhr |DimitriUwarov    |WarrenBuffett
+|20070501:0000|MindBroker|   0.4 |0|RainerWasserfuhr |RicardaDHerbrand |SalsaNonnen
+|20070429:2135|MindBroker|   0.2 |0|RainerWasserfuhr |JensFreydank     |Geschenk
+|20070419     |MindBroker|   0.2 |0|RainerWasserfuhr |DimitriUwarov    |Geschenk
+|20070417     |MindBroker|   0.02|0|RicardaDHerbrand |TimBonnemann     |wünscht sich Tim mal live beim Webmontag in Jena ;)
+|20070416     |MindBroker|   0.22|0|ChristineSchlinck|RainerWasserfuhr |Geschenk für ApoPhaenie
+|20070414     |MindBroker|   1.3 |0|RainerWasserfuhr |TimBonnemann     |Geschenk für langmonatige Verdienste als Mister WebMontag ;)
+|20070414     |MindBroker|   0.4 |0|DanielPoodratchi |TimBonnemann     |Geschenk
+|20070414     |MindBroker|   0.1 |0|AndreasWeigel    |TimBonnemann     |Geschenk
+|20070414     |MindBroker|   0.1 |0|OliverGassner    |TimBonnemann     |Geschenk
+|20070414     |MindBroker|   0.06|0|YvonneSchubert   |TimBonnemann     |Geschenk
+|20070414     |MindBroker|   0.02|0|ChristineSchlinck|TimBonnemann     |Geschenk
+|20070401     |MindBroker|   0.2 |0|RainerWasserfuhr |ChristineSchlinck|Englischkurs
+|20070401     |MindBroker|   0.2 |0|RainerWasserfuhr |RicardaDHerbrand |Einführung in MindTueftel
+|200703xx     |MindBroker|  20.0 |0|RainerWasserfuhr |AndreasWeigel    |Schnellboot-Hacking am SportPortal
+|200702xx     |MindBroker|  30.0 |0|RainerWasserfuhr |YvonneSchubert   |Erfindung des SecondFloor
+|20070208     |MindBroker|   0.02|0|RainerWasserfuhr |AndreasWeigel    |FirstTrade
+|200702xx     |MindBroker|   0.04|0|RainerWasserfuhr |ChristineSchlinck|Geschenk für SuendenMund
+|200702xx     |MindBroker|  50.0 |0|RainerWasserfuhr |OliverGassner    |Geschenk für Gewinn des D-Quest
+|20061231     |MindBroker|  30.0 |0|RainerWasserfuhr |AndreasWeigel    |Schnellboot-Hacking am SportPortal
+|20061231     |MindBroker| 190.0 |0|RainerWasserfuhr |DanielPoodratchi |Schnellboot-Hacking am SportPortal
+
+[#1]Pending: PieschenBank payments for shares:
+* CorneliaHeinz (http://twitter.com/staerkenfinden/status/1552023913) 
+* RicoLieberwirth (ordered via SkyPe chat):
+||ShareHolder     ||Geld-Stück||Kurs[1]||Brief-Stück||Buyer
+|RainerWasserfuhr |           | 512|1|RicoLieberwirth
+|RainerWasserfuhr |           | 256|1|RicoLieberwirth
+|RainerWasserfuhr |           | 128|1|CorneliaHeinz
+|RalfLippold      |           | 128|1|CorneliaHeinz
+
+!Pending Transfer of Shares from ShareHolder's to not-yet-CitiZens:
+|20070430:1200|MindBroker|   0.5 |2|RainerWasserfuhr |WernerWasserfuhr |Lead-InVest'or
+|20070430:1200|MindBroker|   0.5 |2|RainerWasserfuhr |AgnesWasserfuhr  |Lead-InVest'or
+
+soon: http://bank.mindbroker.de/markets

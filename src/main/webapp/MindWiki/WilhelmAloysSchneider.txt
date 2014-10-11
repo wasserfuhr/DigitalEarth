@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* JahrGang: 1915
+* BirthDay: 05-24
+* PapaZwoNull: JohannFriedrichSchneider

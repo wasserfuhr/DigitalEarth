@@ -1,0 +1,17 @@
+||BuergerInnen     ||bieten EuRo||für KayGroschen
+|RainerWasserfuhr  |18.00|1000
+|RainerWasserfuhr  |15.00|1000
+|RainerWasserfuhr  |12.00|1000
+|RainerWasserfuhr  |10.00|1000
+
+Der Tausch könnte bald per Auktions-WebApp über http://bank.mindbroker.de/ erfolgen.
+
+!Andere WechselKurs'e:
+||EuRo||UsDollar||RMB||LindenDollar||
+|    1|     1.53|10.9|    410
+
+Bald?:
+* HerrDerSterne-Credits
+* FriendsForSale-Dollar
+* FaceDollar?
+* XingTaler?

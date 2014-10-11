@@ -1,0 +1,16 @@
+||Mind            ||Wann        ||Bis ||Status||Wo||Nach||GeFaehrt||Was||km/h
+|JeMand, JeMand   |20090516     |     |       |TenErIfe|CGN|
+|JeMand, JeMand   |20090502     |     |       |CGN|TenErIfe|
+|RainerWasserfuhr |20071123:2145|:2320|       |CGN|LIS|TP6524
+|RainerWasserfuhr |20071123:2145|:2320|       |FNC|LIS|TP6524
+|RainerWasserfuhr |20071114:1905|:2045|       |LIS|FNC|TP6523
+|RainerWasserfuhr |20071114:0955|:1145|       |STR|LIS|4U2604
+|RainerWasserfuhr |20070408:0610|:0755|       |HHN|CIA|FR 4102, DY34CT| |
+|RainerWasserfuhr |20070407:1200|:1800|       |DresdenNeustadt|WipperFuerth|HH-QI 7062
+|RainerWasserfuhr |20070407:0825|:0930|ignored|DRS|CGN|4U 27,DZ9N3L| |
+|OliverGassner    |20070324:1030|0325:1045|       |Jena|BuchMesseLeipzig|EuropCar280170982| |
+|ChristineSchlinck|20070313:1811|:2257|       |FrankfurtAirport|DresdenNeustadt|[ICE 1645|http://reiseauskunft.bahn.de/bin/zuginfo.exe/dn/764181/365353/102434/203510/80/ld=212.60]
+|ChristineSchlinck|20070307     |     |       |FRA|Valetta
+|DanielPoodratchi |20070306     |     |       |STR|DRS| |800
+|AndreasWeigel    |20070306     |     |       |STR|DRS| |800
+|RainerWasserfuhr |20070306:1036|:1045|       |WirkZentrum|WirkZentrum|Füsse|Einmal um den Blog|

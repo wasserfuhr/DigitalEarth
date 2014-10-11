@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Cory_Doctorow]
+* BornIn: 1971
+* BirthDay: 07-19
+|[TwittEr:doctorow]

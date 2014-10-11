@@ -1,0 +1,10 @@
+* InvitedBy: RainerWasserfuhr
+* TrustLevel: 1
+* WohnSitz: HamBurg
+* MindRole: ChiefSalsaOfficer
+* ViAf: http://viaf.org/viaf/80416580
+||AusLand
+|[WorldWideWeb:www.worteinheiten.de]
+|[FaceBook:777753775]
+|[XingLe:RicardaD_Herbrand]
+|[DoppLr:RDH]

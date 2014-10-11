@@ -1,0 +1,7 @@
+Alle BuergerInnen von NooPolis haben eine Glaeserne InBox:
+Auf der UserPage im MindWiki (zB »RainerWasserfuhr«) einfach am Ende eine AnFrage hinterlassen.
+Nachdem der User seine InBox gecheckt hat, sollte er seine MindProps »LastInBoxCheck« entsprechend setzen, zB:
+
+{{{
+* LastInBoxCheck: 20081231
+}}}

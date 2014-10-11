@@ -1,0 +1,6 @@
+* InterWiki: [DeWikiPedia:Gödelnummer], [WikiWikiWeb:GoedelNumbering]
+* NamedAfter: KurtGoedel
+
+angeregt durch http://twitter.com/plomlompom/statuses/959018405:
+
+Nicht nur die tweets von @bengoertzel, sondern jedes tweet hat eine GoedelNumber, die mit SicherHeit unter 65536^140 liegt...und dass deren verteilungsfunktion steigt ist mindestens so sicher wie TheSingularity

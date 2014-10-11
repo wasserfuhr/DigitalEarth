@@ -1,0 +1,31 @@
+;
+;
+;{{{
+
+((defn repl []
+  (handle "repl"
+   (fn [request response]
+    (str "you: " sessionWikiName
+     "<a href='http://mindbroker.de/wiki/RePl'>RePl</a>:<br/><br/>"
+     (if (and 
+          (.equals "eval" (.getParameter request "eval"))
+          (or
+            (.equals "84.179.126.164" (.getRemoteAddr request)) ;TODO make more secure
+            (.equals "RainerWasserfuhr" (.getAttribute (.getSession request) "WikiName"))))
+        (eval (read-string (.getParameter request "expression")))
+        "<p style='font-variant:small-caps; color:red'>Sorry, you have no permissions, please JoinNow</p>"
+     )
+     "<form action='" (.getPathInfo request) "' method='post'>
+       <textarea name='expression' rows='15' cols='75'>" 
+         (str "" (.getParameter request "expression")) 
+       "</textarea>
+       <input type='submit' name='eval' value='eval'/>
+      </form>"
+     "<table>"
+     " <tr><th>on</th><th>by</th><th>expression</th></tr>"
+     " <tr>"
+     "  <td valign='top'></td>"
+     " </tr>"
+     "</table>")
+   ) ""))))
+;}}}

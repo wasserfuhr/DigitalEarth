@@ -1,0 +1,2 @@
+MindBroker entwickelt grundsätzlich nur OpenSource-Software mit Java.
+Denn damit kennen sich die MindBroker am besten aus.

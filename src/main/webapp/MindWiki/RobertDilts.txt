@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Robert_Dilts]
+* BirthDay: 03-21
+* MindSkill: NeuroLinguisticProgramming

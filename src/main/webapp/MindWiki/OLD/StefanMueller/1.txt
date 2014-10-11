@@ -1,0 +1,2 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/07/6012

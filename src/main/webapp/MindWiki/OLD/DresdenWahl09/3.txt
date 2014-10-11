@@ -1,0 +1,154 @@
+Wahlkreis 1: Mitte
+Wahlkreis 2: Plauen
+Wahlkreis 3: NeuStadt
+Wahlkreis 4: OrtsteilPieschen
+Wahlkreis 5: Nord
+Wahlkreis 6: Elbhang
+Wahlkreis 7: Striesen
+Wahlkreis 8: TolkeWitz
+Wahlkreis 9: OrtsteilLeuben
+Wahlkreis 10: Prohlis
+Wahlkreis 11: Zschertnitz
+Wahlkreis 12: Cotta
+Wahlkreis 13: Löbtau- Süd, Gorbitz, Dölzschen/Naußlitz
+
+Kandidaten für den StadtRat der StadtDresden 2009:
+
+||WahlKreis||ParteiWiki||Platz||PerSon||Title
+|3|GruenWiki | |AchimWesjohann
+|3|GruenWiki | |AndreaSchubert
+| |CduWiki   | |AngelaMalberg
+| |CduWiki   | |AnkeWagner
+| |CduWiki   | |ChristaMueller
+|3|GruenWiki | |ChristianBahnsen
+| |CduWiki   | |IngoFlemming
+|3|GruenWiki | |JensHoffsommer
+| |CduWiki   | |LarsKluger
+|3|GruenWiki | |MarcoJoneleit
+|3|GruenWiki | |MichaelTon
+| |CduWiki   | |PatrickSchreiber
+| |CduWiki   | |StefanZinkler
+| |CduWiki   | |SteffenKaden
+|3|GruenWiki | |SusanneLerm
+|3|GruenWiki | |TorstenIsrael
+|3|GruenWiki | |TorstenSchulze
+|1|SpdWiki   |1|AxelBergmann
+|1|SpdWiki   |2|FranziskaWende
+|1|SpdWiki   |3|MichaelBrade
+|1|SpdWiki   |4|HelgaSkell
+|1|SpdWiki   |5|JohannesDietze
+|1|SpdWiki   |6|HenrietteWinkler
+|1|SpdWiki   |7|SvenHouska
+|1|SpdWiki   |8|JennySeyffarth
+|1|SpdWiki   |9|ThiloSchoene
+|2|SpdWiki   |1|WilmHeinrich
+|2|SpdWiki   |2|AnjaReck
+|2|SpdWiki   |3|AndreasErnst
+|2|SpdWiki   |4|IngridBuckram
+|2|SpdWiki   |5|MatthiasKetzer
+|2|SpdWiki   |6|HeikeWieghardt
+|2|SpdWiki   |7|HaraldBaumannHasske
+|2|SpdWiki   |8|ChristineFuhrmann
+|2|SpdWiki   |9|WilhelmGoller
+|3|SpdWiki   |1|SabineFriedel
+|3|SpdWiki   |2|SwenSteinberg
+|3|SpdWiki   |3|HeikeFranke
+|3|SpdWiki   |4|MichaelHerrmann
+|3|SpdWiki   |5|MelanieGiebel
+|3|SpdWiki   |6|ManfredBauer
+|3|SpdWiki   |7|KarinLuttmann
+|3|SpdWiki   |8|VincentDrews
+|3|SpdWiki   |9|FrankWiesner
+|4|SpdWiki   |1|RichardKaniewski
+|4|SpdWiki   |2|KatherinaSchubarth
+|4|SpdWiki   |3|RonaldLohse
+|4|SpdWiki   |4|AnjaHeller
+|4|SpdWiki   |5|ManuelHentschel
+|4|SpdWiki   |6|RenateWeber
+|4|SpdWiki   |7|GottfriedRabe
+|4|SpdWiki   |8|RainerDannenberg
+|4|SpdWiki   |9|ThomasFrueh
+|5|SpdWiki   |1|MathiasAntonioli|Dr. Dr.
+|5|SpdWiki   |2|UrsulaRoitsch
+|5|SpdWiki   |3|RuedigerRyssel
+|5|SpdWiki   |4|VolkmarSpringer
+|5|SpdWiki   |5|PeterVolkmer|Dr.
+|5|SpdWiki   |6|StefanKowanda
+|5|SpdWiki   |7|HansChristophGaitzsch|Dr.
+|5|SpdWiki   |8|ErnstSchreiber
+|5|SpdWiki   |9|JohannesKlosowski|Dr.
+|6|SpdWiki   |1|PeterLames|Dr.
+|6|SpdWiki   |2|RenateJaeger
+|6|SpdWiki   |3|AndreBerthold
+|6|SpdWiki   |4|OttoRuedigerWenzel
+|6|SpdWiki   |5|WernerKrause
+|6|SpdWiki   |6|MichaelSturm
+|6|SpdWiki   |7|UweDetemple
+|6|SpdWiki   |8|MargitSchlarp
+|6|SpdWiki   |9|MatthiasKrogoll
+|7|SpdWiki   |1|MartinBertram
+|7|SpdWiki   |2|KarlNolle
+|7|SpdWiki   |3|ChristianBoesl
+|7|SpdWiki   |4|AnnettMoebius
+|7|SpdWiki   |5|BenjaminKuemmig
+|7|SpdWiki   |6|UtaHoffmann
+|7|SpdWiki   |7|MatthiasVoigt
+|7|SpdWiki   |8|AlbrechtWolf
+|7|SpdWiki   |9|MatthiasRudolph
+|8|SpdWiki   |1|ThomasBluemel
+|8|SpdWiki   |2|AlexanderZieschang
+|8|SpdWiki   |3|ChristlNolle
+|8|SpdWiki   |4|MichaelPrenzel
+|8|SpdWiki   |5|LeaMock
+|8|SpdWiki   |6|DirkWieghardt
+|8|SpdWiki   |7|AlexandraKruse
+|8|SpdWiki   |8|DorisHoffmeister
+|9|SpdWiki   |1|KlausDeubel|Dr.
+|9|SpdWiki   |2|ReneZscheischler
+|9|SpdWiki   |3|ReneVits
+|9|SpdWiki   |4|AnnKathrinBiewener
+|9|SpdWiki   |5|GunterEggert
+|9|SpdWiki   |6|SilvioZimmermann
+|9|SpdWiki   |7|MartinSchwan|Dr.
+|9|SpdWiki   |8|JacquelinAnettKuenzel
+|9|SpdWiki   |9|FriedrichWilhelmJung
+|10|SpdWiki   |1|InesVogel
+|10|SpdWiki   |2|UwePetersen
+|10|SpdWiki   |3|MargotLoesch
+|10|SpdWiki   |4|MichaelJakisch
+|10|SpdWiki   |5|DanielaWange
+|10|SpdWiki   |6|WilliEisele
+|10|SpdWiki   |7|Kristinmann
+|10|SpdWiki   |8|SebastianGross
+|10|SpdWiki   |9|KatjaGrosse
+|11|SpdWiki   |1|AlbrechtPallas
+|11|SpdWiki   |2|MarlenHupke
+|11|SpdWiki   |3|HilmarGuenther|Dr.
+|11|SpdWiki   |4|DanaFrohwieser
+|11|SpdWiki   |5|UdoBroll|Dr.
+|11|SpdWiki   |6|EberhardLoesch
+|11|SpdWiki   |7|MarcelSauerbier
+|11|SpdWiki   |8|ErikZimmermann
+|11|SpdWiki   |9|FrederikRudolph
+|12|SpdWiki   |1|PeterBartels
+|12|SpdWiki   |2|UweTischer
+|12|SpdWiki   |3|RuedigerTrost
+|12|SpdWiki   |4|KatharinaHaas
+|12|SpdWiki   |5|JoachimBreternitz
+|12|SpdWiki   |6|HansJoergSchmidt|Dr.
+|12|SpdWiki   |7|StefanFrass
+|12|SpdWiki   |8|AndreasLippold|Dr.
+|12|SpdWiki   |9|EckbertMueller
+|13|SpdWiki   |1|EkkehardtMueller
+|13|SpdWiki   |2|PeterMay
+|13|SpdWiki   |3|KarinTrost
+|13|SpdWiki   |4|RobertSchmock
+|13|SpdWiki   |5|RudolfPaar
+|13|SpdWiki   |6|Klausschraepler
+|13|SpdWiki   |7|CorinnaKoehler
+|13|SpdWiki   |8|BirgitMueller
+|13|SpdWiki   |9|JoergZaumseil
+EtAl
+
+RedBlueGame-PageMatch out of all 730 candidates:
+AchimPochert NorbertRost SabineFriedel MarioKretzschmar PeterLames JohannesLichdi JosefSchneider2 JuliaBonk MichaelSchmelich ThoralfGebel JohannesLohmeyer KarlNolle JensBemme WilmHeinrich

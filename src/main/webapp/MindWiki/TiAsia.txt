@@ -1,0 +1,4 @@
+* MindTags: MindShip
+* InterWiki: [DeWikiPedia:TI_Asia]
+* BoundingBox: 380
+* MmSi: 205412000

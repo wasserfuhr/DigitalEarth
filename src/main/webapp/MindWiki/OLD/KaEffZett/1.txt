@@ -1,0 +1,4 @@
+||KaEffZett||am     ||Fahrer/Halter
+|DD-RW 285 |        |RainerWasserfuhr
+|HH-QI 7062|200704xx|RainerWasserfuhr
+|K-TX 733  |        |KarinWasserfuhr

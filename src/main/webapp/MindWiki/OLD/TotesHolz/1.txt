@@ -1,0 +1,7 @@
+DoIt: YvonneSchubert dokumentiert hier mal schön welche Streams es im WirkZentrum alle gibt:
+
+||Owner          ||Stream
+|RainerWasserfuhr|Tagebuch
+|MindBrokerKg    |Postbank-Auszüge
+|MindBrokerKg    |Postbank-Kreditkarte
+|MindBrokerKg    |Visitenkarten

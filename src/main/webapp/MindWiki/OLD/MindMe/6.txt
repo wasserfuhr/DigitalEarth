@@ -1,0 +1,16 @@
+Bald http://me.mindbroker.de
+
+Jeder Mensch und jedes UnterNehmen benötigen nicht nur eine MindId, sondern auch ein LifeWiki.
+
+Sozusagen IntraBroker 2.0:
+* PageMatch: Findet andere Nutzer mit gleichen Wiki-Seitennamen.
+* OpenNess: OpenSource, SocialBackup.
+* PREMIUM: 
+** Eigene Sub-Domain, z. B. http://yvonne.mindbroker.de
+** Eigene Domain, z. B. http://yvonneschubert.com
+
+Kandidaten für erste Test-MiNds:
+* ChristineSchlinck
+* UteMoritz
+* YvonneSchubert
+* HeikeRibke

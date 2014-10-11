@@ -1,0 +1,6 @@
+The SingularityIsNear
+
+* MindQuote: "It's wild" - JebBush
+
+||Reader         ||on     ||from||to
+|RainerWasserfuhr|20090613|0    |44

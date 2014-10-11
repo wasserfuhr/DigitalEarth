@@ -1,0 +1,13 @@
+# JahrGang: 1971
+# BirthDay: 10-11
+# WohnSitz: StriSen
+
+# TimeZone: CEST
+# SprachWelt: de, en-1, und AugenSprache
+# MindBrowser: FireFox, SRWareIron, Ie8
+
+
+* InvitedBy: RainerWasserfuhr
+||AusLand
+|[XingLe:Peter_Herbst2]
+|[SkyPe:pit_autumn]

@@ -1,0 +1,79 @@
+Ein Backup des gesamten MindWiki zum Download:
+
+||Timestamp   ||Content                         || MD5-Sum ||
+|20071127:1712|http://mindbroker.de/mind.zip    |4904e9bf7e8d177f2c5f8972fbb76e20|Die Inhalte des MindWiki als JspWiki-Textfiles
+|20071107:0200|http://mindbroker.de/source.zip  |02f25d69f539f449bab58ccf92ff60bb|Der SVN-Dump von svn://svn.mindbroker.de/opensource/
+|200701107:0200|http://mindbroker.de/mvnrepo.zip|9274f36fb68d20dc9cb79258c3891e6b|Der SVN-Dump von svn://svn.mindbroker.de/mvnrepo/
+
+SocialBackup heisst, dass jeder MindBroker ImmerWieder das Backup herunterlädt, damit praktisch mit jedem MindMac ein fast aktuelles Recovery gemacht werden kann, selbst wenn der Server mal bei einem ErdBeben einen Festplattenschaden haben sollte.
+
+(neueste Downloads zuerst. Die MD5-Sum identifiziert den Download eindeutig und erleichtert das
+Finden der aktuellsten Backups im Falles eines Recovery)
+
+||MindBroker      ||what  ||MindMac ||letzter Download||MD5-Sum
+|RainerWasserfuhr |mind   |neptun   |20071127:1715|4904e9bf7e8d177f2c5f8972fbb76e20
+|RainerWasserfuhr |mind   |neptun   |20071112:2314|382cd859eb9c01edb31d6e3534994421
+|YvonneSchubert   |mind   |triton   |20071112:1300|
+|YvonneSchubert   |mvnrepo|triton   |20071112:1300|
+|YvonneSchubert   |source |triton   |20071112:1300|
+|DanielPoodratchi |mind   |macDaniel|20071103:1630|40498fc008f9a033bd7152dacb9fe060
+|DanielPoodratchi |source |macDaniel|20071103:1630|e045412a74b85813c7a5e5459d2199fa
+|DanielPoodratchi |mvnrepo|macDaniel|20071103:1630|082a44de7eafed040bc953ba16cbb44d
+|RainerWasserfuhr |mind   |neptun   |20071101:0039|40498fc008f9a033bd7152dacb9fe060
+|YvonneSchubert   |mind   |triton   |20071023:1430|
+|YvonneSchubert   |mvnrepo|triton   |20071023:1430|
+|YvonneSchubert   |source |triton   |20071023:1430|
+|DanielPoodratchi |mind   |macDaniel|20071018:1630|855ce72781473f76ed906f9fc99e964a
+|DanielPoodratchi |source |macDaniel|20071018:1630|e045412a74b85813c7a5e5459d2199fa
+|DanielPoodratchi |mvnrepo|macDaniel|20071018:1630|082a44de7eafed040bc953ba16cbb44d
+|RainerWasserfuhr |mind   |neptun   |20071014:1943|855ce72781473f76ed906f9fc99e964a
+|YvonneSchubert   |mind   |triton   |20071004:1430|
+|YvonneSchubert   |mvnrepo|triton   |20071004:1430|
+|YvonneSchubert   |source |triton   |20071004:1430|
+|RainerWasserfuhr |mind   |neptun   |20070928:0143|bc5fc1dcc8142454076492df92db1835
+|YvonneSchubert   |mind   |triton   |20070925:1430|874165c5e519da7e087c709a014dffd2
+|YvonneSchubert   |mvnrepo|triton   |20070925:1430|082a44de7eafed040bc953ba16cbb44d
+|YvonneSchubert   |source |triton   |20070925:1430|e045412a74b85813c7a5e5459d2199fa
+|YvonneSchubert   |mind   |triton   |20070917:1430|874165c5e519da7e087c709a014dffd2
+|YvonneSchubert   |mvnrepo|triton   |20070917:1430|
+|YvonneSchubert   |source |triton   |20070917:1430|
+|YvonneSchubert   |mind   |triton   |20070908:2030|
+|YvonneSchubert   |mvnrepo|triton   |20070908:2030|
+|YvonneSchubert   |source |triton   |20070908:2030|
+|DanielPoodratchi |mind   |macDaniel|20070907:1630|874165c5e519da7e087c709a014dffd2
+|DanielPoodratchi |source |macDaniel|20070907:1630|e045412a74b85813c7a5e5459d2199fa
+|DanielPoodratchi |mvnrepo|macDaniel|20070907:1630|082a44de7eafed040bc953ba16cbb44d
+|RainerWasserfuhr |mind   |neptun   |20070903:1200|874165c5e519da7e087c709a014dffd2
+|YvonneSchubert   |mind   |triton   |20070829:2030|9c422d806e9b99d5daef56d06675ef35
+|YvonneSchubert   |mvnrepo|triton   |20070829:2030|082a44de7eafed040bc953ba16cbb44d
+|YvonneSchubert   |source |triton   |20070829:2030|e045412a74b85813c7a5e5459d2199fa
+|YvonneSchubert   |mind   |triton   |20070809:1500
+|YvonneSchubert   |mvnrepo|triton   |20070809:1500
+|YvonneSchubert   |source |triton   |20070809:1500
+|RainerWasserfuhr |mind   |neptun   |20070808:1415|ff08cde56bb777f91ca781bd6d1035c3
+|RainerWasserfuhr |mind   |triton   |20070719:1050|acc20cb175455be04a7b3afb7b4a6579
+|RainerWasserfuhr |source |triton   |20070703:1425
+|RainerWasserfuhr |mind   |triton   |20070703:1425
+|YvonneSchubert   |mind   |triton   |20070521:1500
+|YvonneSchubert   |mvnrepo|triton   |20070521:1500
+|YvonneSchubert   |source |triton   |20070521:1500
+|RainerWasserfuhr |source |triton   |20070518:1010
+|RainerWasserfuhr |mind   |triton   |20070518:1010
+|RainerWasserfuhr |mvnrepo|triton   |20070519:0251
+|RainerWasserfuhr |mind   |neptun   |20070510:0136
+|RainerWasserfuhr |mind   |neptun   |20070430:1302
+|RainerWasserfuhr |source |neptun   |20070430:1302
+|RainerWasserfuhr |mind   |ares     |20070328:0023
+|DanielPoodratchi |mind   |         |20070326:2103
+|RicardaDHerbrand |mind   |???      |not yet, also ToDo ;)
+|AndreasWeigel    |mind   |othello  |not yet, also ToDo ;)
+|OliverGassner    |mind   |???      |not yet, also ToDo ;)
+
+{{{
+rm /home/insider/apache-tomcat-5.5.23/webapps/ROOT/mind.zip
+zip -r /home/insider/apache-tomcat-5.5.23/webapps/ROOT/mind.zip agwiki agwiki-files
+md5sum /home/insider/apache-tomcat-5.5.23/webapps/ROOT/mind.zip
+md5sum /home/insider/apache-tomcat-5.5.23/webapps/ROOT/source.zip
+md5sum /home/insider/apache-tomcat-5.5.23/webapps/ROOT/mvnrepo.zip
+
+}}}

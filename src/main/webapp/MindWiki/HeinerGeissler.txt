@@ -1,0 +1,5 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Heiner_Geißler]
+* BornIn: 1930
+* BirthDay: 03-03
+* ViAf: http://viaf.org/viaf/139732

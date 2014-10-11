@@ -1,0 +1,5 @@
+Die MindBrokerAg soll eine riesengrosse SpielWiese werden, auf es nur ganz selten eine DeadLine geben soll. Zur Zeit gibt es folgende Deadlines:
+
+||am||Ziel
+|20071231|MindBrokerAg
+|20070324|WikiTchen

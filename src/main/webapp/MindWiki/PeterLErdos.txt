@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/e/PeterLErdos
+* HomePage: http://www.renyi.hu/~elp/
+* PageNumber: 15
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann WolfgangBibel KlausPJantke BernhardThalheim KlausDieterSchewe SebastianLink SvenHartmann UweLeck ChristianBey RudolfAhlswede PeterLErdos

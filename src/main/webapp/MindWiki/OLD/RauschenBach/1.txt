@@ -1,0 +1,4 @@
+http://www.rauschenbach-deli.de/
+
+* BreitenGrad: 51.048831
+* LaengenGrad: 13.740510

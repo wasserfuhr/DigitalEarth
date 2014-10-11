@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Daniel_Suarez]
+* BirthDay: 12-21
+* MindSkill: HardScienceFiction

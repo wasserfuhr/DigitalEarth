@@ -1,0 +1,45 @@
+* IsA: MindEvent
+* WikiLender: 2011-06-23
+* MindPlace: NeuStadt
+
+||Platz|| ||1 ||2||3||4||5||6||7||8
+||Reihe||Preis/Sitzplatz|| || || || || || || ||
+||16|| 1 KayGroschen    |  |  |  |  |  |  |  |  
+||15|| 2 KayGroschen    |  |  |  |  |  |  |  |
+||14|| 4 KayGroschen    |  |  |  |  |  |  |  |
+||13|| 8 KayGroschen    |  |  |  |  |  |  |  |
+||12||  16 KayGroschen  |  |  |  |  |  |  |  |
+||11||  32 KayGroschen  |  |  |  |  |  |  |  |
+||10||  64 KayGroschen  |  |  |  |  |  |  |  |
+||..||    | |
+||3|| 8192 KayGroschen  |  |  |  |  |  |  |  |
+||2||16384 KayGroschen  |  |  |  |  |  |  |  |
+||1||32768 KayGroschen  |  |  |  |  |  |  |  |
+
+!Die EnErgie der ZuKunft
+
+RainerWasserfuhr inszeniert »AMidsummerDaysDream« im SingularTheater
+
+Am 23. Juni feiert die Uraufführung des mit dem PieschenerBuchpreis
+ausgezeichneten ZukunftsRomans »NooSphere« von RainerWasserfuhr
+im OrpheumDresden Premiere. Das tausendvierundzwanzigseitige
+Buch beschreibt die letzten Jahre der BundesRepublik, die
+Handlung ist zum grossen Teil in der StadtDresden angesiedelt.
+Im Zentrum des ZukunftsRoman's steht der Alltag der
+der Künstlerfamilie MorgenStern. Deren Sohn Elias begeht
+während seiner Schulzeit den Fehler, das pädagogische
+System öffentlich zu kritisieren. Der TransHuman'istisch gebildete,
+junge GameDeveloper landet darauf im Militärgefängnis.
+PieschenerAllgemeine Autorin CorneliaWalter sprach mit
+TheaterDirektor RainerWasserfuhr.
+
+Herr RainerWasserfuhr, sie erlebten die letzten 15 Jahre der
+DePublik im Dresdner StaatsSchauspiel, gingen dann nach KaisersLautern
+und waren 16 Jahre in der StadtDresden: Wie fühlt sich das für Sie
+an, nach 20 Jahren ein Stück zu inszenieren, das die Dresdner
+PreSingular-Zeit thematisiert? Nun, einerseits hat man eine große
+Nähe zum Thema und andererseits versucht man zu überprüfen, ob die
+subjektive Brille, durch die man geschaut hat, übereinstimmt mit
+der Brille des Autors dieses Romans. Ich habe sehr grosse Lust
+den Stoff zu inszenieren, weil ich ihn in seiner Grundtendenz für
+sehr positiv halte und es nicht nur eine Dresdner Geschichte ist.

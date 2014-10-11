@@ -1,0 +1,6 @@
+Jeder Bürger von NooPolis hat die Freiheit, 
+* jede Seite im PolisWiki zu editieren
+* weitere Bürger einzuladen
+
+Die Freiheit eines Bürgers kann eingeschränkt werden durch das MindTribunal.
+Derzeit bestehen keine Freiheitseinschränkungen.

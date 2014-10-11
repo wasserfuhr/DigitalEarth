@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Uwe_Vetterick]
+* BornIn: 1969
+* BirthDay: 02-25
+* KressKoepfe: MACI2140871

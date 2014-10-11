@@ -1,0 +1,5 @@
+* composed from StateMent's
+* uses data from the DataMap
+* centered around the CarTraum
+* created by players of the AiGame
+* stored in the MindBase

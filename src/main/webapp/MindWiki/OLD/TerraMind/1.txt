@@ -1,0 +1,17 @@
+* MindLine: 2060
+
+
+* PlanetErde als MashUp aus Computronicum, Turing-Riesenmaschine und Zellularautomat,
+* ein idealisierter Würfel der Kantenlänge 10.000 km,
+* 1 Kubikmeter großen Würfeln, die im einfachsten Modell genau 1 Bit repräsentieren, 
+* aus Gründen der AisThesis aber auch eine binärcodierbare endliche Menge von Farben sein könnten
+* Die Würfel erzeugen einen Adressraum der Form (0,0,0) bis (9999999,9999999,9999999)
+* die Zustände der Würfel wechseln alle gleichzeitig im Takt von 1 GHz
+* Der Folgezustand ist determiniert durch den aktuellen Zustand und die Zustände der 3*9-1=26 Nachbarwürfel
+* durch geschickte Wahl von Zustandsübergangsformeln kann man in TerraMind Kommunikationsröhren und -tuben eincoden 
+* Um eine Nachricht von einer Ecke von TerraMind zur anderen zu schicken braucht man also annähernd 10 msec
+* Zustandswechsel in TerraMind erfolgen also nicht über Lichtgeschwindigkeit
+* Die Zustandsübergangsformeln werden ihrerseits wie bei einer Von-Neumann-Maschine auf TerraMind codiert
+* Die Zustandsübergangsformeln sind wie bei NoMic auch selbst änderbar. (Wie? DoIt: genauer ausdenken)
+* Die Würfel an der äusseren Hülle von TerraMind dürfen meinetwegen in jedem Takt die Farben der Außenwelt wahrnehmen
+* Ziel von TerraMind ist, FloTt nach SeTo zu suchen und YvonneSchubert aus ihren grausamen Klauen zu befreien.

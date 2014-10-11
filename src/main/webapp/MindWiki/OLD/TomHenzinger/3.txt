@@ -1,0 +1,10 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Thomas_Henzinger]
+* JahrGang: 1962
+* BirthDay: 12-08
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/ThomasAHenzinger
+* ViAf: http://viaf.org/viaf/67255713
+* HomePage: http://mtc.epfl.ch/~tah/
+* EheVertrag: MonikaHenzinger
+* PageNumber: 3
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger

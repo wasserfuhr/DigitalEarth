@@ -1,0 +1,3 @@
+* MindTags: TicTacToe
+* BoardCenter: UniStuttGart
+* BoardSize: 200

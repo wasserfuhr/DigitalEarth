@@ -1,0 +1,15 @@
+* MindTags: ProJect
+
+A former project of MindBrokerKg for ForStudentsAg: A PredictionMarket for the popularity of universities and fields of study in DeutschLand.
+
+Technologies:
+* JSP, JDBC, Servlets, PostgresQl, CSS, XML, SOAP
+
+MitWirkende:
+* RainerWasserfuhr
+* YvonneSchubert
+* RoSt
+* KaKo
+* ClBe
+* JoHu
+* AnSc

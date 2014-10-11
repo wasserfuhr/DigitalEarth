@@ -1,0 +1,3 @@
+* MindTags: ReView
+
+MindGo is an idea for a ProJect to program an OpenSource ComputerGo software which can win against GoSeigen.

@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* BirthDay: 12-04
+* LebensEnde: 2003

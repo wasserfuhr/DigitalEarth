@@ -1,0 +1,3 @@
+* PartOf: AlaunStrasse
+
+http://www.openstreetmap.org/?lat=51.066613&lon=13.751119&zoom=18&layers=M&node=360207425

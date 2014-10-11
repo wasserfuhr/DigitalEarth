@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/ASigel
+* HasTalked: RainerWasserfuhr
+|[XingLe:Alexander_Sigel]
+
+IsKo

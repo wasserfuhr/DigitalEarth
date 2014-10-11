@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Alan_Turing],[WikiPedia:Alan_Turing]
+* JahrGang: 1912
+* LebensEnde: 1954
+* MindFaves: TuringMaschine

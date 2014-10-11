@@ -1,0 +1,3 @@
+TheGoal: DigitalTwin
+
+DOI: 10.1177/0894439303253973

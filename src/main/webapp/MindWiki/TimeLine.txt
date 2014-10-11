@@ -1,0 +1,12 @@
+Ein Modell unserer Zeitachse. 
+Beginnend um 1900, fortlaufend UnTil2050. 
+Beim SingularCamp können alle Teilnehmer FutureCard's an die FutureMap heften. Zum Beispiel zu folgenden Fragen: 
+
+* Zahl der InterNet-Nutzer 
+* Zahl der Computer 
+* TerraFlops des schnellsten Rechners der Welt 
+
+Diese MindProps und Seiten im MindWiki enthalten hilfreiche Zeitangaben: 
+* JahrGang
+* LebensEnde
+* LebensErwartung

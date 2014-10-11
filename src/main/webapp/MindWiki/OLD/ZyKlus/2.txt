@@ -1,0 +1,11 @@
+Kurse verlaufen in Zyklen. Zu ihrer Beschreibung lassen sich verschiedene Modelle hinzuziehen:
+
+* Dazu gehört der GoldenerSchnitt.
+* LeonardoDaPisa formulierte und beschrieb im 13. Jahrhundert die FibonacciFolge.
+* RalphNelsonElliott entwickelte die ElliottWellenTheorie.
+
+PeekPoke:
+* 200109
+* 200503: Yahoo kauft FlickEr
+* 20080121: DAX minus -7,16%
+* 200910: X kauft Y

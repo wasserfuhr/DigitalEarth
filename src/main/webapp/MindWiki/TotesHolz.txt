@@ -1,0 +1,18 @@
+Streams im WirkZentrum:
+
+||Owner          ||Stream
+|RainerWasserfuhr|Tagebuch
+|RainerWasserfuhr|Steuer 
+|RainerWasserfuhr|Schriftverkehr
+|RainerWasserfuhr|ohne Datum
+|RainerWasserfuhr|Tankquittungen
+|RainerWasserfuhr|IngDiba-Auszüge
+|RainerWasserfuhr|Norisbank-Auszüge
+|MindBrokerKg    |Postbank-Auszüge
+|MindBrokerKg    |Postbank-Kreditkarten-Auszüge
+|MindBrokerKg    |Visitenkarten
+|MindBrokerKg    |Steuer
+|MindBrokerKg    |Schriftverkehr
+|MindBrokerKg    |Presse
+|MindBrokerKg    |Sparkassen-Auszüge alt
+

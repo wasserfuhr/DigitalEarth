@@ -1,0 +1,6 @@
+* IsA: ProFessor BauIngenieur
+* InterWiki: [DeWikiPedia:Johann_Andreas_Schubert]
+* BirthPlace: WernesGruen
+* BornIn: 1808
+* BirthDay: 03-19
+* DiedIn: 1870

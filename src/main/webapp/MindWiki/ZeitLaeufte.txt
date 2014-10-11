@@ -1,0 +1,8 @@
+Das Minimalgerüst für den ZukunftsRoman:
+* DistanzSpiel
+* XiNao
+* LockSchuppenOpening
+* RainerTest
+* LunarSteigenberger
+* ClaudiaTest
+* EndMontage

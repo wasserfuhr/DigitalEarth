@@ -1,0 +1,49 @@
+http://floor.mindbroker.de
+
+!Letzte Transaktionen
+||am    ||Stück||Kurs ||von               ||an              ||Kommentar
+|20071029:0317|   3000|0|AndreasWeigel    |RainerWasserfuhr |Anteilsanpassung an aktuelles CommitMent
+|200710xx     |   1000|0|DanielPoodratchi |RainerWasserfuhr |Anteilsanpassung wegen PayOut
+|200709xx     |   1000|0|OliverGassner    |RainerWasserfuhr |Anteilsanpassung wegen PayOut
+|20070811:0445|   1000|0|DanielPoodratchi |RainerWasserfuhr |Anteilsanpassung an aktuelles CommitMent
+|20070806:0521|   1000|0|YvonneSchubert   |RainerWasserfuhr |Strafe für mehrtägige Schlamperei bei DoIt und ImmerWieder
+|20070525:0955|    200|0|RainerWasserfuhr |DimitriUwarov    |WarrenBuffett
+|20070501:0000|    400|0|RainerWasserfuhr |RicardaDHerbrand |SalsaNonnen
+|20070430:1200|    500|2|RainerWasserfuhr |WernerWasserfuhr |LeadInvestor
+|20070430:1200|    500|2|RainerWasserfuhr |AgnesWasserfuhr  |LeadInvestor
+|20070429:2135|    200|0|RainerWasserfuhr |JensFreydank     |Geschenk
+|20070420:1030|    200|0|RainerWasserfuhr |JensWegerle      |Geschenk
+|20070419     |    200|0|RainerWasserfuhr |DimitriUwarov    |Geschenk
+|20070417     |     20|0|RicardaDHerbrand |TimBonnemann     |wünscht sich Tim mal live bei einem Webmontag in Jena ;)
+|20070416     |    220|0|ChristineSchlinck|RainerWasserfuhr |Geschenk für ApoPhaenie
+|20070414     |   1300|0|RainerWasserfuhr |TimBonnemann     |Geschenk für langmonatige Verdienste als Mister WebMontag ;)
+|20070414     |    400|0|DanielPoodratchi |TimBonnemann     |Geschenk
+|20070414     |    100|0|AndreasWeigel    |TimBonnemann     |Geschenk
+|20070414     |    100|0|OliverGassner    |TimBonnemann     |Geschenk
+|20070414     |     60|0|YvonneSchubert   |TimBonnemann     |Geschenk
+|20070414     |     20|0|ChristineSchlinck|TimBonnemann     |Geschenk
+|20070401     |    200|0|RainerWasserfuhr |ChristineSchlinck|Englischkurs
+|20070401     |    200|0|RainerWasserfuhr |RicardaDHerbrand |Einführung in MindTueftel
+|200703xx     | 20.000|0|RainerWasserfuhr |AndreasWeigel    |Schnellboot-Hacking am SportPortal
+|200702xx     | 30.000|0|RainerWasserfuhr |YvonneSchubert   |Erfindung des SecondFloor
+|20070208     |     20|0|RainerWasserfuhr |AndreasWeigel    |FirstTrade
+|200702xx     |     40|0|RainerWasserfuhr |ChristineSchlinck|Geschenk für SuendenMund
+|200702xx     | 50.000|0|RainerWasserfuhr |OliverGassner    |Geschenk für Gewinn des D-Quest
+|20061231     | 30.000|0|RainerWasserfuhr |AndreasWeigel    |Schnellboot-Hacking am SportPortal
+|20061231     |190.000|0|RainerWasserfuhr |DanielPoodratchi |Schnellboot-Hacking am SportPortal
+
+!Offene Bids/Asks:
+* bid: der Kurs, zu dem ein Marktteilnehmer A bereit ist, ein Wertpapier zu kaufen
+* ask: der Kurs, zu dem ein Marktteilnehmer A bereit ist, ein Wertpapier zu verkaufen
+
+MindKodex: Falls ein MindBroker mehrere bids hat, müssen die Bids mit dem geringeren Preis
+zuerst gecleared werden.
+
+||Unternehmen/IchAg||Owner        ||type   ||#  ||price/share||Currency
+|MindBroker      |RainerWasserfuhr|kauft   |40000|  1|KayGroschen
+|MindBroker      |RainerWasserfuhr|kauft   |2000 |  2|KayGroschen
+|MindBroker      |RainerWasserfuhr|verkauft|400  | 20|KayGroschen
+|MindBroker      |RainerWasserfuhr|verkauft|400  | 20|KayGroschen
+|MindBroker      |RainerWasserfuhr|verkauft|200  |500|KayGroschen
+|MindBroker      |RainerWasserfuhr|verkauft|20   |1.000.000.000.000|KayGroschen
+|RainerWasserfuhr|RainerWasserfuhr|verkauft|1000 |?  |EUR

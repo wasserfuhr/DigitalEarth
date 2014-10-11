@@ -1,0 +1,5 @@
+* PartOf: MarkRanStädt
+* PartOf: LandkreisLeipzig
+* Partof: Sachsen
+* MindOne: CarinaRadon
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.273994&lon=12.232415&zoom=18&layers=B000FTF

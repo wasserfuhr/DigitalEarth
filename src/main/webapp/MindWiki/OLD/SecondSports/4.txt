@@ -1,0 +1,19 @@
+RainerWasserfuhr: TedChristensen
+DanielPoodratchi: DanieleFoyston
+AndreasWeigel: B4d4Bing
+
+*Was könnte man an coolen Sachen für spot machen?
+*UserProfile: SecondLife FirstName und LastName
+*Bekannte Stadien nachbauen (Olympiastadion etc.)
+** ggf. Copyrightproblem (Urheberrecht des artichtenten) (og)
+*Fans können die Stadien ihrer Lieblingsspieler besuchen
+*SecondLife Events verwalten
+*Sportarten simulieren (Fussball, Tennis, Basketball...)
+*Avatare von bekannten Stars bauen
+*Mannschaftsaufstellungen auf dem Spielplatz simulieren
+*langfristig: Echtzeit-Simulationen von Liveübertragungen
+*ManagerGame im stile von http://www.comunio.de/
+
+ToDo: Land zum bauen besorgen
+ToDo: Günstige Parzellen recherchieren
+ToDo: Mit Bauen anfangen

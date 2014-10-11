@@ -1,0 +1,4 @@
+* IsA: WirtsHaus
+* HomePage: http://cafe-eisprinzessin.de/
+* MindOne: LilianSchubert
+* PartOf: SonnenHof

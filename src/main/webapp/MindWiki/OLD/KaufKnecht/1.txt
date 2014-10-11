@@ -1,0 +1,8 @@
+* MindTags: ProJect
+
+DomainModel:
+* User
+* Position
+* Shop
+* Artikel
+* ArtikelPreis

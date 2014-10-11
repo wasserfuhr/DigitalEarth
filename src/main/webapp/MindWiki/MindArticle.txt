@@ -1,0 +1,2 @@
+* KindOf: BibEntry
+* RdfClass: http://zeitkunst.org/bibtex/0.1/#Article

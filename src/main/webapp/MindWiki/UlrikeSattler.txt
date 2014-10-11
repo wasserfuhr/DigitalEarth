@@ -1,0 +1,3 @@
+* IsA: PerSon
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann FranzBaader UlrikeSattler

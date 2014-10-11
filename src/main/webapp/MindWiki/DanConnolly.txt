@@ -1,0 +1,8 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/33/2532
+* HomePage: http://www.w3.org/People/Connolly/
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker StefanDecker FrankVanHarmelen DanConnolly
+* MindSkill: SemanticWeb
+|[FaceBook:616656075]
+|[FlickEr:dckc]

@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0688
+* LaengenGrad: 13.7161
+* BoundingBox: 35
+http://www.roeschenhof.com/

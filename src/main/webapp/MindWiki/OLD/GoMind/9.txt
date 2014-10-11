@@ -1,0 +1,16 @@
+GoMind was concept for a four dimensional Game of Go: x,y,z,t.
+
+The Rules of the Game are defined by the SourceCode of GoMind [here|http://websvn.mindbroker.de/repobrowser.svn?path=%2fde.mindbroker.go%2ftrunk%2f&name=opensource]
+
+Hints:
+* the dimensions x,y and z are measured in meter, dimension t is measured in seconds.
+* Players should be mavens concerning Turing machines, Goedel-Numberings, Go and Nomic.
+
+The idea is to put pieces of data and code on a four dimensional board.
+The goal of the game is to maximize the intellectual pleasure of the players.
+GoMind can be an (initially empty) model of the World and it's history and future.
+
+Applications
+* OCR of historic city maps like [this one|http://de.wikipedia.org/wiki/Bild:Dresden_Map_1895.jpg]
+
+GoMind is now superseded by the TerraMind VirtualMachine of the AiGame.

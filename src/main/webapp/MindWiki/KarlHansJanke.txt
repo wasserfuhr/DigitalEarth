@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Karl_Hans_Janke]
+* BirthDay: 08-21
+* MindSkill: InVent

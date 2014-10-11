@@ -1,0 +1,1 @@
+some first CoWorkingPlace's on PlanetErde on OpenStreetMap: [http://www.informationfreeway.org/api/0.6/node[amenity=coworking_space%5D]

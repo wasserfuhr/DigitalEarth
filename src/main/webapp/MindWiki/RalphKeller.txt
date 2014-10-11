@@ -1,0 +1,4 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/64/6859
+* PageNumber: 6
+* PagePath: LarryPage SergeyBrin MonikaHenzinger KurtMehlhorn JuergenNievergelt BernhardPlattner RalphKeller

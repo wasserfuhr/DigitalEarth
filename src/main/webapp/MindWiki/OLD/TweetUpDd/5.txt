@@ -1,0 +1,32 @@
+* MindTags: MindEvent
+* HashTag: tudd
+* MindPlace: SchillerGarten
+* HomePage: http://twtvite.com/c5gn5p
+
+In der 2. Spalte gibt es Verlinkungen auf persönliche Profile, wo dann die
+weiteren SocialNetwork's stehen. Jetzt könnte ich noch bei Gelegenkeit
+ein kleines Script schreiben, damit die Networks auf einer Übersichtsseite,
+ähnlich wie bei http://id.mindbroker.de/abroad
+dargestellt werden...
+
+||TwittEr                 ||MindWiki          ||VorName
+|[TwittEr:rainer]         |RainerWasserfuhr
+|[TwittEr:jfschlinck]     |JfSchlinck
+|[TwittEr:tineroyal]      |ChristineSchlinck
+|[TwittEr:sylketwiddertni]|                   |Sylke
+|[TwittEr:pixilla]        |JoergStephan
+|[TwittEr:StadtwikiDD]    |MatthiasErfurth
+|[TwittEr:steffenster]    |SteffenPeschel
+|[TwittEr:elbelfe]        |MandyKuester
+|[TwittEr:radio_g]        |MichaelMeinhardt
+|[TwittEr:SaftTante]      |KirstinWalther
+|[TwittEr:nkirchner]      |NicoleKirchner
+|[TwittEr:Shelog]         |IrisSchilke
+|[TwittEr:stipriaan]      |UlrichVanStipriaan
+|[TwittEr:pstawowy]       |PeterStawowy
+|[TwittEr:asmDD]          |AnnetteSchramm
+|[TwittEr:hobbes84]       |AlexanderHesse
+|[TwittEr:yvonneschubert] |YvonneSchubert
+|[TwittEr:copista]        |MichaelSchmelich
+
+EtAl

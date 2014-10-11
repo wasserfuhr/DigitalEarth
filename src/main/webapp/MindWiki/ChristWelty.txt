@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/w/CAWelty
+* HomePage: http://domino.research.ibm.com/comm/research_people.nsf/pages/welty.index.html
+* PageNumber: 
+* PagePath: LarryPage ... ChrisWelty

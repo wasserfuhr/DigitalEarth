@@ -1,0 +1,32 @@
+the basic unit of service sold by LockSchuppenAg.
+
+In the TimeToCome you can use LockCoupon's for:
+* 1 LockCoupon = 1h usage of CoWorkingSpace
+* 5 LockCoupon's = 1day usage of CoWorkingSpace
+* 80 LockCoupon's = 1 month usage of CoWorkingSpace
+* 2 LockCoupon's = 1 LockSchuppen-BeSuch (1h) with a qualified LockSchuppenFuehrer
+
+The LockCoupon might also be used at other CoWorkingSpace's operated by LockSchuppenAg (•• LockOffice ••) 
+
+As soon as the LockContactOffice opens, you will be able to use them on a FirstComeFirstServed basis.
+
+You can buy LockCoupon's from the MindShop.
+
+* ReVenue (updated regularly)
+
+!Current Owner
+||SerialNumber||Owner
+|1|IrisSchilke
+|2|ThiemoMaettig
+|3|RaikFischer
+|4|MarcelBoehme
+|5|HeidiGallinat
+|6|RainerWasserfuhr
+|7|ChristineSchlinck [#]
+|8|ChristineSchlinck [#]
+|9|RegineZiolko
+[#] kommissarisch
+
+||On     ||SerialNumber||from          ||to
+|20091231|6|WinfriedLueg    |LockSchuppenAg
+|20091231|6|RainerWasserfuhr|WinfriedLueg

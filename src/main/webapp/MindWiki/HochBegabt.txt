@@ -1,0 +1,11 @@
+* InterWiki: [DeWikiPedia:Hochbegabung], [FloWiki:Hochbegabung]
+
+||          ||IQ||%
+|Mensa      |130|98
+|InterTel   |135|99
+|999        |145|99,9
+|Prometheus |160*|99,997
+|Epimetheus |164|99,997
+|MegaSociety|175|99,9999
+
+*=sd15?sd16?

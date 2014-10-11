@@ -1,0 +1,31 @@
+* HomePage: http://www.sentientdevelopments.com/2007/01/must-know-terms-for-21st-century_11.html
+
+by: GeorgeDvorsky
+
+via http://www.siggibecker.de/blog/archives/2007/02/begriffe-des-21-jahrhunderts/:
+
+RainerWasserfuhr unterstützt den Eigenaufwand bei der Aneignung dieser Begriffe durch provokative MindWiki-CamelCase-Verlinkung, plädiert aber gleichzeitig für eine RadiKal'e Ver-EinFach'ung von IsMus-AntiPattern:
+
+# Accelerating Change: AcCelerate
+# Anthropic Principle
+# Artificial General Intelligence: NewMind
+# Augmented Reality: AugMent
+# Bayesian Rationality: ThomasBayes
+# Cosmological Eschatology: WoZu
+# Engineered Negligible Senescence: ImMortal
+# Existential Risks: EigenRisk
+# Extended Identity: PolyBody
+# FermiParadox
+# Friendly AI: HappiNess
+# Mass Automation: RepRap
+# Memetic Engineering
+# Mind Transfer: UpLoad
+# Molecular Assembler
+# Neurodiversity
+# Neural Interface Device
+# NooSphere
+# Participatory Panopticon
+# Quantum Computation: QuantPuter
+# Radical Luddism
+# SimulationArgument
+# Technological Singularity: TheSingularity

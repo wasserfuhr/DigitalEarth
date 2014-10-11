@@ -1,0 +1,66 @@
+* IsA: SocialNetwork
+* HomePage: http://foursquare.com/
+* MitWirkende: DennisCrowley NaveenSelvadurai HarryHeymann NathanFolkman MikeSingleton MariSheibley 
+    
+MindPlace FbConnect
+
+EarlyAdopter:
+||NickName||PerSon||[1]
+|-163607|AlexanderBass|
+|aoelling|AlexanderOelling|
+|cervus|BastiHirsch|
+|furukama|BenediktKoehler|
+|billseitz|BillSeitz|
+|log0ff|CarstenSchabacker|
+|macpod|ChristianHenkel|
+|crieger|ChristianRieger|
+|-80397|ColinSchlueter|
+|davidorban|DavidOrban|
+|fiahless|FelixPetersen|
+|groovehunter|FlorianKonnertz|
+|-193265|FlorianKlare|
+|franz|FranzPatzig|
+|hubert|HubertGertis|
+|ibo|IboEvsan|
+|jowood|JanaSchlegel|
+|jantheofel|JanTheofel|
+|safttante|KirstinWalther|
+|klauseck|KlausEck|
+|k0lja|KoljaHebenstreit|
+|halbmalte|MalteMuenchert|
+|-89162|MarcoRipanti|
+|-183882|MarigoRaftopoulos|
+|-161245|MarioSixtus|
+|finnern|MarkFinnern|*
+|markus_breuer|MarkusBreuer|
+|frinsen|MartinFrindt|
+|moeffju|MatthiasBauer|
+|coding|MoritzPetersen|
+|multanifx|VolkerGraubaum|
+|nico|NicoLumma|
+|oliverg|OliverGassner|
+|code162|OliverThylmann|
+|-119901|PhilVonSassen|
+|phreak20|ChristianMayrhofer|
+|pkerchner|PierreKerchner|
+|-331941|RalfLippold|
+|datadirt|RitchiePettauer|
+|-108626|RobertBasic|
+|cbgreenwood|SebastianGruenwaldt|*
+|pixelsebi|SebastianKuepers|*
+|mooose|SiegfriedHirsch|
+|moe|StephanMosel|
+|mediaocean|SteffenBueffel|
+|boehler|StephanBoehlig|
+|_teecee|ThomasChristinck|
+|thomaskujawa|ThomasKujawa|
+|thomaspromny|ThomasPromny|
+|-38591|TimBonnemann|
+|timbruysten|TimBruysten|
+|theuer|TimoHeuer|
+|tonzylstra|TonZijlstra|
+|stipriaan|UlrichVanStipriaan|
+|-87588|WilliSchroll|
+|schulezweinull|WolfgangWeicht|
+|vangeest|YuriVanGeest|
+[#1] ConFirm'ation pending

@@ -1,0 +1,11 @@
+||              ||MonoPoly      ||NooPolis
+|Invented by    |ElizabethMagie |RainerWasserfuhr+MitWirkende
+|Player         |2-8            |dynamic: JoinMindBroker
+|Places         |40             |dynamic: PageIndex
+|               |Bank           |PieschenBank
+|Money          |UsDollar/EuRo...|KayGroschen
+|Initial amount |$1500...       |dynamic: BegruessungsGeld
+|Rules          |static         |dynamic: ConStitution
+|Moving         |round robin    |concurrently
+|Move direction |dice           |click CamelCase links
+|               |Schloßallee    |GeheStrasse21

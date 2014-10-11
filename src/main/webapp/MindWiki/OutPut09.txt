@@ -1,0 +1,6 @@
+* IsA: MindEvent
+* HomePage: http://output-dresden.de/
+
+[FlickEr:output-dresden]
+
+EvaMariaStange HermannKokenge ChristianSery FrankSchoenefeld

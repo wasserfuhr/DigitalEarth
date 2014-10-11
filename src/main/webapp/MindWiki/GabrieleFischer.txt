@@ -1,0 +1,4 @@
+* IsA: UnternehmensGruender
+|[XingLe:Gabriele_Fischer3]
+
+[TwittEr:GabrieleFischer] <- GhostWriter or real?

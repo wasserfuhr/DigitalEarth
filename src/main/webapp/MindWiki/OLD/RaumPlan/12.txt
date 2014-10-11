@@ -1,0 +1,16 @@
+LockSchuppen-RaumPlan:
+||TurmGeschoss|IdeenPool,CashPool| |
+||SecondFloor|RaumFuerSexuelleBelustigungAmArbeitsplatz|MindMassage|
+||GeschossOne|KegelHalle|BigSchuppen mit SingularLeuchtTurm|FolterHalle
+||ErdGeschoss|EmPfang mit TineRoyal|MachBar|SaftLaden|DampfKasten
+
+Further ideas
+* AdvocatusDiaboli
+* BohrPlattform
+* GenRobLab
+* KurzweilShrine
+* LemmingeLounge
+* PuffCafe
+* RoboterFriseur
+* SteuerFalle
+* VerfuegungsRaum

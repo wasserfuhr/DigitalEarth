@@ -1,0 +1,5 @@
+* verstaatlicht StudiVz, WerKenntWen und XingLe zum VolksNetz.
+* Stellt den SocialNetwork's die Datenbanken der Einwohnermeldeämter zur Verfügung
+* lässt Dubletten bereinigen und ergänzt RealName's
+* macht die Personalausweisnummer zum Primärschlüssel
+* kümmert sich dann um FlightSecurity

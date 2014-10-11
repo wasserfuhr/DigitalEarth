@@ -1,0 +1,6 @@
+GeschaeftsIdee: a SportWiki for SpectatorSports. SocialObject: VipSeat
+
+||WikiLender  ||Stadium           ||Sponsor   ||Block||Row||VipSeat||PerSon
+|20090411:1400|RudolfHarbigStadion|GeHeim     |?|?|?|RainerWasserfuhr
+|200904??:????|OTwoWorld          |???        |?|?|?|
+|200904??:????|FreibergerArena    |???        |?|?|?|

@@ -1,0 +1,8 @@
+* IsA: PerSon
+* ViAf: http://viaf.org/viaf/57311608
+* MindSkill: SemanticWeb
+* TurkNumber: 10
+* TurkPath: ZigaTurk ... TheoHaerder JuergenAvenhaus MichaelRichter AndreasAbecker
+|[XingLe:Andreas_Abecker]
+
+DfKi

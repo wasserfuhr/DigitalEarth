@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Noam_Chomsky] [ThoughtStorms:NoamChomsky] [WebSeitz:NoamChomsky]
+* JahrGang: 1928
+* BirthDay: 12-07
+* HasTalked: NelsonGoodman

@@ -1,0 +1,40 @@
+* InterWiki: [WikiPedia:Google_Wave]
+* TagCloud: InstantMessaging XmPp EtherPad RealTime DisRupt GoogleInc
+
+!How to make a public wave:
+# Go to CONTACTS (on lower left side of screen)
+# "Add a new contact": public@a.gwave.com 
+# __important__: ignore the message "User does not have a Google Wave account" - just add it anyhow (by pressing ENTER).
+# "Add user or group to wave": Add the group "public"
+# Now you can add this user to any GoogleWave you are in to make it a public one
+
+!Some nice WaveGadget's:
+* http://code.google.com/p/wave-poll/
+* http://wave-ide.appspot.com/html.xml
+* http://code.google.com/p/wave-dice-robot/
+* wikifier@appspot.com
+* http://sokoban-server.appspot.com/com.example.simplegadget.client.SokobanGadget.gadget.xml
+
+!Did you ever?
+* have a GoogleWave SandBox account
+* have a GoogleWave PreView account
+* LogIn to GoogleWave
+* create a Wave
+* create a public Wave
+* make a Poll
+* add a Gadget
+* add a WaveBot
+* create a public GoogleWave
+* send DeepLink's to a GoogleWave
+* know good WaveBot's
+* tag Wave's
+* get free invitations
+* invite others
+* pay with WaveCash
+* organize an event
+
+||WorldWideWeb||GoogleWave
+|HTTP         |XMPP
+|HTML         |HTML
+|SMTP         |
+|Page         |Blip

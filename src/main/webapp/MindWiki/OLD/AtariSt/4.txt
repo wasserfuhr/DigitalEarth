@@ -1,0 +1,16 @@
+* MindTags: ErZaehlung
+* InterWiki: [WikiWikiWeb:AtariSt]
+
+Um 1986 herum programmierte RainerWasserfuhr LuxorChess, ein Schachprogramm für AtariSt.
+Der meiste Aufwand steckte zwar nicht in der Spielstrategie, sondern in der für
+die damalige Zeit schon recht aufwendige dreidimensionalen
+Darstellung des Brettes. Aber immerhin: LuxorChess erkannte die gültigen Züge und
+rügte den Spieler mit einem form_alert "Ungültiger Zug !", falls er Tricks versuchte.
+LuxorChess beherrschte, wie die Bezeichnungen "roch_s_ku" und "roch_s_la" vermuten lassen,
+wohl sogar [DeWikiPedia:Rochade].
+
+Exponentielle Machtfantasien waren ihm damals fremd (möglicherweise auch heute noch.).
+
+
+Mit diesem Rüstzeug ging es an die __UniKl__.
+

@@ -1,0 +1,24 @@
+* IsA: ProJect
+* HomePage: http://www.opencog.org/
+* MindOne: BenGoertzel
+|[TwittEr:opencog]
+
+NovaMente OpenSource ArtificialGeneralIntelligence
+
+Mapping and ComPare'ing OpenCog terms to the MindWiki:
+||MindWiki  ||OpenCog
+|PageIndex  |[OpenCog:Atomspace]
+|WikiLender |[OpenCog:Current_events]
+|MindBase   |[OpenCog:HypergraphDB]
+|IsA        |[OpenCog:InheritanceLink]
+|MindBot    |[OpenCog:MindAgents]
+|WikiPage   |[OpenCog:Node]
+|NewMind    |[OpenCog:OpenCog_Prime]
+|SelfImprove|[OpenCog:OpenCogPrime:SelfModification]
+|SynTax     |[OpenCog:OpenCogPrime:AtomNotation]
+|PerCeive   |[OpenCog:PerceptNode]
+|StateMent  |[OpenCog:PredicateNode]
+|SandBox    |[OpenCog:Sandbox]
+|WoZu       |[OpenCog:OpenCogPrime:GoalAtom]
+
+interesting: [OpenCog:OpenCogPrime:AtomNotation], [OpenCog:OpenCogPrime:ComboInterfacing]

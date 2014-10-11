@@ -1,0 +1,41 @@
+of LockSchuppen:
+* AlexandraGrandpierre??
+* AndreasPoldrack?
+* ChristianHeller?
+* ChristineSchlinck
+* ChristophHinderfeld?
+* DirkHengst?
+* JensBemme
+* JensKorte
+* JoergKeller?
+* HolgerBertling?
+* HolgerHelas
+* KarthikNatarajan
+* KlausNicolai
+* MagdalenaBoettger
+* MarcusBertelsmeier??
+* MarkusStamm??
+* MichaelDaenel
+* NorbertLabrenz?
+* NorbertRost?
+* PeterHerbst?
+* PeterStawowy?
+* RainerSchulz??
+* RainerWasserfuhr!
+* RalfLippold!!
+* ReneRueggebrecht
+* SiggiSchwarz?
+* SimonKoeppl
+* TinoJentsch
+* UlrichSoeder
+* WilliSchroll
+* WinfriedLueg?
+* YvonneSchubert???
+* ArchiTekt
+
+State of support:
+* !! evangelist
+* ! passionist
+* ? once in while
+* ?? doubtful
+* ??? knows about project

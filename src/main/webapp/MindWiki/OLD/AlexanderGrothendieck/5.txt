@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Alexander_Grothendieck]
+* BornIn: 1928
+* BirthDay: 03-28
+* MindQuote: "Wir lesen keine Bücher, wir schreiben sie." [*|http://www.dradio.de/dkultur/sendungen/zeitreisen/746626/]
+* MindSkill: DenkKraft

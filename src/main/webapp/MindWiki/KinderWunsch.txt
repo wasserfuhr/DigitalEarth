@@ -1,0 +1,16 @@
+||Vater          ||Mutter          ||Sohn     ||Tochter||Wunschstärke
+|RainerWasserfuhr|NoName           |Alexander |Mari    |25%
+|MarcoRibke      |HeikeRibke       |NoName    |Leoni
+|NoName          |ChristineSchlinck|Ben Niklas, Anton, Julian, Nils, Louis, Gustav, Elias...   
+|NoName          |YvonneSchubert   |0         |0
+
+Weitere schöne VorName'n: Verenice, Neo, Wolf, Henry.
+
+Von OliverGassner hier eher ein Algorithmus: 
+* Wir haben die Namenslisten der Top 10 Namen der letzen 10 Jahre genommen und die auf die BlackList gesetzt. (damit nicht 5 Kinder Peter heissen im KinderGarten) 
+* Dann Vornamenbücher gewälzt
+* Namen Blöder Menschen kommen auch auf die BlackList
+* Träger des betreffenden Vornamens fragt man zudem, wie sie mit dem Namen zufrieden sidn (eine Janina sagte mir z.B. dass es sie manchmal stört 'Schanina' genannt zu werden (das fanden wir halbwegs tolerabel)
+* Wichtig war uns, keinen 'buchstabiernotwendigen' Namen zu vergeben bzw einen, den man in der Region behämmert ausspricht (Janine wäre nie in Frage gekomen  ;) )
+* wir hatten noch 'klar biblische' Namen gestrichen, aber das ist Geschmackssache
+* die Liste engerer namen hält man GeHeim, da eine dumme Bemerkung dritter wertvolle ArBeit zerstören kann

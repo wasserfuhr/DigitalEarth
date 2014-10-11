@@ -1,0 +1,24 @@
+WasSchaetztDu: Wie sieht statistisch gesehen der typische BarCamp-Teilnehmer aus?:
+* VorName: Peter
+* NachName: Müller
+* GeSchlecht: 95% ♂ 
+* SprachWelt: 100% de, 100% en, 60% fr, 20% it, 10% tr, 2% zh
+* PerDu: 98%
+* JahrGang: 1975
+* ProFessor: 4%
+* LebensErwartung: 2055
+* InterNet-Anbindung im MindHome: 3 mbit
+* MindOs: 65% Windows, 30% MacOs, %5 Linux 
+* TerraFlops: 2Ghz
+* FlatRate: 70%
+* GooglePower: 40 queries/day
+* InBox: 40 Messages/day
+* FeedReader: 100 FeedItems/day
+* OpenId: 90%
+* WirkSatz: 40 EuRo/h
+* VerMoegen: 50.000 EuRo
+* SocialNetwork's: 5 accounts
+* DunbarNumber: 200
+* MindBlog: 500 Postings
+* MindWiki: 20 Seiten im PageIndex
+* ShockLevel: 1.8

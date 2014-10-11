@@ -1,0 +1,7 @@
+* MindTags: MindPlace, MindCity
+* InterWiki: [DeWikiPedia:Tokio]
+* BreitenGrad: 35.68
+* LaengenGrad: 139.76
+* BoundingBox: 25000
+
+東京

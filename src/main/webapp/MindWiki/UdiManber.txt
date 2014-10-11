@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [LangReiter:Udi+Manber] [WikiPedia:Udi_Manber]
+* DbLp: http://dblp.uni-trier.de/rec/pid/m/UdiManber
+* HomePage: http://manber.com/
+* MindSkill: GrEp

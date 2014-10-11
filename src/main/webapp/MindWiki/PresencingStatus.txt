@@ -1,0 +1,15 @@
+A LifePattern InVent'ed at MotorOla and told me by my dear friend VilleKeraenen meant to be a CheckOut after a deep conversation, meeting, or experience (such as a game, opera visit, museum visit,...):
+
+# Was war gut? (Good)
+# Was war schlecht? (Tricky)
+# Was habe ich gelernt? (Learned)
+# NextAction's? (Action)
+
+Actual PresencingStatus at [FlickR|http://www.flickr.com/photos/ralflippold/sets/72157623063031728/]
+
+additionally:
+# your price on the ForEx for buying 1 KiloKayGroschen (in EuRo)
+# your price on the ForEx for selling 1 KiloKayGroschen (in EuRo)
+StockPingPong:
+# your price on the NooPolis StockExchange for buying 1‰ LockSchuppenAg shares (in KayGroschen)
+# your price on the NooPolis StockExchange for selling 1‰ LockSchuppenAg shares (in KayGroschen)

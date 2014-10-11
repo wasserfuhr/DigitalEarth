@@ -1,0 +1,11 @@
+!Aktive LockTeam:
+
+||VornameNachname  ||MindSkill's
+|RalfLippold       |Networking LeanThinking CommmunityBuilding SystemDynamics ProcessConsultation TheSingularity TheoryU WebZwoNull
+|MarcoDziallas     | 
+|PeterStawowy      |
+|PeterHerbst       |
+|SoerenRogoll      |
+|HolgerHelas       |
+|AlexanderFriedland|
+|RainerWasserfuhr  |

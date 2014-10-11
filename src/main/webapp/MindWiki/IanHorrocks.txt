@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/IanHorrocks
+* HomePage: http://web.comlab.ox.ac.uk/people/Ian.Horrocks/
+* PageNumber: 8
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann FranzBaader UlrikeSattler IanHorrocks

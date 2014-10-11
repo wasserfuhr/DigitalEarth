@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [WebSeitz:ErikBenson]
+* BirthDay: 05-28
+* MindSkill: NoMic
+|[TwittEr:busterbenson]

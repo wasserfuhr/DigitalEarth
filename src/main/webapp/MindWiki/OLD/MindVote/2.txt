@@ -1,0 +1,14 @@
+Ein VotingWidget.
+
+!Beispiel-Vote:
+!!Wann soll das Nachfolgeevent der WikiTchen stattfinden?
+
+||Voter||Vote
+|RainerWasserfuhr|200708
+
+
+WichtigeBrowser: Nur FireFox?
+||Voter||Vote
+|RainerWasserfuhr|ja
+
+

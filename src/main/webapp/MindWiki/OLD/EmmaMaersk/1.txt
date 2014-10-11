@@ -1,0 +1,4 @@
+* MindTags: MindThing
+* InterWiki: [WikiPedia:Emma_Mærsk]
+* CallSign: OYGR2
+* BoundingBox: 397

@@ -1,0 +1,5 @@
+* IsA: MindEvent
+
+A HackingDay in the LockOffice to create LockSchuppen3D-BuildingModel with EtherCad?
+
+TeilNehmer-BrainStrom: HeidiGallinat HolgerBertling SiggiSchwarz ChristineSchlinck MatthiasWeise PeterKatranuschkov RaimerScherer ValentinHammerschmidt StudiEntrepreneur'e

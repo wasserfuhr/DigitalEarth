@@ -1,0 +1,3 @@
+* IsA: WirtsHaus
+* HomePage: http://www.cafeallegromusic.com/
+* PartOf: UniversityWay

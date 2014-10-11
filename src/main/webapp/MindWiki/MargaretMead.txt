@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Margaret_Mead] [OpenCyc:MargaretMead] 
+* MindQuote: "a small group of committed people can change the world. Indeed, it's the only thing that ever has."
+* BornIn: 1901
+* BirthDay: 12-16
+* DiedIn: 1978
+* MarriedTo: GregoryBateson

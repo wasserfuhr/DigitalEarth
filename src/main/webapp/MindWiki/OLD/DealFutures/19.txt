@@ -1,0 +1,29 @@
+CrowdWisdom: Was wäre ein noch nicht börsennotiertes Unternehmen wert, wenn es heute verkauft würde?
+
+Alle BuergerInnen die eine Schätzung abgeben, erhalten 100 KayGroschen pro Schätzung:
+
+Geschätzte Deal-Volumes:
+
+||Deal||Schätzung||Währung||von
+|EdelBild  |  200|GBP|ThomasPromny
+|EdelBild  |  30k|EUR|RainerWasserfuhr
+|FlickEr   |  30m|USD|RainerWasserfuhr
+|JaiKu     |  35m|USD|RainerWasserfuhr
+|TwittEr   |  50m|USD|RainerWasserfuhr
+|TwittEr   | 100m|USD|YvonneSchubert
+|StudiVz   |  85m|EUR|RainerWasserfuhr
+|SecondLife|    0|USD|ThomasPromny
+|SecondLife| 200m|USD|YvonneSchubert
+|SecondLife| 300m|USD|M.
+|SecondLife| 400m|USD|RainerWasserfuhr
+|FaceBook  |   9b|USD|RainerWasserfuhr
+|MySpace   |  20b|USD|RainerWasserfuhr
+|MindBroker|   1m|KayGroschen|RainerWasserfuhr
+
+Bei vollzogenen Deals:
+* StudiVz an HoltzBrinck
+* FlickEr an YaHoo
+* JaiKu an GoogleInc
+
+
+DoIt: Eine WebApp, um auf zukünftige Übernahmedeals zu wetten.

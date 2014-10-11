@@ -1,0 +1,8 @@
+Eine PiratenFirma ist ein UnterNehmen, bei dem MitArbeiter oder ShareHolder keine Nachteile befürchten müssen, wenn
+sie sich als Sympathisant Wähler oder MitGlied der PiratenPartei outen.
+
+Derzeit sind folgende UnterNehmen eine offizielle PiratenFirma:
+* MindBrokerKg: (BusinessPirate-ShareHolder: >= 91%)
+* PieschenRobotics (ShareHolder: >= 96%)
+* LockSchuppenAg: (ShareHolder: >= 27%)
+* ProtoWerb: (ShareHolder: >= 15%)

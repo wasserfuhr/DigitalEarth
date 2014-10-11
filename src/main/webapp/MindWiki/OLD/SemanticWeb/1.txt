@@ -1,0 +1,5 @@
+CitiZens who have defined MindTrust on their ProfilePage can export it as FoAf.
+
+Example: [http://id.mindbroker.de/foaf?RainerWasserfuhr]
+
+View with FoafExplorer: [http://xml.mfd-consult.dk/foaf/explorer/?foaf=http://id.mindbroker.de/foaf?RainerWasserfuhr]

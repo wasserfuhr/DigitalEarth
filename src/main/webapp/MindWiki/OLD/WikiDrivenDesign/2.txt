@@ -1,0 +1,7 @@
+[inspiriert|http://riehle.org/computer-science/research/2007/wikis4se-2007-ppaper.html] durch DirkRiehle und analog zu [WikiPedia:Test-driven_development] oder [WikiPedia:Model-driven_development]
+betreibt MindBroker WikiDrivenDesign:
+
+* Der allererste Prototyp einer Software ist ein Wiki.
+* Die ersten Nutzer werden zuerst als ProfilSeite angelegt.
+* Strukturierte Daten werden als MindProps im Wiki abgelegt.
+* Per MindApi werden um das Wiki herum weitere Module entwickelt.

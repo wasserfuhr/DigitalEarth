@@ -1,0 +1,23 @@
+* MindTags: TicTacToe
+
+Testlauf für DresdenChess:
+
+[{Image src='http://farm3.static.flickr.com/2130/2218760656_99b144d158.jpg'}]
+(view [with Google Maps|http://maps.google.com/maps?q=http://id.mindbroker.de/tictactoe], view [with Google Earth|http://id.mindbroker.de/tictactoe])
+
+!Team X:
+* RainerWasserfuhr
+
+!Team O
+* HeikeRibke
+
+!Bisherige Züge:
+* https://twitter.com/rainer/statuses/640108672
+* https://twitter.com/HeileRibke/statuses/640213852
+* https://twitter.com/rainer/statuses/647130642
+
+!Spielfeld:
+||----------- ||----------- ||----------- 
+|X:WirkZentrum| - | -
+| - | - | -
+|O:HotelKipping | - |X:CarolaSchloesschen

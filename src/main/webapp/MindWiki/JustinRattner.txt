@@ -1,0 +1,5 @@
+* IsA: SingularityMind
+* InterWiki: [WikiPedia:Justin_Rattner]
+* JahrGang: 1949
+* DbLp: http://dblp.uni-trier.de/rec/pid/20/1867
+* HomePage: http://www.intel.com/pressroom/kits/bios/rattner.htm

@@ -1,0 +1,32 @@
+später als WebApp unter http://vote.mindbroker.de
+
+!KabiNettWahl
+
+!VerFassung: Neuer Zusatz: "Alle unter unseren Domains veröffentlichten Texte unterliegen der GnuFdl?
+||Voter          ||Vote
+|HeikeRibke      |ja
+|RainerWasserfuhr|banane
+
+!SportPortal?
+||Voter          ||Vote
+|RainerWasserfuhr|irgendwann
+|YvonneSchubert  |nein
+|HeikeRibke      |banane       
+
+!WichtigeBrowser: Nur FireFox?
+||Voter          ||Vote
+|RainerWasserfuhr|ja
+|DimitriUwarov   |nein
+|HeikeRibke|nein
+
+!MindCal oder MindCalendar?
+||Voter          ||Vote
+|RainerWasserfuhr|cal
+|YvonneSchubert  |cal
+|HeikeRibke      |cal
+
+!AlexWipperfuerth
+Wieviele Aktien hat AlexWipperfuerth als Geschenk verdient, damit er echt MindBroker wird?
+||Voter          ||Vote
+|RainerWasserfuhr|10
+

@@ -1,0 +1,9 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Monika_Henzinger] [LangReiter:Monika+Henzinger]
+* JahrGang: 1966
+* BirthDay: 04-17
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/MonikaRauchHenzinger
+* ViAf: http://viaf.org/viaf/5616598
+* HomePage: http://www.cs.univie.ac.at/employee.php?eid=1830
+* PageNumber: 2
+* PagePath: LarryPage SergeyBrin MonikaHenzinger

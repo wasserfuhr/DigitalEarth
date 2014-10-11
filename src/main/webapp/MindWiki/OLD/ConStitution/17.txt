@@ -1,0 +1,70 @@
+* MindQuote: ThomasAquin: integritas - perfectio - consonantia - commensuratio - convenientia - claritas
+* WeltSprache: deutsch: VerFassung, español: ConStitucion
+* SprachWelt: en
+
+The ConStitution of the WikiBased digital republic of NooPolis:
+(For Questions: NooPolisFaq)
+
+!Principle
+* The purpose of NooPolis is to maximize the FreeDom and HappiNess of it's CitiZens.
+
+!Citizenship
+* All CitiZens have exactly one MindId and therewith a LogIn to the MindWiki and our other WebApp's.
+* With receiving a MindId you become a Citizen and you accept the ConStitution.
+* CitiZens are on a first-name basis.
+* CitiZens are intertwingled into a WebOfTrust.
+* Existing CitiZens can invite new CitiZens.
+* For registration, the inviter has to choose the first name, surname and the gender of the invited.
+* Before inviting, the inviter has to create a profile page for the invited in the MindWiki.
+* The inviter has to choose the correct first name and surname of the invited.
+* The profile page should have the correct CamelCase spelling of the first name and surname. Valid exceptions are:
+** short versions of the first name (e.g. Tina instead of Martina)
+** registered artist names (e.g. AlbanNikolaiHerbst)
+* A subsequent name change is subject to verification by at least two Trustees.
+* For the case of EndOfLife of CitiZens, they can declare their LastWill. Here they can inherit their virtual assets.
+* If no LastWill was declared, the virtual fortune will go to the BankAccount of the PieschenBank. 
+
+!ConStitution and Legislation
+* The ConStitution is available in all major WorldLanguage's.
+* The English version of the ConStitution is the binding version.
+* The CabiNet ensures that the ConStitution is RePeat'ed translated into any other WorldLanguage.
+* All rules of the ConStitution and other pages of the MindWiki may be changed by CitiZens.
+* No rule change applies retroactively.
+* There is the AllEyes principle.
+* Changes of the ConStitution and the GovernmentBudget are considered to be adopted by all citizens, if no citizen objects to a change within a veto respite by editing the wiki contrary.
+* The veto respite is 3 days. 
+* If CitiZens are longer absent, they can extend the period of absence to 14 days.
+* In the case of a disagreements the CabiNet can issue a MindVote among all citizens.
+* At the MindVote all CitiZens are eligible to vote, whose BankAccount is at least 1000 KayGroschen. The simple majority decides.
+* Every citizen shall once a month participate in the UrWahl.
+* In case of a violation of the ConStitution, imposition of penalties or an order restricting the FreeDom of citizens have sought.
+* The MindCourt meets a judgement by MindVote of all CitiZens.
+* The FreeDom of CitiZens can only be restricted by a ruling of the MindCourt.
+* All of our texts and data are subject to GnuFdl. 
+
+!Economy
+* NooPolis is a VirtualEconomy. 
+* The currency of NooPolis are KayGroschen. 
+* The PieschenBank takes care of them.
+* The money supply is 10.000.000 KayGroschen.
+* CitiZens have a BankAccount.
+* All transactions of the BankAccount are TransParent to all CitiZens.
+* The savings and spendings of NooPolis are managed in the GovernmentBudget. 
+* Benefits are paid in KayGroschen.
+* Active companies on the sovereign territory of NooPolis are listed in the TradeRegister.
+* The Shares of each company can be traded on the MindFloor.
+* MindBroker is an EnterPrise on the sovereign territory of NooPolis.
+* Mind Broker is the e-government service provider of NooPolis and guardian of the MindId's.
+* Transactions on the BankAccount, the MindFloor, the IpoKurs and the GovernmentBudget will be stored up to the EndOfLife of NooPolis.
+* The EndOfLife of the VirtualEconomy of NooPolis and the KayGroschen is 2029-12-31.
+
+!Government
+* NooPolis is a republic with the LeaderShip model of PrimusInterPares.
+* CitiZens every six months elect the CabiNet of NooPolis per CabiNetElection.
+* The CabiNet leads the ongoing operations of NooPolis.
+* All members of the CabiNet's document their future actions (DoIt)
+* All members of the CabiNet's lead a list of tasks, which they always return (ReDo).
+* All members of the CabiNet always read the KabiNettChat at least every 3 days.
+* At least once a week a member of the CabiNet invites to a ConsultationHour.
+* All members of the CabiNet receive a monthly payment of 10,000 KayGroschen from the PieschenBank.
+* The CabiNet sends the NewsLetter to the CitiZens once per month.

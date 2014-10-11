@@ -1,0 +1,22 @@
+;
+;
+;{{{
+
+(do
+ (defn camelify [camels]
+  (apply str
+   (map
+    (fn [keyword]
+     (str "<a href='http://mindbroker.de/wiki/" (.trim keyword) "'>" (.trim keyword) "</a> "))
+      (seq 
+       (.split
+        camels
+        ",")))))))
+
+;  (if
+ ;   (.startsWith (.getPathInfo request) (str "/do/" name))
+  ;    (do
+   ;     (controller)
+    ;    (.sendRedirect response (str "/" name "?message=created"))))
+    )
+;}}}

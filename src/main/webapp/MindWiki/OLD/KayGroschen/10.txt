@@ -1,0 +1,10 @@
+KayGroschen sind die Währung in der VirtuelleOekonomie von NooPolis.
+
+Gewidmet:
+* AlanKay
+* [DeWikiPedia:Groschen]
+
+Erste Prägung 20070422:1100 im Mind von RainerWasserfuhr.
+Die PieschenBank verwaltet die weitere Prägung und Ausgabe von KayGroschen.
+
+Aktueller WechselKurs: 1 KayGroschen=0.05 Euro.

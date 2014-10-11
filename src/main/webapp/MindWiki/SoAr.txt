@@ -1,0 +1,2 @@
+* HerKunft: "State, Operator And Result"
+* InterWiki: [WikiPedia:Soar_(cognitive_architecture)]

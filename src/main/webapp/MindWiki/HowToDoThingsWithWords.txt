@@ -1,0 +1,5 @@
+* DcAuthor: JlAustin
+
+and: how to do it with a SemanticWiki?
+
+Assumption 1: a ClosedWorld, which only consists of the MindWiki (and NooPolis WebApp's). You __only__ do things by editing it.

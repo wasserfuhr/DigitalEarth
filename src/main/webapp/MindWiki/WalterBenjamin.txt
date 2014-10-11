@@ -1,0 +1,7 @@
+* IsA: PerSon
+* MindQuote: "Kunst muss verdächtig sein, das ist ihre Aura."
+* InterWiki: [DeWikiPedia:Walter_Benjamin]
+* BornIn: 1892
+* BirthDay: 07-15
+* DiedIn: 1940
+* ViAf: http://viaf.org/viaf/46757196

@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Alexander_Kluge]
+* BirthDay: 02-14
+* HasTalked: NiklasLuhmann, DirkBaecker, DetlevLinke

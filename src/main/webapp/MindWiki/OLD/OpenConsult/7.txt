@@ -1,0 +1,8 @@
+Im Angebot:
+* RainerWasserfuhr: WirkSatz: 100 EuRo/h, SkillCloud: java, eclipse, maven, svn, jetty, derby, hibernate, jsp, css, html, swarch, sysarch
+* DimitriUwarov: WirkSatz: 98 EuRo/h, SkillCloud: java, eclipse, maven, svn, jetty, derby, hibernate, jsp, css, html
+
+Rabatt:
+* 4% für jeden Tag pro Woche an dem per HomeOffice gewirkt werden kann
+* 12% für OpenSource-SourceCode
+* 10% für PayPerCommit

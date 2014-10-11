@@ -1,0 +1,4 @@
+* selbst machen geht vor konsumieren
+* digites machen geht vor analoges machen
+* persistentes machen geht vor transientes machen
+* neues machen geht vor bekanntes machen

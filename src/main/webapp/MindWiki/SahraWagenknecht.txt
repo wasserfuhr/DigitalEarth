@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Sahra_Wagenknecht]
+* BirthDay: 07-16
+* ParteiWiki: LinkeWiki

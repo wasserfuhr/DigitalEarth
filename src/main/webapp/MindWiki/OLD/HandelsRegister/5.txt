@@ -1,0 +1,3 @@
+||UnterNehmen  ||RechtsForm         ||ProKura
+|PieschenBank  |StaatsBetrieb       |RainerWasserfuhr,YvonneSchubert,DanielPoodratchi
+|MindBroker    |VolksEigenerBetrieb |RainerWasserfuhr,YvonneSchubert,DanielPoodratchi

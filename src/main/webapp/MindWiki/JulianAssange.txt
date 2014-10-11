@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Julian_Assange]
+* BornIn: 1971
+* BirthDay: 07-03

@@ -1,0 +1,5 @@
+* IsA: NobelPrizeLaureate ProFessor
+* InterWiki: [DeWikiPedia:Milton_Friedman]
+* BornIn: 1912
+* BirthDay: 07-31
+* DiedIn: 2006

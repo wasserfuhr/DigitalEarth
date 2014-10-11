@@ -1,0 +1,8 @@
+* 2x2: RootWikiWall
+* 4x4: TinyWikiWall
+* 8x8: SmallWikiWall
+* 16x16: WikiWall
+* 32x32: LargeWikiWall?
+* 64x64: BigWikiWall
+* 128x128: HugeWikiWall
+* 256x256: MindWikiWall

@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Peter_Fox]
+* JahrGang: 1971
+* BirthDay: 09-03

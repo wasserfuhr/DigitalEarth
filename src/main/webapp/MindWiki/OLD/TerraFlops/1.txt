@@ -1,0 +1,17 @@
+* SprachWelt: en
+
+inspired by http://crnano.typepad.com/crnblog/2008/01/unreal-accelera.html :
+what could be a good measure for technological acceleration?
+
+First Suggestion: The cumulated information processing power of
+* organisms and
+* silicon based systems
+
+First numbers:
+
+||Year||People||Flops
+|2008|6.6b|?
+
+http://movementarian.com/2006/08/18/flops-mips-watts-and-the-human-brain/:
+* HansMoravec: 100 teraflops
+* NickBostrom: 100 petaflops

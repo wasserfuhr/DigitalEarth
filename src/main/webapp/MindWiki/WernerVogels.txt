@@ -1,0 +1,11 @@
+* IsA: PerSon
+* InterWiki: [LangReiter:Werner+Vogels] [WebSeitz:WernerVogels] [WikiPedia:Werner_Vogels] [WikiWikiWeb:WernerVogels]
+* MindFaves: WorkingBackwards
+* HomePage: http://www.allthingsdistributed.com/
+* DbLp: http://dblp.uni-trier.de/rec/pid/v/WernerVogels
+* PageNumber: 
+* PagePath: LarryPage ... JimGray WernerVogels
+|[TwittEr:Werner]
+|[XingLe:Werner_Vogels]
+|[FlickEr:wernervogels]
+|[FaceBook:731555234]

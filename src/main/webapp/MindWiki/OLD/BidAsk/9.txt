@@ -1,0 +1,11 @@
+||MindBroker||type||#||price||Currency
+|RainerWasserfuhr|bid|200|  1|EUR
+|RainerWasserfuhr|bid|100|  2|EUR
+|YvonneSchubert|ask|75|80|EUR
+|RainerWasserfuhr|ask|20 | 20|EUR
+|RainerWasserfuhr|ask|20 | 20|EUR
+|RainerWasserfuhr|ask|10 |500|EUR
+|RainerWasserfuhr|ask|1|1.000.000.000.000|EUR
+
+* bid: der Kurs, zu dem ein Marktteilnehmer A bereit ist, ein Wertpapier zu kaufen
+* ask: der Kurs, zu dem ein Marktteilnehmer A bereit ist, ein Wertpapier zu verkaufen

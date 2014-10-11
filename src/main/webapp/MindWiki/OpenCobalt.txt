@@ -1,0 +1,4 @@
+* InterWiki: [WikiPedia:Open_Cobalt]
+* HomePage: http://www.opencobalt.org/
+
+new CroQuet

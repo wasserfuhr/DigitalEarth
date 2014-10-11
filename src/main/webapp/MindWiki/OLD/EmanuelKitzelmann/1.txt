@@ -1,0 +1,11 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/28/135
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann WolfgangWahlster CarolaReddigSiekmann
+HelmarGust
+
+http://dblp.uni-trier.de/db/indices/a-tree/g/HelmarGust:.html
+http://dblp.uni-trier.de/db/indices/a-tree/g/Geibel:Peter.html
+http://dblp.uni-trier.de/db/indices/a-tree/w/Wysotzki:Fritz.html
+http://dblp.uni-trier.de/db/indices/a-tree/s/Schmid:Ute.html
+http://dblp.uni-trier.de/db/indices/a-tree/k/Kitzelmann:Emanuel.html

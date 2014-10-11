@@ -1,0 +1,6 @@
+* MindTags: MindThing
+* BoundingBox: 2
+* SlimNess: 0.1
+* OwnedBy: RainerWasserfuhr
+
+might have an embedded GPS sender.

@@ -1,0 +1,6 @@
+* IsA: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Theo_Albrecht]
+* ChildOf: AnnaAlbrecht KarlAlbrecht2
+* BornIn: 1922
+* BirthDay: 03-28
+* DiedIn: 2010

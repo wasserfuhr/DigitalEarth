@@ -1,0 +1,11 @@
+* IsA: SingularityMind
+* InterWiki: [WebSeitz:RobinHanson] [WikiPedia:Robin_Hanson]
+* JahrGang: 1959
+* BirthDay: 08-28
+* DbLp: http://dblp.uni-trier.de/rec/pid/65/5761
+* PageNumber: 13
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge BarneyPell MichaelGenesereth DavidAndre StuartRussell RichardDearden JeremyFrank PeterCheeseman RobinHanson
+* MindSkill: PredictionMarket UpLoad
+* LockSessionTopics: FutArchy NooPolis NoMic LongBetOne
+|[TwittEr:robinhanson]
+|[FaceBook:15616116]

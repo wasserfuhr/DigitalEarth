@@ -1,0 +1,15 @@
+* InterWiki: [WikiPedia:IJCAI_Award_for_Research_Excellence]
+
+RedBlueGame:
+* 2009 VictorLesser 
+* 2007 AlanBundy 
+* 2005 GeoffreyEHinton 
+* 2003 NilsNilsson 
+* 2001 DonaldMichie 
+* 1999 JudeaPearl 
+* 1997 AravindJoshi 
+* 1995 HerbertSimon 
+* 1993 RaymondReiter 
+* 1991 MarvinMinsky 
+* 1989 AllenNewell 
+* 1985 JohnMcCarthy

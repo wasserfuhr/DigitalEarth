@@ -1,0 +1,22 @@
+* JahrGang: 1985
+* InvitedBy: RainerWasserfuhr
+* TrustLevel: 1
+* WohnSitz: KarlsRuhe
+* MindMac: macDaniel
+* MindTrust: RainerWasserfuhr, YvonneSchubert
+* PastProjects: PieschenBank, SportPortal, ComBotsIm, InBox, DoItProject
+* MindRole: Founder, Developer
+* MindSkill: AppEngine, ApacheMaven, ApacheDerby, GoogleAnalytics, JspWiki, LifeWiki, EinfachMachen
+* MindFaves: RoisinMurphy, TanzDerMolekuele
+||AusLand
+|[SkyPe:daniele0985]
+|[XingLe:Daniel_Poodratchi]
+|[DeWikiPediaUser:DanielPoodratchi]
+|[WorldWideWeb:poodratchi.de]
+|[FaceBook:534650401]
+|[DelIcioUs:daniele85]
+|[FlickEr:daniele85]
+|[TwittEr:daniele]
+|[BlogLines:danieleP]
+|[SecondLife:Daniel_Foysten]
+|[StudiVz:1d7c06da1967f547]

@@ -1,0 +1,8 @@
+InspiredBy [WikiPedia:Best,_worst_and_average_case]
+
+Example: RainerWasserfuhr: MarketCap LockSchuppenAg
+||          ||MarketCap||ProBab'ility||Weight
+|BestCase   |>1.000.000|  10%| 100.000
+|AverageCase|  >100.000|  30%|  30.000
+|WorstCase  |       <=0|  60%|       0
+||Sum       ||         ||100%||130.000

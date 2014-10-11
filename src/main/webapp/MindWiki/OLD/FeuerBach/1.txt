@@ -1,0 +1,5 @@
+in StuttGart.
+
+* BreitenGrad: 48.8113
+* LaengenGrad: 9.1588
+* BoundingBox: 2500

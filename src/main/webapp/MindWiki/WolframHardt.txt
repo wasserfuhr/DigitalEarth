@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/40/3158
+* HomePage: http://www.tu-chemnitz.de/informatik/CE/Hardt/
+* PageNumber: 10
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ArndtBode HeinrichMayr HansJuergenAppelrath WolfgangNebel JoachimGerlach WolframHardt
+
+TuChemnitz

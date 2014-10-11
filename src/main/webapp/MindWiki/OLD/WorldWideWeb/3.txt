@@ -1,0 +1,2 @@
+* InterWiki: [DeWikiPedia:World_Wide_Web], [WebSeitz:WorldWideWeb]
+TimBl invented it. Still missing: The WebOfTrust for the GiantGlobalGraph.

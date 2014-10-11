@@ -1,0 +1,35 @@
+* CoinedBy: DoreenAnders
+
+Etwa im Jahre 2007 hatte RainerWasserfuhr seine letzte TotHolz-VisitenKarte aus alten MindBrokerKg-Zeiten aufgebraucht.
+
+Seither tauscht er nur noch VisitenKarte'n, die er vorher von anderen BuergerInnen erhalten hat:
+
+||am       ||Karten von    ||an             ||über            ||Stück
+|2010-07-17|HotelKronentor |BettinaBunge    |RainerWasserfuhr |1
+|2010-07-17|BettinaBunge   |RainerWasserfuhr|                 |2
+|2010-06-23|GuenterGrimm   |RainerWasserfuhr|                 |1
+|2010-05-13|ArminMuehlhoff |RainerWasserfuhr|                 |1
+|2010-04-23|DianeHirschfeld|RainerWasserfuhr|                 |1
+|2010-04-16|RoswithaHunold |MichelLoehr     |RainerWasserfuhr |1
+|2010-04-16|MichelLoehr    |RainerWasserfuhr|                 |2
+|2010-04-16|MartinRoell    |EvaMariaS       |RainerWasserfuhr |1
+|2010-04-16|EvaMariaS      |RainerWasserfuhr|                 |2
+|2010-04-16|AnjaPuechel    |AxelKlarmann    |RainerWasserfuhr |1
+|2010-04-16|AxelKlarmann   |RainerWasserfuhr|                 |2
+|2009-06-25|MartinRoell    |SusanneStanicki |RainerWasserfuhr |1
+|2009-06-25|UlrichSoeder   |RainerWasserfuhr|                 |2
+|2009-06-25|SusanneStanicki|RainerWasserfuhr|                 |1
+|2009-06-25|YvonneSchubert |UlrichSoeder    |RainerWasserfuhr |1
+|2009-01-29|MartinRoell    |PetraBuhl       |RainerWasserfuhr |1
+|2009-01-29|PetraBuhl      |RainerWasserfuhr|                 |6
+
+Derzeit im Spiel:
+* YvonneSchubert (7x)
+* PetraBuhl (6x)
+* MartinRoell (5x)
+* ChristineSchlinck (3x)
+* SaschaBeike (3x)
+* UlfWenzel (2x)
+* MarcoDziallas (2x)
+* BertramDressel
+* RalfLippold

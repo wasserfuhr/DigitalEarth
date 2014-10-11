@@ -1,0 +1,13 @@
+* BrainStorm: FarmVille FarmTown RealEstate WeizenMehl FoodShelterAndWeb
+
+Bringing a VirtualEconomy to NooPolis.
+
+Here is how it works:
+
+you can buy land in the MindShop.
+
+FarmClj is a ProtoType of a game.
+
+DomainModel: 
+* Object
+* PayMent

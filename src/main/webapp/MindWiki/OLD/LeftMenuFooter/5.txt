@@ -1,0 +1,8 @@
+----
+MindBanner:
+[{Image src='http://www.familien-extra.de/medialibrary/partner/125x125/images/logo-familienfreund.jpg' link='http://familienfreund.de/}]
+----
+__BackLink's__
+
+
+[{ReferringPagesPlugin max=20, maxwidth=50}]

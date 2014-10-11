@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* SwDf: http://data.semanticweb.org/person/boi-faltings
+* DbLp: http://dblp.uni-trier.de/rec/pid/f/BoiFaltings
+* HomePage: http://liawww.epfl.ch/~faltings/

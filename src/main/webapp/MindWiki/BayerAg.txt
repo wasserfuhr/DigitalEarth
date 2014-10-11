@@ -1,0 +1,3 @@
+* IsA: DaxUnternehmen
+* InterWiki: [DeWikiPedia:Bayer_AG]
+* IsIn: DE000BAY0017

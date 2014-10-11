@@ -1,0 +1,28 @@
+http://del.icio.us/tag/mindbrokerag
+
+Stammkapital mit 50.000 Aktien zu 1 EUR.
+DeadLine: Bis spätestens 31.12.2007 im HandelsRegister der StadtDresden eingetragen.
+
+Organe: HauptVersammlung, VorStand, AufSichtsRat.
+
+!Aktionäre
+||MindBroker||Anteile||WettReserve||%||IpoKurs||Aktueller Kurs
+|RainerWasserfuhr|32.497|30|65|10,00|9,50
+|DanielPoodratchi|9.500|10|19|4,50|0,5
+|OliverGassner|2.500| |5| |
+|NN|2.500| |5| |
+|AndreasWeigel|1.501| |3| |1,5
+|YvonneSchubert|1.500| |3|5,00|5,00
+|ChristineSchlinck|2| |0.001|4,00|5,00
+
+NN: Mit RainerWasserfuhr noch in Klärung.
+
+!Wetten um Aktien
+
+||am||Pro||Contra||#||DeadLine||Topic
+|20070303|RainerWasserfuhr|ChristineSchlinck|10|20100303|DelIq
+|20070302:1620|RainerWasserfuhr|DanielPoodratchi|10|20090302|SecondLips
+|2007???|RainerWasserfuhr|RicardaDHerbrand|10|20070331|Ricarda wird in SecondLife sein
+
+
+Idee von DanielPoodratchi: DesignArtAndClothes

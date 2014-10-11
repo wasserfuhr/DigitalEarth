@@ -1,0 +1,4 @@
+http://schema.peoplesdns.com/menow/
+
+||No             ||MindPeople    || ||
+|20080220:1732MEZ|RainerWasserfuhr|isEating|MaggiFlaedleSuppe

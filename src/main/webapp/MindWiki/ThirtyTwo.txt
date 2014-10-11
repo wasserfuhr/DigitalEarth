@@ -1,0 +1,4 @@
+* IsA: EnterPrise
+
+!CloudComputing für die PlanVerwaltung
+SchleichWerbung für die PieschenerAllgemeine: Seit [TimeLine:2010-xx-yy] gibt es mit »ThirtyTwo« ein junges dynamisches neues UnterNehmen zur Entwicklung von SoftWare für die PlanVerwaltung in WissensBasiert'en BauUnternehmen. ThirtyTwo entwickelt SoftWare für AppEngine, mit der ein bislang unerreichtes Mass an Skalierbarkeit und Hochverfügbarkeit zu unschlagbar günstigem Preis sichergestellt werden kann.

@@ -1,0 +1,5 @@
+; NooMic is NoMic with SourceCode for new NooPolis WebApp's - InSpir'ed by PerlNomic
+;{{{
+
+"11"
+;}}}

@@ -1,0 +1,5 @@
+* HerKunft: Virtual International Authority File
+* HomePage: http://www.d-nb.de/wir/projekte/viaf_info.htm
+
+SameAs:
+* MarkusWasserfuhr: http://viaf.org/viaf/40492973 http://viaf.org/viaf/49022351

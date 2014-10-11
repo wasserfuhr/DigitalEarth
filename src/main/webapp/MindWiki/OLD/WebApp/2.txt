@@ -1,0 +1,9 @@
+Alle MindBroker und BuergerInnen von NooPolis haben ein LogIn können derzeit folgende WebApp's nutzen:
+
+||Subdomain                 ||WebApp   ||wozu?
+|http://mindbroker.de/      |MindWiki  |lese und editiere alle Seiten im MindWiki
+|http://id.mindbroker.de/   |MindId    |lade BuergerInnen ein; ändere Dein Passwort
+|http://bank.mindbroker.de/ |BankKonto |überweise KayGroschen
+|http://blog.mindbroker.de/ |MindBlog  |schreibe und kommentiere im MindBlog
+
+siehe auch: UnsereProjekte.

@@ -1,0 +1,8 @@
+RainerWasserfuhrWuenschtSich eine WebApp, bei der man Wetten auf die Nobelpreisträger der Zukunft machen kann.
+
+unter http://nobel.mindbroker.de/.
+
+bis dahin hier:
+
+||MindBroker||Aktien||Jahr||für||Preisträger
+|RainerWasserfuhr|10|2020|Physik|AndreasStuhlmueller

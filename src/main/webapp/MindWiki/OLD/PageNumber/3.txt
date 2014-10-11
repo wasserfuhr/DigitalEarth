@@ -1,0 +1,12 @@
+* NamedAfter: LarryPage
+
+PageNumber <= TurkNumber + 8:
+# [http://dblp.uni-trier.de/db/indices/a-tree/t/Turk:Ziga.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/b/Brickley:Dan.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/g/Guha:Ramanathan_V=.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/l/Lenat:Douglas_B=.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/s/Stonebraker:Michael.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/g/Gray:Jim.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/u/Ullman:Jeffrey_D=.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/b/Brin:Sergey.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/p/Page:Lawrence.html]

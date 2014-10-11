@@ -1,0 +1,26 @@
+||Actor||Phase||Status||Action
+|RainerWasserfuhr|AlphaTest|  |schreibe ProjektPlan
+|RainerWasserfuhr|AlphaTest|  |schreibe AlphaTester
+|RainerWasserfuhr|AlphaTest|  |schreibe BetaTester
+|RainerWasserfuhr|AlphaTest|  |schreibe ContinuousIntegration
+|RainerWasserfuhr|AlphaTest|  |code die Suchfunktion
+|RainerWasserfuhr|AlphaTest|  |refactore Messages und Contacts in Mindbroker core
+|RainerWasserfuhr|AlphaTest|  |erweitere DB für: Userguestbooks, Blogfunktion für Clubs/Teams
+|RainerWasserfuhr|AlphaTest|  |implementiere Funktion für online/offline Status der user
+|RainerWasserfuhr|AlphaTest|  |finde Grafiker für Logo
+|DanielPoodratchi|AlphaTest|  |implementiere Tag-Libraries
+|DanielPoodratchi|AlphaTest|  |code Löschoption für Termine, Nachrichten und Spoooortfreunde
+|DanielPoodratchi|AlphaTest|  |code picUpload für Team und Club
+|DanielPoodratchi|AlphaTest|  |code Passwort vergessen
+|DanielPoodratchi|AlphaTest|  |code Passwort ändern
+|DanielPoodratchi|AlphaTest|  |frage Rainer zu reply=true setzen
+|DanielPoodratchi|AlphaTest|  |frage Rainer zu generic Types
+|DanielPoodratchi|AlphaTest|  |code dynamische Zuordnung Teams->Clubs
+|DanielPoodratchi|AlphaTest|  |code Auswahlmöglichkeit der Sportarten
+|DanielPoodratchi|AlphaTest|  |code userGuestbook
+|DanielPoodratchi|AlphaTest|  |frage Rainer zu NullFeldern
+|AndreasWeigel|AlphaTest|  |implementiere jsp "Sie sind nicht berechtigt..." inkl LoginForm und bigLink zu register.jsp
+|AndreasWeigel|AlphaTest|  |implementiere Grunddesign-/layout
+|AndreasWeigel|AlphaTest|  |optimiere Layout für alle Browser
+|AndreasWeigel|AlphaTest|  |integriere Forms für Passwort ändern und Passwort vergessen
+|YvonneSchubert|BetaTest|  |finde SpotBranding

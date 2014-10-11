@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:James_Joyce] [OpenCyc:JamesJoyce]
+* BornIn: 1882
+* BirthDay: 02-02
+* DiedIn: 1941
+
+hat das LifeWiki in einen Roman gegossen.

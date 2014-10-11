@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* BoundingBox: 25
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/271785220
+* HomePage: http://www.sonderbar.de/

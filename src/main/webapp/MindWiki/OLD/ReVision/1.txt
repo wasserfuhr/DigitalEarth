@@ -1,0 +1,3 @@
+Jede Änderung einer WikiPage im MindWiki wird als neue ReVision gespeichert und kann durch MindClick im JspWiki unten rechts auf jeder WikiPage als [DeWikiPedia:Diff] dargestellt werden.
+
+Das ist auch praktisch für den TotalRecall.

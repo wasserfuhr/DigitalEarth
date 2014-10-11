@@ -1,0 +1,8 @@
+This WikiTable for the WikiWall is generated via a GoogleDoc.
+
+!Process for updating data:
+* Go to [the GoogleDoc|http://spreadsheets.google.com/pub?key=tJsnUrFH9ZjsYZ9nhgzu96g]
+* change data in the matrix
+* copy first column
+* go back to WikiWall
+* and paste the copied data over present data

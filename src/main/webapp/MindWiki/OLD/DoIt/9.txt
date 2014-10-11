@@ -1,0 +1,13 @@
+Alpha: http://doit.mindbroker.de/
+
+svn://svn.mindbroker.de/opensource/de.mindbroker.doit
+
+Bugs:
+* man kann kein neues todo erstellen wenn man auf "edit" geklickt hat
+
+done:
+* form input "note" enthält leerzeichen
+* form input "context" enthält leerzeichen
+* "do:" und "thing:" sollten left-align sein
+* im h1 von /contexts steht "doit.mindbroker.de" statt "do.mindbroker.de"
+* auf http://127.0.0.1:8080/contexts ist "start" nicht verlinkt

@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* JahrGang: 1952
+* DbLp: http://dblp.uni-trier.de/rec/pid/43/6932
+* HomePage: http://www.itcon.org/misc/bjork.htm
+* TurkNumber: 1
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd NorbertStreitz JohnSmith PeterLinde BobMartens BoChristerBjoerk

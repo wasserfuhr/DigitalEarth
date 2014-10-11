@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Guy_Lewis_Steele_junior] [WikiWikiWeb:GuySteele]
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/GuyLSteeleJr
+* PageNumber: 10
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi AlexAiken RalfTreinen NachumDershowitz YuriGurevich BertrandMeyer GuySteele

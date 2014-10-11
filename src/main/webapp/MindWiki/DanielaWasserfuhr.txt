@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* HomePage: http://www.uni-duisburg-essen.de/herz/html/unser_arzteteam.html
+* MindSkill: CardiovascularSurgery

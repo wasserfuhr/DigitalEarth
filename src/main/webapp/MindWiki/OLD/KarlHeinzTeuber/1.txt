@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* JahrGang: 1937
+* WohnSitz: SanFrancisco
+* HasTalked: MilosForman, TomHulce

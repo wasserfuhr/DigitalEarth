@@ -1,0 +1,3 @@
+* IsA: PerSon
+* HasTalked: RainerWasserfuhr RalfLippold
+|[XingLe:Ray_Erfurth2]

@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Wolfgang_Coy]
+* BirthDay: 11-03
+* DbLp: http://dblp.uni-trier.de/rec/pid/17/1783
+* PageNumber: 4
+* PagePath: LarryPage TerryWinograd NorbertStreitz PeterGorny WolfgangCoy

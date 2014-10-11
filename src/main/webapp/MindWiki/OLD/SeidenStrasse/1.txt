@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* HomePage: http://www.seidenstrasse-dresden.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/256407883
+
+TotalRecall:
+* 20081027: DasSystem, NachHaltig, KarlMarx, LifeWiki, MindCube, GoetzWerner, DresdenExists, XingLe, GuteFragen, ZehnFragen, EgoGoogling, CyNetArt, ElbTaler, KogWis08, FutureGame, MonoPoly, BenGoertzel, OpenCog, ArTelligence, IntuitiveLinear, SpiegelWelt

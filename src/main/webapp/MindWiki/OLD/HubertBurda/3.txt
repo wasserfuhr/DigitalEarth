@@ -1,0 +1,4 @@
+* IsA: EntrePreneur
+* InterWiki: [DeWikiPedia:Hubert_Burda]
+* JahrGang: 1940
+* BirthDay: 02-09

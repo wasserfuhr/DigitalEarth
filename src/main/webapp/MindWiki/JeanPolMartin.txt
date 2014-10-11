@@ -1,0 +1,10 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Jean-Pol_Martin] [DeWikiPediaUser:Jeanpol]
+* EnsId: http://www.okkam.org/ens/id96769eb3-13ec-424b-8224-c1df23b68700
+* ViAf: http://viaf.org/viaf/15952271
+* SprachWelt: de fr
+* MindSkill: WikiPedia LernenDurchLehren
+* MindFaves: HierarchyOfNeeds ContRol MindFlow
+|[TwittEr:jeanpol]
+|[XingLe:JeanPol_Martin]
+|[FaceBook:1103427143]

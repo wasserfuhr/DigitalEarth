@@ -1,0 +1,20 @@
+!!! spot Entwicklerwiki
+
+Das Entwicklerwiki für unser Sportportal.
+
+MitWirkende.
+
+Der zu Beginn festgelegte [ProjectCodeName|http://c2.com/cgi/wiki?ProjectCodeName]: spot.
+
+
+Der Sourcecode: svn://svn.mindbroker.de/opensource/de.mindbroker.spot/
+
+Das Maven-POM als Startpunkt für alle Doku und Entwicklungsschritte: svn://svn.mindbroker.de/opensource/de.mindbroker.spot/trunk/pom.xml
+
+Vorläufiger Vorschlag für die Domain: spoooort.de
+
+Ein Demoserver mit dem aktuellen Stand: http://www.spoooort.de:8088/ 
+
+
+!Was bisher geschah:
+[{RecentChangesPlugin since=30}]

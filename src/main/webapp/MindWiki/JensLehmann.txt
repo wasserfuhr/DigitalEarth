@@ -1,0 +1,8 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/71/4882
+* HomePage: http://www.jens-lehmann.org/
+* PageNumber: 8
+* PagePath: LarryPage SergeyBrin MonikaHenzinger DavidEppstein JoanFeigenbaum TimBl ChristianBizer SoerenAuer JensLehmann
+* ErdosNumber: 4
+* ErdosPath: PaulErdos ERodneyCanfield GuoQiangZhang PascalHitzler
+* MindSkill: SemanticWeb

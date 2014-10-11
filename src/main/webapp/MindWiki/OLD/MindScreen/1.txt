@@ -1,0 +1,11 @@
+Installiere auf dem MindMac:
+* HamachiX
+* Chicken of the VNC
+* Vine
+
+Joine das Network "MindBroker" mit Deinem CamelCase-Namen.
+
+MindScreen-Nutzer:
+* RainerWasserfuhr
+* DanielPoodratchi
+* HeikeRibke

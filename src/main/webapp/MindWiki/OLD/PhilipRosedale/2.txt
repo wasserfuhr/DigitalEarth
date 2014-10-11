@@ -1,0 +1,7 @@
+* IsA: UnternehmensGruender
+* InterWiki: [WikiPedia:Philip_Rosedale]
+* JahrGang: 1968
+* BirthDay: 09-01
+* DbLp: http://dblp.uni-trier.de/rec/pid/54/728
+|[TwittEr:philiplinden]
+|[FaceBook:586395728]

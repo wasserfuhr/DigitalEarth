@@ -1,0 +1,15 @@
+http://dresdner.blogger.de/
+
+Grob sortiert nach Zeitpunkt des ersten Erscheinens:
+
+||PerSon           ||date||first posting
+|GernotPoetsch     |20020130|http://www.poetsch.org/weblog/12/newbie-navigator
+|IrisSchilke       |20020519|http://vigil.antville.org/stories/49909/
+|UlrichVanStipriaan|20020905|http://baublog.blogspot.com/2002_09_01_archive.html#82086478#82086478
+|MartinRoell       |20021010|http://www.roell.net/weblog/archiv/2002/10/01/informatik_2002_dortmund_robotik.shtml
+|ChristineSchlinck |20021201|http://blog.intellihaus.de/2002/12/toll-mein-erster-blog.html
+|RainerWasserfuhr  |
+|DirkJesse         |
+|RenePoenitz       |
+|YvonneSchubert    |
+|MartinRingehahn   |

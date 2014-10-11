@@ -1,0 +1,9 @@
+* MindTag: MindPlace
+* BreitenGrad: 51.0638
+* LaengenGrad: 13.7769
+* BoundingBox: 80
+* GraDient: 10
+* SlimNess: 0.3
+
+||AusLand
+|[DeWikiPedia:Waldschl%C3%B6%C3%9Fchenbr%C3%BCcke]

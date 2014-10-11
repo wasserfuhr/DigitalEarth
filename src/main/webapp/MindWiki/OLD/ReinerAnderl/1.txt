@@ -1,0 +1,4 @@
+* MindTags: ProFessor
+* JahrGang: 1955
+* HomePage: http://www.dik.tu-darmstadt.de/fachgebiet_dik/mitarbeiterinnen/mitarbeiterdetails_2560.en.jsp
+* MindSkill: BuildingModel

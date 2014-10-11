@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Troisdorf]
+* BreitenGrad: 50.8161
+* LaengenGrad: 7.15556
+* BoundingBox: 8000
+* MindCount: 60000
+* HomePage: http://www.troisdorf.de/

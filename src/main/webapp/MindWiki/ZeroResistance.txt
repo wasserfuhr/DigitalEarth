@@ -1,0 +1,10 @@
+ZeroResistance ist ein LifePattern, das versucht, mit dem SingularStress klug und kreativ umzugehen.
+
+Das AntiPattern zu ZeroResistance ist das heroische Aufbäumen gegen die Widerstände, die den Weg zur NooSphere versperren, und der Versuch ihrer Beseitigung unter Aufbringung von viel EnErgie, die derweil besser eingesetzt werden könnte.
+
+Besser ist:
+* bilde ErWartung'en, wann welche DisRupt'iven Technologieschübe kommen
+* enthalte Dich jeder heroischen Erzwingung von Schüben, sondern
+* übe GeDuld,
+* baue ein breites Spektrum an Handlungsoptionen auf und
+* verfolge diejenigen NextAction's mit der zu jedem ZeitPunkt besten EnErgie-Bilanz

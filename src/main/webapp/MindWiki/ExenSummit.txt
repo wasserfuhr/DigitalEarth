@@ -1,0 +1,12 @@
+* MindTags: MindEvent
+* MindPlace: RauschenBach
+
+YvonneSchubert, ChristineSchlinck EtAl.
+
+Special Guest: UteMoritz
+
+* ExEins: NN
+* ExZwei: NN
+* ExDrei: ChristineSchlinck
+* AffairOne: NN
+* ExVier: NN

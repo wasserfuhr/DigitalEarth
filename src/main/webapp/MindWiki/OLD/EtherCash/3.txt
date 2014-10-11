@@ -1,0 +1,11 @@
+* NamedAfter: EtherPad EtherNet
+
+[EtherPad:EtherCash]
+
+FrequentlyAskedQuestions
+* How does EtherCash relate to KayGroschen?
+** It is very similar in their basic ConCept's. However, NooPolis is based on the idea of Democracy, where 90% of the GovernmentBudget are organized by majority vote (only 10% of GovernmentBudget were initially dedicated to MindBroker, where RainerWasserfuhr ws the initial founder and majority ShareHolder). Instead, EtherCash is initially fully managed by the founder of EtherCash, RainerWasserfuhr.
+* How does EtherCash relate to WaveCash?
+** WaveCash was based on the idea community "governed". During the first phase of WaveCash, it didnt unfold the dynamics necessary to BootStrap a CurrencySystem.
+* How does EtherCash relate to SendLove?
+** EtherCash is not backed by an "established" currency of SendLove (UsDollar), but purely virtual.

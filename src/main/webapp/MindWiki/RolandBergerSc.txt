@@ -1,0 +1,3 @@
+* IsA: EnterPrise
+* InterWiki: [DeWikiPedia:Roland_Berger_Strategy_Consultants]
+* MindOne: RolandBerger

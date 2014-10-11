@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/41/1264
+* PageNumber: 11
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach JuergenAvenhaus KlausMadlener TeoMora EberhardBecker WillmsBuhse
+* HomePage: http://www.doubleyuu.com/home/willmsbuhse
+|[XingLe:Willms_Buhse]

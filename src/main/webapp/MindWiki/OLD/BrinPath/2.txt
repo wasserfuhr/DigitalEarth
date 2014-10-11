@@ -1,0 +1,5 @@
+|[TwittEr:BrinPath]
+
+calculates your »PageNumber«, measured as your CoAuthor-ship distance in DbLp from LarryPage.
+
+If you know other CoAuthor's or a shorter BrinPath, please reply via ReTweet.

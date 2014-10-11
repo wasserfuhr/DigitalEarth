@@ -1,0 +1,5 @@
+* InterWiki: [WikiPedia:Spatial_memory]
+
+MindPlace's are a first sketch of the SpatialMemory of RainerWasserfuhr and other CitiZens.
+
+[OpenCog:SpaceServer]

@@ -1,0 +1,4 @@
+* MindTags: ProFessor
+* InterWiki: [WikiPedia:Richard_Jozsa]
+* MindSkill: QuantPuter
+* HomePage: [http://www.cs.bris.ac.uk/~richard/]

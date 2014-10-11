@@ -1,0 +1,10 @@
+Ein BarCamp-artiges MindEvent, bei dem man in der StadtDresden zusammenkommt.
+Wir plaudern über Wikis, NooPolis, UnitedNations 2.0, KayGroschen, DresdenChess und die PieschenBank.
+
+!Ort:     WirkZentrum
+!Beginn:  Februar 2008
+!Dauer:   ca. 3h
+
+!Interessenten:
+* RainerWasserfuhr
+* FrankLorenz

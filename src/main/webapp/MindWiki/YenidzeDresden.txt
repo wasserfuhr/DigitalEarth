@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Yenidze],[WikiPedia:Yenidze]
+* BreitenGrad: 51.05889
+* LaengenGrad: 13.72694
+* BoundingBox: 50
+

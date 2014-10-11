@@ -1,0 +1,4 @@
+* IsA: MindCity
+* EmytoLogia: "ursprünglicher lateinischer Name: Confluentes"
+* InterWiki: [DeWikiPedia:Koblenz]
+* PartOf: RheinlandPfalz

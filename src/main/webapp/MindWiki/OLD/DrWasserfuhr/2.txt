@@ -1,0 +1,1 @@
+* MindSlogan: WikiBasiert'e automatische ErZeug'ung einer DisSertation.

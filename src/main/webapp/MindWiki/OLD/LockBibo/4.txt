@@ -1,0 +1,28 @@
+! Library of the LockSchuppen (open to users):
+
+
+||Titel||Author || ISBN || Owner || lend to 
+| Kaizen - Der Schlüssel zum Erfolg der Japaner im Wettbewerb   |MasaakiImai | 3-548-35332-0 | AlexanderFriedland | LockOffice
+| Home Made Electronic Arts   | DominikLandwehr | 978-3-85616-462-1 | AlexanderFriedland | LockOffice
+| Business Model Generation   | AlexanderOsterwalder | 978-2-8399-0580-0 | RalfLippold | LockOffice
+| Helping - How to offer, give, and receive help   | EdgarSchein | 978-1-57675-863-2 | RalfLippold | LockOffice
+| Word of Mouth Marketing   | AndySernovitz | 978-4277-9861-9 | RalfLippold | LockOffice
+| Optimize Your Operation   | JamesAbbott | 1-887355-04-9 | RalfLippold | LockOffice
+| Strategisches Management   | FranzXaverBea JuergenHaas | 3-8252-1458-3 | RalfLippold | LockOffice
+| Das einzige was stört ist der Kunde   | EdgarGeffroy | 3-478-22781-x | RalfLippold | LockOffice
+| Service Design   | BirgitMager MichaelGais | - | JensKrzywinski (SlubDresden) | LockOffice
+| Change by Design   | TimBrown | 978-0-06-176608-4 | JensKrzywinski (SlubDresden) | LockOffice
+| Flawless Consulting   | PeterBlock | 0-7879-4803-9 | RalfLippold | LockOffice
+| architectural intelligence   | TuDresden CenterOfKnowledgeArchitecture | - | RalfLippold | LockOffice
+| Inside Out   | TracyHuston | 978-0-9742390-6-4 | RalfLippold | LockOffice
+| Lean Thinking - Auf dem Weg zum Perfekten Unternehmen   | JimWomack DanielJones | 3-453-14182-2 | RalfLippold | LockOffice
+| Kopf schlägt Kapital   | GuenterFaltin | 978-3-446-41564-5 | RalfLippold | LockOffice
+| A Whole New Mind   | DanielPink | 978-59448-171-0 | RalfLippold | RalfLippold
+| Prozessberatung für die Organisation der Zukunft   | EdgarSchein | 3-89797-010-4 | RalfLippold | RalfLippold
+| The Hidden Power of Social Networks Understanding How Work Really Gets Done in Organizations   | RobCross AndrewParker | 1-59139-270-5 | RalfLippold | RalfLippold
+| DEC is Dead, Long Live DEC   | EdgarSchein | 1-57675-305-0 | RalfLippold | RalfLippold
+| Theorie U - von der Zukunft her führen   | OttoScharmer | 978-3-89670-679-9 | RalfLippold | RalfLippold
+| Process Consultation Volume II Lessons for Managers and Consultants   | EdgarSchein | 0-201-06744-7 | RalfLippold | RalfLippold
+| Don't Just Do Something, Stand There   | MarvinWeisbord SandraJanoff | 978-1-57675-425-2 | RalfLippold | RalfLippold
+| The Necessary Revolution   | PeterSenge EtAl | 978-0-385-51901-4 | RalfLippold | RalfLippold
+| cell1   | cell2 | cell3 | cell4 | cell5

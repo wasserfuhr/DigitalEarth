@@ -1,0 +1,13 @@
+Nutzer können in einem einfachen Formular beliebige Fragen stellen, zB "Wo bekomme ich günstig Land für SecondSports"?
+
+Dann kann der Fragende eine Teilmenge der Kontakte aus seinem SocialNetwork auswählen von denen der Fragende glaubt dass sie die Frage am ehesten beantworten können. Wenn die Kontakte die Frage nicht beantworten können, können sie wiederum eine Teilmenge von deren Kontakten auswählen und die Frage weiterleiten.
+
+Für http://ask.mindbroker.de
+
+!Aktuelle Fragen:
+||MindBroker||fragt||
+|RainerWasserfuhr|DanielPoodratchi|finde möglichst günstige und möglichst OpenSource'ige GPS-Software für T830
+|RainerWasserfuhr|DanielPoodratchi|finde möglichst günstige und möglichst OpenSource'iger Jabber-Client für T830
+|ChristineSchlinck|OliverGassner|finde möglichst günstiges Land im SecondSports, Gesamtkosten bis Ende 2007 maximal 500 EUR
+|RainerWasserfuhr|MindBroker|kann man Verträge auch dadurch zustandekommen lassen dass man Vertragsobjekte in einem symbolischen Vertragsshop, aber mit echter Geldtransaktion auf UnserBankKonto abschliesst? (Es gibt leider immer noch zu viele Menschen die beim Vertragsabschluss auf Papier und Unterschrift bestehen.)
+|RainerWasserfuhr|YvonneSchubert|kann der AufSichtsRat auch per Skype einberufen werden?

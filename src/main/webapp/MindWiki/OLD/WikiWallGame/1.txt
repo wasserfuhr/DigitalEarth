@@ -1,0 +1,3 @@
+The WikiWallGame is played on a 16 x 16 board which is also physically located at our LockOffice. Each of the 256 WikiWallCard's represents a WikiPage inside our MindWiki. The players choose cards and have to tell a story. They can also choose more than one card and have to find a common connection that connects these WikiWallCard's.
+
+!The WikiWallGame is a strategic management tool that allows to visualize complex relationship of an enterprise or a project. 

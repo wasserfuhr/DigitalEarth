@@ -1,0 +1,3 @@
+* IsA: MindProps
+* RdfsDomain: CitiZen
+* RdfsRange: PerSon

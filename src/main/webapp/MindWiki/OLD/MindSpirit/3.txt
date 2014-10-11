@@ -1,0 +1,8 @@
+* EtherSpirit
+* FaceSpirit
+* GoogleSpirit
+* LockSpirit
+* TweetSpirit
+* WaveSpirit
+
+ConStitution

@@ -1,0 +1,8 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Sachsen]
+* BreitenGrad: 51.04
+* LaengenGrad: 13.37
+* BoundingBox: 200000
+* MindCount: 4000000
+* MindOne: StanislawTillich
+* VolksVertretung: LandTag

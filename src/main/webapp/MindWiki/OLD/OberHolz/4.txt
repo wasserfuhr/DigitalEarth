@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BreitenGrad: 52.5295
+* LaengenGrad: 13.4022
+* BoundingBox: 15
+* HomePage: http://www.sanktoberholz.de/
+* MindOne: AnsgarOberholz

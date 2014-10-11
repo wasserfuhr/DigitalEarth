@@ -1,0 +1,7 @@
+[TwittEr:PrintIstTot]
+
+TotHolz IsDead soon:
+* DieTageszeitung
+* SaechsischZeitung
+* WirtschaftsWoche
+EtAl

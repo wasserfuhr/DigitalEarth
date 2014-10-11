@@ -1,0 +1,12 @@
+UnKnown for 
+* RainerWasserfuhr1999:
+
+** known: AltaVista BillGates CyberSax WebDe xml YaHoo YvonneSchubert
+** MayBe known: CamelCase FutureSax GoogleSearch LarryEllison RayKurzweil SemanticWeb UmTs XmPp WardsWiki WiKi
+** UnKnown: AjAx BigTable BlogLines ChristineSchlinck EtherPad FaceBook GoogleEarth MapReduce OpenBc QuantPuter SemanticWiki SiggiBecker SynBio TheSingularity WikiPedia TeamEntrepreneur CoWorking TwittEr
+
+* RalfLippold1999
+
+** known: AltaVista LinUx WebCrawler YaHoo WebDe HtMl AppleMacintosh JimWomack LeanThinking
+** MayBe known: DeC EdgarSchein 
+** UnKnown: SystemDynamics RainerWasserfuhr TwittEr WikiPedia TheSingularity OpenBc FaceBook LinkedIn XingLe OpenStreetMap TeamAcademy OpenEducation TheoryU OttoScharmer

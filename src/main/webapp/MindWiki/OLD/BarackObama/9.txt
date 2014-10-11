@@ -1,0 +1,10 @@
+* MindTags: MindPeople, PotUs
+* InterWiki: [DeWikiPedia:Barack_Obama], [WebSeitz:BarackObama]
+* WohnSitz: WhiteHouse
+* JahrGang: 1961
+* BirthDay: 08-04
+* MamaZwoNull: AnnDunham
+* PapaZwoNull: BarackObamaSenior
+* HomePage: http://www.barackobama.com/
+||AusLand
+|[LinkedIn:barackobama]

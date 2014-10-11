@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* HomePage: http://www.classico-italiano.de/
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.051429&lon=13.741219&zoom=18&layers=B000FTTT ToDo
+
+TotalRecall:
+* 20090223:1900: RainerWasserfuhr EtAl: WikiAngel, StartUpSaxony, GlaesernesUnternehmen

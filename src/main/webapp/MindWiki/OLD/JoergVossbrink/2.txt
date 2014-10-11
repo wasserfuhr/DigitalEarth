@@ -1,0 +1,5 @@
+* IsA: PerSon
+* HomePage: http://www.bieberschlau.de/
+* HomeStead: HofBieber
+* HasTalked: RainerWasserfuhr ManuelaAmann
+|[XingLe:Joerg_Vossbrink]

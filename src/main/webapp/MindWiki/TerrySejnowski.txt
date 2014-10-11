@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Terry_Sejnowski]
+* DbLp: http://dblp.uni-trier.de/rec/pid/26/2197
+* PageNumber: 7
+* PagePath: LarryPage HectorGarciaMolina GerhardWeikum TobiasNipkow ManfredBroy ArndtBode HenriCasanova TerrySejnowski
+|[FaceBook:545282364]

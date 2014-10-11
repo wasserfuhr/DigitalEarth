@@ -1,0 +1,13 @@
+A four dimensional Game of Go: x,y,z,t. Jetons:  black (0) and white (1)
+
+Later for http://go.mindbroker.de
+
+Rules:
+* Allowed players are MindBroker or AndreasStuhlmueller.
+* Every player can place a jeton of his choice on the board below. The Place must be empty. FirstComeFirstServe.
+
+Hints:
+* Players should be Mavens concerning Turing machines, Goedel-Numberings, Go and Nomic.
+
+||x||y||z||t||Color||Player
+|0|0|0|0|1|RainerWasserfuhr

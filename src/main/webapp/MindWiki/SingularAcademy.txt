@@ -1,0 +1,59 @@
+* IsA: HochSchule
+* HomePage: http://singularacademy.appspot.com/
+* FbPage: http://www.facebook.com/pages/SingularAcademy/171802259517873
+* FbId: 171802259517873
+|[TwittEr:singularay]
+
+At the SingularAcademy you can learn to understand AcceleratingChange and to apply it's consequences to your life.
+With the SingularAcademy we want to create one of the most exciting academies for learning and doing really relevant stuff, that always has the big picture of the human species in focus.
+
+The SingularAcademy is a joint ProJect started by RalfLippold and RainerWasserfuhr under the umbrella of the LockSchuppenAg for bringing the ConCept of TheSingularity to EurOpa.
+
+The SingularAcademy is the creation of a new academy from TabulaRasa.
+
+We start without a building, without affiliation to an existing institution and we have a budget,
+that is purely based on the virtual currency of our own MicroNation.
+The SingularAcademy is driven by the spirit of a sophisticated LongTerm massive multi user game.
+
+The curriculum is broken down to CourseWare with 5-minute units of networked ScreenR ScreenCast's.
+
+We plan to install a ScientificBoard whose members will ReView the ScreenCast's and assign different amounts of KayGroschen from the budget for each ScreenCast.
+
+BrainStorm: Candidates for ScientificBoard:
+|ProFessor|AlexanderWendt
+|ProFessor|AugustWilhelmScheer
+|ProFessor|ChristianSery
+|ProFessor|ChristianSpannagel
+|ProFessor|DirkBaecker
+|ProFessor|DirkRiehle
+|ProFessor|EberhardBosslet
+|ProFessor|GunterDueck
+|         |HolgerJohn
+|ProFessor|JeanPolMartin
+|ProFessor|JoachimNiemeier
+|ProFessor|KlausLandfried
+|ProFessor|MartinGaedke
+|ProFessor|PeterFuchs
+|ProFessor|PeterKruse
+|ProFessor|RaimarScherer
+|ProFessor|RalphSonntag
+|Dr       |RicoPetrick
+|Dr       |RoswithaHunold
+|ProFessor|Thomas
+|ProFessor|WolfgangBibel
+|ProFessor|ZigaTurk
+
+Candidates as ManagingDirector's:
+* BastiHirsch
+* DavidOrban
+* RainerWasserfuhr
+* RalfLippold
+
+ToDo/NextAction's:
+* ask CitiZens to create ScreenCast's.
+* ask people to JoinNow as ScientificBoard or ManagingDirector's.
+* explain and elaborate the planned scientific and education processes.
+
+Done:
+* created pages for TwittEr and FaceBook
+* requested and approved 2 718 281 KayGroschen from the GovernmentBudget of NooPolis (InspiredBy the EulerNumber)

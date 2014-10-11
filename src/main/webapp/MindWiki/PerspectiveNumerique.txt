@@ -1,0 +1,10 @@
+|MindOne |OlivierAuber       |RainerWasserfuhr
+|        |Categories         |IndexIndex
+|        |IndexDesPagesBis   |PageIndex
+|        |DerniersChangements|RecentChanges
+|        |RevenuUniversel    |BasicIncome
+|        |PagesACreer        |WantedPages
+|        |TestDeTuring       |TuringTest
+|        |GrapheGlobalGeant  |GiantGlobalGraph
+|        |AbeilleDeMerite    |VerdienstBienchen
+|        |Web20              |WebZwoNull

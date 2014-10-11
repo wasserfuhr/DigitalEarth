@@ -1,0 +1,15 @@
+for InFer'ing in the MindBase.
+
+* PerSon: BirthDay with WikiPedia
+* DbLp: PagePath/PageNumber
+* PayMent: sums to BankAccount BaLance
+* MindId: HasSex 
+* ShortestPath-indices
+* FlickR with WorldModel FaceBase SpatialMemory and EpisodicMemory
+* OpenStreetMap: rare tags
+* CloJure UnitTest
+* DelIcioUs TagCloud with PageIndex
+* PageName with EtymoLogia SinnChemie
+
+RdfsClosure
+TwittEr WortSchatz

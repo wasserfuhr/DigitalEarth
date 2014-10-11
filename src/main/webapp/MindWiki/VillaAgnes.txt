@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* InterWiki: [DeWikiPedia:Villa_Agnes]
+* PartOf: RadeBeul

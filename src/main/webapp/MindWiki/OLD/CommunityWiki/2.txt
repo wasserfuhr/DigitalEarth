@@ -1,0 +1,15 @@
+http://www.communitywiki.org/
+
+CommunityWiki is a -well- CommunityWiki, which has some nice similarities to NooPolis:
+
+||         ||NooPolis         ||CommunityWiki    
+|Bylaws    |ConStitution      |[CommunityWiki:CommunityWikiBylaws]
+|Currency  |KayGroschen       |[CommunityWiki:BobDollars],UsDollar,EuRo,CAD etc.
+|Bank      |PieschenBank      |[CommunityWiki:CommunityWikiBank]
+|CitiZens  |CitiZens          |[CommunityWiki:WikiFolks]
+|Government|KabiNett          |[CommunityWiki:CommunityWikiAssemblyMemberList]
+|WebOfTrust|MindTrust         |[CommunityWiki:WikiFolks]
+|Voting    |MindVote          |[CommunityWiki:OfficialLegislativeProposals]
+|WikiEngine|JspWiki           |OddMuse
+
+Some of the CommunityWiki contributors: LionKimbro, MattisManzel, PhilJones, HelmutLeitner.

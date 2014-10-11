@@ -1,0 +1,5 @@
+* IsA: DiStrict
+* InterWiki: [DdWiki:Striesen] [DeWikiPedia:Striesen]
+* PartOf: StadtDresden
+
+BeautiFul DiStrict

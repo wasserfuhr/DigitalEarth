@@ -1,0 +1,19 @@
+Die MindBroker mit MindId und damit BuergerInnen von NooPolis: 
+
+!http://id.mindbroker.de/
+
+ErWartung der Zahl der BuergerInnen in der ZuKunft:
+||Für   ||ErWartung von    ||Schätzung||Ergebnis
+|__2007:__|                 |     |31
+|20071231|YvonneSchubert   |   30|
+|20071231|EvaLubas         |   43|
+|20071231|HeikeRibke       |   50|
+|20071231|ChristineSchlinck|   50|
+||__2008:__|                 |     |
+|20081231|YvonneSchubert   |  150|
+|20081231|EvaLubas         |  220|
+|20081231|ChristineSchlinck|  300|
+|20081231|HeikeRibke       |  500|
+|20081231|IngridaPlunksnyte|12000|
+||__2010:__|                 |     |
+|20101231|HeikeRibke       |10000|

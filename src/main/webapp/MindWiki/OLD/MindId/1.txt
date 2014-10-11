@@ -1,0 +1,5 @@
+OpenId für jeden User einer MindBroker-WebApp.
+
+Im MindBrokerCore.
+
+Später: http://id.mindbroker.de

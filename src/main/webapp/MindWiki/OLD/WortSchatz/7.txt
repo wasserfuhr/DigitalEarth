@@ -1,0 +1,31 @@
+* MindTags: ReView
+* InterWiki: [DeWikiPedia:Wortschatz]
+
+HeikeRibke wünschte sich ein Deutsch-Englisch-"Vokabelblatt" für alle Vokabeln, die sie zB bei http://dict.leo.org/ nachschlug.
+
+RainerWasserfuhr könnte eine WebApp draus machen.
+
+Es ist erstaunlich, dass im Jahr 2008 relativ wenige Werkzeuge im Einsatz waren, um
+den WortSchatz eines Menschen digital abzubilden, zB als FireFox-Plugin. Spätestens beim MindReader wird das anders werden.
+
+Das WunderKind erweitert seinen WortSchatz Tag um Tag.
+
+Konzepte im Denk- und WortSchatz, im ungefährer Reihenfolge ihres Erlernens:
+* Laut
+* Person
+* Gegenstand
+* Essen
+* Tier
+* Wort
+* Zahl
+* Buchstabe
+* Fluß
+* Stadt
+* Land
+* Geld
+* Regel
+* Buch
+* Gedicht
+* Formel
+* Programm
+* EigenMuster

@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Robbie_Williams]
+* BornIn: 1974
+* BirthDay: 02-13
+* ChildOf: JeanetteWilliams

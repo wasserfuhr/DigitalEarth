@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Elisabeth_Noelle-Neumann]
+* BornIn: 1916
+* BirthDay: 12-19
+* DiedIn: 2010
+* MindSkill: DemoSkopie

@@ -1,0 +1,38 @@
+Von den Griechen wahrscheinlich im 8. Jh.v.Chr. entwickeltes GraphemSystem durch Übernahme der vokallosen SilbenSchrift der Phönikier. Die Namen der BuchStabe'n bewahren die alten semitischen AcroNym'e:
+* Alpha von Aleph: alpu - Rind
+* Beta von Bet: bait/bet - Haus
+* Gamma von Gimel: gamal - Kamel
+* Delta von Dalet: delet - Tür
+
+[DeWikiPedia:Buchstabiertafel]:
+|| ||DelIm||de||en||    ||       ||       ||        ||
+|A |AnSt|Ah|Ey|Anton    |Alpha   |Anna    |Anton    |ATheLetter
+|Ä |    |  |  |Ärger    |–       |Äsch (Aesch)|Ärger|
+|B |BePa|Be|Bi|Berta    |Bravo   |Berta   |Berta    |BTheLetter
+|C |ChLa|Ze|Si|Cäsar    |Charlie |Cäsar   |Cäsar    |CTheLetter
+|Ch|    |  |  |Charlotte|–       |–       |Christine (nicht gebräuchlich)
+|D |DiRi|De|Di|Dora     |Delta   |Daniel  |Dora
+|E |    |Eh|Ih|Emil     |Echo    |Emil    |Emil
+|F |FrWa|Ef|Ef|Friedrich|Foxtrott|Friedrich|Friedrich
+|G |    |Ge|Ji|Gustav   |Golf    |Gustav  |Gustav
+|H |HaHe|Ha|Es|Heinrich |Hotel   |Heinrich|Heinrich
+|I |    |Ih|Ei|Ida      |India   |Ida     |Ida
+|J |JuKo|Jo|Ye|Julius   |Juliett |Jakob   |Julius
+|K |    |Ka|Ke|Kaufmann |Kilo    |Kaiser  |Konrad
+|L |    |El|El|Ludwig   |Lima    |Leopold |Ludwig
+|M |MaRo|Em|Em|Martha   |Mike    |Marie   |Martha
+|N |    |En|En|Nordpol  |November|Niklaus |Nordpol
+|O |OlGa|Oh|Ou|Otto     |Oscar   |Otto    |Otto                    |OTheLetter
+|Ö |    |  |  |Ökonom   |–       |Örlikon (Oerlikon) |Österreich
+|P |PhLe|Pe|Pi|Paula    |Papa    |Peter   |Paula
+|Q |    |Qu|Kj|Quelle   |Quebec  |Quasi   |Quelle
+|R |RiHe|Er|Ar|Richard  |Romeo   |Rosa    |Richard
+|S |SiBe|Es|Es|Samuel   |Sierra  |Sophie  |Siegfried
+|T |ChSc|Te|Ti|Theodor  |Tango   |Theodor |Theodor                 |
+|U |UtMo|Uh|Ju|Ulrich   |Uniform |Ulrich  |Ulrich
+|Ü |    |Ue|  |Übermut  |–       |Übermut |Übel
+|V |VoSc|Va|Vi|Viktor   |Victor  |Viktor  |Viktor
+|W |    |We|Dj|Wilhelm  |Whiskey |Wilhelm |Wilhelm
+|X |    |Ix|Ex|Xanthippe|X-Ray   |Xaver   |Xaver (früher: Xanthippe)
+|Y |YvSc|Yp|Wy|Ypsilon  |Yankee  |Yverdon |Ypsilon
+|Z |    |Ze|Se|Zacharias|Zulu    |Zürich  |Zürich (früher:Zeppelin)|ZTheLetter

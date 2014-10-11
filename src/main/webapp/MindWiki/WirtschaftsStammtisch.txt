@@ -1,0 +1,12 @@
+* IsA: EventSeries
+* OperatedBy: ProDresden
+
+!Termine
+||wann        ||wo                   ||Vortrag    ||über
+|2008-04-21:1900|ItalienischesDoerfchen|DagmarMager|Ganztagsschule
+|2007-09-17:1900|ItalienischesDoerfchen|?|?
+|2007-0??:1900|Hellerau|?|?
+|2007-05-21:1900|                      |?|?
+|2007-04-16:1930|                      |PeterZickler|ReproGress
+
+Anmeldung: RamonaGoelger, Amt für Wirtschaftsförderung. StadtDresden PoTs:+49-351-488-2419, E-Mail: RGoelger-klammeraffe-dresden.de

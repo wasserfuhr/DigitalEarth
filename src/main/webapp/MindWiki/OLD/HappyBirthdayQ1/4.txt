@@ -1,0 +1,92 @@
+||MM||DD||MindPeople
+|03|31|
+|03|30|
+|03|29|WolfgangUhlmann
+|03|28|
+|03|27|KarlMannheim
+|03|26|PaulErdos, PierreBoulez, RichardDawkins, LarryEllison, JeanRemyVonMatt, JuttaSpeidel, VerenaButalikakis, OliverHirschbiegel, MahsunKirmiziguel, LarryPage, ChristinaSurer, ChristinaSurer, ViktorFrankl
+|03|25|AdolfHennecke, ReimerLuest, KarlheinzSchreiber, AntanasMockus, WolfMaahn
+|03|24|
+|03|23|ViktorKorchnoi
+|03|22|
+|03|21|SybilleKraemer
+|03|20|VeraLynn, JuergenWarnke, BrianMulroney, ErwinNeher, FranzJosefRadermacher, WilliamHurt, SimonBusuttil, JanineKunze
+|03|19|
+|03|18|EricWeisstein
+|03|17|
+|03|16|
+|03|15|
+|03|14|HansOlafHenkel, AlbertEinstein
+|03|13|
+|03|12|
+|03|11|
+|03|10|NickBostrom
+|03|09|
+|03|08|
+|03|07|AlWaleed
+|03|06|
+|03|05|ReneObermann
+|03|04|
+|03|03|LokiSchmidt
+|03|02|MikhailGorbachev
+|03|01|
+|02|29|JamesMitchell, PaulRutherford, MicheleMorgan, DimitriosArhondonis, TonyRobbins, NaokoIijima,GeneHGolub
+|02|28|SvetlanaAlliluyeva, FrankGehry, ErikaPluhar, DinoZoff, SeppMaier, JanCeulemans, GiselaSchwarz, AndrewTridgell, CharlesAmoah 
+|02|27|EgidiusBraun, AlfredHrdlicka, ElizabethTaylor, GidonKremer, RainhardFendrich, BarbaraDare, RheaHarder, ChelseaClinton
+|02|26|AnatoliFiliptschenko, FatsDomino, OdoMarquard, HelenClark, ErnstAugustPrinzVonHannover, MichelHouellebecq
+|02|25|KarlHaager, HansApel, FranzXaverKroetz, ErwinStaudt, NestorKirchner, NickLeeson, MichelFriedman, AlexanderSiedschlag
+|02|24|TerryWinograd
+|02|23|GeorgMilbradt
+|02|22|AliaSabur
+|02|21|
+|02|20|SoerenStamer
+|02|19|AzrielRosenfeld
+|02|18|HenryAdams
+|02|17|ThomasJWatson
+|02|16|
+|02|15|
+|02|14|JosephSmarr
+|02|13|
+|02|12|RayKurzweil
+|02|11|
+|02|10|VernorVinge
+|02|09|JosephSchumpeter, AxelOckenfels, G
+|02|08|
+|02|07|AlbanNikolaiHerbst
+|02|06|
+|02|05|
+|02|04|ZigaTurk
+|02|03|LeonSchlumpf
+|02|02|WolfgangWahlster, RalphMerkle, BarryDiller
+|02|01|FrankTipler, sb
+|01|31|
+|01|30|DougEngelbart, DiUw
+|01|29|
+|01|28|
+|01|27|MoZart
+|01|26|KlausLandfried
+|01|25|
+|01|24|
+|01|23|WalterPitts
+|01|22|ChristophSchoenborn, HeikeRibke
+|01|21|HassoPlattner
+|01|20|ManfredVonArdenne, EdwardFeigenbaum
+|01|19|
+|01|18|
+|01|17|JuergenSchmidhuber, MichelleObama
+|01|16|JohnPerry
+|01|15|WilliamColgate, FranzGrillparzer, PierreJosephProudhon, OsipMandelstam, MarthaSaalfeld, AristotelesOnassis, EdwardTeller, GamalAbdelNasser, HeinzBethge, GeorgRatzinger, ErnstBenda, GuidoBaumann, MariaSchell, MartinLutherKing, JohnNaisbitt, ChristianAnders, MichaelSchanze, RalphHerforth, BruceSchneier, MathiasDoepfner, MeretBecker, StHe
+|01|14|MarcusAntonius, MrMoliere, GottfriedSilbermann, MartinNiemoeller, RuedigerSchleicher, AlfredTarski, GiulioAndreotti, ReinerKlimke, AnselmGruen, HowardCarpendale, InaDeter, HanneHaller, MatthiasRoessler, AndreaFischer, StevenSoderbergh, DesireeNosbusch
+|01|13|JohannArnoldNering, FriedrichFerdinandVonBeust, MarinusVanDerLubbe, PaulFeyerabend, SydneyBrenner, NicoleSimon
+|01|12|LuiseRainer, RushLimbaugh, WernerWasserfuhr, JeffBezos
+|01|11|LotteBuff, WilliamJames, ErnstNolte, JeanChretien, HG, Jens Nowotny, Anni Friesinger, MattMullenweg
+|01|10|FriedrichWilhelmPutzger, HeinrichZille, GrigoriRasputin, ThomasAlvaEdisonJr, GustavWagner, RutBrandt, FranzSchoenhuber, RobertWoodrowWilson, DonKnuth, ScottMcKenzie, GertrudHoehler, KlausHurrelmann, GuntherVonHagens, RodStewart, PeerSteinbrueck, LindaLovelace, WinfriedSchaefer, 
+|01|09|KurtTucholsky, KarlLoewith, WallyBaker, SimoneDeBeauvoir, HeinerMueller, ErnstDieterLueg, JoanBaez, RobertPutnam, RioReiser, RigobertaMenchu
+|01|08|BaltasarGracian, SamuelPufendorf, CarlRogers, GretPalucca, HelmutHorten, ElvisPresley, JosephWeizenbaum, DavidBowie, StephenHawking, ManuelaAmann
+|01|07|FriedrichAni, GuenterWand, RainerKuhlen
+|01|06|
+|01|05|RichardEarlOfCornwall, RudolfEucken, KonradAdenauer, KlausBonhoeffer, StephenKleene, HeinzBerggruen, FriedrichDuerrenmatt, WaltherLeislerKiep, UmbertoEco, GertSmolka, FrankWalterSteinmeier, DrMabe
+|01|04|PaulVirilio
+|01|03|GordonMoore
+|01|02|IsaacAsimov
+|01|01|HeinzZemanek, RonaldPerelman

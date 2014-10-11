@@ -1,0 +1,40 @@
+"ImmerWieder" ist das wikibasierte Wiedervorlageprinzip des AgWiki:
+
+WikiSpec:
+||ImmerWieder      ||OrderedByShares||last   ||do      ||it
+|Tag     |RainerWasserfuhr|20070928|lese     |daily MindFeeds
+|3 Tage  |RainerWasserfuhr|20070926|mache    |Grid-Backup
+|Woche   |RainerWasserfuhr|20070926|reviewe  |DoIt
+|Woche   |RainerWasserfuhr|20070926|reviewe  |WasWyrd
+|Woche   |RainerWasserfuhr|20070926|lese     |weekly MindFeeds
+|Woche   |RainerWasserfuhr|20070926|reviewe  |ImmerWieder
+|2 Wochen|RainerWasserfuhr|20070928|mache    |SocialBackup
+|6 Wochen|RainerWasserfuhr|20070913|besuche  |FriseurGehestr
+|-| | | |
+|Woche   |DanielPoodratchi|20071004|lese     |weekly MindFeeds
+|Monat   |DanielPoodratchi|20071004|reviewe  |UnserBudget
+|Monat   |DanielPoodratchi|20071004|reviewe  |CommitMent
+|Monat   |DanielPoodratchi|20071004|mache    |SocialBackup
+|-| | | |
+|Monat   |AndreasWeigel   |        |reviewe  |CommitMent
+|-| | | |
+|Tag     |YvonneSchubert  |20071002|reviewe  |WasWyrd
+|Tag     |YvonneSchubert  |20071002|lese     |Skype-Chats
+|3 Tage  |YvonneSchubert  |20071002|gieße    |MindGreen
+|Woche   |YvonneSchubert  |20071004|notiere  |Kontostand
+|Woche   |YvonneSchubert  |20070919|plane    |cashflow
+|Woche   |YvonneSchubert  |20070926|pflege   |MindPeople
+|Woche   |YvonneSchubert  |20070927|lese     |MindFeeds
+|Woche   |YvonneSchubert  |20070927|lese     |heise-Newsticker
+|Woche   |YvonneSchubert  |20070919|sortiere |TotesHolz-InBox
+|Woche   |YvonneSchubert  |20071004|mache    |SocialBackup
+|Woche   |YvonneSchubert  |20071004|lese     |Xing-Termine
+|Monat   |YvonneSchubert  |20070926|mache    |Kontoauszugsdownload 
+|Monat   |YvonneSchubert  |20070827|checke   |FaceBook
+|Monat   |YvonneSchubert  |20070908|mache    |UstVA
+|Monat   |YvonneSchubert  |20070808|duenge   |MindGreen
+|Monat   |YvonneSchubert  |20070908|aufgehe  |YvonneDieSonne
+|Monat   |YvonneSchubert  |20070908|kaufe    |ChocoRoellchen
+|Jahr    |YvonneSchubert  |20070413|mache    |JahresAbschluss
+
+TagUndNacht: husch!

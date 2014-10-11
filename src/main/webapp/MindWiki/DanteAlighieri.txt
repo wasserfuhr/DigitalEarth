@@ -1,0 +1,3 @@
+* IsA: PerSon
+* BornIn: 1265
+* DiedIn 1321

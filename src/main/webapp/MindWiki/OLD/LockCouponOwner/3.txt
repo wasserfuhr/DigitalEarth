@@ -1,0 +1,92 @@
+!Current Owner
+||Number||Owner
+|1|IrisSchilke
+|1|ThiemoMaettig
+|1|RaikFischer
+|1|MarcelBoehme
+|1|HeidiGallinat
+|1|MarkusStamm
+|1|MarkusStamm
+|5|RainerWasserfuhr
+|1|RegineZiolko
+|5|KarenWeinert
+|...|
+|35|RainerWasserfuhr
+|36|RalfLippold
+|37|RalfLippold
+|...|
+|102|RalfLippold
+
+!Transfers
+||On       ||# ||from             ||to               ||reason
+|2010-04-08|  1|AlexanderFriedland|LockSchuppenAg    |LockSession
+|2010-04-08|  1|RainerWasserfuhr  |AlexanderFriedland|1 EuRo
+|2010-04-08|  1|SoerenRogoll      |LockSchuppenAg    |LockSession
+|2010-04-08|  1|MindShop          |SoerenRogoll      |512 KayGroschen
+|2010-04-08|  1|RainerWasserfuhr  |LockSchuppenAg    |LockSession
+|2010-04-01| 57|LockSchuppenAg    |RalfLippold       |LockCouponEmission
+|2010-04-01| 29|LockSchuppenAg    |RainerWasserfuhr  |LockCouponEmission
+|2010-04-01| 10|LockSchuppenAg    |OliverGasser      |LockCouponEmission
+|2010-04-01|  2|LockSchuppenAg    |MarkusStamm       |LockCouponEmission
+|2010-04-01|  1|LockSchuppenAg    |PeterHerbst       |LockCouponEmission
+|2010-04-01|  1|LockSchuppenAg    |ChristineSchlinck |LockCouponEmission
+|2010-03-01| 57|LockSchuppenAg    |RalfLippold       |LockCouponEmission
+|2010-03-01| 28|LockSchuppenAg    |RainerWasserfuhr  |LockCouponEmission
+|2010-03-01| 10|LockSchuppenAg    |OliverGasser      |LockCouponEmission
+|2010-03-01|  2|LockSchuppenAg    |MarkusStamm       |LockCouponEmission
+|2010-03-01|  1|LockSchuppenAg    |ChristianHeller   |LockCouponEmission
+|2010-02-01|  1|LockSchuppenAg    |PeterHerbst       |LockCouponEmission
+|2010-02-01|  1|LockSchuppenAg    |ChristineSchlinck |LockCouponEmission
+|2010-02-01| 57|LockSchuppenAg    |RalfLippold       |LockCouponEmission
+|2010-02-01| 28|LockSchuppenAg    |RainerWasserfuhr  |LockCouponEmission
+|2010-02-01| 10|LockSchuppenAg    |OliverGasser      |LockCouponEmission
+|2010-02-01|  2|LockSchuppenAg    |MarkusStamm       |LockCouponEmission
+|2010-02-01|  1|LockSchuppenAg    |ChristianHeller   |LockCouponEmission
+|2010-02-01|  1|LockSchuppenAg    |PeterHerbst       |LockCouponEmission
+|2010-02-01|  1|LockSchuppenAg    |ChristineSchlinck |LockCouponEmission
+|2010-01-03| 67|LockSchuppenAg    |RalfLippold       |LockCouponEmission
+|2010-01-03| 27|LockSchuppenAg    |RainerWasserfuhr  |LockCouponEmission
+|2010-01-03|  2|LockSchuppenAg    |MarkusStamm       |LockCouponEmission
+|2009-12-31|  1|WinfriedLueg      |LockSchuppenAg    |LockSession
+|2009-12-31|  1|RainerWasserfuhr  |WinfriedLueg      |GeSchenk
+|2009-09-06|  1|LockSchuppenAg    |RainerWasserfuhr  |Kauf
+|2009-09-06|  1|LockSchuppenAg    |HeidiGallinat     |Kauf
+|2009-09-04|  1|LockSchuppenAg    |MarcelBoehme      |BeSuch
+|2009-09-04|  1|LockSchuppenAg    |RaikFischer       |BeSuch
+|2009-09-04|  1|LockSchuppenAg    |ThiemoMaettig     |BeSuch
+|2009-09-04|  1|LockSchuppenAg    |IrisSchilke       |BeSuch
+
+
+
+|2010-04-08|  1|SoerenRogoll      |LockSchuppenAg    |LockSession
+|2010-04-08|  1|MindShop          |SoerenRogoll      |512 KayGroschen
+|2010-04-08|  1|RainerWasserfuhr  |LockSchuppenAg    |LockSession
+|2010-04-01| 57|LockSchuppenAg    |RalfLippold       |LockCouponEmission
+|2010-04-01| 27|LockSchuppenAg    |RainerWasserfuhr  |LockCouponEmission
+|2010-04-01| 10|LockSchuppenAg    |OliverGasser      |LockCouponEmission
+|2010-04-01|  2|LockSchuppenAg    |MarkusStamm       |LockCouponEmission
+|2010-04-01|  1|LockSchuppenAg    |PeterHerbst       |LockCouponEmission
+|2010-04-01|  1|LockSchuppenAg    |ChristineSchlinck |LockCouponEmission
+|2010-03-01| 57|LockSchuppenAg    |RalfLippold       |LockCouponEmission
+|2010-03-01| 28|LockSchuppenAg    |RainerWasserfuhr  |LockCouponEmission
+|2010-03-01| 10|LockSchuppenAg    |OliverGasser      |LockCouponEmission
+|2010-03-01|  2|LockSchuppenAg    |MarkusStamm       |LockCouponEmission
+|2010-03-01|  1|LockSchuppenAg    |ChristianHeller   |LockCouponEmission
+|2010-02-01|  1|LockSchuppenAg    |PeterHerbst       |LockCouponEmission
+|2010-02-01|  1|LockSchuppenAg    |ChristineSchlinck |LockCouponEmission
+|2010-02-01| 57|LockSchuppenAg    |RalfLippold       |LockCouponEmission
+|2010-02-01| 28|LockSchuppenAg    |RainerWasserfuhr  |LockCouponEmission
+|2010-02-01| 10|LockSchuppenAg    |OliverGasser      |LockCouponEmission
+|2010-02-01|  2|LockSchuppenAg    |MarkusStamm       |LockCouponEmission
+|2010-02-01|  1|LockSchuppenAg    |ChristianHeller   |LockCouponEmission
+|2010-02-01|  1|LockSchuppenAg    |PeterHerbst       |LockCouponEmission
+|2010-02-01|  1|LockSchuppenAg    |ChristineSchlinck |LockCouponEmission
+|2010-01-03| 67|LockSchuppenAg    |RalfLippold       |LockCouponEmission
+|2010-01-03| 27|LockSchuppenAg    |RainerWasserfuhr  |LockCouponEmission
+|2010-01-03|  2|LockSchuppenAg    |MarkusStamm       |LockCouponEmission
+|2009-09-06|  1|LockSchuppenAg    |RainerWasserfuhr  |Kauf
+|2009-09-06|  1|LockSchuppenAg    |HeidiGallinat     |Kauf
+|2009-09-04|  1|LockSchuppenAg    |MarcelBoehme      |BeSuch
+|2009-09-04|  1|LockSchuppenAg    |RaikFischer       |BeSuch
+|2009-09-04|  1|LockSchuppenAg    |ThiemoMaettig     |BeSuch
+|2009-09-04|  1|LockSchuppenAg    |IrisSchilke       |BeSuch

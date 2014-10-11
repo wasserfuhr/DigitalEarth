@@ -1,0 +1,3 @@
+* IsA: PotUs
+* InterWiki: [DeWikiPedia:Thomas_Jefferson]
+* BirthDay: 04-13

@@ -1,0 +1,5 @@
+* IsA: PerSon
+* HasTalked: RainerWasserfuhr RalfLippold
+* WorksFor: TSystemsMms
+|[XingLe:Frank_Lamack]
+|[TwittEr:fuyBoo]

@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* HomePage: http://www.barneby-dresden.de/
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.066909&lon=13.753818&zoom=18&layers=B000FTTT ToDo

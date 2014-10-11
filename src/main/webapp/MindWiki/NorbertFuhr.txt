@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/f/NFuhr
+* HomePage: http://www.is.informatik.uni-duisburg.de/staff/fuhr.html
+* PageNumber: 3
+* PagePath: LarryPage HectorGarciaMolina GerhardWeikum NorbertFuhr

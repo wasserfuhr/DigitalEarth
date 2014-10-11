@@ -1,0 +1,4 @@
+* IsA: MindPlace
+* PartOf: SchlossPlatz
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/627825922
+* NamedAfter: NapoleonBonaparte

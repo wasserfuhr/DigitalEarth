@@ -1,0 +1,5 @@
+* ist UnternehmensGruender
+* JahrGang: 1930
+
+||AusLand
+|[WikiPedia:Dee_Hock]

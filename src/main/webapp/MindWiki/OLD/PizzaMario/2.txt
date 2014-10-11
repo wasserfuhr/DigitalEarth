@@ -1,0 +1,7 @@
+Wir basteln ein Twitter2Pizzabringdienst-Interface für MarioSixtus:
+
+http://twitter.com/sixtus/statuses/527108582
+
+Kandidaten für Preferred Pizza-Supplier in DuesselDorf: 
+* telepizza
+* centrpizza

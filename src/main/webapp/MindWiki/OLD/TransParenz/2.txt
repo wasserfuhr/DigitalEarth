@@ -1,0 +1,13 @@
+Die Republik NooPolis ist transparent in allen Bereichen.
+
+Die Ausarbeitung der VerFassung und des HausHalt’s unterliegen der BuergerBeteiligung. 
+
+Die Einhaltung des Haushalts kann von jedem Bürger nachgeprüft werden.
+
+Die PrimusInterPares sind zur RechenSchaft verpflichtet. 
+
+Die Software, mit der NooPolis betrieben wird, ist OpenSource, und auf jeder Webseite kann man per ihn ViewSource einsehen.
+
+Die Administration der Server auf UnserGrid ist transparent.
+
+NooPolis ist eine Republik, an deren Entwicklung alle Bürger täglich teilhaben und aktiv mitarbeiten.

@@ -1,0 +1,4 @@
+* IsA: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Roland_Berger]
+* BornIn: 1937
+* BirthDay: 11-22

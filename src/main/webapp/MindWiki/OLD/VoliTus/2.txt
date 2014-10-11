@@ -1,0 +1,43 @@
+Introductory note
+ 
+ 
+Volitus is a research project that aims to shape tools and learning paradigms revolving around the concept of information authority.
+ 
+ 
+Given the fact that the Internet grows rapidly and it is becoming harder and harder to find not only relevant but useful information we need to introduce a new way of categorizing, visualizing and searching for information.
+ 
+ 
+Think of the following example: John wants to research the subject of project management. The easiest and fastest way to get information is to use a search engine such as Google. When searching for "project management" on Google John would get around 70.000.000 results. With techniques such as search engine optimization it is hard to believe that the first 10 results would suggest anything useful to start from. The pieces of information that John needs in order to learn something useful, have to be characterized by the following concepts:
+ 
+ 
+     - credibility
+     - trust
+     - reputation
+     - accountability
+     - cohesion
+ 
+ 
+Here is a list of tools that could bring great benefits to John:
+- articles and books written by persons with authority in Project Management
+- a list of terms related to Project Management
+     - software project management
+     - project lifecycle
+     - software engineering
+     - tbc...
+- tbc...
+ 
+ 
+ 
+Facts:
+- the Internet grows rapidly
+- it is becoming harder and harder to find not only relevant but useful information
+- rankings and recommendations are made using statistical algorithms
+- recommendations based on statistics applied to large masses of individuals that don't have full understanding capabilities are not useful
+ 
+ 
+Calls to action (CTAs)
+- we need a new way of learning - using the Internet
+- we need a way to tap into the hubs of education that make information relevant
+- we need to introduce the concept of information authority
+ 
+ 

@@ -1,0 +1,4 @@
+Durch sein SystemModell versucht PeterEmilBecker SigmundFreud so zu modifizieren, oder seine Instanzen konkreter darzustellen, dass es für den Anwender dieses Modells  einsichtig wird, welche Instanz wann und wie in ihm, oder im Klienten agiert. Das hilft
+# Genauer zu sagen, an welcher Stelle etwas schief läuft
+# Es gibt dem Betrachter die MoegLich'keit, ein GeFuehl für die Funktionsweise des Menschen zu bekommen
+# Und das soll hier der wichtigste Punkt sein, es lässt das ConCept der MaChina noch einmal deutlicher aufleuchten!

@@ -1,0 +1,3 @@
+* IsA: MindSquare
+* NamedAfter: MartinLuther
+* ConnectsTo: MartinLutherStrasse PulsnitzerStrasse

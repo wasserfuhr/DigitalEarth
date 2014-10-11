@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/a/MartinAbadi
+* HomePage: http://users.soe.ucsc.edu/~abadi/home.html
+* PageNumber: 7
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger ZoharManna AmirPnueli ZoharManna MartinAbadi

@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Johannes_Grenzfurthner]
+* JahrGang: 1975
+* BirthDay: 06-13
+|[TwittEr:johannes_mono]

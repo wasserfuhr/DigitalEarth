@@ -1,0 +1,19 @@
+Beim AusserboerslicherHandel per Quote-Request-Verfahren stellt der Kunde mit der Eingabe einer Wertpapierkennnummer und der Entscheidung über Kauf/Verkauf eine Preisanfrage. 
+
+Nach einer entsprechenden Plausibilitäts-Prüfung erhält der Kunde ein Preisangebot. 
+
+Durch Bestätigung des Preises wird ein Kauf oder Verkauf generiert. 
+
+Die handelbaren Volumina richten sich nach der Liquidität und Indexzugehörigkeit. 
+
+Der Kunde erhält ausschließlich Vollausführungen.
+
+
+TradeGate erklärt dies auf seiner Internetseite so:
+
+QuoteRequest -Verfahren:
+Fordern Sie einen Preis von TRADEGATE an, gilt dieser für eine gewisse Zeitspanne. 
+
+Trifft innerhalb dieser Zeitspanne Ihre Bestätigung und damit Aufforderung zum Handel ein, findet automatisch ein Geschäft mit dem Market Maker, der TRADEGATE AG, statt. 
+
+Kann der Handel nicht ausgeführt werden, weil z. B. die zulässige Zeitspanne überschritten wurde, erhalten Sie eine entsprechende Ablehnung.

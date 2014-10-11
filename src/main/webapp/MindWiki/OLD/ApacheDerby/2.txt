@@ -1,0 +1,2 @@
+* InterWiki: [WikiPedia:Apache_Derby]
+* http://db.apache.org/derby/

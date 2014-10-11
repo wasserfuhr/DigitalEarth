@@ -1,0 +1,4 @@
+* HomePage: www.fhi.ox.ac.uk/Reports/2008-3.pdf
+* DcAuthor: AndersSandberg, NickBostrom 
+
+TerraFlops, SuperComp

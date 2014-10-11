@@ -1,0 +1,3 @@
+JahrGang: 1891
+LebensEnde: 1969
+DueckGefaerbt: ein MachinaExpressionist!

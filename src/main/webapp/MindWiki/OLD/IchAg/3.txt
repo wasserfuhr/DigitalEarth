@@ -1,0 +1,9 @@
+Im Grunde ist laut MindFloor die MindBrokerAg zu 67% die IchAg von RainerWasserfuhr.
+Also 23% free float ;).
+
+Szenario für IntraBroker:
+* Jeder MindBroker wird IchAg.
+* Jeder MindBroker hat 1.000.000 Aktien Stammkapital.
+* Jeder MindBroker kann auf dem MindFloor gehandelt werden.
+* MindTrust sind schlicht Anteile an einem anderen MindBroker.
+* Je höher das InVest (in EUR), der WirkSatz und CommitMent einer IchAg für ein Unternehmen, desto höher seine Anteile am Unternehmen.

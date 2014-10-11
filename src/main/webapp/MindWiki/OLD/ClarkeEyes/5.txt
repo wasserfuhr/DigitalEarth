@@ -1,0 +1,6 @@
+* MindTags: MindThing
+* BoundingBox: 0.2
+* NamedAfter: ArthurCClarke
+
+The new MindEye's of RainerWasserfuhr:
+[{Image src='http://farm3.static.flickr.com/2418/2122708830_3acec80d93_m.jpg'}]

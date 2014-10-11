@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:John_H._Holland] [WikiWikiWeb:JohnHolland]
+* BornIn: 1929
+* BirthDay: 02-02
+* DbLp: http://dblp.uni-trier.de/rec/pid/18/310
+* PageNumber: 7
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger WestleyWeimer StephanieForrest WolfgangStolzmann JohnHolland

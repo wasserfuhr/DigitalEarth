@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Richard_Strauss]
+* BirthDay: 06-11

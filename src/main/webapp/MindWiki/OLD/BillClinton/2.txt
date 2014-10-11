@@ -1,0 +1,5 @@
+* MindTags: MinisTer
+* InterWiki: [DeWikiPedia:Bill_Clinton], [OpenCyc:BillClinton], [WebSeitz:BillClinton]
+* JahrGang: 1946
+* BirthDay: 08-19
+* MindSkill: NooSex

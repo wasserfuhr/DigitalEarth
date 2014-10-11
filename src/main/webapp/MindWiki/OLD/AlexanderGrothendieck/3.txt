@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Alexander_Grothendieck]
+* BornIn: 1928
+* BirthDay: 03-28

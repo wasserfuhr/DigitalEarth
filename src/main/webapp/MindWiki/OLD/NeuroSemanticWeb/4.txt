@@ -1,0 +1,10 @@
+personal SemanticWeb with NeuroBalance.
+
+http://docs.google.com/Presentation?id=dctbcwbg_04s3h2nc9
+
+||ComPare||Brain   ||LifeWiki
+|        |Neuron   |WikiPage
+|        |Axon     |BackLink
+|        |IchDenke |StartPage|
+|        |PerCeive |
+|        |Language |

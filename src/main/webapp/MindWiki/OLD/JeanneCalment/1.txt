@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* JahrGang: 1875
+* BirthDay: 02-21
+* LebensEnde: 1997
+* MindFaves: MethusalemKompott

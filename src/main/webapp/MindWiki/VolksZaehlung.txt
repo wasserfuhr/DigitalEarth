@@ -1,0 +1,23 @@
+per MindId und TwittEr!
+
+Die Abfolge der VolksZaehlung gibt es hier: __ http://id.mindbroker.de/abroad __
+
+Der Bürger mit MindId=1, also RainerWasserfuhr fängt an
+und TwittEr't:
+
+__rainer: @yvonneschubert NooPolis-VolksZaehlung: Meine MindId: 1__
+
+Danach TwittEr't die Bürgerin mit MindId=2 etc:
+
+__yvonneschubert: @daniele: NooPolis-VolksZaehlung: Meine MindId: 2, danke @rainer__
+
+Danach:
+
+__daniele: @Ute: NooPolis-VolksZaehlung: Meine MindId: 3, danke @yvonneschubert__
+
+Falls BuergerInnen nicht binnen 24h ihre MindId TwittEr'n oder keinen TwittEr-Account im MindWiki eingetragen haben,
+können BuergerInnen mit der nächstgrösseren MindId übernehmen:
+
+__@yvonneschubert: NooPolis-VolksZaehlung: RicardaDHerbrand: MindId: 4 AndreasWeigel: MindId: 5, Meine MindId: 6, danke @daniele__
+
+Und das Spannende ist: Jeder gezählte Bürger gibt __100 KayGroschen__ auf Dein BankKonto bei der PieschenBank!

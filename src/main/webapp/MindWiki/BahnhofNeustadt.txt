@@ -1,0 +1,9 @@
+* IsA: RailwayStation
+* InterWiki: [DdWiki:Neustädter_Bahnhof] [DeWikiPedia:Bahnhof_Dresden-Neustadt]
+* BreitenGrad: 51.0659
+* LaengenGrad: 13.74089
+* BoundingBox: 250
+* GraDient: 45
+* SlimNess: 0.5
+
+dort soll mitten im KopfSteinPflaster eine flora NooPolis WiKi'nensis sichtbar sein.

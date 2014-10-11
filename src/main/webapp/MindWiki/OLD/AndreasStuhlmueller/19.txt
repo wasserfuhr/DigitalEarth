@@ -1,0 +1,7 @@
+* MindTags: SingularityMind
+* JahrGang: 1985
+* MindSkill: ArTelligence, QuantPuter
+||AusLand
+|[WorldWideWeb:www.aiplayground.org]
+|[DelIcioUs:andreas.s]
+|[TwittEr:stuhlmueller]

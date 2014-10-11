@@ -1,0 +1,68 @@
+* MindTags: RdfClass
+* RdfClass: http://www.w3.org/2000/01/rdf-schema#Class
+
+Each WikiPage of the MindWiki can optionally have one or more MindTags.
+
+A taxonomy of MindTags is maintained in the IndexIndex.
+
+You can create MindTags as MindProps in the header of a WikiPage, eg:
+
+{{{
+* MindTags: MindPeople
+}}}
+
+!RePort: Most frequently used MindTags:
+||1)||2)||Tag
+|639|282|MindPeople
+|417|206|MindPlace
+|338|176|ProFessor
+| 97| 48|UnternehmensGruender
+| 55| 20|EnterPrise
+| 54| 25|SingularityMind
+| 52|  0|FutureCard
+| 45|  9|ReView
+| 42| 13|MinisTer
+| 38| 14|MindEvent
+| 37| 20|ProJect
+| 36|  0|ErZaehlung
+| 31|  3|MindThing
+| 21|  0|FutureCardIdea
+| 16|  0|EventSeries
+| 15|  6|WikiMind
+| 14|  2|PerSona
+| 14|  0|MitMachSache
+| 11|  5|UnterNehmer
+| 10|  9|CrowdWisdom
+| 10|  2|NobelPreis
+|  9|  8|PredictionMarket
+|  8|  7|MindMusic
+|  8|  1|GedankenSpiel
+|  8|  0|MetaPhor
+|  8|  0|MindGene
+|  7|  2|SocialNetwork
+|  6|  0|MarketGap
+|  5|  5|NooChess
+|  5|  4|LiebesRinge
+|  4|  4|RdfClass
+|  4|  3|MindBook
+|  4|  3|MindVerb
+|  4|  0|ParteiWiki
+|  4|  0|PotUs
+|  3|  4|RealFilm
+|  3|  3|RdfProperty
+|  3|  2|MindProps
+|  3|  2|MindCity
+|  2|  2|EheRinge
+|  2|  2|TicTacToe
+|  2|  1|MindPet
+|  2|  0|MindBet
+|  1|  0|BioMind
+|  1|  0|WunderKind
+|  0|  2|EdelMind
+|  0|  2|GeschaeftsIdee
+|  0|  2|RealRoman
+|  0|  2|RegierungsSprecher
+|  0|  1|AdJektiv
+|  0|  1|HerKunft
+* 1) 20081207
+* 2) 200805

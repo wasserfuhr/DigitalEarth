@@ -1,0 +1,8 @@
+* IsA: PerSon
+* SwDf: http://data.semanticweb.org/person/alvaro-graves
+* DbLp: http://dblp.uni-trier.de/rec/pid/20/4168
+* PageNumber: 5
+* PagePath: LarryPage TerryWinograd NorbertStreitz WendyHall JimHendler AlvaroGraves
+|[TwittEr:alvarograves]
+
+ProTect'ed TwittEr

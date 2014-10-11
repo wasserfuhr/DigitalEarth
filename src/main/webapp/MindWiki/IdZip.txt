@@ -1,0 +1,6 @@
+IdZip is the ApacheDerby dump of the MindId database. For security reasons it is currently not available for download as SocialBackup. It contains PassWord-CheckSum's (not the original ones). Therefore it is currently only shared by
+* RainerWasserfuhr
+* HeikeRibke
+* ChristineSchlinck
+
+Anybody else?

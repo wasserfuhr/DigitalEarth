@@ -1,0 +1,12 @@
+ehemals ein Land im Osten von DeutschLand.
+
+* BreitenGrad: 52
+* LaengenGrad: 10
+* BoundingBox: 400000
+
+bald als MindMe?: http://ddr.mindbroker.de/
+
+PageIndex:
+* AdolfHennecke
+* MuttiHeft
+* VerdienstBienchen

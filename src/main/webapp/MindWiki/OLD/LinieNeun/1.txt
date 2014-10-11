@@ -1,0 +1,43 @@
+* RiegelPlatz
+* Washingtonstraße
+* ElbePark
+* Sörnewitzer Straße
+* An der Flutrinne
+* Trachauer Straße
+* Mickten
+* Altpieschen
+* Rathaus Pieschen
+* Bürgerstraße
+* MoritzburgerPlatz
+* Liststraße
+* GrossenhainerPlatz
+* Lößnitzstraße
+* Bf. Neustadt (Hansastr.)
+* Anton/Leipziger Str.
+* Palaisplatz
+* Neustädter Markt
+* TheaterPlatz
+* PostPlatz
+* PragerStrasse
+* Walpurgisstraße
+* Hauptbahnhof Nord
+* GretPaluccaStraße
+* Lennépl. (Gellertstr.)
+* Lennéplatz
+* Zoo
+* Querallee
+* JuliusOttoStraße
+* Wasaplatz
+* Mockritzer Straße
+* HugoBürknerStraße
+* Cäcilienstraße
+* EugenBrachtStr.
+* OttoDixRing
+* Wieckestraße
+* Lohrmannstraße
+* Hülßestraße
+* Altreick
+* Trattendorfer Straße
+* AlbertWolfPlatz
+* JacobWinterPlatz
+* GeorgPalitzschStr.

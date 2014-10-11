@@ -1,0 +1,7 @@
+Das Wiki von MindBroker: http://mindbroker.de/
+
+Es ist ein semantisches neuronales Netz und damit das kollektive Gehirn für NooPolis und MindBroker als GlaesernesUnternehmen.
+
+UnserGrid hostet es. Wie man unten links erkennt, auf Basis von JspWiki v2.4.82. 
+
+VerdienstBienchen für das chice MindCss an DanielPoodratchi.

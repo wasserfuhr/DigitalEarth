@@ -1,0 +1,2 @@
+* InterWiki: [WikiWikiWeb:MyersBriggs]
+* RdfProperty: http://xmlns.com/foaf/0.1/#myersBriggs

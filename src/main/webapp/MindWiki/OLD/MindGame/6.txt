@@ -1,0 +1,14 @@
+* AbstandsTanz
+* GoMind
+* JumboWoerterSpiel
+* LoewenJagd (IstGleich IchSeheWasWasDuNichtSiehst?)
+* LuxorChess
+* MasterMind
+* MindGo
+* MindKniffel
+* MindTueftel
+* SchiffeVersenken
+* StadtLandFluss
+* TicTacToe
+* VierGewinnt
+* WereWolf

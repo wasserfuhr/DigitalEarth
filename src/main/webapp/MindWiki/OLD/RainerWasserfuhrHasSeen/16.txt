@@ -1,0 +1,45 @@
+RainerWasserfuhr HasSeen:
+
+* AngelaMerkel PragerStrasse
+* DieterBohlen Konzert StadtDresden
+* ElkeHeidenreich StadtDresden
+* ErnstJandl VorTrag HygieneMuseum
+* EugenDrewermann VorTrag KaisersLautern
+* GuenterWand?? Konzert (StadtKoeln? StadtDresden?)
+* GiuseppeSinopoli - Mahler in FrankFurt?
+* GerhardSchroeder CeBit 2001, StadtDresden
+* HansOlafHenkel DresdnerReden in der SemperOper
+* HeinerGeissler VorTrag RadeBeul
+* HelmutKohl - Wahlkampf KaisersLautern
+* HerbertGroenemeyer ChemNitz, FilmnaechteAmElbufer
+* GuenterBehnisch VorTrag StadtDresden
+* HassoPlattner TuDresden
+* HerbertWagner AugustusBruecke 2009
+* JimmyWales ReBoot
+* JoschkaFischer WahlKampf StadtDresden
+* JosephRatzinger Petersdom ??
+* JuergenHabermas VorLesung Uni FankFurt
+* JuergenHoeller VorTrag StadtDreden
+* JuergenMoellemann KaisersLautern
+* GertPostel VorTrag StadtDreden
+* GradyBooch Oopsla
+* GuenterBlobel StadtDresden
+* HansGeorgGadamer VorTrag UniKl
+* JulianNidaRuemelin SchauBurg
+* KatjaKipping neben HauptStrasse
+* KlausWowereit KurfuerstenDamm
+* KurtBiedenkopf Kempinski 2009
+* MartinFowler, Oopsla
+* NiklasLuhmann TuDresden
+* KarolWojtyla PetersDom
+* NiklausWirth VorTrag UniKl 
+* NoelleNeumann VorTrag UniKl
+* OttoSchily VorTrag Bergisches Land
+* PoldiRisch Kirmes WipperFeld
+* RaphaelCapurro WebMontag StuttGart
+* RobertHass Oopsla
+* RogerWillemsen Dokumenta
+* RolandKaiser FilmnaechteAmElbufer
+* RudiCarrell StadtKoeln
+* SteffenHeitmann SemperOper ?
+* VladimirPutin Kempinski

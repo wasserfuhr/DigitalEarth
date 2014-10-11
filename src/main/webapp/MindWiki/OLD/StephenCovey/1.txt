@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Stephen_Covey]
+* BornIn: 1934
+* BirthDay: 10-24
+
+ViafBug: http://viaf.org/viaf/10183548 http://viaf.org/viaf/89922753 http://viaf.org/viaf/19730461

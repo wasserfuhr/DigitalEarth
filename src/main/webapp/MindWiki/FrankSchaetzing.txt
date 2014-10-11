@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Frank_Schätzing]
+* BornIn: 1957
+* BirthDay: 05-28
+* MindSkill: SciFi
+* LockSessionTopics: NooSphere FutureLab2056

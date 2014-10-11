@@ -1,0 +1,27 @@
+http://www.dvb.de/de/Fahrplan/Haltestellenfahrplaene/haltestellenauswahl.do?uk_id=1262146262
+
+* WilderMann
+* DorotheaErxlebenStrasse
+* HubertusPlatz
+* TrachenbergerPlatz
+* ZeithainerStrasse
+* ListStrasse
+* GrossenhainerPlatz
+* Lößnitzstraße
+* Bf. NeuStadt (HansaStrasse)
+* BahnhofNeustadt
+* AlbertPlatz
+* CarolaPlatz
+* Synagoge
+* PirnaischerPlatz
+* WalpurgisStrasse
+* HauptbahnhofNord
+* Hauptbahnhof
+* ReichenbachStrasse
+* NuernbergerPlatz
+* MuenchnerPlatz
+* NoethnitzerStrasse
+* CaemmerswalderStrasse
+* KotteWeg
+* SaarStrasse
+* AchtbeeteWeg

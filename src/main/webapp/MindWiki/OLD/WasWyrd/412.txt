@@ -1,0 +1,47 @@
+Unsere Termine:
+
+(Termine haben ein "von" und ein "bis". Dinge die nur ein "bis" haben sind MindLine)
+
+
+||Wann        ||Bis ||       ||Wo           ||Was                     ||Wer (OrderedByShares)
+|20080104:1930|     |        |AuraRaum      |PhilosophischerKlub      |JensWegerle,RainerWasserfuhr?
+|20080108:1500|     |        |WirkZentrum   |ReineMachFee             |RainerWasserfuhr,IngridaPlunksnyte
+|20080108:1800|     |        |WirkZentrum   |WikiBoysZwo              |einige MindBroker
+|20080112     |     |        |GrueterichEins|Feier                    |RainerWasserfuhr?JosefBuechel?WernerWasserfuhr,AgnesWasserfuhr
+|20080118     |     |        |SemperOper    |SemperOpernBall          |UdoJuergens
+|20080118:1930|     |        |AuraRaum      |PhilosophischerKlub      |JensWegerle,RainerWasserfuhr?
+|20080120     |     |        |StadtMuenchen |DLD                      |RainerWasserfuhr?,HeikoHebig,HubertBurda?
+|20080121     |     |        |StadtMuenchen |DLD                      |RainerWasserfuhr?,HeikoHebig,HubertBurda?
+|20080122     |     |        |StadtMuenchen |DLD                      |RainerWasserfuhr?,HeikoHebig,HubertBurda?
+|20080126     |     |        |FeuerBach     |FeuerMind                |HeikeRibke,MarcoRibke,PeSt, u.a. und hoffentlich viele MindBroker
+|20080131:1111|     |        |StadtKoeln    |Höhepunkt der Säsong     |RainerWasserfuhr
+|200801xx     |     |        |WirkZentrum   |SingularCamp             |RainerWasserfuhr, YvonneSchubert
+|200801xx     |     |        |StadtDresden  |MindSalon                |RainerWasserfuhr
+|20080202     |     |        |KlagenFurt    |BarCamp                  |RainerWasserfuhr?, UteMoritz
+|20080203     |     |        |KlagenFurt    |BarCamp                  |RainerWasserfuhr?, UteMoritz
+|20080206     |     |        |StadtGenf     |lift                     |RainerWasserfuhr?
+|20080207     |     |        |StadtGenf     |lift                     |RainerWasserfuhr?
+|20080208     |     |        |StadtGenf     |lift                     |RainerWasserfuhr?
+|20080208     |     |        |StadtJena     |BarCamp                  |RainerWasserfuhr?
+|20080209     |     |        |StadtJena     |BarCamp                  |RainerWasserfuhr?
+|20080210     |     |        |StadtJena     |BarCamp                  |RainerWasserfuhr?
+|200803       |     |        |StadtBerlin   |WG-Besichtigung          |RainerWasserfuhr,RicardaDHerbrand
+|20080309     |     |        |HannOver      |EnterpriseTwoOpen        |RainerWasserfuhr?
+|20080402     |     |        |StadtBerlin   |re:publica               |RainerWasserfuhr?,MarkusBeckedahl
+|20080403     |     |        |StadtBerlin   |re:publica               |RainerWasserfuhr?,MarkusBeckedahl
+|20080404     |     |        |StadtBerlin   |re:publica               |RainerWasserfuhr?,MarkusBeckedah
+|20080601     |     |        |ZeppelinUniversity|BarCamp              |MartinKoser?
+|20080923     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080924     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080925     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080925     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080926     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080926     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080927     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|200901       |     |        |Washington    |InAuguration             |BarackObama?,HillaryClinton?
+
+!Was War:
+||Wann        ||Bis ||       ||Wo           ||Was                     ||Wer
+|20080101     |     |        |DeutschLand   |Feiertag                 |
+
+Ältere Sachen sind WasWar.

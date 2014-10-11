@@ -1,0 +1,123 @@
+!!LockSchuppen
+!- CoWorking in Dresden und mehr ...
+
+Beitrag der LockSchuppenAg zum BusinessPlan-WettBewerb FutureSax 2009/2010
+
+Team-ID: 101012
+
+[{Image src='http://farm4.static.flickr.com/3614/3426702414_fd71d46dfd_m.jpg'}] [*|http://www.flickr.com/photos/ralflippold/3426702414/]
+
+!Inhaltsverzeichnis
+# Executive Summary
+# Beschreibung des Produkts
+# Analyse des Marktes und des Wettbwerbs
+
+!!Executive Summary
+
+"Die Zusammenarbeit kleiner und mittlerer Unternehmen in offenen und transparenten Netzwerken ist die unternehmerische Organisationsform des 21. Jahrhunderts"
+
+Der LockSchuppen bietet Entrepreneuren, Startups und Existenzgründern der Stadt Dresden  den Raum, frei und selbstbestimmt eigene und gemeinsame Projekte umzusetzen. Durch die enge und zugleich offene Arbeitsatmosphäre ergeben sich Synergien bei der Lösung von Problemstellungen und Umsetzung geschäftlicher Chancen mit Klienten. LockSchuppen ist als ein Community-Beraternetzwerk angelegt, das durch die Nutzung moderner WebZwoNull-Technologien und eine strategische Ausrichtung auf die Zukunft eine weitere Plattform für Startups in der Stadt Dresden etabliert.
+
+Es werden in den nächsten Jahren neue Formen der Arbeit (siehe [FrithjofBergmann|http://de.wikipedia.org/wiki/Frithjof_Bergmann] mit [NewWork|http://de.wikipedia.org/wiki/New_Work]), für die entsprechende Räume geschaffen werden müssen. Einem Beitrag auf DeutschlandRadioKultur ist zu entnehmen: "Der amerikanische Ökonom Richard Florida prägte 2002 in seinem Buch "The Rise auf the Creative Class" den Begriff der "Kreativen Klasse" und meint damit einen Großteil der Menschen, die in der Informationsgesellschaft ihr Auskommen finden. Die wachsende ökonomische Bedeutung, die die "Kreative Klasse" erwirtschaftet, hängt nach Florida von drei wesentlichen Faktoren ab..." (Quelle: DeutschlandRadioKultur http://www.dradio.de/dkultur/sendungen/zeitreisen/1011713/). Dresden spielt dabei eine nicht zu unterschätzende Rolle, insbesondere im Zusammenhang mit seiner Wahrnehmung als Kunst-, Kultur- und zugleich Hightech-Standort.
+
+Die Frage, die sich stellt ist, wie die vorhandenen Hightech-Standorte in Verbindung mit  Forschung und Wirtschaft in der Stadt Dresden enger mit den vorhandenen und potentiellen Kunden verwoben werden können, um gesellschaftlichen Mehrwert zu schaffen. Wie geschieht der Austausch von Wissen und das gemeinsame Umsetzen von Prototypen, um den Designprozess für kundenrelevante und zukunftsweisende Produkte und Dienstleistungen voranzutreiben?
+
+Was kann CoWorking zusätzlich für eine Stadt wie Dresden leisten? Welche Rolle in der bisherigen Wirtschaftslandschaft kann es einnehmen und ausfüllen?
+
+Die Intention des mit LockSchuppen aufzubauenden CoWorking Spaces in Dresden ist es, neben dem für die Wissensarbeiter der Zukunft erforderlichen Arbeitsort, der sich den wechselnden Bedürfnissen der Nutzer anpasst, weitere Leistungen zu bieten (Schulungen für Nutzung WebZwoNull-Technologie, Vernetzung mit anderen Entrepreneurship-Initiativen wie z.B. http://twiddern.de ). Die erwähnte Dienstleistungsinitiative Sachsen macht deutlich, dass es einen hohen Bedarf an Begleitaktivitäten für das Entwickeln der hiesigen Dienstleistungslandschaft gibt. Insbesondere für den künftig wachsenden Anteil von Entrepreneuren und "Digitalen Nomaden" (Wissensarbeiter im WebZwoNull) werden wertschöpfende persönliche Verbindungen hin zu Projekten zunehmend wichtiger und bedürfen einer stärkenden Vernetzung. Die Tätigkeiten des LockSchuppen bieten einen innovativen Beitrag zur Klimaanpassungsstrategie der Stadt Dresden (http://regklam.de), indem er aufzeigt, wie künftig Arbeiten aussehen und umgesetzt werden kann.
+
+Oberste Prinzipien sind: Offenheit, Flexibilität, Nachhaltigkeit und Community bilden die  Grundlage des Miteinanderarbeitens. Mit wachsenden Mitgliederzahlen ist zunächst an die Interimsnutzung von zentral liegenden Liegenschaften gedacht. Fernziel ist die Nutzung des am Bahnhof Dresden-Neustadt stehenden Lokschuppen als ein CoWorking- und Zukunftsforschungsinstitut.
+
+Der Erfolg des LockSchuppen speist sich aus den dort arbeitenden Menschen - gefördert durch das kreative Umfeld, das von den Nutzern selbst aktiv mitgestaltet wird.
+
+Wirtschaftliche Werte werden nicht mehr nur in klassischen Büros geschaffen. Wertschöpfung findet künftig ebenfalls statt in interdisziplinären Projekten, an unterschiedlichen Orten, zu unterschiedlichen Zeiten, unabhängig und ohne Festanstellung. Diese neue Art des Arbeitens sucht ständig nach neuen realen und virtuellen Orten. Benötigt werden offene, digital vernetzte, kollaborative Arbeitsorte, die flexibel in der Nutzung sind und als kreative Inkubationsplattform für Netzwerk, Innovation und Produktion dienen.
+
+Der LockSchuppen ist ein solcher Arbeitsraum. Es ist eine Plattform, die den Ansprüchen von selbständigen und unabhängigen Entrepreneuren und Wissensarbeitern gerecht wird und ihren gemeinsamen Möglichkeitsraum erweitert. In einer Mischung aus entspannter Kaffeehaus-Atmosphäre und konzentriertem Arbeitsumfeld legen wir Raum zwischen Arbeit und Privatsphäre an, in der Innovation und Kreativität gefördert wird.
+
+Der für effektives Arbeiten erforderliche Rahmen wird angeboten. Es gibt WLAN, feste und flexible Arbeitsplätze. Durch das gemeinsame Arbeiten werden sich weitere smarte Lösungen für Problem- und Fragestellungen von Entrepreneuren ergeben, die im LockSchuppen tätig sind. Diese Lösungen werden entsprechend des Transparenz-Gedankens des LockSchuppen's in die Realität umgesetzt.
+
+Wenn CoWorking die Lebensqualität einer Stadt und ihrer Menschen steigert, ohne zusätzliche Kosten zu generieren, was wäre sonst noch möglich? Könnte dann nicht sogar auch in anderen Orten kollaborativ gearbeitet und gemeinsam Mehrwert für Unternehmen, die Stadt Dresden und das eigene Unternehmen generiert werden? Ein Vernetzen von innovativen Ideen und deren schnelle Umsetzung (z.B. Bereitstellung der Pre-Busnetz2009-Unterstützung der Callcenter durch eine angepasste Version von Metro (http://nanika.net/Metro))
+
+Beide Initial-Initiatoren des Projekts, RalfLippold und RainerWasserfuhr, beschäftigen sich seit mehreren Jahren mit der Prozessvereinfachung und -zeitreduzierung von Geschäftsprozessen durch den Einsatz neuer (zumeist bereits in den Unternehmen im Einsatz befindlicher) Medien. Aus diesem Grund ist der LockSchuppen auch als interdisziplinäres Ausbildungszentrum für die Nutzung neuer Medien in Unternehmen angedacht. Durch die bereits von den Mitgliedern genutzten Web-2.0-Tools im Rahmen ihrer gemeinschaftlich umgesetzten Projekte entsteht kollektives Wissen, das an Unternehmen weitervermittelt werden kann.
+
+Das Team ist inzwischen durch weitere Unterstützer verstärkt worden, die sich ebenfalls seit einiger Zeit mit Projekten rund um das Phänomen CoWorking in der Stadt Dresden beschäftigen. Auch die sich zwischenzeitlich stark in Deutschland ausbreitenden CoWorking Aktivitäten (am 01.12.2009 trafen sich im BetaHaus in Berlin über 20 CoWorking-Interessierte aus 11 Städten und 9 CoWorking-Initiativen; http://etherpad.com/Betahaus01122009). Neben Dresden etabliert sich gegenwärtig auch ein CoWorking Space in Leipzig (http://www.coworking-leipzig.de/).
+
+!!Beschreibung der Dienstleistung
+
+LockSchuppen bietet neben der Bereitstellung eines physischen Arbeitsortes in flexibler Weise (stunden-, tages- und monatsweise, inklusive erforderlicher Infrastruktur) mit Büroinfrastruktur und WLAN weitere Dienstleistungen an. Workshops zur Nutzung von neuen Medien wie Twitter, Skype und anderen Web-2.0 Technologien bezogen auf konkrete Geschäftsprozesse werden für Kleingruppen stundenweise angeboten. Intention ist, den Nutzern und deren Klienten zu helfen, die Tools in ihren eigenen Arbeitsumgebungen wertschöpfend zu integrieren und gleichzeitig Prozesszeit zu reduzieren, die sie wiederum für weitere wertschöpfende und kreative Arbeiten nutzen können.
+
+Wie bildet sich die für ein kollaboratives Arbeiten erforderliche Community? Sie bildet sich durch aktives Networking in Form der Durchführung von Workshops (Prozessoptimierung, Web-2.0 Anwendungen, Ernährungsberatung, etc.). Daneben bietet eine umfangreiche Bibliothek zu relevanten Themen wie DesignThinking, LeanThinking, SystemDynamics, ChangeManagement, Organisationsentwicklung, die der LockSchuppen auch für LockSchuppen-Fremde zur Verfügung stellt.
+
+Die maßgeblichen und den LockSchuppen von anderen CoWorking Spaces hervorhebenden Dienstleistungsangebote gruppieren sich speziell um das LockConsult Konzept (http://mindbroker.de/wiki/LockConsult):
+
+LockConsultClassic (http://mindbroker.de/wiki/LockConsultClassic)
+LockConsultIndividual (http://mindbroker.de/wiki/LockConsultIndividual)
+LockConsultSuccess (http://mindbroker.de/wiki/LockConsultSuccess)
+
+In den vergangenen Monaten wurden bereits mehrere Kunden nach diesem Konzept erfolgreich beraten. 
+
+Weitere Angebote werden künftig Folgendes umfassen:
+
+Ausstellungen
+Vorträge 
+Gründertreffen (ElevatorPitch und PechaKucha-Veranstaltungen
+Schulungen (lebenslanges Lernen)
+DresdenInnovationNight (Vorstellung innovativer Dresdner Startups)
+Schulungen in Web-2.0 Anwendungen für Nutzung im Arbeitsprozess
+Vorträge zu Auswirkungen von Technologischer Singularität auf die Arbeit von morgen
+
+Noch radikaler und nicht utopisch, sondern realer als man denkt (in 2002 während der Hochwasserkatastrophe, während der RalfLippold Projektleiter der "Hilfe für Dresden - Bürger helfen Bürgern" war, konnte dies an zahlreichen Stellen in der städtischen Verwaltung im Zusammenspiel mit der Hilfsorganisation beobachtet werden) drückt es SebastianSooth, Autor von "Wir nennen es Arbeit" aus: 
+
+"Warum arbeitet denn eigentlich so eine Stadtentwicklungssenatorin nicht mal einen Tag die Woche in irgendeinem Kreativbüro? Sie kann da ihre ganz normalen Sachen machen, sie hat einen Laptop - nehme ich mal an - und sie kann sich direkt mit Leuten austauschen. Oder warum lädt sie nicht Leute ein? einladen? wozu? Warum sagt sie nicht: "wir räumen hier eine halbe Büroetage leer und ihr könnt hier arbeiten und wenn wir eine Frage haben, dann müssen wir kein großes Hearing einberufen, sondern dann gehen wir über den Flur und reden mit euch...." Und das sind natürlich Dinge, die sind wesentlich einfacher umzusetzen, als für viele Millionen Euro irgendwelche Gründerzentren auf der grünen Wiese aufzubauen." (Quelle: http://www.dradio.de/dkultur/sendungen/zeitreisen/1011713/)
+
+Das ist die Vision des LockSchuppen und der Arbeit von morgen, die schon heute in Dresden im Kleinen ihre Umsetzung im LockOffice erfahren.
+
+!Analyse des Marktes und des Wettbwerbs
+
+Nach einer Studie des GlobalEntrepreneurshipMonitor GEM http://doku.iab.de/grauepap/2009/gem_laenderbericht_2008.pdf ist in Deutschland der Anteil der Entrepreneurship relevanten Ausbildung während Schul- und Studienzeit im Vergleich mit anderen Volkswirtschaften sehr gering (Frage: "Haben Sie während Ihrer gesamten Schulzeit je an einer Lehrveranstaltung zur Gründung eines Unternehmens teilgenommen?"  Mittelwerte für z.B. Deutschland 14%, Irland 18%, Finnland 40%). 
+
+Speziell auf Sachsen bezogen spiegelt die Studie Mittelstandsbericht Sachsen 2008 wider, dass Entrepreneurship ein wesentlicher Treiber künftiger wirtschaftlicher Prosperität sein wird (siehe: http://www.smwa.sachsen.de/set/431/Mittelstandsbericht_Sachsen_2008.pdf)
+
+Der in Dresden relevante Markt für die Angebote des LockSchuppen:
+
+* StartUp's
+* Existenzgründer (aus Studium, Beschäftigung und Arbeitslosigkeit)
+
+* Designer (in Sachsen befinden sich ca. 60 Industriedesignfirmen/-büros mit einem Gesamtumsatz von ca. 6 Mio Euro (Stand 2006)." (Quelle: http://technischesdesign.wcms-file3.tu-dresden.de/blog/?p=981))
+* Hochschulen (HtwDresden und TuDresden mit ihren Existenzgründerinitiativen)
+
+Weitere exemplarische Bereiche künftiger LockSchuppen-Nutzergruppen sind bereits in den vergangenen Monaten durch eigene Feldforschung aufgespürt worden:
+
+* BarCampDresden (als Kooperationspartner)
+* DresdenForscht
+* FutureSax
+* GruenderSchmiede (GruenderInitiative der HtwDresden)
+* DresdenExists (GründerInitiative der TuDresden
+* HandwerksKammer
+* HochSchulAngehörige
+* IndustrieUndHandelskammer
+* LeanThinkersTreffen
+* OpenCoffeeClubDresden
+* RegKlam
+* StadtDresden
+* StudentenStiftung
+* TeamEntrepreneurs
+* UnternehmensGruender
+
+Nach diversen Umfragen ist die StartUp-Gründerszene in Dresden sehr aktiv. An GruenderSchmiede, DresdenExists sowie im Rahmen des Businessplan-Wettbewerbs FutureSax sind vielfältige StartUp's aktiv. Wie auch die Initiatoren von UndSonstSo (http://undsonstso.com) herausfanden, fehlt die intensive Vernetzung der einzelnen Akteure, insbesondere über Branchenfelder hinweg. Im Rahmen dieses Konzepts erhalten angehende Gründer und bereits bestehende StartUp's die Gelegenheit im Rahmen professioneller Workshops und Netzwerktreffen mit potentiellen BusinessAngels, Coaches, Unterstützern und weiteren Startups ins Gespräch zu kommen.
+
+Der LockSchuppen wird nicht als konkurrierendes sonder als rein ergänzendes Angebot etabliert werden für Startups, die das Potential kollektiver Intelligenz und vernetzter Gruppen noch umfänglicher nutzen möchten (insbesondere durch die WebZwoNull-Technologien, die sich immer mehr durchsetzen).
+
+Künftig wird es andere Formen der Arbeit geben, als wir uns heute vorstellen können und die   Nutzung der Technologien von WebZwoNull zeigen den Möglichkeitsraum auf. Inzwischen ist eine Zusammenarbeit in Echtzeit mit Finnland, China und Deutschland möglich, ohne hierzu notwendigerweise zu reisen oder Telefonate zu führen (dies wurde eindruckvoll unter Beweis gestellt,  zehn global vernetzte Entrepreneure mittels http://EtherPad.com in sechs Stunden den Businessplan erstellten). kann man das erläutern?
+
+Das LockSchuppen-Konzept sieht vor, mit dem innovativen CoWorking Ansatz auch Sachsen in der "Fremde" mittelfristig das Netzwerk aufbauen zu können, um Arbeit im FreistaatSachsen aufnehmen zu können. 
+
+Potentielle Konkurrenten eines CoWorking-Ansatzes könnten sich in Form sogenannter BusinessCenter darstellen. Deren Klientel benötigt in der Regel geschlossene Arbeitsräume, d.h. mietet sich in Büros ein. Es entsteht keine offene Community-Atmosphäre, die den freien Austausch über Organisationsgrenzen hinweg befördert. Der Creative Class (wie sie von RichardFloria betitelt wird) in Dresden stehen bislang noch nicht branchen- und themenübergreifende Orte des Arbeitens gegenüber, in denen die Arbeitsformen flexibel den Bedürfnissen der Nutzer sich ändert. LockSchuppen und das sich damit verbindende Konzept, das sich in den vorgenannten Leitmotiven: Offenheit, Flexibilität, Nachhaltigkeit und Community manifestiert.  Wie kann nun LockSchuppen neben den Alternative bestehen, oder werden andere potentielle Kunden angesprochen, oder ist der Markt so gross, dass es keine Rolle spielt?
+
+Die bekanntesten sind das BusinessCenter Yenidze, BusinessCenter World Trade Center, BusinessCenter Waldschlößchen (http://www.plugandwork.de/business-center-dresden.html) sowie Business Center ABAKUS (http://www.abakus-bc.de). In diesen BusinessCentern können Freiberufler und kleinere Firmen bereits vorkonfigurierte Büroräume auf Zeit anmieten (in der Regel monatlich, 500 € pro Monat). Zusätzlich stehen ihnen Konferenzräume, Kommunikationstechnik sowie ein Büroservice zur Verfügung.
+
+Darüber hinaus haben sich insbesondere Künstlergemeinschaften zu größeren Arbeitsprojekten zusammengeschlossen, um für die Arbeit entsprechende Räumlichkeiten anzumieten und zu nutzen. Beispielhaft sind hier zu nennen Friedrichstadtzentral und GEH8 (http://geh8.de). In den vergangenen Jahren gab es noch die Initiative 7.Stock (http://www.stock7.de/) in einem Penthouse am Pirnaischen Platz. Das dortige Gebäude wird gegenwärtig für den Verkauf vorbereitet, so dass dieses Projekt nicht mehr existiert. 
+
+In Dresden gibt es daneben noch HackerSpace Aktivitäten, die über eine GoogleWave (http://tinyurl.com/yajduvq), die sich momentan auch mit Räumlichkeiten und einem physischen Standort beschäftigen. 
+
+Neben den bestehenden CoWorking-ähnlichen Arbeitskonzepten ist CoWorking weniger Konkurrenz als vielmehr Ergänzung bereits vorhandener Angebote vorhandener Institutionen wie SAB, FutureSax, . Angesichts des kurz bevorstehenden Climate Summit in Kopenhagen bietet CoWorking eine Möglichkeit den Carbon-Footprint von Städten maßgeblich zu reduzieren und gleichzeitig weiteres Engagement der Bürgerschaft in für sie relevanten Bereichen zu unterstützen.

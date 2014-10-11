@@ -1,0 +1,5 @@
+* MindTags: UnternehmensGruender
+* WohnSitz: StadtDresden
+||AusLand
+|[TwittEr:tobias_kroha]
+|[XingLe:Tobias_Kroha]

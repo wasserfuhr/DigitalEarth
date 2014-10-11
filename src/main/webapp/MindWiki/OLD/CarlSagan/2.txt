@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* InterWiki: [OpenCyc:CarlSagan]
+* JahrGang: 1934
+* LebensEnde: 1996

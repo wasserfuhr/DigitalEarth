@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* JahrGang: 1955
+* DbLp: http://dblp.uni-trier.de/rec/pid/56/4712
+* HomePage: http://www.dik.tu-darmstadt.de/fachgebiet_dik/mitarbeiterinnen/mitarbeiterdetails_11648.en.jsp
+* MindSkill: BuildingModel

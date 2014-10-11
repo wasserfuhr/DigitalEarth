@@ -1,0 +1,5 @@
+* IsA: PerSon
+* HomePage: http://steffen-bueffel.de/
+|[XingLe:Steffen_Bueffel]
+
+made nice InterView for TSystemsMms with DirkHilbert

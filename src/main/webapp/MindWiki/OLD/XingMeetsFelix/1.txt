@@ -1,0 +1,3 @@
+* IsA: MindEvent
+* XingEvent: https://www.xing.com/events/dresden-xing-meets-felix-schauspielhaus-455714
+* MindPlace: FelixDresden

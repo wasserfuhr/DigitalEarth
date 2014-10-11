@@ -1,0 +1,5 @@
+* MindTags: ProFessor
+* JahrGang: 1939
+* BirthDay: 07-10
+* MindSkill: EconoPhysics
+* HomePage: http://physikwww.upb.de/ag/ag-mim/mimkes1.htm

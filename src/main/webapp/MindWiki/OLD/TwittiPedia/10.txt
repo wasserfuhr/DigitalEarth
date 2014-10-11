@@ -1,0 +1,24 @@
+* TwittiPedia: 100
+
+Ein kleines WikiBasiert'es Spiel für TwittEr: Alle BuergerInnen von NooPolis, die auf ihrer Profilseite einen TwittEr-Account angegeben haben, der nicht "protected" ist, erhalten ab sofort KayGroschen für jedes CamelCase-Wort aus dem PageIndex, das sie twittern.
+
+Jedes CamelCase-Wort, das zum Zeitpunkt des Twitterns __nicht__ im PageIndex ist, kostet 10 KayGroschen Strafe.
+
+Falls auf der Seite des CamelCase-Names ein MindProps "TwittiPedia" angegeben ist, wird an den Twitternden der Betrag gezahlt, der dort angegeben ist. Wer also derzeit das Wort "TwittiPedia" twittert, erhält 100 KayGroschen.
+
+Nicht gezählt werden CamelCase-Namen direkt nach dem "@", also zB "@HeileRibke" oder "@LarsHinrichs".
+
+BuergerInnen erklären ihre Bereitschaft zur Teilname an TwittiPedia, indem sie einmal ein twit twittern, in dem das Wort TwittiPedia vorkommt. Bisher:
+* FrankLorenz
+* HeikeRibke
+* RainerWasserfuhr
+
+Maßgeblich für den Betrag ist die Version der Wikiseite zum Zeitpunkt des Twitterns.
+
+Die PieschenBank stellt im HausHalt ein Budget von vorerst 10.000 KayGroschen für das TwittiPedia-Spiel bereit.
+
+
+Weitergehende Varianten:
+* Subscriptions auf Basis von keywords
+* Explizite Stoplist
+* multilingual

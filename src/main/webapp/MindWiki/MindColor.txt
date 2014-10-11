@@ -1,0 +1,20 @@
+Das MindBroker Logo dynamisch: Ein PietMondrian-artige Anordnung von bunten Quadraten (wie auf der CSS-MindMap), wobei jede Farbe für genau ein BankKonto steht und die Größe proportional zum Kontostand ist.
+Die Anordnung der Quadrate ist ein NP-vollständiges Optimierungsproblem, das auf der QuantumJvm berechnet wird.
+
+||TerraMind||Name||RGB||
+| 0|aqua   |#00FFFF|%%(background-color:aqua) _ _ _ _ _ _ _%%
+| 1|green  |#008000|%%(background-color:green) _ _ _ _ _ _ _%%
+| 2|navy   |#000080|%%(background-color:navy) _ _ _ _ _ _ _%%
+| 3|silver |#C0C0C0|%%(background-color:silver) _ _ _ _ _ _ _%%
+| 4|black  |#000000|%%(background-color:black) _ _ _ _ _ _ _%%
+| 5|grey   |#808080|%%(background-color:grey) _ _ _ _ _ _ _%%
+| 6|olive  |#808000|%%(background-color:olive) _ _ _ _ _ _ _%%
+| 7|teal   |#008080|%%(background-color:teal) _ _ _ _ _ _ _%%
+| 8|blue   |#0000FF|%%(background-color:blue) _ _ _ _ _ _ _%%
+| 9|lime   |#00FF00|%%(background-color:lime) _ _ _ _ _ _ _%%
+|10|purple |#800080|%%(background-color:purple) _ _ _ _ _ _ _%%
+|11|white  |#FFFFFF|%%(background-color:white) _ _ _ _ _ _ _%%
+|12|fuchsia|#FF00FF|%%(background-color:fuchsia) _ _ _ _ _ _ _%%
+|13|maroon |#800000|%%(background-color:maroon) _ _ _ _ _ _ _%%
+|14|red    |#FF0000|%%(background-color:red) _ _ _ _ _ _ _%%
+|15|yellow |#FFFF00|%%(background-color:yellow) _ _ _ _ _ _ _%%

@@ -1,0 +1,20 @@
+Alle eingeladenen BuergerInnen von NooPolis erhalten nach Zustimmung zur VerFassung eine MindId: http://id.mindbroker.de/
+
+Die MindId ist eine natürliche Zahl, die beginnend von 1 hochgezählt wird.
+* 1: RainerWasserfuhr
+* 2: YvonneSchubert
+* 3: DanielPoodratchi
+usw.
+
+Die MindId ist gleichzeitig der PrimaryKey in der MindSql-Tabelle der MindId-WebApp.
+Ausserdem erhalten alle BuergerInnen einen eindeutigen CamelCase-Namen, zB RainerWasserfuhr.
+Der CamelCase-Name eignet sich allerdings nicht als PrimaryKey, da typischen Statistiken
+zufolge zB in DeutschLand etwa 15-20% der Bevölkerung ihren Namen im Falle einer Ehe ändern.
+
+BuergerInnen können nach dem Login verschiedene WebApp's auf dem SocialGrid nutzen.
+Das Login ist immer der aktuelle eigene CamelCase-Name (zB RainerWasserfuhr).
+
+Erste WebApp's mit MindId-Login:
+* PieschenBank: http://bank.mindbroker.de/
+
+Später: OpenId für jeden User einer WebApp.

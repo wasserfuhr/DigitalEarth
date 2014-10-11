@@ -1,0 +1,3 @@
+* IsA: MindStreet
+* PartOf: SuedVorstadt
+* ConnectsTo: NuernbergerPlatz ZelleschWeg

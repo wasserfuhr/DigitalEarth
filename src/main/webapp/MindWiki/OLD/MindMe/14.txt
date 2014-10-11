@@ -1,0 +1,23 @@
+OpenSource-Wiki-Software für UnserGrid, denn alle BuergerInnen und jedes UnterNehmen benötigen nicht nur eine MindId, sondern auch ein LifeWiki.
+
+Bald http://me.mindbroker.de
+
+Sozusagen IntraBroker ZwoNull:
+* PageMatch: Findet andere Nutzer mit gleichen Wiki-Seitennamen.
+* OpenNess: OpenSource, SocialBackup.
+* PREMIUM: 
+** Eigene Sub-Domain, z. B. http://yvonne.mindbroker.de
+** Eigene Domain, z. B. http://yvonneschubert.com
+
+* Preismodellentwurf:
+** Einrichtung des Wiki und erste 50 Seiten: 500 KayGroschen
+** jede weitere Seite 1 KayGroschen/Monat
+
+Kandidaten für erste Test-MiNd's:
+* ChristineSchlinck
+* UteMoritz
+* HeikeRibke
+* ChristianHeller?
+* EiBiEm?
+* ZeppelinUniversity?
+* CibWiki?

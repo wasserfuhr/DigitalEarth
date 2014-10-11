@@ -1,0 +1,2 @@
+* IsA: MindStreet
+* ConnectsTo: AlaunStrasse RothenburgerStrasse MartinLutherStrasse PulsnitzerStrasse PriessnitzStrasse StolpenerStrasse NordStrasse JaegerStrasse LouisBrailleStrasse AufDemMeisenberg BautznerLandstrasse

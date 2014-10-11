@@ -1,0 +1,4 @@
+* IsA: AssociateProfessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/25/6606
+* PageNumber: 6
+* PagePath: LarryPage HectorGarciaMolina GerhardWeikum TobiasNipkow ManfredBroy ArndtBode HenriCasanova

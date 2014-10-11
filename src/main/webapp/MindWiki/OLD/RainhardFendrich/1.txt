@@ -1,0 +1,2 @@
+* IsA: PerSon
+* BirthDay: 02-27

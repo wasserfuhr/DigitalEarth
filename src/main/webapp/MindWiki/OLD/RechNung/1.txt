@@ -1,0 +1,10 @@
+* von: DanielPoodratchi
+* an: MindBrokerKg
+* Leistung
+** Art: Programmierung SportPortal
+** Menge: x Stunden
+** Datum: 2007-01 - 2007-11
+** Preis: x EuRo
+** MwSt: x %
+
+der Rest: bald automatisch per MindApi, MindProps und ApacheFop.

@@ -1,0 +1,14 @@
+* MindTag: MindPlace
+* BreitenGrad: 51.0638
+* LaengenGrad: 13.7769
+* BoundingBox: 80
+* GraDient: 10
+* SlimNess: 0.3
+
+Ein wenig CrowdWisom: Was glauben unsere BuergerInnen: Ab wann kann man mit dem MindWay __über__ die WaldSchloesschenBruecke cruisen?:
+
+||wer              ||Jahr||Unsicherheit (%)
+|RainerWasserfuhr  |2011 |30
+
+||AusLand
+|[DeWikiPedia:Waldschl%C3%B6%C3%9Fchenbr%C3%BCcke]

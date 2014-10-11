@@ -1,0 +1,3 @@
+* MindTags: ErZaehlung
+
+A benchmark for InSider: The MagnonFund is a semiautomatically traded HegdeFund.

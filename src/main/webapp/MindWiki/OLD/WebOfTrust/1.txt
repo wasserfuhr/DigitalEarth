@@ -1,0 +1,7 @@
+Ein Grundsatz der Verfassung von NooPolis ist, im Rahmen eines WebOfTrust die Identität aller Bürger durch ein dezentrales Netz von gegenseitigen VertrauensBezeugung’en zu verifizieren und zu sichern. Durch diese Bestätigungen entsteht eine Kaskade genetischer Vererbungen von Vertrauen:
+
+„Ich vertraue jedem, dem jemand vertraut, dem ich vertraue.“
+
+„Jeder, der jemandem vertraut, der mir vertraut, vertraut auch mir.“
+
+VertrauensBezeugung’en können widerrufen werden. 

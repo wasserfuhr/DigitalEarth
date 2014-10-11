@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.08904
+* LaengenGrad: 7.324535
+* BoundingBox: 45
+* GraDient: 135
+* SlimNess: 0.6
+* OpenStreetMap: ToDo

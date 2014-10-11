@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Adam_Rainer]
+* BornIn: 1899
+* BirthDay: 03-04
+* DiedIn: 1950

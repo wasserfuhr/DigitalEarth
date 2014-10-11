@@ -1,0 +1,11 @@
+* InterWiki: [WebSeitz:UnitedNations], [WikiPedia:United_Nations]
+
+||ComPare   ||UnitedNations ||NooPolis
+|Government |SecurityCouncil|CabiNet
+|Charter    |UnitedNationsCharter|ConStitution
+|MindOne    |BanKiMoon      |RainerWasserfuhr
+|Bank       |WorldBank      |PieschenBank
+|Currency   |-              |KayGroschen
+|CitiZens   | 6.650.000.000 |44
+|Election   |-              |UrWahl
+|BoundingBox|PlanetErde     |UhTopia

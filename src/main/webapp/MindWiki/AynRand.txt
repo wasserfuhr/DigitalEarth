@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [CommunityWiki:AynRand] [DeWikiPedia:Ayn_Rand] [MeatballWiki:AynRand] [OpenCyc:AynRand]
+* BornIn: 1905
+* BirthDay: 02-02
+* DiedIn: 1982

@@ -1,0 +1,5 @@
+* IsA: MindBook
+* DcAuthor: RoswithaHunold
+* IsBn: 978-3-643-10343-7
+
+DoktorArbeit. BeTreuer: JohannTischler

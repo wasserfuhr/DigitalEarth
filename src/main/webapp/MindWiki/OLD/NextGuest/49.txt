@@ -1,0 +1,84 @@
+Who could be the NextGuest for a LockSession at the CoOrpheum? BrainStorm:
+||PerSon           ||[1]||InvitedBy
+|AlexandraGrandpierre| x|RainerWasserfuhr
+|AndreasPoldrack   | x|RainerWasserfuhr
+|AndreSchindler    | x|RalfLippold
+|AnneRichter       | x|RainerWasserfuhr
+|BastiHirsch       |rx|RainerWasserfuhr
+|BertramDressel    |  |RainerWasserfuhr
+|BobHooda          | x|RainerWasserfuhr
+|ChristianHeller   |r |RalfLippold
+|ChristineSchlinck | x|RainerWasserfuhr
+|ClaudiaMuntschik  |  |RainerWasserfuhr
+|ConstanceWolter   |  |RalfLippold
+|DirkHilbert       |  |RalfLippold
+|DirkJesse         |  |RalfLippold
+|EvaLubas          |  |RainerWasserfuhr
+|EvelyneWrobbel    | x|RainerWasserfuhr
+|FlorianVogelmaier |r |RalfLippold
+|FrankLorenz       |  |RainerWasserfuhr
+|FrankSchoenefeld  |  |RalfLippold
+|GunterDueck       |r |RainerWasserfuhr
+|HeidiGallinat     | x|RainerWasserfuhr
+|HeikeKwarteng     |r |RainerWasserfuhr
+|HeinzEggert       |  |RainerWasserfuhr
+|HolgerBertling    |  |RainerWasserfuhr
+|HelmaOrosz        |  |DirkHilbert
+|JanaDiesner       |r |RalfLippold
+|JanaKaluscha      | x|RainerWasserfuhr
+|JanaSchlegel      |r |RalfLippold
+|JanBoehme         |  |RalfLippold
+|JanKreuter        |  |RainerWasserfuhr
+|JebBush           |r |RayKurzweil
+|JensBemme         |  |RalfLippold
+|JensDoege         | x|RainerWasserfuhr
+|JensFreydank      |r |RainerWasserfuhr
+|JensKorte         |  |RalfLippold
+|JensOsthues       | x|RainerWasserfuhr
+|JensUweSauer      |  |RalfLippold
+|JfSchlinck        | x|RainerWasserfuhr
+|JoelKaczmarek     |r |RalfLippold
+|JoergKeller       |  |RainerWasserfuhr
+|JohannesHuenich   |  |RalfLippold
+|JoseTajada        |r |RainerWasserfuhr
+|JuergenAnke       |  |RalfLippold
+|JuergenKohn       | x|RainerWasserfuhr
+|JuliaBonk         |  |WinfriedLueg
+|KarolKozak        |  |RainerWasserfuhr
+|KarstenPeters     | x|RainerWasserfuhr
+|KatharinaKuehnel  | x|RainerWasserfuhr
+|KatrinKahle       | x|RainerWasserfuhr
+|KerstinTrautmann  |  |RalfLippold
+|KirstinWalther    |  |RainerWasserfuhr
+|KlausNicolai      |  |RainerWasserfuhr
+|LarsRohwer2       |  |RalfLippold
+|MandyHelas        |  |RalfLippold
+|MarcelBoehme      |  |RainerWasserfuhr
+|MarcusBertelsmeier| x|RalfLippold
+|MarkusStamm       |r |RalfLippold
+|MartinGaedke      |r |RalfLippold
+|MichaelKlotsche   |  |RainerWasserfuhr
+|NorbertRost       |  |RalfLippold
+|NadineOhneE       |  |RalfLippold
+|PetraAlexandraBuhl|  |RainerWasserfuhr
+|RaikFischer       |  |RainerWasserfuhr
+|RainerJacob       |  |RainerWasserfuhr
+|RalphSonntag      |  |RalfLippold
+|RayKurzweil       |rx|RalfLippold
+|ReneBoehm         |  |RalfLippold
+|SabineFriedel     |  |RalfLippold
+|SebastianBoehm    |  |RainerWasserfuhr
+|SiggiSchwarz      |  |RainerWasserfuhr
+|SilkeGeithner     | x|RalfLippold MarcoDziallas
+|StanislawTillich  |  |HelmaOrosz
+|StefanSchneider   |  |RainerWasserfuhr
+|TinoSchmidt       | x|RainerWasserfuhr
+|ThomasVonDerElbe  |  |RobertWartenberg?
+|UllrichBemmann    | x|RalfLippold
+|UlrichSoeder      |  |RainerWasserfuhr
+|UlrichVanStipriaan|  |RainerWasserfuhr
+|WinfriedLueg      | x|RainerWasserfuhr
+|YvonneSchubert    | x|RainerWasserfuhr
+Legend [#1]:
+* r: has as remote HomeStead far from StadtDresden
+* x: already invited

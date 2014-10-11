@@ -1,0 +1,37 @@
+Assumptions for the system architecture (Background: http://wasserfuhr.com/nodes/node.jsp?id=606 )
+
+!User events:
+Typical events for a user who is in the 2nd upper [WikiPedia:Quartile] of the PowerLaw distribution of user activity:
+
+||#Events||per||WebApp ||Event
+|1  |year |MindId      |User.register()
+|2  |year |MindId      |Password.change()
+|5  |year |MindId      |User.logout()
+|2  |month|MindId      |Trust.confirm()
+|2  |month|MindId      |User.login()
+|1  |month|MindFeeds   |Feed.subcribe()
+|1  |month|MindVote    |Vote.create()
+|1  |week |MindFeeds   |Feed.subcribe()
+|2  |week |MindFeeds   |Feed.setFolder()
+|2  |week |MindBlog    |Posting.comment()
+|2  |week |MindWiki    |Fave.create()
+|3  |week |MindCal     |Event.create()
+|3  |week |MindId      |WebSession.start()
+|3  |week |InBox       |Message.send()
+|3  |week |InBox       |Message.read()
+|5  |week |MindWiki    |Page.edit()
+|5  |week |MindVote    |Vote.vote()
+|5  |week |PieschenBank|Payment.pay()
+|4  |day  |MindWiki    |Page.view()
+|3  |day  |DoItProject |Item.done()
+|4  |day  |DoItProject |Item.create()
+|1  |day  |DanielPoodrachti|MiNd.husch()
+|10 |hour |MindFeeds   |Feed.check()
+|10 |hour |MindFeeds   |Feed.markAsRead()
+|20 |hour |MindBrowser |Page.click()
+
+!System events:
+||Events||per||WebApp  ||Event
+|1  |sec  |UnserGrid   |WepApp.checkStatus()
+|1  |sec  |UnserGrid   |WepApp.checkStatus()
+|-3 |msec |WebApp      |HttpServlet.service()

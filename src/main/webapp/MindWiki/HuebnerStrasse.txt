@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* NamedAfter: JuliusHuebner
+* NearBy: NuernbergerPlatz

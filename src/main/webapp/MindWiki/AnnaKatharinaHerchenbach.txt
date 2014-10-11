@@ -1,0 +1,7 @@
+* IsA: PerSon
+* BornIn: 1871
+* BirthDay: 01-28
+* BirthPlace: NeunKirchen
+* MarriedTo: RobertWasserfuhr2
+* ChildOf: AnnaHeleneWiersberg HeinrichHerchenbach
+* DiedIn: 1941

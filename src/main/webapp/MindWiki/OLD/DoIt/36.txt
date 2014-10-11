@@ -1,0 +1,67 @@
+Alpha: http://doit.mindbroker.de/
+
+svn://svn.mindbroker.de/opensource/de.mindbroker.doit
+
+Wichtigste Items zuerst:
+||OrderedByShares||h||Project    || %||do       ||it
+|RainerWasserfuhr| 3|UnserGrid   |  0|code      |automatisches BackUp
+|RainerWasserfuhr| 1|MindId      |  0|code      |Funktion für online/offline Status der user
+|RainerWasserfuhr| 1|UnserGrid   | 50|code      |MicroFormat-Status
+|RainerWasserfuhr| 1|UnserGrid   |  0|code      |MindFee
+|RainerWasserfuhr| 1|SportPortal |  0|code      |Suchfunktion
+|RainerWasserfuhr| 1|SportPortal |  0|erweitere |DB für Userguestbooks, Blogfunktion für Clubs/Teams
+|DanielPoodratchi| 4|UnserGrid   |  0|code      |MindCss
+|DanielPoodratchi| 1|DoIt        |  0|frage     |Rainer zu Problem zu ContextSort (rede mit Daniel darüber)
+|DanielPoodratchi| 1|DoIt        |  0|integriere|MindLine
+|DanielPoodratchi| 4|DoIt        |  0|migriere  |Jedes Item dieser Tabelle als DoIt-Item
+|DanielPoodratchi| 4|UnserGrid   |  0|code      |RSS Feed
+|DanielPoodratchi| 4|DoIt        |  0|integriere|Seitenwechsel
+|DanielPoodratchi| 4|DoIt        |  0|erstelle  |die Seite "Konfiguration" 
+|DanielPoodratchi| 4|DoIt        |  0|integriere|export Funktion für DoIt zu iCal (ics)
+|DanielPoodratchi| 4|DoIt        |  0|integriere|Projects
+|DanielPoodratchi| 2|MindCss     |  0|leite     |Projekt
+|DanielPoodratchi|12|SportPortal |  0|code      |Tag-Libraries
+|DanielPoodratchi|20|SportPortal |  0|code      |Löschen von Terminen, Nachrichten und Sportfreunde
+|DanielPoodratchi|20|SportPortal |  0|code      |picUpload für Team und Club
+|DanielPoodratchi| 4|SportPortal |  0|code      |Passwort vergessen
+|DanielPoodratchi| 4|SportPortal |  0|code      |Passwort ändern
+|DanielPoodratchi| 1|SportPortal |  0|frage     |Rainer zu reply=true setzen
+|DanielPoodratchi| 1|SportPortal |  0|frage     |Rainer zu generic Types
+|DanielPoodratchi|15|SportPortal |  0|code      |dynamische Zuordnung Teams->Clubs
+|DanielPoodratchi|20|SportPortal |  0|code      |Auswahlmöglichkeit der Sportarten
+|DanielPoodratchi|20|SportPortal |  0|code      |userGuestbook
+|DanielPoodratchi| 1|SportPortal |  0|frage     |Rainer zu NullFeldern
+|AndreasWeigel   | 4|DoIt        |  0|integriere|bessere DetailAnsicht von den ToDos (schon besprochen)
+|AndreasWeigel   | 2|DoIt        |  0|integriere|DoJo DatePicker
+|AndreasWeigel   | 2|DoIt        |  0|erstelle  |Haken für dropDownMenüs
+|AndreasWeigel   | 2|SportPortal |  0|code      |"Sie sind nicht berechtigt..." inkl LoginForm und bigLink zu register.jsp
+|AndreasWeigel   |10|SportPortal |  0|code      |Grunddesign-/layout
+|AndreasWeigel   |30|SportPortal |  0|optimiere |Layout für alle Browser
+|AndreasWeigel   |20|SportPortal |  0|integriere|Forms für Passwort ändern und Passwort vergessen
+|YvonneSchubert  |1 |VebMind     |  0|sichere   |UnsereMarken für VebMind
+|YvonneSchubert  |3 |VebMind     |  0|konzipiere|DueckWiki
+|YvonneSchubert  |20|MindBrokerAg|  0|finde     |UnserDesigner
+|YvonneSchubert  |20|MindBrokerAg|  0|finde     |UnserSteuerberater
+|YvonneSchubert  |20|MindBrokerAg|  0|kontaktiere|UnserSteuerberater 20070529
+|YvonneSchubert  |20|MindBrokerAg|  0|sortiere  |Belege
+|JuergenKohn     | 3|SportPortal |  0|mache     |Wettbewerbsanalyse
+|JuergenKohn     | 1|SportPortal |  0|installiere|Eclipse 
+|JuergenKohn     | 2|SportPortal |  0|reviewe   |OtherLand
+|JuergenKohn     | 4|SportPortal |  0|reviewe   |VerTrag
+
+Fürs SportPortal:
+*Suche von usern, Clubs,Teams
+*Anzeige von user die zuletzt auf meinem Profil waren
+*Profile von Clubs
+*Profile von Teams
+*mehrere Admins von Clubs und Teams
+*Photoalben für user, teams und clubs
+Für MindBrokerId:
+*message: "Du bist nicht eingeloggt" && "Auf diese Seite hast du nur Zugriff wenn du eingeloggt bist"
+*Anzeige von Freunden die gerade online sind
+*Passwort vergessen
+*Passwort ändern
+*Feedback geben
+
+Alternativen:
+* http://mein.todooo.com/

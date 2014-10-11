@@ -1,0 +1,15 @@
+saying happy BirthDay:
+
+* HappyBirthdayQ1
+* HappyBirthdayQ2
+* HappyBirthdayQ3
+* HappyBirthdayQ4
+
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * |grep 02-27
+JulianJaynes.txt:* BirthDay: 02-27
+RainhardFendrich.txt:* BirthDay: 02-27
+RudolfSteiner.txt:* BirthDay: 02-27
+NepTun:~/Desktop/wiki rainer$ grep BirthDay * |grep 02-28
+FrankGehry.txt:* BirthDay: 02-28
+PaulKrugman.txt:* BirthDay: 02-28
+StevenChu.txt:* BirthDay: 02-28

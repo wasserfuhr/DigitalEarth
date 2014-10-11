@@ -1,0 +1,2 @@
+* IsA: HochSchule
+* InterWiki: [WebSeitz:MIT]

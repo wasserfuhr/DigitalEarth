@@ -1,0 +1,8 @@
+* IsA: EnterPrise
+* MindOne: RainerWasserfuhr
+
+Operator of the different PieschenMedia channels.
+
+||%||ShareHolder
+|800|RainerWasserfuhr
+|200|AlexanderFriedland

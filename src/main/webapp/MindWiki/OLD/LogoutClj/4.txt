@@ -1,0 +1,28 @@
+;LogOut
+;{{{
+
+((defn logout []
+  (handle "logout"
+   nil
+   (fn []
+    (let
+     [hConf (new org.apache.hadoop.hbase.HBaseConfiguration)
+      hTable (new org.apache.hadoop.hbase.client.HTable "EventLog")
+      batch
+        (new org.apache.hadoop.hbase.io.BatchUpdate 
+         (.toString (- (Long/MAX_VALUE) (.getTime (new java.util.Date)))))]
+     (do
+      (.put batch
+           "log:EventType"
+            (.getBytes "LogOut"))
+      (.put batch
+           "log:MindId"
+            (.getBytes (.getAttribute (.getSession request) "MindId") ))
+      (.commit hTable batch)
+      (.setAttribute (.getSession request) "MindId" nil)
+      (.setAttribute (.getSession request) "WikiName" nil)
+      (.sendRedirect response (.getParameter request "pathInfo"))
+    ))
+   )
+   )))
+;}}}

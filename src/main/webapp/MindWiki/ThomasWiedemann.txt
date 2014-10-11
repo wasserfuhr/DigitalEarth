@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* HasTalked: RainerWasserfuhr RalfLippold
+* WorkFor: HtwDresden
+|[XingLe:Thomas_Wiedemann2]

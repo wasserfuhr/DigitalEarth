@@ -1,0 +1,7 @@
+* MindTags: MindPeople
+* JahrGang: 1871
+* BirthDay: 05-17
+* BirthPlace: Grueterich
+* MamaZwoNull: AnnaCatharinaBuechel
+* PapaZwoNull: AntonBuechel
+* LebensEnde: 1956

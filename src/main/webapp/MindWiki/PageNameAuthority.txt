@@ -1,0 +1,6 @@
+We check for PriorArt before inventing a new PageName:
+* WikiPedia
+* DeWikiPedia
+* WikiWikiWeb
+* WebSeitz
+* OpenCyc

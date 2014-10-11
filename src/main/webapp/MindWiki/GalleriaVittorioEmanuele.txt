@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Galleria_Vittorio_Emanuele]
+* BreitenGrad: 45.465696
+* LaengenGrad: 9.189926
+* BoundingBox: 200
+* SlimNess: 0.6

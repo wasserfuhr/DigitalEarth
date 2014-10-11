@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Fritz_Walter]
+* BirthDay: 10-31
+* BirthPlace: KaisersLautern
+* JahrGang: 1920
+* LebensEnde: 2002

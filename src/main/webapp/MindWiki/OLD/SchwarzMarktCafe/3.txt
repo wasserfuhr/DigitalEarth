@@ -1,0 +1,10 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0604
+* LaengenGrad: 13.74424
+* BoundingBox: 30
+
+VorSicht!: fiktionales Etablissement.
+
+TotalRecall:
+* 20080907: ChristineSchlinck, RainerWasserfuhr, YvonneSchubert: RayKurzweil, TineTest,
+SuendenMund, ArTelligence, ShockLevel, DfKi, FutureMap, MindBall.

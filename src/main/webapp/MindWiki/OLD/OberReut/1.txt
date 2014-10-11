@@ -1,0 +1,2 @@
+* BreitenGrad: 48.9875
+* LaengenGrad: 8.3625

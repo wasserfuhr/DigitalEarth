@@ -1,0 +1,332 @@
+RalfLippold
+
+FritzReuterStrasse 18
+
+D-01097 Dresden
+
+
+Telefon: +49-351-658 88 441
+
+Handy: +49-163-351 351 0
+
+ElectronicMail: ralf_lippold@web.de
+
+[TwittEr:RalfLippold]
+
+[XingLe:RalfLippold]
+
+!!LockSchuppen
+!- ein GlaesernesUnternehmen
+!!Das ZukunftsPanometer
+!Wie wir UnTil2056 arbeiten, leben und lieben könnten
+
+Beitrag der LockSchuppenAg zum BusinessPlan-WettBewerb FutureSax 2009
+
+Team-ID: 081192
+
+
+[{Image src='http://farm4.static.flickr.com/3614/3426702414_e1188218c9.jpg'}] [*|http://www.flickr.com/photos/ralflippold/3426702414/]
+
+
+
+!Inhaltsverzeichnis
+# Executive Summary
+# Beschreibung des Produkts
+# Analyse des Marktes und des Wettbwerbs
+# Aussagen zum Marketing und Vertrieb
+# Geschäftsmodell, Geschäftssystem und Organisation
+# Vorstellung des Unternehmerteams, Managements und Personal
+# Aufstellung eines Realisierungsfahrplans
+# Betrachtung der Chancen und Risiken
+# Aussagen zum Finanzplan und zur Finanzierung
+
+
+!!Executive Summary
+
+Der LockSchuppen ist als ein ZukunftsMuseum des Jahres 2056 konzipiert. Das Gebäude befindet sich in der StadtDresden am BahnhofNeustadt,  steht seit ca. 2006 leer und wird derzeit von der DeutschenBahn zum Verkauf angeboten. Der LockSchuppen soll eine interaktive virtuelle Erlebniswelt werden, gespeist aus den ReSearch-Ergebnissen eines angeschlossenen international ausgerichteten ThinkAndDoTank's.
+
+Das Projekt entstand aus einem Besuch der beiden Gründer, RalfLippold und RainerWasserfuhr, während der FutureSax-Veranstaltung im März 2009 im PanoMeter der StadtDresden. Dort hat der Berliner Architekt und Professor YadegarAsisi die Vision einer Darstellung des Dresdens im Jahr 1756 zu greif- und erlebbaren Realität werden lassen. Anders als den Blick zurück in das Jahr 1756 wagen die Akteure der LockSchuppenAg den Blick in die ZuKunft – bezeichnenderweise in das Jahr 2056.
+
+Die Gründer beschäftigen sich beide seit geraumer Zeit mit dem Thema, wie Technik künftig unsere Arbeit verändert und auch vereinfacht. RainerWasserfuhr forschte lange Jahre im Bereich KuenstlicheIntelligenz an der Universität Kaiserslautern und an der TuDresden als Informatiker. RalfLippold setzt seit gut einem Jahrzehnt moderne Techniken zur Vereinfachung von Prozessen und zur Projektsteuerung, zuletzt beim Werksaufbau BMW Leipzig, erfolgreich um.
+
+Der künftige LockSchuppen wird in seinem Endausbau (Investitionsvolumen für Ausbau und Technik ca. 3 Mio € betragen) gegen 2013 aus drei Säulen bestehen, die gleichzeitig Quellen der Zahlungsflüsse sein werden:
+
+* Interaktives ZukunftsMuseum, in dem Besucher sogenannte MindQuest's zu lösen haben, die sie in die Zeit um 2056 versetzen (VirtualReality, Futurismus, TechnologicalSingularity sind die hier relevanten Stichworte),
+* Trainingsakademie der zukünftigen Art, in der Wandel von der heutigen Realität in die Zukunft aktiv erfahrbar gemacht wird,
+* BigSchuppen, der „gute Ort“, an dem Menschen in angenehmer Atmosphäre, moderner Technik, die Zukunft aktiv und in Dresden umsetzen (angelehnt an die Funktion der dem geplanten Gebäude benachbarten ehemaligen Bahndrehscheibe; der Standort am BahnhofNeustadt, zentral und weltoffen und vernetzt mit dem Schienennetz der DeutscheBahn AG bündelt die kreativen Kräfte, die in Dresden und Umgebung vorhanden sind).
+
+Durch das ZukunftsMuseum werden Eintrittsgelder (entsprechend der heute bereits veröffentlichten Preistafel) eingenommen, und den Besuchern die „Augen geöffnet“, was sie in der Zukunft erwarten können und auch werden. Die Besucher werden die Möglichkeit haben, ihre persönlichen Visionen der Zukunft (so "abgefahren", abstrus und abgehoben sie auch sein mögen) in künftigen MindQuest's einbringen zu können und quasi als IdeenAktionäre am künftigen Erfolg der LockSchuppenAg beteiligt zu werden.
+
+Die Trainingsakademie ("SingularFernUni") wird Unternehmen, Existenzgründern der Region Dresden (und Sachsen) durch die Vermittlung wesentlicher Fähigkeiten und Kenntnisse (insbesondere durch die direkte Umsetzung in Form aktiver Beteiligung in sogenannten Unternehmens-Aufgaben) in die Lage versetzen nicht nur die Zeit unmittelbar nach der aktuellen Krise sondern auch für die künftigen Dekaden zu ertüchtigen. Ergänzend wird es daneben noch eine PeerAcademy geben, in der Mitglieder der LockSchuppenAg ihr spezielles Wissen in individuellen Coachings für Einzelpersonen vermitteln.
+
+Die ehemalige Haupthalle des LokSchuppen's wird zu einer offenen Bürolandschaft umgebaut werden und als Hub (=Drehscheibe) der kreativen Menschen in Dresden fungieren, wie dies auch schon in London, SaoPaulo und anders auf der Welt funktioniert. Innovative und kreative Ideen werden in einen Prototyp des künftigen Arbeitens einfließen.
+
+!!Beschreibung der Dienstleistung
+
+Die Gründer beschäftigen sich seit Jahren mit dem Thema, wie Technik die Arbeit künftig derart vereinfachen kann (Ralf Lippold führte z.B. während des Hochwasser in Zusammenarbeit mit der StadtDresden sowie Palm Deutschland GmbH mehrere Palm PDAs für die Durchführung der Hilfsleistungen ein). Diesem Grundgedanken liegt das komplette LockSchuppen-Konzept sowie die Projektierung zugrunde, die stets zum Ziel hat mit geringstem Ressourcenaufwand das vom Kunden gewünschte Produkt bzw. Dienstleistung zu erstellen. So wurde bereits prototypmäßig der hier vorliegende Businessplan durch öffentliches Crowdsourcing und intelligente Nutzung vorhandener WebZwoNull-Technologie (http://etherpad.com/NooPolis) erstellt, mit einer Zeitreduzierung um mehrere Tage, wie sonst üblich. Darüber hinaus gab es RealTime-FeedBack von Unterstützern des Projekt von JyvasKyla in FinLand über BeiJing bis nach MelBourne und AuckLand.
+
+Unter dieser Vision LockSchuppen vereinen sich ein ZukunftsMuseum, eine ZukunftsUni und ein "ConsultingSchuppen". Dabei steht das Arbeiten, Lernen, Leben, Wohnen und Lieben der Zukunft im Blickpunkt. In den Räumen des LockSchuppens werden dafür zukunftsfähige Visionen entwickelt und zur Einsatzreife in bestehende Systemen unserer Wirtschaft gebracht. Dabei durchlaufen die Besucher und Lernenden ein Kennenlernen der virtuellen Möglichkeiten durch den Besuch im ZukunftsMuseum. Anschließend können sie in der SingularFernUni live vor Ort oder über moderne Medien wie SkyPe, TwittEr oder SecondLife mit ihrem Kenntnisstand in die virtuellen Arbeitstechniken einsteigen und werden auf zukunftsträchtige soziale wie auch mediale Kompetenzen vorbereitet. Anschließend ist das Ausprobieren dieser Fähigkeiten im Consultingbereich vorgesehen. Dabei handelt es sich dann um reale "harte Nüsse" im Wirtschaftsleben, die es durch die neuen Kompetenzen zu lösen gilt.
+
+Im ZukunftsMuseum werden die Besucher durch eine interaktive virtuelle Erlebniswelt gehen. Dabei werden sie durch die HeadCam Informationen wahrnehmen und so moderne Kommunikationsmedien erfahren. Besonderes Highlight wird ein BrainComputerInterface der Firma EmotivEpoc sein, welches alle Besucher am Eingang erhalten:
+
+[{Image src='http://upload.wikimedia.org/wikipedia/en/8/83/EPOC_IGN.jpg'}] [*|http://en.wikipedia.org/wiki/File:EPOC_IGN.jpg]
+
+ Für dieses Erlebnis wird Eintrittsgeld gemäß PreisTafel erhoben. Zusätzlich werden Führungen veranstaltet.
+ 
+In der SingularFernUni werden Workshops zu Themen des WebZwoNull und zu modernen sozialen Führungskompetenzen stattfinden. Gleichzeitig wird es einen Online-Workshopbereich geben, sodass im Rahmen unseres Ziel eines der familienfreundlichsten Unternehmen im FreistaatSachsen zu werden, orts- und zeitunabhängig gearbeitet werden kann. Diese Workshops können einerseits durch öffentliche Mittel bezuschusst werden und andererseits sich durch die Gebühr selber tragen.
+Außerdem wird es eine Weiterbildung für Dozenten, Trainer und Lehrer geben. Dabei steht die Frage im Mittelpunkt, wie sich eine heutige Lehrkraft für die Anforderungen einer multimedial aufwachsenden Jugend fit machen kann. Gleichzeitig werden die sich verändernden sozialen Strukturen in diesem Bereich für die erweiterte Befähigung des Lehrkörpers einfließen. Dabei wird sich der Frage gewidmet, wie die Lehrkräfte mit Widerständen, Blockaden und der durch die Informationsflut in ihrer Dauer der Aufmerksamkeit reduzierten Jugend künftig umgehen können.
+
+Der ConsultingSchuppen wird durch die Projektgebühren bzw. über die Gebühr von Coachingstunden finanziert. 
+
+!Das Leitkonzept 
+
+Das LockSchuppen-Leitkonzept wird gespeist aus den ReSearch-Ergebnissen eines wohl DeutschLand-weit einzigartigen ThinkAndDoTank's. 
+
+Bisher gibt es in Deutschland kein vergleichbares Vorhaben, das die vorhandenen Kompetenzen aus Universitäten unterschiedlicher Ausrichtung mit den Aufgaben der Wirtschaft verbindet. Das Besondere ist der interdisziplinäre und spartenübergreifende Ansatz, den es bisher nur in der SingularityUniversity bei SanFrancisco gibt, die 2008 gegründet wurde und an der GoogleInc mit 1.000.000 UsDollar beteiligt ist.
+
+!SingularFernUni
+
+Wir haben vor der Erstellung dieses BusinessPlanes gemeinsam geschätzt, dass für etwa 5% der FutureSax-JurorInnen das ConCept der TechnologicalSingularity geläufig sein könnte und erlauben uns deshalb, an dieser Stelle eine kurze ExecutiveSummary speziell zur TechnologicalSingularity einzufügen:
+
+!TheSingularity
+
+Die Idee einer TechnologicalSingularity ([DeWikiPedia:Technologische_Singularität]) hat in den vergangenen Monaten eine rasante Popularisierung erfahren: Über die Möglichkeit der Verschmelzung menschlicher und maschineller Intelligenz in einem Zeithorizont von 2030 bis 2050 wurde bis vor Kurzem nur unter Zukunftsforschern wie RayKurzweil oder VernorVinge ernsthaft debattiert.
+Seit spätestens Anfang 2009 hat diese Möglichkeit einer TechnologicalSingularity trotz schwerer allgemeiner wirtschaftlicher Turbulenzen auch Einzug in Massenmedien und den Elitendiskurs in den UnitedStates gefunden: Im Februar 2009 kündete RayKurzweil ein InVest der GoogleInc von 1.000.000 UsDollar in die neu gegründete SingularityUniversity an. Auf dem MoffettFederalAirfield der NaSa südlich von SanFrancisco entsteht damit in direkter Nähe zu den HeadQuarters der GoogleInc ein neuer ThinkTank, der im Sommer 2009 seine ersten Kurse anbietet. Die 9-wöchigen Kurse kosten 25.000 UsDollar pro PerSon und waren binnen kurzer Zeit ausgebucht. 
+
+Gespeist wird die SiliconValley-Szene und die führenden UnterNehmer und VentureCapital'ists in den UnitedStates. Sie alle debattieren vermehrt über TheSingularity:
+* GoogleInc-Gründer LarryPage (ForbesList 2009: Platz 26, 12.000.000.000 UsDollar VerMoegen) war persönlich beim Gründungstreffen der SingularityUniversity anwesend.
+Regelmässige Speaker beim seit 2006 jährlich stattfindenden SingularitySummit sind unter anderem:
+* PeterThiel (ForbesList 2008: Platz 962, 1.200.000.000 UsDollar, Gründer von PayPal und BusinessAngel von FaceBook, President des Clarium Capital HedgeFonds mit rund 6.000.000.000 US-Dollar, Stand 2008) 
+* SteveJurvetson (CoFounder von DraperFisherJurvetson mit 4.500.000.000 UsDollar VentureCapital. Im PortFolio waren bzw sind unter anderem: SkyPe, HoTMaiL (acquired by MicroSoft), Overture (acquired by YaHoo), TeslaMotors, DWaveSystems, SugarCrm, TechnoRati, InterWoven).
+* JustinRattner (CTO von Intel): Eröffnete beim IntelDeveloperForum 2008 seine KeyNote zum Thema "Intel in 40 years" mit RayKurzweil und Zitaten aus dessen Buch SingularityIsNear.
+
+Auch bei UnterNehmen wie IBM, MicroSoft oder SAP-Ag konnten wir in den letzten Monaten allein anhand öffentlich zugänglicher Quellen ein immer stärkeres Umsichgreifen des SingularVirus feststellen.
+
+Wir haben dies seit etwa 2003 genauestens protokolliert, analysiert und prognostizieren, dass in spätestens 2-3 Jahren ein breites Medieninteresse über TheSingularity in Europa und DeutschLand zu erwarten ist.
+
+!Analyse des Marktes und des Wettbwerbs
+
+Der in Dresden relevante Markt umfasst:
+
+* StartUps
+* Existenzgründer
+* Bildungseinrichtungen
+* Einwohner der StadtDresden
+* Touristen und Geschäftsreisende in der StadtDresden
+
+Nicht festgelegt wird auf bestimmte Branchen, denn das Ziel von LockSchuppenAg ist es, dem StartUp-Unternehmertum insbesondere in Dresden bzw. Sachsen den Rahmen zu bieten, so dass diese erfolgreich in den Markt gebracht werden und sich mit anderen Startups vernetzen (auch über den Raum Dresden hinaus in andere Teile der Welt, über weitere Netzwerke wie das TheHub-Network, LeanThinking, PresencingInstitute Community, u.a.)
+
+Weitere exemplarische Bereiche künftiger LockSchuppen-Nutzer sind nachfolgend (ohne Anspruch auf Vollständigkeit) aufgeführt:
+
+* BarCampDresden
+* ChipZuliefererIndustrie
+* DeSigner (Industrie-, Web- und sonstige)
+* DresdenExists (GruenderInitiative TuDresden)
+* DresdenForscht
+* DresdenOpenSpace
+* Elternvertreter der Kindergärten und Schulen
+* FutureSax
+* GeniusHellerau
+* GruenderSchmiede (GruenderInitiative HtwDresden)
+* GwT (Gesellschaft für Wissenstransfer)
+* HandwerksKammer
+* HochSchulAngehörige
+* IndustrieUndHandelskammer
+* KinderUndJugendStiftung
+* LeanThinkersTreffen
+* Reklam
+* Schüler aller Schulformen
+* SingularityUniversity
+* SteSad (Stadtentwicklungs- und Sanierungsgesellschaft)
+* StadtDresden
+* StudentenStiftung
+* TeamEntrepreneurs
+* TheoryUPractioners
+* Touristen in der StadtDresden
+* UnternehmensGruender
+* UweTellkamp
+
+Gegenwärtig wird die StartUp-Gründerszene stark durch den von der Sächsischen Aufbau Bank und dem FreistaatSachsen ins Leben gerufenen Businessplan-Wettbewerb FutureSax gefördert. Im Rahmen dieses Konzepts erhalten angehende Gründer und bereits bestehende Startups die Gelegenheit im Rahmen professioneller Workshops und Netzwerktreffen mit potentiellen BusinessAngels, Coaches, Unterstützern und weiteren Startups ins Gespräch zu kommen.
+
+Desweiteren gibt es im gesamten Bundesgebiet zahlreiche Existenzgründer-BusinessPlan-Wettbewerbe, die auch reichlich genutzt werden und einen guten Einstieg ermöglichen.
+
+Der LockSchuppen wird ein ergänzendes Angebot ermöglichen für diejenigen Startups, die das Potential kollektiver Intelligenz und vernetzter Gruppen noch umfangreicher nutzen möchten (insbesondere durch die WebZwoNull-Technologien, die sich immer mehr durchsetzen). Insbesondere in den Phasen 1 und 2 des FutureSax ausgestiegene Teilnehmer werden durch das LockSchuppen-Angebot, die Möglichkeit erhalten, ihre persönlichen Existenzgründer-Visionen in einem Umfeld des kreativen Schaffens auch eventuell neben ihrem aktuellen Angestelltenverhältnis weiter auszubauen.
+
+Künftig wird es mehr Formen der Arbeit geben, als wir uns heute vorstellen können und die Technologien von WebZwoNull zeigen den Anfang, denn inzwischen sind Zusammenarbeit in Echtzeit mit Finnland, China und DeutschLand möglich, ohne hierzu notwendigerweise zu reisen oder Telefonate zu führen bzw. ElectronicMail hin- und herzuschicken.
+
+Die ZuKunft hat bereits heute begonnen - beginnen wir gemeinsam den MoeglichkeitsRaum der ZuKunft aktiv zu gestalten und auszubauen.
+
+Das LockSchuppen-Konzept sieht vor mit dem innovativen Co-Working Ansatz auch Sachsen in der "Fremde" mittelfristig das Netzwerk aufbauen zu können, um Arbeit im FreistaatSachsen aufnehmen zu können und als Teilhaber von Startups oder selbständig tätig zu werden.
+
+Hierdurch wird der gegenwärtig zu beobachtende BrainDrain aus Sachsen weiterhin reduziert werden können und die 
+
+!Marketing und Vertrieb
+
+Marketing und Vertrieb der drei Bereiche haben unterschiedliche Schwerpunkte und beschränken sich nicht nur auf DeutschLand.
+
+Das ZukunftsMuseum kann wie ein klassisches Museum beworben werden. Hierzu planen wir die Zusammenarbeit mit der Dresden Tourismus GmbH. Neben Reiseveranstaltern und Hotels werden so auch die Touristinformationen zu Multiplikatoren. Außer klassischen Werbemitteln werden auch für unser Projekt typische bereits bestehende Medien benutzt. Dazu zählen TwittEr, Wikis oder SecondLife.
+Außerdem bieten sich die verschiedensten Möglichkeiten, mit Jugendprojekten zu kooperieren.
+
+Für die Zukunftsuniversität (SingularFernUni) wird über EmagisterDe im InterNet geworben. Zusätzlich wird das Angebot innerhalb des Hauses promotet und an den Universitäten vorgestellt. Eine enge Zusammenarbeit mit den Dresdner Hochschulen TuDresden, HTW Dresden und weiteren Institutionen ist angestrebt, um Synergien und Zusatzangebote für die Lehre zu bieten. Es bestehen bereits Kontakte zur SingularityUniversity, die weiter ausgebaut werden. Zurzeit verhandeln wir über eine Kooperation mit der OpenUniversity von OttoScharmer's PresencingInstitute in CambridgeMa.
+
+Eine weitere Vernetzung wird mit den Geistes- und Sozialwissenschaften der TuDresden und Chemnitz, der EhsDresden und der Berufsakademie Breitenbrunn angestrebt. Eine Zusammenarbeit mit dem RKW Projekt PERFEKT zum Thema Familienfreundlichkeit in Unternehmen ist ebenfalls angedacht. Die Durchführung von Projekten, die durch Fördermittel unterstützt werden ist ebenfalls vorgesehen (insbesondere eine Zusammenarbeit mit den GründerInitiativen DresdenExists (TuDresden) und GründerSchmiede (HTW Dresden)).
+Hierzu laufen momentan EU-Projekte, die von der EU-Kommission im April 2009 ausgeschrieben wurden. Damals konnte die LockSchuppenAg noch nicht am Projekt teilnehmen, jedoch ist mit einer baldigen Integration zu rechnen. Damit widmen wir uns auch der Frage, wie Lernkulturen in ZuKunft aussehen werden. Eine bestehende Institution, GeniusHellerau, hat bereits in den vergangenen Jahren mit diversen WorldCafe-Veranstaltungen sowie dem 1. European WorldCafe Meeting in der StadtDresden in 2007 den Wandel maßgeblich unterstützt.
+
+Neben klassischen Vertriebs- und Marketingaktivitäten, wie die Erstellung von HomePage und Printwerbung wird vorallem Wert auf PR, Pressearbeit und Sozialnetworking gelegt. In Anlehnung an das Ziel des ZukunftsMuseums wird natürlich die Nutzung neuer Vertriebswege favorisiert. Daher wird der Schwerpunkt der Marketingaktivitäten im WorldWideWeb liegen.
+
+
+!Geschäftsmodel, Geschäftssystem und Organisation
+
+Neben den Säulen ZukunftsMuseum und SingularFernUni generiert der LockSchuppen Einnahmen durch die Vermietung von mobilen Team-Arbeitsplätzen mit entsprechend hochwertiger Technik an seine Mitglieder, die eine umfassende Nutzung sämlicher zur Zeit nutzbaren WebZwoNull-Technologien durch die Nutzer erlaubt. Die Nutzungsentgelte orientieren sich nach der im Finanzplan dargetellten beabsichtigten Nutzungsdauer pro Monat (stunden-, tageweise sowie Monatsflatrate). Daneben stehen den Mitgliedern von LockSchuppen eine umfassende Bibliothek in der LockBib zur Verfügung, die ein das Buchangebot ergänzendes und komplementäres Angebot bereithält. Eine Kooperation mit der SlUb (Sächsische Universitäts- und Staatsbibliothek) sowie weiteren Hochschulbibliotheken in Dresden sowie dem FreistaatSachsen sind in Ausarbeitung. Somit wird Studenten, die sich im Bereich Entrepreneurship, TheSingularity, LeanThinking, OrganizationalLearning, SystemDynamics, ArtificialIntelligence, etc. weiterbilden möchten die Möglichkeit der Literaturzurverfügungstellung, des Wissenstauschs, Teilnahme an Veranstaltungen im LockSchuppen ermöglicht. Den Bibliotheken werden neue Wege des Wissenstransfers ermöglicht und LockSchuppen wird die Möglichkeit bieten auch als Ort des Prototyping für neue Technologien in der Bibliotheksverwaltung zu fungieren. Aufgrund der Größe und Nähe zu Innovationsnetzwerken bieten sich ganz neue Chancen Dresden als Bibliotheks- und Wissensstandort auszubauen.
+
+Neben den bereits beschriebenen Geschäftsfeldern wird das maßgebliche und den nächsten Jahren entscheidende das unter dem Namen LockConsult firmiernende Dreigespann der zukünftigen Consulting-Leistungen sein.
+
+Das Consultingprogramm gliedert sich in drei separate und doch zugleich zusammen interagierende Bereiche auf:
+
+* LockConsultClassic: Dies umfasst die bekannte Consultingpraxis auf stundenbasierter Abrechnung. Die Angebote im Einzelnen sind: 
+** Unterstützung bei der Einführung von WebZwoNull-Technologien in die bestehenden Arbeitsabläufe von Unternehmen. Wichtigster Kundenvorteil: Es entsteht entsprechend dem Lean-Thinking-Ansatz kein Mehraufwand für die betroffenen Mitarbeiter und Unternehmen.
+** Durchführung von Case Clinics nach dem U Process von OttoScharmer analog dem Supervision-Ansatz, jedoch zeitlich und ablauftechnisch festgeschrieben (Quelle: Theorie U, OttoScharmer).
+* LockConsultSuccess
+** Führen vor der "leeren Leinwand", d. h. es wird die kreative Unterstützung geboten, um bisher nicht machbar scheinende komplexe Problemstellungen sowie nachhaltige Veränderungen (zum Besseren) von Gesamtprozessen von Organisationen und Organisationsstrukturen zu neuen Lösungen zu verhelfen. OttoScharmer's Theorie U wird als Grundlage genutzt.
+** Umsetzung von Projekten, die in der momentanen Situation für die Klienten nicht umsetzbar erscheinen, Nutzbarmachung des kollektiven Wissens (und momentan ungenutzten) Fähigkeiten der beteiligten Mitarbeiter und StakeHolder.
+
+* LockConsultIndividual
+** Dieser Consultingbereich um fasst die Fortbildung von heterogen Gruppen (untererschiedlicheer Organisationen, auch räumlich getrennt bei Nutzung von WebZwoNull-Technologie) in Fähigkeiten, die für das künftige vernetzte Arbeiten im TwentyFirstCentury benötigt werden. Hierzu werden Trainer aus allen Bereichen der Wirtschaft tätig werden und in Dresden Kurse anbieten, die sich mit dem Phänomen der TechnologicalSingularity aktiv auseinander setzen. 
+
+!Geschäftsmodell, Geschäftssystem und Organisation
+
+Die LockSchuppenAg wird als AG öffentlich WikiBasiert im InterNet und vollständig OpenBook geführt, wobei alle ShareHolder entsprechend ihrer Anteile Anspruch am künftigen ErFolg der LockSchuppenAg besitzen.
+
+!Vorstellung des Unternehmerteams, Managements und Personals
+
+Die Initiatoren des Projekts haben sehr unterschiedliche berufliche Hintergründe und ergänzen sich in ihren Stärken. Seit vielen Jahren konnten sie bereits aktiv Erfahrungen in zahlreichen Projekten machen. Nun setzen sie ihre Visionen in ein gemeinsames Projekt um:
+
+* Ralf Lippold – NetzwerkExperte für OrganizationalSingularity, LeanThink'er, Produktionsoptimierer, IT-Koordinator und Projektleiter diverser Großprojekte, Querdenker, Visionsumsetzer, Maven, Boundary-Spanner
+* Rainer Wasserfuhr – WikiAngel, Netzwerker, Informatiker, Futurist, Entwickler der MicroNation NooPolis, Forscher für KuenstlicheIntelligenz am DfKi und für BauInformatik an der TuDresden
+* Cornelia Heinz – Coach, Trainerin der Sächsischen Wirtschaft in den Bereichen Kommunikation, Motivations und Persönlichkeitsentwicklung, Unternehmensberatung, Verknüpfer in die Bildungslandschaft im FreistaatSachsen
+* Peter Herbst - Dipl. Wirt-Ing. (FH) - Produktionscontroller mit langjähriger Bankerfahrung.
+* Christine Schlinck - Bauingenieur, seit 2003 in der Projektkoordination.
+* Simon Koeppl - Freiberuflicher Mitarbeiter bei SaechsischeZeitung
+* Christian Heller - ModeratorenKind (ORB), Speaker, Blogger und Experte rund um ZukunftsForschung, HardScienceFiction, PostPrivacy und TechnologicalSingularity
+
+!!Aufstellung eines Realisierungsfahrplans
+
+Umgesetzt sind bisher folgende Punkte auf dem Weg zur Projektrealisierung:
+
+* machten ErstBesichtigung des Aussengeländes
+* machten 2 Innenbesichtigung-Termine (insgesamt 5h) mit DbServicesImmo
+* machten die ersten 6 öffentlichen LockSchuppenTalk's (mit je 3-7 Teilnehmern)
+* gründeten die LockSchuppenAg (im Rahmen von NooPolis, der virtuellen MicroNation)
+* führten ersten LockFlashMob mit fünf Teilnehmer am 05.04.2009 durch ([DeWikiPedia:Flashmob])
+* unterzeichneten den VerTrag der LockSchuppenAg
+* machten MarketCap-Wertbestimmung der LockSchuppenAg mittels InitialPublicOffering an der NooPolis-StockExchange
+* machten Aufmessung der zu mietend beabsichtigen Räumlichkeiten für Phase 1
+* KonTakt'ierten KreativnetzwerkMitteldeutschland (XING)
+* KonTakt'ierten GehAcht (Galerie- und Architekten'Buero im ehemaligen ReichsBahnWagenAusbesserungsWerk Dresden-Ubf.), NewsLetter, Terminanfrage
+
+!Phase 1:
+
+Ziel: Ein ca 20qm grosses LockContactOffice im Erdgeschoss.
+Umsetzungszeitraum: 05/2009
+
+NextAction's:
+
+* unterzeichnen den CLeanTheLockSchuppen-VerTrag mit DbServicesImmo
+* integrieren DenkmalschutzAmt, LandesamtFuerDenkmalPflegeSachsen, Anforderungen und innovative Lösungsansätze
+* in Erfahrung bringen von Plänen und AufrissZeichnungen im HauptStaatsArchivDresden
+* informieren IndustrieKultur (SvenBardua) über das ProJekt und schreiben einen Artikel über das Projekt LockSchuppen (Umnutzung als BahnIndustrieBau)
+* gewinnen die erfahrene Projektentwicklungsgesellschaft UrbanSplash aus Manchester als Kooperationspartner
+* organisieren Strom von der DreWag
+* organisieren Wasser von der DreWag
+* organisieren nen KuehlSchrank
+* organisieren (Leane) Büroausstattung (Tisch, 2 Stühle)
+* organisieren Sponsor für WLAN-Ausleuchtung
+* machen erste Aufräumarbeiten der Aussenanlagen
+* Einweihung des SingularLeuchtTurm's (LandMark SchornStein des LockSchuppen's)
+* Einweihung des TurnTableOne-SpielPlatz'es durch JfSchlinck (JahrGang 2008, jüngster TwittEr'er in DeutschLand)
+* machen FlickEr-FlashMob
+* machen PhotoSynth-Demo
+* anpflanzen der LockRebe (Weinstock)
+* machen SuperGeil'e MindParty
+
+!Phase 2:
+Ziel: ca. 100 qm im Erdgeschoss in exemplarischer Demo des geplanten Vollausbau's mit chicer Innenarchitektur.
+Umsetzungszeitraum: 01/2010
+
+* VorTrag, wie RealEstate der DbImmo in NullKommaNix in MindPlace's gewandelt werden können durch MindBroker und ChancenWandler bei Tagung IndustrialHeritage - Ecology & Economy
+* Einweihung eines des Nachts rot leuchtenden SingularityIsNear-MindBanner's auf dem SingularLeuchtTurm (Landmark für DresdenInnovative)
+
+!Phase 3:
+Ziel: ca. 2500 qm im Vollausbau
+Umsetzungszeitraum: 12/2011
+
+* Platz für ca 300 Leute
+* ein MindHotel mit ObDach für 20 MitWirkende
+* eine edle MachBar (SlowFood) und ein Kantinenrestaurant mit PieschenJamie als Starkoch
+
+!!Wie Du mitmachen kannst:
+* folge uns auf [TwittEr:LockSchuppen]!
+* tritt der LockSchuppen-[FaceBookGroup:73285988115] bei
+* tritt dem öffentlichen SkyPe-LockChat bei
+* komme zum nächsten LockSchuppenTalk in die StadtDresden
+* mache einen BeSuch mit LockSchuppenFuehrer ''am'' LockSchuppen (bald auch ''im'' BigSchuppen?)
+* JoinNow zu den BuergerInnen von NooPolis und dann
+* kaufe und handle LockSchuppenAg-Aktien auf dem MindFloor
+* WorkForShares
+* editiere, verbessere und TransLate die LockSchuppen-WikiPage's im MindWiki
+
+
+!!Chancen und Risiken
+
+Die großen Chancen dieses Modells sind die Revolutionierung der WahrNehmung und die Öffnung für zukünftige Arbeitsweisen. 
+
+Zurzeit besteht das Risiko, dass dieses Modell nicht in seiner zukunktsorientierten Größe angenommen wird, da es den aktuellen Wahrnehmungshorizont der Interessenten sprengt.
+
+!!Finanzplan und zur Finanzierung
+
+
+!Unternehmen und Produkte
+
+LockSchuppen wird als "GlaesernesUnternehmen" in Sachsen geführt werden, das die Zukunftsvisionen aus dem ZukunftsMuseum dazu nutzt, Startups aus Dresden und Umgebung neben dem etablierten FutureSax aktiv unter die Arme zu greifen. Es wird der unterstützende Business-StartUp-Inkubator werden, um lokalen Entrepreneurs die einmalige Chance zu bieten, untereinander zu agieren und zugleich in ein weltweites Netzwerk von ähnlichen Initiativen zu gelangen.
+
+Die LockSchuppenAg wird in Dresden ihren Sitz haben und ist am Standort des BahnhofNeustadt in den Räumlichkeiten des ehemaligen Ringlokschuppens vorgesehen. Die Verhandlungen mit DeutscheBahn AG sind bereits aktiv in Umsetzung befindlich und es wird an einer innovativen Lösung gearbeitet, da ein solches Vorhaben bisher nicht mit einem derartigen Gebäude umgesetzt worden ist.
+
+Die LockSchuppenAg wird als AktienGesellschaft bzw. GenossenSchaft geführt (abschließend ist hierüber noch nicht entschieden worden). Bis dahin wird sie innerhalb der MicroNation NooPolis geführt. Das Unternehmen ist durch 1.000.000 Anteile repräsentiert, die zurzeit durch BuergerInnen von NooPolis durch die Bezahlung mit der virtuellen Währung KayGroschen an der StockExchange der PieschenBank erworben werden können. Momentan wird an einer Konvertierung in EuRo gearbeitet, insbesondere durch Andienung von Beratungs- und sonstiger –leistung wird der WechselKurs ermittelt.
+
+Aktuelle ShareHolder sind:
+||Shares||ShareHolder
+|762.000|Ralf Lippold
+|214.000|Rainer Wasserfuhr
+|  7.000|Christian Heller
+|  4.000|Christine Schlinck
+|  5.000|Peter Herbst
+|  3.000|Simon Koeppl
+|  2.000|Cornelia Heinz
+|  2.000|Rico Lieberwirth
+|  1.000|Norbert Rost
+
+Die Teilhaber der LockSchuppenAg werden aktiv am Erfolg des Unternehmens beteiligt. Darüber hinaus besteht für BusinessAngel's, Investoren und Ideengeber stets die Möglichkeit, Anteile auf dem freien Markt zu erwerben. Der Preis ergibt sich aus dem Gesetz des Marktes, ähnlich einer regulären StockExchange. Wie auch alle anderen Bereiche der LockSchuppenAg sind die Vorgänge auf dem MindFloor für alle Marktteilnehmer transparent.
+
+!Zielgruppe
+
+Die Zielgruppe sind Startups, Einzelunternehmer und Team-Unternehmen sowie kleine und mittelständische Unternehmen (KMU) mit Sitz und hauptsächlicher Geschäftstätigkeit in Sachsen, wobei ein Fokus auf Dresden und eine Zusammenarbeit mit den Gründerinitiativen an der TuDresden (dresden|exists) sowie der HTW Dresden (Gründerschmiede) liegt. Zu einem späteren Zeitpunkt wird das Konzept in weitere Regionen Sachsens ausgedehnt.
+
+Die regionale Verbundenheit vereint mit dem Anspruch, die angebotene Leistung ebenfalls ressourcenschonend und ausschließlich wertschöpfend gemeinsam mit den Kunden umzusetzen, begrenzt die physische Leistungserstellung auf den Freistaat Sachsen.
+
+Existenzgründern und KMUs - insbesondere in den neuen Bundesländern - ist gemein, dass die zunächst geringe Ausstattung mit Eigenmitteln es teilweise verhindert, Chancen am Markt aktiv zu ergreifen. Diesem Manko soll nachhaltig abgeholfen werden und Unternehmen aus ihrer eigenen Substanz heraus gestärkt werden.
+
+!Markt- und Wettbewerbssituation
+
+Der relevante Markt umfasst Existenzgründer und KMUs im FreistaatSachsen.
+
+Gegenwärtig gibt es ca. 140.000 KMUs, die in Sachsen tätig sind (Quelle: Mittelstandsbericht Sachsen 2005/2006). Davon werden bis 2020 bis zu 25.000 Unternehmen zusätzlich vom Problem der Unternehmensnachfolge betroffen sein (Quelle: Sächsische Aufbaubank SAB). Diesen Unternehmen eine dauerhafte Existenz am Markt zu ermöglichen und Arbeitsplätze in Sachsen zu erhalten und auszubauen ist das Ziel von LockSchuppenAg. Mit dem Wachsen des Projekts und einer Zunahme der Mitglieder wird es künftig zu Ausgründungen von LockSchuppen kommen, die das Netzwerk erweitern und immer wieder frischen Input in den LockSchuppen in Dresden bringen und das ZukunftsMuseum bereichern.
+
+Hiermit wird ein weiterer kleiner Schritt auf dem Weg zu einer nachhaltig wirtschaftlich erfolgreichen Region Sachsen gelegt.
+
+Bedingt durch die weiter zunehmende Globalisierung und Verlagerung von Produktionsstandorten besteht ein steigender Druck auf einheimische Unternehmen, ihre Prozesse hinsichtlich Effizienz und Effektivität zu optimieren. Toyota wird oft als Vorbild angesehen (auch zunehmend in kleineren Unternehmen) und seit ca. fünf Jahren ist das Thema "LeanThinking" verstärkt erneut in deutschen Unternehmen in den Fokus gelangt.
+
+Der steigende Kostendruck durch Logistik, Material, Löhne und Gehälter in einem stetig wachsenden globalen und sich vernetzenden Weltmarkt hat direkten Einfluss auch auf einheimische Unternehmen, insbesondere sofern diese bisher noch nicht außerhalb ihres Regionalmarktes tätig sind.
+
+Mit einer positiven Umsetzung des LockSchuppen-Projekts wird in den kommenden Jahren auch die Attraktivität des sächsischen Wirtschaftsraums gesteigert werden. Unternehmen werden sich für das innovative Beratungskonzept interessieren und dieses in Anspruch nehmen.
+
+Ähnliche Initiativen gibt es zur Zeit in Deutschland lediglich in der StadtBerlin (SelfHub e.G.) und integriert als Zusatzausbildung an der Uni Duisburg-Essen („Unternehmung Learning Journey – TeamAcademy SL“, Duisburg-Essen). Dresden würde in den neuen Bundesländern eine Vorreiterrolle spielen und wird durch die engen Verbindungen des Gründers RalfLippold zur TeamAcademy in Jyväskylä (Finnland) eine tragende Rolle in der „neuen Ausbildungslandschaft des TwentyFirstCentury“ spielen.

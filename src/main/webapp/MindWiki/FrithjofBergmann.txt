@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Frithjof_Bergmann]
+* BornIn: 1930
+* BirthDay: 12-24

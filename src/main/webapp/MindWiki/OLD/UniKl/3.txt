@@ -1,0 +1,3 @@
+* InterWiki: [DeWikiPedia:Technische_Universität_Kaiserslautern]
+
+Auch wenn es RainerWasserfuhr während seines Informatik-Studiums noch nicht ganz bewusst ist: Fortan steht sein Leben unter dem Vorzeichen von __MooresLaw__.

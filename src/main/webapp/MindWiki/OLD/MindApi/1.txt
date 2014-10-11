@@ -1,0 +1,4 @@
+Eine offene API zur Programmierung von WebApps für UnserGrid
+* Am einfachten per Java, siehe bei UnsereProjekte den SourceCode, zB bei InBox.
+* MindPhp: mittels Quercus.
+* MindRuby: mittels JRuby.

@@ -1,0 +1,10 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Semperoper] [DeWikiPedia:Semperoper]
+* BreitenGrad: 51.05456
+* LaengenGrad: 13.73514
+* BoundingBox: 40
+* HomePage: http://www.semperoper.de/
+* NamedAfter: GottfriedSemper
+* MindOne: UlrikeHessler
+* NearBy: TheaterPlatz DresdenZwinger
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/30122602

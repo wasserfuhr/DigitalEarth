@@ -1,0 +1,5 @@
+whenever you add "TrustedBy"-MindProps on a WikiPage, you ensure, that each of the facts on that WikiPage is correct, especially:
+* for MindPeople, the PerSon only exists once in the MindWiki
+* it is the RealName of that PerSon
+* each link to SocialNetwork ("AusLand") links to the correct PerSon
+* if the PerSon is a CitiZen of NooPolis, the PerSon will follow the rules of the ConStitution

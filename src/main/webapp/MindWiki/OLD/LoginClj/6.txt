@@ -1,0 +1,27 @@
+;LogIn
+;{{{
+
+((defn login []
+  (handle "login"
+   ""
+   (fn []
+    (let
+     [wikiName (.getParameter request "wikiName")
+      pw (.getParameter request "password")
+      idServer "http://id.mindbroker.de/"
+      idPage (fetch-url (str idServer "id?wikiName=" wikiName ))
+      publicKey (get (re-find #"<span id=\"publicKey\">([a-zA-Z0-9]+)</span>" idPage) 1)
+      pwDigest (de.mindbroker.tools.Hash/getHash (str publicKey "#" pw))
+      loginStatusUrl (str idServer "login?wikiName=" wikiName "&passwordDigest=" pwDigest)
+      loginStatusPage (fetch-url loginStatusUrl)
+     ]
+     (if
+       (.contains loginStatusPage "\"login\": true")
+       (do
+        (.setAttribute (.getSession request) "WikiName" wikiName)
+        (.sendRedirect response (.getParameter request "pathInfo"))
+       )
+       (.sendRedirect response (str (.getParameter request "pathInfo") "&message=wrongPassword"))
+     )))
+   )))
+;}}}

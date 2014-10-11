@@ -1,0 +1,3 @@
+* IsA: GottesHaus
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/24606979
+* PartOf: StadtLeipzig

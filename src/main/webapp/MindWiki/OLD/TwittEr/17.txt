@@ -1,0 +1,29 @@
+* InterWiki: WebSeitz:TwittEr
+* http://id.mindbroker.de/twit
+
+||TwitId||Nick  ||MindPeople
+|   13|biz      |BizStone
+|   20|ev       |EvanWilliams
+|  841|colinschlueter|ColinSchlueter
+|  885|Ross     |RossMayfield
+| 4602|planspark|TimBonnemann
+|11584|rainer   |RainerWasserfuhr
+|12220|cervus   |BastiHirsch
+|13348|Scoblizer|RobertScoble
+
+TwitteRip:
+* http://twitter.com/edelbild
+* http://twitter.com/fukami ?
+
+MindPeople mit CamelCase-TwittEr-Name:
+* JeffClavier
+* BillSeitz
+* LarsHinrichs
+* LionKimbro
+* MaryHodder
+* NotTechcrunch40
+* OrenMichels
+* PickiHH (fast, siehe [SourceCode|http://websvn.mindbroker.de/showfile.svn?path=%2fde.mindbroker.core%2ftrunk%2fsrc%2fmain%2fjava%2fde%2fmindbroker%2fcore%2fWikiNameParser.java&revision=HEAD&name=opensource] ;) )
+* RobHayes
+* StephAgresta
+* TechCrunch

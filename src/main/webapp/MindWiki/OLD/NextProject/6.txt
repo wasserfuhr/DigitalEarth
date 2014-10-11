@@ -1,0 +1,10 @@
+The next ProJect's of RainerWasserfuhr:
+
+Candidates:
+||StandOrt  ||Status||HomeOffice %||OpenBooks||Position
+|DarmStadt  |pending|0|?|SOA-Berater
+|HamBurg    |pending|0|65|Senior-Java
+|DuesselDorf|pending|0|65?|Integrations-Tester?
+|StadtBerlin|pending|0|?
+|StadtBerlin|pending|0|?
+|StadtBonn  |pending|0|?

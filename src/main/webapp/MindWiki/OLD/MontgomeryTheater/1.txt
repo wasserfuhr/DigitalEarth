@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: 37.33078
+* LaengenGrad: -121.88917
+* BoundingBox: 30
+* HomePage: http://sanjose.org/meetings/facilities/montgomery.php

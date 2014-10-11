@@ -1,0 +1,5 @@
+* HomePage: http://nomic.info/perlnomic/
+
+NoMic - almost a CodeWiki.
+
+to start, read http://nomic.info/perlnomic/human_readable_rules.txt

@@ -1,0 +1,20 @@
+* IsA: EnterPrise
+* InterWiki: [DeWikiPedia:Dresdner_Verkehrsbetriebe]
+* HomePage: http://www.dvb.de/
+* MindOne: HansJuergenCrede
+* MindOne: ReinerZieschank
+
+http://www.openstreetmap.org/browse/relation/399665
+
+* LinieDrei
+* LinieVier
+* LinieAcht
+* LinieNeun
+* LinieZehn
+* LinieElf
+* LinieZwoelf
+* LinieDreizehn
+
+* DvbLinie61
+
+CarGoTram

@@ -1,0 +1,15 @@
+* MindTags: FutureCard
+* CardOwner: MartinRoell
+* UnTil: 2030
+* DependsOn: ComputerGo
+* HomePage: http://www.longbets.org/1
+
+! “By 2029 no computer - or "machine intelligence" - will have passed the TuringTest.”
+
+No TuringTest 2029?
+* predictor: MitchKapor
+* challenger: KurzWeil
+
+What do CitiZens of NooPolis think?:
+||                 ||ExPect's
+|RainerWasserfuhr  |2028

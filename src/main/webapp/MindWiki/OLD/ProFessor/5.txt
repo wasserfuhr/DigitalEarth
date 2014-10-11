@@ -1,0 +1,6 @@
+* HerKunft: lat. profiteri, "sich öffentlich als Lehrer zu erkennen geben"
+* IstEin: MindPeople
+* InterWiki: [WikiPedia:Professor]
+* RdfClass: http://xmlns.com/foaf/0.1/#Person
+
+[{INSERT ReferringPagesPlugin}]

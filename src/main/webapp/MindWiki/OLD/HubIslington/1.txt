@@ -1,0 +1,3 @@
+* IsA: CoWorkingSpace
+* OpenStreetMap: http://www.openstreetmap.org/index.html?mlat=51.531944&mlon=-0.122778&zoom=15 ToDo
+* PartOf: TheHub

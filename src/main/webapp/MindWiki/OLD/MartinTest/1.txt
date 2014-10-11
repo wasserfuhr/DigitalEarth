@@ -1,0 +1,3 @@
+* InspiredBy: http://gutefragen.de/2008/11/06/online-coaching/
+
+like the TuringTest, but for a DigitalTwin of MartinRoell, for GettingRichQuick as an automated OpenConsult'ant.

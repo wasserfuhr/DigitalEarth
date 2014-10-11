@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: 38.70960
+* LaengenGrad: -9.14794
+* BoundingBox: 10
+* http://www.noobaicafe.com/

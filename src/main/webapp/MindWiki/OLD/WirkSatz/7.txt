@@ -1,0 +1,9 @@
+Wer ein StartUp in NooPolis gründen will, sollte für alle Mitwirkende'n festlegen, zu welchem "fiktiven" kalkulatorischen Honorar das Mitwirken am StartUp abgerechnet und auf dem LeistungsKonto erfasst wird.
+
+Um eine dauerhafte Bindung aller Mitwirkenden an das StartUp zu erreichen, sollte das Honorar so realistisch wie möglich bestimmt werden. Betriebwirtschaftler haben dafür den schönen Begriff __[DeWikiPedia:Opportunitätskosten]__ gefunden.
+Nur wenn der "WirkSatz" so gewählt ist, daß er dem "Marktwert" der Mitwirkenden auch wirklich entspricht, kann einigermaßen sichergestellt werden, daß Mitwirkende während der Gründung nicht die Lust verlieren und nach anderen Opportunitäten am Markt suchen.
+
+Exemplarische Wirksätze pro Stunde:
+||OrderedByShares||EuRo||KayGroschen
+|RainerWasserfuhr|  150|1000
+|DanielPoodratchi|   12| 200

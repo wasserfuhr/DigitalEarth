@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* ViAf: http://viaf.org/viaf/33135655
+* DbLp: http://dblp.uni-trier.de/rec/pid/07/6486
+* PageNumber: 5
+* PagePath: LarryPage TerryWinograd NorbertStreitz WendyHall JimHandler WolfgangWahlster WolfgangKoenig KarlheinzKautz SabineZumpe WernerEsswein

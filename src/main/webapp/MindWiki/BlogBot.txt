@@ -1,0 +1,11 @@
+like a ChatBot, but for commenting on WebLog's.
+
+Nice UseCase for ArTelligence:
+
+Crawl content from a list of WebLog's.
+
+Do the WebLog-authors have to OptIn before a crawler can be sent?
+
+How good does the BlogBot have to be?
+
+Can we define metrics (e.g. percentage of replied comments, % of deleted comments)?

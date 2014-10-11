@@ -1,0 +1,3 @@
+Ziel: Für UnserGrid bis spätestens zum 31.12.07 die Verfügbarkeit jeder WebApp und jedes weiteren Service exakt und automatisiert messen zu können. Angestrebter ServiceLevel: 99,9% oder so.
+
+Ziel ab 20070515: Jede WebApp ist zu 99% verfügbar. 

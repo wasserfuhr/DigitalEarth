@@ -1,0 +1,7 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/k/ManfredKerber
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann ManfredKerber
+* HasTalked: RainerWasserfuhr
+
+UniKl

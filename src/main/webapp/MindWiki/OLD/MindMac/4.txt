@@ -1,0 +1,32 @@
+* MacBook oder MacBookPro 
+* OS X 10.4
+
+Standard-Software:
+* FireFox
+* SunBird
+* ThunderBird
+* Skype
+* BitsOnWheels
+* NeoOffice
+* VLC
+* ChickenOfTheVnc
+* Adium
+* SecondSports
+* GoogleEarth
+* FreeMind
+
+Für Entwickler:
+* SQuirreLSQL
+* Eclipse 3.2
+* ITerm
+
+||Name  ||Geburt ||Modell   ||Status||HauptUser      ||HomeBase||
+|ares   |20070323|T830      |kaputt|RainerWasserfuhr |WirkZentrum
+|neptun |2007?   |MacBookPro|LIVE  |RainerWasserfuhr |WirkZentrum
+|othello|200701  |MacBook   |LIVE  |AndreasWeigel    |OberReut
+|ulysses|200x    |T21       |kaputt|RainerWasserfuhr |WirkZentrum
+|triton2|200203  |PowerBook |LIVE  |ChristineSchlinck|KaetheKollwitzUfer
+|triton |2003?   |PowerBook |LIVE  |YvonneSchubert   |WirkZentrum
+|nana   |199x    |          |LIVE  |YvonneSchubert   |daheim
+|tasso  |199x    |Compaq    |stolen|RainerWasserfuhr |??
+|atari  |198x    |AtariSt   |museal|RainerWasserfuhr |Tiefe Provinz

@@ -1,0 +1,9 @@
+* IsA: FutureCard
+* InspiredBy: the MindFilm [WikiPedia:Total_Recall]
+* PreDict: It will be possible to reconstruct a sufficiently ImMers'ive simulation of your entire EpisodicMemory
+
+Additionally, RainerWasserfuhr wants to MeMo'rize the ChaOs of the entire WikiWall UnTil2010:
+|a1:KaosPilot      |e1:PaulFLevy     |i1:WaveCash       |m1:PerKristiansen
+|a5:ChristianHeller|e5:DonGreer      |i5:MichaelBean    |m5:NiklasLuhmann
+|a9:YadegarAsisi   |e9:SteveJurvetson|i9:ZuKunft        |m9:HistVv
+|a13:OpenEducation |e13:SaftTante    |i13:PeterTeichmann|m13:AndrewParker

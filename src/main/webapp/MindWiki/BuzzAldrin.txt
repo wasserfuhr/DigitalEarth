@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Buzz_Aldrin]
+* BirthDay: 01-20
+|[TwittEr:TheRealBuzz]

@@ -1,0 +1,100 @@
+* MindTags: MindEvent
+* HashTag: sse09
+
+MegaloMania-GedankenSpiel of RainerWasserfuhr and RalfLippold:
+''GroessenWahn'sinniges GedankenSpiel von RainerWasserfuhr und RalfLippold:
+
+The
+
+__SingularSummitEurope__
+
+already 2009 in the LockSchuppen? With RayKurzweil, Simultan-TransLate'd für DeutschSprech'ende?
+
+* WikiLender: A day in September 2009?
+
+* MindPlace-Candidates: TuDresden or PanoMeter or CongressCenterDresden or LockSchuppen
+
+Event Format: a mixture of a classical conference with a few KeyNote's plus SingularCamp with OpenSpace elements.
+
+__InvitationOnly__!
+
+OrgaTeam: RainerWasserfuhr, RalfLippold, SiggiBecker, ChristineSchlinck, DavidOrban? BobRichards? ChristianHeller? 
+
+OpenBook: Each PayMent of sponsors and participants is TransParent'ly documented in the MindWiki. Earnings go to the LockSchuppenAg.
+
+OpenPricing: Participant can openly declare their __individual__ price tag for:
+* the money they want to pay to participate
+* price for a giving a talk
+
+The price has to be approved by at least one of the OrgaTeam members.
+
+!BrainStorm: Sponsors:
+* CyberPort
+* DeutscheBahn
+* DeutscheTelekom
+* FreistaatSachsen
+* HtwDresden
+* StadtDresden
+* TSystemsMms
+* TuDresden
+
+!BrainStorm: Guests, KeyNote-Speaker, ProFessor's, SingularityMind's, ZukunftsForscher, EntrePreneur's:
+
+||Participant         ||[1]||[2]||[3]||[4]||WantsToPay||HasPayed||ApprovedBy
+|AnSto                |
+|AubreyDeGrey         |K   |
+|AxelOckenfels        |    |    |P
+|BenGoertzel          |K   |S   |    |E
+|BillLiao             |    |    |    |E
+|BobRichards          |
+|ChSchu               |
+|DavidBrin            |K   |S
+|DavidOrban           |    
+|ChristineSchlinck    |    |    |    |    |100 EuRo   |         |RainerWasserfuhr
+|ChristianHeller      |    |S
+|DavidBrin            |K   |S
+|DirkHilbert          |
+|EdgarSchein          |
+|FrankSchoenefeld     |
+|HassoPlattner        |    |S   |P   |E
+|HelmaOrosz           |
+|HenryMarkram         |K   |S   |P   |
+|IanPearson           |    |S   |
+|IjGood               |    |S   |
+|JayForrester         |
+|JoachimNiemeier      |    |    |P
+|JoergKeller          |
+|JoergSiekmann        |    |S   |P
+|JohnNash             |K   |S   |P
+|JohnSterman 
+|JuSt 
+|KevinKelly           |K   |S       
+|KurtBiedenkopf       |    |    |P
+|LarsHinrichs         |    |    |    |E
+|MartinNowak 
+|MaSc 
+|MatthiasHorx         |    |S   
+|MichaelSchefczyk     |    |    |P
+|OttoScharmer         |
+|PeterClaussen        |
+|PeterHines           |
+|PeterNorvig          |    |S   |P   |
+|PeterSenge           |
+|RaimarScherer        |    |    |P   |
+|RayKurzweil          |K   |S   |    |E
+|SebastianMitter      |
+|SiggiBecker          |    |S
+|SoerenStamer         |    |S   |    |E
+|SteffenHoelldobler   |    |    |P
+|SteveJurvetson       |    |S   |    |E
+|TimBruysten          |
+|TimBl                |K   |S
+|WilliSchroll         |
+|WinfriedLachnit      |    |    |P
+|WolfgangBibel        |    |    |P
+|WolfgangDonsbach     |    |    |P
+|ZigaTurk             |    |S   |P
+[#1]Candidate as KeyNote-Speaker
+[#2]Speaker
+[#3]ProFessor
+[#4]EntrePreneur

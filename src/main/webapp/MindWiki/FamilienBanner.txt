@@ -1,0 +1,9 @@
+||FamilienfreundBanner    ||WerbeOrt        ||Homepage      ||Dauer     ||verfügbar ||kaufen
+|SkyScraper     |StartSeite       |www.familienFreund.de| 1 Monat   | 1         |MindShop
+|SkyScraper     |StartSeite       |www.familienFreundE.de| 1 Monat   | 1         |MindShop
+|SkyScraper     |StartSeite   |www.familienKatalog-SachSen.de| 1 Monat   | 1         |MindShop
+|SkyScraper     |StartSeite      |www.familienKatalog-DresDen.de| 1 Monat   | 1         |MindShop
+|SkyScraper     |StartSeite      |www.familienKatalog-LeipZig.de| 1 Monat   | 1         |MindShop
+|SkyScraper     |StartSeite      |www.familienKatalog-ChemNitz.de| 1 Monat   | 1         |MindShop
+
+

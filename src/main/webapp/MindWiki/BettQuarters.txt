@@ -1,0 +1,8 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0738
+* LaengenGrad: 13.7299
+* BoundingBox: 2
+* GraDient: 45
+* SlimNess: 0.8
+
+Die Schlafstätte im WirkZentrum.

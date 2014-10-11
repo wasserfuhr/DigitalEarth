@@ -1,0 +1,27 @@
+Anfangs waren alle Blanko-FutureCard's noch im WirkZentrum, so etwa 200 Stück:
+
+[{Image src='http://farm4.static.flickr.com/3214/2947191330_7e3411aeb0_m.jpg'}] [*|http://www.flickr.com/photos/rainerw/2947191330/]
+
+Dank MindPost werden sie verteilt auf viele BlankoBueschel-Depots auf ganz PlanetErde.
+
+||Am||in||von||an||Stück
+|20081022|StadtBerlin|RainerWasserfuhr|PierreKerchner |10
+|20081022|StadtBerlin|RainerWasserfuhr|ThomasZorbach  |15
+|20081012|StadtBerlin|RainerWasserfuhr|JfSchlinck     |1
+|20081006|StadtBerlin|RainerWasserfuhr|YvonneSchubert |1
+
+
+Für das globale RollOut der FutureCard's ist es wichtig zu schätzen, wie WahrSchein'lich
+wann wer wo FutureGame's spielen wird.
+
+RollOut-Stufe 1:
+||MindPlace   ||Holder           ||Ist||Soll
+|FrankFurt    |PierreKerchner    |10|10
+|StuttGart    |HeikeRibke        |0|20
+|HamBurg      |?                 |0|20
+|StadtBerlin  |ThomasZorbach     |15|15
+|StadtBerlin  |?                 |15|50
+|NewYork      |?                 |0|60
+|SanFrancisco |StephanHeller     |0|60
+|BergGarten   |JfSchlinck        |1|1
+|StadtDresden |RainerWasserfuhr  |Rest

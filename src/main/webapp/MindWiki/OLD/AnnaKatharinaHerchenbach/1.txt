@@ -1,0 +1,8 @@
+* MindTags: MindPeople
+* JahrGang: 1871
+* BirthDay: 01-28
+* BirthPlace: NeunKirchen
+* EheVertrag: RobertWasserfuhr2
+* PapaZwoNull: HeinrichHerchenbach
+* MamaZwoNull: AnnaHeleneWiersberg
+* LebensEnde: 1941

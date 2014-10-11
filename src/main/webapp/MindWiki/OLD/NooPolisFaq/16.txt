@@ -1,0 +1,43 @@
+About
+* Was ist der zentrale Kundennutzen von NooPolis? Warum soll ich mich anmelden?
+* Ich verstehe die meisten Wikieinträge nicht! Worum geht es eigentlich?
+* Wer hatte die Idee und wieviele Leute seid ihr?
+* Wie wollt ihr Geld verdienen?
+* Seid ihr nicht bloß ein StudiVZ-Klon?
+* Wann ist Start?
+* Gründet ihr eine Aktiengesellschaft? Und was ist ein Volkseigener Betrieb?
+* Betreibt ihr ein Glücksspiel?
+
+
+Politik
+* Ist NooPolis eine Demokratie?
+* Wenn immer der das größte Stimmrecht hat, der das größte Guthaben hat, gibt es doch gar keine echte Buergerbeteiligung?
+* Egal wie die Regeln gestrickt sind: Durch die Anteilsmehrheit von RainerWasserfuhr wäre er zur Zeit der alleinige Bestimmer. Warum sollten sich freie Menschen in ein solch unvorteilhaftes  Vertragsverhältnis begeben?
+* Haben die PrimusInterPares mehr Rechte als die anderen?
+
+
+Währung
+* Warum muss es in NooPolis überhaupt eine virtuelle Währung geben?
+* Was kann ich mit KayGroschen machen?
+* Muss ich mein Guthaben auf meinem BuergerKonto versteuern? Wie?
+* Wenn einer viel Geld einbringt und ein anderer keines, profitiert derjenige, der nichts tut, überproportional. Es müsste jedoch der am meisten profitieren, der am meisten tut?
+
+
+Wirtschaft
+* Wie ist die VirtuelleOekonomie an die reale Wirtschaft anschlussfähig? 
+* Wie kann in NooPolis ein Projekt mit Beteiligung von Siemens stattfinden?
+* Ist die Eintragung im NooPolis-HandelsRegister dieselbe wie im echten HR?
+* Muss eine IchAg auch ins HandelsRegister?
+* Brauche ich da eine Gewerbeanmeldung?
+
+
+
+Sonstiges
+* Warum kann ich in NooPolis meine bereits vorhandene OpenID nicht verwenden?
+* Kann ich mich mit der NooPolis-ID auf allen OpenID-fähigen Seiten einloggen?
+* Kann ich eine Benachrichtigung bekommen, wenn ich neue Mail in meiner InBox habe?
+* Wie sicher sind meine Daten bei euch?
+
+
+
+

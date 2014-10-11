@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Robert_Putnam]
+* JahrGang: 1941
+* BirthDay: 01-09
+* DbLp: http://dblp.uni-trier.de/rec/pid/99/4376
+* PageNumber: InFinite
+* HomePage: http://www.hks.harvard.edu/about/faculty-staff-directory/robert-putnam

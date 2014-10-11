@@ -1,0 +1,25 @@
+||Actor||Phase||Status||Actiondp||AlphaTest||done||code Google maprw||BetaTest||todo||code Google map
+|rainer|  |   |   |   |   |   |   |schreibe ProjektPlan|
+|rainer|  |  |  |  |  |  |  |schreibe AlphaTester|
+|rainer|  |  |  |  |  |  |  |schreibe BetaTester|
+|rainer|  |  |  |  |  |  |  |schreibe ContinuousIntegration|
+|rainer|  |  |  |  |  |  |  |code die Suchfunktion|
+|rainer|  |  |  |  |  |  |  |refactore Messages und Contacts in Mindbroker core|
+|rainer|  |  |  |  |  |  |  |erweitere DB für: Userguestbooks, Blogfunktion für Clubs/Teams|
+|rainer|  |  |  |  |  |  |  |implementiere Funktion für online/offline Status der user|
+|rainer|  |  |  |  |  |  |  |finde Grafiker für Logo|
+|daniel|  |  |  |  |  |  |  |implementiere Tag-Libraries|
+|daniel|  |  |  |  |  |  |  |code Löschoption für Termine, Nachrichten und Spoooortfreunde|
+|daniel|  |  |  |  |  |  |  |code picUpload für Team und Club|
+|daniel|  |  |  |  |  |  |  |code Passwort vergessen|
+|daniel|  |  |  |  |  |  |  |code Passwort ändern|
+|daniel|  |  |  |  |  |  |  |frage Rainer zu reply=true setzen|
+|daniel|  |  |  |  |  |  |  |frage Rainer zu generic Types|
+|daniel|  |  |  |  |  |  |  |code dynamische Zuordnung Teams->Clubs|
+|daniel|  |  |  |  |  |  |  |code Auswahlmöglichkeit der Sportarten|
+|daniel|  |  |  |  |  |  |  |code userGuestbook|
+|daniel|  |  |  |  |  |  |  |frage Rainer zu NullFeldern|
+|andreas|  |  |  |  |  |  |  |implementiere jsp "Sie sind nicht berechtigt..." inkl LoginForm und bigLink zu register.jsp|
+|andreas|  |  |  |  |  |  |  |implementiere Grunddesign-/layout|
+|andreas|  |  |  |  |  |  |  |optimiere Layout für alle Browser|
+|andreas|  |  |  |  |  |  |  |integriere Forms für Passwort ändern und Passwort vergessen|

@@ -1,0 +1,3 @@
+* MindLine: 2030
+
+Like GoogleEarth, but for zooming down into your own brain.

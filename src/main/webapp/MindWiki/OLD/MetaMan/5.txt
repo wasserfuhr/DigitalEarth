@@ -1,0 +1,35 @@
+siehe HerzDerMaterie. p?
+
+MetaMan wird nur eine kleine Nebenrolle im RealFilm spielen:
+
+Hier könnte man das HimmelUeberBerlin-Motiv eines rettenden und heilenden Engels einweben.
+
+MetaMan handelt aus Sicht der nicht TransHuman-en Figuren wie ein herkömmlicher Mensch.
+
+Er hat durchaus Anziehungskraft auf schöne Sündenmünder. Sein Geheimnis: PercaNagra.
+
+Er ist sich aber seiner Transienz völlig bewußt.
+
+Er denkt und handelt nach strengsten probabilistischen Methoden - mit dem Ziel der fortlaufenden Minimierung seines EigenRisk.
+
+Er hat jegliche Körper- und Ichbezogenheit aufgelöst. Er begreift sich als ein selbstmodifizierendes Programm, welches
+der Evolution ausgesetzt ist.
+
+Affekte und Emotionen sind experimentale Parameter seiner Ichstruktur, die er beliebig gestalten kann.
+
+Er befindet sich in seiner eigenen Simulation. Er kann den Informationszustand jedes Neurons seines Gehirns sehen.
+(Nanosensoren und -aktoren, die kleiner und effizienter sind als seine Neuronen, sind in seinem Gehirn
+und können eine digitale Simulation davon erzeugen)
+
+Er hat eine Denkmethodik entwickelt, die darauf basiert dass er sein Sehen sieht.
+Sein Denken ist um das Risiko der OsZillation herum konstruiert: Im Falle dass sein Beobachten diejenige Zone seines Gehirns lokalisieren würde, die sich selbst repräsentiert, wäre das System in instabilem Zustand.
+
+Vereinfacht: Das Gehirn von MetaMan hat ein dezidiertes SpiegelNeuron. Es operiert nach den Regeln eines Spiels.
+Es kann __alle__ Informationszustände seines Gehirns sehen, aber wenn es versucht, den Zustand seines Spiegelneurons zu sehen, hat es verloren.
+
+(Analogie: Diagonalisierung beim HalteProblem.)
+
+Verkomplizierend kommt hinzu, daß das Gehirn von MetaMan auch der Beobachtung anderer Gehirne zugänglich ist.
+Zur Vereinfachung nehmen wir an, dass es fünf Gehirne auf der Evolutionsstufe von MetaMan gibt.
+MetaMan ist sich der Existenz der anderen vier Gehirne bewusst. Er weiss dass er ihrer Macht unterworfen ist und
+abgeschaltet wird, sobald sie bei ihm OsZillation beobachten.

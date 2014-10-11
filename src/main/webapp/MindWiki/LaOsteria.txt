@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0486
+* LaengenGrad: 13.7413
+* BoundingBox: 20
+* http://laosteria.de/

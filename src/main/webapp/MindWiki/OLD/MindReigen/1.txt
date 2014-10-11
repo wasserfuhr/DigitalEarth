@@ -1,0 +1,8 @@
+Warum wird die MindId abwechselnd an Männlein (ungerade Id) und Weiblein (gerade Id) vergeben?
+Weil eine MindId nicht bloß eine Nummer oder ein PrimaryKey in einer ApacheDerby-Datenbank ist,
+sondern damit sich BeautifulMind's miteinander vernetzen können: ganz egal, ob verheirat, noch nicht volljährig,
+bi, hetero oder homo.
+
+Die BuergerInnen von NooPolis spielen einen MindReigen.
+
+http://sprechblase.wordpress.com/2007/12/04/achterbahn/

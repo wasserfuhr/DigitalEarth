@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/n/AndrewYNg
+* HomePage: http://www.cs.stanford.edu/people/ang/
+* PageNumber: 8
+* PagePath: LarryPage SergeyBrin MonikaHenzinger KurtMehlhorn FriedhelmMeyerAufDerHeide MichaelWand HansPeterSeidel SebastianThrun AndrewNg

@@ -1,0 +1,23 @@
+* MindTags: ReView
+
+Der LiebesMarkt von NooPolis.
+
+KandidatInnen können entweder mit ihrem RealName oder unter Zuhilfenahme eines Kupplers als JeMand aufgenommen werden.
+
+||Single          ||BeuteSchema                        ||Kuppler
+|RainerWasserfuhr |Alter: 25-35
+|                 |Bildung: HSA, Promo, ProFessor
+|                 |IQ: >140
+|                 |Rauchen: egal
+|                 |Grösse: 172-185
+|                 |Familie: bevorzugt kinderlos 
+|                 |KinderWunsch: auf Verhandlungsbasis
+|                 |WohnSitz: StadtDresden
+|JeMand ♂         |Alter: 28-35       |RainerWasserfuhr
+|                 |Bildung: gebildet
+|                 |Rauchen: nein
+|                 |Grösse: 172-185
+|                 |Familie: bevorzugt kinderlos 
+|                 |KinderWunsch: ok
+|                 |WohnSitz: RheinMain
+|ChristineSchlinck|

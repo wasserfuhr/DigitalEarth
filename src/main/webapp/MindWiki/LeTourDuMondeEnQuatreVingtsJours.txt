@@ -1,0 +1,5 @@
+* IsA: MindBook
+* InterWiki: [FrWikiPedia:Le_Tour_du_monde_en_quatre-vingts_jours]
+* DcAuthor: JulesVerne
+
+LeTemps

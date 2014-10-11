@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* HomePage: http://www3.dfki.uni-kl.de/agd/dengel/
+* DbLp: http://dblp.uni-trier.de/rec/pid/d/AndreasDengel
+* MindSkill: ArTelligence
+* PageNumber: 5
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker AndreasDengel

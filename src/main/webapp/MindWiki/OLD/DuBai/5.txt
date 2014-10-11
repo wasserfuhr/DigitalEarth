@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BreitenGrad: 25.11
+* LaengenGrad: 55.20
+* BoundingBox: 50000
+* GraDient: 45
+* SlimNess: 0.3

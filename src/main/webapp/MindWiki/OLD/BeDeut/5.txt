@@ -1,0 +1,12 @@
+* InterWiki: [DeWikiPedia:Bedeutung]
+
+SynTax ReFer'enziert auf keine, eine oder mehrere BeDeut'ungen.
+
+Also von »RegenSchirm« zu ☂.
+
+* TwoLetterAcronym
+* ThreeLetterAcronym
+* FourLetterAcronym
+* FiveLetterAcronym
+* SixLetterAcronym
+* ChatCode

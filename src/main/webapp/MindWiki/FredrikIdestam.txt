@@ -1,0 +1,5 @@
+* IsA: UnternehmensGruender
+* InterWiki: [WikiPedia:Fredrik_Idestam]
+* BornIn: 1838
+* BirthDay: 10-28
+* DiedIn: 1916

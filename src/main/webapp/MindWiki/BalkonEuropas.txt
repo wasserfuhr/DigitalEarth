@@ -1,0 +1,8 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Brühlsche_Terrasse]
+* BreitenGrad: 51.05345
+* LaengenGrad: 13.74134
+* BoundingBox: 100
+* GraDient: 95
+* SlimNess: 0.2
+* OpenStreetMap: [http://www.openstreetmap.org/?lat=51.053439&lon=13.741321&zoom=18]

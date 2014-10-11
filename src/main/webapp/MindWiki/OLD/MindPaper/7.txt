@@ -1,0 +1,16 @@
+ReCent'ly studied:
+
+ToDo: http://dblp.uni-trier.de/rec/bibtex/journals/ws/GuoPH05 YuanboGuo ZhengxiangPan JeffHeflin LuBm
+
+20100202:
+* https://wiki.imise.uni-leipzig.de/Gruppen/OBML/Workshops/2009/ Linked Data for the Life Sciences SoerenAuer
+
+20100121:
+* http://dblp.uni-trier.de/rec/bibtex/conf/semweb/GravesAH08 AlvaroGraves SibelAdali JimHendler MindPath RdF
+
+20100116:
+* http://dblp.uni-trier.de/rec/bibtex/conf/agi/GoertzelP08 BenGoertzel
+* http://dblp.uni-trier.de/rec/bibtex/conf/IEEEicci/Goertzel09a BenGoertzel OpenCog
+
+20100112
+* http://dblp.uni-trier.de/rec/bibtex/conf/semweb/AuerLH09 SoerenAuer LinkedGeoData

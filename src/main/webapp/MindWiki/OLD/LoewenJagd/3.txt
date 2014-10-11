@@ -1,0 +1,14 @@
+Falls eine ErWart'ung nicht ganz klar bzw BeWusst ist: 4-5 Schritte einer Intervallschachtelung nach Bolzano-Eiernass können abhelfen:
+
+Beispiel: 
+
+Wenn du die meisten menschen fragst: wieviel ist SecondLife wert? ist die antwort oft: öhm, weiss nicht ッ:
+
+# schritt 1: glaubst du mehr oder weniger als 100m$? -> mehr
+# schritt 2: glaubst du mehr oder weniger als 200m$? -> weniger
+# schritt 3: glaubst du mehr oder weniger als 150m$? -> mehr
+# schritt 4: glaubst du mehr oder weniger als 175m$? -> weniger
+# schritt 5: EierNass!: also so rund 170m? öhm ja.
+# schritt 6: darf ich das unter deinem RealName im MindWiki veröffentlichen? öhm, ok.
+# schritt 7: ok, danke: http://mindbroker.de/wiki/DealFutures
+# bzw: schritt 6a: haste dein MindWiki login noch? magste es auf http://mindbroker.de/wiki/DealFutures eintragen?

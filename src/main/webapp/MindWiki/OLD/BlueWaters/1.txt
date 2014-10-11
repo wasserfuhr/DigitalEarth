@@ -1,0 +1,5 @@
+* MindLine: 2011
+
+from EiBiEm:
+* Peak performance: 10^16 FLOPS
+* RAM: 620 TB

@@ -1,0 +1,4 @@
+eine FreiHeit.
+
+Mit Limit für Nicht-BuergerInnen?
+"Derby (still) does not support a LIMIT clause". Ab 10.4?

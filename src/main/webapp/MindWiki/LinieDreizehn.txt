@@ -1,0 +1,21 @@
+* MindTags: MindPlace
+* OpenStreetMap: http://www.openstreetmap.org/browse/relation/51824
+
+http://dvb.de/fahrplan/liniensearch.asp?liniennummer=liniennumeric&searchtxt=13&Anzeigen=senden&DatumFahrplan=22.12.2008
+
+* RiegelPlatz
+* ...
+* ElbePark
+* ...
+* BuergerStrasse
+* MoritzburgerPlatz
+* ListStrasse
+* ...
+* BischofsPlatz
+* BischofsWeg
+* AlaunPlatz
+* GoerlitzerStrasse
+* ...
+* DuererStrasse
+* ...
+* GeorgPalitzschStrasse

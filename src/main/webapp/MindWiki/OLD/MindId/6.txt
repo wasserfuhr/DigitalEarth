@@ -1,0 +1,15 @@
+A unique ID for each and every mind on planet earth!: http://id.mindbroker.de/
+
+Ist das zentrale Login für jede WebApp, die UnserGrid hostet.
+
+Jeder MindBroker kann mit einer einmaligen Registrierung und einem einmaligen Login eine Vielzahl verschiedener sogenannter "Zones" nutzen.
+
+Vanity-MindId: Runde Zahlen und Schnapszahlen werden nachher bei ebay versteigert.
+
+Erste WebApps mit MindId:
+* DoIt
+* MindFloor
+* MindMe
+* SportWiki
+
+Später: OpenId für jeden User einer MindBroker-WebApp.

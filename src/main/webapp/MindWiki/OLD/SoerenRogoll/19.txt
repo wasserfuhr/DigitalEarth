@@ -1,0 +1,18 @@
+* IsA: CitiZen EntrePreneur
+* HasSex: ♂
+* InvitedBy: RalfLippold
+* MindId: 137
+* HasTalked: RalfLippold RainerWasserfuhr MarcoDziallas AlexanderFriedland HolgerHelas ConstanceWolter MarcoWildner MichealDidszun CarstenRoth UweJakob
+* HomeStead: StadtDresden
+* MyWikiWall: SoerenRogollWikiWall
+* MindSkill: WissensManagement
+* EnterPrise: NettConsult
+* IchBiete: NettDenken NettReden NettVernetzen NettVerkaufen NettBeraten NettHandeln
+|[TwittEr:s8ren]
+|[XingLe:Soeren_Rogoll]
+|[FaceBook:754107137]
+|[SkyPe:soeren1907]
+|[DelIcioUs:s8ren]
+|[TungleMe:s8ren]
+
+DimDim: http://my.dimdim.com/s8ren/

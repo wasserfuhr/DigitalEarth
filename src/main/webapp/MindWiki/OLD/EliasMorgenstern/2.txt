@@ -1,0 +1,4 @@
+* IsA: PerSon
+* BornIn: 2001
+* InvitedBy: HeidiMorgenstern
+* ChildOf: HeidiMorgenstern

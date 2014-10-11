@@ -1,0 +1,12 @@
+The FaceBase is the set of all known faces of a MiNd,
+
+starting from MamaZwoNull, PapaZwoNull, and up to HalleBerry and KylieMinogue.
+
+What will be the average size of the FaceBase of MindPeople?
+
+Therefore, make the following guesses:
+* go to [WikiPedia:May_28], look at "Births" and count the number of people whose face you know, for example KylieMinogue.
+* multiply this value with 365
+* Go to your favourite SocialNetwork, search for people born on May 28, and count the faces you know
+* multiply this value with 365
+* estimate the number of people whose faces you know, but not their names.

@@ -1,0 +1,6 @@
+||ComPare  ||W3C     ||WwMc
+|MarkUp    |HtMl     |HyperMindMarkUpLanguage
+|ProtoCol  |HtTp     |MiTp
+|Link      |HyperLink|InterWiki
+|          |CGI      |EditSource
+|WebOfTrust|-        |MindId

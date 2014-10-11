@@ -1,0 +1,2 @@
+* MindTags: EventSeries
+* HomePage: http://www.datenspuren.de

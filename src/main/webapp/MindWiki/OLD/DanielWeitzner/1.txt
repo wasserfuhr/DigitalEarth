@@ -1,0 +1,2 @@
+* MindTags: MindPeople
+* FoAf: http://www.w3.org/People/djweitzner/public/foaf.rdf

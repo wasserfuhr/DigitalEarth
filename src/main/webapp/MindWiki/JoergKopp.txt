@@ -1,0 +1,4 @@
+* IsA: EntrePreneur
+* JahrGang: 1960
+* WohnSitz: StadtWiehl
+* HomePage: http://www.dr-kopp.com/

@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Klaus_Draeger]
+* BornIn: 1956
+* BirthDay: 09-03
+
+BmwAg

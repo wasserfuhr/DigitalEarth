@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:James_Hendler]
+* BirthDay: 04-02
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/JamesAHendler
+* HomePage: http://www.cs.rpi.edu/~hendler/
+* PageNumber: 6
+* PagePath: LarryPage SergeyBrin MonikaHenzinger DavidEppstein JoanFeigenbaum TimBl JimHendler
+|[TwittEr:jahendler]

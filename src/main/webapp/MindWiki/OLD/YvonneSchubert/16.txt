@@ -1,0 +1,13 @@
+* role: Founder, ChiefMarketingOfficer
+* svn-user: yvonne
+* JahrGang: 1974
+* LebensErwartung: 2065
+
+
+||AusLand
+|[BlogLines:yvonneschubert]
+|[DelIcioUs:Perl]
+|[Xing:Yvonne_Schubert]
+|FaceBook: http://www.facebook.com/profile.php?id=645804224
+|WorldWideWeb: http://yvonneschubert.com/
+|YouTube: http://www.youtube.com/user/yvonneschubert

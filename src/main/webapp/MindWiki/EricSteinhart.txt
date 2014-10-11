@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/78/4535
+* HomePage: http://www.ericsteinhart.com/
+* PageNumber: InFinite
+|[FaceBook:1204813050]
+|[FlickEr:esteinhart]

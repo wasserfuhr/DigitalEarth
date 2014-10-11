@@ -1,0 +1,4 @@
+* InterWiki: [WikiWikiWeb:DivideAndConquer]
+
+* Divide: BoundingBox'es
+* Conquer: PlanetEarth

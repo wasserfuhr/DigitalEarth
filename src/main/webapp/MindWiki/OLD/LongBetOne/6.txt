@@ -1,0 +1,17 @@
+* MindLine: 2029
+* MindTags: PredictionMarket
+
+See http://www.longbets.org/1
+
+No TuringTest 2029?
+
+* predictor: MitchKapor
+* challenger: KurzWeil
+
+The PieschenBank emits 2 stocks with 1.000 shares each:
+* TuringTest2029
+* NoTuringTest2029
+
+CitiZens can buy shares for 2500 KayGroschen each. If KurzWeil wins LongBetOne before End of 2029, TuringTest2029 shares will be bought back for 5000 KayGroschen each. If KurzWeil declares the Loss of LongBetOne, NoTuringTest2029 will be bought back for 5000 KayGroschen each. The PredictionMarket starts 20080426 (pending: approvement of GovernmentBudget).
+
+Owners of shares can trade them at any time before 2029 on the MindFloor.

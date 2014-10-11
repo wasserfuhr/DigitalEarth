@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/w/MichaelWooldridge
+* HomePage: http://www.csc.liv.ac.uk/~mjw/
+* MindSkill: ArTelligence
+* PageNumber: 5 
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge

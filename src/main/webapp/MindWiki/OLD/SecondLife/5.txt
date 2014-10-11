@@ -1,0 +1,18 @@
+* InterWiki: [DeWikiPedia:Second_Life], [WebSeitz:SecondLife], [WikiWikiWeb:SecondLife]
+
+||                  ||SecondLife        ||NooPolis
+|Währung            |LindenDollar       |KayGroschen
+|Geldmengenpolitik  |in-TransParent     |konstant
+|Bank               |in-TransParent     |TransParent
+|SocialObject       |3D-World           |WikiPage's, MindMap, SourceCode
+|WebOfTrust         |-                  |MindTrust
+|ConStitution       |-                  |yes, ConStitution
+|BuergerBeteiligung |-                  |UrWahl, MindVote
+
+Während SecondLife in einer komplett neuen Welt spielt, basiert NooPolis anfangs auf der realen Welt.
+NooPolis bildet anfangs das SocialNetwork realer Personen als WebOfTrust ab.
+BuergerInnen können fiktionale PerSona ins RealLife einführen und schreiben gemeinsam am RealRoman, dem DrehBuch für den RealFilm.
+Die Welt von NooPolis ist PostReal'er UtopischerKapitalismus. Dies sind Projekte wie der MindTower.
+
+Tools:
+* http://sourceforge.net/projects/primdotblender: Blender2SL

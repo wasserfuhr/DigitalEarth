@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Beyer-Bau]
+* NamedAfter: KurtBeyer
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/23324475

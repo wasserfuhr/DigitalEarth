@@ -1,0 +1,22 @@
+* HerKunft: from Latin proles 'offspring' + facere 'to make'
+
+Most ProliFic DbLp Authors: http://dblp.uni-trier.de/db/indices/a-tree/prolific/index.html :
+|562	|Philip S. Yu
+|527	|ChinChenChang
+|523	|Elisa Bertino
+|496	|Thomas S. Huang
+|464	|Edwin R. Hancock
+|459	|WenGao
+|452	|Sudhakar M. Reddy
+|440	|GrzegorzRozenberg
+|434	|Alberto L. Sangiovanni-Vincentelli
+|428	|Mahmut T. Kandemir
+|423	|WeiLi
+|420	|MingLi
+|410	|MichaSharir
+|410	|Kang G. Shin
+|407	|HansPeterSeidel
+|402	|MarioPiattini
+|392	|JiaweiHan
+|391	|NogaAlon
+|381	|JackDongarra

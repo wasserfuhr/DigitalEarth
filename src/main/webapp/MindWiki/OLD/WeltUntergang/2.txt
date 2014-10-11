@@ -1,0 +1,6 @@
+WasSchaetztDu: Wie hoch ist das Risiko, daß im Jahr X alles menschliche Leben auf PlanetErde ausgelöscht sein wird?
+
+||Jahr||%||MindBroker
+|2008|0,1|RainerWasserfuhr
+|2040|  5|RainerWasserfuhr
+|2040|  0|ChristineSchlinck

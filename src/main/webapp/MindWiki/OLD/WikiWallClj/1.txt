@@ -1,0 +1,18 @@
+{{{
+(str "<style type='text/css'>
+input {
+  margin: 0px;
+  width: 100px;
+}
+td {
+  vertical-align: bottom;
+}
+</style>
+<h1>Your WikiWall:</h1>
+<table>
+<tr><td><input/></td><td><input/></td><td><input/></td><td><input/></td></tr>
+<tr><td><input/></td><td>Your WikiName:<br/><input/></td><td><input/></td><td><input/></td></tr>
+<tr><td><input/></td><td><input/></td><td><input/></td><td><input/></td></tr>
+<tr><td><input/></td><td><input/></td><td><input/></td><td><input/></td></tr>
+</table>")
+}}}

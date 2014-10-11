@@ -1,0 +1,22 @@
+* MindTags: EventSeries
+* HomePage: http://www.cloudcamp.com/
+
+StadtBerlin:
+* DirkRoehrborn
+* EricWahlforss?
+* FabioBacigalupo
+* JoelKaczmarek
+* KonstantinBreu?
+* MehrdadPiroozram
+* NicoHagenburger
+* RainerWasserfuhr
+* SilvanTGolega
+* StefanHintz
+* StefanWolpers
+
+Leider verhindert
+* BjoernGuenzel
+* ColinSchlueter
+* MichaelPuetz
+* OliverBerger
+* ViktoriaTrosien

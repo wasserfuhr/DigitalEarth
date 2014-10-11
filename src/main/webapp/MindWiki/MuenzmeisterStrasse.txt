@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+
+ToDo: OpenStreetMap: http://www.openstreetmap.org/browse/way/104 http://www.openstreetmap.org/browse/way/28467071

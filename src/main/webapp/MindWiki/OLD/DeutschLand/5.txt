@@ -1,0 +1,9 @@
+Alle BuergerInnen aus DeutschLand, die ihre Bürger-ID __freiwillig__ veröffentlichen wollen, können dies hier tun:
+||MindBroker||DeutschLand-ID
+|RainerWasserfuhr|?
+
+(später als WebApp unter http://deutschland.mindbroker.de/)
+
+* BreitenGrad: 51.4
+* LaengenGrad: 10.5
+* BoundingBox: 500000

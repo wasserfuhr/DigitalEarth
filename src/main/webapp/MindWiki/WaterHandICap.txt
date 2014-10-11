@@ -1,0 +1,1 @@
+for a BoundingBox of a MindPlace: The percentage of MindWater surface inside the BoundingBox.

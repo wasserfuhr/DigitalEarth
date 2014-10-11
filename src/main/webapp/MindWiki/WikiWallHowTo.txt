@@ -1,0 +1,11 @@
+* IsA: HowTo
+* InterWiki: [DeWikiPedia:Howto] [WikiWikiWeb:HowTo]
+
+The WikiTable for the WikiWall is generated via a GoogleDoc.
+
+!Process for changing WikiWallCard's:
+* Go to http://spreadsheets.google.com/pub?key=tJsnUrFH9ZjsYZ9nhgzu96g
+* change WikiWallCard's in the matrix
+* copy first column
+* go back to WikiWall
+* paste the copied data over present data

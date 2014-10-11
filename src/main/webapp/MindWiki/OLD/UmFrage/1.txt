@@ -1,0 +1,1 @@
+Wenn ein MindBroker von anderen MindBroker'n wissen will was sie denken kann er hier eine Umfrage anlegen.

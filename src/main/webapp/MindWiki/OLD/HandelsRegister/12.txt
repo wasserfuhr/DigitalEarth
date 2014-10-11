@@ -1,0 +1,12 @@
+||UnterNehmen  ||RechtsForm         ||ProKura
+|PieschenBank  |StaatsBetrieb       |RainerWasserfuhr,YvonneSchubert,DanielPoodratchi
+|MindBroker    |VolksEigenerBetrieb |RainerWasserfuhr,YvonneSchubert,DanielPoodratchi
+
+Kandidaten:
+* EdelBild (ErWartung von RainerWasserfuhr: 2010 1m EUR)
+* DueckWiki (ErWartung von RainerWasserfuhr: 2010 1000 Leser/Tag)
+* OtherLand
+* SuSuh (ErWartung von RainerWasserfuhr: 2010 1m EUR)
+* CoreMedia (ErWartung von RainerWasserfuhr: 2010 100m EUR)
+* GimmahHot (ErWartung von RainerWasserfuhr: 2010 10m EUR)
+* MapChart

@@ -1,0 +1,23 @@
+OrderBuch:
+||BuergerInnen     ||Stück EuRo||für KayGroschen
+|RainerWasserfuhr  |    |  | |18.00|1000
+|RainerWasserfuhr  |    |  | |15.00|1000
+|RainerWasserfuhr  |    |  | |12.00|1000
+|RainerWasserfuhr  |    |  | |10.00|1000
+||Last WechselKurs|| || || ??
+|RainerWasserfuhr  |1000|5.00| | |
+|RainerWasserfuhr  |1000|4.00| | |
+
+!Andere WechselKurs'e:
+||on     ||EuRo||UsDollar||RMB||LindenDollar||
+|20090503|    1|     1.33|9.05|    344
+|20080307|    1|     1.53|10.9|    410
+
+Bald:
+* HerrDerSterne-Credits?
+* FriendsForSale-Dollar?
+* WarCraft gold?
+* FaceDollar?
+* XingTaler?
+
+Der Tausch könnte bald per Auktions-WebApp über http://bank.mindbroker.de/ erfolgen.

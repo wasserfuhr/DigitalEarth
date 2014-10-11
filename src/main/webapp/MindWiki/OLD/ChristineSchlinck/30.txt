@@ -1,0 +1,35 @@
+* MindTags: MinisTer
+* JahrGang: 1977
+* BirthDay: 07-01
+* WohnSitz: BergGarten 
+* SprachWelt: de, en-1
+* LebensErwartung: 2054
+* TraumZeitAlter: 2010
+* MindSkill: FlohWalzer, MindBau, FengShui
+* XingId: 3249104
+* MindFaves: ReneEgli, DanielCraig, FlickEr, PayBack
+* LiebesRinge: RwCs,CsRb
+* FoAf: http://tine.intellihaus.de/foaf.rdf
+* MindTrust: RainerWasserfuhr, YvonneSchubert, DanielPoodratchi, AndreasWeigel, UteMoritz, HeikeRibke, IrisSchilke, SebastianMitter, StefanNitzsche, JfSchlinck
+* MindBlog: http://blog.intellihaus.de/
+||AusLand
+|[SkyPe:schlinck]
+|[XingLe:Christine_Schlinck]
+|[TwittEr:tineroyal]
+|[FlickEr:lifecosmos]
+|[WorldWideWeb:intellihaus.de]
+|[FaceBook:718970549]
+|[meinVZ: http://www.meinvz.net/Profile/638cf63f6f10f905/tid/102]
+|[SecondLife:Clarisse_Schumann]
+|[DeWikiPediaUser:Christine_Schlinck]
+
+!InBox:
+Fragen von RainerWasserfuhr:
+* Welche LebensErwartung hat JfSchlinck?
+* weitere MindFaves im MindWiki?
+* weitere Erinnerungen bei TotalRecall's?
+
+Fragen von HeikeRibke
+* Wie geht es Dir und Deinem Sohn
+* Wird Deine normale MailBox bald wieder soweit geleert sein, dass Du wieder Mail empfangen kannst?
+* Hast Du schon erste Runden im Zwinger mit dem Kleinen im Kinderwagen gedreht?

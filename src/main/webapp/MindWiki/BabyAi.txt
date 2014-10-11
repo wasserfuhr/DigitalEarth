@@ -1,0 +1,9 @@
+Get started with a DigitalTwin and build an ArtificialIntelligence which can autonomously operate as a ChatBot in the AiGame or as a baby AvaTar at the SingularTheater, in SecondLife or on the MindFarm.
+
+The BabyAi might:
+* feed
+* talk to
+* teach words
+* hug
+* kiss
+* play games

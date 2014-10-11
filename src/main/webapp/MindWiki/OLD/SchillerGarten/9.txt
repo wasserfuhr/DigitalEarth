@@ -1,0 +1,16 @@
+* IsA: WirtsHaus
+* NamedAfter: FriedrichSchiller
+* BreitenGrad: 51.05227
+* LaengenGrad: 13.80894
+* BoundingBox: 65
+* GraDient: 135
+* SlimNess: 0.8
+* HomePage: http://www.schillergarten.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/246851305
+
+http://twtvite.com/c5gn5p
+
+MeMo:
+* 2008-10-08:1700: ChristineSchlinck RainerWasserfuhr: SiMa, SingularStress, ImMortal, ChiefSingularityOfficer, SiggiBecker, SteveJurvetson, LarryAndSergey, CrashKurs, VolksKonto
+* 2008-10-06:1900: ChristineSchlinck YvonneSchubert RainerWasserfuhr CoSc EtAl: SchluepferLuefter, OrthoMol, TotalRecall, KenFollett, WurfLotto, ExistenzFilm, BaaderMeinhofKomplexFilm, DerUntergang, AndreasEschbach GeSund DarmFlora BaSf
+* 2008-08-10: ChristineSchlinck RainerWasserfuhr: MindShift PieschenerRevolution

@@ -1,0 +1,6 @@
+* IsA: PerSon
+* BornAs: SaschaHaarseim
+* HasTalked: ClaudiaHoffmann ChristineSchlinck RainerWasserfuhr RalfLippold RoswithaHunold
+* MindSkill: PoKern UmweltTechnik
+* HasVisited: SangerHausen
+|[XingLe:Sascha_Haarseim]

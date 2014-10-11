@@ -1,0 +1,11 @@
+* MindTags: GedankenSpiel, MitMachSache
+
+(Vorwort: Diese Seite eignet sich nur für Leser, denen der Name EliezerYudkowsky geläufig ist.)
+
+Angenommen WarrenBuffett, BillGates oder TheoAlbrecht würden eine Milliarde EuRo für Deine Teilnahme am RussianRoulette bieten.
+Statt einer SmithAndWessonOne mit 6 Trommelbohrungen würde
+eine SmithAndWesson2019 verwendet, die einen ZuFall'sgenerator eingebaut hat.
+Der würde nur bei durchschnittlich jedem n-ten Versuch feuern.
+Wie gross müsste das n sein, damit Du teilnehmen würdest?
+
+Welche Verteilungsfunktion nehmen wir an fuer den ZuFall'sgenerator?

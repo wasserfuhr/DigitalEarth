@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Tower_Colliery]
+
+BabyAi-UseCase: Per ZuFall aus den DeWikiPedia-RecentChanges gefischt.

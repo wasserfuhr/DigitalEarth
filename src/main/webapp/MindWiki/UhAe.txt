@@ -1,0 +1,4 @@
+* BreitenGrad: 25.1
+* LaengenGrad: 55.2
+* BoundingBox: 10000000
+* NormalNull: ~<0

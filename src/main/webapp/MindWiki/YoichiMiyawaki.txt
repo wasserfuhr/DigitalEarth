@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/81/6413
+* HomePage: http://www.cns.atr.jp/~yoichi_m/
+* PageNumber: 11
+* PagePath: LarryPage ... AlexSmola KlausRobertMueller KazuyukiAihara MasatoOkada YoichiMiyawaki

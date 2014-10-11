@@ -1,0 +1,4 @@
+* InterWiki: [DeWikiPedia:Multi_User_Dungeon]
+
+||ComPare||MultiUserDungeon||NooPolis
+|        |Wizard |WikiGod

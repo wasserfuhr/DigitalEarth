@@ -1,0 +1,5 @@
+* InterWiki: [DeWikiPedia:Rolling_Stone]
+
+Issue 1072: On title page: "the world's scariest techno ProPhet" = RayKurzweil, interView'ed by DavidKushner.
+
+ThomasAlvaEdison, StevieWonder, PotUs, SingularitySummit, GoogleInc, BillGates, JaronLanier, FredricKurzweil, TomSwift, AaronKleiner, TimothyLeary, EiBiEm, JohnVonNeumann, VernorVinge, DeepBlue, GaryKasparov, WorldWideWeb, HytschEyEl, FaceBook, IsaacAsimov, BillJoy, SkyNet, ThomasRay, PeterNorvig, JohnSearle, SingularityIsNear, TerryGrossman

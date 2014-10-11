@@ -1,0 +1,4 @@
+* IsA: VerEin
+* HomePage: http://www.pi-haus.de/
+* MindOne: CarstenKohlschmidt
+* PartOf: FreiBerg

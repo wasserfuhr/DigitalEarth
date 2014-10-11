@@ -1,0 +1,5 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Heinz_von_Foerster], [LangReiter:Heinz+von+Foerster], [WebSeitz:HeinzVonFoerster]
+* JahrGang: 1911
+* BirthDay: 11-13
+* FoafKnows: WittgenStein

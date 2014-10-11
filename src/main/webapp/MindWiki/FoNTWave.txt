@@ -1,0 +1,25 @@
+EurOpa: "Foresighting the New Technology Wave"
+* ftp://ftp.cordis.europa.eu/pub/foresight/docs/ntw_sig4_en.pdf
+ 
+* Rapporteur and Editor: WolfgangBibel, 
+* Members: DanielAndler, OlivierDaCosta, GuenterKueppers, IanPearson
+
+
+ArTelligence, LisbonStrategy, MooresLaw, RfId, SemanticWeb, TabulaRasa.
+
+References:
+* AbrahamMaslow
+* ChrisPhoenix
+* ClausWeyrich
+* HansJuergenWarnecke
+* ImmanuelKant
+* JohnMcCarthy
+* JosephWeizenbaum
+* KlausMainzer
+* PeterNorvig
+* PushSingh
+* RodneyBrooks
+* StephenWolfram
+* StuartRussell
+* WilliamSimsBainbridge
+* WolfgangWahlster

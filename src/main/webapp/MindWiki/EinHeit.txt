@@ -1,0 +1,4 @@
+angeregt durch die Kalkulationen mit Nachkommastellen und Einheiten-Umrechnungen beim WeizenMehl:
+
+NewMind wird ein wesentlich einfacheres Repräsentationssystem haben als ein HuMan-Gehirn.
+Alle Zahlen werden normalisiert repräsentiert, lassen InFer'enzen zu.

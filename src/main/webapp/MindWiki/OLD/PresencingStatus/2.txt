@@ -1,0 +1,12 @@
+A LifePattern InVent'ed at MotorOla:
+
+# Was war gut?
+# Was war schlecht?
+# Was habe ich gelernt?
+# NextAction's?
+
+additionally:
+# your price on the ForEx for buying 1 KiloKayGroschen (in EuRo)
+# your price on the ForEx for selling 1 KiloKayGroschen (in EuRo)
+# your price on the NooPolis StockExchange for buying 1‰ LockSchuppenAg shares (in KayGroschen)
+# your price on the NooPolis StockExchange for selling 1‰ LockSchuppenAg shares (in KayGroschen)

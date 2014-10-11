@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:René_Descartes] [WikiWikiWeb:ReneDescartes]
+* BornIn: 1596
+* BirthDay: 03-31
+* EndOfLife: 1650

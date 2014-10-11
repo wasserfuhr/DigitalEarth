@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/76/2913
+* HomePage: http://ls6-www.informatik.uni-dortmund.de/~wortmann/
+* PageNumber: 10
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann WolfgangBibel KlausPJantke BernhardThalheim JoachimBiskup SandraWortmann

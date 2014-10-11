@@ -1,0 +1,20 @@
+* InterWiki: [WikiWikiWeb:LogoLanguage]
+
+SeymourPapert
+
+reset
+setx 10
+sety 10
+color [255 0 0]
+forward 100
+right 90
+fw 200
+pendown
+left 45
+repeat 9 [
+ fw 9
+ right 15
+]
+fw 90
+left 270
+fw 300

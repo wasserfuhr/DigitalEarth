@@ -1,0 +1,3 @@
+* InterWiki: [LangReiter:Clojure], [WikiPedia:Clojure]
+* HomePage: http://clojure.org/
+* MindOne: RichHickey

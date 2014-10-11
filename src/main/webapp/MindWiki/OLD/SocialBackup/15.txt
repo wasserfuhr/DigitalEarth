@@ -1,0 +1,29 @@
+Ein Backup des gesamten AgWiki zum Download:
+
+20070510:0135:
+* http://insider.mindbroker.de/mind.zip (Die Inhalte des AgWiki als JspWiki-Textfiles)
+20070430:1300:
+* http://insider.mindbroker.de/source.zip (Der SVN-Dump von svn://svn.mindbroker.de/opensource/)
+
+SocialBackup heisst, dass jeder MindBroker ImmerWieder das Backup herunterlädt, damit praktisch mit jedem MindMac ein fast aktuelles Recovery gemacht werden kann, selbst wenn der Server mal bei einem ErdBeben einen Festplattenschaden haben sollte.
+
+||MindBroker      ||what ||MindMac||letzter Download
+|RainerWasserfuhr |mind  |neptun  |20070510:0136
+|RainerWasserfuhr |mind  |neptun  |20070430:1302
+|RainerWasserfuhr |source|neptun  |20070430:1302
+|RainerWasserfuhr |mind  |ares    |20070328:0023
+|DanielPoodratchi |mind  |        |20070326:2103
+|AndreasWeigel    |mind  |othello |not yet, also ToDo ;)
+|OliverFassner    |mind  |???     |not yet, also ToDo ;)
+|YvonneSchubert   |mind  |nana    |not yet, also ToDo ;)
+|YvonneSchubert   |mind  |triton  |not yet, also ToDo ;)
+|ChristineSchlinck|mind  |triton  |not yet, also ToDo ;)
+|RicardaDHerbrand |mind  |???     |not yet, also ToDo ;)
+
+{{{
+rm /home/insider/apache-tomcat-5.5.23/webapps/ROOT/mind.zip
+zip -r /home/insider/apache-tomcat-5.5.23/webapps/ROOT/mind.zip agwiki agwiki-files
+ls -l /home/insider/apache-tomcat-5.5.23/webapps/ROOT/mind.zip
+ls -l /home/insider/apache-tomcat-5.5.23/webapps/ROOT/source.zip
+
+}}}

@@ -1,0 +1,13 @@
+Hier erfassen bald die Gesellschafter und Lieferanten die für VebMind erbrachte Leistungen 
+und die Modalitäten der AusSchuettung.
+
+Den aktuellen KontoStand zeigen das BuergerKonto.
+
+Einige Details sind noch zu diskutieren.
+
+zB: 
+||wer            ||wann   ||was||EUR||KayGroschen||
+|DanielPoodratchi|20070823|code Review, Bug fixing|60|400|
+|DanielPoodratchi|20070824|-|120|800|
+|DanielPoodratchi|20070903|Auction JSP coding|120|800|
+|DanielPoodratchi|20070904|Bug fixing, Abstimmung Rainer|30|200|

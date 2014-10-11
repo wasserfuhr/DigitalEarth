@@ -1,0 +1,6 @@
+* IsA: PerSon
+* MindSkill: HypeCycle 
+* DbLp: http://dblp.uni-trier.de/rec/pid/34/3423
+* PageNumber: 8
+* PagePath: LarryPage SergeyBrin MonikaHenzinger KurtMehlhorn FriedhelmMeyerAufDerHeide MichaelWand HansPeterSeidel SebastianThrun AlexanderLinden
+|[XingLe:Alexander_Linden]

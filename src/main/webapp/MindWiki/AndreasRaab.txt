@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/30/1843
+* HomePage: http://squeakland.jp/community/biography/andreasbio.html
+* PageNumber: 8
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcDermott RichardFikes TomGruber JayTenenbaum AlanKay AndreasRaab

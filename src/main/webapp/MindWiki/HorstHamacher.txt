@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Horst_W._Hamacher]
+* BirthDay: 04-12
+* ViAf: http://viaf.org/viaf/39944344

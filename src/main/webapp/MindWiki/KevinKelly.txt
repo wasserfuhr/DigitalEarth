@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [LangReiter:Kevin+Kelly] [WebSeitz:KevinKelly] [WikiPedia:Kevin_Kelly_(editor)]
+* BornIn: 1952
+* CurrentProjects: QuantifiedSelf
+|[TwittEr:kevin2kelly]

@@ -1,0 +1,3 @@
+Each CamelCase word of the TwittEr tweets of RainerWasserfuhr is linked to the MindWiki if you click on his TwittEr profile info URL: 
+
+!http://id.mindbroker.de/twit

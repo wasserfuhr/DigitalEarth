@@ -1,0 +1,7 @@
+CamelCase
+
+Präzise und GeekIq eindeutig, as RegEx:
+
+{{{
+[A-Z]+[a-z]+[A-Z]+[a-zA-Z0-9]*
+}}}

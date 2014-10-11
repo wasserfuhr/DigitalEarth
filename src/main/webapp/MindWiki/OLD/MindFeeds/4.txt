@@ -1,0 +1,3 @@
+Ein Social-FeedReader für alle BuergerInnen.
+
+Später mal http://feeds.mindbroker.de

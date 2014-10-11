@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* ViAf: http://viaf.org/viaf/20606459
+* InterWiki: [WikiPedia:Nassim_Nicholas_Taleb]
+* BornIn: 1960
+* BirthDay: 01-01
+* MindSkill: BlackSwan
+|[TwittEr:nntaleb]

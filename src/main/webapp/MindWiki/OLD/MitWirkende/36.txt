@@ -1,0 +1,24 @@
+Bisherige MitWirkende:
+
+||MindId||1)||OrderedByShares ||svn     ||MindMac||SecondLife              ||XingLe                  
+|1|x|RainerWasserfuhr |rainer   |neptun  |[SecondLife:Ted_Christensen]     |[XingLe:Rainer_Wasserfuhr] 
+|3| |DanielPoodratchi |daniel   |adonis  |[SecondLife:Daniel_Foysten]      |[XingLe:Daniel_Poodratchi] 
+|5| |AndreasWeigel    |andreasw |othello |[SecondLife:B4d4_Bing]           |[XingLe:Andreas_Weigel10]
+| |x|OliverGassner    |         |        |[SecondLife:Oliver_Gassner]      |[XingLe:Oliver_Gassner]
+|2|x|YvonneSchubert   |yvonne   |nana    |                                 |[XingLe:Yvonne_Schubert]
+| | |TimBonnemann     |tim      |        |[SecondLife:Intrepid_Replacement]|[XingLe:Tim_Bonnemann]
+|4| |RicardaDHerbrand |         |        |                                 |[XingLe:RicardaD_Herbrand]
+| | |DimitriUwarov    |dimitri  |        |[SecondLife:??]                  |[XingLe:Dimitri_Uwarov]
+| | |JensWegerle      |         |        |                                 |
+| | |JuergenKohn      |juergen  |        |[SecondLife:??]                  |[XingLe:Juergen_Kohn]
+| | |AlexanderGola    |         |        |                                 |[XingLe:Alexander_Gola]
+| | |HagenStanek      |hagen    |        |[SecondLife:Huge_Norie]          |
+| | |ChristineSchlinck|tine     |triton  |[SecondLife:Clarisse_Schumann]   |[XingLe:Christine_Schlinck]
+
+1) Gesellschafter der VebMind.
+
+Siehe weiter: http://id.mindbroker.de/ausland
+
+Hinzukommen können eventuell:
+* Michael B. - JSP, JS Developer
+* AurelienEyoum - CSS & HTML, https://www.xing.com/profile/Aurelien_Eyoum/

@@ -1,0 +1,4 @@
+* EtymoLogia: Open Services Gateway initiative
+* InterWiki: [WikiPedia:OSGi] [WikiWikiWeb:OsGi]
+
+EclipseIde JavaOs

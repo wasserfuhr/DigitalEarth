@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Edmund_M._Clarke]
+* BirthDay: 07-27
+* DbLp: http://dblp.uni-trier.de/rec/pid/c/EdmundMClarke
+* HomePage: http://www-2.cs.cmu.edu/~emc/
+* PageNumber: 9
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi AlexAiken RalfTreinen NachumDershowitz YuriGurevich EdmundMClarke

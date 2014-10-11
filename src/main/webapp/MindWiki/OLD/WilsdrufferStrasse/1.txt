@@ -1,0 +1,3 @@
+* IsA: MindStreet
+* InterWiki: [DdWiki:Wilsdruffer_Straße]
+* ConnectsTo: PirnaischPlatz

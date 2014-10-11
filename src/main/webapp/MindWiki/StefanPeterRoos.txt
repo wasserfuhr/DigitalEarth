@@ -1,0 +1,6 @@
+* IsA: PerSon
+* HomePage: http://spr.proudmusiclibrary.com/
+* HasTalked: RainerWasserfuhr
+* MindSkill: ComPose
+|[TwittEr:spr2]
+|[XingLe:StefanPeter_Roos]

@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* BirthDay: 12-04
+* HasVisited: BeiMo
+* LebensEnde: 2003

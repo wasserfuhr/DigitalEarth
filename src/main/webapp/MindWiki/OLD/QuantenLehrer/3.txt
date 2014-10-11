@@ -1,0 +1,4 @@
+* Wieviel Prozent der Physiklehrer eines Landes auf PlanetErde können eigentlich QuantenComputer erklären?
+* Wie korreliert diese Zahl mit dem Bruttoinlandsprodukt des Landes im Jahre 2020?
+
+[{INSERT ReferringPagesPlugin}]

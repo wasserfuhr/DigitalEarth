@@ -1,0 +1,9 @@
+DoIt: Auf http://id.mindbroker.de/map darstellen:
+
+* MindPlaces mit Koordinaten
+* BuergerInnen mit angegebenem WohnSitz
+* Jeden MindMove
+* Jeden Zug mit ZugStrom
+* Alle Mähdrescher in DeutschLand beim HarVest
+* Jeden MindWay in der Umgebung von GruenesWunder
+* MindIp

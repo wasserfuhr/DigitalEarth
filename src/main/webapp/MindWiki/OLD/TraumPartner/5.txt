@@ -1,0 +1,37 @@
+Der TraumPartner für RainerWasserfuhr:
+
+Web:
+* hat eigene Domain
+* die eigene Domain ist .de,.net,.org oder .com oder im Geburtsland
+* die eigene Domain enthält den bürgerlichen Nachnamen
+* die eigene Domain besteht nur aus dem Vornamen
+* die WebSite ist ein selbstprogrammiertes Wikilog
+* die WebSite hat RSS-Autodiscovery
+* die WebSite hat FOAF-Autodiscovery
+* die WebSite hält den W3C-Validatoren stand
+* ist google #1 für Vor- und Nachname
+
+Xing:
+* kennt sekundenaktuell die Marktkapitalisierung von Xing
+* hat bei Firma MindBroker angegeben
+* hat bei "Mitglieder, die mehrere meiner Kontakte kennen" mehr als 25 Kontakte
+* kann zu jedem seiner Kontakte eine Empfehlung aussprechen
+* kennt tagesaktuell die Marktkapitalisierung von Xing
+* hat mehr Kontakte als ich
+* Das Xing-Profil ist auf der Startseite der Website verlinkt
+* weiss dass Xing früher OpenBC hiess
+* nennt es jetzt Xing
+* ist mein Kontakt
+* hat alle seine Kontakte freigegeben
+* hat ein Foto
+
+Skype:
+* der Skype-Name enthält den bürgerlichen Nachnamen
+* ist auf meiner Buddylist.
+* das Skypeprofil ist komplett ausgefüllt
+
+DelIcioUs:
+* ist in meinem Netzwerk
+* hat mehr bookmarks als ich
+* verwendet bei Tags nur die zeichen 0..9, a..z und *
+* hat die gleichen bundles wie ich

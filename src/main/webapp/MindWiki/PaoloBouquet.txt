@@ -1,0 +1,5 @@
+* IsA: PerSon
+* EnsId: http://www.okkam.org/entity/ok200706301185791252056
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/PaoloBouquet
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker HolgerWache HeikoStoermer PaoloBouquet

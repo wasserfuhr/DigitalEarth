@@ -1,0 +1,12 @@
+* IsA: PerSona
+
+* JennyVanOstrom: "Hast Du schon vom DeutschlandStipendium gehört?"
+* KarlBuechel: "Am Rande. Das sind Details am Rande vom Altsystem. Wir sollten die
+Welt völlig neu erschaffen. EinwohnerMeldeamt, StaatsGebiet, WirtschaftsKreislauf."
+* JennyVanOstrom:  "Dein Plan ist also...?"
+* KarlBuechel: "Nein, wir brauchen kein DeutschlandStipendium, wir machen das privat finanziert. Wir schaffen ein Netzwerk, das anfangs nur als literarische Fiktion daher kommt. Und das füllen wir mehr und mehr mit Leben. Digital und real."
+* JennyVanOstrom: "LangMarsch?"
+* KarlBuechel: "Richtig, wir sind weit entfernt vom Ziel, aber mit jedem Tag steigt
+der WuselFaktor, und die alten Systeme kommen nicht hinterher."
+* JennyVanOstrom: "Aber das wird JahrZehnt'e dauern - und kaum JeMand wird diese Kraft aufbringen."
+* KarlBuechel: "500 000 000 MonthlyActiveUsers binnen 66 Monaten - wo ist das ProBlem? ThinkBig."

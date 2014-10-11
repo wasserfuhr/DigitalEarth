@@ -1,0 +1,40 @@
+EnterPrise's in NooPolis / ''UnterNehmen auf dem HoheitsGebiet von NooPolis:''
+
+||EnterPrise       ||LegalForm     ||''MindOne''
+||''UnterNehmen''  ||''RechtsForm''||''UnternehmensGruender''
+|PieschenBank      |StateOwned|RainerWasserfuhr
+|SingularAcademy   |StateOwned|RainerWasserfuhr
+|MindBroker        |UnLimited |RainerWasserfuhr
+|LockSchuppenAg    |UnLimited |RalfLippold
+|FamilienFreund    |UnLimited |JanaSchlegel
+|ProtoWerb         |UnLimited |JoergKeller
+|SpaceLiftAg       |UnLimited |RainerWasserfuhr
+|PieschenMediaGroup|UnLimited |RainerWasserfuhr
+|CreoSphere        |UnLimited |MarcoDziallas
+|AlgenDresden      |UnLimited |HolgerHelas
+|NettConsult       |UnLimited |SoerenRogoll
+|twiDDern          |UnLimited |AlexanderFriedland
+|twiDDernMobil     |UnLimited |AlexanderFriedland
+
+Posible Candidates:
+* SemProc
+* SchreitHarvester
+* BauchTanzAg
+* PengAg
+* BuzzRiders
+* CoreMedia
+* DueckWiki
+* IntelliHaus
+* KuhVz
+* LearnToUse
+* MindBau
+* OsCar
+* RapidRabbit
+* WebLin
+* SynAxon
+
+Besonders geeignet sind Kandidaten mit
+* OpenSource-SourceCode
+* WikiBasiert'em BusinessPlan
+* OpenBook
+* Mut und MindSkill für ein GlaesernUnternehmen

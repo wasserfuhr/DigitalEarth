@@ -1,0 +1,4 @@
+* EtymoLogia: Bourne-again-shell
+* InterWiki: [DeWikiPedia:Bourne-again_shell]
+
+SysAdmin-WortSchatz: cat cd clean cp curl df du echo emacs export find ftp grep gunzip ifconfig java kill ls make md5sum mkdir more mv nice nohup passwd perl ping pwd python renice rm rmdir rpm scp ssh tail tar top touch traceroute unzip vi wget zip

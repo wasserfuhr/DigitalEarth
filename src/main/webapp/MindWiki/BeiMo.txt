@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* HomePage: http://beimo.de/
+* OpenStreetMap: http://openstreetmap.org/?lat=52.500075&lon=13.306742&zoom=18&layers=B000FTTT ToDo

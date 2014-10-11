@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.064
+* LaengenGrad: 13.822
+* BoundingBox: 30
+* HomePage: http://www.kakadubar.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/318158303
+* MindOne: TorstenWiesener

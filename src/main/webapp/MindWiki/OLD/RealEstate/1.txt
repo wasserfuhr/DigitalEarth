@@ -1,0 +1,5 @@
+Erwerb, Miete und Handel von MindPlaces mit BoundingBox.
+
+Die PieschenBank fungiert als BootStrap-Treuhandanstalt.
+
+http://www.blogh.de/785

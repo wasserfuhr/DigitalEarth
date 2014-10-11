@@ -1,0 +1,4 @@
+* IsA: MindPlace
+* HomePage: http://www.krankenhaus-wipperfuerth.de/
+* MindOne: HermannJosefMellage
+* PartOf: WipperFuerth

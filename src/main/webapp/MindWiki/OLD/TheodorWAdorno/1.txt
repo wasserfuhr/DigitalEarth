@@ -1,0 +1,6 @@
+* MindTags: ProFessor
+* MindQuote: "Es gibt kein richtiges Leben im Falschen."
+* JahrGang: 1903
+* BirthDay: 09-11
+* LebensEnde: 1969
+* MindSkill: MindMusic

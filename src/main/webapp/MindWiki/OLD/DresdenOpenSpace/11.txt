@@ -1,0 +1,8 @@
+* MindTags: MindEvent
+* HashTag: dos08
+* XingEvent: https://www.xing.com/app/events?op=detail;id=261326
+* HomePage: http://www.community.dresdner-zukunftsforum.de/node/322
+* MitWirkende: PeterKlingenburg FrankSchoenefeld RainerWasserfuhr JensBemme YvonneSchubert WinfriedLachnit BjoernNegelmann TobiasKaufmann JuergenAnke JanBoehme RalfLippold MarcellaGaeb TobiasKroha ThomasMueller, RoyUhlmann, IgorSchwarzmann, KirstinWalther SteffenBueffel MichaelRAlvers LilianaBarrioAlvers KlausHolthausen EtAl
+
+HotTopics:
+* ArTelligence, PhaetonBallett, SemanticWeb, FoAf, SparQl, OpenSocial, HiFive, GoPubMed, MichaelSchroeder, WikiPedia, RayKurzweil, TotesHolz, OpenStreetMap, PlasticLogic, TheSingularity, RainerTest, SuperComp, TerraDsl, BarCamp, WebMontag, TwittEr, LydiaGv, TuringTest, OptoPuter, ThumbOne, JaronLanier, EliezerYudkowsky, ChristianHeller, SoerenStamer, KarinWasserfuhr, AlternateReality.

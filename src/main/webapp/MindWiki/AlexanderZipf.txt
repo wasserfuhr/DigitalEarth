@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/28/303
+* HomePage: http://www.geographie.uni-bonn.de/karto/team/zipf.html
+* PageNumber: 8
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker RudiStuder DieterFensel HannesWerthner AlexanderZipf
+* MindSkill: OpenStreetMap
+|[XingLe:Alexander_Zipf3]

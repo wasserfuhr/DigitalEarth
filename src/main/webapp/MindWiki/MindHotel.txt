@@ -1,0 +1,5 @@
+* KindOf: MindBuilding
+
+Erst mal eine Hotel-Buchungs-WebApp für FaceBook.
+
+Später zusätzlich ein spannendes MindHotel-ConCept mitten in der StadtDresden, mit Bar und Nachtprogramm etc...Begleitservice als extra-buchung zum AbendEssen/ConGress... oder for VeryImportantPerson's...  inkl. PuffCafe vielleicht und jedes GeBot auf der WebSite... dann könnte das echt EinSchlag'en wie eine MindBomb.

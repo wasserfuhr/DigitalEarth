@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* FoAf: http://keg.cs.tsinghua.edu.cn/persons/tj
+* MindSkill: MachineLearning, SemanticWeb

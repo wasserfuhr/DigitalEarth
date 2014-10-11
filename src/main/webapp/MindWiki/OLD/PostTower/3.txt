@@ -1,0 +1,6 @@
+"das höchste Bürogebäude Nordrhein-Westfalens". Also knapp ein Sechstel so hoch wie der MindTower.
+
+* BreitenGrad: 50.715556
+* LaengenGrad: 7.13
+
+[DeWikiPedia:Post_Tower]

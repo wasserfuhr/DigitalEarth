@@ -1,0 +1,7 @@
+Welche großen UnterNehmen haben wie große unternehmensweite interne WikiPedia- artige Projekte:
+
+||UnterNehmen||Seiten ||Software||Mitarbeiter||Quelle
+|EiBiEm      |>2000   |MediaWiki|355766      |GunterDueck
+|GoogleInc   |?       |?        |15916       |
+|SynAxon     |>15.000 |MediaWiki|130         |FrankRoebers
+|MindBroker  |>1000   |JspWiki  |1,5         |RainerWasserfuhr

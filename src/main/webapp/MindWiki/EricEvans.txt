@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [WikiWikiWeb:EricEvans]
+* MindSkill: DomainModel
+* HasTalked: RainerWasserfuhr DirkRiehle

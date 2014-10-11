@@ -1,0 +1,5 @@
+* IsA: EventSeries
+* OperatedBy: PieschenConsultingGroup | LockSchuppenAg?
+
+!2011
+2011-06-22 + 2011-06-23

@@ -1,0 +1,4 @@
+* IsA: PerSon
+* HomePage: http://www.hupfo.de/
+* HasTalked: RalfLippold RainerWasserfuhr
+|[XingLe:Oliver_Hupfer]

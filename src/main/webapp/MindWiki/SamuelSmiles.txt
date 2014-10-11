@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Samuel_Smiles]
+* BornIn: 1812
+* BirthDay: 12-23
+* DiedIn: 1904

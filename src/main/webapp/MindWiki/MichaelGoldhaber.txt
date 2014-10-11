@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* InterWiki: [ThoughtStorms:MichaelGoldhaber], [WikiWikiWeb:MichaelGoldhaber]
+* HomePage: http://www.goldhaber.org/

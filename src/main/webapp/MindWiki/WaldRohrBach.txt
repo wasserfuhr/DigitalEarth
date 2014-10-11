@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Waldrohrbach]
+* BreitenGrad: 49.16998
+* LaengenGrad: 7.966195
+* BoundingBox: 800

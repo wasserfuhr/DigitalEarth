@@ -1,0 +1,5 @@
+* MindTags: RegierungsSprecher
+* InterWiki: [DeWikiPedia:Béla_Anda]
+* VorName: Béla
+* JahrGang: 1963
+* BirthDay: 04-04

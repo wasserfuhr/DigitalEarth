@@ -1,0 +1,20 @@
+* WorldLanguages: english:MindBroker, español: MindBrokerEs
+* SprachWelt: de
+
+!Willkommen bei MindBroker
+
+MindBroker ist ein virtuelles GlaesernesUnternehmen in der digitalen Republik NooPolis. Es erforscht, erfindet, baut und lebt neue Konzepte für VirtuelleOekonomie'n und SocialNetworks der nächsten und übernächsten Generation. Wir sind noch nicht für JederMann, geben aber hier erste Einblicke, wie wir wirken:
+
+* NewsLetter
+* WieWirWirken
+* WerdeMindBroker und dann MitWirken:
+* ShareHolder
+* MindBlog
+* wichtigste Projekte:
+** NooPolis, eine Simulation für eine VirtuelleOekonomie und Republik
+** MindMe, persönliche Wikis
+** DoItProject, webbasierte Todo-Listen
+* UnsereGeschichte
+* Unser WikiNode verbindet uns zu benachbarten Wikis.
+* MindOne: RainerWasserfuhr
+* MindTags: UnterNehmen

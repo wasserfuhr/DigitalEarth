@@ -1,0 +1,4 @@
+* IsA: EventSeries
+* MindPlace: TzDresden
+
+für UnterNehmer

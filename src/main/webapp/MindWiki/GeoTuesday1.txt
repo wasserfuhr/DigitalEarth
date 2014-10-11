@@ -1,0 +1,20 @@
+* MindTags: MindEvent
+
+inspired by: WebMontag
+
+!Location: StadtDresden
+
+!Date: 2008
+
+Themen:
+* OpenStreetMap
+* DresdenChess
+* DresdenTicTacToe
+* GeoOs
+* MindPlace
+
+Teilnehmer:
+* RainerWasserfuhr
+
+Interessiert:
+* SebastianMitter

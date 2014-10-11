@@ -1,0 +1,24 @@
+Der rote Faden der ErZaehlung: 
+(eingerückt sind Erzaehlstationen, die später hinzu kommen könnten)
+* AnFang
+* GeBurt
+* GenSeidenFaden
+* CommodoreSixtyFour
+* AtariSt
+* UniKl
+* UbiComp
+* GlasKugel
+* SecondHalfOfTheChessboard
+** KurbelWelle
+** FutureMap
+** NooPolis
+** UnTil2019
+** WindelWelt
+** GoogleCity
+** IceCream2019
+** TrueLove
+** GlaesernerAkt
+** SystemClash
+** AlleAugenLeben
+** TakeOff
+** PostSingular

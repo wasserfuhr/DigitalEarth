@@ -1,0 +1,29 @@
+* InterWiki: [DeWikiPedia:Wunder_von_Bern]
+* NamedAfter: StadtBern
+
+DeutschLand:
+* 01 Tor ToniTurek (Fortuna DuesselDorf)
+* 07 JuppPosipal (HamburgerSv)
+* 03 WernerKohlmeyer (1. FC KaisersLautern)
+* 06 HorstEckel (1. FC Kaiserslautern)
+* 10 WernerLiebrich (1. FC Kaiserslautern)
+* 08 KarlMai (SpVgg Fürth)
+* 12 HelmutRahn (Rot-Weiss StadtEssen)
+* 13 MaxMorlock (1. FC NuernBerg)
+* 15 OttmarWalter (1. FC Kaiserslautern)
+* 16 Kapitän der Mannschaft FritzWalter (1. FC Kaiserslautern)
+* 20 HansSchaefer (1. FC StadtKoeln)
+* Trainer: SeppHerberger
+	
+* 01 Tor Gyula Grosics (Honvéd Budapest)
+* 02 Jenő Buzánszky (Dorogi Bányász)
+* 03 Gyula Lóránt (Honvéd Budapest)
+* 04 Mihály Lantos (MTK Budapest)
+* 20 Mihály Tóth (Újpest Budapest)
+* 05 JozsefBozsik (Honvéd Budapest)
+* 06 József Zakariás (MTK Budapest)
+* 09 Nándor Hidegkuti (MTK Budapest)
+* 10 Kapitän der MannSchaft FerencPuskas (Honvéd Budapest)
+* 11 Zoltán Czibor (Honvéd Budapest)
+* 08 Sándor Kocsis (Honvéd Budapest)
+* Trainer: Gusztáv Sebes

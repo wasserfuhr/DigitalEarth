@@ -1,0 +1,5 @@
+* IsA: PerSon
+* HasTalked: RainerWasserfuhr
+|[TwittEr:hemartin]
+|[XingLe:HugoE_Martin]
+|[FaceBook:536675217]

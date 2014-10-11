@@ -1,0 +1,41 @@
+SynTax of the MindWiki: (Subset of JspWiki SynTax)
+
+CamelCase
+
+{{{ 
+* item 1
+** item 1.1
+*** item 1.1.1
+* item 2
+}}}
+
+* item 1
+** item 1.1
+*** item 1.1.1
+* item 2
+* item 3
+
+
+{{{ 
+# item 1
+# item 2
+# item 3
+}}}
+
+# item 1
+# item 2
+# item 3
+
+{{{ 
+!Headline
+}}}
+
+!Headline
+
+{{{ 
+!!Headline
+}}}
+
+{{{ 
+!!!Headline
+}}}

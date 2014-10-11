@@ -1,0 +1,3 @@
+SecondMind 7.0
+
+WyrdMind 0.0 = CroquetSDK-1.0.18

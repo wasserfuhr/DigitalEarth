@@ -1,0 +1,3 @@
+* IsA: MindEvent
+* MindPlace: KleinHaus
+* MindOne: HannahHurtzig

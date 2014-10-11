@@ -1,0 +1,34 @@
+* MindTags: RealFilm
+* PieschenTv: http://www.youtube.com/watch?v=-2NqZe-EnN8
+
+Erste Szene im RealFilm: CaptionFile:
+{{{
+0:00:06
+Ich weiss nich immer wenn ich was zu dem Thema sage, dann fang ich bei MooresLaw an
+das is ganz das is ganz ganz langweilig und unaufregend.
+0:00:20
+Man müsste mal ausrechnen, wieviel Festplattenkapazität es
+heutzutage auf der Welt gibt.
+0:00:30
+Sagenwer mal so wasweissich 300 Millionen, 400 Millionen, 500 Millionen PCs gibts, 
+mit durchschnittlich 40, 50, 80, 200 Gigabyte.
+0:00:44
+Und das Spannende is: das verdoppelt sich.
+Und das Spannende is: Diese ganzen Kisten!,
+die vernetzen sich miteinander
+0:00:54
+und die Kapazitäten zwischen diesen Kisten,
+die Transferkapazitäten,
+0:01:01
+die verdoppeln sich, mindestens,
+in konstanten Zeitabständen.
+0:01:08
+Zeig mal!
+0:01:09
+>>Stimme aus dem Off
+Ich brauch unbedingt ein Stativ.
+0:01:12
+Cut!
+}}}
+
+MooresLaw

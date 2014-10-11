@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Mohandas_Karamchand_Gandhi]
+* BornIn: 1869
+* BirthDay: 10-02

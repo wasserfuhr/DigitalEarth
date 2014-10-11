@@ -1,0 +1,38 @@
+* IsA: MindProps
+* RdfProperty: http://id.mindbroker.de/schema#MindId
+* RdfDomain: PerSon
+* RdfRange: http://www.w3.org/2001/XMLSchema#integer
+
+!http://id.mindbroker.de/
+
+''Alle eingeladenen BuergerInnen von NooPolis erhalten nach Zustimmung zur VerFassung eine MindId:''
+
+After accepting the ConStitution, invited CitiZens of NooPolis obtain a MindId:
+
+The MindId IsA NaturalNumber, starting with 1, for uniquely identifying CitiZens of NooPolis and other important MindPeople:
+
+''Die MindId ist eine natürliche Zahl, die beginnend von 1 hochgezählt wird:''
+* 1: RainerWasserfuhr
+* 2: YvonneSchubert
+* 3: DanielPoodratchi
+* 4: RicardaDHerbrand
+etc.
+
+Die MindId ist gleichzeitig der PrimaryKey in der MindSql-Tabelle der MindId-WebApp.
+Ausserdem erhalten alle BuergerInnen einen eindeutigen CamelCase-Namen, zB RainerWasserfuhr.
+Der CamelCase-Name eignet sich allerdings nicht als PrimaryKey, da typischen Statistiken
+zufolge zB in DeutschLand etwa 15-20% aller BuergerInnen ihren Namen im Falle einer Ehe ändern.
+
+BuergerInnen können nach dem LogIn verschiedene WebApp's auf dem SocialGrid nutzen.
+Das LogIn ist immer der aktuelle eigene CamelCase-Name (zB RainerWasserfuhr).
+
+Erste WebApp's mit MindId-Login:
+* PieschenBank: http://bank.mindbroker.de/
+
+Später: OpenId für jeden User einer WebApp.
+
+||ComPare     ||MindId||DbPedia||ViAf     ||DbLp  ||FaceBook  ||XingLe
+|OpenContent  |+++    |+++     |?         |++     |-          |-
+|WebOfTrust   |x      |+       |?         |-      |?          |?
+|PerSon's     |88     |282 000 |17 800 000|700 000|300 000 000|8 500 000
+|SemanticWeb  |++     |+++     |++        |-      |-          |-

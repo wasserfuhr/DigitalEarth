@@ -1,0 +1,9 @@
+Inspired by HutterPrize.
+
+But for http://mindbroker.de/mindprize.zip (MD5 sum: ce3f546bfda719533fc37918cf0d1863)
+
+Prize: 500.000 KayGroschen for BuergerInnen who achive the best KomPression of mindprize.zip
+
+The participant has to put a Zip compressed file on his website which, after unzipping, can be started via "mvn jetty:run".
+After launching [http://127.0.0.1:8080/mindprize.zip] the file SourceCode must generate mindprize.zip with the correct MD5 sum.
+

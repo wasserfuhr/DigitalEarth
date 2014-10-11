@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.063301
+* LaengenGrad: 13.79973
+* BoundingBox: 1
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.0633&lon=13.79957&zoom=17&layers=0B00FTTT ToDo

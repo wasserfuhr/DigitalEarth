@@ -1,0 +1,5 @@
+ConCept'ualizes the ProCess of thinking inside a MindMachine.
+
+has
+* one or more MindPattern
+* a TimeStamp

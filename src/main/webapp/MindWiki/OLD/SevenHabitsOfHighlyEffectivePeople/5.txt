@@ -1,0 +1,13 @@
+* MindTags: ReView
+* InterWiki: [WikiPedia:The_Seven_Habits_of_Highly_Effective_People], [WikiWikiWeb:SevenHabitsOfHighlyEffectivePeople]
+* DcAuthor: StephenCovey
+
+BookShelved: http://bookshelved.org/cgi-bin/wiki.pl?TheSevenHabitsOfHighlyEffectivePeople
+
+# Be Proactive
+# Begin with the End In Mind (WorkingBackwards)
+# Put FirstThingsFirst
+# Think Win/Win
+# Seek First to Understand, Then to be Understood
+# Synergize
+# Sharpen the saw

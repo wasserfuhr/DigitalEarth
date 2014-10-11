@@ -1,0 +1,8 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Hillary_Clinton] [WebSeitz:HillaryClinton]
+* BornIn: 1947
+* BirthDay: 10-26
+* EnsId: http://www.okkam.org/ens/ide464470d-3bd6-464c-9c00-0b0848ba2be6
+* HomePage: http://www.hillaryclinton.com/
+|[TwittEr:hillaryclinton]
+|[LinkedIn:hillaryclinton]

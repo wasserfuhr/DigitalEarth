@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* JahrGang: 1831
+* BirthDay: 01-14
+* BirthPlace: WipperFeld
+* PapaZwoNull: ChristianBoxberg2
+* LebensEnde: 1895

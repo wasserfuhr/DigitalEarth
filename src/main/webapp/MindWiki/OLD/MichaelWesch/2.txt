@@ -1,0 +1,7 @@
+* IsA: AssistantProfessor
+* InterWiki: [WikiPedia:Michael_Wesch]
+* BornIn: 1975
+* BirthDay: 06-22
+* HomePage: http://ksuanth.weebly.com/wesch.html
+* HasTalked: BastiHirsch
+|[TwittEr:mwesch]

@@ -1,0 +1,6 @@
+* MindTags: ProJect
+* MitWirkende: RainerWasserfuhr
+* StartedAt: 2008-01
+* FinishedAt: 2008-04
+
+with extended ForeSight ReSearch in ArTelligence, HolonQl, PredictionMarket's, QuantPuter, SemanticWeb, SocialNetwork's and SynBio.

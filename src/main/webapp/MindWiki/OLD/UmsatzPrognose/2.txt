@@ -1,0 +1,8 @@
+WasSchaetztDu: Welche ErWartung haben BuergerInnen an den UmSatz im MindShop:
+
+||Erwartung      ||bis   ||Produkt     ||Stück||Gesamtumsatz||Währung
+|RainerWasserfuhr|2008-12|KiloKayGroschen  |20|   450|EuRo
+|RainerWasserfuhr|2008-12|StartUpSim       | 1|99.999|KayGroschen
+|RainerWasserfuhr|2008-12|LiebesRinge      | 2|   200|KayGroschen
+|RainerWasserfuhr|2008-12|NackSichtBrille  | 1|10.000|KayGroschen
+|RainerWasserfuhr|2008-12|EheRinge         | 1| 1.000|KayGroschen

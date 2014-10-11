@@ -1,0 +1,9 @@
+Bald alle Orte mit Angabe von Längen- und Breitengrad auf der MindMap:
+
+* EurOpa
+** DeutschLand
+*** StadtDresden
+**** WirkZentrum
+*** KarlsRuhe
+* UnitedStates
+** SanJose

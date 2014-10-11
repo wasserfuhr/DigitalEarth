@@ -1,0 +1,6 @@
+* MindId: 129
+* WohnSitz: EggenFelden
+* InvitedBy: RalfLippold
+||AusLand
+|[XingLe:Nico_Krause]
+|[SkyPe:tribalsaxon]

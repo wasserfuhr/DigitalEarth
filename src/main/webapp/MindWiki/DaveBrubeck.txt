@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Dave_Brubeck]
+* BornIn: 1920
+* BirthDay: 12-06

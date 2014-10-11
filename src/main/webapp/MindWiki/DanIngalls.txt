@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Daniel_Henry_Holmes_Ingalls,_Jr.]
+* DbLp: http://dblp.uni-trier.de/rec/pid/80/1139
+* PageNumber: 12
+* PagePath: LarryPage ... RobertHirschfeld DanIngalls

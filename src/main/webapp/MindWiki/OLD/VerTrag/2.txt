@@ -1,0 +1,9 @@
+* Gesellschafter der MindBrokerAg führen ein Konto mit KayGroschen.
+* Einnahmen aus dem MindBrokerShop fliessen entsprechend der Anteile an die Gesellschafter.
+* Die Ausschüttung erfolgt jährlich durch Zahlung an ein Bankkonto des Gesellschafters.
+* Jeder Gesellschafter versteuert seine Einnahmen im Rahmen seiner jährlichen Einkommensteuererklärung.
+* Jeder Gesellschafter kann den VerTrag ändern.
+* Vertragsänderungen gelten als von allen Gesellschaftern angenommen, wenn kein anderer Gesellschafter der Änderung binnen 14 Tagen durch editieren widerspricht.
+* Bei Meinungsverschiedenheiten entscheidet die Mehrheit der KayGroschen.
+
+Unterzeichner: RainerWasserfuhr

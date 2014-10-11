@@ -1,0 +1,6 @@
+* MindTags: PotUs, MinisTer
+* InterWiki: [DeWikiPedia:John_F._Kennedy], [OpenCyc:JohnKennedy]
+* JahrGang: 1917
+* BirthDay: 05-29
+* LebensEnde: 1963
+* MindQuote: "I believe that this nation should commit itself to achieving the goal, before this decade is out, of landing a man on the moon and returning him safely to the PlanetEarth."

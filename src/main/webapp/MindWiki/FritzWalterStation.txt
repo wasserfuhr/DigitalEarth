@@ -1,0 +1,5 @@
+* IsA: MindStadium
+* InterWiki: [DeWikiPedia:Fritz-Walter-Stadion]
+* NamedAfter: FritzWalter
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/27880400
+* PartOf: BetzenBerg

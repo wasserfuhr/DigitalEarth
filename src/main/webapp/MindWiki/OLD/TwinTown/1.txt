@@ -1,0 +1,3 @@
+* InterWiki: [DeWikiPedia:Städtepartnerschaft]
+
+nice SemanticWeb UseCase for a symmetric relation

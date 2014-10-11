@@ -1,0 +1,18 @@
+This WikiTable is derived from LockCouponTransfer's:
+
+||# ||LockCouponOwner
+|177|RalfLippold
+|108|RainerWasserfuhr
+| 30|OliverGassner
+|  8|MarkusStamm
+|  5|KarenWeinert
+|  3|PeterHerbst
+|  3|ChristineSchlinck
+|  2|ChristianHeller
+|  1|RoswithaHunold
+|  1|HeidiGallinat
+|  1|MarcelBoehme
+|  1|RaikFischer
+|  1|ThiemoMaettig
+|  1|IrisSchilke
+|  1|RegineZiolko

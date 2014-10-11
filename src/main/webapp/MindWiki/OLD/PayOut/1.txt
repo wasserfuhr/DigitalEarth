@@ -1,0 +1,4 @@
+Auszahlungen
+
+||Corp     ||Empfänger   ||Kosten
+|MindBroker|OliverGassner|5% MindShare

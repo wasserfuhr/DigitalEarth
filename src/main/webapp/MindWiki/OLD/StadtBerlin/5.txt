@@ -1,0 +1,56 @@
+* MindTags: MindPlace
+* BreitenGrad: 52.5183
+* LaengenGrad: 13.4083
+* BoundingBox: 15000
+* MindCount: 3400000
+
+http://en.oreilly.com/webexberlin2008/public/schedule/speakers:
+
+AlanPatrick
+AlbertoNardelli
+AlexStamos
+AlexandraDeschampsSonsino
+AndrazTori
+AndreCharland
+AndreasRavn
+ArdBiesheuvel
+BenHammersley
+BradyForrest
+BrianFling
+BrianSuda
+BrunoFigueiredo
+DieterRappold
+DionHinchcliffe
+DrewBartkiewicz
+DuaneNickull
+FelixPetersen
+GieldeNijs
+GustavMartner
+GustavVonSydow
+JpRangaswami
+JamesGovernor
+JeffBates
+JenniferPahlka
+JoeWalker
+JohnHendrikWeitzmann
+JohnLilly
+JonathanWeiss
+JoshDamonWilliams
+JyriEngestrom
+LeeBryant
+LucaMearelli
+MarkoSamastur
+MarkusBeckedahl
+MartinVarsavsky
+MatHampson
+MattiasMiksche
+MichelleThorne
+NikoNyman
+PeterStahl
+RobertGoldberg
+ScottRafer
+StefanMagdalinski
+StoweBoyd
+TariqKrim
+TonyDouglas
+YossiVardi

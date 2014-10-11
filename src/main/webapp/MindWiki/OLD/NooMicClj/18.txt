@@ -1,0 +1,106 @@
+; NooMic is NoMic with SourceCode for new NooPolis WebApp's - InSpir'ed by PerlNomic
+;{{{
+
+(defn noomic [request response]
+  (str "<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
+    \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">
+ <head>
+  <meta http-equiv='Content-Type' content='text/html;charset=utf-8'/>
+  <title>NooPolis - the futuristic MicroNation on the InterNet</title>
+  <link href='http://static.mindbroker.de/css/layout_vertical_listnav.css' rel='stylesheet' type='text/css'/>
+  <style type='text/css'>
+  /* (en) Marginal areas & page background */
+  /* (de) Randbereiche & Seitenhintergrund */
+  body { background: #4d87c7 url('images/bg_blue.gif') repeat-x top left fixed; padding: 10px 0; }
+
+  /* Layout Alignment | Layout-Ausrichtung */
+  .page_margins { margin: 0 auto; }
+
+  /* Layout Properties | Layout-Eigenschaften */
+  .page_margins { width: auto;  min-width: 740px; max-width: 90em; background: #fff; }
+  .page { padding: 10px; }
+  #header { padding: 45px 2em 1em 20px; color: #000; background:#edf2f8 url('../../images/bg_header.gif') repeat-x bottom left; }
+  #topnav { color: #aaa; background: transparent; }
+  #nav { overflow:hidden; }
+  div.hlist { background-color: #c8ddf3 }
+  #main { margin: 10px 0; background: #fff; }
+  #teaser { clear:both; padding: 0 20px; margin: 10px 0; }
+  #footer { padding: 10px 20px; color:#666; background: #f9f9f9; border-top: 5px #efefef solid; }
+
+  /* (en) navigation: horizontal adjustment | (de) horizontale Ausrichtung  */
+  #nav ul { margin-left: 20px; }
+
+  /*-------------------------------------------------------------------------*/
+
+  /**
+   * (en) Formatting content container
+   * (de) Formatierung der Inhalts-Container
+   *
+   */
+
+  #col1 { float: left; width: 25%}
+  #col2 { display:none}
+  #col3 { width: auto; margin: 0 0 0 25%}
+  #col1_content { padding: 0 10px 0 20px }
+  #col3_content { padding: 0 20px 0 10px }
+  </style>
+ </head>
+ <body>
+  <div class='page_margins'>
+    <div class='page'>
+      <div id='header'>
+        <div id='topnav'>
+          <!-- start: skip link navigation -->
+          <a class='skip' title='skip link' href='#navigation'>Skip to the navigation</a><span class='hideme'>.</span>
+          <a class='skip' title='skip link' href='#content'>Skip to the content</a><span class='hideme'>.</span>
+          <!-- end: skip link navigation --><a href='#'>Login</a> | <a href='#'>Contact</a> | <a href='#'>Imprint</a>
+        </div>
+      </div>
+      <div id='nav'>
+        <!-- skiplink anchor: navigation -->
+        <a id='navigation' name='navigation'></a>
+        <div class='hlist'>
+          <!-- main navigation: horizontal list -->
+          <ul>
+            <li class='active'><strong>Button 1</strong></li>
+            <li><a href='#'>Button 2</a></li>
+            <li><a href='#'>Button 3</a></li>
+            <li><a href='#'>Button 4</a></li>
+            <li><a href='#'>Button 5</a></li>
+          </ul>
+        </div>
+      </div>
+      <div id='main'>
+        <div id='col1'>
+          <div id='col1_content' class='clearfix'>
+            <!-- add your content here -->
+          </div>
+        </div>
+        <div id='col2'>
+          <div id='col2_content' class='clearfix'>
+            <!-- add your content here -->
+  <h1>Hello " (.getParameter request "param") ".</h1>
+  <p>We will soon be back. Much faster than ever before ;) 
+     For updates follow us on <a href='http://twitter.com/NooPolis'>TwittEr</a>.</p>
+          </div>
+        </div>
+        <div id='col3'>
+          <div id='col3_content' class='clearfix'>
+            <!-- add your content here -->
+          </div>
+          <!-- IE Column Clearing -->
+          <div id='ie_clearing'> &#160; </div>
+        </div>
+      </div>
+      <!-- begin: #footer -->
+      <div id='footer'>Layout based on <a href='http://www.yaml.de/'>YAML</a>
+      </div>
+    </div>
+  </div>
+ </body>
+</html>
+")
+)
+;}}}

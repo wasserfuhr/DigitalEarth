@@ -1,0 +1,3 @@
+* InterWiki: [DeWikiPedia:Industry_Foundation_Classes]
+
+BuildingModel

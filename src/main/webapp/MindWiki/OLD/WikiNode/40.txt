@@ -1,0 +1,28 @@
+Willkommen.\\
+Das __MindWiki__ ist ein Experimentierfeld für VirtuelleOekonomie'n und SocialNetwork der übernächsten Generation.
+
+''Welcome.''\\
+''The MindWiki is an experimentation field for virtual economies and SocialNetwork's of the next forthcoming generation. The working languages in the mind-broker-wiki are German and English.''
+
+!Einstiegspunkte
+''starting points''
+* MindBroker
+* RecentChanges
+
+!wiki-nodes benachbarter wikis
+''wiki-nodes of neighboring wikis''
+* [CommunityWiki:WikiNode], This is a jam-session. We don’t know where we are going.
+* [s23-wiki: WikiNode|http://s23.org/wiki/WikiNode], disorganisierter Geek-Inhalt
+* [ThoughtStorms:WikiNode]
+* [WebSeitz:WikiNode], the publicly-readable WikiLog Thinking Space of BillSeitz.
+* [CoForum von Thomas Kalka|http://coforum.de/index.php?3675] - Themen FreieKooperation, Emanzipation und Selbstentfaltung
+
+
+!das MindWiki in Zentrum-wikis
+''the mind-broker-wiki in center-wikis''
+* [obm-wiki-Nest / eTerra-wiki-de: mind-broker-wiki|http://socialsynergyweb.net/cgi-bin/wiki/ETerraDe/MindBrokerWiki]
+
+!Kommunikation in Echtzeit
+''real-time communication''
+* irc freenode #mindbroker [freenode.net #mindbroker|irc://irc.freenode.net/mindbroker/]
+* collab-editor: gobby, ting.sheep.art.pl:6522, page MindWiki

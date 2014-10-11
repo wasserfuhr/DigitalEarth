@@ -1,0 +1,3 @@
+----
+__Referenced by__\\
+[{ReferringPagesPlugin max=20, maxwidth=50}]

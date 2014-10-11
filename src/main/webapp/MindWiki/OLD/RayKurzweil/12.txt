@@ -1,0 +1,15 @@
+* IsA: SingularityMind UnternehmensGruender
+* InterWiki: [DeWikiPedia:Raymond_Kurzweil] [LangReiter:Ray+Kurzweil] [WebSeitz:RayKurzweil]
+* MindQuote: "The best PerSon I know at PreDict'ing the future of ArtificialIntelligence." - BillGates
+* MindQuote: "I'm not planning to die"
+* MindQuote: "I am aggressively reprogramming my biochemistry"
+* MindQuote: "It will be TheUniverseWakingUp" - TranscendentMan
+* MindQuote: "look at how PreDict'able this is"
+* JahrGang: 1948
+* BirthDay: 02-12
+* PapaZwoNull: FredricKurzweil
+* DbLp http://dblp.uni-trier.de/rec/pid/67/6969
+* MindSkill: InVent
+* PageNumber: InFinite
+
+ViAfBug: http://viaf.org/viaf/62387199 http://viaf.org/viaf/27286496

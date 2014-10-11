@@ -1,0 +1,6 @@
+||Project||Actor||Status||Bug
+|spot|rainer| |Beim Verschicken von Nachrichten oder speichern von Profildaten werde keine Umlaute übernommen
+|spot|daniel| |Bei dem Versuch große Nachrichten (ca. 200 Zeichen) zu verschicken -> 500 "could not insert: [de.mindbroker.spot.ejb.Message]"
+|spot|daniel| |das gleiche bei dem Versuch einen langen "Über Mich" Text zu speichern
+|spot|daniel| |Wenn in das Feld "Geburtsdatum" Buchstaben eingegben werden -> 500 "For input string: "ewf" "
+|spot|daniel| |Bilder werden zum Teil nicht richtig verkleinert

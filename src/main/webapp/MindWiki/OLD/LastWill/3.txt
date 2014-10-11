@@ -1,0 +1,4 @@
+||MindBroker     ||VerMoegen||Heir
+|RainerWasserfuhr|50%       |YvonneSchubert
+|RainerWasserfuhr|25%       |ChristineSchlinck
+|RainerWasserfuhr|25%       |SingInst

@@ -1,0 +1,13 @@
+|20060517     |     |        |SkyDresden  |OpenBc Meeting           |ChristineSchlinck EtAl
+|20060426     |     |        |DuesselDorf |DezentralKomitee         |RainerWasserfuhr,CemBasman,MarioSixtus,StephanUhrenbacher EtAl
+|20050512:2030|     |        |DbbForum    |Pistolen und Eisenbahnen |RainerWasserfuhr,LawrenceLessig
+|20050210:1900|     |        |HotelNewBerlin|BerlinEuropaBlog       |RainerWasserfuhr,YvonneSchubert,LoicLeMeur
+|20040215:1100|     |        |StadtDresden|DresdnerReden            |RainerWasserfuhr,ChristineSchlinck,HansOlafHenkel
+|20030322     |     |        |TechGate    |BlogTalk                 |HaikoHebig,HeikoHebig
+|20010603     |     |        |WikiWikiWeb |first edit               |RainerWasserfuhr
+|20001019:1830|     |        |TuDresden   |GruenderFoyer            |RainerWasserfuhr,YvonneSchubert,BerndKroeplin
+|19991202:1830|     |        |TuDresden   |GruenderFoyer            |RainerWasserfuhr,HassoPlattner
+|1996         |     |        |TuDresden   |SoziologieKongress       |RainerWasserfuhr,NiklasLuhmann
+|19880602     |     |        |CockerWiese |Konzert                  |JoeCocker
+|19870612:1400|     |        |StadtBerlin |Rede                     |RonaldReagan, RichardVonWeizsaecker, HelmutKohl, EberhardDiepgen
+|19690528     |     |        |WipperFuerth|BirthDay                 |RainerWasserfuhr, AgnesWasserfuhr

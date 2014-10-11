@@ -1,0 +1,12 @@
+* MindTags: SingularityMind
+* InterWiki: [AgiriWiki:Ben_Goertzel], [WikiPedia:Ben_Goertzel]
+* JahrGang: 1966
+* BirthDay: 12-08
+* HomePage: http://www.goertzel.org/
+* MindSkill: ArTelligence
+* MindFaves: DeSterrennacht
+||AusLand
+|[TwittEr:bengoertzel]
+
+HotTopics RainerWasserfuhr would talk about with BenGoertzel during a MetaBeer or an IceCream2019:
+DataMap, WikiDrivenDevelopment, SemanticWeb, MapReduce, MindBase, KunstSprache, AiGame, LongBetOne, DigitalTwin, TineTest, DerAugenblick, WorldModel, SteveReed, ChiefSingularityOfficer, RidiculousMan.

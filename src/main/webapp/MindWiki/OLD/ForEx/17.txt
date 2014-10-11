@@ -1,0 +1,52 @@
+On the NooPolis ForeignExchange, KayGroschen can be traded vs EuRo:
+
+The minimum trading unit is 1000 KayGroschen (1 KiloKayGroschen)
+
+OrderBook:
+||CitiZens         ||Qty[2]||Buy[1]||for KiloKayGroschen[1]||Sell[1]||Qty[2]||
+||BuergerInnen     ||Stück||Kauf||für KiloKayGroschen||Verkauf||Stück||
+|RalfLippold       |   |     |     |100.00|1
+|RalfLippold       |   |     |     | 50.00|4
+|RainerWasserfuhr  |   |     |     | 18.00|10
+|RainerWasserfuhr  |   |     |     | 15.00|5
+|RainerWasserfuhr  |   |     |     | 12.00|5
+|YvonneSchubert    |   |     |     | 10.00|10
+|ChristineSchlinck |   |     |     | 10.00|5
+|RainerWasserfuhr  |   |     |     | 10.00|1
+|RainerWasserfuhr  |   |     |     |  9.00|5
+|RainerWasserfuhr  |   |     |     |  8.00|2
+||Last WechselKurs ||  ||    ||10.0||     ||
+|RainerWasserfuhr  |  1| 2.00|     |      |
+|RalfLippold       |  1| 1.00|     |      |
+|ChristineSchlinck |  1| 1.00|     |      |
+* [#1] EuRo
+* [#2] in KiloKayGroschen (1000 KayGroschen)
+
+Legal disclaimer:
+* If you pay or receive EuRo for KayGroschen, you have make sure that this is compliant with
+the taxation laws of your WohnSitz.
+
+We suggest:
+* write a bill to the sender of the EuRo
+* Include a regular tax in your bill
+
+
+!TimesAndSales
+||On          ||EuRo||KayGroschen||EuRo from||To
+|20090506:2125|10|1000|PeterHerbst|RainerWasserfuhr
+|20090506:2000|10|1000|RalfLippold|RainerWasserfuhr
+
+The trading could soon also happen via an auction WebApp under http://bank.mindbroker.de/
+
+!Other currency quotes:
+||on     ||EuRo||UsDollar||RMB||LindenDollar||
+|20090503|    1|     1.33|9.05|    344
+|20080307|    1|     1.53|10.9|    410
+
+Soon:
+* HerrDerSterne-Credits?
+* FriendsForSale-Dollar?
+* WarCraft gold?
+* FaceDollar?
+* XingTaler?
+* QqCoin?

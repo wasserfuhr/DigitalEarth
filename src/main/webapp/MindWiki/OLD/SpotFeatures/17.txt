@@ -1,0 +1,49 @@
+LastImpemented:
+*Anzeige von Clubs, Teams, Freunde eines Users
+*Anzeige von Mitlgieder eines Teams
+*Anzeige von Mitlgieder eines Clubs
+*Anzeige von Freunden eines Users
+*Anzeige der zuletzt registrierten User auf der Startseite
+*neuer "registrieren" Button auf der Startseite
+*Anzeige aller Freunde unter "Meine Freunde"
+*Layout des eigenen Profils und der Profile anderer User
+*neue bessere forms
+*Profil bearbeiten
+*Ansicht Profile
+*Notifier auf indexLoggedIn.jsp wenn eine neue Nachricht vorhanden ist
+*erstellen von teams und clubs
+*Beitreten in teams und clubs
+
+ToBeImplemented:
+*message: "Du bist nicht eingeloggt" && "Auf diese Seite hast du nur Zugriff wenn du eingeloggt bist"
+*Suche von usern, Clubs,Teams
+*Anzeige von Freunden die gerade online sind
+*Anzeige von user die zuletzt auf meinem Profil waren
+*Profile von Clubs
+*Profile von Teams
+*mehrere Admins von Clubs und Teams
+*Photoalben für user, teams und clubs
+*Passwort vergessen
+*Passwort ändern
+*Feedback geben
+
+ToBeDiscussed:
+* Wie soll das Akzeptieren von Kontakten gehandhabt werden?
+** "Xing-Modell": Ein Kontakt wird nur für andere User sichtbar, wenn A anfrägt und B zustimmt. 
+** "flickr": A kann Kontakt von B sein, B muss aber nicht von A.
+*Ich bin für das "Xing-Modell". Zumindest bei normalen Kontakten. Eine Sonderfunktion wäre bei Berühmtheiten sinnvoll! (also dann wenn man sich nur als Fan listen lassen will) 
+* "Kontakt" und "Fan" umbenennen?
+**meinst du in der DB oder für den user sichtbar? Im letzteren Fall würde ich bei "Freund" bleiben. Das ist allgemeiner und sofort verständlich. - daniel
+* Wie soll die Linkstruktur aussehen nachdem man sich eingeloggt hat? Bisher:
+***Start
+***Meine Seite
+****Bild hochladen
+****Profil ändern
+***Meine Termine
+****Neuer Termin
+***Meine Freunde
+***Postfach
+***Vereine
+****Neuer Verein
+**Hier fehlen noch einige Funktionen. Diese sind natürlich nicht zu vergessen.
+**Ziel soll sein, dem User eine möglichst einfache Übersicht über seine Funktionen zu bieten.

@@ -1,0 +1,3 @@
+* IsA: MindProps
+* RdfDomain: MindAgent
+* RdfRange: ♂ ♀ ☿

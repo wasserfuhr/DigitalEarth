@@ -1,0 +1,4 @@
+* IsA: NobelPrizeLaureate
+* InterWiki: [DeWikiPedia:Norman_Borlaug]
+* BirthDay: 03-25
+* MindSkill: WeizenMehl

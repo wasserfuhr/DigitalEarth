@@ -1,0 +1,10 @@
+* IsA: UnLimited
+* MindOne: AlexanderFriedland
+
+|| ||ShareHolder
+|505|AlexanderFriedland
+|99|RainerWasserfuhr
+|99|RalfLippold
+|99|ConstanceWolter
+|99|MarcoDziallas
+|99|SoerenRogoll

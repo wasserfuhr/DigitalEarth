@@ -1,0 +1,38 @@
+%%( padding-left: 400px; font-size:90%)
+[WikiPedia:Mind]:
+[[[az:ذهن]]
+[[[bn:মন]]
+[[[de:Geist]]
+[[[en:Mind]]
+[[[eo:Menso]]
+[[[es:Mente (psicología)]]
+[[[fi:Mieli]]
+[[[fr:Esprit]]
+[[[hr:Um]]
+[[[ia:Mente]]
+[[[it:Mente]]
+[[[ja:心]]
+[[[lt:Protas]]
+[[[nl:Geest]]
+[[[pl:Umysł]]
+[[[pt:Mente]]
+[[[ru:Разум]]
+[[[simple:Mind]]
+[[[sq:Mendja]]
+[[[th:จิตใจ]]
+[[[yi:שכל]]
+[[[zh:心靈]]
+[[[zh-min-nan:Sim]]%%
+
+
+!Willkommen bei MindBroker
+
+* wichtige Projekte:
+** NooPolis, eine virtuelle Republik und VirtuelleOekonomie
+** MindMe, persönliche Wikis
+** DoIt, webbasierte Todo-Listen
+** SportWiki
+* UnsereGeschichte
+* MitWirkende
+ 
+Navigation: PageIndex, RecentChanges.

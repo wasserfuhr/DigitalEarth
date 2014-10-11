@@ -1,0 +1,71 @@
+* IsA: MindEvent
+* WikiLender: 2011-06-23
+* MindPlace: NeuStadt
+
+||Platz|| ||1 ||2||3||4||5||6||7||8
+||Reihe||Preis/Sitzplatz|| || || || || || || ||
+||16|| 1 KayGroschen    |  |  |  |  |  |  |  |  
+||15|| 2 KayGroschen    |  |  |  |  |  |  |  |
+||14|| 4 KayGroschen    |  |  |  |  |  |  |  |
+||13|| 8 KayGroschen    |  |  |  |  |  |  |  |
+||12||  16 KayGroschen  |  |  |  |  |  |  |  |
+||11||  32 KayGroschen  |  |  |  |  |  |  |  |
+||10||  64 KayGroschen  |  |  |  |  |  |  |  |
+||..||    | |
+||3|| 8192 KayGroschen  |  |  |  |  |  |  |  |
+||2||16384 KayGroschen  |  |  |  |  |  |  |  |
+||1||32768 KayGroschen  |  |  |  |  |  |  |  |
+
+
+!1. Akt
+HauptStrasse AnnoDomini2010.
+HeinRich und GretChen sitzen im EiscafeVenezia und schlürfen BrasilBecher.
+* HeinRich: Du denkst also, dass Du nichts Neues schaffst?
+* GretChen: Kunst ist beobachten. Es ist wie mit einer Lupe.
+* HeinRich: Schau nur, da ist der SchraegVogel.
+Vom BlockHaus her kommt ein langhaariger Kauz in gelbem Pullover
+* GretChen: Der SchraegVogel?
+* SchraegVogel: Immer wenn ich was zu dem Thema sage, fange ich bei MooresLaw an!
+* GretChen: MooresLaw- hihi - das kenn ich ;)
+* HeinRich: genau das Richtige für SiliconSaxony ;)
+* GretChen: ... nun ja, aber StandortMarketing aus dem Munde eines SchraegVogel?
+* HeinRich: Es hat ausserdem noch eine gewisse pikant Beinote.
+* GretChen: Pikant?
+* HeinRich: Seine Worte sind ein Zitat...
+* GretChen: Ich kenne sie nicht.
+* HeinRich: Es sind ... meine Worte...
+* GretChen: Von Dir?
+* HeinRich: Ja, ich sass hier, etwa AnnoDomini2006, mit einem Freund, MartinRoell, und ass einen EisBecher. Er hatte seine Videokamera mit und mich aufgenommen. Danach hatte ich es bei YouTube hochgeladen. Ich sage exakt diese Worte.
+* GretChen: 
+
+
+
+
+
+!Die EnErgie der ZuKunft
+
+RainerWasserfuhr inszeniert »AMidsummerDaysDream« im SingularTheater
+
+Am 23. Juni feiert die Uraufführung des mit dem PieschenerBuchpreis
+ausgezeichneten ZukunftsRomans »NooSphere« von RainerWasserfuhr
+im OrpheumDresden Premiere. Das tausendvierundzwanzigseitige
+Buch beschreibt die letzten Jahre der BundesRepublik, die
+Handlung ist zum grossen Teil in der StadtDresden angesiedelt.
+Im Zentrum des ZukunftsRoman's steht der Alltag der
+der Künstlerfamilie MorgenStern. Deren Sohn Elias begeht
+während seiner Schulzeit den Fehler, das pädagogische
+System öffentlich zu kritisieren. Der TransHuman'istisch gebildete,
+junge GameDeveloper landet darauf im Militärgefängnis.
+PieschenerAllgemeine Autorin CorneliaWalter sprach mit
+TheaterDirektor RainerWasserfuhr.
+
+Herr RainerWasserfuhr, sie erlebten die letzten 15 Jahre der
+DePublik im Dresdner StaatsSchauspiel, gingen dann nach KaisersLautern
+und waren 16 Jahre in der StadtDresden: Wie fühlt sich das für Sie
+an, nach 20 Jahren ein Stück zu inszenieren, das die Dresdner
+PreSingular-Zeit thematisiert? Nun, einerseits hat man eine große
+Nähe zum Thema und andererseits versucht man zu überprüfen, ob die
+subjektive Brille, durch die man geschaut hat, übereinstimmt mit
+der Brille des Autors dieses Romans. Ich habe sehr grosse Lust
+den Stoff zu inszenieren, weil ich ihn in seiner Grundtendenz für
+sehr positiv halte und es nicht nur eine Dresdner Geschichte ist.

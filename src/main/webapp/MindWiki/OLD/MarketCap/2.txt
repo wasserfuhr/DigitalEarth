@@ -1,0 +1,9 @@
+SchaetzQual von RainerWasserfuhr:
+* 10.000.000 KayGroschen = 500.000 EuRo
+* 200 KayGroschen = 10 EuRo
+* 100 KayGroschen = 5 EuRo
+* 1 KayGroschen = 5 EuroCent
+
+MarketCap der LockSchuppenAg after a ScenarioPlanning: 130.000 EuRo
+
+1 LockSchuppenAg share = 130 EuRo = 2600 KayGroschen

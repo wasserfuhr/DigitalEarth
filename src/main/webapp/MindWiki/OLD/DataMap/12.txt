@@ -1,0 +1,44 @@
+Available data for creating a DigitalTwin of RainerWasserfuhr:
+
+RePort: Public data:
+* MindWiki (>6441pages, >~3000 MindProps)
+* DelIcioUs (>14292 bookmarks, >5032 tags)
+* TwittEr (>4132 tweets, >443 followers, >214 followings)
+* BlogLines (>472 feeds)
+* FlickEr (~300 uploads)
+* SeesMic (>171 EpIsOde's, each ~2-10 min)
+
+Only partially public:
+* E-Mail-InBox (~30.000 mails)
+* XingLe (>686 FirstDegree contacts, 172.150 SecondDegree, 2.236.594 ThirdDegree, 2.490 in-Messages, 1.291 out-Messages, 2.823 bookmarked contacts)
+* FaceBook (166 friends)
+* LinkedIn (84 connections)
+* Log files of SkyPe (168 contacts) and ICQ
+* SearchHistory (> 18200)
+* FireFox history from PlacesSqlite
+
+Many of these data sets are already ConNect'ed via CamelCase-MindTags.
+
+This data will be linked with generic public sources:
+* DbLp
+* DbPedia
+* FreeBase
+* FreeRisk
+* OpenCyc
+* OpenStreetMap
+* WikiPedia
+* WordNet
+
+The data of the DataMap will be stored in the MindBase.
+
+Candidates who have declared their interest:
+* ChristineSchlinck (TineTest)
+* ChristianHeller (PlomBot)
+
+Maybe additional Candidates?:
+* MartinRoell (MartinTest)
+* SiggiBecker?
+* OliverGassner?
+* AndreasStuhlmueller?
+* ChristianLangreiter?
+* BillSeitz?

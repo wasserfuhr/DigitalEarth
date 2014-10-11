@@ -1,0 +1,3 @@
+* MindTags: FutureCard
+* CardOwner: *reserved*
+* UnTil: 2055

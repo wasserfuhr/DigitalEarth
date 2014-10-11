@@ -1,0 +1,10 @@
+highly recommended for GettingThingsDone: The Verb-Thing-Pattern:
+
+__not__:
+* "WikiTchen cleaning"
+__but__:
+* "clean WikiTchen"
+
+because this is much more auto-suggestive.
+
+So: New LifePattern: just DoIt.

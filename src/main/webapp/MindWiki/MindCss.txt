@@ -1,0 +1,78 @@
+;
+;
+; {{{The default CSS for every MindBroker WebApp.
+
+"
+#nav_main2 {
+	width: 100%;		/* Einfassen der Floats im IE */
+	float:left;         /* Einfassen der Floats in allen anderen Browsern */
+	background: #4e5155;
+	border-top: 1px #666 solid; 
+	line-height: 0px;
+	font-size: 90%;
+	height: 2.2em;
+	overflow:hidden;
+}
+
+#nav_main2 ul {
+	float:left;
+	display:inline;
+	margin:0;
+	padding: 0;
+	margin-left: 21px;
+	border-left: 0px #aaa solid; 
+	border-right: 0px #fff solid;
+	border-bottom: #f00 1px solid;
+}
+
+#nav_main2 ul li {
+	float: left;
+	display:inline;
+	margin: 0;
+	padding: 0;
+	font-size: 1.0em;
+	line-height: 1em;
+	list-style-type: none;
+	border-left: 0px #fff solid;
+	border-right: 0px #aaa solid;
+}
+
+#nav_main2 ul li a {
+	display:block;
+	width: auto;
+	font-size: 1em;
+	font-weight: normal;
+	background: transparent;
+	text-decoration: none;
+	color: #aaa;
+	margin: 0;
+	padding: .6em 0.8em;
+}
+
+#nav_main2 ul li a:focus,
+#nav_main2 ul li a:hover,
+#nav_main2 ul li a:active {
+	color: #fff;
+	text-decoration: none;
+}
+
+a.editpage               { color: #FF0000; text-decoration: none;
+ 	                         border-bottom: 1px dashed red; }
+
+#nav_main2 ul li#current2 { 
+	background: #4e5155 no-repeat bottom center; 
+}
+
+#nav_main2 ul li#current2 a,
+#nav_main2 ul li#current2 a:focus,
+#nav_main2 ul li#current2 a:hover,
+#nav_main2 ul li#current2 a:active {
+	color: #fff;
+	font-weight: bold;
+	background: transparent;
+	text-decoration: none;
+}
+
+"
+
+;}}}

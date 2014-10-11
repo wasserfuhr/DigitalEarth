@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Schlesischer_Platz]
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.065042&lon=13.741436&zoom=18&layers=B000FTTT ToDo

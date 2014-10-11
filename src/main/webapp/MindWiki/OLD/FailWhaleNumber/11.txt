@@ -1,0 +1,46 @@
+The FailWhaleNumber is a little DegreesOfSeparation game similar to the ErdosNumber, BaconNumber or TurkNumber:
+
+Find your DegreesOfSeparation from JackDorsey:
+
+The FailWhale number is defined as follows:
+* JackDorsey, CEO and MindOne of TwittEr has FailWhaleNumber 0
+* the __first 36 followings__ of JackDorsey have FailWhaleNumber 1 (TwittEr shows exactly the 36 first followings on a profile page)
+* the __first 36 followings__ of somebody with FailWhaleNumber 1 have FailWhaleNumber 2
+* etc etc.
+
+!RainerWasserfuhr: FailWhaleNumber=8
+* 0: http://twitter.com/jack (follows 379)
+* 1: http://twitter.com/tonystubblebine (166)
+* 2: http://twitter.com/laughingsquid (2131)
+* 3: http://twitter.com/MaryHodder (450)
+* 4: http://twitter.com/OrenMichels (116)
+* 5: http://twitter.com/loic (450)
+* 6: http://twitter.com/stoweboyd (739)
+* 7: http://twitter.com/planspark (714)
+* 8: http://twitter.com/rainer (215)
+
+!!Old FailWailNumber's based on 100 followings
+
+!RainerWasserfuhr: FailWhaleNumber=3
+* 0: http://twitter.com/jack (follows 422)
+* 1: http://twitter.com/laughingsquid (1,532)
+* 2: http://twitter.com/planspark (484)
+* 3: http://twitter.com/rainer (166)
+
+alternative paths:
+* 0: http://twitter.com/jack (follows 422)
+* 1: http://twitter.com/om (928)
+* 2: http://twitter.com/kencamp (91)
+* 3: http://twitter.com/cervus (81)
+* 4: http://twitter.com/rainer (166)
+ 
+* 0: http://twitter.com/jack (follows 422)
+* 1: http://twitter.com/ev (695)
+* 2: http://twitter.com/jerrymichalski (359)
+* 3: http://twitter.com/heiko (512)
+* 4: http://twitter.com/rainer (166)
+
+* 0: http://twitter.com/jack (follows 422)
+* 1: http://twitter.com/Scobleizer (21,044) FAIL: RobertScoble is not among the 100 first friends of JackDorsey
+* 2: http://twitter.com/colinschlueter (791)
+* 3: http://twitter.com/rainer (166)

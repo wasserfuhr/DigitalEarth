@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0738
+* LaengenGrad: 13.7299
+* BoundingBox: 25
+* http://www.goyellow.de/map/dresden/gehestr+21
+* http://geo.mindbroker.de/postalcode/de/01127

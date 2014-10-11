@@ -1,0 +1,12 @@
+* UnTil: 2020
+
+Vorüberlegungen für ein futuristisches Gadget:
+
+Eine Synthese aus MindEyes und BrainComputerInterface.
+
+Der MindReader:
+* liest alle Texte, Wörter und Gesichter, die auf die Retina eines MiNd's treffen
+* liest per GoogleMind den WortSchatz und die FaceBase des MiNd's aus und 
+* matcht die gefundenen Ergebnisse
+
+Der MindReader TransForm'iert die Welt-Wahrnehmung. Vollständig. RadiKal.

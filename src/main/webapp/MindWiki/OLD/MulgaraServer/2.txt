@@ -1,0 +1,17 @@
+* HomePage: http://mulgara.org/
+
+MindBase SparQl
+
+{{{
+alias <http://mindbroker.de/wiki/> as mind;
+
+insert <mind:RainerWasserfuhr> <mind:JahrGang> '1969' into <http://mindbroker.de/>;
+
+alias <http://mindbroker.de/wiki/> as mind;
+alias <http://www.w3.org/2001/XMLSchema#> as xsd;
+
+insert <mind:RainerWasserfuhr> <mind:JahrGang> '1969'^^<xsd:int> into <http://mindbroker.de/>;
+
+load <file:/Users/rainer/mind.n3> into <http://mindbroker.de/>
+select * {?a ?b ?c)
+}}}

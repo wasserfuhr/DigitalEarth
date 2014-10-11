@@ -1,0 +1,70 @@
+* MindTags: MindEvent
+* PieschenTv: http://seesmic.com/video/prwj35gbnM
+
+Inspired by http://www.siggibecker.de/blog/archives/2007/09/wie-vernagelt-ist-die-deutsche-web-20-gemeinde/:
+
+A MindEvent for SingularityMind's and CitiZens of NooPolis.
+
+Termin: ab 20081025
+
+Ort: Das WirkZentrum in der StadtDresden (als Schaltzentrale) und im ganzen InterNet.
+
+Anders als BarCamp's sollen Ergebnisse auf __einen__ Punkt hin fokussiert werden: die __FutureMap__.
+
+Anders als ein __BarCamp__ oder andere MindEvent's ist das SingularCamp eine reines __TelePresence__-Event, parallel und ergänzend zu SingularitySummit. Alle Sessions werden aufgezeichnet und archiviert bei PieschenTv:
+
+!Sessions:
+
+Welcome message: RainerWasserfuhr: http://seesmic.com/video/prwj35gbnM
+
+||Topic      ||PieschenTv                         ||by||Attended by    ||Feedback
+|             |                                   |                   | |
+||KissOlogy   |http://seesmic.com/video/k5EOkUth3r|RainerWasserfuhr   |
+||SeaNation   |http://seesmic.com/video/UWFBfW1mfF|RainerWasserfuhr   |
+|             |                                   |                   |YvonneSchubert|??
+||NooPolis    |http://seesmic.com/video/wZrS968oWr|
+
+Themen/Leitfragen:
+* Was ist eigentlich Web 7.0?
+* [Ob|LebensErwartung] und wie werden wir leben im TwentyFirstCentury?
+* Was steht wo auf der FutureMap?
+* BarCampMan
+* WasSchaetztDu
+* FutureMap
+* VirtuelleOekonomie
+* NewEconomy
+* MindFutures
+* ArTelligence
+* AiGame
+* ShockLevel
+* QuantPuter
+* UpLoad
+* RepRap
+* SynBio
+* BlueMind
+* SimulationArgument
+
+Gastgeber:
+* RainerWasserfuhr
+
+Ideen für Teilnehmer:
+* ChristianHeller
+* MartinRoell
+* TimBruysten
+* ChristineSchlinck
+* SiggiBecker
+* YvonneSchubert
+* JanBoehme
+* SebastianMitter
+* MarioSixtus
+* AndreasStuhlmueller
+* TimBonnemann
+* DanielPoodratchi
+
+Virtuelle Verpflegung (beim CandleWebDinner)
+* NanoSpinat
+* MetaBeer
+
+Sponsoren:
+* MindBrokerKg?
+* TuDresden?

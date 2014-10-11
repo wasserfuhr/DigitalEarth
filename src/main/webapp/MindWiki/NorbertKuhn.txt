@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/33/6175
+* HomePage: http://www.umwelt-campus.de/~n.kuhn/
+* CoAuthor: IsabelJohn
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge JoergMueller NorbertKuhn
+|[XingLe:Norbert_Kuhn]

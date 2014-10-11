@@ -1,0 +1,123 @@
+* InterWiki: [WikiPedia:Read-eval-print_loop], [WikiWikiWeb:ReadEvalPrintLoop]
+
+useful for ReplClj:
+
+!list tables:
+{{{
+(let
+ [hConf (new org.apache.hadoop.hbase.HBaseConfiguration)
+  hBase (new org.apache.hadoop.hbase.client.HBaseAdmin hConf)
+  logTableDesc (new org.apache.hadoop.hbase.HTableDescriptor "ChatLog") ]
+  (apply str
+   (map
+    (fn [x]
+     (str
+        (.getNameAsString x) " - " ))
+       (.listTables hBase))
+    )
+  )
+)
+}}}
+
+!create table:
+{{{
+(let
+ [hConf (new org.apache.hadoop.hbase.HBaseConfiguration)
+  hBase (new org.apache.hadoop.hbase.client.HBaseAdmin hConf)
+  newTableDesc (new org.apache.hadoop.hbase.HTableDescriptor "MindId")]
+ (do
+  (.addFamily
+   newTableDesc
+   (new org.apache.hadoop.hbase.HColumnDescriptor "id:"))
+  (.createTable hBase newTableDesc)))
+}}}
+
+!scan rows
+{{{
+(let 
+ [hConf (new org.apache.hadoop.hbase.HBaseConfiguration)
+  hTable (new org.apache.hadoop.hbase.client.HTable hConf "EventLog")]
+ ((defn scanRow [zz]
+   (let
+    [next (.next zz)]
+    (if next
+     (str
+      "<li>"
+        (org.apache.hadoop.hbase.util.Base64/encodeBytes
+          (.getRow next)) ": "
+        (apply str
+         (map
+          (fn [x]
+            (str
+              "<br/>" (new String x) ": "
+              (new String (.getValue (.get next x))) ))
+         (.keySet next))) 
+      "</li>"
+      (scanRow zz))))
+     )
+      (.getScanner hTable (into-array ["log:"]))
+     )))
+}}}
+
+!scan rows for specific columns:
+{{{
+(let 
+ [hConf (new org.apache.hadoop.hbase.HBaseConfiguration)
+  hTable (new org.apache.hadoop.hbase.client.HTable hConf "MindId")]
+ ((defn scanRow [zz]
+   (let
+    [next (.next zz)]
+    (if next
+     (str
+      "<li>" 
+        (org.apache.hadoop.hbase.util.Bytes/toLong (.getRow next)) ": "
+        (new String (.getValue (.get next "id:WikiHomePage")))
+      "</li>"
+      (scanRow zz))))
+     )
+      (.getScanner hTable (into-array ["id:"]))
+     )))
+}}}
+
+
+!add row
+{{{
+(let
+ [hConf (new org.apache.hadoop.hbase.HBaseConfiguration)
+  hTable (new org.apache.hadoop.hbase.client.HTable hConf "MindId")
+  batch
+   (new org.apache.hadoop.hbase.io.BatchUpdate 
+    (org.apache.hadoop.hbase.util.Bytes/toBytes (long 1))]
+     (do
+       (.put batch
+           "id:WikiHomePage"
+            (.getBytes "RainerWasserfuhr"))
+       (.commit hTable batch))))
+}}}
+
+
+{{{
+       (if
+         (.getParameter request "text")
+         (let
+             [batch
+               (new org.apache.hadoop.hbase.io.BatchUpdate 
+               (.toString (- (Long/MAX_VALUE) (.getTime (new java.util.Date)))))]
+             (do
+               (.put batch
+                "log:date"
+                 (.getBytes (.getParameter request "text")))
+               (.put batch
+                "log:session"
+                 (.getBytes (.getId (.getSession request))))
+               (.put batch
+                "log:user"
+                 (.getBytes 
+                     (if (.equals "FFC9D312FEE1A39576255B084E53DEBF"
+                           (.getId (.getSession request)))
+                       "RainerWasserfuhr"
+                       (.getRemoteHost request))))
+               (.commit
+                 (new org.apache.hadoop.hbase.client.HTable hConf "ChatLog")
+                 batch)))
+}}}

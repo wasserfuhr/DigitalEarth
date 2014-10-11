@@ -1,0 +1,2 @@
+* InterWiki: [WikiPedia:Proust_Questionnaire]
+* NamedAfter: MarcelProust

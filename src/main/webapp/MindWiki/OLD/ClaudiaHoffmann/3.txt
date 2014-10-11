@@ -1,0 +1,3 @@
+* IsA: PerSon
+* HasTalked: HeidiGallinat RainerWasserfuhr RoswithaHunold
+|[XingLe:Claudia_Hoffmann30]

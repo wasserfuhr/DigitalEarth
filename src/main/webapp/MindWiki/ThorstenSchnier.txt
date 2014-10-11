@@ -1,0 +1,3 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/91/5058
+* HomePage: http://www.cs.bham.ac.uk/~txs/

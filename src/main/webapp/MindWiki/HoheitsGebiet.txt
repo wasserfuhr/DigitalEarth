@@ -1,0 +1,5 @@
+* InterWiki: [DeWikiPedia:Staatsgebiet]
+
+Der Schauplatz der staatlichen Herrschaft. Der territoriale Bereich, in dem sich die FreiHeit der BuergerInnen entfaltet:
+
+Im Kern vorerst das MindWiki, dessen kompletter Inhalt allen BuergerInnen jederzeit per SocialBackup zum Download zur Verfügung steht und um das herum weitere WebApp's von MindBroker und anderen UnterNehmen entwickelt werden können.

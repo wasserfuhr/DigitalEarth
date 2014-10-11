@@ -1,0 +1,8 @@
+* InterWiki: [DeWikiPedia:Wechselkurs]
+
+Der WechselKurs gibt an, in welchem Verhältnis KayGroschen in EuRo und andere Währungen im AusLand getauscht werden können.
+
+An der ForEx können BuergerInnen von NooPolis KayGroschen auf ihrem BankKonto zum Kauf oder VerKauf anbieten.
+Der TransFer erfolgt dabei PeerToPeer. Die PieschenBank fungiert lediglich als WikiBasiert'er MindBroker.
+
+Ein WechselKurs kann einen ZyKlus haben.

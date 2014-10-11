@@ -1,0 +1,9 @@
+* InterWiki: [DeWikiPedia:SLUB_Dresden]
+* HomePage: http://www.slub-dresden.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/264769245 ToDo
+* MindOne: ThomasBuerger
+
+TotHolz MindBib StadtDresden
+[TwittEr:slubdresden]
+
+RainerWasserfuhr: 4160762@slub-dresden.de

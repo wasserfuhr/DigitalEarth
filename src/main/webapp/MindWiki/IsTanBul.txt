@@ -1,0 +1,7 @@
+* HerKunft: [WikiPedia:Istanbul]'from the Greek phrase "εις την Πόλιν" or "στην Πόλη" (i)stimboli(n), both meaning "in the city" or "to the city'
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Istanbul]
+* BreitenGrad: 40.98
+* LaengenGrad: 29.00
+* BoundingBox: 70000
+* MindCount: 10000000

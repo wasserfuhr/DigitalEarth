@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* BirthDay: 07-19
+* HomePage: http://www.uni-konstanz.de/knorrcetina/

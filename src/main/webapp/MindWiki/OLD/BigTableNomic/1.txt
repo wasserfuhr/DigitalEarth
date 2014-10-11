@@ -1,0 +1,33 @@
+The NoOs has a BootStrap WebApp called »NooBootStrap« at
+  http://noobootstrap.appspot.com/
+Other WebApp's based on NoOs can call NooBootStrap via HtTp download their initial
+version.
+
+NoOs is very similar to a WiKi, but the PageContent is not static text,
+but dynamically excutable fragments of 
+SourceCode. Currently NoOs supports SourceCode for 
+* CloJure
+
+NoOs wants to help create an ecosystem for programmers, web designers
+and users
+
+* Identity
+* Currency
+* SemanticWeb
+
+key purpose of NoOs is to play the AiGame to ArtificialGeneralIntelligence
+
+You define one or more AvaTar.
+
+SingularTheater
+
+Scenes
+
+
+
+
+In the future NoOs wants to support:
+* JavaScript
+* jRuby
+* Jython
+* PHP

@@ -1,0 +1,25 @@
+später als WebApp für http://kodex.mindbroker.de:
+* MindBroker ist ein Unternehmen auf dem Staatsgebiet von NooPolis.
+* MindBroker ist ein Unternehmen nach dem LeaderShip-Modell des BenevolentDictator.
+* BenevolentDictator von MindBroker ist RainerWasserfuhr.
+* NooPolis ist eine Demokratie mit dem LeaderShip-Modell des PrimusInterPares.
+* Die Bürger von NooPolis haben FreeDom.
+* MindBroker ist der E-Government-ServiceProvider von NooPolis.
+* PrimusInterPares von NooPolis ist RainerWasserfuhr.
+* Die Währung von NooPolis sind KayGroschen.
+* Die PieschenBank hütet die Währung von NooPolis.
+* Jeder Bürger von NooPolis hat genau eine MindId.
+* ungerade ID= männlich
+* gerade ID=weiblich
+* Sobald NooPolis mehr als 3,3 Mrd männliche Bürger hat, dürfen auch die vernunftbegabten RestFrauen Bürger werden ;).
+* CodeIsLaw: Die Regeln von MindBroker ergeben sich aus dem VerTrag und dem SourceCode.
+* Auf Anfrage können die SourceCode-Committer ihn erläutern. 
+* FixBugsFirst: UnsereBugs.
+* Mit Ausnahme von [Mind] ist jeder PageName im AgWiki CamelCase
+* Halte ProjektDokumentation so kurz und knapp wie möglich, [WikiWikiWeb:TheSourceCodeIsTheSpecification] ABER:
+* schreibe selbsterklärenden SourceCode, der für neue MitWirkende so einfach und schnell wie möglich verstanden werden kann.
+* IMMER bevor Du mit dem Coden anfängst: Mache ein SVN update.
+* Sobald Du einen funktionierenden und getesteten Stand erreicht hat, mache ein Commit.
+* Kündige grössere Änderungen am Code im LockLog an.
+* Mache auf jeden Fall spätestens täglich ein Commit.
+* Alle Bezeichnungen im Sourcecode (Klassen, Packages, Kommentare, jsp-Dateinamen, Servlet-URLs, ...) sollten english sein. Schaue dir einige Teile des schon vorhandenen SourceCode an um ein Gefühl dafür zu bekommen

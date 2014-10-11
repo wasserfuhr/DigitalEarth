@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Helmut_Willke]
+* BornIn: 1945
+* MindSkill: SystemsTheory

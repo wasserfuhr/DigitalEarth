@@ -1,0 +1,7 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Walter_Pitts]
+* JahrGang: 1923
+* BirthDay: 01-23
+* FoafKnows: WarrenMcCulloch
+* LebensEnde: 1969
+* MindSkill: MiNd

@@ -1,0 +1,54 @@
+* InterWiki: [WikiWikiWeb:ThreeLetterAcronym]
+
+im WortSchatz von RainerWasserfuhr sind unter anderem folgende aller 17.576 ThreeLetterAcronym's mit einer BeDeut'ung verknüpft:
+* afk: away from TastaTur
+* afm: away from MindMac, aber MindPhone dabei
+* agi: ArTelligence
+* anh: AlbanNikolaiHerbst
+* ard: StaatsFunk
+* bbl: be back later
+* brd: DeutschLand
+* brn: BunteRepublik
+* btw: by the way
+* css
+* cvs
+* ddr: DdErr
+* dsl: duschen shaven liften
+* etc: EtCetera
+* gef
+* hql
+* htm: JeffHawkins
+* ibm: EiBiEm
+* jsf
+* jsp
+* lol
+* mfg
+* mom: einen Moment bitte
+* nda: NonDisclosureAgreement
+* ooa
+* ood
+* oql
+* owl
+* mdd
+* raf
+* rdf: SemanticWeb
+* rdh
+* sai
+* sap: SapAg
+* soa
+* sql: MindSql
+* ssv
+* ssw
+* svn
+* swt
+* tdd
+* tla: ThreeLetterAcronym
+* tui: TuiLuna
+* usa: UnitedStates
+* vet: voraussichtlicher Entbindungstermin
+* vlt: vielleicht
+* wsv
+* www: WorldWideWeb
+* xml
+* zdf
+

@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/44/441
+
+NorbertFuhr RalphMWeischedel ErhardWHinrichs DaanBroeder PeterWittenburg HamishCunningham StefanMRueger AllanHanbury JeanSerra JesusAngulo MiguelLuengoOroz
+
+SingularityUniversity

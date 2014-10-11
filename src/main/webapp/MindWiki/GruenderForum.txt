@@ -1,0 +1,4 @@
+* IsA: MindEvent
+* FbEvent: http://www.facebook.com/event.php?eid=117832808253919
+
+HolgerJohn RalfLippold RainerWasserfuhr EtAl

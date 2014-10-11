@@ -1,0 +1,9 @@
+* MindTags: SingularityMind
+* InterWiki: [WikiPedia:Anders_Sandberg]
+* JahrGang: 1972
+* BirthDay: 07-11
+* MindSkill: ArTelligence, NoMic, ZuKunft
+* MindBlog: http://www.aleph.se/andart/
+||AusLand
+|[FlickEr:arenamontanus]
+|[TwittEr:anderssandberg]

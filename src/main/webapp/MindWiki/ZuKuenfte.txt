@@ -1,0 +1,20 @@
+* InspiredBy: http://www.slideshare.net/SiggiB/wo-ist-die-zukunft-presentation
+
+ZuKunft ist ComPlex:
+* MoegLich'e ZuKuenfte
+* Denkbare ZuKuenfte
+* WahrSchein'liche ZuKuenfte
+* WuenschBar'e ZuKuenfte
+* GePlant'e ZuKuenfte: WikiLender, LebensEntwurf, RoadMap
+* VerGangen'e ZuKuenfte
+* GegenWart
+
+||Teilmenge von||MoegLich||DenkBar ||WahrSchein||WuenschBar||GePlant||VerGangen
+||MoegLich     |x        |-        |-          |-          |-       |?
+||DenkBar      |x 1)     |x        |-          |-          |-       |?
+||WahrSchein   |x        |-        |x          |?          |-       |?
+||WuenschBar   |-        |-        |-          |x          |-       |?
+||GePlant      |-        |-        |?          |?          |x       |?
+||VerGangen    |-        |-        |-          |-          |-       |x
+
+* 1) unter der Prämisse einer fehlerfreien VerNunft

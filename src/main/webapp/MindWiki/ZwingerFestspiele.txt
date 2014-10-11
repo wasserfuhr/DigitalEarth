@@ -1,0 +1,5 @@
+* IsA: EventSeries
+* MindPlace: DresdenZwinger
+* HomePage: http://www.zwinger-festspiele.de/
+
+DieterWedel

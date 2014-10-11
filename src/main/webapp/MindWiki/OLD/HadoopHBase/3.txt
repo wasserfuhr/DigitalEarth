@@ -1,0 +1,6 @@
+http://hadoop.apache.org/hbase/
+
+DomainModel:
+Table, Column, Row, Cell
+
+used by PowerSet

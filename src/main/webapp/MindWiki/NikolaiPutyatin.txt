@@ -1,0 +1,3 @@
+* IsA: PerSon
+* BirthDay: 05-16
+* InterWiki: [DeWikiPedia:Nikolai_Abramowitsch_Putjatin]

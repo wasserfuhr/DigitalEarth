@@ -1,0 +1,10 @@
+* SloGan: Meet your Sitznachbar!
+
+ein WikiBasiert'es SocialNetwork für die DeutschBahn:
+
+||Datum  ||Zug  ||From      ||To          ||Wagon||Platz||MiNd||TwittEr
+|2010-03-30|ICE 1614|StadtLeipzig|StadtBerlin| | |BeautiFul|
+|2010-01-14|RE17456|StadtDresden   |StadtLeipzig| | |RalfLippold |http://twitter.com/LockSchuppen/statuses/7715055533
+|2009-09-12|ICE1556|StadtDresden   |StadtMainz|24|68|RalfLippold|
+|2009-03-30|IC 79652|StadtDresden  |StadtLeipzig|wo Platz|offen|RalfLippold|RalfLippold
+|2008-04-28|IC2391|DarmStadt       |StadtMuenchen|10|56|VolkerWeber|http://twitter.com/vowe/statuses/798608358

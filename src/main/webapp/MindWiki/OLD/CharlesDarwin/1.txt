@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Charles_Darwin]
+* JahrGang: 1809
+* BirthDay: 02-12
+* LebensEnde: 1882
+* HasVisited: DarwinIsland

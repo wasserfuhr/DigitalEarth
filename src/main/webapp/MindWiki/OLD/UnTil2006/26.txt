@@ -1,0 +1,39 @@
+||When        ||UnTil||      ||MindPlace  ||What                    ||MindPeople
+|20060517     |     |        |SkyDresden  |OpenBc Meeting           |ChristineSchlinck, MartinRoell EtAl
+|20060426     |     |        |DuesselDorf |DezentralKomitee         |RainerWasserfuhr, CemBasman, MarioSixtus, StephanUhrenbacher EtAl
+|20051130:1800|     |        |SapLabs     |VorTrag                  |MarkFinnern, RainerWasserfuhr, KennitaWatson EtAl
+|20050512:2030|     |        |DbbForum    |Pistolen und Eisenbahnen |LawrenceLessig, RainerWasserfuhr
+|20050210:1900|     |        |HotelNewBerlin|BerlinEuropaBlog       |RainerWasserfuhr, YvonneSchubert,LoicLeMeur
+|20041119:1800|     |        |SapLabs     |VorTrag                  |DougEngelbart, MarkFinnern, KennitaWatson EtAl
+|20040215:1100|     |        |StadtDresden|DresdnerReden            |HansOlafHenkel,RainerWasserfuhr,ChristineSchlinck
+|20031227     |     |        |DeutschLand |first DelIcioUs BookMark |RainerWasserfuhr
+|20030322     |     |        |TechGate    |BlogTalk                 |HaikoHebig, HeikoHebig
+|20020824     |     |        |Hof         |first StromSchnellen edit via MDA|RainerWasserfuhr
+|20011111:1111|     |        |AlterMarkt  |AlAaf                    |RainerWasserfuhr, ChristineSchlinck, ManuelaAmann
+|20010603     |     |        |WikiWikiWeb |first edit               |RainerWasserfuhr
+|20001019:1830|     |        |TuDresden   |GruenderFoyer            |RainerWasserfuhr, YvonneSchubert, BerndKroeplin
+|20000401     |     |        |StanFord    |Spiritual RobOt's Symposium|BillJoy, RayKurzweil, RalphMerkle EtAl
+|19991202:1830|     |        |TuDresden   |GruenderFoyer            |RainerWasserfuhr, HassoPlattner
+|19980816:0230|     |        |DeutschLand |EinHorn                  |RainerWasserfuhr
+|19990516:0230|     |        |StadtDresden|Konzert                  |DieterBohlen, ThomasAnders RainerWasserfuhr, SD EtAl
+|19970511     |     |        |NewYork     |WettBewerb               |GarryKasparov, DeepBlue
+|199610       |     |        |TuDresden   |SoziologieKongress       |NiklasLuhmann, RainerWasserfuhr
+|19950325     |     |        |PlanetErde  |WikiWikiWeb              |WardCunningham
+|1989         |     |        |DdErr       |DieWende                 |YvonneSchubert EtAl
+|19881221     |     |        |LockerBie   |Crash                    |
+|19880602     |     |        |CockerWiese |Konzert                  |JoeCocker
+|19870612:1400|     |        |StadtBerlin |TearDownThisWall         |RonaldReagan, RichardVonWeizsaecker, HelmutKohl, EberhardDiepgen
+|19830926     |     |        |Serpukhov-15|nothing                  |StanislavPetrov
+|19810412     |     |        |KennedySpaceCenter|TakeOff            |JohnYoung, RobertCrippen
+|1978         |     |        |StadtKoeln  |GeldAutomat              |HelmutEwering
+|19690628     |     |        |ChristopherStreet|AufStand            |BuergerInnen
+|19690528     |     |        |StJosefKrankenhaus|GeBurt             |RainerWasserfuhr, AgnesWasserfuhr
+|19681209     |     |        |BrooksHall  |TheMotherOfAllDemos      |DougEngelbart
+|19630828     |     |        |LincolnMemorial|IHaveADream           |MartinLutherKing
+|19630626     |     |        |StadtBerlin |IchBinEinBerliner        |JfKennedy
+|19450909     |     |        |CambridgeMa |UnsereBugs               |GraceHopper
+|19440722     |     |        |BrettonWoods|Konferenz                |JohnMaynardKeynes
+|18940406     |     |        |ShellMan    |GeBurt                   |GertrudeBaines
+|18930910     |     |        |OlivalOurem |GeBurt                   |MariaDeJesus
+|18930420     |     |        |MorganCounty|GeBurt                   |EdnaParker
+|1328         |     |        |WipperFuerth|KayGroschen-Prägung      |

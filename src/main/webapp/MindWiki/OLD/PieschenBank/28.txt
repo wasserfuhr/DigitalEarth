@@ -1,0 +1,20 @@
+* MindQuote: "Was ist der Einbruch in eine Bank gegen die Gründung einer Bank?" - Die DreiGroschenOper, 1928
+* HomePage: http://bank.mindbroker.de/
+
+Die PieschenBank ist eine GlaesernBank und Staatsbank der MicroNation NooPolis, gegründet 2007 im OrtsteilPieschen der StadtDresden.
+
+Kommissarischer Generaldirektor der PieschenBank: RainerWasserfuhr.
+
+Geldmenge laut VerFassung: 10.000.000 KayGroschen.
+
+Die Einnahmen und Ausgaben sind dokumentiert im HausHalt.
+
+Die PieschenBank bietet allen BuergerInnen ein BankKonto und ein Depot mit MindShare's von UnterNehmen in NooPolis.
+
+Die PieschenBank ermöglicht 1-Click-Gründungen für virtuelle StartUp's:
+Mit Eintragung im HandelsRegister wird den Gründern eine in NooPolis unmittelbar geschäftsfähige RechtsForm bereitgestellt, einschliesslich:
+* VerTrag
+* BankKonto
+* BetriebsWiki
+* BluePrint für das GeschaeftsModell
+* LeistungsKonto

@@ -1,0 +1,2 @@
+Das MindBroker Logo dynamisch: Ein mondrianartige Anordnung von bunten Quadraten (wie auf der CSS-MindMap), wobei jede Farbe für genau ein BankKonto steht und die Größe proportional zum Kontostand ist.
+Die Anordnung der Quadrate ist ein NP-vollständiges Optimierungsproblem, das auf der QuantumJvm berechnet wird.

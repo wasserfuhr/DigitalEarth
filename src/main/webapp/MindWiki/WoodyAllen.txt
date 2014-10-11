@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Woody_Allen], [OpenCyc:WoodyAllen]
+* JahrGang: 1935
+* BirthDay: 12-01
+* MindSkill: PreTender, RealFilm

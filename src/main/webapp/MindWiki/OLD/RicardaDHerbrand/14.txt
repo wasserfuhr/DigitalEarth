@@ -1,0 +1,8 @@
+* InvitedBy: RainerWasserfuhr
+* TrustLevel: 1
+* WohnSitz: HamBurg
+* MindRole: ChiefSalsaOfficer
+||AusLand
+|[WorldWideWeb:www.worteinheiten.de]
+|[XingLe:RicardaD_Herbrand]
+|[DoppLr:RDH]

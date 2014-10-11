@@ -1,0 +1,8 @@
+* MindTags: FutureCard, CrowdWisdom
+* PreDict: Ab wann wird es dauerhaft mindestens 8 mit WebCam und InterNet ausgestattete Drohnen oder Zeppeline über dem Luftraum der StadtDresden geben?
+
+||MindBroker      ||Jahr||ConFidence
+|HeikeRibke       |2011 |40%
+|BastiHirsch      |2011 |50%
+|RainerWasserfuhr |2012 |60%
+|ChristineSchlinck|2020 |100%

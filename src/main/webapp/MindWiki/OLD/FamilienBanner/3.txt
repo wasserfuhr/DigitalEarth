@@ -1,0 +1,6 @@
+
+||FamilienfreundBanner    ||WerbeOrt        ||Größe      ||Homepage      ||Dauer     ||verfügbar ||kaufen
+|SkyScraper     |StartSeite       | 120 x 600  |familienFreunde| 1 Monat   | 3         |MindShop
+|HalfBanner     |StartSeite       | 234 x 60   |familienKatalog| 1 Monat   | 5         |MindShop
+|HalfBanner     |Liste Angebote   | 234 x 60   |familienKatalog| 1 Monat   | 5         |MindShop
+|HalfBanner     |Detailseite      | 234 x 60   |familienKatalog| 1 Monat   | 5         |MindShop

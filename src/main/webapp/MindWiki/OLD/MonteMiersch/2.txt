@@ -1,0 +1,5 @@
+* WohnSitz: LueneBurg
+
+||AusLand
+|[XingLe:MonteA_Miersch]
+|[WorldWideWeb:www.miersch.info]

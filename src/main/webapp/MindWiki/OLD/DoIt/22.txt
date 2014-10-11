@@ -1,0 +1,43 @@
+Alpha: http://doit.mindbroker.de/
+
+svn://svn.mindbroker.de/opensource/de.mindbroker.doit
+
+||Actor          ||Phase   ||Project    || %||do       ||it
+|RainerWasserfuhr|AlphaTest|DoIt        |  0|löse      |Problem zu ContextSort (rede mit Daniel darüber)
+|RainerWasserfuhr|AlphaTest|UnserGrid   |  0|code      |MicroFormat-Status
+|RainerWasserfuhr|AlphaTest|SportPortal |  0|schreibe  |ProjektPlan
+|RainerWasserfuhr|AlphaTest|SportPortal |  0|schreibe  |AlphaTester
+|RainerWasserfuhr|AlphaTest|SportPortal |  0|code      |MindFee
+|RainerWasserfuhr|AlphaTest|SportPortal |  0|code      |Suchfunktion
+|RainerWasserfuhr|AlphaTest|SportPortal |  0|refactore |Messages und Contacts in Mindbroker core
+|RainerWasserfuhr|AlphaTest|SportPortal |  0|erweitere |DB für Userguestbooks, Blogfunktion für Clubs/Teams
+|RainerWasserfuhr|AlphaTest|SportPortal |  0|code      |Funktion für online/offline Status der user
+|RainerWasserfuhr|AlphaTest|SportPortal |  0|finde     |Grafiker für Logo
+|DanielPoodratchi|AlphaTest|DoIt        |  0|integriere|MindLine
+|DanielPoodratchi|AlphaTest|DoIt        |  0|migriere  |Jedes Item dieser Tabelle als DoIt-Item
+|DanielPoodratchi|LIVE     |UnserGrid   |  0|code      |RSS Feed
+|DanielPoodratchi|AlphaTest|DoIt        |  0|integriere|mindbroker.core
+|DanielPoodratchi|AlphaTest|DoIt        |  0|integriere|Seitenwechsel
+|DanielPoodratchi|AlphaTest|DoIt        |  0|erstelle  |die Seite: "Konfiguration" 
+|DanielPoodratchi|AlphaTest|DoIt        |  0|integriere|export Funktion für DoIt zu iCal (ics)
+|DanielPoodratchi|AlphaTest|DoIt        |  0|integriere|Projects
+|DanielPoodratchi|AlphaTest|SportPortal |  0|code      |Tag-Libraries
+|DanielPoodratchi|AlphaTest|SportPortal |  0|code      |Löschoption für Termine, Nachrichten und Spoooortfreunde
+|DanielPoodratchi|AlphaTest|SportPortal |  0|code      |picUpload für Team und Club
+|DanielPoodratchi|AlphaTest|SportPortal |  0|code      |Passwort vergessen
+|DanielPoodratchi|AlphaTest|SportPortal |  0|code      |Passwort ändern
+|DanielPoodratchi|AlphaTest|SportPortal |  0|frage     |Rainer zu reply=true setzen
+|DanielPoodratchi|AlphaTest|SportPortal |  0|frage     |Rainer zu generic Types
+|DanielPoodratchi|AlphaTest|SportPortal |  0|code      |dynamische Zuordnung Teams->Clubs
+|DanielPoodratchi|AlphaTest|SportPortal |  0|code      |Auswahlmöglichkeit der Sportarten
+|DanielPoodratchi|AlphaTest|SportPortal |  0|code      |userGuestbook
+|DanielPoodratchi|AlphaTest|SportPortal |  0|frage     |Rainer zu NullFeldern
+|AndreasWeigel   |AlphaTest|DoIt        |  0|integriere|bessere DetailAnsicht von den ToDos (schon besprochen)
+|AndreasWeigel   |AlphaTest|DoIt        |  0|integriere|DoJo DatePicker
+|AndreasWeigel   |AlphaTest|DoIt        |  0|erstelle  |Haken für dropDownMenüs
+|AndreasWeigel   |AlphaTest|SportPortal |  0|code      |"Sie sind nicht berechtigt..." inkl LoginForm und bigLink zu register.jsp
+|AndreasWeigel   |AlphaTest|SportPortal |  0|code      |Grunddesign-/layout
+|AndreasWeigel   |AlphaTest|SportPortal |  0|optimiere |Layout für alle Browser
+|AndreasWeigel   |AlphaTest|SportPortal |  0|integriere|Forms für Passwort ändern und Passwort vergessen
+|YvonneSchubert  |         |MindBrokerAg|  0|finde     |UnserAdVocat
+|YvonneSchubert  |         |MindBrokerAg|  0|finde     |UnserDesigner

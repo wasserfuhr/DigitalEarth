@@ -1,0 +1,5 @@
+* MindTags: MindThing
+* InterWiki: [DeWikiPedia:Sonne] [OpenCyc:TheSun] [WikiWikiWeb:TheSun]
+* BoundingBox: 1391400000
+
+EnErgie: 370000000000000000000000000 Watt

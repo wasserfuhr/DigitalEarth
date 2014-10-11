@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Rainhard_Fendrich]
+* BornIn: 1955
+* BirthDay: 02-27

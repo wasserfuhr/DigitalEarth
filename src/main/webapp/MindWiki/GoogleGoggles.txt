@@ -1,0 +1,4 @@
+* InterWiki: [WikiPedia:Google_Goggles]
+* HomePage: http://www.google.com/mobile/goggles/
+
+MindEyes from GoogleInc for AnDroid. OpticalCharacterRecognition.

@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:George_Gilder]
+* JahrGang: 1939
+* BirthDay: 11-29
+* MindFaves: DigErati
+* PagePath: ... EstherDyson GeorgeGilder

@@ -1,0 +1,4 @@
+* MindTags: MindThing
+* PartOf: BodyOne
+
+TheQuestion: GeBiss-Schema nach FederationDentaireInternationale oder AdolphZsigmondy oder VictorHaderup oder UnitedStates?

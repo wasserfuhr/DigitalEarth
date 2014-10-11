@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* InterWiki: [DeWikiPedia:Heiligendamm]
+* PartOf: BadDoberan

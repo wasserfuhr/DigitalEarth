@@ -1,0 +1,7 @@
+* IsA: UnternehmensGruender
+* JahrGang: 1969
+* MindSkill: VentureCapital
+* HomePage: http://stephan-uhrenbacher.com/
+|[TwittEr:stephanu]
+|[XingLe:Stephan_Uhrenbacher]
+|[FaceBook:507734200]

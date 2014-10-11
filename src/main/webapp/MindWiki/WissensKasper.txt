@@ -1,0 +1,5 @@
+WissensKasper ist ein Terminus den RainerWasserfuhr gerne verwendet um bestimme AntiPattern in der WikiPedia zu beschreiben:
+# Zu strenge Relevanzkriterien, gepaart mit einem Konservatismus, der zB WebLog's als Quellen ggü OldMedia ausblendet.
+# Zu strenge Kriterien, was den Umgang mit unsicherem, aber WahrSchein'lichem Wissen über die ZuKunft angeht.
+
+Der Terminus ist InSpir'iert durch den BusinessKasper.

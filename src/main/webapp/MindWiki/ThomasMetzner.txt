@@ -1,0 +1,3 @@
+* IsA: PerSon
+* HasTalked: RalfLippold RainerWasserfuhr
+|[XingLe:Thomas_Metzner13]

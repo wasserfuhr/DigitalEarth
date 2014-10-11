@@ -1,0 +1,10 @@
+Hier erfassen bald die Gesellschafter und Lieferanten die für VebMind erbrachte Leistungen 
+und die Modalitäten der AusSchuettung.
+
+Den aktuellen KontoStand zeigen die BuergerKonten.
+
+Einige Details sind noch zu diskutieren.
+
+zB: 
+||wer            ||wann   ||was||EUR||KayGroschen||
+|DanielPoodratchi|20070904|?

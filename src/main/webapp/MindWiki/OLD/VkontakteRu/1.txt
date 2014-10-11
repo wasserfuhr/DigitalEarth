@@ -1,0 +1,4 @@
+* IsA: SocialNetwork
+* InterWiki: [DeWikiPedia:Vkontakte.ru]
+
+RussLand

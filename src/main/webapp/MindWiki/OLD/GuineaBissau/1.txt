@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Guinea-Bissau]
+* MindCount: 1400000
+* BoundingBox: 600

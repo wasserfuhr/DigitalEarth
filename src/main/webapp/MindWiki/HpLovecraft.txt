@@ -1,0 +1,7 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:H._P._Lovecraft], [OpenCyc:HPLovecraft-Author]
+* WohnSitz: StadtProvidence, NewYork
+* JahrGang: 1890
+* BirthDay: 08-20
+* LebensEnde: 1937
+* MindFaves: LordDunsany

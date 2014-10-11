@@ -1,0 +1,17 @@
+* HomePage: http://sss.stanford.edu
+
+Speakers:
+* NickBostrom
+* CoryDoctorow
+* EricDrexler
+* TylerEmerson
+* DouglasRHofstadter
+* SteveJurvetson
+* RayKurzWeil
+* BillMcKibben
+* MaxMore
+* ChristinePeterson
+* JohnSmart
+* PeterThiel
+* SebastianThrun
+* EliezerYudkowsky

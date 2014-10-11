@@ -1,0 +1,4 @@
+* MindTags: MindThing
+* InterWiki: [OpenCyc:DavidsJetta]
+
+OpenCyc MindQuest

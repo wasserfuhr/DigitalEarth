@@ -1,0 +1,11 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.053
+* LaengenGrad: 13.7314
+* BoundingBox: 15
+* MindCount: 5
+* GraDient: 50
+* HomePage: http://www.cafe-today.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/23084604 ToDo
+
+TotalRecall:
+* 20080312:1900: RainerWasserfuhr, JeMand: MindBroker, BlueBrain

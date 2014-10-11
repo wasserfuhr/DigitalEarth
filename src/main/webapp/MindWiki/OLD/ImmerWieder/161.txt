@@ -1,0 +1,30 @@
+"ImmerWieder" ist das WikiBasiert'e Wiedervorlageprinzip unseres MindWiki:
+
+WikiSpec:
+||ImmerWieder||OrderedByShares||last   ||do      ||it
+|Tag     |RainerWasserfuhr|20071223|checke   |UnserGrid-Status für UnsereProjekte
+|Tag     |RainerWasserfuhr|20080106|lese     |daily MindFeeds
+|3 Tage  |RainerWasserfuhr|20080106|mache    |SocialBackup von UnserGrid
+|3 Tage  |RainerWasserfuhr|20071223|gieße    |MindGreen
+|Woche   |RainerWasserfuhr|20071205|reviewe  |ImmerWieder
+|Woche   |RainerWasserfuhr|20071216|reviewe  |DoIt
+|Woche   |RainerWasserfuhr|20071228|reviewe  |WasWyrd
+|Woche   |RainerWasserfuhr|20071216|lese     |weekly MindFeeds
+|Woche   |RainerWasserfuhr|20071127|notiere  |Kontostand
+|Woche   |RainerWasserfuhr|20071127|plane    |CashFlow
+|Woche   |RainerWasserfuhr|20071127|lade     |CashFlow in web.de
+|Woche   |RainerWasserfuhr|20071120|sortiere |TotesHolz-InBox
+|Woche   |RainerWasserfuhr|20071127|lese     |XingLe-Termine
+|Woche   |RainerWasserfuhr|20071223|checke   |FaceBook
+|2 Wochen|RainerWasserfuhr|20071221|bestelle |ReineMachFee
+|Monat   |RainerWasserfuhr|20071206|frage    |nach Portfoliomanager für WarrenBuffett
+|Monat   |RainerWasserfuhr|20071112|downloade|Kontoauszüge NorisBank und PostBank
+|Monat   |RainerWasserfuhr|20071112|mache    |UstVA
+|Monat   |RainerWasserfuhr|20071210|duenge   |MindGreen
+|6 Wochen|RainerWasserfuhr|20071204|besuche  |FriseurGehestr
+|Jahr    |RainerWasserfuhr|20070413|mache    |JahresAbschluss
+|-| | | |
+|Woche   |DanielPoodratchi|20071103|lese     |weekly MindFeeds
+|Monat   |DanielPoodratchi|20071103|reviewe  |UnserBudget
+|Monat   |DanielPoodratchi|20071103|reviewe  |CommitMent
+|Monat   |DanielPoodratchi|20071103|mache    |SocialBackup

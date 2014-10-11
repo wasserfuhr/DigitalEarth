@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* MindOne: ManfredKaupisch
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.076907&lon=13.739319&zoom=18&layers=B000FTTT ToDo
+* HomePage: http://dresdner-gartenfreunde.de/240.html

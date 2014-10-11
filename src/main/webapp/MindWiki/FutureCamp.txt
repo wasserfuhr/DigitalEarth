@@ -1,0 +1,51 @@
+* MindTags: MindEvent
+* InspiredBy: http://www.siggibecker.de/blog/archives/2007/09/wie-vernagelt-ist-die-deutsche-web-20-gemeinde/ - SiggiBecker
+
+Ein MindEvent für BuergerInnen von NooPolis.
+
+Aber anders als ein __BarCamp__ oder andere MindEvent's soll das FuturCamp auch ein __TelePresence__-Event werden.
+
+Termin: ab 2010-04-xx
+
+Ort: Das LockOffice in der StadtDresden (als HeadQuarters) und im ganzen InterNet.
+
+Leitfragen:
+* Was ist eigentlich Web 7.0?
+* [Ob|LebensErwartung] und wie werden wir leben im TwentyFirstCentury?
+* Was steht wo auf der FutureMap?
+
+Anders als BarCamp's sollen Ergebnisse auf __einen__ hin fokussiert werden: die __FutureMap__.
+
+Einleitende Fragen
+
+Themen:
+* WasSchaetztDu
+* VirtuelleOekonomie
+* NewEconomy
+* SocialSingularity
+* ArTelligence
+
+GastGeber:
+* RainerWasserfuhr RalfLippold?
+
+Ideen für Teilnehmer:
+* ChristianHeller
+* MoritzAvenarius
+* SiggiBecker
+* MartinRoell
+* TimBruysten
+* ChristineSchlinck
+* JanBoehme
+* YvonneSchubert
+* TimBonnemann
+* SebastianMitter
+
+Verpflegung:
+* NanoSpinat
+* MetaBeer
+
+Sponsoren:
+* TuDresden?
+* UbiGrate?
+* SapAg?
+* SaxSys?

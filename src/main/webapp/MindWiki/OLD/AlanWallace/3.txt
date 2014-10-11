@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* InterWiki: [WikiPedia:B._Alan_Wallace]
+* JahrGang: 1950
+* MindSkill: DigiZen
+
+knows: GautamaBuddha, GalileoGalilei, JohannesKepler, IsaacNewton, CharlesDarwin, GregorMendel, WilhelmWundt, WilliamJames, EdmundHusserl, MartinHeidegger, RichardFeynman, BfSkinner, JohnSearle, ChristofKoch

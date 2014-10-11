@@ -1,0 +1,12 @@
+* MindTags: CrowdWisdom, MitMachSache
+
+WasSchaetztDu: Wie hoch ist das Risiko, daß im Jahr X alles menschliche Leben auf PlanetErde ausgelöscht sein wird?
+
+||Jahr||%||BuergerInnen
+|2008| 0,1|RainerWasserfuhr
+|2008|0,01|HeikeRibke
+|2020|   2|RainerWasserfuhr
+|2040|   0|YvonneSchubert
+|2040|   5|RainerWasserfuhr
+|2040|   0|ChristineSchlinck
+|2040|   6|HeikeRibke

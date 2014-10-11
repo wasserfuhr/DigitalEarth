@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Hannelore_Schmidt]
+* BornIn: 1919
+* BirthDay: 03-03
+* MarriedTo: HelmutSchmidt

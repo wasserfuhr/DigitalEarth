@@ -1,0 +1,21 @@
+possible input for the AiGame: The data of RainerWasserfuhr on:
+* MindWiki (~2500 pages, ~3000 MindProps)
+* DelIcioUs (~9433 bookmarks, ~3386 tags)
+* TwittEr (~2300 tweets, 265 followers, 146 followings)
+* BlogLines (~450 feeds)
+* FlickEr (~300 uploads)
+
+Additional Candidates:
+* SiggiBecker
+* OliverGassner
+* AndreasStuhlmueller
+* ChristianLangreiter
+* BillSeitz
+
+Generic sources:
+* WikiPedia
+* DbPedia
+* WordNet
+* OpenCyc
+
+The data of the DataMap will go into the MindBase.

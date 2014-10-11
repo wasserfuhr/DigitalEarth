@@ -1,0 +1,4 @@
+* InterWiki: [WebSeitz:PredictionMarket], [WikiPedia:Prediction_market]
+* MindTags: ReView
+
+[{INSERT ReferringPagesPlugin}]

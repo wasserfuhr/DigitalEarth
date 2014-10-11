@@ -1,0 +1,29 @@
+InstantMessaging via DelIcioUs:
+
+||Tag                          ||MindBroker      
+|http://del.icio.us/rainer/4a  |AndreasStuhlmueller
+|http://del.icio.us/rainer/4af |AngusFraser
+|http://del.icio.us/rainer/4bh |BastiHirsch
+|http://del.icio.us/rainer/4c  |ChristianLangreiter
+|http://del.icio.us/rainer/4ch |ChristianHeller
+|http://del.icio.us/rainer/4d  |DirkRiehle
+|http://del.icio.us/rainer/4dp |DanielPoodratchi
+|http://del.icio.us/rainer/4du |DimitriUwarov
+|http://del.icio.us/rainer/4f  |FrankWestphal
+|http://del.icio.us/rainer/4fl |FrankLorenz
+|http://del.icio.us/rainer/4gr |GregorRothfuss
+|http://del.icio.us/rainer/4gd |GunterDueck
+|http://del.icio.us/rainer/4h  |HaikoHebig
+|http://del.icio.us/rainer/4hr |HeikeRibke
+|http://del.icio.us/rainer/4hs |HagenStanek
+|http://del.icio.us/rainer/4j  |JuergenKohn
+|http://del.icio.us/rainer/4js |JoshuaSchachter
+|http://del.icio.us/rainer/4m  |MaRo
+|http://del.icio.us/rainer/4o  |OliverGassner
+|http://del.icio.us/rainer/4r  |RicardaDHerbrand
+|http://del.icio.us/rainer/4s  |SiggiBecker
+|http://del.icio.us/rainer/4sm |SebastianMitter
+|http://del.icio.us/rainer/4t  |ChristineSchlinck
+|http://del.icio.us/rainer/4tb |TimBonnemann
+|http://del.icio.us/rainer/4u  |UteMoritz
+|http://del.icio.us/rainer/4y  |YvonneSchubert

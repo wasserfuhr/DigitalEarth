@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Selmer_Bringsjord]
+* MindQuote: PeqNp
+* JahrGang  1958
+* BirthDay: 11-24
+* DbLp: http://dblp.uni-trier.de/rec/pid/99/3934
+* HomePage: http://www.rpi.edu/~brings/
+* MindSkill: ArTelligence

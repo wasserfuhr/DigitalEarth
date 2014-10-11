@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Ernst_Pöppel]
+* MindSkill: GeHirn
+* DbLp: http://dblp.uni-trier.de/rec/pid/84/2807
+* PageNumber: 8
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi MichaelStonebraker PeterLockemann WilfriedBrauer KerstinSchill ErnstPoeppel
+
+NoBirthday

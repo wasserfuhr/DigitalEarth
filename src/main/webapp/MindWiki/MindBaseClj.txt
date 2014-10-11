@@ -1,0 +1,91 @@
+;
+;
+;{{{
+(if (.equals (.getPathInfo request) "/")
+  (str
+    "<h2>Timeline</h2>
+    <table>"
+    ((defn scanZ [zz]
+      (let [log (.next zz)]
+       (if log
+        (let 
+           [logValue (.getValue (.get log "log:date"))
+            logTs (.getTimestamp (.get log "log:date"))
+            now (.getTime (new java.util.Date))
+            diffSec (long (/ (- now logTs) 1000))
+            diffH (long (/ diffSec 3600))
+           ]
+          (str
+            "<tr><td>"
+             (if (< diffSec 60) (str diffSec " sec ago")
+               (if (< diffSec 3600) (str (long (/ diffSec 60)) " min ago")
+                 (str diffH " h ago"))) "<br/><span style='font-size:7pt;'>"
+             (.format
+                (new java.text.SimpleDateFormat "yyyy-MM-dd hh:mm:ss")
+                (new java.util.Date
+                  logTs)) "</span></td><td>"
+              (if (.containsKey log "log:user")
+                 (new String (.getValue (.get log "log:user")))
+                 "RainerWasserfuhr") "</td><td>"
+              (new String logValue) " <a href=''>#</a></td></tr>" 
+         (scanZ zz)))
+       )
+      )
+     )
+     (.getScanner
+       (new org.apache.hadoop.hbase.client.HTable hConf "ChatLog") 
+       (into-array ["log:"]))
+    )
+   "</table>"
+  )
+)
+(if
+ (.startsWith (.getPathInfo request) "/base")
+  (if (.startsWith (.getPathInfo request) "/base/")
+   (if (.startsWith (.getPathInfo request) "/base/new")
+    (str
+        "<h2>New Table:</h2>
+          <form action='/do/base/new' method='post'>
+            Name: <input name='table'/><br/>
+            Family: <input name='family'/><br/>
+            <input type='submit' value='create'/>
+          </form>"
+    )
+   (let
+     [pageName (.substring (.getPathInfo request) (.length "/base/"))]
+     (str
+        "<h2>Table: " pageName "</h2>"
+        ((defn scanZ [zz]
+          (let [next (.next zz)]
+           (if next
+            (str
+             "<li>" (.format
+                      (new java.text.SimpleDateFormat "yyyy.MM.dd hh:mm:ss")
+                      (new java.util.Date 
+                        (.getTimestamp (.get next "log:date")))) ": "
+                    (new String (.getValue (.get next "log:date"))) "</li>" 
+             (scanZ zz))
+           )
+          )
+         )
+         (.getScanner
+           (new org.apache.hadoop.hbase.client.HTable hConf pageName) 
+           (into-array ["log:"]))
+        )
+     )
+   )
+  )
+  )
+  (str
+    "<h2>Tables</h2>"
+    (apply str 
+     (map
+      (fn [x]
+        (str
+         "<a href='/base/" (.getNameAsString x) "'>" (.getNameAsString x) "</a> "
+          ))
+        (.listTables hBase))
+      )
+   )
+)
+;}}}

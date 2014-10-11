@@ -1,0 +1,11 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Nicholas_Negroponte] [WebSeitz:NicholasNegroponte] [WikiWikiWeb:NicholasNegroponte]
+* BornIn: 1943
+* BirthDay: 12-01
+* DbLp: http://dblp.uni-trier.de/rec/pid/n/NicholasNegroponte
+* PageNumber: 8
+* PagePath: LarryPage SergeyBrin MonikaHenzinger StefanNaeher ChristophBuchheim MichaelJuenger ThomasLengauer FritzKrueckeberg CraigFields
+* MindFaves: OlPc
+* HasTalked: MartinVarsavsky
+
+ViafBug: http://viaf.org/viaf/79071601 http://viaf.org/viaf/68971385

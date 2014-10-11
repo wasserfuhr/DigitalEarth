@@ -1,0 +1,58 @@
+* MindTags: RdfClass
+* RdfClass: http://www.w3.org/2000/01/rdf-schema#Class
+
+statt einer hierarchischen OrdNung können Seiten im MindWiki mehrere MindTags erhalten.
+
+Zu Beginn jeder Wikiseite als MindProps, zB:
+
+{{{
+* MindTags: MindPeople
+}}}
+
+bald könnte dann per MindApi automatisch der IndexIndex durch eine TagCloud ersetzt werden.
+
+!Most frequenty used MindTags:
+|282|MindPeople
+|206|MindPlace
+|176|ProFessor
+| 48|UnternehmensGruender
+| 25|SingularityMind
+| 20|ProJect
+| 20|EnterPrise
+| 14|MindEvent
+| 13|MinisTer
+|  9|ReView
+|  9|CrowdWisdom
+|  8|PredictionMarket
+|  7|MindMusic
+|  6|WikiMind
+|  5|UnterNehmer
+|  5|NooChess
+|  4|RealFilm
+|  4|RdfClass
+|  4|LiebesRinge
+|  3|RdfProperty
+|  3|MindVerb
+|  3|MindThing
+|  3|MindBook
+|  2|TicTacToe
+|  2|SocialNetwork
+|  2|RegierungsSprecher
+|  2|PerSona
+|  2|NobelPreis
+|  2|MindProps
+|  2|MindCity
+|  2|GeschaeftsIdee
+|  2|EheRinge
+|  2|EdelMind
+|  2|RealRoman
+|  1|OpenConsult
+|  1|MustKnow
+|  1|MindProject
+|  1|MindPet
+|  1|MetaMatrix
+|  1|HerKunft
+|  1|GedankenSpiel
+|  1|DropOut
+|  1|CoOp
+|  1|AdJektiv

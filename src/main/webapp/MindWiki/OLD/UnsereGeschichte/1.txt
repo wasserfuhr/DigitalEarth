@@ -1,0 +1,5 @@
+* 1999:  RainerWasserfuhr und YvonneSchubert gründen die MindBrokerKg
+* 2002-08: Start von Consulting-Services: Beratung für Siemens-Dematic
+* danach Consulting unter anderem für adidas, Deutsche Post, T-Systems, Müller-Altvatter, ComBots.
+* 2006-09 Beginn der Implementierung eines SportPortals
+* 2007-07-19:0900 RainerWasserfuhr gründen YvonneSchubert VebMind.

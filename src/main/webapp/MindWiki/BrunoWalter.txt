@@ -1,0 +1,7 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Bruno_Walter]
+* JahrGang: 1876
+* BirthDay: 09-15
+* HasTalked: GustavMahler
+* LebensEnde: 1962
+* MindSkill: ConDuct

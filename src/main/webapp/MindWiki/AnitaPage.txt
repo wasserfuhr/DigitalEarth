@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Anita_Page] [OpenCyc:AnitaPage]
+* BornIn: 1910
+* BirthDay: 08-04
+* DiedIn: 2008
+* HasTalked: BusterKeaton ClarkGable GretaGarbo
+* MindSkill: RealFilm IchSchweige

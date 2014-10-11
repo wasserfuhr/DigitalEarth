@@ -1,0 +1,8 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Ernst_Wilhelm_Nay]
+* BornIn: 1902
+* BirthDay: 06-11
+* DiedIn: 1968
+* ViAf: http://viaf.org/viaf/47554578
+
+Maler eines MindPoster's - erstanden nach einer AusStellung 1998 im DresdnerSchloss

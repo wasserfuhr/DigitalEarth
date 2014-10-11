@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/d/NachumDershowitz
+* HomePage: http://www.math.tau.ac.il/~nachumd/Homepage.html
+* PageNumber: 7
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi AlexAiken RalfTreinen NachumDershowitz

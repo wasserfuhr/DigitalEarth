@@ -1,0 +1,5 @@
+* IsA: ProFessor SingularityMind
+* InterWiki: [LangReiter:Marcus+Hutter] [WikiPedia:Marcus_Hutter]
+* JahrGang: 1967
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/MarcusHutter
+* HomePage: http://www.hutter1.net/

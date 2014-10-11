@@ -1,0 +1,16 @@
+
+{{{(str
+ "<form action=''>"
+(let 
+ [baseurl "http://twitter.com/friends/ids/rainer.xml"
+  baselist (:content (clojure.xml/parse baseurl))]
+ (apply str
+ (map
+   (fn [a]
+    (str "http://twitter.com/users/show/"
+     (first (:content (get baselist
+       (.nextInt (new java.util.Random) (.length baselist)))))
+     ".xml"))
+   (range 5))
+)))
+}}}

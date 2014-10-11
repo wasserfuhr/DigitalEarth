@@ -1,0 +1,14 @@
+* InterWiki: [DeWikiPedia:Redewendung]
+
+RedeWendung'en EmerGier'en aus dem WortSchatz:
+* Der KayGroschen ist gefallen
+* Nicht mehr alle Tassen im Schrank
+* über die Wupper gehen
+* Eulen nach Athen tragen
+* rüber machen
+* TalDerAhnungslosen
+* Der Ofen ist aus
+* Braten in der Röhre haben
+* Eisen im Feuer haben
+
+Die sollte der ChatBot alle kennen.

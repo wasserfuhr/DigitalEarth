@@ -1,0 +1,9 @@
+Schöne Kurzform für ObjectCenteredSociality (http://www.zengestrom.com/blog/2005/04/why_some_social.html ) aus http://www.agenturblog.de/2007-10/portable-social-networks-meetup/.
+
+Wenn man SocialSoftware baut, sollte man darauf achten, dass die Interaktionen der Nutzer sich um "Dinge" zentrieren:
+
+DelIcioUs: Bookmarks, Tags
+FlickEr: Fotos, Tags
+XingLe: Kontakte.
+
+usw.

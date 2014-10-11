@@ -1,0 +1,10 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Eva_Högl]
+* ViAf: http://viaf.org/viaf/72073878
+* BirthPlace: OsnaBrueck
+* BornIn: 1969
+* BirthDay: 01-06
+* ParteiWiki: SpdWiki
+|[FaceBook:1267231336]
+|[XingLe:Eva_Hoegl]
+|[TwittEr:EvaHoegl]

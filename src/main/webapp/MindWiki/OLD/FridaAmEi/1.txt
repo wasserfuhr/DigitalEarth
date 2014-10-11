@@ -1,0 +1,4 @@
+* IsA: SuperMarket
+* NamedAfter: NuernbergerEi
+* HomePage: http://www.konsum.de/altfranken-cotta-gorbitz-leutewitz-loebtau-nuernberger-str-28-alone.html
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/391057029

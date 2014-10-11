@@ -1,0 +1,38 @@
+Eine ein- oder besser mehrtägige Simulation, bei dem UnternehmensGruender und Führungskräfte spielerisch lernen können, ein StartUp als WikiBasiert'es GlaesernesUnternehmen zu gründen, oder auch gleich mehrere StartUp's im WettBewerb gegeneinander.
+
+Potentielle Kunden:
+* StartUpWeekEnd
+* DresdenExists
+* Führungskräfte von DAX-Unternehmen
+* McKinsey, KienBaum und die BigFour
+* Hochschulen
+* IhaKa
+
+Empfohlene Teilnehmerzahl: 10-20
+
+Empfohlener Zeitplan:
+* 3 oder mehr Tage oder Wochenenden 
+* durchaus mit teilweise wechselnden Teilnehmern
+
+Empfohlene Kenntnisse:
+* BWL
+* Software-Entwicklung
+* Marketing
+* Grafik & Design
+* Recht
+* InterNet
+
+Ablauf: Die Teilnehmer
+* werden zu Beginn BuergerInnen von NooPolis
+* sie oder ein Hauptveranstalter erwerben im MindShop das Produkt "StartUpSim" für die Teilnahme.
+* lernen das Bearbeiten von Wikiseiten, zB indem sie ihre Profilseite im MindWiki anlegen.
+* legen eine Seite für das EconoSim-Event im MindWiki an
+* sammeln dort mehrere GeschaeftsIdeen
+* wählen per MindVote zwei oder mehrere StartUp-Favoriten aus
+* wählen, bei welchem davon sie teilnehmen möchten
+* legen die ShareHolder und deren CommitMent, den WirkSatz aller MitWirkende'n und daraus folgenden ShareHolder-Anteilen fest
+* die Entwickler erhalten ein MindHacking-Tutorial und lernen SourceCode für das NooPolis-SocialGrid zu entwickeln
+* die ShareHolder ermitteln, welche weiteren Leistungen sie für ihr StartUp benötigen und schreiben sie auf dem WirkMarkt aus
+* das KabiNett oder andere BuergerInnen können derweil Änderungen der VerFassung vorschlagen und umsetzen, die während des StartUpSim
+* andere BuergerInnen prüfen, ob alle Schritte im Einklang mit der VerFassung erfolgen und legen ggf. Beschwerden beim MindCourt ein
+* jederzeit können StartUpSim-MitWirkende und auch alle BuergerInnen Shares ihres StartUp's oder auch die von WettBewerb'ern auf dem MindFloor handeln.

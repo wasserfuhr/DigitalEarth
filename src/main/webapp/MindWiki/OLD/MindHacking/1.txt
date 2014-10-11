@@ -1,0 +1,64 @@
+Beim MindHacking gibt RainerWasserfuhr eine Einführung, wie man schnell und einfach Software für MindBroker und NooPolis
+entwickelt. Interessenten können sich via [SkyPe:wasserfuhr] einklinken und können danach
+
+!Inhalte 
+(angelehnt an: http://barcampberlin.pbwiki.com/JavaOnMavenRails)
+
+Angeregt durch den berühmten RubyOnRails-Screencast "Creating a weblog in 15 minutes" (http://www.rubyonrails.org/screencasts )
+wollen wir versuchen, eine kleine PureJava basierte Weblog-Applikation zu coden und live zu stellen.
+Vorgeschlagene Tools: Hibernate, Apache Derby , Jetty/Tomcat.
+
+Grobe Roadmap:
+# JDK installieren
+# Eclipse installieren
+# Maven2 installieren
+# Maven-POM aus Archetyp generieren
+# Lokaler Test mit jetty:run
+# HTMLUnit-Test schreiben
+# JSPs coden
+# Remote Deployment auf den Live-Tomcat
+
+
+
+
+
+Interesse an Teilnahme
+# RainerWasserfuhr
+
+
+Detaillierte Schritte:
+* JDK installieren: http://download.java.net/jdk6/binaries/ , rund 50-60 MB. Mac User können den Schritt überspringen, da Java schon vorinstalliert ist. 
+* Eclipse installieren. http://www.eclipse.org/downloads/
+* Maven2 installieren, http://maven.apache.org/download.html , ZIP auspacken, die MAVEN/bin in den PATH aufnehmen, die erfolgreiche Installation mit
+
+ mvn -version
+testen. 
+* Maven-POM aus Archetyp generieren:
+
+ mvn archetype:create -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeVersion=1.0-alpha-4 -DartifactId=barblog -DgroupId=com.pbwiki.barcampberlin -Dversion=0.1
+* Das generierte Projekt in Eclipse importieren
+* Jetty-Plugin einfügen in die pom.xml einfügen:
+  <pre>
+      &lt;plugin>
+        &lt;groupId>org.mortbay.jetty&lt;/groupId>
+        &lt;artifactId>maven-jetty-plugin&lt;/artifactId>
+        &lt;version>6.0.0&lt;/version>
+        &lt;configuration>
+          &lt;scanIntervalSeconds>2&lt;/scanIntervalSeconds>
+        &lt;/configuration>
+      &lt;/plugin></pre>
+
+* Lokaler Test mit
+
+ mvn jetty:run
+
+und unter 
+
+ http://127.0.0.1:8080/
+sollte die erste Applikation laufen.
+* HTMLUnit-Test schreiben 
+* JSPs coden
+* Remote Deployment auf den Live-Tomcat
+* Projekt-Site generieren
+
+ mvn site

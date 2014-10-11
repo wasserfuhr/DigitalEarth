@@ -1,0 +1,20 @@
+* MindQuote: "vague, but exciting" - MikeSendall
+
+||ComPare     ||W3C      ||WwMc
+||since       |1994      |2009
+||MindOne     |TimBl     |TrueMan
+||Medium      |HyperText |HyperMind
+||ParaDigm    |DownLoad  |UpLoad
+||Link        |HyperLink |InterWiki
+||MarkUp      |HtMl      |HyperMindMarkUpLanguage
+||ProtoCol    |HtTp      |MiTp
+||            |URL       |UniformThoughtLocator
+||Browser     |FireFox   |MindReader
+||API         |CGI       |EditSource
+||Style       |CSS       |MyelinSheath
+||Skripting   |JavaScript|CloJure
+||MarketLeader|GoogleInc |MindBroker
+||Ads         |AdWords   |NeuroAd
+||BackUp      |ArchiveOrg|SocialBackup
+||WebOfTrust  |-         |MindId
+||NoMic       |PerlNomic |NooMic

@@ -1,0 +1,13 @@
+* MindTags: ReView
+
+An idea for a TuringTest contest similar to the [Rules|http://loebner.net/Prizef/2007_Contest/Rules.html] of the LoebnerPrize:
+* Contestants can apply to participate in the TwitAiPrize
+* Contestants must be CitiZens of NooPolis
+* The CabiNet of NooPolis nominates the Final Four entrants from the contestants
+* The CabiNet of NooPolis nominates 4 Judges
+* The CabiNet of NooPolis nominates 8 MindTurk's who have TwittEr accounts.
+* The CabiNet chooses per ZuFall... TBD
+* Judges will have 25 minutes to interact with each pair of entities.
+* Interaction is via TwittEr
+
+intermediate project: TwittiPedia

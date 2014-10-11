@@ -1,0 +1,4 @@
+* InterWiki: [DeWikiPedia:FreeMind], [WebSeitz:FreeMind]
+* HomePage: http://freemind.sourceforge.net/
+
+Aber wer WikiBasiert arbeitet, braucht eigentlich keine MindMap mehr.

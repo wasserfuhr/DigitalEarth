@@ -1,0 +1,19 @@
+The basic UnitOfService sold by LockSchuppenAg.
+
+In the TimeToCome you can use LockCoupon's for:
+* 1 LockCoupon = 1h usage of CoWorkingSpace
+* 5 LockCoupon's = 1day usage of CoWorkingSpace
+* 80 LockCoupon's = 1 month usage of CoWorkingSpace
+* 2 LockCoupon's = 1 LockSchuppen-BeSuch (1h) with a qualified LockSchuppenFuehrer
+* 10 LockCoupon's = hold a 1 hour WorkShop in the LockAgora, including LockDrinks (Coffee, Tea of WalthersSaft from SaftTante)
+* get a first tour of the ZukunftsRaum (as the BluePrint for FutureLab2056)
+* play a WikiWallGame
+* participate in a WorkShop (varying price)
+
+The LockCoupon might also be used at other CoWorkingSpace's operated by LockSchuppenAg (__LockOffice__) 
+
+You can buy LockCoupon's from current owners, from the MindShop or through WorkForShares.
+
+* ReVenue (updated regularly)
+
+LockCouponOwner

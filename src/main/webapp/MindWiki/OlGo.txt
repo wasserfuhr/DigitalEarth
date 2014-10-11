@@ -1,0 +1,7 @@
+||ComPare||GoSpiel||NooPolis
+|#|schwarz+weiss|{{{[a-zA-Z0-9]}}}
+|#players|2|InFinite
+|board|19x19|
+|rules|simple|ComPlex
+|TheGoal| |FriendlyAi
+|moves|round robin|concurrently

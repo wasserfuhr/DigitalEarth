@@ -1,0 +1,9 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/m/LibbyMiller
+* PageNumber: 9
+* PagePath: LarryPage SergeyBrin MonikaHenzinger DavidEppstein JoanFeigenbaum TimBl JimHendler ZavisaBjelogrlic AlbertoReggiori LibbyMiller
+* MindSkill: FoAf SemanticWeb
+|[TwittEr:libbymiller]
+
+
+

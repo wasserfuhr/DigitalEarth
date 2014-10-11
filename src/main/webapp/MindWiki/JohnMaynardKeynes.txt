@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:John_Maynard_Keynes]
+* BornIn: 1883
+* BirthDay: 06-05
+* DiedIn: 1946
+* MindSkill: HausHalt

@@ -1,0 +1,8 @@
+PlanetErde > DeutschLand > StadtDresden > OrtsTeil NeuStadt > LouisenStrasse > HausNummer 61 __HinterHaus__!, klingeln bei RalfLippold
+
+* 61: LockOffice
+* ParkerLouis-ParkPlatz
+* 63... MaxDresden
+* 65... Blumenau
+
+wir sind auch schon auf OpenStreetMap: http://www.openstreetmap.org/browse/node/573269269

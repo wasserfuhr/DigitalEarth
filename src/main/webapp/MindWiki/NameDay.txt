@@ -1,0 +1,26 @@
+||   ||VorName
+|0106|Andreas
+|0114|Rainer
+|0204|Andreas
+|0204|Christian
+|0321|Christian
+|0411|Rainer
+|0429|Roswitha
+|0514|Christian
+|0519|Yvonne
+|0617|Rainer
+|0621|Ralf
+|0804|Rainer
+|0816|Christian
+|0905|Roswitha
+|0907|Ralf
+|0915|Roland
+|0916|André
+|0916|Edith
+|0917|Robert
+|1013|Andreas
+|1110|Andreas
+|1130|Andreas
+|1204|Christian
+|1223|Yvonne
+RainersChristentum goes SocialNetwork ;)

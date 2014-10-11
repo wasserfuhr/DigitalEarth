@@ -1,0 +1,13 @@
+The FutureNumber is a natural number between 1 and 100.
+A FutureCard may ReFer to a FutureNumber if the PreDict'ion of the FutureCard contains a value with 2^FutureNumber (see SecondHalfOfTheChessboard)
+
+||FutureNumber||FutureCard
+| 3|DresdenDrohne,PhaetonBallett
+| 7|ElbOper
+|10|MindTower
+|25|SpaceLift
+|30|WorldFamilyTree
+|31|ThirtyOneAndWe
+|36|FaceDollar
+|40|TerraDsl
+|50|PetaBitPlatte

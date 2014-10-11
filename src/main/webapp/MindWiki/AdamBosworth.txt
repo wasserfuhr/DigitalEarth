@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [LangReiter:Adam+Bosworth] [ThoughtStorms:AdSense] [WikiWikiWeb:AdamBosworth]
+* DbLp: http://dblp.uni-trier.de/rec/pid/02/5473
+* PagePath: ... JimGray AdamBosworth
+
+formerly GoogleInc.

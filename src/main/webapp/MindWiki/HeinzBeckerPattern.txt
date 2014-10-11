@@ -1,0 +1,5 @@
+* NamedAfter: HeinzBecker
+
+The HeinzBeckerPattern is a LifePattern applied by TruePeople, in order to foster MindFul and TransParent InterAct'ions on the InterNet.
+
+GlobalCamelCaseAlliance MindId PerSona

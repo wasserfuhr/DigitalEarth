@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:David_P._Reed]
+* BornIn: 1952
+* BirthDay: 01-31
+* DbLp: http://dblp.uni-trier.de/rec/pid/83/916
+* PageNumber: 8
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcDermott RichardFikes TomGruber JayTenenbaum AlanKay DavidReed

@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:David_Lynch]
+* BornIn: 1946
+* BirthDay: 01-20
+* MindSkill: RealFilm
+|[TwittEr:DAVID_LYNCH]

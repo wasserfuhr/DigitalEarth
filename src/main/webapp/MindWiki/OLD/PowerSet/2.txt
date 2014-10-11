@@ -1,0 +1,6 @@
+* MindTags: EnterPrise
+* InterWiki: [LangReiter:Powerset], [WikiPedia:Powerset_(company)]
+* HomePage: http://www.powerset.com/
+
+Uses SemanticWeb.
+Data based on WikiPedia. Later: FreeBase?

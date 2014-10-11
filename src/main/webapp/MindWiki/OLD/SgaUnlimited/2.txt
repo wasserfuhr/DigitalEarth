@@ -1,0 +1,10 @@
+* IsA: EnterPrise
+
+The SgaUnlimited is an EnterPrise with the sole purpose to win the SeriousGamesAward 2011.
+
+If the SgaUnlimited wins a price, the price money will be distributed according to this ShareHolder
+table:
+
+||‰ ||ShareHolder
+|900|PhilippeGreier
+|100|RainerWasserfuhr

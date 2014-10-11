@@ -1,0 +1,4 @@
+FireFox
+
+* moz_historyvisits: 404055
+* moz_plazes: 205507

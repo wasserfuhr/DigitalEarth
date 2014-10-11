@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* BirthDay: 10-28
+* EnErgie: 10000000
+* MindSkill: VerMoegen

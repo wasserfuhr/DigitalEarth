@@ -1,0 +1,5 @@
+Unconditional global BasicIncome, serving entire PlanetErde.
+In order to start this process __ToDay__, we have defined a RiceTax.
+At the moment we are able to serve 1 GrainOfRice per CitiZen per month.
+Based on cumulated wealth, we offer a minimal sum of Rice to each CitiZen per month.
+This is sponsored by PieschenArtGroup.

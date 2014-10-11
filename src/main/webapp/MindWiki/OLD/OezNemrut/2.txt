@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.071474
+* LaengenGrad: 13.74944
+* SlimNess: 0.4
+* GraDient: 110
+* BoundingBox: 15
+* HomePage: http://www.oez-nemrut.de/

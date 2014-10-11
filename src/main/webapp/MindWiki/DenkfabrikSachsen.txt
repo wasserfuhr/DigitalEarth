@@ -1,0 +1,61 @@
+* IsA: EventSeries
+
+CduSachsen ThinkTank
+
+!2010
+* HomePage: http://wissen.cdu-sachsen.de/erleben/denkfabrik/2010
+* XingEvent: https://www.xing.com/events/denkfabrik-sachsen-offenes-forum-zukunftsfragen-466844
+* MindPlace: DresdenAirport
+* TeilNehmer: 
+AlexanderHesse
+AlexanderWendt2
+AlineFiedler
+AndreasBoer
+AntonioHurtado
+BobHooda
+DieterSchuetz
+DietrichVonKlaeden
+ElisabethOpitz
+FalkLange
+FrankKupfer
+FrankRichter
+FriedemannHoeller
+GeorgMilbradt
+HansBernhardBeus
+HeinzRiederer
+HelmaOrosz
+HenrikLiebscher
+HolgerBrandes
+JanaSchlegel
+JannaPahnke
+JensSpahn
+JuergenStark
+JuttaGuenther
+KarlKrueger
+KarlLeo
+KlausNicolai
+LarsRohwer2
+MarkusRassiller
+MatthiasBlock
+MatthiasBoeck
+MatthiasHeld
+MichaelKretschmer
+MichaelSagurna
+PatriciaSolaro
+PeterStawowy
+RainerWasserfuhr
+RalfLippold
+RamonaNagel
+ReneToussaint
+RolandWoller
+SabineVonSchorlemer
+SebastianFischer
+StanislawTillich
+SusanKindler
+SusanneAdam
+ThomasBuerger
+ThomasKujawa
+ThomasLipp
+UlrichBrummer
+UlrichRienth
+LeiderVerhindert: ChristineSchlinck JensOsthues

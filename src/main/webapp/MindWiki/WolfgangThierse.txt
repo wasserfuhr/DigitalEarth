@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Wolfgang_Thierse]
+* BornIn: 1943
+* BirthDay: 10-22
+* ViAf: http://viaf.org/viaf/46817884
+
+BundesTag DdErr

@@ -1,0 +1,87 @@
+* MindTags: FutureCard
+* UnTil: 2040
+* DependsOn: LongBetOne
+
+inspired by [this idea|http://dwave.wordpress.com/2008/08/30/immortality/] from GeordieRose:
+
+The TineTest is an extension of the TuringTest.
+Soon we will once a year put ChristineSchlinck behind one of two magic semipermeable curtains.
+
+[{Image src='http://farm1.static.flickr.com/97/280626741_2c26ccce3b_m.jpg'}][*|http://flickr.com/photos/lifecosmos/280626741/]
+
+A TestPerson will sit in front of the two magic curtains.
+By ZuFall'sgenerator, ChristineSchlinck will be put behind one of the curtains.
+
+The TestPerson will talk simultaneously to
+* the __real__ ChristineSchlinck__, and
+* an immersive 3D AvaTar-simulation of ChristineSchlinck, with synthetic voice and animated face and body movements
+
+At the end of 25 minutes, the test person has to decide, behind which curtain
+the __real__ ChristineSchlinck was.
+
+We start with the PersonalityCapture of ChristineSchlinck here:
+
+!HasVisited:
+* Aegypten
+* AmsterDam
+* Aruba
+* StadtBerlin
+* CranCanaria
+* DresDen
+* DuBai
+* DuesselDorf
+* Goerlitz
+* Harz
+* Hurghada
+* Ibiza
+* KarlsRuhe
+* StadtKoeln
+* Konstanz
+* LandauPfalz
+* Leipzig
+* Malta
+* Madeira
+* Madrid
+* Mallorca
+* MannHeim
+* Menorca
+* MuenChen
+* Paris
+* PotsDam
+* RadeBeul
+* Ruegen
+* Spiekeroog
+* StrassBurg
+* StuttGart
+* Teneriffa
+* Tuerkei
+* Tunesien
+* Venezia
+* WaldRohrBach
+
+!HasTalked
+* OttoSander
+
+!Films seen:
+* TheMatrix
+* HarryPotter
+* MenInBlackIi
+
+!HasRead:
+* LoolaPrinzip
+* WildDuck
+* EmotionaleIntelligenz
+
+!HasSeen:
+* HansOlafHenkel
+* HelmaOrosz
+* JulianNidaRuemelin
+* KlausWowereit
+* VladimirPutin
+
+!HasPhoned:
+* WalterRiester
+
+!HasKissed:
+* RainerWasserfuhr
+EtAl

@@ -1,0 +1,11 @@
+|| ||Single         ||BeuteSchema ||                     ||Kuppler
+|♀|JeMand    |             |
+| |                 |Gehalt       |ab 3000 EuRo brutto
+| |                 |Alter        |ab 100
+| |                 |Gehalt       |Festanstellung, Beratend, Dozent
+| |                 |WochenStunden|40-60
+| |                 |Reisen       |nicht abgeneigt
+| |                 |Auto         |-
+| |                 |Branchen     |zB Solar
+| |                 |Bereich      |Personal, HR
+

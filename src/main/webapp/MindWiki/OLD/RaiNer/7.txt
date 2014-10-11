@@ -1,0 +1,10 @@
+* MindTags: FutureCard
+* PreDict: JfSchlinck wird »RaiNer« sagen, nachdem er in einem SkyPe-Video-DiaLog RainerWasserfuhr erkannt hat.
+* CardOwner: ChristineSchlinck
+* UnTil: 2010
+
+||PreDict         ||UnTil
+|ChristineSchlinck|2010-12
+|AgnesWasserfuhr  |2010-10
+|ManuelaAmann     |2010-11
+|RainerWasserfuhr |2010-05

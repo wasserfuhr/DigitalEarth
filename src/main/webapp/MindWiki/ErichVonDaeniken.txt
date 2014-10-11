@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Erich_von_Däniken]
+* BornIn: 1935
+* BirthDay: 04-14

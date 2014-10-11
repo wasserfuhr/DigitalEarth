@@ -1,0 +1,20 @@
+keeps track of the WikiPage's or WantedPages that were removed from the LockOffice WikiWall.
+
+Candidates:
+* UlrichDeppendorf
+* SpuerschtWieIDenk
+* AudioTagging
+
+Candidates for __adding__ to the WikiWall:
+* DaveSnowden
+* DoOcracy
+* GoogleInc
+* JaneMcGonigal
+* MindBroker
+* MooresLaw
+* NooSphere
+* PeterKruse
+* PlanetErde
+* SingularFernUni
+* SingularityUniversity
+* TrueLife

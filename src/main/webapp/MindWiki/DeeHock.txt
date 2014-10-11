@@ -1,0 +1,5 @@
+* IsA: UnternehmensGruender
+* InterWiki: [WikiPedia:Dee_Hock]
+* BornIn: 1930
+
+NoBirthday

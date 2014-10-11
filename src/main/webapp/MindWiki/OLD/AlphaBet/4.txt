@@ -1,0 +1,33 @@
+[DeWikiPedia:Buchstabiertafel]:
+
+||BuchStabe||RaWa||de||en|| || || ||
+|A |AnSt|Ah|Ey|Anton |Alpha |Anna |Anton
+|Ä |    |  |  | Ärger |– |Äsch (Aesch) |Ärger
+|B |BePa|  |Be|Bi|Berta |Bravo |Berta |Berta
+|C |ChLa|  |Ze|Si|Cäsar |Charlie |Cäsar |Cäsar
+|Ch|    |  |  | Charlotte |– |– |Christine (nicht gebräuchlich)
+|D |DiRi|De|Di|Dora |Delta |Daniel |Dora
+|E |    |Eh|Ih|Emil |Echo |Emil |Emil
+|F |FrWa|Ef|Ef|Friedrich |Foxtrott |Friedrich |Friedrich
+|G |    |Ge|Ji|Gustav |Golf |Gustav |Gustav
+|H |HaHe|Ha|Es|Heinrich |Hotel |Heinrich |Heinrich
+|I |    |Ih|Ei|Ida |India |Ida |Ida
+|J |JuKo|Jo|Ye|Julius |Juliett |Jakob |Julius
+|K |    |Ka|Ke|Kaufmann |Kilo |Kaiser |Konrad
+|L |    |El|El|Ludwig |Lima |Leopold |Ludwig
+|M |MaRo|Em|Em|Martha |Mike |Marie |Martha
+|N |    |En|En|Nordpol |November |Niklaus |Nordpol
+|O |OlGa|Oh|Ou|Otto |Oscar |Otto |Otto
+|Ö |    |  |  |Ökonom |– |Örlikon (Oerlikon) |Österreich
+|P |PhLe|Pe|Pi|Paula |Papa |Peter |Paula
+|Q |    |Qu|Kj|Quelle |Quebec |Quasi |Quelle
+|R |RiHe|Er|Ar|Richard |Romeo |Rosa |Richard
+|S |SiBe|Es|Es|Samuel |Sierra |Sophie |Siegfried
+|T |ChSc|Te|Ti|Theodor |Tango |Theodor |Theodor
+|U |UtMo|Uh|Ju|Ulrich |Uniform |Ulrich |Ulrich
+|Ü |    |Ue|  |Übermut |– |Übermut |Übel
+|V |VoSc|Va|Vi|Viktor |Victor |Viktor |Viktor
+|W |    |We|Dj|Wilhelm |Whiskey |Wilhelm |Wilhelm
+|X |    |Ix|Ex|Xanthippe |X-Ray |Xaver |Xaver (früher: Xanthippe)
+|Y |YvonneSchubert|Yp|Wy|Ypsilon |Yankee |Yverdon |Ypsilon
+|Z |    |Ze|Se|Zacharias |Zulu |Zürich |Zürich (früher:Zeppelin)

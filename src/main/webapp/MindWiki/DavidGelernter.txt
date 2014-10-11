@@ -1,0 +1,10 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:David_Gelernter]
+* BornIn: 1955
+* DbLp: http://dblp.uni-trier.de/rec/pid/g/DavidGelernter
+* PageNumber: 7
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi AlexAiken AlexNicolau DavidGelernter
+
+YaleEdu
+
+NoBirthday

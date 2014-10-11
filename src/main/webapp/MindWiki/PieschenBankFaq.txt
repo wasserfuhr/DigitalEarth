@@ -1,0 +1,9 @@
+* Ist die PieschenBank eine "echte" Bank?
+** Ja, sie ist die StaatsBank der MicroNation NooPolis
+* Was ist die Besonderheit der PieschenBank?
+** 1. Sie basiert auf einem neuen WaehrungsSystem mit dem KayGroschen als WaehrungsEinheit. 2. Jedes BankKonto und jede UeberWeisung ist für JederMann öffentlich einsehbar.
+* Wieso heisst die PieschenBank PieschenBank?
+** Sie wurde 2007 im OtPieschen gegründet.
+* SchoenHeit des 
+* Was ist ein KayGroschen wert?
+** Dies hängt ab von Angebot und NachFrage

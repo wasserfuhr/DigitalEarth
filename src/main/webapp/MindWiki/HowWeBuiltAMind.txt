@@ -1,0 +1,26 @@
+As of 2010-12-15 the LifeWiki had a defining set of 13209 WikiPage's.
+
+It delivered a unique identity for a first set of RealWorld entities.
+
+Especially PerSon's were identified.
+
+We started to compile this to ByteCode for the JavaVm.
+A first BenchMark showed.
+
+We had to achieve a much higher degree of concurrency.
+
+"WorldInTheMind", that 
+
+You could compare this to a virtual world as constructed
+by SecondLife.
+
+The next challenge was so allocate sufficient computing power.
+
+We needed a business model. Since we believed in our mission,
+we were confident that we could find some use cases that
+would offer us a certain source of revenue, giving us
+enough time for further development.
+We focussed on the AppEngine platform, because it was
+tremendously scalable and had were we could be confident,
+that it was already representing the true costs of a planet scale
+computing platform.

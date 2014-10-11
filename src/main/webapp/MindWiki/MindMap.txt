@@ -1,0 +1,12 @@
+Idee: Eine Karte aller 
+* MindPlace's im MindWiki
+* MindPeople, die eine HomeStead angegeben haben
+* Jeden MindMove
+** Jeden Zug mit ZugStrom
+** Die Flüge der AirLine
+** Jeden MindWay in der Umgebung vom GruenWunder und BlauWunder
+** Alle Mähdrescher in DeutschLand beim HarVest
+* Alle SeeKabel auf PlanetErde
+* MindIp
+
+später unter http://noopolis.org/map

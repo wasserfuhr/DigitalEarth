@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Cornelius_Boersch]
+* BornIn: 1968
+* BirthDay: 04-11
+* MindSkill: VentureCapital RfId

@@ -1,0 +1,8 @@
+* IsA: MindMac
+* OperatingSystem: Mac OS X 10.4.11
+* OwnedBy: RainerWasserfuhr
+* SerialNumber: W87011W1W0H
+
+* Prozessortyp:	Intel Core 2 Duo
+* Prozessorgeschwindigkeit: 2.33 GHz
+* Speicher: 2 GB

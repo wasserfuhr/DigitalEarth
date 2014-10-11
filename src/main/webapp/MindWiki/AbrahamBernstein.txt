@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* SwDf: http://data.semanticweb.org/person/abraham-bernstein
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/AbrahamBernstein
+* HomePage: http://www.ifi.uzh.ch/ddis/bernstein.html

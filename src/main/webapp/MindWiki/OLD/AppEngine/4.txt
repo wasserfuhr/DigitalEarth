@@ -1,0 +1,4 @@
+* InterWiki: [DeWikiPedia:Google_App_Engine] [LangReiter:Google+App+Engine] [WebSeitz:GoogleAppEngine]
+* HomePage: http://appengine.google.com/
+
+BigTable AsService

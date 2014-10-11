@@ -1,0 +1,26 @@
+;
+;
+;{{{
+
+(do
+ (defn camelify [camels]
+  (apply str
+   (map
+    (fn [keyword]
+     (str "<a href='http://mindbroker.de/wiki/" (.trim keyword) "'>" (.trim keyword) "</a>"))
+      (seq 
+       (.split
+        camels
+        ",")))))))
+ (defn handle [name view controller]
+  (if
+    (.startsWith (.getPathInfo request) (str "/" name))
+    (str
+       "<h2>" (.toUpperCase (.substring name 0 1)) (.substring name 1) "</h2>" (view))))
+;  (if
+ ;   (.startsWith (.getPathInfo request) (str "/do/" name))
+  ;    (do
+   ;     (controller)
+    ;    (.sendRedirect response (str "/" name "?message=created"))))
+    )
+;}}}

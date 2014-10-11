@@ -1,0 +1,12 @@
+* IsA: EventSeries
+* InterWiki: [DdWiki:Bunte_Republik_Neustadt] [DeWikiPedia:Bunte_Republik_Neustadt]
+* HomePage: http://www.bunterepublikneustadt.de/
+* HashTag: brn
+
+||ComPare   ||NooPolis||BuntRepublik
+|           |PlanetErde|NeuStadt
+|           |KayGroschen|Neustadtmark
+|Wechselkurs|ForEx     |1:1 DeMark
+|           |CabiNet|ordentliche Prov. Regierung
+
+GregorKunz

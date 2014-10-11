@@ -1,0 +1,9 @@
+MindVote for the KabiNett of NooPolis:
+
+All CitiZens have up to 5 votes:
+
+||Kandidat        ||receives MindVote from
+|HeikeRibke       |RainerWasserfuhr
+|ChristineSchlinck|RainerWasserfuhr
+|FrankLorenz      |RainerWasserfuhr
+|CemBasman        |RainerWasserfuhr

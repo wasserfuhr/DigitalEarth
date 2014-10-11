@@ -1,0 +1,3 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Barbara_Bel_Geddes] [OpenCyc:BarbaraBelGeddes]
+* BirthDay: 10-31

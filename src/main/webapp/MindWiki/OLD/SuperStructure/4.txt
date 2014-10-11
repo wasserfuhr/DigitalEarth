@@ -1,0 +1,4 @@
+Dinge die so gross und aufregend sind dass nicht nur WunderKind'er, sondern auch grosse und SchlaueJungs
+feuchte Augen davon bekommen. MindTower, ChineseWall & co.
+
+In der Regel also mindestens eine BoundingBox > 1000

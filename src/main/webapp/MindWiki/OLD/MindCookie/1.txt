@@ -1,0 +1,16 @@
+ClickDummy:
+
+{{{
+Dies ist Dein MindCookie:
+   $select 8 random from SinnAtome$
+}}}
+
+SinnAtome=
+* Aa
+* Ab
+* Ac
+* ...
+* ...
+* Zx
+* Zy
+* Zz

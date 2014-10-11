@@ -1,0 +1,78 @@
+;
+;{{{
+
+((defn index []
+  (handle ""
+   (fn []
+     (if (.equals "/" (.getPathInfo request))
+      (str
+          "<h3><a href='http://mindbroker.de/wiki/BuergerInnen'>BuergerInnen</a></h3>"
+       	  "<table>"
+ 	  (apply str 
+	   (map
+	     (fn [x]
+	       (str
+	         "<tr>"
+	         (apply str (map 
+	           (fn [y]
+	             (str "<td>"
+	              (if (and (< y 8) (= x 0))
+	               (let
+	                [person
+	                  (get ["RainerWasserfuhr" "YvonneSchubert" "DanielPoodratchi" "RicardaDHerbrand"
+	                            "ChristineSchlinck" "HeidiGallinat" "RalfLippold" "SimonKoeppl"
+	                            "UteMoritz"
+       	                ] (- 7 y))]
+	                 (str
+	                  "<a href='http://mindbroker.de/wiki/" person "'><img src='" 
+	                    (cache nil (keyword person) ) "' width='46' height='46'/></a>" )
+	               )
+	              )
+	             "</td>")) 
+	           (range 8)))
+                 "</tr>")) 
+	     (range 8)))
+	  "</table>"
+          "<h3>RecentEvents</h3>"
+
+(let
+ [hConf (new org.apache.hadoop.hbase.HBaseConfiguration)
+  hTable (new org.apache.hadoop.hbase.client.HTable hConf "EventLog")]
+ ((defn scanRow [zz]
+   (let
+    [next (.next zz)]
+    (if next
+     (let [eventType (new String (.getValue (.get next "log:EventType")))]
+      (str
+       "<li>"
+         (.format
+          (new java.text.SimpleDateFormat "yyyy-MM-dd hh:mm:ss")
+          (getTimestamp next)) ": "
+         (if (.equals "LogIn" eventType) ; TODO: WikiName from MindId table:
+          (str
+           "<a href='http://mindbroker.de/wiki/" :RainerWasserfuhr "'><img src='" 
+            (cache nil :RainerWasserfuhr ) "' width='20' height='20'/></a>"          
+          "RainerWasserfuhr (MindId " (new String (.getValue (.get next "log:MindId"))) ") logged in."))
+         (if (.equals "LogOut" eventType)
+          (str
+           "<a href='http://mindbroker.de/wiki/" :RainerWasserfuhr "'><img src='" 
+            (cache nil :RainerWasserfuhr ) "' width='16' height='16'/></a>"          
+           "RainerWasserfuhr (MindId " (new String (.getValue (.get next "log:MindId"))) ") logged out."))
+         (if (.equals "JoinNow" eventType)
+          (str
+           "<a href='http://mindbroker.de/wiki/" :RainerWasserfuhr "'><img src='" 
+            (cache nil :RainerWasserfuhr ) "' width='12' height='12'/></a>"          
+           (new String (.getValue (.get next "log:WikiName"))) 
+            " wants to join NooPolis. <a href='/join#check'>check now.</a>"))
+       "</li>"
+      (scanRow zz))))))
+  (.getScanner hTable (into-array ["log:"]))
+ )
+)
+
+      )
+      ))
+   ""))
+   )
+
+;}}}

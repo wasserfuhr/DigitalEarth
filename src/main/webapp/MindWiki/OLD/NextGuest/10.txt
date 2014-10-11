@@ -1,0 +1,35 @@
+at LockOffice? BrainStorm:
+||PerSon           ||InvitedBy
+|JanaDiesner       |RalfLippold
+|JanaKaluscha      |RainerWasserfuhr
+|JanBoehme         |RalfLippold
+|JanKreuter        |RainerWasserfuhr
+|JensBemme         |RalfLippold
+|JensUweSauer      |RalfLippold
+|JoergKeller       |RainerWasserfuhr
+|JuergenAnke       |RalfLippold
+|JuergenKohn       |RainerWasserfuhr
+|JuliaBonk         |WinfriedLueg
+|KlausNicolai      |RainerWasserfuhr
+|RalphSonntag      |RalfLippold
+|ReneBoehm         |RainerWasserfuhr
+|HeidiGallinat     |RainerWasserfuhr
+|AndreasPoldrack   |RainerWasserfuhr
+|NorbertRost       |RalfLippold
+|AnneRichter       |RalfLippold
+|ConstanceWolter   |RalfLippold
+|NadineOhneE       |RalfLippold
+|HolgerBertling    |RainerWasserfuhr
+|SiggiSchwarz      |RainerWasserfuhr
+|SebastianBoehm    |RainerWasserfuhr
+|YvonneSchubert    |RainerWasserfuhr
+|WinfriedLueg      |RalfLippold
+|MarcusBertelsmeier|RalfLippold
+|KatharinaKuehnel  |RainerWasserfuhr
+|EvaLubas          |RainerWasserfuhr
+|FrankLorenz       |RainerWasserfuhr
+|DirkHilbert       |RalfLippold
+|FrankSchoenefeld  |RalfLippold
+|HelmaOrosz        |DirkHilbert
+|RayKurzweil       |RalfLippold
+|StanislawTillich  |HelmaOrosz

@@ -1,0 +1,39 @@
+;
+;
+;{{{
+
+((defn farm [] 
+  (handle "farm"
+   (fn []
+    (let [
+      ; http://www.flickr.com/photos/kyz/3565873025/ :
+      furrowsPng "http://farm4.static.flickr.com/3602/3565873025_fe85762da9_s.jpg"
+      ; http://www.flickr.com/photos/tgraham/2814942046/ :
+      wheatPng "http://farm4.static.flickr.com/3195/2814942046_ccfcfcc745_t.jpg"
+      ; http://www.flickr.com/photos/abhijittembhekar/3345977842/sizes/t/ :
+      redApplePng "http://farm4.static.flickr.com/3576/3345977842_3dde8aacbd_t.jpg"
+    ]
+     (str "This is our virtual map. Soon you can buy land and grow plants on it."
+      "Edit <a href='http://mindbroker.de/wiki/MindFarm'>MindFarm</a>"
+      "<table style='padding:2px; margin:2px;'>"
+      " <tr>"
+      "  <td valign='top' style='padding:2px; padding-top:5px; margin:2px; width:75px; height:75px; background-image:url(" furrowsPng "); background-repeat:no-repeat;'>"
+      "   <a href='http://mindbroker.de/wiki/RainerWasserfuhr'><img src='" (cache nil :RainerWasserfuhr) "' width='32' height='32'/></a><br/>"
+      "    <img style='padding:12px;' src='" redApplePng"' width='50' height='33'/>
+         </td>"
+      "  <td valign='top' style='padding:2px; margin:2px; width:75px; height:75px; background-image:url(" furrowsPng "); background-repeat:no-repeat;'>"
+      "    <a href='http://mindbroker.de/wiki/RainerWasserfuhr'><img src='" (cache nil :RainerWasserfuhr) "' width='32' height='32'/></a><br/>"
+      "    <img style='padding:12px;' src='" wheatPng "' width='50' height='33'/>
+         </td>"
+      "  <td valign='top' style='padding:2px; margin:2px; width:75px; height:75px; background-image:url(" furrowsPng "); background-repeat:no-repeat;'>"
+      "  </td>"
+      " </tr>"
+      " <tr>"
+      "  <td valign='top' style='padding:2px; padding-top:5px; margin:2px; width:75px; height:75px; background-image:url(" furrowsPng "); background-repeat:no-repeat;'>"
+      "  </td>"
+      "  <td valign='top' style='padding:2px; margin:2px; width:75px; height:75px; background-image:url(" furrowsPng "); background-repeat:no-repeat;'>"
+      "  </td>"
+      " </tr>"
+     "</table>"))
+   ) ""))))
+;}}}

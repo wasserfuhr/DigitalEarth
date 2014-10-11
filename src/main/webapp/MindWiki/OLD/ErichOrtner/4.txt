@@ -1,0 +1,9 @@
+* IsA: ProFessor
+* JahrGang: 1948
+* DbLp: http://dblp.uni-trier.de/rec/pid/o/ErichOrtner
+* HomePage: http://www.metainformationen.de/team/ortner.php
+* MindSkill: KunstSprache
+* PageNumber: 8
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach TheoHaerder ErichOrtner
+* TurkNumber: 6
+* TurkPath: ZigaTurk PeterLinde JohnSmith NorbertStreitz ThorstenPrante RalfSteinmetz ErichOrtner

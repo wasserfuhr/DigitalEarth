@@ -1,0 +1,2 @@
+* IsA: ProFessor
+* HomePage: http://vlado.fmf.uni-lj.si/

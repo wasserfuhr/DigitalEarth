@@ -1,0 +1,15 @@
+wir sprechen in NooPolis vorerst gepflegtes denglish, aber bald auch:
+* zh (867) XianFa
+* en (690) ConStitution
+* hi (525)
+* es (447) ConStitucion
+* fr (447) LaConstitution
+* ar (290) دستور
+* ru (240) Конституция
+* pt (218) ConStituicao
+* de (155) VerFassung
+* tr (70) Anayasa
+* el (12) Σύνταγμα
+* sl (2) UstavaNooPolis
+
+[DeWikiPedia:Weltsprache]

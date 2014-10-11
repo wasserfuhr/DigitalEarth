@@ -1,0 +1,6 @@
+Jeder MitWirkende sollte folgende Wikipages kennen:
+*[http://de.wikipedia.org/wiki/Wikipedia:Sei_mutig]
+*[http://de.wikipedia.org/wiki/Wikipedia:Neutraler_Standpunkt]
+*http://c2.com/cgi/wiki?DoTheSimplestThingThatCouldPossiblyWork
+*http://c2.com/cgi/wiki?WhatIsRefactoring
+*http://de.wikipedia.org/wiki/CamelCase

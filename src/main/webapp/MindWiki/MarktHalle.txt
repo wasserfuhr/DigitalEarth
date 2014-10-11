@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.060234
+* LaengenGrad: 13.74484
+* BoundingBox: 110
+* GraDient: 135
+* SlimNess: 0.3
+* HomePage: http://www.markthalle-dresden.de/

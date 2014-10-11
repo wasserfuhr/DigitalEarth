@@ -1,0 +1,17 @@
+||Ort                 ||Nr  ||Breitengrad||Längengrad||VorName
+|WirkZentrum          |     |51.0738 |13.7299|Adrian
+|KaetheKollwitzUfer   |76-79|51.05993|13.78813|Bernd 
+|SchillerGarten       |     |51.05231|13.80918|Christian
+|AugsburgerStrasse    |72
+|WernerHartmannStrasse|6
+|HauptStrasse         |36
+|VoglerStrasse        |9
+|PirnaischerPlatz     |
+|PohlandPlatz         |
+|RobertBerndtStrasse  |1
+|DresdnerSchloss      |
+
+MitWirkende:
+* Yvonne
+* A.S.
+* RainerWasserfuhr

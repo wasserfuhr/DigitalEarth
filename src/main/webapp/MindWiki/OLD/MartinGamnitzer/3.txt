@@ -1,0 +1,8 @@
+* WohnSitz: Leipzig
+* SprachWelt: de
+* TimeZone: CET
+
+||AusLand
+|[XingLe:Martin_Gamnitzer]
+|[YaHoo:media9966]
+|[SkyPe:media9966]

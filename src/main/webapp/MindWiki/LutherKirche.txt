@@ -1,0 +1,4 @@
+* IsA: GottesHaus
+* InterWiki: [DdWiki:Lutherkirche] [DeWikiPedia:Martin-Luther-Kirche_(Dresden)]
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/67351231
+* PartOf: MartinLutherPlatz

@@ -1,0 +1,9 @@
+* HerKunft: [DeWikiPedia:Namen_Seouls]: "Seoul ist die Umschrift des koreanischen Namens (Seoul: 서→seo, 울→ul) nach dem offiziellen südkoreanischen Romanisierungssystem, das das Kulturministerium im Jahr 2000 revidierte."
+* IsA: MindCity
+* InterWiki: [DeWikiPedia:Seoul]
+* BreitenGrad: 37.5656
+* LaengenGrad: 126.9781
+* BoundingBox: 25000
+* MindCount: 11000000
+
+서울

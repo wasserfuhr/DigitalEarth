@@ -1,0 +1,18 @@
+||                  ||SecondLife        ||NooPolis
+|Währung            |Lindendollar       |KayGroschen
+|Geldmengenpolitik  |in-TransParent     |konstant
+|Bank               |in-TransParent     |TransParent
+|SocialObject       |3D-Welt            |Wiki-Texte,MindMap,SourceCode
+|WebOfTrust         |-                  |MindTrust
+|VerFassung         |-                  |ja, VerFassung
+|BuergerBeteiligung |-                  |UrWahl, MindVote
+
+Während SecondLife in einer komplett neuen Welt spielt, basiert NooPolis anfangs auf der realen Welt.
+NooPolis bildet anfangs das SocialNetwork realer Personen als WebOfTrust ab.
+BuergerInnen können fiktionale PerSona in die reale Welt einführen und schreiben gemeinsam am RealRoman, dem Drehbuch für den RealFilm.
+Die Welt von NooPolis ist PostReal'er UtopischerKapitalismus. Dies sind Projekte wie der MindTower.
+
+
+
+Tools:
+* http://sourceforge.net/projects/primdotblender: Blender2SL

@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Viktor_Korchnoi]
+* JahrGang: 1931
+* BirthDay: 03-23

@@ -1,0 +1,3 @@
+* MindTags: EventSeries
+* HomePage: http://www.webmontag.de/
+* MindOne: TimBonnemann

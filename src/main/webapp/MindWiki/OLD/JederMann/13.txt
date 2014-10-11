@@ -1,0 +1,26 @@
+MindBroker und NooPolis sind vorerst nicht für JederMann, sondern ein wenig LeEt.
+
+Zur Zeit sind folgende Dinge für JederMann unter http://www.mindbroker.de/ verfügbar:
+* Lesender Zugriff auf das MindWiki
+
+Nach Einladung durch bestehende BuergerInnen (WerdeMindBroker) sind verfügbar:
+* eine MindId
+* ein BankKonto mit KayGroschen zur Teilnahme am WirkMarkt
+
+Bald könnten dort auch folgende Dinge für JederMann sein:
+* die Teilnahme an der UrWahl und der KabiNettWahl
+* die MindId als besonders VerTrauen'swürdige OpenId auf anderen Websites
+* ein MindMe als persönliches LifeWiki.
+* ein Depot zum Handeln von MindShare's an virtuellen Unternehmen und zum Prognostizieren von DealFutures
+* die Dienste anderer StartUp's
+
+DasMan.
+
+Für den RealFilm könnte man 10 oder 100 Figuren entwerfen, die
+Repräsentanten für die Weltbevölkerung sind, also
+* 51 Frauen, 49 Männer
+* 20 Chinesen, 18 Inder, 5 aus den UnitedStates, 1 aus DeutschLand ...
+* 90 Heteros, 5 GayRomeo's, 5 Bi's
+* 1 Milliardär, 1 Millionär, 10 aus der MittelSchicht, ..., 20 ohne ObDach
+* 1 ProFessor, 1 Doktore, 2 Ingenieure, 70 ArBeit'er, 15 ArBeit'slose...
+* 20 WunderKind'er, 20 Schüler, 10 Studenten, ... 20 Rentner

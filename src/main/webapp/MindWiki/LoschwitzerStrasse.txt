@@ -1,0 +1,3 @@
+* IsA: MindStreet
+* ConnectsTo: BlasewitzerStrasse HaendelAllee LeneGlatzerPlatz VogesenWeg 
+* NamedAfter: LoschWitz

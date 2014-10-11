@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* InterWiki: [DeWikiPedia:Haus_Bautzner_Straße_82_(Dresden)]
+* PartOf: BautznerStrasse

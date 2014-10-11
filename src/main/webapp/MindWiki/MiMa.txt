@@ -1,0 +1,18 @@
+MindMachine
+
+SelfModel AppEngine ByteCode BigTableNomic AiGame MindJar
+
+allows extremly fast InFer'ences.
+
+The duration of thoughts is broken down to a limit
+dictated by the AppEngine quota.
+Long running processes might be modelled by tasks queues.
+The architecture is highly reflective:
+Thoughts are represented as classes in the mind.* package.
+This gives us a 
+
+Here is
+
+|AppEngine
+|CorticalColumn
+||Energy

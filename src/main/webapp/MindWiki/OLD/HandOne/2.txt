@@ -1,0 +1,4 @@
+* MindTags: MindThing
+* BoundingBox: 0.2
+* PartOf: ArmOne
+* PieschenTv: http://seesmic.com/video/ehQR3klHv8

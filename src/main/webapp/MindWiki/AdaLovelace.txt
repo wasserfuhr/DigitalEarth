@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Ada_Lovelace], [WikiWikiWeb:AdaLovelace]
+* BirthDay: 12-10

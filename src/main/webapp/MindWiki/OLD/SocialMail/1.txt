@@ -1,0 +1,3 @@
+SocialMail = OpenId + OpenIdWiki:Send_A_Message_Protocol + WebOfTrust,
+
+where WebOfTrust = Decentralized OpenId-whitelist management.

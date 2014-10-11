@@ -1,0 +1,5 @@
+* MindTags: MindThing
+* InterWiki: [OpenCyc:IcebergThatSankTheTitanic]
+* HasTouched: RmsTitanic
+
+AtlanticOcean

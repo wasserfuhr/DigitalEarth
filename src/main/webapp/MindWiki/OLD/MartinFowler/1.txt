@@ -1,0 +1,2 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Martin_Fowler], [WebSeitz:MartinFowler], [WikiWikiWeb:MartinFowler]

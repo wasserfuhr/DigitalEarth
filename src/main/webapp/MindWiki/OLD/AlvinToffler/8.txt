@@ -1,0 +1,10 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Alvin_Toffler] [WikiPedia:Alvin_Toffler]
+* JahrGang: 1928
+* BirthDay: 10-03
+* DbLp: http://dblp.uni-trier.de/rec/pid/92/3163
+* ViAf: http://viaf.org/viaf/82536768
+* PagePath: ... EsterDyson AlvinToffler
+* EheVertrag: HeidiToffler
+* MindSkill: ShockLevel
+* HasTalked: MikhailGorbachev AbdulKalam

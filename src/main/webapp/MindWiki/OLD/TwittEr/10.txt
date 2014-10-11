@@ -1,0 +1,28 @@
+http://twitter.com/home
+
+MindPeople mit CamelCase-TwittEr-Name:
+* JeffClavier
+* BillSeitz
+* LarsHinrichs
+* LionKimbro
+* MaryHodder
+* NotTechcrunch40
+* OrenMichels
+* PickiHH (fast, siehe [SourceCode|http://websvn.mindbroker.de/showfile.svn?path=%2fde.mindbroker.core%2ftrunk%2fsrc%2fmain%2fjava%2fde%2fmindbroker%2fcore%2fWikiNameParser.java&revision=HEAD&name=opensource] ;) )
+* RobHayes
+* StephAgresta
+* TechCrunch
+
+InterWiki: http://webseitz.fluxent.com/wiki/TwittEr
+
+
+RIP:
+* http://twitter.com/fukami
+* http://twitter.com/daniele
+* http://twitter.com/DavePollard
+* http://twitter.com/Sunir
+* http://twitter.com/tintobrass
+* http://twitter.com/johnrobb
+* http://twitter.com/shermann
+* http://twitter.com/MichaelSeidlitz
+* http://twitter.com/edelbild

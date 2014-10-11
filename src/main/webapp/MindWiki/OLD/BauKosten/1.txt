@@ -1,0 +1,22 @@
+für den LockSchuppen:
+
+* 5000 qm Gesamtfläche
+* 1500 qm Gebäudegrundfläche, davon:
+** 1200 qm BigSchuppen
+* 2500 qm Nutzfläche
+* 3500 qm Aussenanlage
+
+Sanierungskosten
+* Gebäude
+** 5.000.000 EuRo (2500qm zu 2000 EuRo)
+* Aussenanlage
+** 350.000 EuRo (3500qm zu 100 EuRo)
+
+Alternativ: Pacht
+* 10000 EuRo/Monat
+
+Fertigstellung
+* 201103
+
+Optional: Solardach:
+* 800 qm, 100 Watt pro qm

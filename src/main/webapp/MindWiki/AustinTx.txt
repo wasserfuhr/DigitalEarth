@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* InterWiki: [WebSeitz:AustinTx]
+* NamedAfter: StephenFAustin

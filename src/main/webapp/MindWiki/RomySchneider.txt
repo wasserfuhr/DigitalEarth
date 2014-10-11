@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Romy_Schneider]
+* BornIn: 1938
+* BirthDay: 09-23
+* DiedIn: 1982

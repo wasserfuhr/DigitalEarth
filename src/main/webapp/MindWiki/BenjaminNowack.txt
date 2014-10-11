@@ -1,0 +1,6 @@
+* IsA: PerSon
+* SwDf: http://data.semanticweb.org/person/benjamin-nowack
+* DbLp: http://dblp.uni-trier.de/rec/pid/76/2192
+* HomePage: http://bnode.org/
+|[TwittEr:bengee]
+|[XingLe:Benjamin_Nowack]

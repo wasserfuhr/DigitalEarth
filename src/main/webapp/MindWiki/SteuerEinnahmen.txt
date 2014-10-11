@@ -1,0 +1,15 @@
+NooPolis erhebt von seinen Bürgern Steuern. Das SteuerSystem ist Teil des HausHalt’es und unterliegt der SelbstOrganisation. 
+
+In NooPolis wird ausschließlich tatsächlich bezogenes Einkommen besteuert. Konsum ist prinzipiell steuerfrei. 
+
+Als Einkommen werden betrachtet alle Arbeits- und Kapitaleinkommen, die durch Bürger für Bürger innerhalb von NooPolis realisiert werden. Dabei ist es unerheblich, ob dieses Einkommen einmalig oder wiederkehrend erzielt wird. Dabei soll die Besteuerung auf rein ökonomischen Grundsätzen beruhen. 
+
+Einen kleinen Teil der Steuern erhält das Unternehmen MindBroker als Ausgleich für das Hosting von NooPolis. Die Verwendung des überwiegenden Teils der SteuerEinnahmen wird im HausHalt durch SelbstOrganisation geregelt. 
+
+Da die PieschenBank alle Handelstransaktionen kennt, kann NooPolis mit verschiedenen Steuerformen experimentieren
+und auch ganz neue dynamische Modelle der Besteuerun ausprobieren. Beispielsweise ein "TaxVote", bei dem jeder Bürger in Echtzeit
+seine gewünschte Steuerprogression angeben kann. Die gültige Progression von NooPolis errechnet sich dann dynamisch aus dem Durchschnitt aller abgegebenen TaxVotes.
+ 
+Ähnliche dynamische Modelle wären denkbar für:
+* Vermögenssteuer
+* Erbschaftssteuer

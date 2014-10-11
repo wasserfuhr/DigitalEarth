@@ -1,0 +1,4 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/82/4446
+* HomePage: http://www.ipsi.fraunhofer.de/ambiente/profil/mitarbeiter/prante.html
+|[XingLe:Thorsten_Prante]

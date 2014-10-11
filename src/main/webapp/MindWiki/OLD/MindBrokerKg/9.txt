@@ -1,0 +1,19 @@
+Gegründet 1999 von RainerWasserfuhr und YvonneSchubert als [DeWikiPedia:Kommanditgesellschaft] in der StadtDresden auf dem HoheitsGebiet der Bundesrepublik DeutschLand.
+
+* FirmenSitz: WirkZentrum
+* RechtsForm: KommanditGesellschaft
+* VertretungsBerechtigt: RainerWasserfuhr
+* HandelsRegister: StadtDresden, HRA 3908
+* UstId: DE209784000
+
+Projekte:
+
+||Status||Name
+|LIVE|IntraBroker
+|LIVE|MuevaPlan
+|LIVE|SiemensDematic
+|LIVE|AdiDas
+|LIVE|TeHome
+|LIVE|DeutschePost: AZLN
+|LIVE|DeutschePost: PEP
+|DONE|Consulting für ComBots

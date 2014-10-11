@@ -1,0 +1,18 @@
+* InterWiki: [DeWikiPedia:Wechselkurs]
+
+Der WechselKurs gibt an, in welchem Verhältnis KayGroschen in EuRo und andere Währungen getauscht werden können. 
+
+Hier können BuergerInnen von NooPolis die KayGroschen auf ihrem BankKonto zumm Kauf oder Verkauf gegen EuRo anbieten:
+
+||BuergerInnen     ||bieten EuRo||für KayGroschen
+|RainerWasserfuhr  |18.00|1000
+|RainerWasserfuhr  |15.00|1000
+|RainerWasserfuhr  |12.00|1000
+|RainerWasserfuhr  |10.00|1000
+
+Der Tausch wird bald per Auktions-WebApp über http://bank.mindbroker.de/ erfolgen.
+
+!Andere WechselKurs'e:
+||EuRo||UsDollar||RMB||LindenDollar||
+|    1|     1.53|10.9|    410
+Ein WechselKurs kann einen bestimmten ZyKlus haben.

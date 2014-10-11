@@ -1,0 +1,5 @@
+* IsA: MindFilm
+* InterWiki: [DeWikiPedia:Spur_der_Steine_(Film)]
+
+||SchauSpieler||MindRole
+|ManfredKrug|HannesBalla

@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Gottfried_Mind]
+* JahrGang: 1768
+* LebensEnde: 1814
+* MindFaves: MindPet,WunderKind

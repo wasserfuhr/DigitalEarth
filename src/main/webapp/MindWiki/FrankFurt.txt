@@ -1,0 +1,6 @@
+* IsA: MindCity
+* InterWiki: [DeWikiPedia:Frankfurt_am_Main]
+* BreitenGrad: 50.133
+* LaengenGrad: 8.657
+* BoundingBox: 16000
+* PartOf: LandHessen

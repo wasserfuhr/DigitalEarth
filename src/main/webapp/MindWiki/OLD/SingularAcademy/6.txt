@@ -1,0 +1,41 @@
+* IsA: HochSchule
+|[TwittEr:singularay]
+
+At the SingularAcademy you can learn to understand AcceleratingChange and to apply it's consequences to your life.
+
+The SingularAcademy is a joint ProJect started by RalfLippold and RainerWasserfuhr under the umbrella of the LockSchuppenAg, in order to disseminate the ConCept of TheSingularity by using WebZwoNull technologies for LifeLongLearning.
+
+MissionStatement: bringing the ConCept of TheSingularity to EurOpa
+
+DresdenProcess:
+A new modular PeerToPeer education ProCess fixing the BolognaProcess.
+
+An entirely OnLine based CoLearning ProCess. The curriculum is broken down to CourseWare with units of networked ScreenR ScreenCast's.
+
+A ScientificCommittee will ReView the ScreenCast's and assign different amounts of KayGroschen for each ScreenCast.
+
+BrainStorm:
+
+Candidates for ScientificCommittee:
+* DirkRiehle
+* GunterDueck
+* JeanPolMartin
+* KlausLandfried
+* MartinGaedke
+* RalphSonntag
+* WolfgangBibel
+* ZigaTurk
+
+Candidates as ManagingDirector's:
+* BastiHirsch
+* BjoernNegelmann
+* ChristianSpannagel 
+* DavidOrban
+* RainerWasserfuhr
+* RalfLippold
+
+ToDo/NextAction's:
+* ask people to JoinNow as ScientificCommittee or ManagingDirector's.
+
+done:
+* requested and approved 2 718 281 KayGroschen from GovernmentBudget of NooPolis (Yes, it is InspiredBy the EulerNumber)

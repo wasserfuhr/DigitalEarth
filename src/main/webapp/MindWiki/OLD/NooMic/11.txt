@@ -1,0 +1,4 @@
+; do some basic forms:
+
+(.concat "<form><input type=submit value=gagaga></form>" ((if (.getParameter request "x") (.getParameter request "x") "")
+

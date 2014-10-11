@@ -1,0 +1,63 @@
+Alpha: http://doit.mindbroker.de/
+
+svn://svn.mindbroker.de/opensource/de.mindbroker.doit
+
+Bugs:
+* man kann kein neues todo erstellen wenn man auf "edit" geklickt hat
+* auf Windows Mobile funktioniert Login-Button nicht
+
+done:
+* form input "note" enthält leerzeichen
+* form input "context" enthält leerzeichen
+* "do:" und "thing:" sollten left-align sein
+* im h1 von /contexts steht "doit.mindbroker.de" statt "do.mindbroker.de"
+* auf http://127.0.0.1:8080/contexts ist "start" nicht verlinkt
+
+DoIt: Jedes Item dieser Tabelle als DoIt-Item:
+
+||Actor||Phase||Project||Status||Action
+|DanielPoodratchi|AlphaTest|DoThings|0%|integriere deadline
+|DanielPoodratchi|LIVE     |UnserGrid|0%|RSS Feed
+|RainerWasserfuhr|LIVE     |SourceCode|50%|ziehe websvn auf EcZwo um
+|RainerWasserfuhr|AlphaTest|DoThings|0%|alternative zu informa
+|RainerWasserfuhr|AlphaTest|DoThings|0%|löse Problem zu ContextSort (rede mit Daniel darüber)
+|DanielPoodratchi|AlphaTest|DoThings|0%|integriere mindbroker.core
+|DanielPoodratchi|AlphaTest|DoThings|0%|integriere Seitenwechsel
+|DanielPoodratchi|AlphaTest|DoThings|0%|erstelle die Seite: "Konfiguration" 
+|DanielPoodratchi|AlphaTest|DoThings|0%|integriere export Funktion für DoThings zu iCal (ics)
+|DanielPoodratchi|AlphaTest|DoThings|0%|integriere Projects
+|AndreasWeigel|AlphaTest|DoThings|100%|integriere Dummy Layout zum einloggen (neue Startseite)
+|AndreasWeigel|AlphaTest|DoThings|0%|bei allen Buttons, hover: Orange
+|AndreasWeigel|AlphaTest|DoThings|0%|integriere bessere DetailAnsicht von den ToDos (schon besprochen)
+|AndreasWeigel|AlphaTest|DoThings|100%|integriere neuen OK Button
+|AndreasWeigel|AlphaTest|DoThings|100%|setze sort- und filterButton genau unter oberen "newDetailDo" button
+|AndreasWeigel|AlphaTest|DoThings|0%|integriere DoJo DatePicker
+|AndreasWeigel|AlphaTest|DoThings|0%|erstelle Haken für dropDownMenüs
+|DanielPoodratchi|AlphaTest|WikiTchen|100%|erstellt webApp
+|DanielPoodratchi|AlphaTest|MindBrokerAg|100%|passe WikiLayout an
+|RainerWasserfuhr|AlphaTest|SportPortal| |schreibe ProjektPlan
+|RainerWasserfuhr|AlphaTest|SportPortal| |schreibe AlphaTester
+|RainerWasserfuhr|AlphaTest|SportPortal| |schreibe BetaTester
+|RainerWasserfuhr|AlphaTest|SportPortal| |schreibe ContinuousIntegration
+|RainerWasserfuhr|AlphaTest|SportPortal| |code die Suchfunktion
+|RainerWasserfuhr|AlphaTest|SportPortal| |refactore Messages und Contacts in Mindbroker core
+|RainerWasserfuhr|AlphaTest|SportPortal| |erweitere DB für: Userguestbooks, Blogfunktion für Clubs/Teams
+|RainerWasserfuhr|AlphaTest|SportPortal| |implementiere Funktion für online/offline Status der user
+|RainerWasserfuhr|AlphaTest|SportPortal| |finde Grafiker für Logo
+|DanielPoodratchi|AlphaTest|SportPortal|  |implementiere Tag-Libraries
+|DanielPoodratchi|AlphaTest|SportPortal|  |code Löschoption für Termine, Nachrichten und Spoooortfreunde
+|DanielPoodratchi|AlphaTest|SportPortal|  |code picUpload für Team und Club
+|DanielPoodratchi|AlphaTest|SportPortal|  |code Passwort vergessen
+|DanielPoodratchi|AlphaTest|SportPortal|  |code Passwort ändern
+|DanielPoodratchi|AlphaTest|SportPortal|  |frage Rainer zu reply=true setzen
+|DanielPoodratchi|AlphaTest|SportPortal|  |frage Rainer zu generic Types
+|DanielPoodratchi|AlphaTest|SportPortal|  |code dynamische Zuordnung Teams->Clubs
+|DanielPoodratchi|AlphaTest|SportPortal|  |code Auswahlmöglichkeit der Sportarten
+|DanielPoodratchi|AlphaTest|SportPortal|  |code userGuestbook
+|DanielPoodratchi|AlphaTest|SportPortal|  |frage Rainer zu NullFeldern
+|AndreasWeigel|AlphaTest|SportPortal|  |implementiere jsp "Sie sind nicht berechtigt..." inkl LoginForm und bigLink zu register.jsp
+|AndreasWeigel|AlphaTest|SportPortal|  |implementiere Grunddesign-/layout
+|AndreasWeigel|AlphaTest|SportPortal|  |optimiere Layout für alle Browser
+|AndreasWeigel|AlphaTest|SportPortal|  |integriere Forms für Passwort ändern und Passwort vergessen
+|YvonneSchubert|-|MindBrokerAg|  |finde UnserAdvocat
+|YvonneSchubert|-|MindBrokerAg|  |kann der AufSichtsRat auch per Skype einberufen werden?

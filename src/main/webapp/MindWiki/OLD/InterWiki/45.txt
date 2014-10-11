@@ -1,0 +1,59 @@
+* InterWiki: [WebSeitz:InterWiki],[WikiWikiWeb:InterWiki]
+* RdfProperty: http://www.systemone.at/2006/03/wikipedia#interwikiLink
+
+Current InterWiki links of the MindWiki: see SystemInfo.
+
+Copy+Paste template for /WEB-INF/jspwiki.properties of JspWiki:
+{{{
+jspwiki.interWikiRef.AhSmallWorld   =http://www2.asmallworld.net/profile/%s
+jspwiki.interWikiRef.AmazonDeProfil =http://www.amazon.de/gp/pdp/profile/%s
+jspwiki.interWikiRef.BiblioNetz     =http://beat.doebe.li/bibliothek/%s.html
+jspwiki.interWikiRef.BlogLines      =http://bloglines.com/public/%s
+jspwiki.interWikiRef.ClaimId        =http://claimid.com/%s
+jspwiki.interWikiRef.CommunityWiki  =http://www.communitywiki.org/en/%s
+jspwiki.interWikiRef.DelIcioUs      =http://del.icio.us/%s
+jspwiki.interWikiRef.DeWikiPedia    =http://de.wikipedia.org/wiki/%s
+jspwiki.interWikiRef.DeWikiPediaUser=http://de.wikipedia.org/wiki/Benutzer:%s
+jspwiki.interWikiRef.DoppLr         =http://www.dopplr.com/traveller/%s
+jspwiki.interWikiRef.FaceBook       =http://www.facebook.com/profile.php?id=%s
+jspwiki.interWikiRef.FaceBookGroup  =http://www.facebook.com/group.php?gid=%s
+jspwiki.interWikiRef.FlickEr        =http://www.flickr.com/photos/%s/
+jspwiki.interWikiRef.FoAf           =http://xml.mfd-consult.dk/foaf/explorer/?foaf=http://%s/foaf.rdf
+jspwiki.interWikiRef.GoogleSearch   =http://www.google.com/search?q=%s
+jspwiki.interWikiRef.IhBay          =http://myworld.ebay.com/%s
+jspwiki.interWikiRef.IsBn           =http://de.wikipedia.org/w/index.php?title=Spezial:ISBN-Suche&isbn=%s
+jspwiki.interWikiRef.JaiKu          =http://%s.jaiku.com/
+jspwiki.interWikiRef.JoinEr         =http://%s.joinr.de/
+jspwiki.interWikiRef.JoiWiki        =http://joiwiki.ito.com/joiwiki/index.cgi?%s
+jspwiki.interWikiRef.JSPWiki        =http://www.jspwiki.org/Wiki.jsp?page=%s
+jspwiki.interWikiRef.LangReiter     =http://www.langreiter.com/space/%s
+jspwiki.interWikiRef.LinkedIn       =http://www.linkedin.com/in/%s
+jspwiki.interWikiRef.MathWorld      =http://mathworld.wolfram.com/%s.html
+jspwiki.interWikiRef.MeatballWiki   =http://usemod.com/cgi-bin/mb.pl?%s
+jspwiki.interWikiRef.MindBlog       =http://%s/
+jspwiki.interWikiRef.MyBlogLog      =http://www.mybloglog.com/buzz/members/%s
+jspwiki.interWikiRef.MyOpenId       =http://%s.myopenid.com/
+jspwiki.interWikiRef.NeuDe          =http://neu.de/profile/%s
+jspwiki.interWikiRef.PiratenWiki    =http://wiki.piratenpartei.de/%s
+jspwiki.interWikiRef.PlasticWiki    =http://www.plasticthinking.org/wiki/%s
+jspwiki.interWikiRef.PlaZes         =http://plazes.com/users/%s
+jspwiki.interWikiRef.PoTs           =skype:%s
+jspwiki.interWikiRef.SecondLife     =http://www.sloog.org/users/%s
+jspwiki.interWikiRef.SevenLoad      =http://en.sevenload.com/users/%s
+jspwiki.interWikiRef.SkyPe          =skype:%s?chat
+jspwiki.interWikiRef.StartupWiki    =http://de.startupwiki.org/%s
+jspwiki.interWikiRef.StromSchnellen =http://stromschnellen.de/nodes/node.jsp?id=%s
+jspwiki.interWikiRef.StromSchnellenClassics=http://classics.stromschnellen.de/nodes/node.jsp?id=%s
+jspwiki.interWikiRef.StudiVz        =http://www.studivz.net/profile.php?ids=%s
+jspwiki.interWikiRef.SuSuh          =http://www.susuh.eu/%s
+jspwiki.interWikiRef.ThoughtStorms  =http://www.nooranch.com/synaesmedia/wiki/wiki.cgi?%s
+jspwiki.interWikiRef.TwittEr        =http://twitter.com/%s
+jspwiki.interWikiRef.TwoThreeHq     =http://www.23hq.com/%s
+jspwiki.interWikiRef.WebSeitz       =http://webseitz.fluxent.com/wiki/%s
+jspwiki.interWikiRef.WikiPedia      =http://en.wikipedia.org/wiki/%s
+jspwiki.interWikiRef.WikiPediaUser  =http://en.wikipedia.org/wiki/User:%s
+jspwiki.interWikiRef.WikiWikiWeb    =http://c2.com/cgi/wiki?%s
+jspwiki.interWikiRef.WorldWideWeb   =http://%s/
+jspwiki.interWikiRef.XingLe         =https://www.xing.com/profile/%s
+jspwiki.interWikiRef.YouTube        =http://youtube.com/user/%s
+}}}

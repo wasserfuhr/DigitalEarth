@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Heidelberg], [OpenCyc:CityOfHeidelbergGermany]
+* BoundingBox: 5000

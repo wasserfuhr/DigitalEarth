@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/97/119
+* PageNumber: 8
+* PagePath: LarryPage ... AlexSmola BernhardSchoelkopf

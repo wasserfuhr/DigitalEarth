@@ -1,0 +1,3 @@
+* IsA: WirtsHaus
+* HomePage: http://www.katysgarage.de/
+* PartOf: AlaunStrasse

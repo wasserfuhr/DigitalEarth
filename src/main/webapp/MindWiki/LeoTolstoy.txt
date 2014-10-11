@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Lew_Nikolajewitsch_Tolstoi], [OpenCyc:LeoTolstoy]
+* JahrGang: 1828
+* BirthDay: 09-09
+* LebensEnde: 1910
+* MindQuote: "Everyone thinks of changing the world, but no one thinks of changing himself."

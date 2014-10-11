@@ -1,0 +1,9 @@
+The SystemDynamics model of LockSchuppenAg.
+
+Nodes:
+
+* LockCoupon
+* LockSession's
+* PageCount
+* #CitiZens
+* ReVenue (EuRo)

@@ -1,0 +1,9 @@
+The next ProJect of RainerWasserfuhr:
+
+Candidates:
+||StandOrt  ||Status||HomeOffice %||OpenBooks
+|StadtBerlin|pending|0|?
+|StadtBerlin|pending|0|?
+|StadtBonn  |pending|0|?
+|KarlsRuhe  |pending|0|?
+|HamBurg    |pending|0|?

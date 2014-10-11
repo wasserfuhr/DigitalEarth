@@ -1,0 +1,18 @@
+Ein wenig OrdNung im PageIndex:
+* NamedEntity
+** EnterPrise
+** EventSeries
+** MindEvent
+** MindPeople
+*** MinisTer
+*** MitWirkende
+**** BuergerInnen
+*** ProFessor
+*** SingularityMind
+*** UnterNehmer
+**** UnternehmensGruender
+*** WikiMind
+*** WunderKind
+** MindPet
+** MindPlace
+** MindThing

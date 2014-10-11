@@ -1,0 +1,9 @@
+* IsA: UnternehmensGruender
+* BornIn: 1975
+* BirthDay: 11-27
+* HomePage: http://www.ibrahimevsan.de/
+|[TwittEr:Ibo]
+|[XingLe:Ibrahim_Evsan]
+|[FaceBook:587774369]
+
+http://d-nb.info/gnd/140098585 ToDo: ViAf

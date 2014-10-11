@@ -1,0 +1,3 @@
+* IsA: DaxUnternehmen
+* InterWiki: [DeWikiPedia:Beiersdorf_AG]
+* IsIn: DE0005200000

@@ -1,0 +1,12 @@
+* MindTags: RdfClass
+* RdfClass: http://www.w3.org/2000/01/rdf-schema#Class
+
+statt einer hierarchischen OrdNung können Seiten im MindWiki mehrere MindTags erhalten.
+
+Zu Beginn jeder Wikiseite als MindProps, zB:
+
+{{{
+* MindTags: MindPeople
+}}}
+
+bald könnte dann per MindApi automatisch der IndexIndex durch eine TagCloud ersetzt werden.

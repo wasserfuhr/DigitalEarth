@@ -1,0 +1,10 @@
+PieschenerAllgemeine made an InterView with RainerWasserfuhr about PieschenBank:
+
+* PieschenerAllgemeine: Hi RainerWasserfuhr, how is the progress now at the PieschenBank?
+* RainerWasserfuhr: The first prototype is now available at http://pieschenbank.de/. 
+* PieschenerAllgemeine: What is special about PieschenBank?
+* RainerWasserfuhr: It is a fully TransParent bank operated almost entirely by OpenSource SoftWare. Furthermore, customers of the PieschenBank can contribute to the SoftWare development and earn KayGroschen. There is AuditingAcceptability: Each user can do almost anything - except deleting. Instead of security, we entirely rely on responsibility.
+* PieschenerAllgemeine: Thank you for the InterView.
+* RainerWasserfuhr: You're welcome.
+
+Questions were asked by RainerWasserfuhr.

@@ -1,0 +1,5 @@
+Ein MindEvent für SingularityMinds.
+
+Teilnehmer:
+* RainerWasserfuhr
+* ThomasPromny

@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* HomePage: http://web.mac.com/ulrichfurbach/
+* DbLp: http://dblp.uni-trier.de/rec/pid/f/UlrichFurbach
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann WolfgangBibel UlrichFurbach
+* MindSkill: ArTelligence

@@ -1,0 +1,14 @@
+* MindTags: MitMachSache
+
+Das Konzept "Faves" kennen viele BuergerInnen schon von FlickEr, YouTube, TwittEr und Co:
+Wenn Dir dort ein Foto, Video oder Twit gefällt, kannst Du es dort oft mit
+einem Click in Deine persönliche Favouritenliste aufnehmen.
+
+Im MindWiki sind die Faves natürlich: WikiPage's! Alle BuergerInnen können MindFaves als MindProps auf ihrer Profilseite angeben. Einfach auf der eigenen WikiPage eine Zeile wie diese anlegen:
+
+{{{
+* MindFaves: KoalaBaerSteak NacktSichtBrille 
+}}}
+
+Current MindFaves of RaWa:
+* TrueMan RealRoman RealFilm MindSummit TrueLove FutureMap KommUnion DistanzSpiel ArTelligence VerGangen 

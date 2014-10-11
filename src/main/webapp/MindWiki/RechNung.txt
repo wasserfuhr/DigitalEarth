@@ -1,0 +1,5 @@
+||               ||            ||Leistung ||      ||     ||     ||    ||
+||von            ||an          ||Datum von||bis   ||Menge||Preis||MwSt||Art
+|DanielPoodratchi|MindBrokerKg |2007-01   |2007-11|x h   |x     |19%  |Programmierung SportPortal
+
+der Rest: bald automatisch per MindApi, MindProps und ApacheFop. UnserSteuerberater wird zuerst vor WikiShock mit den Ohren schlackern aber es bald mögen.

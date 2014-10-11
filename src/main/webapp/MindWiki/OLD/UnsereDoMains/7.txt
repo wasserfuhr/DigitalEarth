@@ -1,0 +1,72 @@
+MindBroker sollte schöne URLs haben.
+
+Vorbilder:
+flickr:
+* http://www.flickr.com/photos/rainerw
+* http://www.flickr.com/photos/rainerw/tags
+* http://www.flickr.com/photos/rainerw/tags/dresden
+* http://www.flickr.com/photos/tags/burjdubai
+* http://www.flickr.com/cameras/
+* http://www.flickr.com/cameras/nikon
+* http://www.flickr.com/cameras/nikon/coolpix_s10
+
+||tdl||DoMain|SubDoMain|UrObjekt
+|de
+|de|mindbroker
+|com
+|net
+
+MindBroker:
+||AgWiki||DoMain||Status
+|MindBrokerKg |http://mindbroker.de  /   |LIVE
+|MindBrokerAg |http://ag.mindbroker.de/
+|MindBooks    |http://books.mindbroker.de/
+|MindEvent    |http://events.mindbroker.de/
+|DoIt         |http://doit.mindbroker.de/
+|UnsereDoMains|http://domains.mindbroker.de/
+|MindFeeds    |http://feeds.mindbroker.de/
+|MindFloor    |http://floor.mindbroker.de/
+|MindBrokerGeo|http://geo.mindbroker.de/ |LIVE
+|UnserGrid    |http://grid.mindbroker.de/
+|MindId       |http://id.mindbroker.de/
+| | http://insider.mindbroker.de/wiki    |LIVE
+| | http://mail.mindbroker.de/
+|MindMusic    |http://music.mindbroker.de/
+|             |http://salsa.mindbroker.de/
+|SportPortal  |http://sport.mindbroker.de/
+|SourceCode   |http://svn.mindbroker.de/
+|SourceCode   |http://websvn.mindbroker.de/           | LIVE
+|WyrdMind     |http://wyrd.mindbroker.de/
+
+* http://*.mindbroker.de/
+
+Sonstige:
+* http://intrabroker.com/ LIVE!
+* http://semantic.stadtwiki.net LIVE!
+* http://sematags.de/
+* http://wikitchen.de/
+* http://wikihosting.de/
+* http://wasserfuhr.com/ LIVE!
+
+SportPortal:
+* http://sport.mindbroker.de/clubs
+* http://sport.mindbroker.de/clubs/create
+* http://sport.mindbroker.de/clubs/123
+* http://sport.mindbroker.de/clubs/123/member
+* http://sport.mindbroker.de/clubs/123/teams
+* http://sport.mindbroker.de/clubs/123/teams/456
+* http://sport.mindbroker.de/profile/rainer
+* http://sport.mindbroker.de/profile/rainer/edit
+* http://sport.mindbroker.de/profile/rainer/events
+* http://sport.mindbroker.de/profile/rainer/gallery
+* http://sport.mindbroker.de/profile/rainer/messages
+* http://sport.mindbroker.de/profile/rainer/fans
+* http://sport.mindbroker.de/search
+* http://sport.mindbroker.de/search/user
+* http://sport.mindbroker.de/search/club
+* http://sport.mindbroker.de/search/team
+* http://sport.mindbroker.de/search/event
+* http://sport.mindbroker.de/imprint
+* http://sport.mindbroker.de/sitemap
+* http://sport.mindbroker.de/join
+* http://sport.mindbroker.de/privacy

@@ -1,0 +1,3 @@
+* MindTags: ProFessor
+* HomePage: http://bayes.cs.ucla.edu/jp_home.html
+* MindSkill: ArTelligence

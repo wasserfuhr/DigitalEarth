@@ -1,0 +1,6 @@
+Like MindZip, but with TapeArchiver
+
+http://mindbroker.de/mind.tar.gz
+
+NepTun:~/Desktop/mnt 2/wiki rainer$ mkdir a b c d e f g h i j k l m n o p q r s t u v w x y z
+NepTun:~/Desktop/mnt 2/wiki rainer$ mv A* a; mv B* b; mv C* c; mv D* d; mv E* e; mv F* f; mv G* g; mv H* h; mv I* i; mv J* j; mv K* k; mv L* l; mv M* m; mv N* n; mv O* o; mv P* p; mv Q* q; mv R* r; mv S* s; mv T* t; mv U* u; mv V* v; mv W* w; mv X* x; mv Y* y; mv Z* z  

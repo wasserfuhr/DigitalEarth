@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* BirthDay: 01-15
+* HomePage: http://www.schneier.com/

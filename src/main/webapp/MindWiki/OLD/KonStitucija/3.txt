@@ -1,0 +1,10 @@
+* WeltSprache: VerFassung
+* SprachWelt: lt
+hallo IngridaPlunksnyte
+
+!Grundsatz
+* FreiHeit...
+
+!Überschrift
+* Punkt 1
+* Punkt 2

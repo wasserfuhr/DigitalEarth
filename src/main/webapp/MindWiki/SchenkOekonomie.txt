@@ -1,0 +1,26 @@
+* InterWiki: [DeWikiPedia:Schenkökonomie], [MeatballWiki:GiftEconomy], [WebSeitz:GiftEconomy]
+
+Ein Szenario aus DownAndOut.
+
+ReDo: Mal ImmerWieder empirisch beobachten, zu welchen Anteilen die Überweisungen bei der PieschenBank jetzt und in ZuKunft aus Pflicht und VerTrag oder als Geschenk erfolgen.
+
+Wie könnte eine SchenkOekonomie aussehen?:
+* ALLES ist TransParent
+* es gibt keine formalen VerTrag'sformen mehr, sondern nur noch VerTrauen
+* es gibt keine NDA's mehr, sondern nur noch VerTrauen
+* PantaRhei: Projektstrukturen wandeln sich zu Mikro-Beziehungen, die sich jederzeit wieder auflösen können
+* PantaRhei: es gibt keine DeadLine's mehr, sondern nur noch einen gigantischen dependency-graph mit öffentlichen ToDo-Listen
+* es gibt keine Preisverhandlungen mehr
+* Leistung wird in kleinen DoIt-Einheiten erbracht
+* erbrachte Leistung wird mit immer wieder dynamisch angepassten (Geld?-)Werten entlohnt
+* Akteure haben völlige Transparenz über die Aktionen ihrer Partner, kennen also auch deren NextProject-Optionen und VerlustKosten
+* jeder Akteur agiert in einer WorldEconomy, deren Hauptziele sind:
+** verhindere den WeltUntergang
+** schaffe ObDach, GeSund'heit und leckere MindCuisine für alle
+** lasse AlleAugenLeben
+
+Eine in Vorbereitung befindliche MindBet zur SchenkOekonomie
+* UnTil: 2040
+* RaWa: 10.000 EUR
+* ChSc: 150 (?) Personentage ArBeit
+evtl bei LongBets.

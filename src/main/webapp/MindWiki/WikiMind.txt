@@ -1,0 +1,29 @@
+* KindOf: PerSon
+* InterWiki: [WikiWikiWeb:WikiMind]
+
+WikiMind's are PerSon's who have started to digitize more and more parts of their SelfModel with a LifeWiki.
+
+Some WikiMind's start to notice that their LifeWiki forms a SemanticWeb of their thoughts and their SocialNetwork. 
+
+||MindOne           ||InterWiki   || #Pages||SoftWare ||
+|JerryMichalski     |             | >118000|TheBrain  |
+|ChristianLangreiter|LangReiter   |  >19846|vanilla   |
+|BeatDoebeli        |BiblioNetz   |  >17830|HtMl      |
+|EricWeinstein      |MathWorld    |  >12889|HtMl      |
+|RainerWasserfuhr   |MindWiki     |    9275|JspWiki   |
+|BillSeitz          |WebSeitz     |   ~8000|zwiki     |
+|PhilJones          |ThoughtStorms|    3740|UseModWiki|
+|FlorianKonnertz    |FloWiki      |    1394|MediaWiki |
+|EugeneEricKim      |EeKim        |    1310|PurpleWiki|
+|FosterSchucker     |             |     889|JspWiki   |
+|JoergKantel        |             |     887|DokuWiki  |
+|JohnAbbe           |AbbeNormal   |     827|PikiePikie|
+|OlivierAuber       |PerspectiveNumerique|700|WakkaWiki|
+|AndreasStuhlmueller|             |     664|MediaWiki |
+|LionKimbro         |             |        |          |
+|MattisManzel       |             |        |OddMuse   |
+|ChristianHeller    |PlomWiki     |     570|PmWiki    |
+|JoiIto             |JoiWiki      |     519|SocialText|
+|TantekCelik        |TantekWiki   |     125|PbWiki    |
+
+If people do not like WiKi's: Are they afraid of WikiShock?

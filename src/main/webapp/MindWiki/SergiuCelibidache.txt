@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* BirthDay: 07-11
+* MindFaves: AntonBruckner
+* MindSkill: ConDuct

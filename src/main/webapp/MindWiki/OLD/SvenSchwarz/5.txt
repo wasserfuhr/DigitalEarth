@@ -1,0 +1,7 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/66/1656
+* HomePage: http://www.dfki.uni-kl.de/~schwarz/
+* FoAf: http://www.dfki.uni-kl.de/~schwarz/foaf.xml
+* PastProjects: ConPlan
+* MindSkill: SemanticWeb
+|[XingLe:Sven_Schwarz3]

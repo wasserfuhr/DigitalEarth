@@ -1,0 +1,3 @@
+* IsA: PerSon
+* MindTag: TopManager
+* HomePage: http://www.globalfoundries.com/about/doug_grose.aspx

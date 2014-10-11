@@ -1,0 +1,18 @@
+__Bezeichnung der Idee__:
+RailingConsultant (NetWork)
+
+__Beschreibung der Idee__:
+Bahncard100-Kunden (unbegrenzte Fahrten) der DeutschBahn können den Status eines RollendenBeraters erhalten (Kartenpreis als Entlohnung). Diese analysieren Prozessschwachstellen aus Kundensicht (als Betroffene), geben Empfehlungen.
+
+__Zu lösende Probleme__:
+* schwierige Kenntniserlangung von Kundenproblemen
+* zu weite Entfernung zwischen Basis und Management
+* systemische Zusammenhänge für schwindende Fahrgastzahlen nicht erkannt
+
+__Anwendungsfelder beim Endverbraucher__:
+* Optimierung der Abläufe im Bahnbetrieb
+* Aufdecken von Prozessschwachstellen
+* stärkere Integration von Kunden bei Umsetzung neuer Strategien
+
+__Weitere Forschungsaktivitäten__:
+Funktion von Process Consultants (nach EdgarSchein) umfassender zu untersuchen und in Action Research in Prototyp-ähnlichen Projekten bei der DeutschBahn AG umsetzen.

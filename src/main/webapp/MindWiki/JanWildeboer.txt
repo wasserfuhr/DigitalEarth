@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InvitedBy: RainerWasserfuhr
+* MindId: 165
+|[TwittEr:jwildeboer]
+|[FaceBook:1467071559]
+|[XingLe:Jan_Wildeboer]

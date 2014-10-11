@@ -1,0 +1,18 @@
+* IsA: SingularityMind
+* InterWiki: [WikiPedia:Hugo_de_Garis]
+* JahrGang: 1947
+* DbLp: http://dblp.uni-trier.de/rec/pid/48/5146
+* HomePage: http://www.iss.whu.edu.cn/degaris/
+* PageNumber: 7
+|[TwittEr:profhugodegaris]
+
+PagePath:
+# TerryWinograd
+# RandallDavis
+# [http://dblp.uni-trier.de/db/indices/a-tree/g/Gero:John_S=.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/s/Schnier:Thorsten.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/b/Byrne:William_J=.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/y/Yao:Xin.html]
+# HugoDeGaris
+
+NoBirthday

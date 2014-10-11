@@ -1,0 +1,18 @@
+; NooMic is NoMic with SourceCode - InSpir'ed by PerlNomic
+
+(let
+ [
+  hConf (new org.apache.hadoop.hbase.HBaseConfiguration)
+  hBase (new org.apache.hadoop.hbase.client.HBaseAdmin hConf)
+  tableDesc (new org.apache.hadoop.hbase.HTableDescriptor "ChatLog")
+ ]
+ (str
+  (.addFamily tableDesc (new org.apache.hadoop.hbase.HColumnDescriptor "log:"))
+  ;;only call this for one request:
+  ;(.createTable hBase tableDesc)
+  "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
+    \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r"
+  "<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">
+  "</html>"
+ )
+)

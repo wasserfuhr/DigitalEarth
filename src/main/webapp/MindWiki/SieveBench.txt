@@ -1,0 +1,47 @@
+{{{
+import java.util.Date;
+
+/**
+ * This tests measures raw Java performance
+ * in order to calculate a basic unit
+ * for other tests 
+ */
+public class SieveBench {
+	/**
+	 * straight forward implementation of
+	 * http://c2.com/cgi/wiki?SieveOfEratosthenes
+	 */
+	public void test(int size) throws Exception {
+		long firstTime=new Date().getTime();
+		boolean[] sieve = new boolean[size];//[]=new boolean;
+    sieve[0]=false;
+    sieve[1]=false;
+		for (int i=2; i<size; i++) {
+      sieve[i]=true;
+		}
+		for (int i=2; i<size; i++) {
+			if (sieve[i]) {
+				for (int j=2*i; j<size; j+=i) {
+		      sieve[j]=false;
+				}
+			}
+		}
+		int ct=0;
+		for (int i=0; i<size; i++) {
+      if (sieve[i]) {
+      	ct++;}			
+		}
+		System.out.print("Counted "+ct+" primes < "+size);
+		System.out.println(" in "+(new Date().getTime()-firstTime)+" ms");
+	}
+	/**
+	 * recommended to call at least with -Xmx1024 (succeeded with 1200m)
+	 */
+	public static void main(String[] args) throws Exception {
+		new SieveBench().test(1024*1024*1024);
+		for (int i=2; i<=Integer.MAX_VALUE /*1024*1024*1024*/;i+=i) {
+			//new PerfTest().test(i);
+		}
+	}
+}
+}}}

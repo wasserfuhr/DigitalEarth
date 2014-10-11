@@ -1,0 +1,4 @@
+|RainerWasserfuhr|20070813:1100|212.23.126.8|eplus umts
+|RainerWasserfuhr|20070813:1434|212.23.126.12|eplus umts
+
+212.23.126.1 bmann

@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/89/200
+* HomePage: https://campus.uni-klu.ac.at/org/visitenkarte?personalnr=468
+* PageNumber: 6
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ArndtBode HeinrichMayr

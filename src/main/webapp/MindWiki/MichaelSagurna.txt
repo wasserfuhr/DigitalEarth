@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Michael_Sagurna]
+* ParteiWiki: CduWiki
+* HasTalked: RainerWasserfuhr

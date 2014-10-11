@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.057
+* LaengenGrad: 13.727
+* BoundingBox: 40
+* HomePage: http://www.artotel.de/dresden/dresden.html

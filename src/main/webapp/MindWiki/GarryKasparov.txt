@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* InterWiki: [OpenCyc:GarryKasparov], [WikiPedia:Garry_Kasparov], [WikiWikiWeb:GarryKasparov]
+* JahrGang: 1963
+* BirthDay: 04-13
+* HasTalked: DeepBlue
+* MindQuote: "A computer will beat me before a woman will." - 1990

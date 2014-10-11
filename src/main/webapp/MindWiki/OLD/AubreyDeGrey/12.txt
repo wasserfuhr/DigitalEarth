@@ -1,0 +1,17 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Aubrey_de_Grey] [PlomWiki:AubreyDeGrey]
+* JahrGang: 1963
+* BirthDay: 04-20
+* MindSkill: LebensErwartung ImMortal
+||AusLand
+|[FaceBook:709735014]
+|[TwittEr:ag24ag24]
+
+http://dblp.uni-trier.de/db/indices/a-tree/u/Ullman:Jeffrey_D=.html
+http://dblp.uni-trier.de/db/indices/a-tree/h/Hopcroft:John_E=.html
+http://dblp.uni-trier.de/db/indices/a-tree/t/Tarjan:Robert_Endre.html
+http://dblp.uni-trier.de/db/indices/a-tree/l/Lengauer:Thomas.html
+http://dblp.uni-trier.de/db/indices/a-tree/w/Wodak:Shoshana_J=.html
+http://dblp.uni-trier.de/db/indices/a-tree/h/Helden:Jacques_van.html
+http://dblp.uni-trier.de/db/indices/a-tree/g/Gilbert:David.html
+http://dblp.uni-trier.de/db/indices/a-tree/g/Grey:A=_de.html

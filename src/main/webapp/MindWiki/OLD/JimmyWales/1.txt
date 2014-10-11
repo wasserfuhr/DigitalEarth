@@ -1,0 +1,5 @@
+* MindTags: WikiMind
+* InterWiki: [DeWikiPedia:Jimmy_Wales], [WebSeitz:JimmyWales]
+* JahrGang: 1966
+* BirthDay: 08-07
+* MindFaves: AynRand

@@ -1,0 +1,1 @@
+* FoAf: https://www.roell.net/foaf.rdf

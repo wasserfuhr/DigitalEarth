@@ -1,0 +1,9 @@
+* IsA: ProFessor
+* InterWiki: [LangReiter:Marvin+Minsky] [OpenCyc:MarvinMinsky] [WikiPedia:Marvin_Minsky]
+* JahrGang: 1927
+* BirthDay: 08-09
+* DbLp: http://dblp.uni-trier.de/rec/pid/m/MarvinMinsky
+* MindSkill: ArTelligence
+* CoAuthor: PushSingh
+* PageNumber: 4
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy MarvinMinsky

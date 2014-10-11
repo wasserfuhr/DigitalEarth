@@ -1,0 +1,4 @@
+* MindTags: ProFessor
+* BirthDay: 01-23
+* HasVisited: SarkIsland
+* MindSkill: IslandsOfHumanIntelligence

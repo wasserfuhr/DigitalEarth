@@ -1,0 +1,24 @@
+UniqueNameAssumption for SwDf except:
+
+PhilippKaerger
+* http://data.semanticweb.org/person/philipp-karger/html
+* http://data.semanticweb.org/person/philipp-kaerger/html
+
+MicheleNucci
+* http://data.semanticweb.org/person/m-nucci
+* http://data.semanticweb.org/person/michele-nucci
+
+HansJoergHappel
+* http://data.semanticweb.org/person/hans-joerg-happel
+* http://data.semanticweb.org/person/hans-jorg-happel
+
+JaeWookAhn
+* http://data.semanticweb.org/person/jae-wook-ahn
+* http://data.semanticweb.org/person/jaewook-ahn
+
+OscarMunozGarcia
+* http://data.semanticweb.org/person/oscar-munoz-garca
+* http://data.semanticweb.org/person/oscar-munoz-garcia
+
+Bug:
+* http://data.semanticweb.org/person/beijing-beihang-assets-management-co-ltd

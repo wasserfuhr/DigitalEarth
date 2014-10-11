@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Rudolph_Giuliani]
+* BornIn: 1944
+* BirthDay: 05-28
+* EnsId: http://www.okkam.org/ens/id881a2c96-0a2b-4b4e-a0c8-535a41a9c8cf
+* ViAf: http://viaf.org/viaf/71618074
+|[LinkedIn:rudygiuliani]

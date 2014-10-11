@@ -1,0 +1,46 @@
+the current working version of this WikiPage is at http://etherpad.com/NooPolisBook)
+
+!!NooPolis 
+
+A BluePrint for a global digital society.
+
+!Summary
+NooPolis is an experimental wiki-based MicroNation that wants to create a new currency system based on transparency and a WebOfTrust among it's participants.
+
+In addition to the currency system, NooPolis aims to create an entire political and economic system with elections, legislation, government and GovernmentBudget. Citizens can create startups, that work on OpenBook principles.
+
+!Introduction
+NooPolis was started as a ThoughtExperiment by RainerWasserfuhr in 2007.
+The initial concept of NooPolis was heavily inspired by NoMic, a game invented by PeterSuber to study "The Paradox of Self-Amendment" (so his book title) in legal systems like constitutions.
+The basic idea of NoMic is to play a game where the creation and modification of the rules is an integral part of the game. Today, NoMic games are played around the globe via different media like paper, ElectronicMail, Blogs, Wikis or GoogleWave.
+NooPolis started with a wiki that is now publicly accessible at http://mindbroker.de/wiki/NooPolis. The NooPolis Wiki uses the OpenSource WikiEngine called JspWiki.
+However, for editing the Wiki you need an invitation by one of the existing players. As of december 2009, there are 88 registered users, building up an initial WebOfTrust.
+
+After invitation a wiki user obtains the status of a "CitiZen" and can edit the Wiki.
+Citizens agree on rules how to organize their social interactions in an open dynamic process.
+This initial ruleset of NooPolis was called »ConStitution«.
+
+Currently the ConStitution says:
+* Existing CitiZens can InVite new CitiZens. 
+* For registration, the inviter has to choose the correct FirstName, surname and the gender of the invited.
+* Before inviting, the inviter has to create a WikiHomePage for the invited in the MindWiki. 
+* The profile page should have the correct CamelCase spelling of the FirstName and SurName.
+
+However each change in the Wiki is versioned together with the RealName of the Citizen.
+
+A currency system was established as an incentive for CitiZens.
+
+The currency was called KayGroschen, dedicated to TuringAward winner AlanKay. The KayGroschen has a constant MoneySupply of 10 000 000 units. At the beginning, the money was owned by the MicroNation as a whole. For this purpose a StateBank was established and named after the place where NooPolis was founded. Unfortunately, the name DresdnerBank was already taken, so the name of the surrounding SubUrb was chosen and the now famous PieschenBank was born.
+Blinded by Nepotism, RainerWasserfuhr overtook the role of the provisional general director of the PieschenBank.
+Next, we needed people to develop some SoftWare for the PieschenBank. In a cloak-and-dagger operation, RainerWasserfuhr convinced some of the few CitiZens of this
+time to take 10% of the initial MoneySupply (1 000 000 KayGroschen) and to transfer it
+to a privately owned company. He prevented to pay hush money to these CitiZens by giving them some shares in this company. Fortunately, RainerWasserfuhr had already registered the TradeMark »MindBroker«, and so the name of the first company inside NooPolis was born.
+
+For the RainerWasserfuhr obtained.
+
+ToDo:
+TrustChain
+MindId
+CamelCase
+SeaSteading
+

@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* InterWiki: [WikiPedia:Shoreline_Amphitheatre]
+* BreitenGrad: 37.42673
+* LaengenGrad:-122.0806
+* BoundingBox: 220

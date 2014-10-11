@@ -1,0 +1,2 @@
+* IsA: PerSona
+* BirthDay: 03-12

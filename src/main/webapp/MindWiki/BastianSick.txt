@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Bastian_Sick]
+* BornIn: 1965
+* BirthDay: 07-17

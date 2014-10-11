@@ -1,0 +1,7 @@
+siehe SecondHalfOfTheChessboard
+||FutureNumber||FutureCard
+| 3|DresdenDrohne
+| 7|ElbOper
+|10|MindTower
+|40|TerraDsl
+|50|PetaBitPlatte

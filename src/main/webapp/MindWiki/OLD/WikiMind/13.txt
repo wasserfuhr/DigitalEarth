@@ -1,0 +1,16 @@
+* IstEin: MindPeople
+
+People with a WikiMind:
+
+||MiNd              ||InterWiki||Neurons||Software ||OpenStats
+|BillSeitz          |WebSeitz  |    2804| zwiki    |
+|ChristianLangreiter|LangReiter|        |vanilla   |
+|JerryMichalski     |          |     80k|TheBrain  |
+|JoiIto             |JoiWiki   |     517|SocialText|
+|LionKimbro         |          |        |          |
+|MattisManzel       |          |        |          |
+|PhilJones          |          |    3565|UseModWiki|
+|RainerWasserfuhr   |MindWiki  |    1774|JspWiki   |soon
+|TantekCelik        |TantekWiki|      89|PbWiki   |soon
+
+Angst vor WikiShock? EinfachMachen: Only if you DoIt, you will enjoy it.

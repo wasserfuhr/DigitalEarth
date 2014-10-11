@@ -1,0 +1,6 @@
+* IsA: PerSon
+* BornIn: 1970
+* BirthDay: 07-14
+* SprachWelt: de en-1
+* HomeStead: SeeBenisch
+* TimeZone: CET

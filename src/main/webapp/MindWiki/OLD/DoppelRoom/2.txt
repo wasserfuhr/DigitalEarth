@@ -1,0 +1,5 @@
+* IsA: MindRoom
+* PartOf: DoppelWg
+
+MeMo:
+* 2010-02-28:0600 RainerWasserfuhr JeMand JeMand: RainerVonVielen ChristineSchlinck DeutschBahn DvbAg DoppelRoom DoppelWg DoppelHaus MinorityReport PhilDick MindPeople

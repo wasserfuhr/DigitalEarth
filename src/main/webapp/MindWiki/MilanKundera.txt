@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Milan_Kundera], [OpenCyc:MilanKundera], [WikiWikiWeb:MilanKundera]
+* BirthDay: 04-01

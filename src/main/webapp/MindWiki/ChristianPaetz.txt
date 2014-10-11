@@ -1,0 +1,6 @@
+* IsA: UnternehmensGruender
+* DbLp: http://dblp.uni-trier.de/rec/pid/80/5160
+* PageNumber:  11
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi MichaelStonebraker PeterLockemann WilfriedBrauer KlausBrunnstein UweHuebner KlausFranke ChristianPaetz
+* HasTalked: RainerWasserfuhr YvonneSchubert
+|[XingLe:Christian_Paetz]

@@ -1,0 +1,11 @@
+* MindTags: MindPlace
+* BoundingBox: 12
+* BreitenGrad: 51.0768
+* LaengenGrad: 13.7256
+* GraDient: 100
+* SlimNess: 0.6
+
+Der wohl weltweit zweite WikiBasiert'e Friseursalon der Welt:
+
+||von||bis||MindBroker               ||Barber           ||WieWarIch||EUR||Tip||SmallTalk
+|20080208:1640|:1655|RainerWasserfuhr|ClaudiaStoeckmann |GerneWieder|9,50|1,50|LadenAuf,HomeOffice,VirtuellesUnternehmen,DresdenChess,NacktSchach

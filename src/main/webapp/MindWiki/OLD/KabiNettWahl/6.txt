@@ -1,0 +1,8 @@
+MindVote für das KabiNett:
+
+Alle BuergerInnen haben 5 Stimmen:
+
+||Kandidat||MindVote
+|DanielPoodratchi|* RainerWasserfuhr
+|MattisManzel    |* RainerWasserfuhr
+|TimBonnemann    |* RainerWasserfuhr

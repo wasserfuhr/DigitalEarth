@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/j/NicholasRJennings
+* HomePage: http://users.ecs.soton.ac.uk/nrj/
+* PageNumber: 9
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker KnutHinkelmann ManfredMeyer JoergMueller MikeWooldridge NickJennings

@@ -1,0 +1,3 @@
+* InterWiki: [WikiPedia:Think_Globally,_Act_Locally]
+
+AntiPattern! Wohl noch nie etwas von InterNet gehört?: ThinkGlobalActGlobal!

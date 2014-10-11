@@ -1,0 +1,21 @@
+* InterWiki: [MeatballWiki:RealName], [WikiWikiWeb:RealName]
+
+Bei folgenden SocialNetwork's akzeptiert RainerWasserfuhr nur Kontaktanfragen mit überprüfbaren RealName'n:
+* FaceBook
+* FoAf
+* LinkedIn
+* NooPolis
+* XingLe
+
+Nicht dagegen bei:
+* FlickEr
+* DelIcioUs
+* SeesMic
+* TwittEr
+
+Candidates for the DomainModel:
+* FoAf: firstName, givenname
+* vCard /hCard
+* FaceBook: Firstname, Lastname
+
+To be considered: Sorting. Last-name-first-name conventions in asian cultures

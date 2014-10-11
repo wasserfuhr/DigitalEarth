@@ -1,0 +1,10 @@
+* IsA: PerSon
+* VorName: Ludwig
+* NachName: van Beethoven
+* InterWiki: [DeWikiPedia:Ludwig_van_Beethoven] [OpenCyc:LudwigVanBeethoven]
+* BirthPlace: StadtBonn
+* BornIn: 1770
+* BirthDay: 12-16
+* DiedIn: 1827
+* ViAf: http://viaf.org/viaf/32182557
+* MindSkill: ConDuct ComPose

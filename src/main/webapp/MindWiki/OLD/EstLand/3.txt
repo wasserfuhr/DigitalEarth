@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BreitenGrad: 58.786
+* LaengenGrad: 25.739
+* BoundingBox: 356000
+
+OpenId für alle 1.342.000 BuergerInnen: https://open.id.ee/about/english

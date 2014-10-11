@@ -1,0 +1,518 @@
+WikiFy'ed version of http://www-ags.dfki.uni-sb.de/menschmaschine.htm
+
+
+!!MenschMaschinenMensch
+
+JoergSiekmann
+
+Universität des SaarLand'es
+
+Deutsches Forschungszentrum für KuenstlicheIntelligenz
+
+SaarBruecken
+
+"At the end of the century, the use of words and general educated opinion will have changed so much that one will be able to speak of „machines thinking“ without expecting to be contradicted." AlanTuring, 1950
+
+Mit dem regionaltypischen Echt-danach- Faktor von zehn oder zwanzig Jahren greift unsere universitäre Hauspostille ein Thema[1] auf, das im vorigen Jahrhundert die allgemeine wissenschaftliche Diskussion ebenso dominiert wie sie die Gemüter von Laien und Fachleuten erregt hat:
+
+Können Computer denken und wenn ja, was folgt daraus?
+ 
+Mit dem Sitz des weltweit größten Forschungsinstitutes auf dem Gebiet der KuenstlicheIntelligenz (KI), wäre unsere Universität sicher kein schlecht beratender Ort gewesen, um diese Diskussion zu führen – aber es kam halt anders: Anfang der 80er Jahre war die KI als WissenSchaft fest etabliert und virulent, die größte Herausforderung in dieser Zeit des „AiWinter“ war jedoch nicht so sehr die Grundlagenforschung selbst, sondern die industrielle Umsetzung der Forschung, die deutlich hinter den Erwartungen zurückgeblieben war[2]. Am DfKi beschäftigen wir uns (nicht nur deshalb) mit der anwendungsnahen, wirtschaftsorientierten Umsetzung der KI-Grundlagenforschung, während diese selbst an den informatiknahen Universitäten und Grundlagen-Forschungsinstituten durchgeführt und im letzten Vierteljahrhundert zunehmend in den Kognitionswissenschaften diskutiert wird.
+
+Das fruchtbare geistige Klima für eine Auseinandersetzung über Anspruch und Wirklichkeit war halt auf beiden Seiten in Saarbrücken nicht wirklich vorhanden.
+
+
+!Why People think computers can’t
+
+Alle großen, oft von den Naturwissenschaften angestoßenen Umwälzungen in unserem Weltbild wurden zunächst leidenschaftlich bekämpft: der Gedanke, dass die Erde nicht den Mittelpunkt unseres Universums bildet, sondern die Sonne umkreist, war im 17. Jahrhundert ebenso lebensgefährlich, wie zweihundert Jahre später die KarlMarx’sche Einsicht in die Produktionsverhältnisse des KapitalIsmus. Das Bekenntnis zur CharlesDarwin’schen Evolutionslehre konnte in EngLand zum Beginn des zwanzigsten Jahrhunderts zum Verlust des Jobs führen, genauso wie heute, hundert Jahre später, in den fundamentalistischen Bundesstaaten der USA. Die Quantenphysik und deren Implikationen wie Schrödinger’s Katze oder die Paralleluniversen[3], verletzen ebenso unser so sicher geglaubtes naives Grundverständnis der Schöpfung und der Natur des Universums, wie die Annahme einer zweidimensionalen Welt, die uns die Realität als HoloGram vorspielt[4].
+
+Sie sind je nach Glaubensbekenntnis absolut faszinierend oder reine Blasphemie!
+
+Zum Bedauern mancher Kollegen darf man einen Wissenschaftler nicht mehr einfach verbrennen und die Möglichkeiten einer Deutschen Wissenschaft, die nicht durch „jüdisches Gedankengut zersetzt“[5] ist, sind auch etwas aus der Mode gekommen: also müssen wir wohl mit gewissen Gedanken und Spekulationen leben, auch wenn sie nicht in unser Weltbild passen.
+
+Im Europa der zwanziger Jahre des vorigen Jahrhunderts und kaum ein Jahrzehnt später sehr viel konkreter in den USA, besannen sich Wissenschaftler und einzelne forschende Außenseiter auf gewisse im Einzelnen oft sehr alte mechanistisch/ materialistische Denktraditionen und begannen für ihre Zeitgenossen wunderlich zu werden und Gedanken der folgenden Art zu entwickeln:
+
+Mein Körper besteht aus Trillionen einfacher Zellen, die damals vor fast fünfundsechzig Jahren aus der einen Mutterzelle mit der Vereinigung des Spermateilchens meines Vaters hervorgegangen sind und sich in kaum fassbarer Weise selbst organisieren und ohne eine zentrale Kommandoeinheit oder einen zentralen Bauplan meinen Körper seither mit all den einzelnen Organen durch Selbstorganisation mit Hilfe der DNA-Information reproduzieren. Eine Untermenge von etwa 10^10 Zellen aus diesen Trillionen Zellen haben sich nicht darauf spezialisiert Muskel zu sein oder Leber, sondern ist darauf spezialisiert, als Nervenzellen Information zu verarbeiten und weiterzuleiten.
+
+''Abbildung: Dies gilt als die revolutionärste Erfindung der Menschheit, weil ohne Vorbild in der Natur (Daxl)''
+
+Das war Anfang des vorigen Jahrhunderts gesichertes Wissen. 
+
+Die Frage also, die in der vielleicht spannendsten (Grundlagen-) Forschung der 30er Jahre aufkam ist die: wieso können 10^10 Teilchen (Neuronen), die sich jeweils auf ganz simple Einzelberechnungen spezialisiert haben und sicher nicht selbständig denken können oder gar Bewusstsein haben, wie können sie sich so zusammenschalten, dass sie die uns bekannten erstaunlichen menschlichen Intelligenzleistungen erbringen?
+Der Ameisenhaufen als Ganzes weiß wo die Marmelade in der Küche ist, obwohl das GeHirn der einzelnen Ameise ein „MindLess“ endlicher deterministischer kleiner AutoMat ist, der mit SicherHeit weder Küche noch Marmelade repräsentieren kann.
+
+''Abbildung: MarvinMinsky''
+
+Kann man das faszinierende Phänomen wie sich 10^10 elementare Zellen verschalten und rechnen mit Methoden der damals im Entstehen begriffenen Informationsverarbeitung, und mit Teildisziplinen von Physik und Chemie, den heutigen Neurowissenschaften, verstehen und erklären? “The brain happens to be a meat machine“ sagt Marvin Minsky knapp fünfzig Jahre später. Und die wichtigste Folgerung: wenn das so ist, dann könnte man ja statt des feuchten lebenden Protoplasmas als Trägersubstanz auch andere, leichter zu beherrschende trockene Werkstoffe nehmen: Funktionalismus nennen dies die Philosophen[6].
+
+''Abbildung: HerbertSimon''
+
+''Abbildung: JohnMcCarthy''
+
+1956 fand am DartmouthCollege ein Workshop statt, in dem diese bis dato wissenschaftlichen Außenseiterpositionen erstmals ernsthaft diskutiert wurden, und nicht zuletzt unserem Gebiet den damals noch provozierenden Namen „ArtificialIntelligence“ gaben. Dieses Jahr findet in Bremen zusammen mit dem RoboCup und der KI-Tagung ein historischer Workshop statt: 50 Jahre KI. Der Workshop am Dartmouth College gab den Startschuss für ein  konkretes Forschungsparadigma, das mit der „physical symbol hypothesis“ des späteren Nobelpreisträgers Herbert Simon und dessen Schülern und Kollegen wie AllenNewell, MarvinMinsky, JohnMcCarthy, OliverSelfridge und vielen anderen zunächst auf das Heftigste angegriffen und ein halbes Jahrhundert später mit den höchsten Wissenschaftspreisen unserer Zeit ausgezeichnet wurde: der faszinierende Aufstieg dieses Außenseitergebietes zu einer der bedeutendsten Wissenschaftsdisziplinen der Gegenwart ist auch in einer Reihe von Anthologien7 nachgezeichnet worden.
+
+!Cognitive Systems
+ 
+Gewisse menschliche Aktivitäten wie das Planen einer kombinierten Bahn-Bus-Reise, das Verstehen gesprochener Sprache, das Beweisen mathematischer Sätze, das Erstellen einer medizinischen Diagnose oder das Sehen und Erkennen bestimmter 
+Gegenstände erfordern zweifellos Intelligenz – unabhängig davon, welche Definition dieses Begriffes man bevorzugt. Die „KuenstlicheIntelligenz“ (ArtificialIntelligence) fasst diese bisher dem Menschen vorbehaltenen kognitiven Fähigkeiten als informationsverarbeitende Prozesse auf und macht sie naturwissenschaftlichen Untersuchungsmethoden und ingenieurmäßiger Umsetzung zugänglich. Die Ergebnisse der KI-Forschung haben einen tiefen Einfluss auf die Entwicklung der Informatik und deren Nachbardisziplinen gehabt und sie sind zu einer Schlüsseltechnologie (enabling technology) für den Einsatz von Computern in diesem Jahrhundert geworden.
+ 
+Aus einer anwendungsorientierten Sicht gliedert sich die KI in die folgenden Teildisziplinen, wie das folgende Schaubild zeigt:
+ 
+''Abb. 1. Die wichtigsten Teilgebiete/Anwendungsgebiete der KI''
+
+Programmsynthese
+Robotik
+Multiagenten-Systeme
+Wissens Repräsentation
+Heuristische Suchverfahren
+KI-Sprachen
+Inferentielle Prozesse
+Lernen
+Wissenserwerb
+Planverfahren
+Deduktionssysteme
+Expertensysteme
+Spielprogramme
+Computersehen
+    
+KI-Gebiete
+KI-Gebiete
+KI-Methoden und –Techniken
+
+Natürlich-Sprachliche Systeme
+Computer-Gestützte Lernsysteme
+Natürlich-Sprachliche Systeme
+Computer-Gestützte Lernsysteme
+Programm-synthese
+
+Dies ist der technische Kern des Gebietes, wie ihn heute die Studenten der KI oder der „Cognitive Systems“ weltweit lernen[8], allerdings weniger festgezurrt als man glauben mag.
+Aber das beantwortet natürlich nicht die Fragen, die meine humanistisch gebildeten Freunde nachts nicht schlafen lassen.
+ 
+Wie kann Geist und Denken (ein immaterieller, informationsverarbeitender Prozeß) mit Materie in Verbindung gebracht werden? Gibt es Grenzen, die menschliches oder maschinelles Denken a priori beschränken? Wie funktioniert die biologische Informationsverarbeitung?
+
+Im Lichte unserer Erfahrung mit künstlichen informationsverarbeitenden Systemen bekommen solche Fragen einen neuen Aspekt und die Mechanismen, die Intelligenz ermöglichen, können im Prinzip unabhängig von ihrer Trägersubstanz, der feuchten neuronalen „Hardware“ einerseits oder dem trockenen Silicon-Chip andererseits untersucht werden. Dazu haben sich Philosophen, Psychologen, Linguisten, Neurologen und KI-ler zusammengeschlossen und ein neues Fachgebiet: „Cognitive Science“ bzw. dessen mehr technik-orientierte Variante „Cognitive Systems“ gegründet mit jeweils eigenen internationalen Konferenzen und Fachzeitschriften. Die Zahl der Lehrbücher und Bücher zur Grundsatzdiskussion ist inzwischen fast unüberschaubar geworden[9]. 
+
+Heute arbeiten sicher über hunderttausend Wissenschaftler und Techniker weltweit in dieser und den damit verwandten Disziplinen und nicht zuletzt durch das wirtschaftlich/militärische Interesse und die damit verbundenen enormen Forschungs-investitionen hat das Gebiet eine auch für uns „alte Hasen“ kaum vorhersehbare Dynamik erhalten. KI und Informatik sind zu einer Wissenschaft geworden, deren Anwendungen menschliches Leben auf diesem Planeten mindestens ebenso oder sicher eher dramatischer prägen werden, als es die Physik in den letzten 350 Jahren mit der von ihr 
+ermöglichten industriellen Revolution getan hat[10].
+
+''Abbildung: Les Cuisiniers dangereux (JamesEnsor)''
+
+Dieser Gedanke fällt nicht nur den angelsächsischen Physikern oftmals schwer[11] und die derzeitige Verlagerung der Schwerpunkte in der Forschungsförderung ebenso wie die Abwanderung der jungen studentischen Hochbegabungen, die in den letzten 200 Jahren eher Physik, Mathematik oder Philosophie als ihr Fach gewählt haben, erzeugt nicht immer nur freundschaftliche kollegiale Gefühle. 
+Natürlich hat der von mir hochgeschätzte Kollege Nortmann Recht, wenn er in dem zitierten Artikel sagt, dass heute kein vernünftiger Mensch daran zweifeln kann, dass entsprechend programmierte Computer Intelligenz zeigen und Aufgaben erledigen können, die früher ausschließlich von Menschen gelöst werden konnten[12].
+
+So wie es im Tierreich erstaunliche Intelligenzleistungen13 gibt, deren Entdeckung die allgemein akzeptierte These des neunzehnten Jahrhunderts von dem prinzipiellen Unterschied zwischen Mensch und Tier14 (bezüglich der kognitiven Leistungen) in den Staub der Geschichte geblasen hat, so ist die These über den prinzipiellen Unterschied15 (bezüglich der kognitiven Leistungen) zwischen Mensch und Maschine bestenfalls kurios und uninformiert.
+
+In den 60er Jahren des vorigen Jahrhunderts sind zunächst wissenschaftliche Prototypen und dann zunehmend auch in der 
+industriellen Umsetzung Computerprogramme mit intelligentem Verhalten implementiert worden, die all unsere klassischen Vorstellungen über den Rechner als schnellen aber dummen Rechenknecht über den Haufen geworfen haben: Der Schachweltmeister ist ein Computerprogramm, die heutigen wissensbasierten Systeme sind in ihrem eingeschränkten Expertisebereich menschlichen Fachleuten gleichwertig oder überlegen, wir können mit einem Computer in unserer Sprache reden, der Rechner kann Gegenstände erkennen und beschreiben, und Beweissysteme haben jahrzehntelang offene mathematische Theoreme bewiesen – um nur einige Standardbeispiele zu nennen.
+
+
+Roboter erledigen Routineaufgaben, fliegen zum Mars und mähen unseren Rasen, die Roboter in RodneyBrooks’ Cyber-Zoo krabbeln, laufen oder schlängeln sich wie eine Schlange durch die hindernisreiche Kunstwelt und KISMET zeigt erstaunlich menschliche Reaktionen in der Kommunikation mit uns „humans“[16]. 
+Den klassischen Vorläufer der „Kreativitäts-Programme, AM, konnte man auf einen freien „Kreativitäts-Trip“ in der Mathematik schicken und das Programm hat Teile der Zahlentheorie, einschließlich des Hauptsatzes der Zahlentheorie, nämlich die Eindeutigkeit der Primzahlzerlegung, ebenso entdeckt wie Teile der Geometrie[17]. 
+Spektralanalyse wird von einem Computerprogramm besser gemacht als von einem menschlichen Fachmann, und das Programm DENDRAL wurde deshalb aus Jux auch als Autor in einer chemischen Zeitschrift genannt[18].
+
+Die spannende Frage ist also nicht, ob Maschinen intelligent sein können, das sind sie sowieso, sondern die nach dem vom Kollegen Nortmann eingeforderten „Rest“, um den wir zweifelsohne einer Maschine in vielen Bereichen (noch - oder wie viele meinen, prinzipiell und für immer) überlegen sind.
+
+Dies ist jedoch nur noch bedingt eine spekulativ/prinzipielle Fragestellung, wie in früheren Jahrhunderten, sondern vor allem eine der empirischen Forschung, die diese Grenze fast täglich weiter zu unseren Ungunsten verschiebt, mit bisher kaum absehbaren Folgen. 
+
+„Empirische Forschung“ soll jedoch nicht als paradigmatisch festgelegte „ε-δ-Forschung“ missverstanden werden – das ist sie über große Zeitabschnitte auch – sondern natürlich gibt es den von ThomasKuhn am Beispiel der Physik beschriebenen 
+Paradigmenwechsel auch in unserem Gebiet: Die Diskussionen über die prinzipiellen Grenzen des von HerbertSimon und AllenNewell begründeten Forschungsansatzes haben in der Mitte der 70er Jahre zu einer ersten Wissenschaftsrevolte und einem Paradigmenwechsel geführt, der dem Gebiet den etwas weniger kämpferischen Namen der „wissensbasierten Systeme“ gegeben hat und eine prinzipiell andere Methodik postulierte. In den dreißig aktiven Jahren meines Wissenschaftlerlebens habe ich mindestens sechs Paradigmenwechsel in der KI-Forschung erlebt, der zu ganz 
+unterschiedlichen Forschungsansätzen geführt hat:
+ 
+* Wissensbasierte Systeme[19]
+* die Wiederbelebung der Perzeptrons in den Neuronalen Netzen
+* Intelligenz als „emerging functionality“ (Multiagentensysteme)
+* Situatedness und der subsymbolische KI-Ansatz in RodneyBrooks' Subsumption Architecture
+* als letzten Schrei der Moderne: Embodiement und siliconbasiertes Leben, wie es die Mikrobiologen jetzt untersuchen
+* ArtificialLife
+
+... und das sind nur die internen „Revolutionen“, die von außen kommenden paradigmatischen Einflüsse, wie zum Beispiel die Entdeckung des zweiten menschlichen Informationsverarbeitungssystems (neben den Nervenbahnen plus GeHirn), also die Neuropeptide, in die unsere Emotionen und anderes kodiert sind[20] und die Einflüsse der Kognitiven Neurowissenschaften[21] gar nicht mitgerechnet.
+
+Mit der gegenwärtigen Forschung und Diskussion über das Verständnis von Bewusstseinsvorgängen (Consciousness) und dessen neurobiologischer Erforschung beim Menschen ebenso wie dessen Realisierung im Rechner ist vielleicht das 
+folgenreichste Kapitel der Mensch-Maschine-Forschung aufgeschlagen[22].
+
+Aber es gehört schon ein erstaunlicher Mangel an gesundem Menschenverstand dazu, das „Ende der Geschichte“[23] hier und anderswo zu postulieren: Penrose hin oder her[24]: wer weiß schon ob Quantencomputer auch in der KI etwas prinzipiell Neues bringen werden? Oder besser noch: Ob es Phänomene gibt, die wir bisher gar nicht in den wissenschaftlichen Fokus bekommen haben oder jedenfalls nicht genügend in die KI-Forschung mit einbezogen haben[25].
+ 
+Wir sind Kinder unserer Zeit.
+
+!VerSteh'en im Lichte unserer ErFahr'ung
+
+Forschung findet im Kontext einer geschichtlich gewachsenen wissenschaftlichen Erfahrung statt, die es erlaubt, dem Kenntnisstand entsprechend sinnvolle Fragen zu stellen und nach den richtigen Antworten zu suchen.
+ 
+Ein positives Beispiel:
+ 
+Als der Engländer WilliamHarvey im 17. Jahrhundert die Funktionsweise des Blutkreislaufes entdeckte, übertrug er das bis dahin bekannte mechanistische, physikalische Weltbild auf den menschlichen Körper. Er hatte Glück damit: Die Vorstellung von Rohrleitungen, 
+Pumpen und strömenden Medien war im wesentlichen adäquat und beschrieb hinreichend genau die Funktion des Herzens als Blutpumpe und die der Adern als Leitungssystem. 
+
+Ein negatives Beispiel:
+ 
+Der französische Philosoph ReneDescartes, ebenfalls ein Vertreter dieser neuen mechanistischen Schule, fragte sich etwa zu derselben Zeit, wie der junge Mann auf der folgenden Abbildung es wohl bewerkstelligt, seinen Fuß von der Hitze des Feuers zurückzuziehen.
+
+Er entwickelte dazu etwa folgende Vorstellung: In F befindet sich ein Flüssigkeitsreservoir (eine durch die Erfahrungen des 30-jährigen Krieges empirisch belegte Tatsache), das durch ein Ventil d verschlossen ist. Dieses Ventil lässt sich 
+öffnen, um so durch die Leitungsbahn die Flüssigkeit an den Muskel in B fließen zu lassen, die dann die Kontraktion des Muskels bewirkt. An sich kein dummer Gedanke, und diese Erklärung des alten Herrn mit seiner mechanistisch materiellen Denke ist uns auch heute noch sympathischer als die humanistischen Wolken manches Zeitgenossen - aber leider doch völlig ungenügend: Solange elektrochemische Vorgänge unbekannt waren und das technische Wissen, wie man Information in elektrische Impulse codieren kann, nicht zur Verfügung stand, bestand nicht die geringste Aussicht, die Funktionsweise der Nervenbahnen oder des Gehirns aufzuklären.
+
+Ja, es gab nicht einmal eine Chance, die richtigen Fragen zu stellen.
+
+Die ernsthafte Erforschung der Mechanismen, die Intelligenz ermöglichen, konnte erst beginnen, als der aus der Informatik kommende Begriffsapparat und ein Grundverständnis der Informationsverarbeitung zur Verfügung stand. Die Forschung in Cognitive Science und in den Cognitive Neurosciences26 erhebt den historischen Anspruch, mit dieser neuen – von ihr entscheidend mitgeprägten – Methodologie einen materiellen, „mechanistischen“ Erklärungsversuch für die Funktionsweise intelligenter Prozesse zu liefern: „The new concept of ‚machine’ provided by Artificial Intelligence is 
+so much more powerful than familiar concepts of mechanism that the old metaphysical puzzle of how mind and body can possibly be related is largely resolved“[27].
+
+!The Brain Happens to be a MeatMachine
+
+Die These, dass es bezüglich der kognitiven Fähigkeiten keine prinzipiellen Unterschiede zwischen einem Computer und dem Menschen gäbe, weckt Emotionen und erscheint dem Laien ebenso unglaubwürdig wie auch manchem Wissenschaftler.
+
+Das ist verständlich: Mit dieser These ist eine weitere Relativierung der Position des Menschen verbunden, vergleichbar der Annahme des heliozentrischen Weltbildes im 17. oder der Darwin’schen Evolutionstheorie in der zweiten Hälfte des vorigen Jahrhunderts. Im Gegensatz zu jenen Thesen, deren Auswirkungen bestenfalls für einige Philosophen oder für gewisse zur Religiosität neigende Menschen beunruhigend war, hat diese jedoch bisher nicht absehbare technologische und damit soziale und politische Konsequenzen.
+
+Insbesondere dem etablierten Informatiker der alten Schule oder einem Physiker muss all dies um so vermessener erscheinen, als er glaubt, von einem Computer etwas zu verstehen: Die in fester Weise miteinander verschalteten Transistoren eines Computers, die sklavisch – wenn auch mit hoher Geschwindigkeit – die starren Anweisungen eines 
+Algorithmus ausführen, mit menschlicher Intelligenz in Verbindung bringen zu wollen, erscheint ihm vermessen und absurd.
+
+Doch darin liegt ein erstes Missverständnis. Die in der Informatik übliche Unterscheidung zwischen Hardware und den vielen Abstraktionsschichten der auf dieser ablaufenden Software ist gerade der Kern eines wesentlichen Arguments zur 
+Stützung dieser These: Die Transistoren sind in einer Weise miteinander verschaltet, die sicherstellt, dass alles, was im Prinzip berechnet werden kann, auch auf diesem speziellen Computer – genügend Speicher vorausgesetzt – berechenbar ist, und ein Programm, das in einer höheren Programmiersprache geschrieben ist, ändert sein Verhalten nicht, auch  wenn es auf Computern völlig anderer Hardware läuft. Es würde sich auch nichts ändern, wenn dieses Programm auf der Neuronenhardware des Gehirns abläuft bzw. die Natur diese Programme in der neuronalen Hardware selbst realisiert hätte.
+
+Ein zentrales Forschungsthema der KI ist daher die Auflösung starrer Kontrollschemata und die Entwicklung immer raffinierterer Kontrollstrukturen, die das Computerprogramm selbst während der Laufzeit verändern kann. Dies ist – neben den Techniken zur Wissensrepräsentation - sicher einer der wichtigsten Beiträge der KI zur heutigen Technologie der (klassischen) Informatik geworden.
+
+Ein weiteres Missverständnis mag durch den bisherigen vornehmlich numerischen Einsatz von Computern entstehen, der leicht die Einsicht verschüttet, dass es möglich ist die uns umgebende Welt und Sachverhalte über diese Realität symbolisch (oder subsymbolisch) zu repräsentieren und zu manipulieren. Auf diesem Repräsentationsniveau ist die Analogie zwischen Maschine und menschlicher intellektueller Aktivität zu suchen, und es ist dabei jedenfalls im Prinzip unerheblich, wie diese symbolische Repräsentation durch die verschiedenen konzeptuellen Schichten (KI-Programm → höhere Programmiersprache → Maschinencode → Transistoren → Elektronenfluss) im Computer einerseits und im Gehirn (Denken → „Programmiersprache“ → bestimmte funktionale Neuronenkonfigurationen → Synapsen, Neuronen → lektronenfluss) andererseits realisiert werden.
+
+''Abb. 3: Abstraktionsebenen bei Mensch und Maschine''
+
+Die Fähigkeit meines Gehirns in diesem Augenblick, aus den von meiner Retina gesendeten und im Elektronenfluss des optischen Nervs kodierten Signalen eine symbolische Repräsentation zu berechnen, die es gestattet, den vor mir stehenden Schreibtisch als Gestalt zu erkennen, basiert auf Methoden, die auch in einem Computerprogramm formuliert werden müssen, wenn es die Fähigkeit zur Gestaltwahrnehmung haben soll. Es ist bisher kein stichhaltiges Argument bekannt, welches zu der Annahme berechtigt, dass solche Methoden – ebenso wie die zu komplexeren geistigen Tätigkeiten befähigenden Methoden – nicht auch auf einem Computer realisiert werden können, und de facto gehen die meisten Wissenschaftler der KI von der Arbeitshypothese aus, dass es keinen prinzipiellen Unterschied zwischen den Kognitiven Fähigkeiten von Mensch und Maschine gibt.
+
+
+!The Computer is Not Like me 
+ 
+Diese Hypothese kann zu der Spekulation verleiten, dass – genügend weitere Forschung vorausgesetzt – der Unterschied zwischen Mensch und Maschine zunehmend geringer werden wird, und diese Schlussfolgerung hat berechtigte Kritik herausgefordert[28]. Diese Kritik basiert im wesentlichen auf dem Argument, dass wir als denkendes Subjekt nicht allein durch eine abstrakte intellektuelle Fähigkeit, sondern auch durch das „InDerWeltSein“ dieser Fähigkeit geprägt sind. Wir sind als geistige Personen die Summe unserer körperlichen und intellektuellen Erfahrungen: Die Tatsache, dass wir geliebt worden sind und geliebt haben, dass wir biologische Wesen sind und einen Körper haben und damit ungezählten sozialen Situationen ausgesetzt sind, die je nach sozialer Schicht und lokaler Besonderheit verschieden sind, hat einen 
+das Denken prägenden Einfluss, dem ein Computer so nicht ausgesetzt ist. Obwohl ein großer Teil dieser Erfahrungen explizit gemacht und dann auch programmiert werden kann, und obwohl es irrig ist zu glauben, ein Computer könne nicht so programmiert werden, dass er entsprechende Emotionen hat, ist er doch nicht in der Welt, wie wir es sind, und wird, selbst rapiden technischen Fortschritt vorausgesetzt, eine uns fremde Intelligenz bleiben – eine maschinelle Intelligenz, die uns rein intellektuell jedoch gleichwertig, ja auf vielen Gebieten bereits überlegen ist. 
+
+Meine heutige Frau ist im Osten unseres Vaterlandes aufgewachsen und hat all die Enttäuschungen und Sehnsüchte nach einer besseren Welt ohne kapitalistische Ausbeutung von früher Kindheit an erlebt und nicht, wie ich, aus Büchern destilliert. „Ach Bibi, das verstehst Du nie!“ ist meist das Ende unserer einschlägigen Diskussionen. Dabei sprechen wir beide Deutsch und sind auch fast gleich alt und sind beide in der nördlichen Hemisphäre dieses Planeten physisch gezeugt und geboren worden und zur Schule gegangen und irgendwie auch groß geworden.[29]
+
+''Abbildung: Große Senatssitzung: Schelm, die Zukunft diskutierend (JamesEnsor)''
+
+Ein Schimpanse, Gorilla oder Orang-Utan ist schon sehr viel schwerer zu verstehen und ein Delphin oder ein Walfisch hat eine Intelligenz, die uns als „Säugetier“ zwar  nicht unvertraut ist, aber aufgrund der idealen Lebensbedingungen ohne wesentlichen Feinde (außer dem menschlichen Räuber), eine völlig  andere Richtung ohne Werkzeugcharakter angenommen hat. Nach allem was wir heute wissen, sind sie nicht nur große Lebertranlieferanten, sondern besitzen eine Intelligenz die unserer in gewisser Hinsicht überlegen ist und musische und soziale Ausdrucksformen gefunden hat, die wir nicht 
+verstehen – vielleicht niemals verstehen werden.
+
+Als die „Studienstiftung des Deutschen Volkes“ vor über dreißig Jahren meinen damaligen Doktorvater PatHayes (und mich als Assi) nach BadAlpbach einlud und er vor dem vornehmen wissenschaftlichen Publikum von Nobelpreisträgern, Respektabilitäten und deutschen Professoren eben diese Thesen vortrug, wurde er aufgebracht gefragt, ob diese „mechanistische“, „reduktionistische“ Sichtweise des Menschen nicht einer antihumanistischen Tendenz Vorschub leiste. 
+
+Als er verstanden hatte, wovon überhaupt die Rede war, erzählte er den erstaunten Professoren von seiner Frau und einer Tätigkeit, die man im Englischen mit „to make love“ umschreibt. Er erzählte, wie sehr er seine Frau auch körperlich liebe, und dass es dieser Liebe nicht im Geringsten abträglich sei, dass er im Wesentlichen verstehe, wie ihr Körper chemisch und physikalisch funktioniere. Beispielsweise wenn sie erregt sei, sei die Art und Weise der Drüsenfunktionen im Wesentlichen bekannt. Oder wenn sie den Kopf so schön seitlich hielte ... und dann diese Nackenlinie, die er immer so bewundert habe und von der er wisse, dass sie durch bestimmte Schwerkraftbedingungen entstehe!
+
+Ebenso sei es mit der Funktionsweise des Gehirns, das nun einmal als informationsverarbeitendes Organ rational naturwissenschaftlich verstehbar funktioniere. Und sich an einen der berühmteren Teilnehmer wendend: „I know, ProFessor Braitenberg, your brain is a machine – but wow, what a machine!“[30]
+
+!I mean, where is all of this going to end?
+
+Die nächste große Technologiewelle[31], die von der KI entscheidend mitgeprägt wurde, wird die der autonomen Roboter sein, auf die sich die großen Industrienationen mit erheblichen Forschungs- und Entwicklungsausgaben im Milliardenbereich vorbereiten.
+In Japan, wo derzeit die besten „intelligenten“ Roboter gebaut werden, und in den USA wurden dazu Institutionen geschaffen und enorme Forschungs- und Entwicklungsmittel aufgewendet, um die Vorbereitungen auf eine Entwicklung zu treffen, die in den wirtschaftlichen Auswirkungen mindestens der heutigen Automobilindustrie entspricht[32]. 
+
+Diese Maschinen werden zunehmend fast alle menschliche physikalische Arbeit übernehmen können und den Reichtum einer Industrienation produzieren. In dem Maße, wie sich die Autonomie dieser Roboter erhöht und der Einsatzbereich verbreitert, werden durch den wirtschaftlichen Druck, immer mehr Resultate aus der Grundlagenforschung technologisch umgesetzt und in den Maschinen technisch realisiert und weiterentwickelt werden. Es ist dann nur eine Frage der Zeit, ab wann jedermann diesen Maschinen ein „ICH“ zuschreiben wird.
+
+Werden wir ihnen dann Grundrechte zubilligen?
+
+Und umgekehrt: beraubt uns diese Technologie nicht unserer Würde und wichtiger Fähigkeiten in der Arbeitswelt? 
+In vielen Bereichen in denen Menschen jetzt arbeiten und ihre Intelligenzleistung einbringen, tun sie dies ja nicht immer freiwillig und schon gar nicht menschlich ganzheitlich. So wie wir früher nur spezifische Aspekte unserer Muskelkraft in die Arbeit eingebracht haben, obwohl wir mit unserem Körper viel schönere Sachen machen können[33], als nur die wenigen Handgriffe, die routinemäßig im automatisierten Arbeitsprozess anfallen, so sind wir im Augenblick gezwungen, routinemäßig technische Intelligenzleistungen zu erbringen, obwohl wir mit unserem Kopf und unserem Menschsein eigentlich viele schöne Sachen machen könnten.
+
+Der Ministerialangestellte, der in der Verwaltung arbeitet und Formulare ausfüllt oder der Fachmann, der ganz genau über einen Elektromotor oder über die neuen polymeren Werkstoffe oder den Compilerbau Bescheid weiß, bringen sich ja nicht als voll entwickelte Individuen ein. Wenn diese Arbeiten von Maschinen übernommen werden, so wäre dies sicher kein großer Verlust.
+
+''Abbildung: Paris, Gare de l’Ouest, 1895''
+
+In einer Übergangsphase wird die Mechanisierung dieser technischen Intelligenz weiterhin im Vordergrund stehen. 
+Das heißt, die Veränderung in unseren Produkten, die wir heute schon sehen können, wird sich beschleunigen. 
+Jeder Schalter im Fahrstuhl beispielsweise funktioniert heute anders als vor zehn Jahren: damals war er mechanisch, heute ist es ein Touchsensor und morgen ein sprachverstehendes Subsystem. Wenn Sie ein japanisches Videogerät heute öffnen, sieht das vollständig anders aus als das Bandgerät, das ich in den sechziger Jahren von meinem Vater geschenkt bekam: alle Steuereinheiten waren damals noch mechanisch. Dass sich CD-Platten noch drehen, ist ein Anachronismus: die Information kann man in einem iPod Nano speichern und besser gleich vom Netz herunterladen.  
+
+Unsere Produkte sind also in einem immer dramatischeren Wandel begriffen, in dem Mechanisches soweit wie möglich zurückgedrängt, und jedes Gerät zunehmend seine eigene Informationsverarbeitung haben wird, und letztlich auch eine eigene eingeschränkte technische Intelligenz. In die hochkomplexe Werkzeugmaschine ist ein Expertensystem eingebaut, das einen Fehler diagnostiziert und zunächst versucht, diesen selbst zu reparieren. Wenn das nicht klappt, ruft es einen Werkmeister und gibt ihm genaue Anweisung, was er für Werkzeuge mitbringen soll, was kaputt gegangen ist, 
+was er reparieren muss, und im übrigen möchte er doch bitte daran denken, dass er nicht wieder seinen Schraubenschlüssel darin liegen lässt, wie beim letzten Mal.
+Unsere Autos werden ebenso eine solche technische Intelligenz haben wie Flugzeuge beispielsweise.
+
+Mein Haus, das ich in zehn oder zwanzig Jahren kaufe, wird eine gewisse Eigenintelligenz haben, und je nach Geldbeutel kann ich mehr oder weniger Intelligenz für dieses Haus kaufen. Ich kann, ehe ich hinausgehe, in natürlicher Sprache 
+Informationen abrufen, zum Beispiel dass ich heute Abend den neuen Film über Johnny Cash und June Carter Cash sehen möchte. „Wie hieß der doch noch gleich?“ „Walk the Line“ sagt die angenehm weibliche Computerstimme. „Willst Du die deutsche Version sehen? Am Broadway Kino in Landstuhl läuft die ungekürzte englische Originalfassung: 
+soll ich die übers Netz holen?“ „Gut, hol sie, aber lass Dir nicht wie beim letzten Mal die volle Gebühr aufbrummen, ich hab die günstigeren VIP-Konditionen!“ „O.K.“
+Oder: „Wo ist die Verkehrsdichte heute am größten?“ Der Computer im Haus wird antworten und mich fragen, ob er mir direkt sagen soll, wie ich zur Universität komme und wie ich den Verkehrsstau umfahren soll. “Oder soll ich es gleich dem Autopiloten im Auto mitteilen, der nun informiert ist und dann in natürlicher Sprache eine genaue Fahranweisung gibt“ - und falls ich nicht aufpasse und eine Abbiegung überfahre, eine neue Fahrtroute entwirft.
+Ich habe vergessen, mein Manuskript für das neue KI-Lehrbuch rechtzeitig abzuschicken und deshalb ordert mein Hauscomputer den neuen Service der Post, einen autonomen PICKnDROP Minihubschrauber, der die Städte vernetzt und kleine 
+Güter völlig autonom ausliefert.
+Mein persönlicher digitaler Assistent (PDA) enthält alle wichtigen Informationen für den morgigen Tag und meine nächste geplante Reise, er speichert im „personal memory“ alle Informationen seit meiner Geburt und lädt im Bedarfsfall das gerade Wissenswerte aus dem „Semantic Web“ nach. Kleine eingewebte Kameras in meiner Kleidung beobachten und speichern alle mich umgebenden Tatsachen und Dinge und lassen sich über einen assoziativen Suchmechanismus abrufen. Der Streit mit meiner Frau darüber, wie wir uns damals über den Abwasch geeinigt hatten: „Dein Abwasch und mein Abwasch wollten niemals unser Abwasch werden“ (Grass) läuft dann so ab, dass ich mal kurz mein e-Portfolie aufrufe und den damaligen Wortwechsel an die Wand projizieren lasse. Die aufgeklebten Chips der Produkte im Warenhaus senden meinem PDA Informationen, die mir die Wahl erleichtern sollen, sie rechnen sofort elektronisch ab und aktivieren auch die Lieferkette von Saarbrücken ins Zentrallager in Hannover und von dort nach China, wo die Ware hergestellt wird. Meine Tür zuhause öffnet sich, weil sie meinen Chip erkennt, der auch gleich meinen Freunden auf der Weltkarte von Google Earth durch einen blinkenden Punkt mitteilt, wo ich gerade bin.
+
+Wenn ich nach Hause komme, wird mein Hauscomputer mich erkennen, den Fernseher wie gewünscht einstellen, die mitgebrachten Kolonialwaren über deren RFID-tag erkennen und die Warenliste des Nachfahren von AxelHacke’s gutem alten 
+Kühlschrank BOSCH „updaten“, der damit eine neue Einkaufsliste für morgen früh ausdruckt. Mein Wasserbett erkennt mich ebenso und stellt meine Lieblingstemperatur ein, wie die Badewanne, die mich fragt wann ich heute abend mein Bad nehmen will:
+Milliarden von Sensoren und Infochips in allen Produkten und Gegenständen konstituieren schlussendlich eine totale Infowelt, in der die computerisierte Realität und die virtuelle Realität verschmelzen zum Cyberspace, in dem sich unser alltägliches Leben abspielen wird. 
+
+Ein Cyberspace, der zudem von einer Vielfalt materieller Eindringlinge gekennzeichnet sein wird: dutzende von winzigen bis mittelgroßen künstlichen Wesen und Robotern, die den Rasen mähen, den Swimmingpool und das Wasserreservoir sauber halten, in der Wohnung herumkreiseln und Staub saugen, wieder andere werden langsam säubernd über die Wände und Fenster kriechen, Transportaufgaben übernehmen, Tisch decken und abwaschen: Rodney’s intelligente Kreaturen, wie sie u.a. in dem Film „Blade Runner“ aufgenommen wurden.
+
+Mit dieser zunehmenden Automatisierung werden sich auch unsere Fabriken weiter verändern. Ich habe eine vollautomatisch produzierende Fabrik besucht, in der kaum ein Mensch zu sehen war, der Fußboden ist mit diesen schwarzen Gummiplatten 
+belegt, wie in einem Flughafen, und nur gelegentlich fährt ein einsamer Ingenieur im weißen Kittel mit dem Fahrrad quietschend vorbei.
+Als ich meine neue digitale Kamera der Firma Olympus ausgepackt habe, war ich der erste Mensch der diese berührte.  
+Kurzum, ganz langsam und zunehmend immer schneller in diesem Jahrhundert werden sich die Produkte und unsere sozialen Strukturen, die zur Herstellung dieser Produkte notwendig sind, wandeln, und wir werden den Computer als völlig selbstverständlichen Bestandteil „ubiquitous, anywhere and anytime“ unseres Lebens akzeptieren – und damit langsam zu anderen Menschen werden.
+
+So wie der Steinzeitmensch ein anderer war als der heutige Mensch, der nach der industriellen Revolution lebt 
+und Güter und materielle Versorgung als festen Teil seines Lebens ansieht, so wird der Mensch, der diese 
+Technologie beherrscht und für sich einsetzt, ein anderer sein. Ebenso werden die sozialen Strukturen anders sein.  
+
+Ein anschauliches Beispiel?
+
+Haben Sie auch das Foto aus dem Afghanistan-Feldzug gesehen, in dem eine Schar bärtiger Gotteskrieger in ihrem macho-martialischen Outfit zu sehen ist, der die Herzen unserer Damen noch immer höherschlagen und die Augen feucht werden lässt? Mit gekreuztem Patronengurt, wildem Vollbart, uraltem Holzgewehr in Siegerpose 
+schwenkend, Turban und urbunte Kleidung eingeschlossen?
+Und in ihrer Mitte ein blutjunger, amerikanischer GI mit glattrasiertem Babyface, aber in bisher kaum vorstellbarer Weise technologisch hochgerüstet: Sprachverbindung mit Mikro und Winzlingsbildschirm am Helm, über GPS ein Punkt im Battle-Management-System, welches sein Vorrücken/Deckung und anderes kommandiert. Stiefel, Jacke, Hose gepflastert mit Hightech-Equipment zum Überleben und kriegerischem Einsatz, Schnellfeuergewehr mit Präzisionszielfernrohr, Nachtsichtgerät und Infrarot-Sensoren, Strahlungspistole am Gürtel und hightech, ultraleichter Überlebensausrüstung im 
+Rucksack, und einer kleinen Glasphiole am Kragen, die durchbissen seinen sofortigen Tod bedeutet und ihm die Folterqualen nach einer eventuellen Gefangennahme erspart. Am Himmel eine unbemannte fliegende Drohne, die die Bilder ihrer Kamera auf seinen Bildschirm sendet oder an den Roboter-Kameraden, der ihn bei  eventueller Verwundung aus der Kampfzone trägt. Was wir hier sehen ist der Abgesandte einer anderen Spezies, den die Gotteskrieger staunend umringen und der ohne Mühe mehrere hundert von ihnen in Schach halten kann. Biologisch ein homo sapiens wie Sie und ich - aber eine Menschmaschine!
+
+!27th of April, Two Thousand one Hundred and Eight
+
+Kann man langfristige Entwicklungen aufgrund der technisch/wissenschaftlichen Möglichkeiten voraussehen, oder hat Nestroy Recht damit, dass „der Fortschritt das an sich hat, dass er immer größer aussieht, als er eigentlich ist“?  
+ 
+Haben die großen SciFi-Autoren wie JulesVernes, IsaacAsimov und mein Lieblingsschriftsteller in dem Genre, StanislavLem, nicht oft verblüffend gut sehen können was kommt? Treibt die technische Entwicklung uns – oder ist es nicht vielmehr so, dass diese eine Realisierung unserer geheimen Wünsche und Sehnsüchte ist, eine 
+Ausstülpung und Materialisierung unserer Imagination?  
+
+Was hätte mein geschätzter Kollege UlrichNortmann wohl gesagt, wenn ich ihm damals am 17. Dezember 1903 beim abendlichen Umtrunk von dem Lufthopser der neuen Maschine erzählt hätte, die schwerer als Luft und ohne Flügelschlag mit den Gebrüdern OsvilleWright und WilburWright an Bord ein paar hundert Meter weit geflogen ist? Und dass 
+es in weniger als fünfzig Jahren eine neue Wissenschaft „Aeronautik“ geben wird, die dieses sonderbare Unterfangen erklären kann? Wenn ich ihm dann mit gebührendem Respekt und ohne Reue vorausgesagt hätte, dass sich genau 101 Jahre und 130 Tage später ein 550 Tonnen schweres Maschinen-Ungetüm, genannt A-380, in die Lüfte erheben wird und mit 850 Menschen oder 150 Tonnen Fracht an Bord gute 20.000 km mit einer Stunden-geschwindigkeit von knapp 1000 
+kmh34 um den Planeten herum fliegen wird?
+Und dass dessen Sicherheitseigenschaften zum Teil mit mathematischen Methoden der InforMatik'kollegen aus SaarBruecken 
+nachgewiesen werden konnten?
+
+!Die α-Vision: Silikonintelligenz 
+
+Vertraut mit der Forschung des Gebietes gehört im Jahr 2006 nicht mehr allzu viel Weitsicht dazu, um die nächste gewaltige soziale Veränderung durch den Einsatz autonomer Roboter vorauszusehen, die schwere körperliche Arbeit in der 
+Landwirtschaft, im Haushalt oder auf der Baustelle übernehmen werden. Ja, natürlich, auch im Krieg hat und wird diese Technologie militärische Hoch- und Katerstimmung auslösen. Und spätestens im Jahre 2051 wird die menschliche Fußballweltmeister-Mannschaft von der Siegermannschaft des RoboCup geschlagen werden - sagen die Veranstalter des Robocup.
+
+Verlangt es zu viel Fantasie seitens meiner humanistisch so hoch gebildeten Kollegen, um vorauszusehen, was der wirtschaftlich/militärische Wettbewerb an autonomer Eigenintelligenz für diese Spezies herausmendeln wird? Wenn sie so selbstverständlich diesen Planeten bevölkern, wie es heute die benzingetriebenen automobilen Fortbewegungsmittel tun? 
+
+Und ein paar hundert Jahre an Weltsekunden später? Werden sie uns immer noch gehorchen? 
+ 
+„Nein, werden sie nicht!“ sagt HansMoravec, der ehemalige Leiter des Robotik- Institutes an der Carnegie Mellon University in seinem vieldiskutierten Buch[35].
+
+Wenn wir weiterhin solche Sachen wie Auschwitz machen oder das Wettrüsten im „Kalten Krieg“, werden sie uns unsere gefährlichen atomaren Spielzeuge, mit denen wir die Existenz des PlanetErde im Namen der FreiHeit bedrohen, sicher lieber wegnehmen und uns vielleicht besser ganz abschaffen.
+
+Die Evolution ist ein erstaunlicher, aber blinder BauMeister: „Die alten Mammuts waren, weil ihre Stoßzähne über Kreuz wuchsen, zu einem langsamen Hungertode verurteilt, doch konnte die Selektion gegen diese grausame Erscheinung nichts ausrichten, weil sie erst nach der geschlechtlichen Aktivität auftrat“ (StanislavLem).
+
+Der spanische Konquistador Pizarro ließ auf seinen mittelamerikanischen Eroberungszügen immer einen gusseisernen Kanonenofen mitschleppen, an den er den heidnischen Häuptling eines Stammes in einer finalen Umarmung anbinden ließ, bevor er ihn durch Abbrennen des lokalen Feuerholzes auf Gluthitze brachte, um die Ureinwohner von der Güte und Überlegenheit des Christentums zu überzeugen[36].
+
+''Abbildung: Death and Masks (JamesEnsor)''
+
+Als KazikeHatney, der letzte Häuptling der Ureinwohner Kubas, nach lange erfolgloser Suche von DiegoVelazquez in einer Höhle aufgestöbert wurde und erwartungsgemäß auf einem Scheiterhaufen lebendig verbrannt werden sollte, gab ihm der für diese Vorhaben immer dienstbereite Priester zwischen Weihrauch und allerhand öligen Salbungen, die Wahl zwischen den Qualen des Feuertodes und der Freiheit mit Aussicht auf ein ewiges Leben im Himmel, wenn er nur dem Heidentum abschwören und sich zum Christentum bekennen würde. Häuptling Hatney dachte lange nach, der Rauch stieg auf, die an den Pfahl gebundenen Fesseln schmerzten die blutigen Hand-gelenke, dann fragte er nicht etwa nach den engelgleichen Jungfrauen, die ihn dort oben erwarten würden, sondern, ob die Spanier auch alle in den Himmel kämen. Natürlich würden sie dort auf ewig glücklich vereint sein, antwortete der Priester. „Dann möchte ich lieber verbrannt werden“, sagte KazikeHatney, und so geschah es.
+
+In der Hoffnung, dass unsere silikonbasierten Nachfahren einen etwas anderen Sinn für Humor haben, werden sie uns wohl trotzdem, wenn wir so risiko- und gewaltbereit weitermachen und auch sonst nicht allzu viel von Nutzen sind, kollateral abschaffen und die Zeitspanne der Evolution, in der Intelligenz und Weltgeistvorstellungen an feuchtes Protoplasma als Trägersubstanz gebunden waren, geht dann wohl irgendwann zu Ende.
+Oder es geht ihnen so wie mir: sie lieben die Menschen trotzdem irgendwie: „It’s the duality of human nature, Sir“ brüllt der amerikanische GI mitten im Getöse einer Schlacht im Vietnamkrieg als Antwort auf die ebenso gebrüllte inquisitive Frage des Sergeant, wieso er ein weißes Peace-Zeichen an seinem Stahlhelm trägt[37].  
+
+In einem SciFi-Roman habe ich kürzlich die herrliche Szene gelesen, wie ein Junge der neuen superintelligenten α-Art, mit seinem menschlichen Freund aufwächst. Sie mögen sich, spielen und erzählen stundenlang zusammen, aber wie sie sich necken und auf der Wiese balgen, beobachtet der Ich-Erzähler erschrocken auffahrend eine subtile, kaum wahrnehmbare Nuance in dem Spiel: Die α-Intelligenz spielt de facto so mit seinem gleichaltrigen menschlichen Freund, wie wir mit unserem geliebten jungen Hund spielen und balgen!
+
+Man kann eine solche Entwicklung natürlich nicht ganz ausschließen und bisher waren dies auch meine Vorstellungen der Zukunft: Endzeitstimmung und SamuelBeckett war unser Prophet! Endspiel, Warten auf Godot und wie wir wissen, kommt er nie mehr und was bleibt sind die morbid faszinierenden Erinnerungen auf Krapp’s letztem Band an die Gefühle und Sehnsüchte des letzten aussterbenden homo sapiens. 
+Aber nun leben wir am Anfang des neuen Jahrtausends, die europäische Grundstimmung und der „Zeitgeist“ ist von 
+Houellebecq einmal abgesehen, wieder etwas aufgehellter – und es gibt auch eine technologische Variante, die mir, Zeitgeist hin oder her, in den letzten Jahren immer wahrscheinlicher geworden ist und dieser Replik den Titel gegeben hat:
+
+!Die Ω-Vision: MenschMaschinenMensch 
+
+Als das Computerprogramm DeepBlue den damaligen Schachweltmeister GarryKasparov besiegte, wurde dies in der Weltpresse als der Sieg der Maschine über den Menschen bejubelt – bzw. für die Leser DER ZEIT angemessen betrauert und mit einem entschiedenen einerseits-und-andererseits diskutiert.  
+
+War das wirklich so? 
+
+GarryKasparov hatte sich monatelang mit einem SchachProgramm auf das große Duell vorbereitet und coachen lassen, er hatte weiterhin Unmengen an Computerspielen analysiert und für das WeltMeister-SchachSpiel ganz besonders vorsichtige Strategien gegen einen Computer – statt eines menschlichen Gegners – entwickelt: eine Mensch-
+Maschinen-Symbiose, die ihn überhaupt erst zu einem ernsthaften Gegner für DeepBlue gemacht hat. 
+Umgekehrt haben die Entwickler von Deep Blue alle früheren Spiele von GarryKasparov analysiert und die Eröffnungszüge ebenso wie dieses Wissen explizit soweit wie möglich einprogrammiert. Ebenso haben sie die Parameter des Programmes immer wieder durch menschlichen Eingriff auf GarryKasparov’s Spiel hin nachgestellt: Maschinen-Menschen eben.
+Es war also eher eine Schlacht zwischen MenschMaschine gegen MaschinenMensch.
+
+Die Aufschlüsselung des menschlichen Genoms wäre ohne die enge Symbiose zwischen den sequenzierenden Labor-Robotern, der computer-gestützten Analyse der Daten und der menschlichen Intelligenz der beteiligten Wissenschaftler unmöglich 
+gewesen.
+
+Wer fährt das Auto: der an das Internet und den Verkehrsfunk angeschlossene Autopilot oder (noch) der steuernde menschliche Fahrer? 
+Wenn ein FlugZeug die automatische Landehilfe einschaltet: „Who is in charge?“ 
+  
+''Abbildung: SamuelBeckett, 1964''
+ 
+Wenn meine jungen wissenschaftlichen Mitarbeiter mit GoogleScholar und IhMail-Austausch die Einarbeitung  in ein neues Spezialgebiet in zwei Monaten erledigen, die früher mehr als ein Jahr Recherche und Dampf-Mail benötigt hätte:  
+MenschMaschinenMensch'en?
+
+Und wenn das Internet um semantische Annotationen und Ontologien zum „SemanticWeb“ ausgebaut und spätestens damit zum unerlässlichen Bestandteil unseres Lebens wird, so dass der Zugang zum Web eines der menschlichen Grundrechte sein wird, wie saubere Luft und klares Wasser?
+
+Wenn uns eine internetfreie Zone[38] wie die unvorstellbare Ausgeburt der Hölle im Alltag eines Neandertalers 
+erscheinen mag?
+
+„To be is to be a node in the net!“        
+ 
+Wenn der Zugang zum Web ebenso wie zu dem implantierten Mobiltelefon mit einer neuen Kehlkopfsprache möglich wird, die man nicht mehr laut hört, sondern nur von dem eingebauten Mikro verstanden wird? Der implantierte Chip im Backenzahn des US-Soldaten dem „Battle-Managent-System geographische Position und derzeitige Körperfunktionen übermittelt und ihm auf dem in der Brille eingelassenen Bildschirm Informationen und Anweisungen zuspielt?
+
+MaschinenMensch!
+
+''Abbildung: Junge Menschen, den Neuankömmling auf unserem Planeten begrüßend''
+
+Vor einigen Jahren gelang britischen Forschern die erste direkte Kopplung und der Informationsaustausch zwischen einem Silikonchip und der darauf gewachsenen biologischen Nervenzelle. Inzwischen hat ein deutsches Team eines Max-Planck 
+Institutes den Schaltkreis mit einer solchen Berechnung vollständig schließen können: das Ergebnis der Berechnung eines Silikonchips konnte an die darauf gewachsene Zellansammlung übertragen werden, und deren daraus folgende „Berechnung“ 
+wiederum an den Silikonchip zurückgeleitet werden.
+
+HughHerr, der Wissenschaftler der beide Beine in einem Unfall verloren hatte und nun mit „intelligenten“ Prothesen läuft und die besten ‚Cyborgs’ der Welt am MIT-Lab entwickelt, experimentiert mit aus StammZelle'n gezüchteten tierischen Muskelfasern, (statt Motoren oder Druckluft) für seine Robotergelenke, um dieses besser geeignete 
+‚Material’ eventuell einsetzen zu können. Könnte man nicht auch ein Gehirn anschließen? 
+Wird der Anteil gezüchteter biologischer HardWare größer sein als der mechanische Teil eines RobOt'ers in ZuKunft oder umgekehrt? Wie viel mechanische Implantate werden wir haben?
+Und was ist dann der Unterschied?
+TomKnight und RonWeiss haben am MIT AI-Lab genetisch umprogrammierte E-coli Zellen in kleine Roboter verwandelt: die dazu notwendige Berechnung wurde erst computerberechnet und simuliert, dann in DNA-strings „übersetzt“ und danach dem E-coli Bakterium implantiert, das nun mit entsprechenden Sensoren und Aktoren ausgestattet war, um wie ein winziger Roboter mit einem wohldefinierten Programm zu agieren[39].
+
+Erste bescheidene Anfänge, gewiss![40]
+
+Haben Sie schon einmal im Museum den einfachen Labortisch von LiseMeitner und OttoHahn gesehen, auf dem die beiden das erste Atom gespalten haben? Der zeitliche Abstand zum ersten Kernreaktor aber auch zu Hiroshima betrug weniger als einhundert Jahre/Weltsekunden.
+
+Wenn Körperteile von uns ebenso durch künstliche Organe oder Gliedmaßen ersetzt werden können, wie Teile des Gehirns durch implantiertes „augmented memory“ und Kommunikationsschnittstellen verstärkt werden, und wenn weltweit vernetzt jeder Mensch mit jedem direkt kommunizieren kann und Bestandteil des weltumspannenden Computernetzwerkes „anywhere“ und „anytime“ ist, dem auch die Roboter der Zukunft angehören, dann stellt sich das Problem der Dominanz einer werkstoffbasierten Computerintelligenz über unser vergängliches ProtoPlasma vielleicht gar nicht mehr.
+
+Ich habe als Kind einmal mehrere Raupen mit genügend Blättern als Nahrung in ein Glasgefäß eingesperrt und fasziniert beobachtet, wie diese sich nach einiger Zeit eingesponnen und in eine Puppe verwandelt hatten, die ich aufgeschnitten und nur noch flüssiges Protoplasma darin vorgefunden habe, das sich auf wundersame Weise nach einigen Wochen erneut verfestigt und zu einem bunten Schmetterling geformt hatte: nicht nur wollte ich, der kleine Tischlersohn aus BueckeBurg, zum VerDruss meines Vaters nun unbedingt und endgültig WissenSchaft'ler werden – sondern bis heute hat das ungläubige Staunen über diese biologisch „normale“ Metamorphose nicht nachgelassen.
+
+StanislawLem benutzt in seinem ZukunftsRoman SOLARIS den Kunstgriff, eine total andere, ungeheuer weit fortgeschrittene Superintelligenz durch eine Art unaufhörlich denkende und allerhand Schabernack treibende „Computer-Suppe“, die den fernen Planeten umgibt, irgendwie anschaulich zu machen.
+
+Wäre es nicht eine wunderbare Hilfe gewesen, wenn Sie, lieber Herr Kollege Nortmann, neulich bei Ihrem beeindruckenden Vortrag über mathematische Grundlagenforschung und den von Ihnen vorgetragenen nicht eben einfachen Beweis von KurtGoedel’s Unvollständigkeitstheorem, diesen durch ein implantiertes automatisches Beweissystem vorgesagt bekommen hätten? Auf Wahl und Zuruf historisch korrekt, so wie Sie es vorgetragen haben, oder so geglättet und vereinfacht, wie wir ihn heute unseren Informatikstudenten in der Theorievorlesung vorstellen!
+
+Wenn Kinder mit mathematischer Frühbegabung – so wie SUMO-Ringer früh ausgewählt und speziell ernährt und trainiert werden - durch entsprechende Implantate und Vernetzung mit dem globalen Internet ihre „wet ware“ beizeiten adaptieren und sich auf diesen besonderen mathematischen Beruf in der Königsdisziplin der Wissenschaften vorbereiten könnten? MenschMaschinenMenschen, die sich mit demselben atemberaubenden Tempo weiterentwickeln  und ihren silikonbasierten Mitbewohnern dieses Planeten so auch weiterhin überlegen bleiben? Oder besser gesagt: es diesen Unterschied gar nicht mehr gibt!
+
+Wir haben den Zauberlehrling gerufen und
+
+Besen, Besen
+
+Sei’s gewesen
+
+....... nein, das geht nun nicht mehr!
+
+
+JooergSiekmann ist ProFessor für InforMatik und KuenstlicheIntelligenz in Saarbruecken und einer der Direktoren des DfKi (Deutsches Forschungszentrum für KuenstlicheIntelligenz). Seine Arbeitsgebiete sind: KuenstlicheIntelligenz, Deduktionssysteme und IhLearning für MatheMatik.
+
+(http://www-ags.dfki.uni-sb.de/home1.html)
+
+!Fußnoten
+
+[#1] UlrichNortmann: „L’homme Machine?“, Campus 4, p 12 ff, 2005. StefanHuefner: “Was ist Intelligenz?“, Campus 3, p 39 ff, 2005. LutzGoetze: „Über die Unvergleichlichkeit von GeHirn und Computer“, Campus 2, p 38 ff, 2005 
+
+[#2] DeutschLand hat im Vergleich zu allen Industrienationen, einschließlich der USA, die höchste absolute 
+Fördersumme in die KI-Forschung gesteckt (weit über eine Milliarde) und nach fast zwei Förder-Jahrzehnten war 
+eine natürliche Frage in der Mitte der 80er Jahre nach dem „Return-of-investment“. Davon hing nicht zuletzt die 
+weitere Förderung und Etablierung dieses Gebiets ab, s. a. den PITAC Report (1998, 1999) an den amerikanischen 
+Präsidenten. 
+
+[#3] DavidDeutsch: “The Fabric of Reality“, Penguin Science 1997; Roger Penrose: „The Road to Reality”, Vintage 
+Books, 2004
+
+[#4] IvanMaldacena, Spektrum der WissenSchaft, n° 3, 2006
+
+[#5] Göttingen 1935
+
+[#6] DanielDennett: „Brainstorms“ (1978) oder „ConScious'ness ExPlain'ed“ (1991)
+
+[#7] Siehe u.a. PamelaMcCorduck: “Machines who think“, W.H. Freeman and Co, 1979; PetraAhrweiler, „KuenstlicheIntelligenz Forschung in DeutschLand: Die Etablierung eines Hochtechnologie-Fachs“, Waxman Münster/New York, 1995 
+
+[#8] Die Zahl der Lehrbücher zur KI geht in die Hunderte, eines der Standardlehrbücher, das wir auch in Saarbrücken viel verwenden, ist: StuartRussel, PeterNorvig: „ArtificialIntelligence“, PrenticeHall Inc (2003) 
+
+[#9] Die Zahl  der Bücher über ConScious'ness, Qualia und „Mary’s rote Rose“ dürfte inzwischen bei einigen hundert 
+liegen; die wissenschaftliche Spezialliteratur in Zeitschriften und Konferenzbeiträgen übersteigt 100.000 bei weitem, 
+GoogleScholar liefert in 0,06 Sekunden 76600 Einträge. Wo soll man anfangen? 
+Wenn Sie ein Mensch mit philosophischen Neigungen für schön geschriebene Essays sind, mögen Sie unbeschadet 
+dem Ratschlag meines Kollegen Nortmann folgen und PeterBieri „Das Handwerk der Freiheit“, Fischer 2005, lesen 
+(„belabouring the obvious und „verbal diarrhoea“ waren allerdings die Lieblingsvokabeln meines Doktorvaters PatHayes, wenn er aus dieser Art Philosophie-Seminar zurückkam; besser lesen Sie Bieri’s wunderbare Romane, unter 
+dem Pseudonym PascalMercier, die zur schönsten deutschsprachigen Literatur nach ThomasMann zählen.) 
+Wenn Sie für den Gedanken offen sind, dass die Erklärung von Denken und Bewusstsein (bei Mensch und 
+Maschine) inzwischen eine naturwissenschaftliche Fragestellung mit interessanten philosophischen Implikationen 
+ist, dann liefert das „bonfire of the vanities“ von DanielDennett, FrancisCrick, RichardDawkins, JamesWatson, E.
+Wilson, DavidChalmers und Kollegen einen besseren Einstieg. Zum Beispiel als Einstieg DanielDennett „Sweet Dreams“ MIT Press, 2005, mit den entsprechenden Rückwärtsverweisen.
+
+[#10] DieterZiegler: ”Die Industrielle Revolution”, Wissenschaftliche Buchgesellschaft, Darmstadt 2005
+
+[#11] RogerPenrose: „The Emperor’s New Mind: Concerning Computers, Mind and the Laws of Physics“, Oxford 
+Univ. Press, 1989
+
+[#12] Das war nicht immer so: Als ich Ende der 70er Jahre aus der Gesellschaft für Informatik ausgeschlossen werden sollte, weil ich öffentlich in Vorträgen behauptet hatte, dass Maschinen denken können und darüber keinerlei Reue zeigte, konnte dies von einigen älteren und weise gewordenen Kollegen verhindert werden – und als ich im letzten Jahr ehrenwerterweise als „Fellow der GI“ ausgezeichnet wurde, ging dies nicht ganz ohne Schmunzeln und vielen „ach-ja’s“ über die Vergänglichkeit all unseres menschlichen Tuns ab.
+
+[#13] Am interessantesten, die von RichardLeakey angestoßene Primatenforschung; über Gorillas: DianFossey 
+„Gorillas im Nebel“, über Orang Utans: BiruteGladikus „Mein Leben mit den Orang Utans auf Borneo“ und über 
+Bonobos: FransDeVaal: „Bonobo, The Forgotten Ape“, über Schimpansen: Jane Goodall „Wilde Schimpansen“
+
+[#14] Siehe z.B.: MaxScheler: „Die Stellung des Menschen im Kosmos“, Franke Verlag, 1966
+
+[#15] Natürlich gibt es konkrete, von niemandem bestrittene Unterschiede (s.u.), aber all die schönen philosophisch angehauchten Diskussionen möchten ja gar zu gern etwas prinzipielles, grundsätzlich anderes entdecken.
+
+[#16] RodneyBrooks,”Cambrian Intelligence“ Cambridge, Mass MIT Press 1999. Rodney Brooks “Flesh and Machines: How Robots will change us”, Vintage 2002. Rodney Brooks, LucSteels: “The Artificial Life Route to Artificial Intelligence: Building Embodied Situated Agents”
+
+[#17] Diese Programme waren typisch für die Forschung der 60er Jahre, als die wissenschaftliche Diskussion über die vermeintlichen Grenzen von Computerintelligenz am schärfsten war. Das Scharmützel verlief so: Ein Kritiker sagt, die KI sei ja ganz beeindruckend, aber ein Computer könne niemals X! Dabei war X zum Beispiel Schachweltmeister werden, kreativ sein, Emotionen zeigen, abstrakt und mathematisch denken, geschriebene/gesprochene Sprache verstehen, Fußball spielen, einen messbaren Intelligenzquotienten haben und anderes mehr. Und dann hat ein hochmotivierter Promotionsstudent an einem der KI-Labs ein Programm geschrieben, das genau X konnte. Ende der 70er Jahre war diese Pirouette ausgedreht und dieser Typ von Forschung vorbei.
+
+[#18] Nein, lieber Herr Kollege Hüfner, bei allem Respekt: Kreativität definiert sicher nicht die postulierte Grenze zwischen Mensch und Maschine.
+
+[#19] 
+- Die „erste Revolution“ Mitte der 70er Jahre gegen die bis dato klassische KI, betonte die Bedeutung explizit 
+gespeicherten Wissens über den Diskusbereich und deeskalierte die übertriebene Betonung allgemeiner intelligenter 
+Problemlösemechanismen, die zusätzliches Wissen als „cheating“ abgetan hatten. 
+- Die Wissenschaftler auf dem Gebiet der Neuronalen Netze gehen von der Hypothese aus, dass die konkrete 
+materielle Beschaffenheit des Gehirns mit seinen Neuronen, Synapsen und Dendriten konstituierend für Intelligenz 
+ist und versuchen Intelligenz über künstliche neuronale Netze zu realisieren. 
+- Eine „emerging functionality“ ist z.B. die Temperatur, die sich zwar aus den sich bewegenden Atomen ergibt, aber 
+nicht direkt auf diese reduzierbar ist. Mein Körper oder das Bewusstsein sind „emerging functionalities“, da sich 
+deren Funktion nicht direkt auf den Zellaufbau zurückführen lässt. Diese Metapher inspirierte Marvin Minsky’s 
+einflussreiches Buch „Society of Mind“ (Simon + Schuster, 1986)
+- „SituatedNess“ ist das Schlagwort für einen der interessantesten Paradigmenwechsel in neuerer Zeit: ein klassisches 
+KI-Programm, z.B. in einem Roboter, baut ein internes Modell seiner Umwelt auf und stellt über Sensoren sicher, 
+dass dieses mit der Umwelt konsistent bleibt. Das eigentliche „reasoning“ läuft dann auf diesem explizit 
+gespeicherten Modell. „Let the world be its own representation“ sagt dagegen Rodney Brooks und baute die 
+erfolgreichsten insektenartigen Roboter ohne ein explizites internes Modell der Umwelt, die auch auf den Mars 
+geschickt wurden. 
+- „Embodiement“ wendet sich gegen die Vorstellung, dass man Intelligenz unabhängig von einem Körper, in die 
+diese eingebettet ist, untersuchen kann. Die Vorstellung vieler Intellektueller, dass der lästige Körper nun mal 
+notwendig ist, damit das Gehirn nicht herunterfällt, ist auch neurowissenschaftlicher Nonsens: das Gehirn ist auf 
+milliardenfache Weise mit dem Körper vernetzt, wie jede psychosomatische Klinik weiß. Körper und Geist sind ein 
+Ganzes, das durch Nervenbahnen, Neuropeptide, Energiebahnen und chemische Prozesse uns Menschen als solche 
+konstituiert – ein neuerer wissenschaftlicher Ansatz nun auch in der KI, der leider noch bei weitem nicht ausreichend 
+und in der ganzen Vielfalt berücksichtigt wird. 
+- „Artificial Life“: siehe GoogleScholar zu den Lehrbüchern, wissenschaftlichen Zeitschriften, Konferenzen und 
+Workshops dieses Gebietes.
+
+[#20] Candace B. Pert: „Moleküle der Gefühle“. Rororo science, 2005, Original: “Molecules of Emotion”, Scribner 
+New York, 1997 
+
+[#21] Cognitive Neuroscience., P. Churchland, T. Sejnowski: The Computational Brain, MIT Press, P. Lindsy, D.  
+Norman: Human Information Processing 1977, AcademicPress  
+
+[#22] Als Einstieg in die Debatte kann man die letzte Ausgabe der Zeitschrift „Gehirn und Geist“, Spektrum der 
+Wissenschaft, vol.4, 2006 versuchen. 
+
+[#23] Für diese Debatte am besten Google „End of History“ aufrufen. 
+
+[#24] RogerPenrose: „Shadows of the Mind: An Approach to the Missing Science of Consciousness“, Oxford 
+UnivPress, 1994 
+
+[#25] Die Debatte geht zur Zeit im wesentlichen über die Implikationen der Quantenphysik und das Prinzip des „non-local universe“. Siehe auch: R. Nadeau, M. Kafatos: „The nonlocal Universe“, Oxford Univ. Press, 1999. 
+
+[#26] MichaelGazzaniga (et al): „Cognitive Neuroscience, The Biology of the Mind“, 2nd Edition, W.W. Norton and 
+Company, 2002
+
+[#27] M. Boden:” Artificial Intelligence and Natural Man”, Harvester Press, 1977
+
+[#28] z.B. JosephWeizenbaum: „Computer Power and Human Reason”, Freeman and Company, 1976
+
+[#29] Eine wunderschöne Erzählung, die menschlich-aufwühlend anschaulich macht, wie es ist intelligent zu sein, aber anders als wir „Normalen“ (nämlich mit Asperger’s Syndrom) ist: Mark Haddai „The curious incident of the dog in the night time“, Vintage 2004
+
+[#30] „Ein szientistisch-computergesteuerter Reduktionismus, der menschliches Denken, Empfinden und Handeln 
+einerseits auf das Niveau von Maschinen zu verkleinern und andererseits die Verantwortung dafür zu leugnen 
+beabsichtigt, darf nicht hingenommen werden“ sagt unser tapferer Kollege Götze in seinem CAMPUS-Artikel. 
+Wohlfeil gebrüllt, Herr Löwe, aber ach Herr Kollege: was haben Sie sich wohl bei diesem Satz gedacht, gedruckt 
+immerhin anno domini 2005? Kennen Sie meine Lieblingsszene aus BertoldBrecht's „GalileoGalilei“, als die 
+Philosophen in Galileos Labor kommen, sich als die üblichen militanten Geisteswissenschaftler für immer 
+unsterblich ‚outen’ indem sie sich weigern, in der (italienischen) Alltagssprache zu reden und stattdessen in 
+hochgebildetem Latein disputieren, warum sich die Erde nicht um die Sonne drehen kann? Und – ein 
+Theateraugenblick, der mir auch heute noch immer wieder die Tränen in die Augen zu treiben vermag – in ihrer 
+hitzigen, sicherlich beeindruckend formulierten, Diskussion gar nicht auf die Idee kommen, durch das von Galileo aufgestellte Fernrohr zu schauen: wunderbar!
+
+[#31] Kann man die technologische Entwicklung in den nächsten zehn Jahren ungefähr voraussehen? Da die meisten 
+„technology assessment centre“ dies im Prinzip bejahen: wie ist es mit den nächsten hundert Jahren? Rodney Brooks 
+beschreibt das schöne Beispiel der irischen Mönche in der Zeit um 1050: Europa war nach dem Zusammenbruch des 
+Römischen Reiches technologisch und wissenschaftlich „in the dark ages“ und das wenige Wissen, das über die 
+Jahrhunderte hinübergerettet werden konnte, wurde von den Mönchen gewissenhaft kopiert, bewahrt und (sehr 
+moderat) erweitert. Hätte man sie nach der Zukunft gefragt, so hätten sie vielleicht automatische Federkielanspitzer, 
+besseres Papier und bessere permanente Farben vorausgesagt. Die Buchdruckerkunst, ein halbes Jahrtausend später? Das Internet und Google als wichtigste Informationsquelle nur knapp tausend Jahre später?
+
+[#32] Die langfristigen Perspektiven der Kognitiven Systeme sollte man nicht getrennt von der Entwicklung der 
+Informationstechnologie als Ganzes sehen, in die diese eingebettet sind (Informatik, KI, CogSci und CogSys, 
+Computer Linguistic, Neuronale Netze, Cognitive Neurosciences, Robotik, Artificial Life, ....) und nicht zuletzt der „intelligenten“ Materialien der Materialwissenschaften.
+
+[#33] Die Walfische haben Liebesrituale erfunden, die zärtlich und verspielt über viele Wochen anhalten und 
+außerordentlich ausdifferenziert sind, was vor hundert Jahren niemand diesen Kolossen zugetraut hätte.
+
+[#34] Der UlrichNortmann im Jahre 1903 hätte rasch nachkalkuliert: Fußgänger 5 km/h, ein Laufrad 20 km/h, die 
+schreckliche Neuerung eines dampfgetriebenen Stahlrosses gesundheitsschädliche 60 kmh. Ach UlrichNortmann, was hättest Du zu 1000 kmh gesagt? Geschweige denn zu 550 Tonnen?
+
+[#35] HansMoravec: „MindChildren”, Harvard UnivPress, 1988.
+
+[#36] Und –by the way – fragen ließ, wo sie das Gold versteckt hatten.
+
+[#37] In StanleyKubrick’s Meisterwerk „FullMetalJacket“
+
+[#38] Das blanke Entsetzen im Gesicht meines Freundes HansUszkoreit, als wir auf einer gemeinsamen Sitzung in 
+Shanghai plötzlich feststellen mussten, dass kein Wave LAN vorhanden war und er die gewohnte Informationsquelle seines Laptop in dieser wichtigen Sitzung nicht zur Verfügung hatte.
+
+[#39] T.F.Knight, R. Weiss “Engineerung Communications for Microbial Robotics”, 6th Int. Workshop on DNA-based 
+Computers, Lecture Notes in Computer Science, Springer, vol. 2054, 2000.
+
+[#40] Zum Tempo der Umsetzung neurobiologischer Forschung: nach anfänglichen Experimenten mit Delphinen haben 
+amerikanische Militärforscher Implantate in das Gehirn von Haifischen operiert, durch die diese sich „lenken“ 
+lassen, und als Unterwasserspione (mit eingebauter Kamera) bzw. Wasserbombenträger (entsprechend bestückt) 
+praktisch nicht detektierbar sind. (FinancialTimes, Februar 2006)

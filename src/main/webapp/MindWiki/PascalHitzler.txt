@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/PascalHitzler
+* HomePage: http://www.pascal-hitzler.de/
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker RudiStuder PascalHitzler
+|[XingLe:Pascal_Hitzler]

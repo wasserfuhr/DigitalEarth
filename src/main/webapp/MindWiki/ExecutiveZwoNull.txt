@@ -1,0 +1,9 @@
+Eine fiktionale Konferenz von MindBroker für Vorstände bei DaxUnternehmen.
+
+Programmideen:
+* MichaelGreve: ComBots: Europas grösstes StartUp.
+* HaraldWelte: Das OpenSource Handy
+* MarkusMerz: Das OpenSource Auto
+* KaiRomhardt: Business Zen
+* SebastianKuepers: OpenId
+* MarkusBreuer: SecondLife

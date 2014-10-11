@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Abraham_Maslow] [OpenCyc:AbrahamMaslow] [WebSeitz:AbrahamMaslow]
+* BornIn: 1908
+* BirthDay: 04-01
+* DiedIn: 1970
+
+ist nach GunterDueck ein WahrMensch und hat mit der HierarchyOfNeeds einen Beitrag zum SelbstAktualisierungsmodell geleistet.

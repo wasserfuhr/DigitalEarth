@@ -1,0 +1,15 @@
+* InterWiki: [WikiPedia:Virtual_economy]
+→ VirtuelleOekonomie
+
+||               ||OldEconomy        ||NooPolis     ||NooSphere
+||Currency       |EuRo,UsDollar...   |KayGroschen   |EnErgie
+||CentralBank    |FED,ECB,Boj,PBOC...|PieschenBank  |BlackHole
+||MoneySupply    |complex            |constant      |user generated
+||TransParent    |no                 |yes           |yes
+||SemanticEconomy|no                 |yes           |yes
+||FutureCash     |no                 |no            |yes
+||PostScarcity?  |scarce             |scarce        |abundant
+||inspired by:   |                   |              |
+||Economist      |AdamSmith          |GeneYoon      |AnthonyGiddens
+||Author         |ThomasHobbes       |NealStephenson|TeilhardDeChardin
+||SciFi          |Leviathan          |SnowCrash     |DownAndOut

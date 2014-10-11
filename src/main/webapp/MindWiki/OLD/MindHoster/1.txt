@@ -1,0 +1,7 @@
+MindHoster kann jeder Hoster werden, der
+* Linux-Rootserver anbietet mit
+* Stundenbasierten Kündigungsfristen und
+* Setup-Zeiten von unter 10 min.
+
+aktuelle MindHoster:
+* EcZwo

@@ -1,0 +1,12 @@
+Einige der wichtigsten BeGriff'e im ZukunftsRoman:
+* __CamelCase__: BinnenMajuskel
+* __KayGroschen__: Währung der PieschenBank.
+* __LockSchuppen__: Eigentlich eine »MissionImpossible«: Ein leerstehender alter LokSchuppen im HauptStaedtchen soll für viele millionen EuRo zum FutureLab2056 ausgebaut werden. 
+* __LongBetOne__: Wette zwischen RayKurzweil und MitchKapor um den TuringTest.
+* __NooPolis__: Eine WikiBasiert'e MicroNation, aus der nach und nach ein globales SocialNetwork erwächst, das nach und nach NationState's ablösen wird.
+* __PieschenBank__: Schafft ein neues sicheres Währungssystem.
+* __PieschenRobotics__: AnnoDomini2056 das wichtigste UnterNehmen für humanoide RobOt'er
+* __SiSanien__: ein kleiner Staat irgendwo im Osten der Republik DeutschLand.
+* __SingularLeuchtTurm__: Ein SchornStein am LockSchuppen, an dem in roter Leuchtschrift "The SingularityIsNear" stehen soll. 
+* __TransparentMan__: Eine simulierter DigitalTwin von RainerWasserfuhr, der UnTil2029 den TuringTest bestehen wird.
+* __ZukunftsTempel__: Ein wunderschöner ehemaliger BallSaal im HauptStaedtchen von SiSanien, im dem unter anderem ZukunftsTheater gespiel wird.

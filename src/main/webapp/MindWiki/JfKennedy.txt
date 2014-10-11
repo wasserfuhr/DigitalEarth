@@ -1,0 +1,6 @@
+* IsA: PotUs
+* InterWiki: [DeWikiPedia:John_F._Kennedy] [OpenCyc:JohnKennedy]
+* BornIn: 1917
+* BirthDay: 05-29
+* LebensEnde: 1963
+* MindQuote: "I believe that this nation should commit itself to achieving TheGoal, BeFore this decade is out, of landing a man on the MoonOfEarth and ReTurn'ing him safely to the PlanetEarth."

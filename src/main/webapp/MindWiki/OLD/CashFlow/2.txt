@@ -1,0 +1,23 @@
+|20101101|-|1500|EuRo       |MindMove ShangHai
+|20101101|-|1200|UsDollar   |IsWc
+|20100401|-| 200|EuRo       |ObDach
+|20100320|-|  60|EuRo       |HutBall
+|20100315|-| 100|EuRo       |ObDach
+|20100315|-| 120|EuRo       |UmZug
+|20100302|-| 100|UsDollar   |EcZwo
+|20100301|+| 930|EuRo       |BankRaub
+|20100301|-|  55|EuRo       |GarageOne
+|20100301|-| 120|EuRo       |DoppelRoom
+|20100227|-|  15|EuRo       |WarenKorb
+|20100224|-|  15|EuRo       |WarenKorb
+|20100221|-| 300|EuRo       |XX
+|20100221|-|  15|EuRo       |WarenKorb
+|20100219|-|  15|EuRo       |AldiTalk
+|20100218|-|  15|EuRo       |WarenKorb
+|20100216|-|  40|EuRo       |FaschingsParty
+|20100215|-|  15|EuRo       |WarenKorb
+|20100212|-|  15|EuRo       |WarenKorb
+|20100209|-|  15|EuRo       |WarenKorb
+|20100209|-|   7|EuRo       |DvbAg
+|20100206|-|  15|EuRo       |WarenKorb
+|20100205|-|  10|EuRo       |TaschenGeld

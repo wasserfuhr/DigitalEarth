@@ -1,0 +1,2 @@
+* IsA: PerSon
+* BirthDay: 10-31

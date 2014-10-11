@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Mel_Gibson]
+* BornIn: 1956
+* BirthDay: 01-03

@@ -1,0 +1,35 @@
+* WorldLanguages: deutsch: NewsLetterDe
+
+Dear ***,
+
+This is the first NewsLetter to the CitiZens of NooPolis.
+End of April we were 35 CitiZens.
+
+The PieschenBank has opened it's doors.
+The account balance of your BankAccount is *** KayGroschen (see http://bank.mindbroker.de/)
+
+There is a first PredictionMarket where you can trade shares for the candidates.
+More markets where you can trade EnterPrise's of the TradeRegister will follow soon.
+
+Until 2008-05-31 the first election of the NooPolis CabiNet will be held.
+You can vote and propose candidates on CabiNetElection page.
+
+We have started to translate the ConStitution of NooPolis to other WorldLanguages.
+An initial overview of the current status is available at
+
+  http://www.mindbroker.de/synopsis.
+
+Please let us know if you know someone who wants to help with the translation.
+
+HeikeRibke has worked on the DueckWiki, a wiki for the works of GunterDueck. (GunterDueck has launched BluePedia for EiBiEm.) Heike is looking for additional contributors.
+
+On xx.xx. the first ConsultationHour takes place where
+CitiZens and guests are invited to discuss the further development of NooPolis.
+
+From now on this NewsLetter will be sent to all CitiZens once a month.
+You can find an online version of the newsletter also at
+
+  http://mindbroker.de/wiki/NewsLetter
+
+Best regards,
+  RainerWasserfuhr

@@ -1,0 +1,5 @@
+* MindTags: MinisTer
+* InterWiki: [DeWikiPedia:Alexander_der_Große], [OpenCyc:AlexanderTheGreat-HistoricPerson]
+* JahrGang: -356
+* BirthDay: 07-20
+* EheVertrag: RoXane

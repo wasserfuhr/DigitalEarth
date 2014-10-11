@@ -1,0 +1,4 @@
+* MindTags: MindThing
+* BreitenGrad: 51.078333
+* LaengenGrad: 13.717777
+* BoundingBox: 0.15

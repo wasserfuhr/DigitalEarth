@@ -1,0 +1,44 @@
+ReCent'ly studied:
+
+ToDo: http://dblp.uni-trier.de/rec/bibtex/journals/ws/GuoPH05 YuanboGuo ZhengxiangPan JeffHeflin LuBm
+
+20100210
+* http://dblp.uni-trier.de/rec/bibtex/conf/miccai/SherbondyDAMW09
+** DcAuthor DharmendraModha EtAl
+** DownLoad: http://www.modha.org/C2S2/2009/11182009/content/MICCAI_BlueMatter.pdf
+* http://dblp.uni-trier.de/rec/bibtex/journals/informaticaSI/DolencKTKK08
+** DcAuthor: MatevzDolenc RobertKlinc ZigaTurk PeterKatranuschkov KrzysztofKurowski
+** HotTopics: InteliGrid ToCee IstForce IslandsOfAutomation
+
+20100206
+* http://dblp.uni-trier.de/rec/bibtex/conf/semco/BouquetSNM08
+** DcAuthor: PaoloBouquet HeikoStoermer ClaudiaNiederee AntonioMana
+** HotTopics: EntityNameSystem
+** ComMent: not clear how the OntoLogy will be managed nor how. Suggestion: first concentrate on a representation of the authors of entities __as__ entities.
+ 
+20100205
+* http://tw.rpi.edu/wiki/Scalable_Reduction_of_Large_Datasets_to_Interesting_Subsets
+** DcAuthor: JimHendler
+** HotTopics: EnTail
+
+20100202:
+* https://wiki.imise.uni-leipzig.de/Gruppen/OBML/Workshops/2009/
+** DcTitle Linked Data for the Life Sciences
+** DcAuthor: SoerenAuer
+
+20100121:
+* http://dblp.uni-trier.de/rec/bibtex/conf/semweb/GravesAH08
+** DcAuthor: AlvaroGraves SibelAdali JimHendler
+** HotTopics: MindPath RdF
+
+20100116:
+* http://dblp.uni-trier.de/rec/bibtex/conf/agi/GoertzelP08
+** DcAuthor: BenGoertzel
+* http://dblp.uni-trier.de/rec/bibtex/conf/IEEEicci/Goertzel09a
+** DcAuthor: BenGoertzel
+** HotTopics: OpenCog
+
+20100112
+* http://dblp.uni-trier.de/rec/bibtex/conf/semweb/AuerLH09
+** DcAuthor: SoerenAuer JensLehmann SebastianHellmann
+** HotTopics: LinkedGeoData CafeBliebig AltMensa FrauenKirche

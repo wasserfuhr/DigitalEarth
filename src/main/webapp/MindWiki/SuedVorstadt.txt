@@ -1,0 +1,3 @@
+* IsA: DiStrict
+* InterWiki: [DeWikiPedia:Südvorstadt_(Dresden)]
+* PartOf: StadtDresden

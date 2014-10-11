@@ -1,0 +1,21 @@
+* IsA: UnternehmensGruender
+* InvitedBy: HeikeRibke
+|[XingLe:Florian_Konnertz]
+|[FaceBook:662612035]
+|[WorldWideWeb:florian-konnertz.de]
+|[TwittEr:groovehunter]
+
+http://florian-konnertz.de/wiki/OpenSpirit
+
+----
+
+kleine notiz
+
+connecting minds... assoziiert bei mir meine herangehensweise über die jahre mittels der schnittstelle (bzw protokoll) von PersonalWiki/LifeWiki zu PublicWiki. 
+Dafür NotWendig sind zB settings welche seiten des PersonalWiki (=erweiterung des eigenen minds) in welche seiten des public wiki (oder andere WebSite's) weitergeleitet (-gepostet) werden ( also channels quasi) und umgekehrt - mögliche technologie (derzeit) RdF uä., abonnement von wikisites, erweitertes InterWiki.
+
+generelles ziel langfristig: semantische repräsentation von begriffsrelationen. Technologien: OntoLogy und weitere teile der wissensrepräsentation
+
+frohes neues MindBroker's!!
+
+florian

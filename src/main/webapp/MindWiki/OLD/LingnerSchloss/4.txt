@@ -1,0 +1,9 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0641
+* LaengenGrad: 13.7978
+* BoundingBox: 90
+* GraDient: 105
+* SlimNess: 0.2
+* MindCount: 0
+* HomePage: http://www.lingnerschloss.de/
+* OpenStreetMap: ToDo

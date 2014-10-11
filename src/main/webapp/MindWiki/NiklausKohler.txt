@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/75/6085
+* HomePage: http://www.nkohler.eu/
+
+ArchiTekt

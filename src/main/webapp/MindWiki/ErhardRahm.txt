@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/r/ERahm
+* HomePage: http://dbs.uni-leipzig.de/personen/rahm.html
+* PageNumber: 2
+* PagePath: LarryPage HectorGarciaMolina ErhardRahm

@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* HomePage: http://www.wohnzimmer-dresden.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/247951988

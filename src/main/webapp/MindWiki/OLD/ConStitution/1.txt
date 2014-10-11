@@ -1,0 +1,49 @@
+* MindQuote: integritas - perfectio - consonantia - commensuratio - convenientia - claritas
+
+This page a first attempt to extend NooPolis to other languages beyond German:
+Please note that the binding version of the ConStitution is still the German VerFassung.
+
+The ConStituion of the WikiBased digital republic of NooPolis:
+(For Questions: NooPolisFaqEn)
+
+!Grundsatz
+* All CitiZen's have FreeDom.
+
+!Bürgerstatus
+* All CitiZen have exactly one MindId and therewith a login.
+* With receiving a MindId you become a CitiZen and you accept the ConStitution.
+* Existing CitiZen can propose new CitiZen's for the NextId. During the Alphatest-phase HeikeRibke and RainerWasserfuhr can invite new CitiZen.
+* CitiZen are intertwingled into WebOfTrust.
+*  For registration, the inviting has to choose the first name, surname and the gender of the invited.
+* A subsequent name change is subject to verification by at least two Trustees.
+* At EndOfLife of a Citizens, his LastWill. Here they can inherit their virtual assets.
+* If no LastWill was declared, the virtual fortune will go to the BankAccount to the PieschenBank. 
+
+!ConStitution and Legislation
+
+* All rules of the ConStitution and other pages of the MindWiki may be changed.
+* There is the AllEyes principle.
+* Changes of the ConStitution are considered to be adopted by all citizens, if no citizen objects change within veto deadline by editing the wiki contrary.
+* The veto deadline is 3 days. 
+* If a citizen longer absent, he can extend the period of absence to 14 days.
+* In the case of a disagreements the KabiNett can issue a MindVote among all citizens.
+* At the MindVote decide all citizens, whose bank account is at least 1000 KayGroschen.
+* The simple majority decides.
+* Every citizen shall once a month at the UrWahl.
+* In case of a violation of the ConStitution,  imposition of penalties or order restricting the FreeDom of citizens have sought.
+* The MindCourt meets a judgment by Mind Vote Buerger all women.
+* The FreeDom of CitiZens can only be restricted by a ruling of the Court Mind.
+* All of our domain texts are subject to GnuFdl. 
+
+!Economy
+* NooPolis is a VirtuelleOekonomie. 
+* The currency of NooPolis are KayGroschen. 
+* The PieschenBank takes care of them.
+* The money supply id 10.000.000 KayGroschen.
+* CitiZens have a BankAccount.
+* All transactions of the BankAccount are transparent to all CitiZens.
+* The savings and spendings of NooPolis are managed in the BudGet. 
+* ...
+
+!Government
+* ...

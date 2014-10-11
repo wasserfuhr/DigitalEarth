@@ -1,0 +1,11 @@
+* IsA: PerSon
+* WohnSitz: StadtDresden
+* MindSkill: RfId
+* InvitedBy: RainerWasserfuhr
+* PageNumber: 15
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi MichaelStonebraker JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach TheoHaerder HartmutWedekind WolfgangLehner GregorHackenbroich JuergenAnke
+||AusLand
+|[XingLe:Juergen_Anke]
+|[SkyPe:juergen_anke]
+|[FaceBook:683796158]
+|[TwittEr:juan78]

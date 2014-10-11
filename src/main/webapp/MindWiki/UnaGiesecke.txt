@@ -1,0 +1,4 @@
+* IsA: PerSon
+* ViAf: http://viaf.org/viaf/72227584
+* HomePage: http://www.una-giesecke.de/
+* HasTalked: RainerWasserfuhr

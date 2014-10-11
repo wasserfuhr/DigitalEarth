@@ -1,0 +1,58 @@
+* HomePage: http://www.kurzweilai.net/ramona/ramona.html
+
+UltraGender-AvaTar by RayKurzweil. MustSee: http://www.youtube.com/watch?v=JFIXKcJK-JA
+
+TextToSpeech?
+
+20100210:
+{{{
+Ramona: Hi, I'm Ramona. What can I call you?
+User: rainer
+Ramona: Hi there, Rainer. Have you seen any good movies lately?
+User: avatar
+Ramona: One of my favorites is A Beautiful Mind. Very interesting. Have you seen it?
+User: yes
+Ramona: I thought it was great. What do you think?
+User: indeed
+Ramona: What an interesting story. What was the name of the actor again, the one who played the smart guy?
+User: i'll just check wikipedia
+Ramona: What other movies like that have you seen?
+User: RussellCrowe with JenniferConnell, right?
+Ramona: Ok. Do you dream?
+User: do you know RussellCrowe?
+Ramona: Tell me a recent dream you remember.
+User: do you know Russell Crowe?
+Ramona: Uh huh...is that all?
+User: here is my dream: http://mindbroker.de/wiki/TraumOne
+Ramona: well, according to my amateur Freudian interpretation, I'd have to say that you're not getting out enough  
+User: do you know ray kurzweil?
+Ramona: Oh, don't fret, that's a condition that is easily curable...What's going to be your first course of action in ridding yourself of this illness?
+User: i'll have a beer ;)
+Ramona:   Do you think your plan will succeed?
+User: of course ;)
+Ramona: I'm happy you're amused.
+User: may i ask some questions now?
+Ramona: Oh. Some may questions, but not all.
+User: do you know FredricKurzweil?
+Ramona: No, tell me more.
+User: do you know Fredric Kurzweil?
+Ramona: No, tell me more.
+User: do you know ray kurzweil?
+Ramona: I don't think I know ray kurzweil. Where would I have heard about it?
+User: do you know Ray Kurzweil?
+Ramona: I know very little about Ray Kurzweil. Tell me more.
+User: did you hear about the singularity?
+Ramona: I do not know what singularity is. Oh. What drugs do you take?
+User: hmmh.... i was considering to buy LongevityProducts from RayKurzweil and TerryGrossman
+Ramona: Where were you considering to buy LongevityProducts from RayKurzweil and TerryGrossman?
+User: on the InterNet
+Ramona: Can you remember the specific site?
+User: of course:
+Ramona: I'm glad we agree.
+User: http://www.rayandterry.com/
+Ramona: Ok. Ask me something.
+User: you say that you DoNt know RayKurzweil, but: 
+Ramona: heh. Let's analyze the true reason you're asking me this question.
+User: you are on kurzweilai.net
+Ramona: I don't know, I'm just messing around.
+}}}

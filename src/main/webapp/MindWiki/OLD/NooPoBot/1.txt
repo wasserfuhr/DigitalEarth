@@ -1,0 +1,3 @@
+a TwittEr bot that sends tweets to individual CitiZens of NooPolis.
+
+[TwittEr:NooPoBot]

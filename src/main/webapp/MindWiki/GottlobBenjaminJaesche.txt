@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* JahrGang: 1762
+* BirthDay: 07-03
+* HasSeen: ImmanuelKant
+* LebensEnde: 1842

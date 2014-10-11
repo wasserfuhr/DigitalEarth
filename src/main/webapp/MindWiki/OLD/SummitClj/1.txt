@@ -1,0 +1,19 @@
+;
+;
+;{{{
+
+((defn summit [] 
+  (handle "summit"
+   (fn []
+    (str
+     "<table>"
+     " <tr><th>Speaker</th></tr>"
+     " <tr>"
+     "  <td valign='top'>RayKurzweil</td>"
+     " </tr>
+     " <tr>"
+     "  <td valign='top'>DavivBrin</td>"
+     " </tr>
+     "</table>")
+   ) ""))))
+;}}}

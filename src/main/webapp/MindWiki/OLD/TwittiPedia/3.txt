@@ -1,0 +1,2 @@
+A tiny WikiPedia for TwittEr. Alle BuergerInnen, die auf ihrer Profilseite einen TwittEr-Account angegeben haben,
+könnten bald einen KayGroschen erhalten für jedes CamelCase-Wort aus dem PageIndex, das sie twittern.

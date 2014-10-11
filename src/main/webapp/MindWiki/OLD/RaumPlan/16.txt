@@ -1,0 +1,17 @@
+LockSchuppen-RaumPlan:
+||TurmGeschoss|IdeenPool,CashPool| |
+||SecondFloor|RaumFuerSexuelleBelustigungAmArbeitsplatz|MindMassage|
+||GeschossOne|    |BigSchuppen mit SingularLeuchtTurm und KurzweilShrine|
+||ErdGeschoss|EmPfang mit TineRoyal|MachBar|SaftLaden|DampfKasten
+
+Further ideas
+* AdvocatusDiaboli
+* BohrPlattform
+* GenRobLab
+* LemmingeLounge
+* PuffCafe
+* RoboterFriseur
+* SteuerFalle
+* TruthRoom
+* VerfuegungsRaum
+* WunderKita (alternativ WunderTaMu)

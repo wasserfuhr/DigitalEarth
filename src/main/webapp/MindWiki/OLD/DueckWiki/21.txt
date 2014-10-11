@@ -1,0 +1,34 @@
+HeikeRibke, RainerWasserfuhr und einige andere MindBroker wünschen sich ein Wiki, in dem alle Schlüsselbegriffe aus den Büchern von GunterDueck als CamelCase verzeichnet sind. Außerdem auch die BetaInside-Kolumne aus dem InformatikSpektrum.
+
+Das BiblioNetz hat schon fleißig gesammelt: http://beat.doebe.li/bibliothek/p01183.html
+
+Erste Fragmente:
+* FrohSch
+* GruenFink
+* KeirSey
+* MaChina
+* MyersBriggs
+* OmniSophie
+* SintFlut
+* TopiMierung
+* TopoThesie
+* VamPir
+* PsychoVampir
+* KorrelatalSchaden
+* SeeLe
+* SeelenWunde
+* AlphaSeele
+* BetaSeele
+* LiebesStroeme
+* LebensEnergie
+* WahreMenschen
+* RichtigeMenschen
+* NatürlicheMenschen
+* SeismoGraphen
+* VermessungsProblematik
+* EskaLation (der Unterschiede)
+* DeEskalation (der Unterschiede)
+* WeltFormel
+* DoppelgestirnDerMachinae
+
+Bald ein MindMe auf http://dueck.mindbroker.de

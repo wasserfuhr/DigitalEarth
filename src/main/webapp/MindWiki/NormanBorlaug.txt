@@ -1,0 +1,7 @@
+* IsA: NobelPrizeLaureate
+* InterWiki: [DeWikiPedia:Norman_Borlaug]
+* ViAf: http://viaf.org/viaf/8729473
+* BornIn: 1914
+* BirthDay: 03-25
+* DiedIn: 2009
+* MindSkill: WeizenMehl

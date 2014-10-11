@@ -1,0 +1,3 @@
+* IsA: MindBook
+* InterWiki: [WikPedia:On_Intelligence]
+* DcAuthor: JeffHawkins SandraBlakeslee

@@ -1,0 +1,152 @@
+Wahlkreis 1: Mitte
+Wahlkreis 2: Plauen
+Wahlkreis 3: NeuStadt
+Wahlkreis 4: OrtsteilPieschen
+Wahlkreis 5: Nord
+Wahlkreis 6: Elbhang
+Wahlkreis 7: Striesen
+Wahlkreis 8: TolkeWitz
+Wahlkreis 9: OrtsteilLeuben
+Wahlkreis 10: Prohlis
+Wahlkreis 11: Zschertnitz
+Wahlkreis 12: Cotta
+Wahlkreis 13: Löbtau- Süd, Gorbitz, Dölzschen/Naußlitz
+
+Kandidaten für den StadtRat der StadtDresden 2009:
+
+||WahlKreis||ParteiWiki||Platz||PerSon||Title
+|3|GruenWiki | |AchimWesjohann
+|3|GruenWiki | |AndreaSchubert
+| |CduWiki   | |AngelaMalberg
+| |CduWiki   | |AnkeWagner
+| |CduWiki   | |ChristaMueller
+|3|GruenWiki | |ChristianBahnsen
+| |CduWiki   | |IngoFlemming
+|3|GruenWiki | |JensHoffsommer
+| |CduWiki   | |LarsKluger
+|3|GruenWiki | |MarcoJoneleit
+|3|GruenWiki | |MichaelTon
+| |CduWiki   | |PatrickSchreiber
+| |CduWiki   | |StefanZinkler
+| |CduWiki   | |SteffenKaden
+|3|GruenWiki | |SusanneLerm
+|3|GruenWiki | |TorstenIsrael
+|3|GruenWiki | |TorstenSchulze
+|1|SpdWiki   |1|AxelBergmann
+|1|SpdWiki   |2|Franziska Wende
+|1|SpdWiki   |3|Michael Brade
+|1|SpdWiki   |4|Helga Skell
+|1|SpdWiki   |5|Johannes Dietze
+|1|SpdWiki   |6|Henriette Winkler
+|1|SpdWiki   |7|Sven Houska
+|1|SpdWiki   |8|Jenny Seyffarth
+|1|SpdWiki   |9|Thilo Schöne 
+|2|SpdWiki   |1|Wilm Heinrich
+|2|SpdWiki   |2|Anja Reck
+|2|SpdWiki   |3|Andreas Ernst
+|2|SpdWiki   |4|Ingrid Buckram
+|2|SpdWiki   |5|Matthias Ketzer
+|2|SpdWiki   |6|Heike Wieghardt
+|2|SpdWiki   |7|Harald Baumann- Hasske
+|2|SpdWiki   |8|Christine Fuhrmann
+|2|SpdWiki   |9|Wilhelm Goller
+|3|SpdWiki   |1|SabineFriedel
+|3|SpdWiki   |2|Swen Steinberg
+|3|SpdWiki   |3|Heike Franke
+|3|SpdWiki   |4|Michael Herrmann
+|3|SpdWiki   |5|Melanie Giebel
+|3|SpdWiki   |6|Manfred Bauer
+|3|SpdWiki   |7|Karin Luttmann
+|3|SpdWiki   |8|Vincent Drews
+|3|SpdWiki   |9|Frank Wiesner
+|4|SpdWiki   |1|Richard Kaniewski
+|4|SpdWiki   |2|Katherina Schubarth
+|4|SpdWiki   |3|Ronald Lohse
+|4|SpdWiki   |4|Anja Heller
+|4|SpdWiki   |5|Manuel Hentschel
+|4|SpdWiki   |6|Renate Weber
+|4|SpdWiki   |7|Gottfried Rabe
+|4|SpdWiki   |8|Rainer Dannenberg
+|4|SpdWiki   |9|Thomas Früh
+|5|SpdWiki   |1|Mathias Antonioli|Dr. Dr. 
+|5|SpdWiki   |2|Ursula Roitsch
+|5|SpdWiki   |3|Rüdiger Ryssel
+|5|SpdWiki   |4|Volkmar Springer
+|5|SpdWiki   |5|Peter Volkmer|Dr.
+|5|SpdWiki   |6|Stefan Kowanda
+|5|SpdWiki   |7|Hans- Christoph Gaitzsch|Dr.
+|5|SpdWiki   |8|Ernst Schreiber
+|5|SpdWiki   |9|Johannes Klosowski|Dr.
+|6|SpdWiki   |1|Peter Lames|Dr.
+|6|SpdWiki   |2|Renate Jäger
+|6|SpdWiki   |3|André Berthold
+|6|SpdWiki   |4|Otto- Rüdiger Wenzel
+|6|SpdWiki   |5|Werner Krause
+|6|SpdWiki   |6|Michael Sturm
+|6|SpdWiki   |7|Uwe Detemple
+|6|SpdWiki   |8|Margit Schlarp
+|6|SpdWiki   |9|Matthias Krogoll
+|7|SpdWiki   |1|Martin Bertram
+|7|SpdWiki   |2|Karl Nolle
+|7|SpdWiki   |3|Christian Bösl
+|7|SpdWiki   |4|Annett Möbius
+|7|SpdWiki   |5|Benjamin Kümmig
+|7|SpdWiki   |6|Uta Hoffmann
+|7|SpdWiki   |7|Matthias Voigt
+|7|SpdWiki   |8|Albrecht Wolf
+|7|SpdWiki   |9|Matthias Rudolph
+|8|SpdWiki   |1|Thomas Blümel
+|8|SpdWiki   |2|Alexander Zieschang
+|8|SpdWiki   |3|Christl Nolle
+|8|SpdWiki   |4|Michael Prenzel
+|8|SpdWiki   |5|Lea Mock
+|8|SpdWiki   |6|Dirk Wieghardt
+|8|SpdWiki   |7|Alexandra Kruse
+|8|SpdWiki   |8|Doris Hoffmeister
+|9|SpdWiki   |1|Klaus Deubel|Dr.
+|9|SpdWiki   |2|René Zscheischler
+|9|SpdWiki   |3|René Vits
+|9|SpdWiki   |4|Ann- Kathrin Biewener
+|9|SpdWiki   |5|Gunter Eggert
+|9|SpdWiki   |6|Silvio Zimmermann
+|9|SpdWiki   |7|Martin Schwan|Dr.
+|9|SpdWiki   |8|Jacquelin- Anett Künzel
+|9|SpdWiki   |9|Friedrich- Wilhelm Jung
+|10|SpdWiki   |1|Ines Vogel
+|10|SpdWiki   |2|Uwe Petersen
+|10|SpdWiki   |3|Margot Lösch
+|10|SpdWiki   |4|Michael Jakisch
+|10|SpdWiki   |5|Daniela Wange
+|10|SpdWiki   |6|Willi Eisele
+|10|SpdWiki   |7|Kristin mann
+|10|SpdWiki   |8|Sebastian Groß
+|10|SpdWiki   |9|Katja Große
+|11|SpdWiki   |1|Albrecht Pallas
+|11|SpdWiki   |2|Marlen Hupke
+|11|SpdWiki   |3|Hilmar Günther|Dr.
+|11|SpdWiki   |4|Dana Frohwieser
+|11|SpdWiki   |5|Udo Broll|Dr.
+|11|SpdWiki   |6|Eberhard Lösch
+|11|SpdWiki   |7|Marcel Sauerbier
+|11|SpdWiki   |8|Erik Zimmermann
+|11|SpdWiki   |9|Frederik Rudolph
+|12|SpdWiki   |1|Peter Bartels
+|12|SpdWiki   |2|Uwe Tischer
+|12|SpdWiki   |3|Rüdiger Trost
+|12|SpdWiki   |4|Katharina Haas
+|12|SpdWiki   |5|Joachim Breternitz
+|12|SpdWiki   |6|Hans- Jörg Schmidt|Dr.
+|12|SpdWiki   |7|Stefan Fraß
+|12|SpdWiki   |8|Andreas Lippold|Dr.
+|12|SpdWiki   |9|Eckbert Müller
+|13|SpdWiki   |1|Ekkehardt Müller 
+|13|SpdWiki   |2|Peter May
+|13|SpdWiki   |3|Karin Trost
+|13|SpdWiki   |4|Robert Schmock
+|13|SpdWiki   |5|Rudolf Paar
+|13|SpdWiki   |6|Klaus Schräpler
+|13|SpdWiki   |7|Corinna Köhler
+|13|SpdWiki   |8|Birgit Müller
+|13|SpdWiki   |9|Jörg Zaumseil
+EtAl
+

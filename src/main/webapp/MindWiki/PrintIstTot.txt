@@ -1,0 +1,11 @@
+|[TwittEr:PrintIstTot]
+
+TotHolz IsDead soon:
+* BrandEins
+* DieTageszeitung
+* DnN
+* FinancialTimes
+* NewYorkTimes
+* SaechsischZeitung
+* WirtschaftsWoche
+EtAl

@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Eric_Schmidt]
+* JahrGang: 1955
+* BirthDay: 04-27
+|[TwittEr:ericschmidt]

@@ -1,0 +1,53 @@
+HeikeRibke hat ein DiskussionsForum 's hier im MindWiki anlegt: Hier können neue Ideen länger besprochen werden, als nur mit ja und nein, wie beim MindVote. Ich weiß, es gibt den MindBlog. Aber dieser wird ja nur sehr spärlich genutzt.
+Ich fände es auch irgendwie "heimeliger", wenn das hier besprochen werden würde, weil dann die Diskussionen auch in den PageIndex transferiert werden würden. 
+Das Forum ist auch im LeftMenu. So ist es auch mehr im Bewusstsein von uns allen. Ich dachte, das ist vielleicht ein Fall für EinfachMachen.
+
+!WeltSprache
+Die gültige Fassung der VerFassung ist jetzt die englische ConStitution. Dadurch kann NooPolis viel schneller an eine größe Zahl von Menschen kommuniziert werden. Falls BuergerInnen jetzt Sorgen haben, nicht mehr alles zu verstehen: Die VerFassung kann in jeder Sprachvariante editiert werden: Das KabiNett sorgt dann schon dafür, daß alle BuergerInnen ImmerWieder in ihrer Muttersprache eine aktuelle Version erhalten.
+
+!FreiHeit
+HeikeRibke findest die Verfassungsänderung von FreiHeit zu FreiHeit 'en einschränkend und will die Änderung nicht ohne Erklärung von RainerWasserfuhr hinnehmen. Die letzte FreiHeit bleibt Dir bis zu Deinem LebensEnde. Du kannst Dich auch noch im Knast entscheiden, wie Du das hinnimmst. Also ist das nichts besonderes. Ich müsste dann alle FreiHeit 'en aufzählen.
+Ich diskutiere um diese Kleinigkeit, weil Du Dir ja Gedanken gemacht haben musst, wenn Du es extra editiert hast. Da stellt sich mir die Frage: Welche?? DoIt: RainerWasserfuhr.
+
+!GeheimProjekt
+Für die TK-Diskussion heute Abend:
+BastiHirsch, RainerWasserfuhr und HeikeRibke:
+
+gestern sagtest Du, Basti, dass Dein Konzept auf so schöne Vorträge auf youtube abzielt, aber dass eben auch nicht so PC affine Menschen ansprechen soll. Wie genau?
+Ich habe noch mitbekommen, dass Du auch der Meinung warst Schüler miteinzubeziehen und Du hast mir den Link zu
+www.timoheuer.com gegeben, der ja sehr engagiert ist und ich hab mir Robinson angehört, der ein wichtiges Ding sagte, wenn auch nicht ganz korrekt, dass die NatürlicherMensch in der Schule nicht berücksichtigt werden. Ja, das finde ich auch. Da gibt es aber mittler Weile schon verschiedene alternative Schulen. Am bekanntesten würde ich sagen ist Montessori für NatürlicherMensch
+
+Mein Schwerpunkt wäre, dass ich Studenten, die etwas gefunden haben, was sie lieben und was sie hoffentlich studieren mit Schülern zusammen bringen will real life, oder online. Und die sollen so eine Art Patenschaft für die Schüler übernehmen, damit sie über den langweiligen Schultellerrand raussehen können. So Leute, die bei www.matheprisma,de mitmachen, oder so. Vielleicht kann man auch Firmen einspannen. Ich habe 2002 von GunterDueck einen Namen bekommen, der bei IBM für so etwas offen wäre.
+
+Ich kenn mich auf StudiVz nich aus. Haben die da keinen Platz für interessante Videos von Lerninhalten? Wenn wir das hier machen, dann sollten wir wissen, warum wir es ausgerechnet hier machen. Ich könnte nach Veihingen gehen. 'Da lernte ich mal einen Prof kennen, als GunterDueck einen Vortrag hielt. Er war traurig über die ganzen Schnellstudiengänge. Vielleicht wäre das ein Ansatz?
+
+BBurg Feature Ideen:
+* Bookmarksammlungen
+* verschlagwortete und wikifizierte Lecture-videos- und skripte
+* persönlicher Lern-Zettelkasten(ähm)
+* Community für Literatur- und Bücherdatenbank
+
+Links:
+* http://uc.princeton.edu/main/
+* http://knowledgebay.org/
+* http://www.fes.de/medienpolitik/
+* http://fesportal.fes.de/pls/portal30/docs/FOLDER/STABSABTEILUNG/FES_DW-Konferenz_online.pdf
+* http://www.dgp-schueler.de/toplevel/
+* http://media.vascellari.com/?page_id=2 
+* https://www.jugend-forscht.de/
+* http://www.jugend-debattiert.ghst.de/
+* http://adz-netzwerk.de/
+* http://de.wikipedia.org/wiki/Laborschule_Bielefeld
+* http://alumniportal.org/Warum_Alumni-Arbeit.10.0.html
+
+HeikeRibke stellt fest, dass der Ansetz von BastiHirsch eine sehr gute Idee ist. Eine Page, die nach Themen gegliedert alles auffindbare Wissen zu den jeweiligen Themen sammelt und ein Diskussionsforum für an Gleichem interessierte bietet.
+Sie stellt aber auch fest, dass ihr Ansatz in der menschlichen Entwicklung weiter unten ansetzt. Sie möchte im logotherapeutischen Sinn die Jugendlichen erst einmal helfen sich selbst zu entflammen, für das je ihre im Leben. Sie hofft dennoch, dass es Überschneidungspunkte geben könnte
+
+!SocialBackup
+FrankLorenz schlägt vor, dass SocialBackup System mit Hilfe von RSS zu vereinfachen. Es könnte ein RSS-Feed automatisch generiert werden, welcher jeweils Links auf die aktuellen zu sichernden Dateien als Enclosure enthält. Da sicherlich viele BuergerInnen schon PodcastReader verwenden könnten sie dann einfach den SocialBackup Feed abonieren und so ohne weiteren Aufwand am SocialBackup teilnehmen. Als Erweiterung könnten die Downloads registriert und im Wiki protokolliert werden.
+HeikeRibke findet, dass das sehr gut klingt! Würde sich aber eine Darstellung in Laiensprache wünschen und würde gerne wissen, was ein PodcastReader ist. 
+Wenn Du das hier erklären könntest, dann würde ich eventuell auch mitmachen. Vielleicht ist das aber auch der Grund, warum RainerWasserfuhr das bisher noch nicht gemacht hat?
+
+Was ist ein PodcastReader (auch PodCatcher, FeedReader genannt)? Ähm ja. Das schreit nach einer Livedemonstration. Wo soll ich denn da anfangen? http://de.wikipedia.org/wiki/Podcasting
+Das Prinzip hier ist zumindest folgendes: Der PodCatcher läuft auf deinem Computer im Hintergrund und liest regelmäßig den abonierten RSS-Feed (http://de.wikipedia.org/wiki/Rss). In dem findet er Verweise auf die aktuellen Dateien des SocialBackup. Immer wenn eine neue Datei gefunden wird läd er diese automatisch runter und legt sie in einen Ordner zur weiteren Verwendung. Teilweise kann man den PodCatcher auch so einstellen, dass er automatisch alte Dateien aus diesen Ordnern löscht. Beispiele für PodCatcher wären Juice http://juicereceiver.sourceforge.net/ oder Apples ITunes.
+@RainerWasserfuhr: pflegst du die Seite SocialBackup komplett manuell?

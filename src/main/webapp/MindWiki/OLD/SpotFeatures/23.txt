@@ -1,0 +1,61 @@
+Overview:
+*mit deinem Sportsfreunden in Kontakt bleiben
+**Message Board für Teams
+**UserGuestbooks
+**Nachrichten versenden
+*neue und alte Sportsfreunde finden
+**Suche,
+**Suche nach "sportler in meiner Umgebung mit gleichen Interessen",
+**Mitglieder deiner Vereine durchsuchen
+*die besten Vereine in deiner Umgebung finden
+**Vereinssuche via Postleitzahlen
+**Präsenzseite der Vereine (Preise, Sportarten, Räumlichkeiten, Erfolge, Bilder)
+**Blogfunktion für Vereine (news, bekanntmachungen)
+*eigene Teams gründen
+**neues Team erstellen
+**Mitlgieder finden
+**Trainingstermine abstimmen
+*Verwaltung deiner Sporttreffen/Trainings/Freizeit
+**Terminkalender         
+*an öffentlichen Events mit deinen Sportsfreunden teilnehmen
+**automatische Benachrichtigung von Sportevents in deiner Umgebung
+**Option zur Teilnahme und damit verbundene Benachrichtigung alle deiner Sportsfreunde
+*eigene private oder öffentliche Events starten
+**Umfragen nach Interesse für Events
+**Erstellung eines Events
+**Teilnahmebestätigungen
+**Einladungen für Sportevents versenden
+*Bilder und videos veröffentlichen
+**uploadfunkiton für User/Teams/Vereine
+
+LastImpemented:
+*new Layout headlines
+*new Layout message.jsp/newMessage.jsp
+*Google Maps auf der Startseite
+*Anzeige von Clubs, Teams, Freunde eines Users
+*Anzeige von Mitlgieder eines Teams
+*Anzeige von Mitlgieder eines Clubs
+*Anzeige von Freunden eines Users
+*Anzeige der zuletzt registrierten User auf der Startseite
+*neuer "registrieren" Button auf der Startseite
+*Anzeige aller Freunde unter "Meine Freunde"
+*Layout des eigenen Profils und der Profile anderer User
+*neue bessere forms
+*Profil bearbeiten
+*Ansicht Profile
+*Notifier auf indexLoggedIn.jsp wenn eine neue Nachricht vorhanden ist
+*erstellen von teams und clubs
+*Beitreten in teams und clubs
+
+ToBeImplemented:
+*message: "Du bist nicht eingeloggt" && "Auf diese Seite hast du nur Zugriff wenn du eingeloggt bist"
+*Suche von usern, Clubs,Teams
+*Anzeige von Freunden die gerade online sind
+*Anzeige von user die zuletzt auf meinem Profil waren
+*Profile von Clubs
+*Profile von Teams
+*mehrere Admins von Clubs und Teams
+*Photoalben für user, teams und clubs
+*Passwort vergessen
+*Passwort ändern
+*Feedback geben

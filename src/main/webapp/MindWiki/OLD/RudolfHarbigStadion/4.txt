@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Rudolf-Harbig-Stadion], [DeWikiPedia:Rudolf-Harbig-Stadion]
+* BoundingBox: 150
+
+OpenStreetMap: http://www.openstreetmap.org/?lat=51.04091&lon=13.7499&zoom=17&layers=000BTTTT
+
+TotalRecall: 20081005: SpectatorSports, FutureMap, TwinPrime, WeizenMehl, GrigoriPerelman, NewHollandCr9000, SergeiKapitsa, FranzJosefRadermacher, WikiLender, FiRa, BamAg, AufMerksam, ManageMyLove, BlauMond, BlueWaters, DeepBlue, BayernMuenchen, KaisersLautern, SampDoria, GlaeserneDynamo, NacktSichtBrille, TotalRecall, ZwingeRasimo, TheSingularity, AnneWillSingularity, DirkHilbert, BeckenHusserl, AlternateReality, TheGame, JaneMcGonigal, VmPeople, MaehdrescherBallett, SecondHalfOfTheChessboard, NooPhant, FuerstenZug, WarCraft, StadtDresden.

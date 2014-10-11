@@ -1,0 +1,6 @@
+* RdfClass: http://www.aktors.org/ontology/portal#Academic-Degree
+* InterWiki: [DeWikiPedia:Akademischer_Grad]
+
+A NamedEntity of the MindWiki does not include it's AcademicDegree, except DrCodd.
+
+BeCause: The only relevant AcademicDegree's of TheFuture are those of the SingularAcademy ;)

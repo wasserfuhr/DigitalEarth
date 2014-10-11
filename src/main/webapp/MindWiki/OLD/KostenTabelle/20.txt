@@ -1,0 +1,48 @@
+||on     ||CoOrpheus||EuRo|| ||CoGuest||HomeStead
+|2010-05-17:1125|RaWa|2|♂|PeterStawowy
+|2010-05-16:2348|RaWa|0|♂|JeMand
+|2010-05-16:2348|RaWa|1|♀|LydiaGruber
+|2010-05-16:2237|RaWa|2|♂|JeMand
+|2010-05-16:2159|RaWa|2|♀|JeMand
+|2010-05-16:2159|RaWa|2|♀|JeMand
+|2010-05-14:2022|RaWa|0|♀|JeMand
+|2010-05-14:2022|RaWa|0|♂|FrankLamack
+|2010-05-14:1920|RaWa|2|♀|JeMand      |NeuStadt
+|2010-05-14:1920|RaWa|2|♂|JeMand      |NeuStadt
+|2010-05-14:1920|RaWa|2|♀|JeMand      |HannOver
+|2010-05-14:1920|RaWa|2|♂|JeMand      |HamBurg
+|2010-05-13:1200|RaWa|2|♀|JeMand      |NeuStadt
+|2010-05-13:1200|RaWa|3|♂|JeMand      |NeuStadt
+|2010-05-12:2000|RaWa|2|♀|JeMand
+|2010-05-12:2000|RaWa|2|♂|JeMand
+|2010-05-12:1905|RaWa|0|♀|AnjaPuechel
+|2010-05-12:1905|RaWa|0|♂|JanGerner
+|2010-05-12:1220|RaWa|0|♀|JaninAusBern
+|2010-05-12:1200|RaWa|2|♀|ClaudiaMuntschick
+|2010-05-12:1200|RaWa|2|♀|AnnaMariaScholz
+|2010-05-12:1022|RaWa|0|♂|HolgerHelas
+|2010-05-12:1000|RaWa|0|♂|SteffenBecker
+|2010-05-11:1000|RaWa|0|♂|SteffenBecker
+|2010-05-09:2250|RaWa|0|♂|JohnHolger|StadtDresden
+|2010-05-09:2132|RaWa|2|♀|JeMand|HeidelBerg
+|2010-05-09:2132|RaWa|2|♀|JeMand|StadtDresden
+|2010-05-09:2100|RaWa|2|?|J
+|2010-05-09:2100|RaWa|2|?|J
+|2010-05-09:2100|RaWa|2|?|J
+|2010-05-09:2100|RaWa|2|?|J
+|2010-05-09:1850|RaLi|8x2|♀|JeMand|RheinGau
+|2010-05-04:2208|RaWa|4|♂|MarcusBertelsmeier
+|2010-05-04:1954|RaWa|2|♂|MarcoDziallas
+|2010-05-04:1928|RaWa|2|♂|FlorianKlare
+|2010-05-04:1921|RaWa|2|♂|RalfLippold
+|2010-05-04:1902|RaWa|2|♂|DaniloHommel
+|2010-05-04:1331|RaWa|1|♀|LydiaGruber
+|2010-05-04:1327|RaWa|1|♂|JanGlatter
+|2010-05-04:1327|RaWa|1|♂|StephanFinck
+|2010-05-03:2145|RaWa|2|♂|AlexanderGoetze
+|2010-05-03:2145|RaWa|2|♂|HolgerHelas
+|2010-05-03:2130|RaWa|2|♂|RainerWasserfuhr
+
+RainerWasserfuhr ist die Interims-BarKasse
+
+later ReVenue

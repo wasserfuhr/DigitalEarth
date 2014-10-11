@@ -1,0 +1,10 @@
+
+Beim AußerbörslicherHandel per Quote-Request-Verfahren stellt der Kunde mit der Eingabe einer Wertpapierkennnummer und der Entscheidung über Kauf/Verkauf eine Preisanfrage. 
+
+Nach einer entsprechenden Plausibilitäts-Prüfung erhält der Kunde ein Preisangebot. 
+
+Durch Bestätigung des Preises wird ein Kauf oder Verkauf generiert. 
+
+Die handelbaren Volumina richten sich nach der Liquidität und Indexzugehörigkeit. 
+
+Der Kunde erhält ausschließlich Vollausführungen.

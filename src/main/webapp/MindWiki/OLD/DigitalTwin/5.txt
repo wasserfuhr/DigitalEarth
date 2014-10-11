@@ -1,0 +1,40 @@
+Nice MetaPhor used (and coined?) [by|http://www.accelerating.org/articles/hpe2032army.html] JohnSmart.
+
+Think it together with GlaesernerMensch and UpLoad.
+
+What can be a useful metrics for the quality of your DigitalTwin?
+* completeness of the history (StateMent's about him per second)
+* predictability of actions
+* combat-ready as a ChatBot
+
+remember that the [DeWikiPedia:UncannyValley] might also apply to your DigitalTwin. So overcome WikiShock ;)
+
+DigitalTwin as a product:
+
+Im September 2008 startete RainerWasserfuhr DasExperiment. 
+Das Ziel von DasExperiment war es, einen
+semantischen DigitalTwin von RainerWasserfuhr zu
+bauen.
+Nach den ersten Tagen des Experiments war schon erkennbar,
+dass nicht nur ein Abbild von RainerWasserfuhr wird,
+sondern seine Umwelt radikal TransForm'iert.
+Ausgangsüberlegung war, ob und wie sich im TwentyFirstCentury
+ein Leben führen lässt, dass nicht ausschliesslich, aber
+wesentlich über ein persönliches SemanticWiki abgewickelt wird.
+Dieses umfasste im TimeLine:20080910 3288 Seiten und damit semantische
+Ressourcen, darunter das SocialNetwork von RainerWasserfuhr,
+Orte, die er besuchte, gelesene Bücher, Termine und Inhalte
+von Gesprächsthemen.
+
+Der DigitalTwin wächst wie in einem [WikiPedia:Petri_dish]: Neuron für Neuron, Netzfaden für Netzfaden.
+Anfangs noch überhaupt nicht synchron mit seinem Urbild.
+Viele seiner Teile werden noch über Monate und Jahre unvollständig
+sein. Doch seine Wirkung ist hier und jetzt schon spürbar.
+Er erweitert das Gedächtnis seines Urbilds um Grössenordnungen.
+Sein Urbild muss ImmerWieder den ShockLevel absichern.
+Urbild und DigitalTwin bilden eine Einheit.
+Das WorldModel wird mehr und mehr das Handlungsfeld.
+Anfangs ist das WorldModel nur Abbild des RealLife.
+Aber schon über InBox und PieschenBank beginnt die
+direkte kausale Wirkung. MindFeeds decken einen
+grossen Teil des PerCeive-Feldes ab.

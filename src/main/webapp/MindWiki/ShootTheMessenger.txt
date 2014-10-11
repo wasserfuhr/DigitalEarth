@@ -1,0 +1,3 @@
+* InterWiki: [WikiWikiWeb:ShootTheMessenger]
+
+AntiPattern

@@ -1,0 +1,6 @@
+* IsA: EnterPrise
+* InterWiki: [WikiPedia:JanRain]
+* HomePage: http://www.janrain.com/
+|[TwittEr:janrain]
+
+BradFitzpatrick MyOpenId

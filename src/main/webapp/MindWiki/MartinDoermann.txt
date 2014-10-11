@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Martin_Dörmann]
+* BirthDay: 06-30
+* ParteiWiki: SpdWiki

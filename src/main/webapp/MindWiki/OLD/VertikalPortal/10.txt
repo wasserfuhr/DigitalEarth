@@ -1,0 +1,20 @@
+* FlightWiki
+* HeuteAbend
+* KaufKnecht
+* KuhVz
+* MindArmy
+* MindBar (Restaurants, Bars; ihre Gäste und Kellner)
+* MindFamily
+* MindHealth (Krankenhäuser, -schwestern und Ärzte)
+* MindHotel (Hotels, Gäste)
+* MindMove (Flugzeuge, Schiffe, Bahnen; ihre Fahrer, StewardEssen und Gäste)
+* MindParty (Parteien, Parlamente, Regierungen und Verwaltungen)
+* MindSchool
+* MindYard (Friedhöfe)
+* MindZivi (Altenheime)
+* SingCom
+* SportWiki
+* UnserNachbar
+* ZugWiki
+
+alles nur echt mit VerFassung und MindId.

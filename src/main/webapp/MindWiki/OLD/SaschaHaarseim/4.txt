@@ -1,0 +1,4 @@
+* IsA: PerSon
+* HasTalked: ClaudiaHoffmann ChristineSchlinck RainerWasserfuhr RalfLippold RoswithaHunold
+* MindSkill: PoKern UmweltTechnik
+|[XingLe:Sascha_Haarseim]

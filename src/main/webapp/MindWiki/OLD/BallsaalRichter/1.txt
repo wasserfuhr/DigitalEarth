@@ -1,0 +1,4 @@
+* IsA: MindPlace
+* HomePage: http://www.ballsaal-richter.de/
+* MindOne: IlkaRichter
+* NearBy: HutbergStrasse

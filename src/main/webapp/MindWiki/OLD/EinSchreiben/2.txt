@@ -1,0 +1,7 @@
+Für die InBox: Nachrichten, deren Empfang der Empfänger bestätigen muss.
+
+Auf jeder Profilseite müssen BuergerInnen die Art der Zulieferung angeben.
+Zulässig: 
+* InBox
+* MindChat
+* TwittEr

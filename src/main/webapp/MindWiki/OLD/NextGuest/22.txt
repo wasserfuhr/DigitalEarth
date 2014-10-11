@@ -1,0 +1,56 @@
+for a LockSession. BrainStorm:
+||PerSon           || ||InvitedBy
+|AndreasPoldrack   |x|RainerWasserfuhr
+|AnneRichter       | |RalfLippold
+|ChristineSchlinck |x|RainerWasserfuhr
+|ConstanceWolter   | |RalfLippold
+|DirkHilbert       | |RalfLippold
+|DirkJesse         | |RalfLippold
+|EvaLubas          | |RainerWasserfuhr
+|FrankLorenz       | |RainerWasserfuhr
+|FrankSchoenefeld  | |RalfLippold
+|GunterDueck       | |RainerWasserfuhr
+|HeidiGallinat     |x|RainerWasserfuhr
+|HolgerBertling    | |RainerWasserfuhr
+|HelmaOrosz        | |DirkHilbert
+|JanaDiesner       | |RalfLippold
+|JanaKaluscha      |x|RainerWasserfuhr
+|JanaSchlegel      | |RalfLippold
+|JanBoehme         | |RalfLippold
+|JanKreuter        | |RainerWasserfuhr
+|JebBush           | |RayKurzweil
+|JensBemme         | |RalfLippold
+|JensDoege         | |RainerWasserfuhr
+|JensFreydank      | |RainerWasserfuhr
+|JensKorte         | |RalfLippold
+|JensOsthues       |x|RainerWasserfuhr
+|JensUweSauer      | |RalfLippold
+|JfSchlinck        |x|RainerWasserfuhr
+|JoelKaczmarek     | |RalfLippold
+|JoergKeller       | |RainerWasserfuhr
+|JohannesHuenich   | |RalfLippold
+|JoseTajada        | |RainerWasserfuhr
+|JuergenAnke       | |RalfLippold
+|JuergenKohn       | |RainerWasserfuhr
+|JuliaBonk         | |WinfriedLueg
+|KarolKozak        | |RainerWasserfuhr
+|KarstenPeters     | |RainerWasserfuhr
+|KatharinaKuehnel  | |RainerWasserfuhr
+|KatrinKahle       |x|RainerWasserfuhr
+|KirstinWalther    | |RainerWasserfuhr
+|KlausNicolai      | |RainerWasserfuhr
+|MarcusBertelsmeier|x|RalfLippold
+|MandyHelas        | |RalfLippold
+|NorbertRost       | |RalfLippold
+|NadineOhneE       | |RalfLippold
+|UlrichSoeder      | |RainerWasserfuhr
+|UlrichVanStipriaan| |RainerWasserfuhr
+|PaulaBerta        | |RalfLippold
+|RalphSonntag      | |RalfLippold
+|RayKurzweil       |x|RalfLippold
+|ReneBoehm         | |RalfLippold
+|SebastianBoehm    | |RainerWasserfuhr
+|SiggiSchwarz      | |RainerWasserfuhr
+|StanislawTillich  | |HelmaOrosz
+|WinfriedLueg      |x|RainerWasserfuhr
+|YvonneSchubert    |x|RainerWasserfuhr

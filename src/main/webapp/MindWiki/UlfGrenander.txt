@@ -1,0 +1,5 @@
+* MindTags: ProFessor
+* JahrGang: 1923
+* BirthDay: 07-23
+* HomePage: http://research.brown.edu/myresearch/Ulf_Grenander
+* MindSkill: ArTelligence

@@ -1,0 +1,4 @@
+* IsA: PerSon
+* MarriedTo: MartinVarsavsky
+|[TwittEr:ninavarsavsky]
+|[XingLe:Nina_Varsavsky]

@@ -1,0 +1,64 @@
+* MindTags: EnterPrise
+* MindOne: JoergKeller
+
+[FaceBookGroup:56955301655]
+
+MitWirkende:
+* JoergKeller
+* ChristianFischer
+* MaikKrause
+* JeMand
+* RainerWasserfuhr
+* YvonneSchubert
+
+Potentielle Fans:
+* ChristineSchlinck
+* JuergenKohn
+* SebastianMitter
+* KatharinaKuehnel
+* DanielPoodratchi
+* OliverGassner
+* TimBonnemann
+
+!OrderBuch
+
+||Shares||ShareHolder
+|251|JoergKeller
+|200|ChristianFischer
+|200|MaikKrause
+|200|JeMand
+|149|RainerWasserfuhr
+
+Currently the following shares are publicly traded in the OrderBook of the MindFloor:
+
+''Derzeit werden folgende Shares öffentlich im OrderBuch des MindFloor's gehandelt:''
+
+!OrderBuch:
+||ShareHolder     ||Geld(Buy)||Kurs[1]||Brief(Sell)
+|RainerWasserfuhr |           | 512|1
+|JoergKeller      |           | ???|??
+||Last StockPrice ||          ||???||
+|RainerWasserfuhr |          1| 256|
+[#1] in KayGroschen
+
+||ComPare      ||ProtoWerb       ||LockSchuppenAg
+|Since         |20080805         |20090324
+|MindOne       |JoergKeller      |RalfLippold
+|WikiAngel     |RainerWasserfuhr |RainerWasserfuhr
+|MitWirkende   |4-5              |3-4
+|EigenKapital  |???              |1 Mio KayGroschen
+|BusinessModel |1000 EuRo        |LockSchuppen
+|KapitalBedarf |1 Mio EuRo       |2-3 Mio EuRo
+|ShareHolder   |5                |7
+|AhGe          |x                |x
+|VerTrag       |bald?            |x
+|BusinessPlan  |MsWord           |WikiBasiert
+|InitialPublicOffering|-         |1 KayGroschen
+|TwittEr       |-                |[TwittEr:LockSchuppen]
+|Public SkyPe Chat|-             |LockChat
+|FaceBookGroup |[FaceBookGroup:56955301655]|[FaceBookGroup:73285988115]
+|FlickEr       |-                |[FlickEr:ralflippold]
+|TimeSheet     |x                |-
+|WirkSatz      |x                |-
+|StartUpWiki   |x, GeHeim        |MindWiki
+|SprachWelt    |LangDe           |LangEn

@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Daniel_Libeskind]
+* BornIn: 1946
+* BirthDay: 05-12
+* ViAf: http://viaf.org/viaf/73833348
+* HomePage: http://www.daniel-libeskind.com/
+* CurrentProjects: MhmDresden
+|[TwittEr:daniellibeskind]

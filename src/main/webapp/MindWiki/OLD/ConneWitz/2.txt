@@ -1,0 +1,8 @@
+* IsA: DiStrict
+* InterWiki: [DeWikiPedia:Connewitz]
+* MindCount: 15000
+* BoundingBox: 2500
+* PartOf: StadtLeipzig
+
+MeMo
+* 20100213: RainerWasserfuhr JeMand: KarlLehmann WalterRiester EdelgardBulmahn ChristophWaltz ManuelaAmann MischaWolf EduardZimmermann RudiCarrell SusiMueller PeterSchneider YadegarAsisi BrunoGanz UmTs HerbertVonKarajan GoogleBuzz LeSpace BaumwollSpinnerei MindLego WesterWave WolfgangSchaeuble LockSchuppen KlausKleinfeld HansOlafHenkel BlackboxBrd

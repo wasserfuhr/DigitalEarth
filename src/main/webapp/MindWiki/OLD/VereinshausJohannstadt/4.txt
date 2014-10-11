@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* BoundingBox: 25
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/24355319
+
+TotalRecall:
+* 20081013: NorbertRost, RainerWasserfuhr EtAl: WorldCrash, ComputationalEconomics, DasSystem, EinfacheLeute, JosefAckermann, TwentyFirstCentury, SchaetzQual, DeutscheBank, WeltFrieden, TobinTax, FutureMap, ForbesList, ConSpire, MindWater, SimulationArgument, IntelligenceExplosion, TuringTest, KenWilber, GrueneEbene
+* 20080709:1900 NorbertRost, RainerWasserfuhr EtAl: ElbTaler, VerFassung, KayGroschen

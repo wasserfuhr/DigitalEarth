@@ -1,0 +1,3 @@
+* IsA: PerSon
+* HomePage: http://www.stahlgestalt.de/004_kontakt/
+* HasTalked: ChristineSchlinck RainerWasserfuhr

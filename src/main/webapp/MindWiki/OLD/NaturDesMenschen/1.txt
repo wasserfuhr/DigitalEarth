@@ -1,0 +1,1 @@
+AntiPattern. ShockLevel<=1

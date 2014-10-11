@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Franz_Schubert] [OpenCyc:FranzSchubert]
+* BirthPlace: StadtWien
+* BornIn: 1797
+* BirthDay: 01-31
+* DiedIn: 1828
+* MindSkill: ComPose

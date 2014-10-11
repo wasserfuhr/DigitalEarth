@@ -1,0 +1,10 @@
+* MindLine: 20081213:2400 GMT
+
+Inspired by HutterPrize.
+
+But for http://mindbroker.de/mindprize.zip (Size: 11.247.038 bytes, MD5 sum: c079310e698ae3720b9f4910dc9303fe)
+
+Prize: 500.000 KayGroschen for BuergerInnen who achive the best KomPression of mindprize.zip
+
+The participant has to put a Zip compressed file on his website which, after unzipping, can be started via "mvn jetty:run".
+After launching [http://127.0.0.1:8080/mindprize.zip] the file SourceCode must generate mindprize.zip with the correct MD5 sum. The MindMac of the jury will have no InterNet connection during evaluation.

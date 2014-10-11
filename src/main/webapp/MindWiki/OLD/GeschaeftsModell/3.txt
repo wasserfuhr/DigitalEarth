@@ -1,0 +1,8 @@
+3-Jahres-Plan: Grid-Plattform für OpenSource-Internet-Applikationen
+
+Potentielle Einnahmequellen:
+* Betrieb eigener Portale und Dienste
+** Bezahldienste
+*** Transaktionsgebühren
+*** Memberships
+* Beratung von Grid-Lizenznehmern bei der Implementierung

@@ -1,0 +1,10 @@
+The main WebApp components of the SocialGrid of NooPolis:
+* MindId
+* MindWiki
+* MindBase
+
+Of those, currently only the MindId WebApp contains GeHeim-data:
+* Hash values of the PassWord's (may become obsolete after a SecurityAudit)
+* Invite-codes (these have to be kept GeHeim until the new CitiZen has joined)
+
+ComputationalEconomics with increasingly large amounts of public data.

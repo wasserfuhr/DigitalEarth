@@ -1,0 +1,12 @@
+ist MindBroker.
+
+* VorName: Dimitri
+* NachName: Uwarov
+* WohnSitz: KarlsRuhe
+* JahrGang: 1978
+
+||AusLand
+|[XingLe:Dimitri_Uwarov]
+|[SkyPe:neokrates]
+|[FaceBook:836618205]
+|[FlickEr:8030162@N02]

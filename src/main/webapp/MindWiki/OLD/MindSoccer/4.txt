@@ -1,0 +1,23 @@
+* InspiredBy: RoboCup
+
+MindSoccer could be an AiGame.
+
+You can use the Java based MindSoccer framework and you have to implement the classes 
+* de.mindbroker.soccer.Trainer and
+* de.mindbroker.soccer.Player
+
+In the first edition of MindSoccer, kicking is very simple: The Ball is only played on a 2 dimensional level.
+
+each Player has a limited field of perception. (90 degrees - 45 degrees to left and 45 to the right.)
+Each second a player can:
+* increase or decrease his speed by 3 meter per second (The maximum running speed of a Player is up to 10 meter per second.)
+* change orientation
+* kick (requires the ball to be close)
+
+Future extensions:
+* The trainers of both teams can shout. Trainers can observe the entire field. All players can hear the shoutings of both Trainers.
+* substitutions
+* limited EnErgie of a player, based on their acceleration and average speed
+* 3D
+
+BrainStorm: NewMind PanOrama SpatialMemory EpisodicMemory ChatBot NooMic WorldModel InFer RealTime

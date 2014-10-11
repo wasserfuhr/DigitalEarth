@@ -1,0 +1,11 @@
+* IsA: EventSeries
+
+DresdenExists
+
+|2008-08-08|31|MichaelBrehm  |http://www.dresden-exists.de/index.php?id=805
+|2007-05-24|29|LarsHinrichs  |http://www.dresden-exists.de/index.php?id=760
+|2000-10-19|10|BerndKroeplin |http://www.dresden-exists.de/index.php?id=643
+|1999-12-02| 6|HassoPlattner |http://www.dresden-exists.de/index.php?id=639
+
+MeMo:
+* 2009-04-22: RalfLippold: GruenderFoyer DresdenExists FutureSax MaikNeumann LarsKoehler MarioKretschmar StephanSchneider AluminiumTechnik AluminiumSchmiede LockSchuppen Sponsoring OpenFutureSax Gier StandOrt DeutschLand VerAntwortung Innovation InnovationsForum EdvDolmetscher MoeglichkeitsRaum'Erweiterung SystemDynamics Ingenieur KomplexSprache HoerSaalZentrum WolfgangGrupp TriGema MichaelSchefzyck RainerWasserfuhr TelefonAnruf Bus Rennen BischofsPlatz FriedensStrasse KopfSteinPflaster NetzWerk LeanThink EiBiEm

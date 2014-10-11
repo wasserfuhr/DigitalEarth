@@ -1,0 +1,33 @@
+; NooMic is NoMic with SourceCode - InSpir'ed by PerlNomic
+
+(str
+  "<html>
+    <head><title>NooPolis - Building Utopia from the sources</title></head>
+    <body>
+     <h1>NooSphere</h1>
+     <p>NooPolis is like WikiPedia, but additionally you can edit the source code
+       of our MindWiki WebApp. To do so, you have to gain the VerTrauen of existing
+       <a href='http://mindbroker.de/wiki/CitiZens'>CitiZens</a>.
+     </p>
+     Test Form:
+     <form><textarea name='text'>" (str (.getParameter request "text") )
+     "</textarea><input type='submit' value='NooMic'></form>"
+  "<h2>Tables</h2>"
+  (str
+     (map
+       (fn [x]
+         (str
+          "<a href='" (.getNameAsString x) "'>" (.getNameAsString x) "</a>"
+         ))
+       (.listTables (new org.apache.hadoop.hbase.client.HBaseAdmin (new org.apache.hadoop.hbase.HBaseConfiguration)))
+     )
+   )
+   "<hr/>"
+   (.toString request)
+   "<hr/>"
+   "<a href='http://mindbroker.de/wiki/NooMic?skin=raw'>ViewSource</a>"
+   "<hr/>"
+   "Memory: " (.totalMemory (Runtime/getRuntime))
+   "</body>
+   </html>"
+)

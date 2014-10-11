@@ -1,0 +1,4 @@
+* MindTags: MindEvent
+* XingEvent: https://www.xing.com/app/events?op=detail;id=245223
+
+20080911:2000

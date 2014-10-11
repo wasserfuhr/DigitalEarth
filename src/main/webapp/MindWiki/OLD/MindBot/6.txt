@@ -1,0 +1,7 @@
+Bald: Eine WebApp, die automatisch TwittEr't und das MindWiki editiert, wenn bestimmte Ereignisse feuern, zB:
+* überweise BegruessungsGeld für neue BuergerInnen
+* editiere #Nutzer bei SocialNetwork
+* TwittEr'e neue Nutzer und Änderungen an der VerFassung.
+
+||AusLand
+|[TwittEr:mindbroker]

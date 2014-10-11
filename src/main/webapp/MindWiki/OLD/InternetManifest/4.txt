@@ -1,0 +1,26 @@
+* HomePage: http://www.internet-manifest.de/
+
+InterNet ManiFest gegen OldMedia. PrintIstTot
+
+RedBlueGame:
+||PerSon         ||following||followers||XingLe[#1]||XingLe[#2]||FaceBook[#3]||FaceBook[#4]
+|FieteStegers    |
+|JankoRoettgers  |  167|   204|
+|JohnnyHaeusler  |3,305| 9,695|325|P[#5]|  682|60
+|JuliusEndert    |  210|   427|362|   17|  104|17
+|KathrinPassig   |  333| 4,273|  0|    0|  163| 8
+|MarioSixtus     |  257| 8,067|392|   52|  376|67
+|MarkusBeckedahl |  428|	 9,219|845|P[#5]|1,010|62
+|MercedesBunz    |   54| 1,156
+|PeterSchink     |
+|PeterStawowy    |1,103|   881|517|   17|  128|13
+|RobinMeyerLucht |
+|SaschaLobo      |1,749|18,514|  1|    1|2,875|75
+|StefanNiggemeier|   79|   559| 71|    4|   96|10
+|ThomasKnuewer   |  655| 5,529|803|   34|  659|57
+|WolfgangMichal  |
+* [#1] number of ConTact's
+* [#2] number of common ConTact's with RainerWasserfuhr
+* [#3] number of ConTact's
+* [#4] number of common ConTact's with RainerWasserfuhr
+* [#5] ProTect'ed ConTact's

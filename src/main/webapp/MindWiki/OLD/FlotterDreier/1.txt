@@ -1,0 +1,7 @@
+So etwa ab 2008 wird das Herzstück für UnserGrid ein Trio von 3 Status-Monitoring-Systemen.
+1 Master und 2 Slaves, jeweils auf unterschiedlichen Kontinenten, bei unterschiedlichen Hostern.
+
+Einem definierbaren ServiceLevel folgend tauschen die drei alle n Sekunden HeartBeat-Messages aus.
+Sobald einer der Server nicht antwortet verständigen die beiden anderen sich und eskalieren ggf. bis zum NotRuf.
+
+Der Master wird auf http://status.mindbroker.de connected: MindColors: GruenGelbRot.

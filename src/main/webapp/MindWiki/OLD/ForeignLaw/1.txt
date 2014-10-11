@@ -1,0 +1,5 @@
+Since NooPolis wants to build it's own legal system, we have to define
+the boundaries to existing legal systems.
+
+The critical situation will be, when one of CitiZens tries to enforce
+legal rule concerning NooPolis without using the MindCourt.

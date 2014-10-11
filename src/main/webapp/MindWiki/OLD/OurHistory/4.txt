@@ -1,0 +1,15 @@
+*  WorldLanguages: deutsch: UnsereGeschichte
+
+First MindBroker was a software company situated in the CityOfDresden. It was founded as MindBrokerKg in 1999 and supported by the german ministry of education and scienes. Founders were RainerWasserfuhr and YvonneSchubert.
+
+At the CeBIT 2001 we launched a stock exchange game with two stock markets. The first one was a list of well known german politicians, the second market were the five established parties in Germany. By registering at the website the users received a virtual fortune. Every user could invest his fortune in the shares of both markets. By buying and selling a trendchart emerged for every share. We encouraged the players by donating a gift to the best player.
+
+With this prototype we talked to many dozen mediapartners and realized the project together with 4students, the leading german student-portal at this time.
+
+Since 2002 only RainerWasserfuhr worked for MindBroker by performing a new consulting business. In this time YvonneSchubert finished her studies of german language, german literature and philosophy.
+
+RainerWasserfuhr implemented software for SiemensDematic, AdiDas, DeutschePost, TeSystems and ComBots. With most of these projects successfully with six-digit turnover in 2006.
+
+Before we were busy to realize several projects in different teams. One of them is a VertikalPortal for individual sport and sportclubs, their teams and members: SportPortal.
+
+Now we are completely focused on: NooPolis.

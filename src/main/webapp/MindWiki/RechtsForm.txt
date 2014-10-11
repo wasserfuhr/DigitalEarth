@@ -1,0 +1,11 @@
+* InterWiki: [DeWikiPedia:Rechtsform]
+
+||ComPare     ||AhGe     ||GmBh     ||GesBr||KommanditGesellschaft||Ltd||CoOp||UnLimited
+|StammKapital |50000 EuRo|25000 EuRo|1 EuRo|1 EuRo|1 EuRo |1 EuRo |0 KayGroschen
+|BilanzPflicht|yes |yes |no |yes|? |? |no
+|BoersenGang  |yes |no  |no |no |no|no|yes
+|GruendungsKosten|5000 EuRo|2000 EuRo|0 EuRo|1000 EuRo|500 EuRo|?|0 KayGroschen
+
+ausführliche Diskussion: http://startupweekend.wordpress.com/2007/07/30/grundung-rechtliche-forderungen/
+
+VolksEigenBetrieb

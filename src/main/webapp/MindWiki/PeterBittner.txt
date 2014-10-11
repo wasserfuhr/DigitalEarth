@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* HomePage: http://waste.informatik.hu-berlin.de/peter/
+* HasTalked: RainerWasserfuhr
+* MindSkill: DatenSchutz

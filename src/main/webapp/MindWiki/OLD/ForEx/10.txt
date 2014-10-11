@@ -1,0 +1,42 @@
+On the NooPolis ForeignExchange, KayGroschen can be traded vs EuRo.
+
+The minimum trading unit is 1000 KayGroschen (1 KiloKayGroschen)
+
+OrderBook:
+||CitiZens         ||Stück||Sell||for KiloKayGroschen||Buy||Stück||
+|RainerWasserfuhr  |    |    |   |18.00|100
+|RainerWasserfuhr  |    |    |   |15.00|100
+|RainerWasserfuhr  |    |    |   |12.00|100
+|RainerWasserfuhr  |    |    |   |10.00|100
+||Last WechselKurs ||   ||   ||??||    ||
+|RainerWasserfuhr  |10|5.00|   |     |
+|RainerWasserfuhr  |10|4.00|   |     |
+
+Legal disclaimer:
+* If you pay or receive EuRo for KayGroschen, you have make sure that this is compliant with
+the taxation laws of your WohnSitz.
+
+We suggest:
+* write a bill to the sender of the EuRo
+* Include a regular tax in your bill
+
+!Andere WechselKurs'e:
+||on     ||EuRo||UsDollar||RMB||LindenDollar||
+|20090503|    1|     1.33|9.05|    344
+|20080307|    1|     1.53|10.9|    410
+
+!TimesAndSales
+||On          ||EuRo||KayGroschen||From||To
+|20090506:2125|10|1000|RainerWasserfuhr|PeterHerbst
+|20090506:2000|10|1000|RainerWasserfuhr|RalfLippold
+
+
+Soon:
+* HerrDerSterne-Credits?
+* FriendsForSale-Dollar?
+* WarCraft gold?
+* FaceDollar?
+* XingTaler?
+* QqCoin?
+
+Der Tausch könnte bald per Auktions-WebApp über http://bank.mindbroker.de/ erfolgen.

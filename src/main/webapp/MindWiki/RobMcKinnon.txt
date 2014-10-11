@@ -1,0 +1,3 @@
+* IsA: PerSon
+|[TwittEr:delineator]
+|[DelIcioUs:delineator]

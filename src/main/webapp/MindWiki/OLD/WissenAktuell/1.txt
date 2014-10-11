@@ -1,0 +1,15 @@
+
+||[1]||PerSon
+| |BjoernBurkhardt
+|x|HansMarkowitsch
+|x|JohnDylanHaynes
+|x|HenryMarkram
+|x|ChristofKoch
+|x|WolfSinger
+| |KarenWynn
+|x|ManfredSpitzer
+| |ReinhardKahl
+| |AnnaKatharinaBraun
+| |MichaelFalkenstein
+| |MarkusUllsperger
+[#1] war vor Ausstrahlung schon im MindWiki

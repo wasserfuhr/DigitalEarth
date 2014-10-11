@@ -1,0 +1,9 @@
+Im Angebot:
+* RainerWasserfuhr: WirkSatz: 100 EuRo/h, MindSkill: java, eclipse, maven, svn, jetty, derby, hibernate, jsp, css, html, swarch, sysarch
+* DimitriUwarov: WirkSatz: 98 EuRo/h, MindSkill: java, eclipse, maven, svn, jetty, derby, hibernate, jsp, css, html
+
+Rabatt:
+* 4% für 40% HomeOffice
+* 8% für 80% HomeOffice
+* 9% für OpenSource-SourceCode
+* 10% für PayPerCommit

@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/23071005 ToDo
+* PartOf: DresdenHbf

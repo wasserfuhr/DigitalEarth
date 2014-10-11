@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* HomePage: http://www.goldenerwagen.de/
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.112598&lon=13.662631&zoom=18&layers=B000FTTT ToDo
+
+MeMo:
+* 20090301: RainerWasserfuhr, JeMand, JeMand, JeMand: SpaceCast, DistanzSpiel, UniTopia, PeterDussmann, ChemCats, ModelForADay

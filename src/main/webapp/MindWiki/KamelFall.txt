@@ -1,0 +1,56 @@
+Es war einmal WardCunningham. So um 1994 herum.
+Der scharte eine ganze Herde von Softwaregurus um
+sich herum. Man wollte voneinander lernen.
+Softwaregurus sind manchmal so: Dass sie ihre
+Lektionen nicht nur wie Herrschaftswissen für
+sich behielten, sondern miteinander teilen wollten.
+Die Muster festhalten, wie man etwas richtig oder
+falsch machen konnte. Pattern und AntiPattern nannten sie das.
+
+Schnell und einfach sollte es gehen.
+DoTheSimplestThingThatCouldPossiblyWork. 
+So einfach: Ein Wort, vorne ein Großbuchstabe und irgendwo in der Mitte 
+mindestens ein weiterer Großbuchstabe.
+Jedes Wort, welches so geschrieben wurde, führte
+und führt auch im Jahr 2008 noch auf eine neue Seite.
+Bei WardCunningham heisst dieser KamelFall: CamelCase.
+KamelFall, der auch die ganze WindelWelt-Erzählung durchziehen wird.
+
+Aber Achtung: Wir leben in einer globalisierten
+Welt. Wenn der japanische Gast im Jahr 2010 gelegentlich
+»Stadt Köln« eingeben wird, hat er vermutlich
+grade keine Umlaute auf seiner Tastatur zur
+Verfügung. Deshalb gibt es __keine__ Umlaute.
+Die Lingua-Franca, die von TroisDorf bis ToKyo
+universell ist, kann also nur aus den Buchstaben
+von A bis Z bestehen.
+
+Mit dem KamelFall steigt der IQ.
+Deshalb auch das zweite W in WindelWelt: groß geschrieben.
+Stört dies? Seis drum. Wir betreten hier Neuland, den HyperRoman.
+
+Je intensiver RainerWasserfuhr sich mit Wikis beschäftigte,
+desto mehr Gewißheit gewann er, daß er damit einen ersten
+Schlüssel in der Hand hielt für seinen UpLoad, noch bevor
+er ein BrainComputerInterface hatte.
+Sein Wiki enthielt einen PageIndex.
+Es vergingen kaum noch Gedanken, zu denen er nicht schon
+Seiten im Wiki angelegt hatte.
+Der PageIndex füllte sich mehr und mehr mit Denkern, die
+ihn beeinflusst hatten, Büchern, Gedanken zu Musikstücken und
+Kunstwerken. Selten waren Erkenntnisse dabei, die in der WikiPedia
+nicht zu finden waren. Aber darum ging es gerade: Dasjenige
+Tortenstück aus dem Riesenkuchen des Weltwissens zu erfassen,
+das in seinem Kopf war.
+Er stellte sich vor, wenn die ersten Menschen aufwachsen
+würden, die ihre gesamte Wissensbiographie von Geburt
+an digital abbilden könnten.
+
+Das Gehirn war auf neuronaler Ebene vernetzt organisiert.
+Das Gehirn war auf semantischer Ebene vernetzt organisiert.
+Lange hatte er nach dem Werkzeug gesucht, dass ihm erlaubte,
+auch sein Wissen vernetzt zu organisieren.
+Nach dem Vorbild von NiklasLuhmann hatte er sich während
+seines Studium einen ZettelKasten angelegt.
+Dessen Bedeutung wurde aber durch den Siegeszug des
+WorldWideWeb hinweggefegt.

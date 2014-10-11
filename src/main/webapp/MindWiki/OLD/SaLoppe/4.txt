@@ -1,0 +1,10 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Saloppe]
+* MindQuote: "Schwedinnen haben freien Eintritt!"
+* BreitenGrad: 51.065129
+* LaengenGrad: 13.790187
+* BoundingBox: 50
+* HomePage: http://www.saloppe.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/4566903
+
+TotalRecall: UpLoad, WindelWelt.

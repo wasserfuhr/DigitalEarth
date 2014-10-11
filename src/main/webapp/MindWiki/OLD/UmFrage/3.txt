@@ -1,0 +1,4 @@
+Wenn ein MindBroker von anderen MindBroker'n wissen will, was sie denken, kann er 
+* einen MindVote anlegen,
+* eine FutureCard auf die FutureMap legen oder
+* einen PredictionMarket starten.

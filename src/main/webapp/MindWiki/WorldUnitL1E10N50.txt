@@ -1,0 +1,11 @@
+* MindTags: MindFarm
+* UnitOwner: RalfLippold
+* MindCount: 50000000
+* WaterHandICap: 0.13
+* EnErgie: ToDo
+* CalculationsPerSecond: ToDo
+* CarCount: 40000000
+* ElectroCarCount: 40000
+* BikeCount: 100000000
+* PlanesCount: ToDo
+* ConTainer: ToDo

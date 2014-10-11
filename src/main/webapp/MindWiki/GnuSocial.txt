@@ -1,0 +1,3 @@
+* HomePage: http://groups.fsf.org/wiki/Group:GNU_Social
+
+OpenSource PeerToPeer SocialNetwork

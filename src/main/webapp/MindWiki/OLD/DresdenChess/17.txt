@@ -1,0 +1,32 @@
+* MindTags: NooChess
+
+We want to play a real world game of chess with the StadtDresden serving as the chess board and real people serving as pieces:
+
+[{Image src='http://farm3.static.flickr.com/2279/2121649672_0e29206232.jpg'}]
+(view [with Google Maps|http://maps.google.com/maps?q=http://geo.mindbroker.de/chess.jsp], view [with Google Earth|http://geo.mindbroker.de/chess.jsp])
+
+!Date: To be defined - but in the summer 2008 during SchachOlympiade
+
+!Player
+Currently the following players have declared their interest to participate:
+||Team||piece||Interested
+|white|queen|LysannB.
+|white|king |ChristineSchlinck
+|white|rook |?
+|...  |...  |...
+|black|queen|YvonneSchubert
+|black|king |?
+|black|...
+|...  |...  |...
+If you are interested to participate, please ConTact us.
+
+!Board
+|| ||a                 ||b               ||c                 ||d                 ||e                 ||f                 ||g                 ||h
+||8|KinderOase         |FoersterBistro   |PensionWieczorek   |DieGartenkinder    |PensionAmHellerhof |
+||7|JugendtreffOase    |QueensPub        |
+||6
+||5
+||4
+||3
+||2
+||1|FoerstersRestaurant|BarSonderbar     |VatersEinkehr      |HelmholtzApotheke  |LukasKirche        |CafeJaehnig        |GaestehausDerTu |PalaisImGrossenGarten               

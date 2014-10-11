@@ -1,0 +1,9 @@
+Browser die wir unterstützen:
+
+Als Grundlage dient http://www.w3schools.com/browsers/browsers_stats.asp
+
+*Internet Explorer 5
+*Internet Explorer 6
+*Firefox - alle Versionen incl. Camino auf OSX.
+*Safari
+*Opera

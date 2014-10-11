@@ -1,0 +1,5 @@
+* IsA: EnterPrise
+* HomePage: http://www.hoergeraete-wasserfuhr.de/
+* MindOne: BirgitWasserfuhrFischer
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/630766897
+* PartOf: SoLingen

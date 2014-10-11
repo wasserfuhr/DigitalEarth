@@ -1,0 +1,7 @@
+* MindTags: ReView 
+
+Hintergrund: [DeWikiPedia:Die_Weisheit_der_Vielen]
+
+WasSchaetztDu: kleine CrowdWisdom-Spiele, bei denen  BuergerInnen ihre ErWartung angeben können:
+
+[{INSERT ReferringPagesPlugin}]

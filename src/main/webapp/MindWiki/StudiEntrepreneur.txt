@@ -1,0 +1,23 @@
+Mit dem LockSchuppen-ProJekt wollen wir allen Studierenden die MoegLich'keit geben, im Rahmen der StartUpSim
+schon während des Studiums
+* InterDisziplin'är zu arbeiten
+* ComPlex'e Forschungsprobleme im RealLife zu identifizieren und zu lösen
+* ein StartUp zu gründen und ShareHolder zu werden
+
+Aktuelle haben wir folgende HotTopics und ReSearch-Fragestellungen:
+* InforMatik
+** EnterpriseWiki SemanticWiki OpenStreetMap OpenFloorPlan
+* BWL
+** BusinessPlan DueDiligence InitialPublicOffering ViralMarket'ing
+* ErZieh'ungswissenschaft/Psychologie
+** LernenDurchLehren LifeLongLearning
+* BauIngenieur
+** BuildingModel BauKosten
+* ArchiTekt'ur
+** DenkmalSchutz NachHaltig'keit
+* Jura
+** VerFassung Gesellschafter-VerTrag
+* Sprachwissenschaften
+** TranslateTheConstitution
+* Chemie
+** KontaminierungsGutachten

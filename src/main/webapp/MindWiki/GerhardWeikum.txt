@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/w/GerhardWeikum
+* HomePage: http://www.mpi-inf.mpg.de/~weikum/
+* PageNumber: 2
+* PagePath: LarryPage HectorGarciaMolina GerhardWeikum

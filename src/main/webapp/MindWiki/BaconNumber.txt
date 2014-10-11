@@ -1,0 +1,2 @@
+* InterWiki: [WikiPedia:Bacon_number]
+* NamedAfter: KevinBacon

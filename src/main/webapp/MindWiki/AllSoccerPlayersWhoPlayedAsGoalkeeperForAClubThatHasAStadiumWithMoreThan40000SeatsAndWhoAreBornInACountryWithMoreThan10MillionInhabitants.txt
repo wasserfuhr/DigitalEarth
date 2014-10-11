@@ -1,0 +1,19 @@
+SparQl:
+
+{{{SELECT DISTINCT ?page  {
+?s foaf:page ?page.
+?s rdf:type <http://dbpedia.org/ontology/SoccerPlayer> .
+?s dbpedia2:position <http://dbpedia.org/resource/Goalkeeper> .
+?s <http://dbpedia.org/ontology/club> ?club .
+?club <http://dbpedia.org/ontology/capacity> ?cap .
+?s <http://dbpedia.org/ontology/birthPlace> ?place .
+?place ?population ?pop
+Filter (xsd:int(?cap) >40000 ) .
+Filter (xsd:int(?pop) >10000000 ) .
+Filter (?population in (<http://dbpedia.org/property/populationEstimate>, <http://dbpedia.org/property/populationCensus>))
+} Limit 1000
+}}}
+
+http://wiki.dbpedia.org/OnlineAccess#h28-5
+
+http://tr.im/soccersparql

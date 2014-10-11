@@ -1,0 +1,21 @@
+* IsA: EnterPrise
+* HomePage: http://www.lovemachineinc.com/
+* FoundedBy: PhilipRosedale RyanDowne
+
+RoleModel for the DoOcracy and DoOconomy of NooPolis.
+
+||ComPare      ||LoveMachine  ||NooPolis
+|since         |2009          |2007
+|MindOne       |PhilipRosedale|RainerWasserfuhr
+|Currency      |UsDollar      |KayGroschen
+|              |WorkList      |DoIt
+|              |Workroom      |SkypeChat
+|              |Rewarder      |PieschenBank
+|SourceCode    |Php           |CloJure
+|ReVision's    |SubVersion    |CodeWiki
+|EnterpriseWiki|no |MindWiki
+|WikiDrivenDevelopment|no |yes
+|BuergerBeteiligung|yes |yes
+|ConStitution  |no |yes
+|WorkForShares |no |yes
+|CoLearning    |?  |SingularAcademy

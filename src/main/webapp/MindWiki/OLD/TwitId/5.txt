@@ -1,0 +1,22 @@
+EarlyAdopter metrics: the user PrimaryKey of TwittEr, lowest: JackDorsey: TwitId=12 ?
+
+||TwitId||Nick  ||PerSon
+|   12|[TwittEr:jack]     |JackDorsey
+|   13|[TwittEr:biz]      |BizStone
+|   20|[TwittEr:ev]       |EvanWilliams
+|  509|[TwittEr:jerrymichalski]|JerryMichalski
+|  841|[TwittEr:colinschlueter]|ColinSchlueter
+|  885|[TwittEr:Ross]     |RossMayfield
+| 4602|[TwittEr:planspark]|TimBonnemann
+| 5043|[TwittEr:themanuel]|
+|11584|[TwittEr:rainer]   |RainerWasserfuhr
+|11593|[TwittEr:daniele]  |DanielPoodratchi
+|12220|[TwittEr:cervus]   |BastiHirsch
+|13348|[TwittEr:Scoblizer]|RobertScoble
+|66653|[TwittEr:oliverg]  |OliverGassner
+|849571|[TwittEr:RobGreen]|RobertBasic
+|5876652|[TwittEr:saschalobo]|SaschaLobo
+|9149292|[TwittEr:tineroyal]|ChristineSchlinck
+|19058681|[TwittEr:aplusk]|AshtonKutcher
+
+MindId

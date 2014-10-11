@@ -1,0 +1,8 @@
+* InterWiki: [OpenCyc:Google-SearchEngine]
+* MindQuote: "Unversioned program" - OpenCyc
+
+Schöne PageName's für deren Platzierung es sich lohnt:
+* #1: SuendenMund, PieschenBank, PieschenPuffin
+* ...
+* #9: BrainCopy
+* #10: PuffCafe

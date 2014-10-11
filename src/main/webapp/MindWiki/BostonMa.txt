@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Boston], [OpenCyc:CityOfBostonMA], [WebSeitz:BostonMa]
+* MindCount: 600000

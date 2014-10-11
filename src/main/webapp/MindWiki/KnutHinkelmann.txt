@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/50/1728
+* PagePath: MikeWooldridge JoergMueller ManfredMeyer KnutHinkelmann
+|[XingLe:Knut_Hinkelmann]

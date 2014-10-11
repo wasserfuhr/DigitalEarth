@@ -1,0 +1,12 @@
+ProjectCodeName der MindBrokerAg für UnsereProjekte rund um CroQuet, als Vorstufe zu WyrdMind.
+
+Vorläufige Domain für diesbezügliche Websachen: http://second.mindbroker.de/
+
+Projekte:
+* SecondWirkZentrum
+* SecondDresden
+
+Tools:
+* http://www.blender.org/: OpenSource-Tool für 3D-Modellierung (Import/Export: u.a. VRML, DXF, 3DS)
+* [DeWikiPedia:Industry_Foundation_Classes]: ISO-Standard für intelligente 3D-Gebäudemodelle
+* [Solibri Model Viewer|http://www.solibri.com/index.php?option=com_content&task=view&id=71&Itemid=44]: Browser für IFC-Modelle

@@ -1,0 +1,22 @@
+* IsA: SingularityMind UnternehmensGruender
+* InterWiki: [DeWikiPedia:Larry_Page] [WebSeitz:LarryPage]
+* JahrGang: 1973
+* BirthDay: 03-26
+* ViAf: http://viaf.org/viaf/35624513
+* DbLp: http://dblp.uni-trier.de/rec/pid/p/LawrencePage
+* PageNumber: 0
+* TurkNumber: 19
+
+TurkPath:
+# JuergenAvenhaus
+# DieterRombach
+# ManfredBroy
+# LeslieLamport
+# [http://dblp.uni-trier.de/db/indices/a-tree/l/Liskov:Barbara.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/u/Ullman:Jeffrey_D=.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/s/Stonebraker:Michael.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/v/Vardi:Moshe_Y=.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/h/Henzinger:Thomas_A=.html]
+# MonikaHenzinger
+# SergeyBrin
+# LarryPage

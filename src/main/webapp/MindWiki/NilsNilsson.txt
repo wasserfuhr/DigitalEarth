@@ -1,0 +1,3 @@
+* MindTags: ProFessor
+* InterWiki: [WikiPedia:Nils_Nilsson]
+* HomePage: [http://ai.stanford.edu/~nilsson/]

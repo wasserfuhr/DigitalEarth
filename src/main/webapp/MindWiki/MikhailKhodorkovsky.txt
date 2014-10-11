@@ -1,0 +1,4 @@
+* IsA: UnternehmensGruender
+* InterWiki: [WikiPedia:Mikhail_Khodorkovsky]
+* BornIn: 1963
+* BirthDay: 06-26

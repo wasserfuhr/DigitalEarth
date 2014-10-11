@@ -1,0 +1,212 @@
+* InterWiki: [DeWikiPedia:Dreibuchstabenabkürzung], [WikiWikiWeb:ThreeLetterAcronym]
+
+im WortSchatz von RainerWasserfuhr sind unter anderem folgende aller 26^3=17.576 ThreeLetterAcronym's mit einer BeDeut'ung verknüpft:
+* aal: andere ArBeit'en lassen
+* abb: asea brown boveri
+* abc: AlphaBet
+* ada: AdaLovelace
+* add: AufMerksam
+* afk: away from TastaTur
+* afm: away from MindMac, aber MindPhone dabei
+* agi: ArtificialGeneralIntelligence
+* aig
+* aim: InstantMessaging
+* ajp: SocialGrid
+* alf: Alf
+* amd: AmDe
+* ant
+* anh: AlbanNikolaiHerbst
+* aol: InterNet
+* api: MindHacking
+* aqc: QuantPuter
+* ard: StaatsFunk
+* arg: AlternateReality
+* asp
+* bam: BamMatrix
+* bbl: be back later
+* bci
+* bdd
+* bdi: HansOlafHenkel
+* bip
+* bmf
+* bmw: MindCar
+* bpb
+* brd: DeutschLand
+* brn: BunteRepublik
+* bsp
+* btw: by the MindWay
+* btx: DeutscheTelekom
+* bvb: DortMund
+* bvg: StadtBerlin
+* cad: AutoCad
+* cam
+* cax
+* ccc: NothingToHide
+* cdg: AirPort Paris
+* cdu: CduWiki
+* cee: ToCee
+* ceo: VorStand
+* ces: LasVegas
+* cet: TimeZone
+* cfo: VorStand
+* cgn: AirPort StadtKoeln
+* cia: WireTap
+* cms
+* cnn
+* csd
+* css: WorldWideWeb
+* csu: CduWiki
+* csv
+* cvs: SourceCode
+* dab
+* dai
+* ddr: DdErr
+* dem
+* dfb
+* dld
+* dna: MindGene
+* drm
+* dst: TimeZone
+* dsl: duschen shaven liften
+* dvb: DvbAg
+* dvd
+* eai
+* eds
+* etc: EtCetera
+* erp: MindErp
+* eur: EuRo
+* evb: EvbGymnasium
+* exp: ExPo
+* fai: FriendlyAi
+* faq: AnFrage
+* fax
+* faz
+* fbi: WireTap
+* fdl: GnuFdl
+* fdp: FdpWiki
+* fkk
+* flv: SeesMic
+* fra: AirPort FrankFurt
+* fud
+* gal: GruenWiki
+* gcc: GNU C Compiler
+* gcj
+* gef
+* gem: AtariSt
+* gfk: NuernBerg
+* gfs
+* git: SourceCode
+* gmt: TimeZone
+* gmx
+* gnu: GnuFdl
+* gpl
+* gps
+* gti: MindCar
+* gui
+* gwb: GeorgeWBush
+* hal: EytschEyEl
+* hci
+* hpc: SuperComp
+* hql
+* hsv: HamBurg
+* htm: JeffHawkins
+* ibm: EiBiEm
+* icq: InstantMessaging
+* ide
+* idn
+* ipo: IpoKurs
+* isa: IstEin
+* isc: SuperComp
+* isp: InterNet
+* isv: InterNet
+* jar: JosephRatzinger
+* jbi
+* jdk: MindHacking
+* jfk: AirPort
+* jms
+* jmx
+* jre: MindHacking
+* jsf: MindHacking
+* jsp: MindHacking
+* jsr
+* kfw: VerMoegen
+* kgb: WireTap
+* kgv: BusinessPlan
+* khd: DeutzAg
+* klm: AirLine
+* kmu: UnterNehmen
+* lbs
+* lol
+* lsd: LysergicAcidDiethylamide
+* mad: AirPort
+* mda: MindPhoe
+* mdb: BundesTag
+* mdd: DomainModel
+* mdl: BundesTag
+* mdr: StaatsFunk
+* mez: TimeZone
+* mfg
+* mfs: DdErr
+* mgm: LasVegas
+* mom: einen Moment bitte
+* mrd: ForbesList
+* nda: NonDisclosureAgreement
+* nfc
+* nlp
+* npd
+* npe: SourceCode
+* nsa
+* nsu
+* ooa
+* ood
+* oop
+* oql
+* owl: SemanticWeb
+* pal
+* pdf: MindPdf
+* pds
+* poi: ApachePoi
+* pst
+* qed: BeWeis
+* raf: SystemClash
+* rdf: SemanticWeb
+* rdh: StadtJena
+* rfc
+* rna: MindGene
+* rwe: EnErgie
+* sap: SapAg
+* sfb: ReSearch
+* soa
+* spd: SpdWiki
+* sql: MindSql
+* ssv
+* ssw
+* svn
+* swt
+* tdd
+* tla: ThreeLetterAcronym
+* tld: DoMain
+* tud: TuDresden
+* tui: TuiLuna
+* ugc
+* uka: KarlsRuhe
+* usa: UnitedStates
+* usb
+* usd: UsDollar
+* usw
+* usv: GooglePower
+* utc: TimeZone
+* utf: UniCode Transformation Format
+* vet: voraussichtlicher Entbindungstermin der GeBurt
+* vfb: StuttGart
+* vfl: SportWiki
+* vlt: vielleicht
+* vtt: ToCee
+* wkw: WerKenntWen
+* wlw: WerLiefertWas
+* wsv
+* wwf
+* www: WorldWideWeb
+* xml: WorldWideWeb
+* zdf: StaatsFunk
+* zdk: DdErr

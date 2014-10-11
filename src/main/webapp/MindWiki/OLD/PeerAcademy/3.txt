@@ -1,0 +1,27 @@
+* InspiredBy: TeamAcademy, BildungsBurg
+
+Wir stellen das BildungsSystem vom Kopf auf die Fuesse: PeerToPeer-ErZieh'ung und WeiterBildung!
+
+* Kleine Lerneinheiten (so ab 1-2h). Lernen erfolgt zwischen sogenannten "Peers".
+* Bei jedem PeerLearning vermittelt der eine Einheit - dies kann OnLine oder OffLine FaceToFace geschehen
+
+Lernen, Spielen, Quiz, 
+
+Öffentliche Empfehlung: "mein Schüler kennt sich jetzt (ganz wenig - gut - sehr gut - exzellent aus mit Topic).
+
+Diese Empfehlung wird öffentlich mit ZeitStempel im MindWiki festgehalten.
+Sobald der Schüler die MindSkill's erworben hat, kann er selbst als Lehrer auftreten.
+
+SingularBachelor:
+* Lehrer: RainerWasserfuhr
+* Schueler: RalfLippold, ChristineSchlinck, (YvonneSchubert?)
+
+LeanBachelor:
+* Lehrer: RalfLippold
+* Schueler: RainerWasserfuhr
+
+Weitere MindSkill's im Angebot:
+* JavaBachelor
+* WikiBachelor
+* InternetBachelor
+* FacebookBachelor

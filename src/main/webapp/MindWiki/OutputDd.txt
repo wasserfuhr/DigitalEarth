@@ -1,0 +1,5 @@
+* IsA: EventSeries
+
+2010: DianeHirschfeld DirkRoehrborn EvaMariaSchwartz FrankLamack FrankSchoenefeld HolgerHelas HolgerSchulze JensOsthues JudithSchmalz KlausMeissner MarcoDziallas MatthiasWeise RainerWasserfuhr RalfLippold RicoPetrick SimoneRoettger SoerenRogoll UweAssmann EtAl
+
+2009: OutPut09

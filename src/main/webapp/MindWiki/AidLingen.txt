@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Aidlingen]
+* BoundingBox: 5000
+* MindCount: 9000

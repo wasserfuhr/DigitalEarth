@@ -1,0 +1,16 @@
+* IsA: MindStreet
+* InterWiki: [DdWiki:Louisenstra%C3%9Fe]
+* BreitenGrad: 51.0665
+* LaengenGrad: 13.75334
+* BoundingBox: 866
+* SlimNess: 0.01
+* GraDient: 100
+
+* 10 PPB-Projektservice Planen + Bauen
+* 12 LaLeLu Mini-Hostel
+* 14-16 Feuerwehr
+** 19 Rotor Bikes GbR
+** 19 Lederwerkstatt
+* 20 PlanWirtschaft
+** 21 Blumen - Stamnitz
+** 25 Fleischerei Sven Creutz GmbH

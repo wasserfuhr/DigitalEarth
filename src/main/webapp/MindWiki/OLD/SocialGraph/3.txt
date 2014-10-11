@@ -1,0 +1,3 @@
+* InterWiki: [WebSeitz:SocialGraph]
+* http://bradfitz.com/social-graph-problem/
+* MindId

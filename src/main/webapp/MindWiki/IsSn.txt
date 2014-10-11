@@ -1,0 +1,28 @@
+* InterWiki: [DeWikiPedia:Internationale_Standardseriennummer]
+
+||IsSn    ||DcTitle                                         ||MindOne        ||InterWiki
+|0021-9258|Journal of Biological Chemistry                  |                |[WikiPedia:Journal_of_Biological_Chemistry]
+|0027-8424|Proceedings of the National Academy of Sciences  |RandySchekman   |[WikiPedia:Proceedings_of_the_National_Academy_of_Sciences]
+|0028-0836|Nature                                           |                |[WikiPedia:Nature_(journal)]
+|0031-9007|Physical Review Letters                          |                |[WikiPedia:Physical_Review_Letters]
+|0033-5533|Quarterly Journal of Economics                   |                |[WikiPedia:Quarterly Journal of Economics]
+|0036-8075|Science                                          |BruceAlberts    |[WikiPedia:Science_(journal)]
+|0092-8674|Cell                                             |EmilieMarcus    |[WikiPedia:Cell_(journal)]
+|0140-6736|The Lancet                                       |RichardHorton   |[WikiPedia:The_Lancet]
+|0170-6012|Informatik Spektrum                              |ArndtBode       |InformatikSpektrum
+|0192-4575|Kilobaud                                         |WayneGreen      |[WikiPedia:Kilobaud_Microcomputing]
+|0933-1875|Künstliche Intelligenz : KI ; Forschung, Entwicklung, Erfahrungen ; Organ des Fachbereichs 1 Künstliche Intelligenz der Gesellschaft für Informatik e.V., GI / Fachbereich 1 der Gesellschaft für Informatik e.V|AndreasGuenter 
+|0934-3237|ST-Magazin : die Zeitschrift für den Atari St    |                |[DeWikiPedia:ST_Magazin]
+|1389-1286|Computer Networks                                |                |[WikiPedia:Computer_Networks_(journal)]
+|1438-9339|Brand eins                                       |GabrieleFischer |BrandEins
+|1611-2342|Das E-Business Weblog                            |MartinRoell     |
+|1874-4753|Journal of Information Technology in Construction|BoChristerBjoerk|ItCon
+
+SparQl:
+{{{
+prefix dbpprop: <http://dbpedia.org/property/>
+
+SELECT * WHERE {
+?a dbpprop:issn ?b
+}
+}}}

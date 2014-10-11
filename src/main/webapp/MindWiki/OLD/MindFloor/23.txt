@@ -1,0 +1,51 @@
+!Protokoll der Übertragung von Shares zwischen ShareHolder'n von UnterNehmen im HandelsRegister
+
+(bald als WebApp auf http://floor.mindbroker.de)
+
+||am          ||UnterNehmen||Shares||Kurs||von        ||an              ||Kommentar
+|20071231:????|MindBroker|  50.0 |0|RainerWasserfuhr |NN               |DankeSchoen für NN
+|20071231:????|MindBroker|  40.0 |0|OliverGassner    |RainerWasserfuhr |PayOut
+|20071030:0317|MindBroker|  30.0 |0|AndreasWeigel    |RainerWasserfuhr |Anteilsanpassung an aktuelles CommitMent
+|200710xx     |MindBroker| 100.0 |0|DanielPoodratchi |RainerWasserfuhr |Anteilsanpassung wegen PayOut
+|200709xx     |MindBroker|  10.0 |0|OliverGassner    |RainerWasserfuhr |Anteilsanpassung wegen PayOut
+|20070811:0445|MindBroker|  10.0 |0|DanielPoodratchi |RainerWasserfuhr |Anteilsanpassung an aktuelles CommitMent
+|20070806:0521|MindBroker|  10.0 |0|YvonneSchubert   |RainerWasserfuhr |Anpassung für DoIt und ImmerWieder
+|20070525:0955|MindBroker|   0.2 |0|RainerWasserfuhr |DimitriUwarov    |WarrenBuffett
+|20070501:0000|MindBroker|   0.4 |0|RainerWasserfuhr |RicardaDHerbrand |SalsaNonnen
+|20070430:1200|MindBroker|   0.5 |2|RainerWasserfuhr |WernerWasserfuhr |Lead-InVest'or
+|20070430:1200|MindBroker|   0.5 |2|RainerWasserfuhr |AgnesWasserfuhr  |Lead-InVest'or
+|20070429:2135|MindBroker|   0.2 |0|RainerWasserfuhr |JensFreydank     |Geschenk
+|20070420:1030|MindBroker|   0.2 |0|RainerWasserfuhr |JensWegerle      |Geschenk
+|20070419     |MindBroker|   0.2 |0|RainerWasserfuhr |DimitriUwarov    |Geschenk
+|20070417     |MindBroker|   0.02|0|RicardaDHerbrand |TimBonnemann     |wünscht sich Tim mal live beim Webmontag in Jena ;)
+|20070416     |MindBroker|   0.22|0|ChristineSchlinck|RainerWasserfuhr |Geschenk für ApoPhaenie
+|20070414     |MindBroker|   1.3 |0|RainerWasserfuhr |TimBonnemann     |Geschenk für langmonatige Verdienste als Mister WebMontag ;)
+|20070414     |MindBroker|   0.4 |0|DanielPoodratchi |TimBonnemann     |Geschenk
+|20070414     |MindBroker|   0.1 |0|AndreasWeigel    |TimBonnemann     |Geschenk
+|20070414     |MindBroker|   0.1 |0|OliverGassner    |TimBonnemann     |Geschenk
+|20070414     |MindBroker|   0.06|0|YvonneSchubert   |TimBonnemann     |Geschenk
+|20070414     |MindBroker|   0.02|0|ChristineSchlinck|TimBonnemann     |Geschenk
+|20070401     |MindBroker|   0.2 |0|RainerWasserfuhr |ChristineSchlinck|Englischkurs
+|20070401     |MindBroker|   0.2 |0|RainerWasserfuhr |RicardaDHerbrand |Einführung in MindTueftel
+|200703xx     |MindBroker|  20.0 |0|RainerWasserfuhr |AndreasWeigel    |Schnellboot-Hacking am SportPortal
+|200702xx     |MindBroker|  30.0 |0|RainerWasserfuhr |YvonneSchubert   |Erfindung des SecondFloor
+|20070208     |MindBroker|   0.02|0|RainerWasserfuhr |AndreasWeigel    |FirstTrade
+|200702xx     |MindBroker|   0.04|0|RainerWasserfuhr |ChristineSchlinck|Geschenk für SuendenMund
+|200702xx     |MindBroker|  50.0 |0|RainerWasserfuhr |OliverGassner    |Geschenk für Gewinn des D-Quest
+|20061231     |MindBroker|  30.0 |0|RainerWasserfuhr |AndreasWeigel    |Schnellboot-Hacking am SportPortal
+|20061231     |MindBroker| 190.0 |0|RainerWasserfuhr |DanielPoodratchi |Schnellboot-Hacking am SportPortal
+
+!Offene Angebote für Kauf und Verkauf von Shares:
+
+(Falls ein Broker mehrere Gebote hat, müssen die Gebote mit dem geringeren Preis
+zuerst bedient werden.)
+
+||UnterNehmen||Owner          ||type   ||Stück||price/share||Currency
+|MindBroker  |RainerWasserfuhr|kauft   |400|   1|KayGroschen
+|MindBroker  |RainerWasserfuhr|kauft   |100|  50|KayGroschen
+|MindBroker  |RainerWasserfuhr|verkauft| 10|1000|KayGroschen
+|MindBroker  |RainerWasserfuhr|verkauft| 10|2000|KayGroschen
+|MindBroker  |RainerWasserfuhr|verkauft| 10|5000|KayGroschen
+
+* bid: der Kurs, zu dem ein Marktteilnehmer A bereit ist, ein Wertpapier zu kaufen
+* ask: der Kurs, zu dem ein Marktteilnehmer A bereit ist, ein Wertpapier zu verkaufen

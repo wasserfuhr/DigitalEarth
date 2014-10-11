@@ -1,0 +1,4 @@
+* MindTags: RdfProperty
+* RdfProperty: http://www.w3.org/2003/01/geo/wgs84_pos#altitude
+
+Höhe eines MindPlace in Meter bezogen auf [DeWikiPedia:Normalnull]

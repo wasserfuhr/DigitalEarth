@@ -1,0 +1,4 @@
+* InterWiki: [WikiWikiWeb:ClarkeIdentifier]
+* NamedAfter: ArthurCClarke
+
+MindId

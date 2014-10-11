@@ -1,0 +1,4 @@
+Der Schauplatz der staatlichen Herrschaft. Der territoriale Bereich, in dem sich die StaatsGewalt über die Bürger entfaltet:
+
+Im Kern vorerst ein JspWiki, um das herum zukünftig weitere WebApps von MindBroker entwickelt werden.
+

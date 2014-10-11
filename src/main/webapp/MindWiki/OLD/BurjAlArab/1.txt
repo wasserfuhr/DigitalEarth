@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: 25.1413
+* LaengenGrad: 55.1854
+* BoundingBox: 170
+* GraDient: 135

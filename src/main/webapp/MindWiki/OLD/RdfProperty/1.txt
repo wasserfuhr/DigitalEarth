@@ -1,0 +1,4 @@
+* DeFine: A WikiPage of the MindWiki can have MindProps, which can be mapped to an RdfProperty
+
+Example:
+ MindProps 

@@ -1,0 +1,8 @@
+* IsA: PerSon
+* BornIn: 1903
+* BirthDay: 10-12
+* BirthPlace: StadtBonn
+* ChildOf: AnnaKraemer EmilWasserfuhr
+* ViAf: http://viaf.org/viaf/37942162
+
+http://books.google.com/books?id=JT4VAQAAIAAJ&q=wasserfuhr

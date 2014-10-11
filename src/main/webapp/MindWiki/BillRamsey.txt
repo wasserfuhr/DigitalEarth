@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Bill_Ramsey]
+* BornIn: 1931
+* BirthDay: 04-17
+* ViAf: http://viaf.org/viaf/59513116
+* MindFaves: ZuckerPuppe BauchTanz
+* MindSkill: MindMusic

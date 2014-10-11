@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/o/DanielOlmedilla
+* HomePage: http://www.olmedilla.info/
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker MichaelSintek DanielOlmedilla

@@ -1,0 +1,6 @@
+* IsA: PerSon
+* HomePage: http://tu-dresden.de/Members/alexander.gehre
+* TurkNumber: 1
+* PageNumber: 5
+* PagePath: LarryPage TerryWinograd NorbertStreitz JohnSmith PeterLinde ZigaTurk AlexanderGehre
+|[XingLe:Alexander_Gehre]

@@ -1,0 +1,8 @@
+* IsA: MindEvent
+* HashTag: sm4f
+* MindPlace: LockOffice
+* XingEvent: https://www.xing.com/events/social-media-existenzgrunder-469589
+* GastGeber: RalfLippold
+* TeilNehmer: MarcoDziallas PatrickPietsch JensUweSauer
+
+HotTopics: StartupWiki TwittEr TwitterHolic FaceBook XingLe StartUpWeekEnd BetriebsWiki BusinessPlanGenerator StealthMode ClueTrain GeheimKosten GoogleWave GoogleBuzz DelIcioUs DoMain OpenSource FbApp FbConnect GoogleAnalytics SingularFutureSax FansOfFutureSax BusinessAngel SkyPe ScreenSharing EtherPad PageRank ReleaseEarlyReleaseOften FailFast RevisionsSicher SaftTante

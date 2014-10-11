@@ -1,0 +1,19 @@
+* InterWiki: [DeWikiPedia:Deutsches_Forschungszentrum_für_Künstliche_Intelligenz]
+* HomePage: http://www.dfki.de/
+* MindOne: WolfgangWahlster
+
+ArTelligence
+
+MitWirkende:
+* HansUszkoreit
+* DidierStricker
+* PhilippSlusallek
+* WalterOlthoff
+* AndreasDengel
+* ThomasBreuel
+* BerndKriegBrueckner
+* PeterLoos
+* WolfgangWahlster
+* JoergSiekmann
+* FrankKirchner
+* DetlefZuehlke

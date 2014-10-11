@@ -1,0 +1,12 @@
+* MindTags: ProJect
+
+Eine WebApp, um DoIt's nach dem GettingThingsDone-Prinzip zu automatisieren. 
+
+später: http://doit.mindbroker.de/
+
+SourceCode: svn://svn.mindbroker.de/opensource/de.mindbroker.doit
+
+Alternativen:
+* http://mein.todooo.com/
+* http://vitalist.com/
+* http://gopingme.com/

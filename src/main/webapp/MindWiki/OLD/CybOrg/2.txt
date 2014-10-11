@@ -1,0 +1,20 @@
+* HerKunft: "vom englischen cybernetic organism, »kybernetischer Organismus«"
+* InterWiki: [DeWikiPedia:Cyborg]
+
+Wie würde die Welt sich ändern, wenn das MindPhone und das MiNd von RainerWasserfuhr eine
+Einheit wären? Die Energie würde das MindPhone aus dem BodyOne beziehen.
+
+BodyOne hätte dann auch
+* Intel XScale PXA270, 416 MHz
+* 64 MB (SDRAM)
+* Die SDCard 32GB Kingston SDHC kostete TimeLine:20080908 bei WinnerComputer: 176,91 EUR
+* WLAN, BlueTooth, UMTS
+* GPS
+* Kamera 2 Megapixel
+
+RainerWasserfuhr wäre dann __always on__ und könnte aufzeichnen:
+* jedes von ihm und seinen Gesprächspartnern gesprochene Wort
+* jede Bewegung und Geste von BodyOne
+* jedes je gesehene Auto, das Modell, das Kennzeichen, den Ort
+* jeden im RealLife gelesenen Text, jede Werbetafel, den Zustand jeder Ampel
+* SteamboatSpotting, BalloonSpotting

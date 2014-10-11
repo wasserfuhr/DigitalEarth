@@ -1,0 +1,20 @@
+* RdfClass: http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing
+* WordNet: http://www.w3.org/2006/03/wn/wn20/instances/wordsense-place-noun-1
+
+Bald werden alle Orte, auf deren WikiPage im MindWiki Längen- und Breitengrad als MindProps angegeben sind, auf der MindMap dargestellt:
+
+Einfach als MindProps angeben:
+
+{{{
+* IsA: MindPlace
+}}}
+
+sowie:
+* BreitenGrad: Ein Breitengrad in Dezimalgrad, zB 51.0123
+* LaengenGrad: zB -13.345
+
+Optional:
+* BoundingBox
+* NormalNull: Die Höhe über NormalNull in Metern
+* SlimNess: Normalerweise wird eine quadratische BoundingBox gezeichnet. Durch eine SlimNess s mit 0.0 < s <= 1.0 kann die BoundingBox zu einem Rechteckt gestaucht werden. Die Drehung des Rechecks definiert der:
+* GraDient: Definiert den Winkel w mit w 0.0 <= s <= 360.0 in Grad

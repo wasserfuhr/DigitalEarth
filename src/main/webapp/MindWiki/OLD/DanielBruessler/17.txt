@@ -1,0 +1,21 @@
+* JahrGang: 1971
+* BirthDay: 08-28
+* WohnSitz: NuernBerg
+* MindTrust: RainerWasserfuhr
+* MindBrowser: FireFox
+||AusLand
+|[WorldWideWeb:www.danielbruessler.de]
+|[XingLe:Daniel_Bruessler]
+
+!Mehr
+* geboren in: StadtDresden
+* mag ich sehr: FrauenKirche, GospelKirchenTag in Hannover, WikiWiki, TYPO3, Java
+* Frage: hab ich jetzt die DoppelteStaatsbuergerschaft?
+* teile ich mit MartinFowler: (übersetzt) "... Ich bin nun aber ein ziemlich fauler Mensch und immer bereit, hart zu arbeiten, um Arbeit zu vermeiden. ..."
+* meine Pflichten: VerFassung / Sektion Regierung: DoIt, ReDo
+** ToDo: hineinfinden / Orientierung
+* community: KabiNettChat
+
+!WikiWiki
+* [http://wiki.typo3.org/index.php/User:Patchworker|http://wiki.typo3.org/index.php/User:Patchworker]
+* [http://www.wikiservice.at/dse/wiki.cgi?DanielBrüßler|http://www.wikiservice.at/dse/wiki.cgi?DanielBr%fc%dfler]

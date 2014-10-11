@@ -1,0 +1,3 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Robert_Capa]
+* BirthDay: 10-22

@@ -1,0 +1,8 @@
+* IsA: DiStrict
+* InterWiki: [DeWikiPedia:Connewitz]
+* MindCount: 15000
+* BoundingBox: 2500
+* PartOf: StadtLeipzig
+
+MeMo
+* 2010-02-13: RainerWasserfuhr JeMand: BaaderMeinhofKomplexFilm BaumwollSpinnerei BlackboxBrd BrunoGanz ChristophWaltz DavidLynch EdelgardBulmahn EduardZimmermann EricRohmer FriedrichZimmermann FridaKahlo GoogleBuzz HansOlafHenkel HeideSimonis HerbertVonKarajan JfSchlinck KarlLehmann KlausKleinfeld KurtMasur LeSpace LockSchuppen ManuelaAmann MontagsDemo MindLego MischaWolf NeoRauch PeterSchneider RainerWasserfuhrHasTalked RudiCarrell SusiMueller ThomasKirche UmTs WesterWave WalterRiester WolfgangSchaeuble WolfgangTiefensee YadegarAsisi

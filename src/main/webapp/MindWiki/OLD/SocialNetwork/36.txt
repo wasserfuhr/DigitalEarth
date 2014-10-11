@@ -1,0 +1,27 @@
+* MindTags: MetaMatrix
+
+||Name           ||MindOne        ||User  ||Ads||Userpic ||API   ||FoAf||Newsfeed||StickyNess||ProfileVisits||WebOfTrust||https||OpenId
+|MySpace         |TomAnderson     |   300m|x   |x        |+      |     |        +|        +++|             ?|          -|     ?|-
+|FoAf*           |LibbyMiller     |   120m|-   |x        |+++    |+++  |        ?|          ?|             ?|          x|     ?|-
+|HiFive          |RamuYalamanchi  |   100m|x   |x        |+      |++   |        +|        +++|             ?|          -|     ?|-
+|FaceBook        |MarkZuckerberg  |    62m|x   |x        |+++    |+    |      +++|        +++|             -|          -|     -|-
+|ClassMates      |RandyConrads    |    40m|x   |x        |+      |     |        +|          +|             ?|          -|     ?|-
+|FlickEr         |StewartButterfield|  28m|-   |x        |++     |     |        -|         ++|             -|          -|     -|x
+|LinkedIn        |ReidHoffman     |    17m|x   |x        |+      |     |        -|          -|             -|          -|     x|-
+|LiveJournal     |BradFitzpatrick |    14m|x   |x        |++     |++   |        +|        +++|             ?|          +|     ?|-
+|XingLe          |LarsHinrichs    |     5m|x   |x        |not yet|     |       ++|        +++|             +|          -|     x|-
+|StudiVz         |?               |     4m|x   |x        |-      |     |        -|         ++|             +|          -|     ?|-
+|DelIcioUs       |JoshuaSchachter |     1m|x   |-        |x      |     |        x|          x|             -|          x|not yet|-
+|TwittEr         |BizStone        |   900k|-   |x        |x      |+    |        x|          x|             -|          x|     x|-
+|TribeNetworks   |MarkPincus      |  >500k|x   |x        |FoAf?  |     |        ?|          ?|             ?|          -|     ?|-
+|AhSmallWorld    |ErikWachtmeister|   230k|x   |x        |?      |     |        ?|          ?|             ?|          -|     ?|-
+|PeopleAggregator|MarcCanter      |   8414|x   |x        |-      |     |        -|          +|             -|          -|     ?|-
+|NooPolis        |RainerWasserfuhr|     35|-   |x        |++     |+++  |        -|          ?|             -|          x|not yet|bald
+
+*): we count FoAf as "meta" SocialNetwork which sums up the FoAf profiles of other SocialNetwork's.
+
+OpenStats.
+
+Kandidaten:
+* UndDuDe
+* MyCorners

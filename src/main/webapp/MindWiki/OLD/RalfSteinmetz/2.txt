@@ -1,0 +1,6 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Ralf_Steinmetz]
+* JahrGang: 1956
+* BirthDay: 07-31
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/RalfSteinmetz
+* HomePage: http://www.kom.tu-darmstadt.de/en/people/staff/ralf-steinmetz/

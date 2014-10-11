@@ -1,0 +1,23 @@
+"ImmerWieder" ist das wikibasierte Wiedervorlageprinzip des AgWiki:
+
+WikiSpec:
+||ImmerWieder      ||OrderedByShares||last   ||do      ||it
+|ImmerWiederTag    |RainerWasserfuhr|20070518|lese     |MindFeeds
+|ImmerWiederWoche  |RainerWasserfuhr|20070401|reviewe  |DoIt
+|ImmerWiederWoche  |RainerWasserfuhr|20070518|mache    |SocialBackup
+|ImmerWiederWoche  |RainerWasserfuhr|20070518|giesse   |MindGreen
+|ImmerWiederMonat  |RainerWasserfuhr|20070518|reviewe  |ImmerWieder
+|ImmerWiederMonat  |RainerWasserfuhr|20070518|duenge   |MindGreen
+|ImmerWiederMonat  |RainerWasserfuhr|20070508|mache    |UstVA
+|ImmerWiederWoche  |RainerWasserfuhr|20070501|reviewe  |UnserBudget
+|ImmerWiederMonat  |RainerWasserfuhr|        |downloade|KontoAuszuege 
+|ImmerWiederQuartal|RainerWasserfuhr|        |mache    |Lagebericht
+|ImmerWiederJahr   |RainerWasserfuhr|20070413|mache    |JahresAbschluss
+|ImmerWiederWoche  |DanielPoodratchi|        |lese     |MindFeeds
+|ImmerWiederWoche  |DanielPoodratchi|20070518|reviewe  |UnserBudget
+|ImmerWiederMonat  |DanielPoodratchi|        |mache    |SocialBackup
+|ImmerWiederWoche  |AndreasWeigel   |        |reviewe  |UnserBudget
+|ImmerWiederWoche  |YvonneSchubert  |        |lese     |MindFeeds
+|ImmerWiederMonat  |YvonneSchubert  |        |mache    |SocialBackup
+
+TagUndNacht: husch!

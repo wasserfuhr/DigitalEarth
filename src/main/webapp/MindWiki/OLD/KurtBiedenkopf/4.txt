@@ -1,0 +1,9 @@
+* IsA: ProFessor MinisTer
+* InterWiki: [DeWikiPedia:Kurt_Biedenkopf]
+* JahrGang: 1930
+* BirthDay: 01-28
+* ChildOf: WilhelmBiedenkopf
+* DbLp: http://dblp.uni-trier.de/rec/pid/64/7020
+* ViAf: http://viaf.org/viaf/24650581
+* MindFaves: IkEa
+* LandingPage: SingularSummerDresden

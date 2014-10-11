@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* InterWiki: [DeWikiPedia:Soultzbach-les-Bains]
+* PartOf: LaFrance

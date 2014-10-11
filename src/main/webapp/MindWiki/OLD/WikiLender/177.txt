@@ -1,0 +1,124 @@
+* InterWiki: [AgiriWiki:AGIRI_Events], [DdWiki:Stadtwiki:Veranstaltungen], [DeWikiPedia:Oktober_2008],
+ [OpenCog:Current_events] 
+
+The WikiBased Calendar of NooPolis.
+
+(Events in the WikiLender have a "When" and an optional "UnTil". Things which only have an "UnTil" can be found as DeadLine)
+||When        ||UnTil||      ||MindPlace    ||What                    ||MindPeople
+|20081124:1900|     |        |VereinshausJohannstadt|MontagsKreis     |KarstenWolf EtAl
+|20081124:2030|     |        |SeidenStrasse |PhilosophischesNachtcafe |SandyEisenloeffel, RainerWasserfuhr? EtAl
+|20081125:1500|     |        |InterimAmBruehl|SeminarWissen           |RainerWasserfuhr, HansGertGraebe EtAl
+|20081126:2000|     |        |DreiKoenigsKirche|RidiculousMan         |FriedrichWilhelmJunge,RainerWasserfuhr?
+|20081128:2000|     |        |TechnischeSammlungen|SchwarzUndWeiss    |RainerWasserfuhr?, JeMand? EtAl
+|20081201:1900|     |        |VereinshausJohannstadt|Montagskreis     |AndreasPoldrack, RainerWasserfuhr? EtAl
+|20081204:1900|     |        |PaulRackwitzBar|DresdnerOSMStammtisch   |RainerWasserfuhr?
+|20081205     |     |        |StadtDresden  |IntegralerSalon          |RainerWasserfuhr?
+|20081207:1200|     |        |GieslerGalerie|VorTrag                  |SiggiBecker, StefanZoellner? EtAl
+|20081211:1900|     |        |FrauenKirche  |AmazingSpace             |NorbertPailer,RainerWasserfuhr?
+|20081212     |     |        |StadtDresden  |WikiPedia für Senioren   |RainerWasserfuhr? EtAl
+|20081212:2130|     |        |StadtDresden  |RockTheTram              |SvenEchtermeyer, RainerWasserfuhr? EtAl
+|20090105:1900|     |        |VereinshausJohannstadt|MontagsKreis     |RainerWasserfuhr, AndreasPoldrack, EtAl
+|20090114:1500|     |        |StadtDresden  |ProbeAlarm               |
+|20090120     |     |        |Washington    |InAuguration             |BarackObama, JoeBiden
+|20090123     |     |        |HamBurg       |MicroBloggingConference  |CemBasman EtAl
+|20090124     |     |        |HamBurg       |MicroBloggingConference  |CemBasman EtAl
+|20090219:1111|     |        |AlterMarkt    |AlAaf                    |RainerWasserfuhr?
+|20090302     |     |        |CeBit         |Opening                  |AngelaMerkel, ArnoldSchwarzenegger?
+|20090306     |     |        |Arlington     |AGI09                    |BenGoertzel, BruceKlein
+|20090425     |     |        |Arlington     |BarCampDresden           |MartinFrindt, RainerWasserfuhr?
+|20090523     |     |        |ReichsTag     |MindOne-Wahl DeutschLand |HorstKoehler, AngelaMerkel, NorbertLammert, GesineSchwan?
+|20090607     |     |        |EurOpa        |Wahlen                   |BuergerInnen,CitiZens,CiudaDanos,CitoYens,Državljan
+|20091025     |     |        |OrlandoFl     |WikiSym                  |DirkRiehle?, RainerWasserfuhr? EtAl
+|20261113     |     |        |PlanetErde    |DoomsDay                 |HeinzVonFoerster EtAl
+
+everything else is on the FutureMap
+
+!Was War:
+||When        ||Until||      ||Where        ||What                    ||Who (OrderedByShares)
+|20081123:2000|     |        |PlanetariumHamburg|Lesung               |CemBasman EtAl
+|20081123     |     |        |HamBurg       |BarCamp                  |LarsHinrichs EtAl
+|20081122     |     |        |HamBurg       |BarCamp                  |AndreasDittes EtAl
+|20081121:2030|     |CANCELED|WirkZentrum   |DiaLog                   |RainerWasserfuhr, JeMand
+|20081120:2130|     |        |ArTeum        |DresdenOpenSpace-Chillout|JanBoehme, RainerWasserfuhr EtAl
+|20081120:2015|     |        |HausDesBuches |Lesung                   |UlrikeFolkerts, KatharinaSchnitzler
+|20081120:1930|     |        |TaschenBerg   |Lesung                   |DanielGoeudevert
+|20081120:0930|     |        |StadtDresden  |DresdenOpenSpace         |ThomasKoeplin, RainerWasserfuhr EtAl
+|20081119:1930|     |CANCELED|StadtDresden  |DiaLog                   |RainerWasserfuhr, JeMand
+|20081119     |     |        |RennbahnDresden|Rennen                  |EtAl
+|20081118:1900|     |        |SkyDresden    |DiaLog                   |RainerWasserfuhr, JeMand
+|20081118:1900|     |        |StadtDresden  |Lesung                   |ErikaRosenberg
+|20081118:1700|     |        |StadtDresden  |LagerFeuer               |RainerWasserfuhr, JeMand EtAl
+|20081117:2030|     |        |BusmannsBrazil|DiaLog                   |RainerWasserfuhr, JeMand
+|20081116:1400|     |        |MaxDresden    |DiaLog                   |RainerWasserfuhr, JeMand
+|20081116     |     |        |StadtDresden  |SchachOlympiade          |AlfredLiesecke
+|20081116:0100|     |        |BlauerSalon   |ThekenschlampenParty     |RainerWasserfuhr EtAl
+|20081115:2000|     |        |StadtDresden  |ProhibitionsParty        |EtAl
+|20081114:2100|     |        |KreuzKirche   |CrimeDinner              |
+|20081114:1900|     |        |KoenigsHof    |VorTrag                  |StanislawTillich,Holger Gehring EtAl
+|20081114:0900|     |        |EstrelConventionCenter|D21-Jahreskongress|GunterDueck, BastiHirsch, AnnetteSchavan, BerndBischoff
+|20081113:1930|     |        |BallhausWatzke|Meeting                  |RainerWasserfuhr, JeMand
+|20081113:1900|     |        |KoenigsHof    |CrimeDinner              |
+|20081113:1200|     |CANCELED|TzDresden     |Meeting                  |RainerWasserfuhr, JuergenKohn, AlfredLiesecke
+|20081112     |     |        |StadtDresden  |SchachOlympiade          |AlfredSchlya
+|20081110:2030|     |        |SeidenStrasse |PhilosophischesNachtcafe |KarstenWolf, RainerWasserfuhr EtAl
+|20081110:1900|     |        |VereinshausJohannstadt|SpiralDynamics   |AndreasPoldrack, RainerWasserfuhr EtAl
+|20081109:2100|     |        |CafeNeustadt  |Herzz: Nicosongs         |JeMand EtAl
+|20081108:2130|     |        |StadtDresden  |RockTheTram              |SvenEchtermeyer EtAl
+|20081108:1000|     |        |TuDresden     |LinuxInfoTag             |TobiasKoenig 
+|20081106:1900|     |        |TrattoriaLaPiazzetta|DresdenFutureGroupOne|RainerWasserfuhr EtAl
+|20081106:1900|     |        |PaulRackwitzBar|DresdnerOSMStammtisch   |
+|20081105:1930|     |        |BarcoLounge   |YouCan talk              |WilfriedIfland, SiggiBecker, TimBruysten
+|20081104:2015|     |        |HausHardenberg|Lesung                   |NealStephenson, ChristianHeller
+|20081104:1930|     |        |FeldschloesschenStammhaus|Lesung        |CarlosGebauer
+|20081104     |     |        |UnitedStates  |UsElection08             |BarackObama,JohnMcCain EtAl
+|20081101:2245|     |        |UciDresden    |BaaderMeinhofKomplexFilm |RainerWasserfuhr, JeMand
+|20081031     |     |        |StadtDresden  |Vortrag                  |GoetzWerner
+|20081031     |     |        |PanoMeter     |HopeGala-Aftershow       |
+|20081030     |     |        |StadtDresden  |CyNetArt                 |
+|20081028:2000|     |        |OmaOpa        |Plaudern                 |RainerWasserfuhr, JeMand
+|20081028:2000|     |        |ArenaLeipzig  |Konzert                  |PaulPotts EtAl
+|20081027:2030|     |        |SeidenStrasse |PhilosophischesNachtcafe |KarstenWolf, RainerWasserfuhr EtAl
+|20081027:1900|     |        |VereinshausJohannstadt|Montagskreis     |MichaelKlotsche EtAl
+|20081026     |     |        |ComputerHistoryMuseum|CogDev2008        |BenGoertzel, DaveHart, JoelPitt EtAl
+|20081025:1000|     |        |PlanetErde    |SingularCamp             |RainerWasserfuhr EtAl
+|20081025     |     |        |MontgomeryTheater|SingularitySummit     |RayKurzweil, PeterThiel EtAl
+|20081024:2130|     |        |StadtDresden  |RockTheTram              |SvenEchtermeyer EtAl
+|20081024:1900|     |        |RektoratsVilla|DiSug                    |PeterNeumann, HermannKokenge EtAl
+|20081024:1715|     |        |MetronomKino  |StadtDerBlindenFilm      |RainerWasserfuhr, JeMand
+|20081023:1630|     |        |KarStadtDd    |Meeting                  |RainerWasserfuhr, ChristineSchlinck, JfSchlinck
+|20081021:1030|     |        |StadtBerlin   |Brunch                   |MartinVarsavsky, LukaszGadowski EtAl
+|20081020:1930|     |        |SchwarzerBaer |WebMontag                |StephanSchambach
+|20081020:1200|     |        |StadtBerlin   |KalteFusion              |RainerWasserfuhr EtAl
+|20081019     |     |        |StadtBerlin   |BarCamp                  |RainerWasserfuhr?,JanBoehme
+|20081018     |     |        |RennbahnDresden|Rennen                  |RainerWasserfuhr? EtAl
+|20081018     |     |        |StadtBerlin   |BarCamp                  |RainerWasserfuhr?,JanBoehme
+|20081018:1900|     |        |KoenigsHof    |CrimeDinner              |
+|20081017     |     |        |StadtBerlin   |DnaDigital               |VivianPein EtAl
+|20081016     |     |        |TrattoriaLaPiazzetta|Buffet             |
+|20081015:2000|     |        |Cotta         |Plauderei                |RainerWasserfuhr, JeMand
+|20081015:1500|     |        |CoselPalais   |InvestierenInSachsen     |KerstinTrautmann, UlrichSack EtAl
+|20081013:2100|     |        |StarClub      |DresdenDolls             |AmandaPalmer,BrianViglione,JanBoehme 
+|20081013:2030|     |        |SeidenStrasse |PhilosophischesNachtcafe |TinoSchmidt EtAl
+|20081013:1900|     |        |VereinshausJohannstadt|ElbTaler         |NorbertRost, RainerWasserfuhr EtAl
+|20081012     |     |        |ReadingUniversity|LoebnerPrize          |HughLoebner,KevinWarwick
+|20081011:1600|     |        |StadtTeilHaus |Zeremonie                |JoPotter,MartinRoell
+|20081010:2100|     |CANCELED|OstraGehege   |KuensterBall             |
+|20081010:2100|     |        |ScheuneDresden|FutureMap-Plauderei      |RainerWasserfuhr, JeMand
+|20081010:2000|     |        |ColorLineArena|Konzert                  |UdoLindenberg,BjoernOgnibeni
+|20081010:1600|     |        |CafeTalisman  |MindEis                  |MartinRoell, RainerWasserfuhr
+|20081009:2000|     |CANCELED|AlterSchlachthof|Event                  |NorbertBluem, PeterSodann
+|20081009:1700|     |        |SchwarzMarktCafe|AsiMo-Käffchen trinken |RainerWasserfuhr, JeMand
+|20081008:2100|     |        |PotthoffBau   |ImmaParty                |
+|20081008:2030|     |CANCELED|OmaOpa        |Plaudern                 |RainerWasserfuhr, JeMand
+|20081008:1900|     |        |StadtDresden  |JugSaxony                |
+|20081008:1700|     |        |SchillerGarten|CrashKurs-Briefing       |RainerWasserfuhr, ChristineSchlinck
+|20081008:1500|     |        |StadtDresden  |ProbeAlarm               |
+|20081006:1900|     |        |SchillerGarten|Essen                    |ChristineSchlinck, CoSc, RainerWasserfuhr, YvonneSchubert, EtAl
+|20081005:1630|     |        |TheWestin     |Plaudere                 |RainerWasserfuhr, ChristineSchlinck EtAl
+|20081005:1330|     |        |RudolfHarbigStadion|FussBall            |RainerWasserfuhr, JeMand, SebastianPelzer
+|20081005:0100|     |        |KakaduBar     |Party                    |RainerWasserfuhr, EtAl
+|20081002     |     |        |StadtDresden  |GeNeMe                   |
+|20081001     |     |        |StadtDresden  |JeLia                    |SteffenHoelldobler,JeromeLang
+|20081001:1900|     |        |StadtDresden  |ElbTaler-Treffen         |NorbertRost?
+|20081001     |     |        |StadtDresden  |GeNeMe                   |RainerBernnat,MichaelUhlmann
+Former Events: WasWar.

@@ -1,0 +1,4 @@
+* InterWiki: [DeWikiPedia:Stockholm-Syndrom]
+* NamedAfter: StockHolm
+
+[WikiWikiWeb:CorporateStockholmSyndrome]

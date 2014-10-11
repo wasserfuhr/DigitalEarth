@@ -1,0 +1,4 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Umberto_Eco], [OpenCyc:UmbertoEco], [WebSeitz:UmbertoEco]
+* JahrGang: 1932
+* BirthDay: 01-05

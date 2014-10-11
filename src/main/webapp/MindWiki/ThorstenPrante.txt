@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/82/4446
+* HomePage: http://www.ipsi.fraunhofer.de/ambiente/profil/mitarbeiter/prante.html
+* PageNumber: 4
+* PagePath: LarryPage TerryWinograd NorbertStreitz RalfSteinmetz ThorstenPrante
+|[XingLe:Thorsten_Prante]

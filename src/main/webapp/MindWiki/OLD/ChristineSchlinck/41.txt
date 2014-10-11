@@ -1,0 +1,44 @@
+* MindTags: MinisTer
+* JahrGang: 1977
+* BirthDay: 07-01
+* WohnSitz: BergGarten 
+* SprachWelt: de, en-1
+* LebensErwartung: 2054
+* TraumZeitAlter: 2010
+* RufName: Tine
+* MindSkill: FlohWalzer, MindBau, FengShui
+* XingId: 3249104
+* MindFaves: ReneEgli, DanielCraig, FlickEr, PayBack, LisaGerrard, MartinBuber, JohannisFriedhof, VivaLaVida
+* LiebesRinge: RwCs,CsRb
+* FoAf: http://tine.intellihaus.de/foaf.rdf
+* MindTrust: RainerWasserfuhr, YvonneSchubert, DanielPoodratchi, AndreasWeigel, UteMoritz, HeikeRibke, IrisSchilke, SebastianMitter, StefanNitzsche, JfSchlinck
+* MindBlog: http://blog.intellihaus.de/
+* MamaZwoNull: SonjaSchlinck
+* PapaZwoNull: EduardSchlinck
+||AusLand
+|[SkyPe:schlinck]
+|[XingLe:Christine_Schlinck]
+|[TwittEr:tineroyal]
+|[FlickEr:lifecosmos]
+|[YouTube:tineroyal]
+|[DoppLr:tineroyal]
+|[WorldWideWeb:intellihaus.de]
+|[FaceBook:718970549]
+|[SecondLife:Clarisse_Schumann]
+|[DeWikiPediaUser:Christine_Schlinck]
+
+
+!InBox:
+Fragen von RainerWasserfuhr:
+* Welche LebensErwartung hat JfSchlinck?
+Ich hoffe eine sehr lange. An seinen Tod mag ich gar nicht denken. 
+* weitere MindFaves im MindWiki?
+* weitere Erinnerungen bei TotalRecall's?
+
+Fragen von HeikeRibke
+* Wie geht es Dir und Deinem Sohn
+Sehr gut, danke! Wir genießen diese Zeit in vollen Zügen. 
+* Wird Deine normale MailBox bald wieder soweit geleert sein, dass Du wieder IhMail empfangen kannst? 
+Ja, der RussenSpamStrom ist vor ein paar Wochen versiegt.
+* Hast Du schon erste Runden im DresdenZwinger mit dem Kleinen im KinderWagen gedreht?
+Im Zwinger nicht mehr seither, aber sonst überall... an der Elbe, PragerStrasse, BlauesWunder, Ikea, Tolkewitz, Neustadt. 

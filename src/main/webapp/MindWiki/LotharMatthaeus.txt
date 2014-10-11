@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Lothar_Matthäus]
+* BirthPlace: ErLangen
+* BornIn: 1961
+* BirthDay: 03-21

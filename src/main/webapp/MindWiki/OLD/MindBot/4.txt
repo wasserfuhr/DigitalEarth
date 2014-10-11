@@ -1,0 +1,13 @@
+Bald: Eine WebApp, die automatisch TwittEr't und das Wiki editiert, wenn bestimmte EreignisFenster-Trigger im PerformancePanorama feuern.
+
+DoIt für den MindBot:
+* lege VorName und NachName an
+* editiere BuergerInnen
+* überweise BegruessungsGeld
+* editiere #Nutzer bei SocialNetwork
+* TwittEr'e neue Nutzer und Änderungen an der VerFassung.
+
+Wer wagt 2010 den TuringTest mit dem MindBot?
+
+||AusLand
+|[TwittEr:mindbroker]

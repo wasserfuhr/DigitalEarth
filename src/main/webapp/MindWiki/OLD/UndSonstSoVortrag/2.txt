@@ -1,0 +1,9 @@
+VorTrag von RainerWasserfuhr bei UndSonstSo
+
+* ZukunftsForschung
+* MooresLaw
+* CalculationsPerSecondPerDollar
+* MagneticDataStoragePerBytesPerDollar
+* InternetDataTrafficBytesPerYear
+* RandomAccessMemoryPerBitPerDollar
+* ExponentialKurve

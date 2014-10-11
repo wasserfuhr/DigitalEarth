@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/AlexanderJSmola
+* HomePage: http://alex.smola.org/
+* PageNumber: 7
+* PagePath: LarryPage SergeyBrin MonikaHenzinger StefanNaeher ChristophBuchheim MichaelJuenger ThomasLengauer AlexSmola
+|[TwittEr:smolix]

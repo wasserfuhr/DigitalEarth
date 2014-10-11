@@ -1,0 +1,38 @@
+||WesterWave                  ||LangDe:
+|Awebarky                     |WolfgangSchaeuble
+|Bakeman                      |ReinholdBeckmann
+|Backtoppler                  |RonaldPofalla
+|Bathing-Wouldwellmountain    |BadenWuerttemberg
+|Beeper                       |CorneliaPieper
+|Byciclist                    |Radler
+|Bnozzle                      |Brüssel
+|Bunchagency                  |Arbeitsagentur
+|Charlesbequiet               |KarlsRuhe
+|Corniere                     |ThomasDeMaiziere
+|Crynight                     |Weihnacht
+|Dearservant                  |ChristineLieberknecht
+|Doorwrestling                |Thüringen
+|From the Loan                |UrsulaVonDerLeyen
+|Godjoker                     |
+|Goodmountain                 |KarlTheodorZuGuttenberg
+|Heford                       |ErFurt
+|Littlebrother                |RainerBruederle
+|Lowlands                     |NederLands
+|Mary-Ann Rosemountain        |MarianneRosenberg
+|Mary Fordcheekly             |MariaFurtwaengler
+|OctoOuch                     |Krakau
+|Ogey                         |Opel?
+|Peoplehouses-Vibratemountains|SabineLeutheusserSchnarrenberger
+|Pier Thieckman               |KaiDiekmann
+|Pilingsour                   |PeterRamsauer
+|Remindel                     |AngelaMerkel
+|Seafarmer                    |HorstSeehofer
+|Stonebridge                  |PeerSteinbrueck
+|Stonecreek                   |PeerSteinbrueck
+|Stonemeier                   |FrankWalterSteinmeier
+|Teazoomed                    |Teheran
+|Thefountain                  |OskarLafontaine
+|Thisbadg                     |
+|Waslook                      |Warschau
+|Withtyre Byenouch            |KonradAdenauer
+|Withsleephibble              |

@@ -1,0 +1,14 @@
+* MindTags: MindEvent
+
+BarCamp in the StadtBerlin.
+
+CitiZens:
+* JanBoehme
+* PierreKerchner
+* OliverBerger
+* StefanNitzsche
+* TinaPickhardt
+
+Interesting MindPeople:
+* BjoernOgnibeni, ChristianHeller, FalkLueke, GernotPoetsch, MagdalenaBoettger, MarkusBeckedahl, MartinKoser, PhilVonSassen
+EtAt

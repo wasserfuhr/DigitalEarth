@@ -1,0 +1,4 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Hans-Jörg_Bullinger]
+* BirthDay: 04-13
+* DbLp: http://dblp.uni-trier.de/rec/pid/94/362

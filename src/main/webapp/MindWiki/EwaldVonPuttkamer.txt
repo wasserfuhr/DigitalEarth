@@ -1,0 +1,4 @@
+* MindTags: ProFessor
+* JahrGang: 1936
+* HomePage: http://ag-vp-www.informatik.uni-kl.de/Leute/vP/vP.html
+* MindSkill: RobOt

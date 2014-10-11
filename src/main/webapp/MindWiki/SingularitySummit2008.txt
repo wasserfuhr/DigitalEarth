@@ -1,0 +1,29 @@
+* IsA: MindEvent
+* HashTag: ss08
+* PartOf: SingularitySummit
+* MindPlace: MontgomeryTheater
+
+Spannend: SingularityUniversity, PhysicalComputing, VernorVinge
+
+Speaker:
+* RuzenaBajcsy
+* EricBaum
+* MarshallBrain
+* CynthiaBreazeal
+* PeterDiamandis
+* EstherDyson
+* PeteEstep
+* NeilGershenfeld
+* BenGoertzel
+* JohnHorgan
+* RayKurzweil
+* JamesMiller
+* MarvinMinsky
+* DharmendraModha
+* BobPisani
+* JustinRattner
+* NovaSpivack
+* PeterThiel
+* VernorVinge
+* EliezerYudkowsky
+* GlennZorpette

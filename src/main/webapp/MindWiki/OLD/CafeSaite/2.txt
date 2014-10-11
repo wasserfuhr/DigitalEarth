@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* HomePage: http://www.cafe-saite.de/
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.076276&lon=13.747329&zoom=18&layers=B000FTT ToDo
+
+Ein MindPlace für ExCel'lente MindMusic.

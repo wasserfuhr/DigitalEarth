@@ -1,0 +1,18 @@
+ZuKunft ist ComPlex:
+* MoegLich'e ZuKuenfte
+* Denkbare ZuKuenfte
+* WahrSchein'liche ZuKuenfte
+* WuenschBar'e ZuKuenfte
+* GePlan'te ZuKuenfte: WikiLender, RoadMap
+* VerGangen'e ZuKuenfte
+* GegenWart
+
+||Teilmenge von||MoegLich||DenkBar ||WahrSchein||WuenschBar||GePlant||VerGangen
+||MoegLich     |x        |-        |-          |-          |-       |?
+||DenkBar      |x 1)     |x        |-          |-          |-       |?
+||WahrSchein   |x        |-        |x          |?          |-       |?
+||WuenschBar   |-        |-        |-          |x          |-       |?
+||GePlant      |-        |-        |?          |?          |x       |?
+||VerGangen    |-        |-        |-          |-          |-       |x
+
+* 1) unter der Prämisse einer fehlerfreien VerNunft

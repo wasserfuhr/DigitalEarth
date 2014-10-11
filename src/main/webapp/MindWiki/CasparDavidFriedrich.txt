@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Caspar_David_Friedrich]
+* Born: 1774
+* BirthDay: 09-05
+* DiedIn: 1840

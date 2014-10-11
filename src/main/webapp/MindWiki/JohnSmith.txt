@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/96/3481
+* PageNumber: 3
+* PagePath: LarryPage TerryWinograd NorbertStreitz JohnSmith
+* TurkNumber: 2
+* TurkPath: ZigaTurk PeterLinde JohnSmith

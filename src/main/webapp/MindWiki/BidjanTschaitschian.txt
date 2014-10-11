@@ -1,0 +1,7 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/96/4693
+* PageNumber: 5
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker BidjanTschaitschian
+|[XingLe:Bidjan_Tschaitschian]
+
+DfKi

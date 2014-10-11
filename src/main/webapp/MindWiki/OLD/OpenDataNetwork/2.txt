@@ -1,0 +1,6 @@
+* IsA: VerEin
+* HomePage: http://opendata-network.org/
+* MindOne: DanielDietrich
+* MitWirkende: MarkusBeckedahl
+
+OpenData OpenGov

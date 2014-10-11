@@ -1,0 +1,50 @@
+Satzung:
+* Alle aktuellen Unterzeichner dieses Vertrages bilden die Gesellschaft bürgerlichen Rechts „VEB mindbroker GbR“ gemäß BGB (BGB 705)
+* Der Gesellschaftsvertrag besteht aus der Satzung und sonstigen Regeln
+* Der Zweck der GbR ist es, Profit zu machen und diesen an aktuelle Mitgesellschafter auszuschütten. 
+* Geschäftsinhalt ist der Verkauf von Dienstleistungen.
+* Jeder Gesellschafter kann eine oder mehrere der folgenden Funktionen erfüllen:
+** Investor.
+** Dienstleister.
+** Bezieher von UnterHalt.
+* Jeder Gesellschafter kann seine Dienste der Gesellschaft gegen KayGroschen zum Kauf anbieten. Erbrachte Leistungen werden gemäß einem vorher festzulegenden Wirksatz als KayGroschen seinem Konto gutgeschrieben.
+* Einnahmen aus dem Mindbroker Shop fliessen entsprechend der Anteile der KayGroschen ebenfalls am Jahresende durch Überweisung an die Gesellschafter.
+* Gesellschafter führen ein Konto mit KayGroschen.
+* Änderungen bei KayGroschen werden im MindFloor protokolliert.
+* Die BuchHaltung merkt sich jede EinNahme und AusGabe.
+* Die Ausschüttung der Erlöse aus erbrachten Diensten erfolgt jeweils am Jahresende durch Überweisung an ein Bankkonto des Gesellschafters.
+* Jeder Gesellschafter versteuert seine Einnahmen selbst im Rahmen seiner jährlichen Einkommenssteuererklärung
+* Alle Regeln im Spiel sind veränderbar. Jeder Gesellschafter kann einen Antrag auf 
+* Keine Regeländerung gilt rückwirkend.
+* Änderungen der Satzung erfordern die Zustimmung aller Gesellschafter mit mehr als 1000 KayGroschen.
+* Regeländerungen gelten als von allen Gesellschaftern angenommen, wenn kein anderer Gesellschafter der Änderung binnen Veto-Frist durch editieren im Wiki widerspricht.
+* Die Veto-Frist beträgt 3 Tage. Falls ein Gesellschafter länger abwesend ist, kann er die Frist während der Abwesenheit auf 14 Tage erhöhen.
+* Bei Meinungsverschiedenheiten kommt es zu einem MindVote unter allen Mitspielern. Es entscheidet dabei die einfache Mehrheit der KayGroschen.
+* Jeder Gesellschafter kann auf seiner Seite im AgWiki einen Abgeordneten für seinen MindVote festlegen. Der Abgeordnete kann bei Abstimmungen mit den Stimmanteilen des Gesellschafters abstimmen.
+* Jeder Spieler hat das Recht, jederzeit aus dem Spiel auszusteigen. Der Ausstieg gilt als vollzogen, wenn der Ausstieg im Wiki editiert wurde.
+* Die Urversion des Vertrags ist das SocialBackup des AgWiki 20070719 mit MD5-Sum acc20cb175455be04a7b3afb7b4a6579.
+* Die UrGesellschafter unterzeichnen einen Ausdruck dieser Wikiseite mit ihrem Schweiss und Blut.
+* Dies wird das letzte und einzige Dokument der Gesellschaft auf Papier sein.
+
+Sonstige Regeln:
+* Die Gesellschafter streben einen Unternehmenswert von 100kEUR für den 1.8.2008 an.
+
+
+Unterzeichner: RainerWasserfuhr, YvonneSchubert
+
+UrGesellschafter: RainerWasserfuhr, YvonneSchubert.
+
+Philosophie des Vertrags:
+* Der Vetrag ist ein NoMic-Spiel mit echtem Kapital
+* KayGroschen sollen widerspiegeln, in wieweit Gesellschafter 
+** Arbeitsleistung
+** Kapital (Einlagen und Entnahmen)
+eingebracht haben.
+* Der VerTrag soll so einfach wie möglich sein
+* Wenn allgemeine gesetzliche Vorgaben existieren, sollten sie nicht im VerTrag wiederholt werden
+* Der VEB mindbroker GbR ist SelbstOrganisation in Reinkultur.
+
+Zu diskutierende Fragen: 
+* Warum nicht EUR? KayGroschen verwirren und erschweren die Kommunikation nach außen.
+* Wenn einer viel Geld einbringt und ein anderer keines, profitiert derjenige, der nichts tut, überproportional. Es müsste jedoch der am meisten profitieren, der am meisten tut.
+* Egal wie die Regeln gestrickt sind: Durch die Anteilsmehrheit von RainerWasserfuhr wäre er zur Zeit der alleinige Bestimmer. Warum sollten sich freie Menschen in ein solches Vertragsverhältnis begeben?

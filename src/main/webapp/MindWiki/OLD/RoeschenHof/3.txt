@@ -1,0 +1,9 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0688
+* LaengenGrad: 13.7161
+* BoundingBox: 35
+* HomePage: http://www.roeschenhof.com/
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.068304&lon=13.72003&zoom=18&layers=B000FTTT ToDo
+
+http://www.roeschenhof.com/files/ACdkXYle.jpg
+http://www.roeschenhof.com/files/mMVxEzug.jpg

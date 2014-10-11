@@ -1,0 +1,4 @@
+Nicht KlarTraum, sondern Abkürzung für __Car__tesischer __raum__ (x, y und z) plus __t__-Achse.
+
+Also das klassische physikalistische WorldModel, wie es EdmundHusserl und MartinHeidegger
+auseinandergenommen haben.

@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Michelle_Hunziker]
+* BornIn: 1977
+* BirthDay: 01-24

@@ -1,0 +1,8 @@
+* IsA: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Christiane_zu_Salm]
+* ViAf: http://viaf.org/viaf/18096049
+* ChildOf: VolkerHansen
+* BirthPlace: StadtMainz
+* BornIn: 1966
+* BirthDay: 10-02
+* WorkedFor: HubertBurdaMedia

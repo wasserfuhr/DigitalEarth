@@ -1,0 +1,3 @@
+* IsA: WortStamm
+* EtymoLogia: amb- (“‘around’”) +‎ eō (“‘go’”)
+* EtymoLogiaSource: http://en.wiktionary.org/wiki/ambio#Latin

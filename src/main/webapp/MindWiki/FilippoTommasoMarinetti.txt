@@ -1,0 +1,5 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Filippo_Tommaso_Marinetti]
+* BornIn: 1876
+* BirthDay: 12-22
+* DiedIn: 1944

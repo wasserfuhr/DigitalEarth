@@ -1,0 +1,146 @@
+; NooMic is NoMic with SourceCode - InSpir'ed by PerlNomic
+;{{{
+(let
+ [
+  hConf (new org.apache.hadoop.hbase.HBaseConfiguration)
+  hBase (new org.apache.hadoop.hbase.client.HBaseAdmin hConf)
+  tableDesc (new org.apache.hadoop.hbase.HTableDescriptor "ChatLog")
+ ]
+(if (.startsWith (.getPathInfo request) "/do/base/new")
+ (do
+   (.addFamily 
+     tableDesc
+     (new org.apache.hadoop.hbase.HColumnDescriptor 
+       (str (.getParameter request "family") ":")))
+   (.createTable hBase tableDesc)
+   (.sendRedirect response (str "/base?message=created&" (.getParameter request "table")))
+ )
+ (str
+  ; only call this for one request:
+  "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
+    \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r"
+  "<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">
+    <head>
+      <title>NooPolis - Building Utopia from the sources</title>
+      <link href='http://id.mindbroker.de/css/layout_vertical_listnav.css' rel='stylesheet' type='text/css'/>
+    </head>
+    <body>
+     <div id='page_margins'>
+      <div id='page'>
+       <div id='header'>
+        <h1>NooPolis</h1>
+       </div>
+       <div id='nav'>
+ 	<a id='navigation' name='navigation'></a>
+	<div id='nav_main'>
+  	  <ul>
+	   <li id='current'><a href='/'>Home</a></li>
+	   <li ><a href='/base'>Base</a></li>
+    	   <li ><a href='/board'>Board</a></li>
+    	  </ul>
+        </div>
+       </div>
+       <div id='main'>
+        <div id='col3'>
+         <p>NooPolis is like WikiPedia, but additionally you can edit the source code
+           of our MindWiki WebApp. To do so, you have to gain the VerTrauen of existing
+           <a href='http://mindbroker.de/wiki/CitiZens'>CitiZens</a>.
+         </p>
+         <div>
+         <h3>What are you thinking?:</h3>
+         <form action='/'>
+          <div>
+           <textarea name='text' rows='5' cols='40'>" (str (.getParameter request "text") ) "
+           </textarea><input type='submit' value='Think!'/>
+          </div>
+          </form>
+         </div>"
+       (if
+         (.getParameter request "text")
+         (let
+             [batch (new org.apache.hadoop.hbase.io.BatchUpdate (.toString (new java.util.Date)))]
+             (do
+               (.put batch
+                "log:date"
+                 (.getBytes (.getParameter request "text")))
+               (.commit
+                 (new org.apache.hadoop.hbase.client.HTable hConf "ChatLog")
+                 batch)))
+       )
+       (if
+         (.startsWith (.getPathInfo request) "/board")
+       	 (str 
+       	  "<table>"
+ 	  (apply str 
+	   (map
+	     (fn  [x]
+	       (str
+	         "<tr>"
+	         (apply str (map (fn [y] (str "<td>20" x y "</td>")) (range 10)))
+                 "</tr>")) 
+	     (range 10)))
+	  "</table>")
+       )
+       (if
+         (.startsWith (.getPathInfo request) "/base")
+         (if (.startsWith (.getPathInfo request) "/base/")
+          (if (.startsWith (.getPathInfo request) "/base/new")
+           (str
+                "<h2>New Table:</h2>"
+                "<form action='/do/base/new'>"
+                "Name: <input/><br/>"
+                "Family: <input/><br/>"
+                "Family: <input type='submit'/><br/>"
+                "</form>"
+           )
+           (let
+             [pageName (.substring (.getPathInfo request) (.length "/base/"))]
+             (str
+                "<h2>Table: " pageName "</h2>"
+                ((defn scanZ [zz]
+                  (let [next (.next zz)]
+                   (if next
+                    (str
+                     "<li>" (new java.util.Date (.getTimestamp (.get next "log:date"))) "-"
+                            (new String (.getValue (.get next "log:date"))) "</li>" 
+                     (scanZ zz))
+                   )
+                  )
+                 )
+                 (.getScanner
+                   (new org.apache.hadoop.hbase.client.HTable hConf pageName) 
+                   (into-array ["log:"]))
+                )
+             )
+           )
+          )
+          (str
+            "<h2>Tables</h2>"
+            (apply str 
+             (map
+              (fn [x]
+                (str
+                 "<a href='/base/" (.getNameAsString x) "'>" (.getNameAsString x) "</a> "
+                ))
+              (.listTables hBase))
+            )
+         )
+         )
+       )
+   "      </div>
+        </div>
+        <div id='footer'>
+	  <a href='http://mindbroker.de/wiki/NooMic?skin=raw'>ViewSource</a> 
+	  <sup><a href='http://mindbroker.de/wiki/ViewSource'
+	          title='what is ViewSource?'>?</a></sup>
+	  - Layout based on <a href='http://www.yaml.de/'>YAML</a>.
+	  Memory: " (.totalMemory (Runtime/getRuntime)) "
+	</div>
+       </div>
+      </div>
+    </body>\r"
+  "</html>"
+ )
+)
+)
+;}}}

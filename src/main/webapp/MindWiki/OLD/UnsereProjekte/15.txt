@@ -1,0 +1,35 @@
+||Status||Phase ||AgWiki        ||svn     ||Abweichende Domain
+|LIVE|Alpha     |UnserGrid      |grid     |
+|LIVE|ClosedBeta|IntraBroker    |mindpaths|intrabroker.com
+|LIVE|ProtoTyp  |GeoMindBroker  |geo      |
+|LIVE|Alpha     |DoIt           |doit     |
+|LIVE|ProtoTyp  |MindBrokerId   |id       |
+|LIVE|ProtoTyp  |MindFloor      |floor    |
+|    |ProtoTyp  |MindBrokerCore |core     |
+|    |ProtoTyp  |MindHome       |home     |
+|    |ProtoTyp  |SportPortal    |spot     |sport.mindbroker.de
+|    |ProtoTyp  |SemanticMind   |semantic |
+|    |AgWiki    |MindBrokerSalon|         |
+|    |WikiSpec  |MindFutures    |futures  |
+|    |WikiSpec  |MindBrokerShop |shop     |
+|    |AgWiki    |DesignArtAndClothes|     |
+|    |VISION    |WyrdMind       |         |
+|    |FINISHED  |WikiTchen      |         |wikitchen.de
+|    |FINISHED  |MindPicNic     |         |
+
+Projektphasen:
+* AgWiki: Erste Ideen als textuelle Beschreibung des Projektes
+* WikiSpec
+* Skelett: MavenPom und erste Hibernate-Klassen des DomainModel
+* ProtoTyp
+* Alpha
+* ClosedBeta
+* PublicBeta
+* 1.0
+* 1.1
+* ...
+* 2.0
+* 2.1
+* ff
+
+Weitere Projekte bei der MindBrokerKg.

@@ -1,0 +1,3 @@
+* IsA: MindStreet
+* ConnectsTo: SachsenAllee GerokStrasse TrinitatisPlatz FetscherStrasse
+* NamedAfter: BlaseWitz

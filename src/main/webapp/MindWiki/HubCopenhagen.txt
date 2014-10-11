@@ -1,0 +1,4 @@
+* IsA: CoWorkingSpace
+* HomePage: http://copenhagen.the-hub.net/public/
+* PartOf: TheHub CopenHagen
+|[TwittEr:HubCopenhagen]

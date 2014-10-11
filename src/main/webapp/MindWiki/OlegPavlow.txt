@@ -1,0 +1,5 @@
+* IsA: AssociateProfessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/71/5291
+* HomePage: http://users.wpi.edu/~opavlov/
+* PageNumber: 9
+* PagePath: LarryPage SergeyBrin MonikaHenzinger KurtMehlhorn FriedhelmMeyerAufDerHeide WolfgangStrasser ThomasKern VijayGurbaxani NigelMelville OlegPavlow

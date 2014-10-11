@@ -1,0 +1,7 @@
+RainerWasserfuhr
+* schreibe ProjektPlan
+* schreibe AlphaTester
+* schreibe BetaTester
+* schreibe ContinuousIntegration
+* ziehe den DemoServer auf Port 80 um
+* refactore Messages und Contacts in Mindbroker core.

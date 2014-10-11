@@ -1,0 +1,5 @@
+* HomePage: http://www.openifctools.org/
+* MindOne: EikeTauscher
+* MitWirkende: JanTulke MichaelTheiler ThomasRiedel
+
+OpenEverything: Open BuildingModel via IndustryFoundationClasses

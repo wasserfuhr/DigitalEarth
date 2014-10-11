@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Bielefeld],[WikiPedia:Bielefeld]
+* BreitenGrad: 52.0167
+* LaengenGrad: 8.517
+* BoundingBox: 10000
+* MindCount: 300000

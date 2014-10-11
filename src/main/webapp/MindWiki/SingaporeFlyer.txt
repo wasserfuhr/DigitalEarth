@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Singapore_Flyer]
+* OpenStreetMap: http://www.openstreetmap.org/?lat=1.289444&lon=103.863056&zoom=18&layers=B000FTT ToDo

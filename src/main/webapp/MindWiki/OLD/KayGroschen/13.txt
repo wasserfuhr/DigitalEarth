@@ -1,0 +1,8 @@
+KayGroschen ist die Währung in der VirtuelleOekonomie von NooPolis.
+
+Gewidmet:
+* AlanKay
+* [DeWikiPedia:Groschen]
+
+Erste Prägung 20070422:1100 im Mind von RainerWasserfuhr.
+Die PieschenBank verwaltet die KayGroschen.

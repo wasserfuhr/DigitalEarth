@@ -1,0 +1,11 @@
+* MindTags: WikiMind, UnternehmensGruender
+* InterWiki: [WebSeitz:JoiIto], [WikiPedia:Joi_Ito]
+* JahrGang: 1966
+* BirthDay: 06-19
+* SprachWelt: en, ja
+* MindSkill: VentureCapital, WarCraft, CreativeCommons
+||AusLand
+|[WorldWideWeb:joi.ito.com]
+|[TwittEr:Joi]
+|[FlickEr:joi]
+|[DelIcioUs:joi_ito]

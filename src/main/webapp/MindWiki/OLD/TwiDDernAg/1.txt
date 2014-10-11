@@ -1,0 +1,6 @@
+* IsA: EnterPrise
+* MindOne: AlexanderFriedland
+* MindShares: 1000
+
+||Shares||ShareHolder
+|1000|AlexanderFriedland

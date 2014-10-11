@@ -1,0 +1,27 @@
+A ZIP-ComPression of the MindWiki-ConTent as JspWiki-Textfiles: http://mindbroker.de/mind.zip
+
+!RePort: BackUp Size
+||TimeLine||Size
+|2010-02-07|29267625
+|2009-05-30|22555119
+|2008-11-15|15787158
+|2008-09-22|13665204
+|2008-09-10|13229135
+|2008-07-15|12304708
+|2008-05-30|11752843
+|2008-04-29|11608318
+|2008-03-21|11166129
+|2008-02-21|10381012
+|2008-01-29|9869621
+|2007-12-28|8733347
+|2007-12-09|7993127
+|2007-11-01|6960815
+|2007-09-03|4914535
+|2007-07-19|4039298
+
+The admin of the SocialGrid creates it RePeat'edly:
+{{{
+zip -rq apache-tomcat-6.0.14/webapps/ROOT/mind.zip wiki wiki-files
+md5sum apache-tomcat-6.0.14/webapps/ROOT/mind.zip
+ls -l apache-tomcat-6.0.14/webapps/ROOT/mind.zip 
+}}}

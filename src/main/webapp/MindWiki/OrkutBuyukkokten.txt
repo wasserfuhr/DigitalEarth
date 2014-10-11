@@ -1,0 +1,12 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Orkut_Büyükkökten]
+* JahrGang: 1975
+* BirthDay: 02-06
+* DbLp: http://dblp.uni-trier.de/rec/pid/10/2081
+* HomePage: http://www.stanford.edu/~orkut/
+* PageNumber: 2
+* PagePath: LarryPage HectorGarciaMolina OrkutBuyukkokten
+|[TwittEr:orkut]
+|[FaceBook:207692]
+
+GoogleInc

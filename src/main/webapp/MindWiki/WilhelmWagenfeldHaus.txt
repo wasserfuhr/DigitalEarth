@@ -1,0 +1,4 @@
+* IsA: MindBuilding
+* NamedAfter: WilhelmWagenfeld
+* PartOf: AmWall
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/25004232

@@ -1,0 +1,11 @@
+RainerWasserfuhr garantiert, dass es sich mit bei jedem seiner direkten FaceBook-KonTakt'e seit 15.10.2007 01:45 MESZ um echte und eindeutige Personen im Sinne einer MindId (WerdeMindBroker) handelt. 
+
+Ausnahmen: 
+* Mit der einzigen Ausnahme NegomirDamirNegic sind auch alle PerSon'en mit RealName geführt.
+* Ritchie Blogfried Pettauer hat einen Künstler-Zweitnamen
+* einen VolkerGraubaum gibt es doppelt.
+* "Daniele P" hat einen unvollständigen Nachnamen
+* Sparacello Henry-Marc hat VorName und Nachname vertauscht
+
+Diese Garantie kann für die weitere ZuKunft allerdings nur unter Einschränkung gegeben werden, da FaceBook weder nicht über eine hinreichend TransParent'e OpenInfrastructure noch über SocialPassword's verfügt.
+Ganz zu schweigen von unzureichender HttPs-Verschlüsselung oder der BeTeiliGung durch MicroSoft.

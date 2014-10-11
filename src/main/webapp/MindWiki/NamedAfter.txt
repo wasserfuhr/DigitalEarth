@@ -1,0 +1,2 @@
+* IsA: MindProps
+* DeFine: MindProps of a NamedEntity in the MindWiki indicating that it was NamedAfter another NamedEntity

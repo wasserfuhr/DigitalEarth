@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* BreitenGrad: 32.6436
+* LaengenGrad: -16.9215
+* BoundingBox: 50
+* http://www.reidspalace.com/
+
+fine for tea time.

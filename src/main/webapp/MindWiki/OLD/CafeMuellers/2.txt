@@ -1,0 +1,6 @@
+* IsA: MindPlace
+* HomePage: http://www.cafe-muellers.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/251384929
+
+MeMo:
+* 20101020:22: RainerWasserfuhr RalfLippold ThomasKujawa JanaSchlegel MartinGaedke EtAl: WikiWall HansGertGraebe LockOffice SemanticWeb WolfgangWahlster KlausMadlener PeterSenge PageNumber DbLp DresdenExists SylterRunde

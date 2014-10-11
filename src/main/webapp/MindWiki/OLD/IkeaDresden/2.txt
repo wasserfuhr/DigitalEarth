@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.086502
+* LaengenGrad: 13.695082
+* BoundingBox: 300
+* SlimNess: 0.6
+* GraDient: 80
+* HomePage: http://www.ikea.com/de/de/store/dresden/storeInfo

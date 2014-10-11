@@ -1,0 +1,3 @@
+* IstEin: StadtWiki
+* HomePage: http://dresden.stadtwiki.de/wiki/Hauptseite
+* MitWirkende: IrisSchilke, MatthiasErfurth, RainerWasserfuhr, MichaelWinkler EtAl

@@ -1,0 +1,6 @@
+A LifePattern InVent'ed at MotorOla:
+
+# Was war gut?
+# Was war schlecht?
+# Was habe ich gelernt?
+# NextAction's?

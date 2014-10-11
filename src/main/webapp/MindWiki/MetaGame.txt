@@ -1,0 +1,1 @@
+make all VirtualGood's, currencies and points of BrowserGame's mutually tradeable.

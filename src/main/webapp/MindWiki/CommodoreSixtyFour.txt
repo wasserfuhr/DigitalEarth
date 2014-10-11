@@ -1,0 +1,5 @@
+* InterWiki: [DeWikiPedia:Commodore_64], [WikiWikiWeb:CommodoreSixtyFour]
+* MindQuote: "28911 BASIC BYTES FREE"
+
+Der erste Computer von RainerWasserfuhr.
+Doch auch damals schon diktierte MooresLaw die Geschwindigkeit der ZuKunft und so kam bald schon ein __AtariSt__.

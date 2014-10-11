@@ -1,0 +1,6 @@
+* MindTags: MindEvent
+* MindPlace: SchillerGarten
+* GastGeber: AndreasPoldrack
+* WikiLender: 20090330:1930
+
+TeilNehmer: RainerWasserfuhr

@@ -1,0 +1,21 @@
+||Name           ||MindOne        ||Nutzer||Werbung||Userfoto||API   ||Newsfeed||StickyNess||ProfileVisits||WebOfTrust||https
+|MySpace         |TomAnderson     |   180m|x       |x        |+      |        +|        +++|             ?|          -|     ?
+|FaceBook        |MarkZuckerberg  |    35m|x       |x        |+++    |      +++|        +++|             -|          -|     -
+|LinkedIn        |ReidHoffman     |    13m|x       |-        |+      |        -|          -|             -|          -|     x
+|XingLe          |LarsHinrichs    |     2m|-       |x        |not yet|        -|          +|             +|          -|     x
+|TribeNetworks   |MarkPincus      |  >500k|x       |x        |?      |        ?|          ?|             ?|          -|     ?
+|AhSmallWorld    |ErikWachtmeister|   230k|x       |?        |?      |        ?|          ?|             ?|          x|     ?
+|PeopleAggregator|MarcCanter      |   6726|x       |x        |-      |        -|          +|             -|          -|     ?
+|NooPolis        |RainerWasserfuhr|     17|-       |-        |x      |        -|          ?|             -|          x|not yet
+
+MetaMatrix.
+
+OpenStats.
+
+Kandidaten:
+* TwittEr
+* DelIcioUs
+* UndDuDe
+* MyCorners
+* InterWiki
+* FavIcon

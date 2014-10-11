@@ -1,0 +1,7 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/88/3808
+* HomePage. http://www.dfki.de/~profi/
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann FranzBaader HansJuergenProfitlich
+
+DfKi

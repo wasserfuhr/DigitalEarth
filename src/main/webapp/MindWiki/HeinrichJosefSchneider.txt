@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* JahrGang: 1826
+* BirthDay: 03-15
+* MamaZwoNull: MariaElisabethHerchenbach
+* PapaZwoNull: JohannWilhelmSchneider
+* SchneiderMuch: 8

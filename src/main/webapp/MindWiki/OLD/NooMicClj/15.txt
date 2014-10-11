@@ -1,0 +1,143 @@
+; NooMic is NoMic with SourceCode for new NooPolis WebApp's - InSpir'ed by PerlNomic
+;{{{
+
+(defn noomic [request response]
+  (str "<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
+    \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">
+ <head>
+  <meta http-equiv='Content-Type' content='text/html;charset=utf-8'/>
+  <title>NooPolis - the futuristic MicroNation on the InterNet</title>
+  <link href='http://static.mindbroker.de/css/layout_vertical_listnav.css' rel='stylesheet' type='text/css'/>
+  <style type='text/css'>
+#nav_main2 {
+	width: 100%;		/* Einfassen der Floats im IE */
+	float:left;         /* Einfassen der Floats in allen anderen Browsern */
+	background: #4e5155;
+	border-top: 1px #666 solid; 
+	line-height: 0px;
+	font-size: 90%;
+	height: 2.2em;
+	overflow:hidden;
+}
+
+#nav_main2 ul {
+	float:left;
+	display:inline;
+	margin:0;
+	padding: 0;
+	margin-left: 21px;
+	border-left: 0px #aaa solid; 
+	border-right: 0px #fff solid;
+	border-bottom: #f00 1px solid;
+}
+
+#nav_main2 ul li {
+	float: left;
+	display:inline;
+	margin: 0;
+	padding: 0;
+	font-size: 1.0em;
+	line-height: 1em;
+	list-style-type: none;
+	border-left: 0px #fff solid;
+	border-right: 0px #aaa solid;
+}
+
+#nav_main2 ul li a {
+	display:block;
+	width: auto;
+	font-size: 1em;
+	font-weight: normal;
+	background: transparent;
+	text-decoration: none;
+	color: #aaa;
+	margin: 0;
+	padding: .6em 0.8em;
+}
+
+#nav_main2 ul li a:focus,
+#nav_main2 ul li a:hover,
+#nav_main2 ul li a:active {
+	color: #fff;
+	text-decoration: none;
+}
+
+a.editpage               { color: #FF0000; text-decoration: none;
+ 	                         border-bottom: 1px dashed red; }
+
+#nav_main2 ul li#current2 { 
+	background: #4e5155 no-repeat bottom center; 
+}
+
+#nav_main2 ul li#current2 a,
+#nav_main2 ul li#current2 a:focus,
+#nav_main2 ul li#current2 a:hover,
+#nav_main2 ul li#current2 a:active {
+	color: #fff;
+	font-weight: bold;
+	background: transparent;
+	text-decoration: none;
+}
+
+
+  </style>
+ </head>
+ <body>
+  <div class='page_margins'>
+    <div class='page'>
+      <div id='header'>
+        <div id='topnav'>
+          <!-- start: skip link navigation -->
+          <a class='skip' title='skip link' href='#navigation'>Skip to the navigation</a><span class='hideme'>.</span>
+          <a class='skip' title='skip link' href='#content'>Skip to the content</a><span class='hideme'>.</span>
+          <!-- end: skip link navigation --><a href='#'>Login</a> | <a href='#'>Contact</a> | <a href='#'>Imprint</a>
+        </div>
+      </div>
+      <div id='nav'>
+        <!-- skiplink anchor: navigation -->
+        <a id='navigation' name='navigation'></a>
+        <div class='hlist'>
+          <!-- main navigation: horizontal list -->
+          <ul>
+            <li class='active'><strong>Button 1</strong></li>
+            <li><a href='#'>Button 2</a></li>
+            <li><a href='#'>Button 3</a></li>
+            <li><a href='#'>Button 4</a></li>
+            <li><a href='#'>Button 5</a></li>
+          </ul>
+        </div>
+      </div>
+      <div id='main'>
+        <div id='col1'>
+          <div id='col1_content' class='clearfix'>
+            <!-- add your content here -->
+          </div>
+        </div>
+        <div id='col2'>
+          <div id='col2_content' class='clearfix'>
+            <!-- add your content here -->
+  <h1>Hello " (.getParameter request "param") ".</h1>
+  <p>We will soon be back. Much faster than ever before ;) 
+     For updates follow us on <a href='http://twitter.com/NooPolis'>TwittEr</a>.</p>
+          </div>
+        </div>
+        <div id='col3'>
+          <div id='col3_content' class='clearfix'>
+            <!-- add your content here -->
+          </div>
+          <!-- IE Column Clearing -->
+          <div id='ie_clearing'> &#160; </div>
+        </div>
+      </div>
+      <!-- begin: #footer -->
+      <div id='footer'>Layout based on <a href='http://www.yaml.de/'>YAML</a>
+      </div>
+    </div>
+  </div>
+ </body>
+</html>
+")
+)
+;}}}

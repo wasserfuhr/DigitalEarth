@@ -1,0 +1,62 @@
+http://www.dorfwiki.org/wiki.cgi?HansGertGraebe/SeminarWissen
+
+* MindPlace: im InterimAmBruehl an der UniLeipzig
+* Thema: Mindbroker.de als soziales semantisches Netz
+ 
+HotTopics für den VorTrag von RainerWasserfuhr 20081125:
+
+http://www.dorfwiki.org/wiki.cgi?HansGertGraebe/SeminarWissen/2008-11-25:
+
+Erster Vorschlag für HotTopics: MindWiki - VerFassung - WebOfTrust - StartUpSim
+
+http://www.slideshare.net/rainer/seminarwissen-presentation
+
+MindBroker: Wer - was - wie - wann - wozu?
+
+Im Detail:
+
+* normal: geplant angesprochen
+* ''kursiv'': geplant aber nicht angesprochen
+* __fett__: ungeplant angesprochen 
+
+''WikiTchen''
+MindBroker MindWiki JspWiki
+WikiPedia WardCunningham WikiWikiWeb ''CamelCase'' ''JoinNow''
+''LogIn'' RealName ''EheVertrag'' ''MindId'' WebOfTrust
+TrustChain InviteOnly MindProps MindTags MindApi
+''KunstSprache'' VerFassung ''FremdSprache''
+''NoMic'' ''SemanticTwitter'' ''GeoTweet'' ''TwitMap'' FoAf
+MindPlace OpenStreetMap InterWiki
+KayGroschen HausHalt SecondLife LindenDollar
+WechselKurs MindShop ''WebApp'' FaceBook
+SemanticEconomy VolksKonto ''ObDach'' ''BasicIncome''
+GlaeserneBank MindFloor HandelsRegister StartUpSim
+PredictionMarket ShareHolder
+ZuKunft LongBetOne ''FutureMap'' ''SchwarmIntelligenz''
+LifeWiki WikiLender ''EpisodicMemonry''
+SemanticWeb ''MindBase'' ''HadoopHBase'' ''MapReduce'' ''YaHoo''
+DigitalTwin ''WortSchatz'' StateMent ''WahrSchein'' ''InFer''
+OrdNung KissOlogy GlaesernerMensch WikiTv
+''DrankBeerWith'' PriVat OptIn 
+__RainerTest__
+__NooPolis__
+__SocialNetwork__
+__KabiNett__
+__PieschenBank__
+
+Nachbesprechung:
+* StartUpSim, GeldWaesche
+
+!SchaetzQual: RainerTest
+# eigene Einschätzung
+# Schätzung des Durchschnittswertes aller abgegebener Einschätzungen
+||1) ||2)
+|2050|2038
+|2100|2030
+|2080|2100
+|2050|2025
+|    |2100
+|2030|2100
+|2050|2038
+|2075|2100
+|2030|2100

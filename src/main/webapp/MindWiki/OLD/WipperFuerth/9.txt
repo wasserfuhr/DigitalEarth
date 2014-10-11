@@ -1,0 +1,10 @@
+* MindTags: MindPlace
+* MindQuote: "Wipperfürth - Die älteste Stadt im Bergischen Land"
+* InterWiki: [DeWikiPedia:Wipperfürth]
+* BreitenGrad: 51.116667
+* LaengenGrad: 7.4
+* BoundingBox: 2000
+* HomePage: http://www.wipperfuerth.de/
+* MindCount: 20000
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/263831309
+* MindOne: MichaelVonRekowski

@@ -1,0 +1,1 @@
+like ContinuousIntegration, but for as InFer'ence inside the SemanticMind.

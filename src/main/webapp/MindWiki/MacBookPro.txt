@@ -1,0 +1,10 @@
+TastaTur:
+* Row 1: 14 keys
+* Row 2: 14
+* Row 3: 14
+* Row 4: 13
+* Row 5: 13
+* Row 6: 11
+* TouchPad mit Taste
+
+3*14+26+11+1=80

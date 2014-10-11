@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0386
+* LaengenGrad: 13.8306
+* BoundingBox: 36
+* GraDient: 135
+* SlimNess: 0.6
+* HomePage: http://www.wollnervilla.de/

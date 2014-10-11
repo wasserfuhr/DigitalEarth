@@ -1,0 +1,4 @@
+* IsA: PerSon
+* MindSkill: LiSp
+* HasTalked: RainerWasserfuhr
+|[XingLe:Frank_Steinle]

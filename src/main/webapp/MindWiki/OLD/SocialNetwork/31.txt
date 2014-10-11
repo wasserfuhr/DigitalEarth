@@ -1,0 +1,22 @@
+* MindTags: MetaMatrix
+
+||Name           ||MindOne        ||User  ||Ads||Userpic ||API   ||Newsfeed||StickyNess||ProfileVisits||WebOfTrust||https||OpenId
+|MySpace         |TomAnderson     |   200m|x   |x        |+      |        +|        +++|             ?|          -|     ?|-
+|FaceBook        |MarkZuckerberg  |    50m|x   |x        |+++    |      +++|        +++|             -|          -|     -|-
+|FlickEr         |StewartButterfield| 28m|-   |x        |++     |        -|         ++|             -|          -|     -|x
+|LinkedIn        |ReidHoffman     |    16m|x   |x        |+      |        -|          -|             -|          -|     x|-
+|XingLe          |LarsHinrichs    |     4m|x   |x        |not yet|       ++|        +++|             +|          -|     x|-
+|StudiVz         |?               |     4m|x   |x        |-      |        -|         ++|             +|          -|     ?|-
+|DelIcioUs       |JoshuaSchachter |     1m|x   |-        |x      |        x|          x|             -|          x|not yet|-
+|TwittEr         |BizStone        |   705k|-   |x        |x      |        x|          x|             -|          x|     x|-
+|TribeNetworks   |MarkPincus      |  >500k|x   |x        |FoAf?  |        ?|          ?|             ?|          -|     ?|-
+|AhSmallWorld    |ErikWachtmeister|   230k|x   |x        |?      |        ?|          ?|             ?|          -|     ?|-
+|FoAf            |LibbyMiller     |   10k?|-   |x        |+++    |        ?|          ?|             ?|          x|     ?|-
+|PeopleAggregator|MarcCanter      |   8414|x   |x        |-      |        -|          +|             -|          -|     ?|-
+|NooPolis        |RainerWasserfuhr|     32|-   |x        |++     |        -|          ?|             -|          x|not yet|bald
+
+OpenStats.
+
+Kandidaten:
+* UndDuDe
+* MyCorners

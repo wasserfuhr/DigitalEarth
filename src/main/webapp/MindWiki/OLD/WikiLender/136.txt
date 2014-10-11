@@ -1,0 +1,141 @@
+* InterWiki: [AgiriWiki:AGIRI_Events], [DdWiki:Stadtwiki:Veranstaltungen], [DeWikiPedia:Oktober_2008],
+ [OpenCog:Current_events]
+
+(Events in the WikiLender have a "when" and an optional "until". Things which only have an "until" can be found as DeadLine)
+||When        ||Until||      ||Where        ||What                    ||Who
+|20081011:1600|     |        |StadtTeilHaus |Zeremonie                |JoPotter,MartinRoell,RainerWasserfuhr?
+|20081012     |     |        |ReadingUniversity|LoebnerPrize          |HughLoebner,KevinWarwick
+|20081013:2030|     |        |SeidenStrasse |PhilosophischesNachtcafe |TinoSchmidt
+|20081013:1900|     |        |StadtDresden  |ElbTaler                 |NorbertRost, RainerWasserfuhr?
+|20081013:2100|     |        |StarClub      |DresdenDolls             |AmandaPalmer,BrianViglione,RainerWasserfuhr?,JanBoehme
+|20081016     |     |        |TrattoriaLaPiazzetta|Buffett            |
+|20081018     |     |        |StadtBerlin   |BarCamp                  |RainerWasserfuhr?,JanBoehme
+|20081020:1930|     |        |SchwarzerBaer |WebMontag                |StephanSchambach
+|20081024:2130|     |        |StadtDresden  |RockTheTram              |SvenEchtermeyer, RainerWasserfuhr?
+|20081025     |     |        |MontgomeryTheater|SingularitySummit     |RayKurzweil, PeterThiel EtAl
+|20081026     |     |        |ComputerHistoryMuseum|CogDev2008        |BenGoertzel, DaveHart, JoelPitt EtAl
+|20081030     |     |        |StadtDresden  |CyNetArt                 |RainerWasserfuhr?
+|20081104     |     |        |UnitedStates  |UsElection08             |BarackObama,JohnMcCain
+|20081112     |     |        |StadtDresden  |SchachOlympiade          |AlfredSchlya
+|20081120:2015|     |        |HausDesBuches|Lesung                    |Ulrike Folkerts, KatharinaSchnitzler
+|20081126:2000|     |        |DreiKoenigsKirche|RidiculousMan         |FriedrichWilhelmJunge,RainerWasserfuhr?
+|20090114:1500|     |        |StadtDresden  |ProbeAlarm               |
+|20090120     |     |        |Washington    |InAuguration             |BarackObama?,JohnMcCain?
+|20090302     |     |        |CeBit         |Opening                  |AngelaMerkel,ArnoldSchwarzenegger?
+|20090306     |     |        |Arlington     |AGI09                    |BenGoertzel,BruceKlein
+|20090523     |     |        |ReichsTag     |MindOne-Wahl DeutschLand |HorstKoehler, AngelaMerkel, NorbertLammert, GesineSchwan?
+|20090607     |     |        |EurOpa        |Wahlen                   |BuergerInnen,CitiZens,CiudaDanos,CitoYens,Državljan
+
+everything else is on the FutureMap
+
+!Was War:
+||When        ||Until||      ||Where        ||What                    ||Who (OrderedByShares)
+|20081010:2100|     |CANCELED|OstraGehege   |KuensterBall             |
+|20081010:2100|     |        |ScheuneDresden|FutureMap-Plauderei      |RainerWasserfuhr, JeMand
+|20081010:1600|     |        |CafeTalisman  |MindEis                  |MartinRoell, RainerWasserfuhr
+|20081009:2000|     |CANCELED|AlterSchlachthof|Event                  |NorbertBluem, PeterSodann
+|20081009:1700|     |        |SchwarzMarktCafe|AsiMo-Käffchen trinken |RainerWasserfuhr, JeMand
+|20081008:2100|     |        |PotthoffBau   |ImmaParty                |
+|20081008:2030|     |CANCELED|OmaOpa        |Plaudern                 |RainerWasserfuhr, JeMand
+|20081008:1900|     |        |StadtDresden  |JugSaxony                |
+|20081008:1700|     |        |SchillerGarten|CrashKurs-Briefing       |RainerWasserfuhr, ChristineSchlinck
+|20081008:1500|     |        |StadtDresden  |ProbeAlarm               |
+|20081006:1900|     |        |SchillerGarten|Essen                    |ChristineSchlinck, CoSc, RainerWasserfuhr, YvonneSchubert, EtAl
+|20081005:1630|     |        |TheWestin     |Plaudere                 |RainerWasserfuhr, ChristineSchlinck EtAl
+|20081005:1330|     |        |RudolfHarbigStadion|FussBall            |RainerWasserfuhr, JeMand, SebastianPelzer
+|20081005:0100|     |        |KakaduBar     |Party                    |RainerWasserfuhr, EtAl
+|20081002     |     |        |StadtDresden  |GeNeMe                   |
+|20081001     |     |        |StadtDresden  |JeLia                    |SteffenHoelldobler,JeromeLang
+|20081001:1900|     |        |StadtDresden  |ElbTaler-Treffen         |NorbertRost?
+|20081001     |     |        |StadtDresden  |GeNeMe                   |RainerBernnat,MichaelUhlmann
+|20080930:2000|     |        |SemperOper    |HistorikerTag            |HoerstKoehler,PeterFunke,PeterLautzas
+|20080929     |     |        |StadtDresden  |JeLia                    |SteffenHoelldobler,RuthByrne
+|20080928     |     |        |RadeBeul      |HerbstUndWeinfest        |RainerWasserfuhr, JeMand
+|20080928     |     |        |Bayern        |Landtagswahl             |GuentherBeckstein,FranzMaget
+|20080928     |     |        |StadtDresden  |KogWis08                 |
+|20080928     |     |        |StadtDresden  |JeLia                    |SteffenHoelldobler,SergeiArtemov
+|20080927     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080927     |     |        |SaLoppe       |Abschlussparty           |RainerWasserfuhr
+|20080926:1900|     |        |NN            |Mystik                   |YvonneSchubert
+|20080926     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080926     |     |        |KaisersLautern|KiNullAcht               |RandyGoebel
+|20080925     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080925     |     |        |KaisersLautern|KiNullAcht               |MikeWooldridge
+|20080924:1900|     |        |AugustinerDresden|XingLe                |
+|20080924     |     |        |KaisersLautern|KiNullAcht               |YuzuruTanaka,SaschaOssowski
+|20080924     |     |        |Vienna        |Estc2008                 |HansUszkoreit, LeoSauermann
+|20080923     |     |        |KaisersLautern|KiNullAcht               |LeoSauermann
+|20080922:2030|     |CANCELED|SeidenStrasse |PhilosophischesNachtcafe |TinoSchmidt
+|20080922     |     |        |PlanetEarth   |SuperStruct              |JaneMcGonigal, RainerWasserfuhr EtAl
+|20080921:1700|     |        |OTwoWorld     |BasketBall               |ChristineSchlinck EtAl
+|20080920     |     |        |KakaduBar     |Party                    |
+|20080920:1715|     |        |VaPiano       |Pizza                    |RainerWasserfuhr, ChristineSchlinck
+|20080919     |     |        |StadtDresden  |MarketingClubDresden     |
+|20080919     |     |        |StadtDresden  |FilmnaechteAlbertbruecke |
+|20080919:1900|     |        |AlteFeuerwache|MacUserGroup             |
+|20080919:1430|     |        |OTwoWorld     |Wissenschaft vom Glück   |TenzinGyatso
+|20080918:1930|     |        |PkOst         |KunstenATenkeNegativt    |RainerWasserfuhr,JeMand
+|20080917:2000|     |        |ScheuneCafe   |SmallTalk                |RainerWasserfuhr,JeMand
+|20080917:2000|     |        |AlterSchlachthof|Konzert                |GoetzAlsmann
+|20080912:1900|     |        |LingnerSchloss|Haben oder Sein          |YvonneSchubert
+|20080912:2300|     |        |OstraGehege   |KuensterBall             |RainerWasserfuhr, JeMand
+|20080910     |     |        |Porto         |WikiSym                  |DirkRiehle
+|20080909     |     |        |Porto         |WikiSym                  |DirkRiehle
+|20080909:1800|     |        |HygieneMuseum |Vortrag                  |JensReich, MichaelSchroeder?
+|20080909:2000|     |        |EiscafeVenezia|MindEis                  |ChristineSchlinck, RainerWasserfuhr, YvonneSchubert
+|20080909:1800|     |        |MrBien        |OpenDinner               |RainerWasserfuhr, ChristineSchlinck
+|20080909:1500|     |        |StadtDresden  |TineAnruf                |RainerWasserfuhr, ChristineSchlinck
+|20080908:1700|     |        |MmsTower      |PMI                      |
+|20080908:1500|     |CANCELED|WirkZentrum   |Belege2007-Übergabe      |RainerWasserfuhr, ChristineSchlinck
+|20080908:0900|     |        |HiltonDresden |NooPhant-brunch          |RainerWasserfuhr EtAl
+|20080908     |     |        |Porto         |WikiSym                  |DirkRiehle
+|20080907:1700|     |        |SchwarzMarktCafe|MindEis                |ChristineSchlinck,RainerWasserfuhr,YvonneSchubert
+|20080906     |     |        |MoenchsFeld   |Party                    |RainerWasserfuhr EtAl
+|20080904:1900|     |        |PaulRackwitzBar|DresdnerOSMStammtisch   |
+|20080903:1900|     |        |StadtDresden  |MarketingClubDresden     |WolfgangKenntemich
+|20080830:1700|     |        |FreibadMockritz|AfricanSummerNight      |BobHooda
+|20080829:1930|     |        |RadeBeul      |PhilosophischerKlub      |
+|20080828:2000|     |        |BarParadox    |GinUndSinn               |RainerWasserfuhr EtAl
+|20080827     |     |        |IkeaDresden   |KraeftSkiva              |
+|20080825     |     |        |BlackRockDesert|BurningMan              |
+|20080824     |     |        |NottingHill   |Carnival                 |
+|20080823     |     |        |GrosserGarten |Konzert                  |MarianneRosenberg
+|20080823     |     |CANCELED|StadtDresden  |Green-Meeting            |RainerWasserfuhr?
+|20080821:1515|     |        |MrBien        |Meeting                  |RainerWasserfuhr,ChristineSchlinck
+|20080820     |     |        |StadtLeipzig  |Games Convention         |
+|20080819:2100|     |        |AlteFeuerwache|rapide Augenbewegung     |
+|20080816:2030|     |        |FilmnaechteAlbertbruecke|Film           |
+|20080816:1800|     |        |Leonardo      |WikiPedia-Meeting        |
+|20080815:2100|     |        |WirkZentrum   |HolonQl-Meeting          |RainerWasserfuhr
+|20080814:1600|     |        |HauptStrasse  |MindPet-Übergabe         |RainerWasserfuhr,H
+|20080813:1900|     |        |VereinshausJohannstadt|ElbTaler-Treffen |NorbertRost?
+|20080813:1500|     |        |EiscafeVenezia|Meeting                  |RainerWasserfuhr,ChristineSchlinck
+|20080809     |     |        |KoenigsUfer   |Konzert                  |RolandKaiser
+|20080809     |     |        |StadtDresden  |HappyBirthday            |EvLu, YvonneSchubert, FaMe
+|20080808     |     |        |Poseidon      |PiratenPartei-Meeting    |
+|20080805:1853|     |        |LouisenStrasse|DerAugenblick            |DerStudent EtAl
+|20080804     |     |        |BischofsPlatz |KabiNettChat             |RainerWasserfuhr,JanBoehme
+|20080729     |     |        |GolfanlageUllersdorf|Putt-Dating        |RainerWasserfuhr,YvonneSchubert, JaDi, MaRo
+|20080729     |     |        |AlteFeuerwache|Mac-User-Treff           |
+|20080728:2030|     |        |SeidenStrasse |PhilosophischesNachtcafe |
+|20080725:1930|     |        |AuraRaum      |Neid                     |JensWegerle
+|20080724     |     |        |StadtBerlin   |Konzert                  |EttaScollo,AlbanNikolaiHerbst
+|20080719     |     |        |DortMund      |LoveParade               |
+|20080718     |     |        |Alexandria    |WikiMania                |JimmyWales?
+|20080718     |     |        |OstraGehege   |KuensterBall             |
+|20080717     |     |        |Oxford        |Global Catastrophic Risks Conference|EliezerYudkowsky
+|20080717     |     |        |Alexandria    |WikiMania                |JimmyWales?
+|20080715:1900|     |        |WaldSchloesschen|Diskussion             |
+|20080714:2030|     |        |SeidenStrasse |PhilosophischesNachtcafe |
+|20080712     |     |        |StadtDresden  |Pferderennen             |
+|20080711:1700|     |        |VolksHaus     |Freundeskreistreffen     |HansJochenVogel,PeterStruck,ChristianeKohl
+|20080709:1900|     |        |StadtDresden  |JugSaxony                |
+|20080709:1900|     |        |VereinshausJohannstadt|ElbTaler-Treffen |RainerWasserfuhr,NorbertRost
+|20080709:1500|     |        |StadtDresden  |Probealarm               |
+|20080708:2000|     |        |StadtMuseum   |Vortrag                  |GunterDueck
+|20080707     |     |        |MaerkischesViertel|Party                |UteMoritz
+|20080705:1930|     |        |StadtDresden  |GaumenSchmausParty       |RainerWasserfuhr,ChristineSchlinck EtAl
+|20080704:1930|     |        |AuraRaum      |Disziplin und Disziplinierung|YvonneSchubert
+|20080704     |     |        |StadtDresden  |Lange Nacht der Wissenschaften|
+|20080701:2000|     |        |KathedralForum|Gott, Moral und die Neurowissenschaften|UlrichBraun
+Former Events: WasWar.

@@ -1,0 +1,19 @@
+* EtymoLogia: "lat. trans "hinüber, hindurch" und parere "erscheinen, sichtbar werden, sich zeigen; Folge leisten"
+
+Die MicroNation NooPolis ist TransParent.
+
+Die VerFassung und der HausHalt unterliegen der BuergerBeteiligung.
+
+Alle Änderungen daran sind für alle BuergerInnen einsehbar.
+
+Die Einhaltung des HausHalt's kann von allen BuergerInnen nachgeprüft werden.
+
+Die PayMent's auf jedem BankKonto der PieschenBank sind für alle BuergerInnen einsehbar.
+
+Das KabiNett verpflichtet sich zur VerAntwortung gegenüber allen BuergerInnen.
+
+NooPolis wird ausschliesslich mit OpenSource-SoftWare betrieben und kann auf jeder Webseite unserer WebApp's per ViewSource eingesehen werden. BuergerInnen mit guten MindSkill's und VerTrauen'swürdigkeit können die SoftWare per BigTableNomic weiterentwickeln.
+
+Die Administration der Server für UnserGrid ist TransParent.
+
+NooPolis ist eine MicroNation, an deren Entwicklung alle Bürger ImmerWieder teilhaben und aktiv MitWirken: WieWirWirken.

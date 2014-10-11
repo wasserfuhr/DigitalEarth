@@ -1,0 +1,3 @@
+* InterWiki: [DeWikiPedia:World_Wide_Web], [LangReiter:WWW], [WebSeitz:WorldWideWeb]
+
+TimBl invented it. Still missing: The EnErgie and WebOfTrust for the GiantGlobalGraph.

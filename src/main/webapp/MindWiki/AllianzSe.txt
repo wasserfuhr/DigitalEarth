@@ -1,0 +1,3 @@
+* IsA: DaxUnternehmen
+* InterWiki: [DeWikiPedia:Allianz_SE]
+* IsIn: 	DE0008404005

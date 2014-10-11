@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/63/5852
+* PageNumber: 8
+* PagePath: LarryPage SergeyBrin MonikaHenzinger DavidEppstein JoanFeigenbaum TimBl ChristianBizer MartinGaedke AndreasHeil
+|[XingLe:Andreas_Heil2]
+|[TwittEr:aheil]

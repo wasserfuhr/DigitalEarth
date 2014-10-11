@@ -1,0 +1,25 @@
+||%||OrderedByShares:||# 1)||MegaSand
+|100|RainerWasserfuhr|4|40
+|100|YvonneSchubert  |5|30
+|100|JeWe            |3|60
+|100|SvSc            |6|27
+|100|AlGe            |1|50
+|100|PiKa            |2|80
+| 98|EvLu            |
+| 90|AnOe            |
+| 80|GePr            |
+| 80|SaHo            |
+| 30|SeMi            |
+| 25|AnEi            |
+| 20|SvBa            |
+| 20|PeZa            |
+| 20|InPl
+| 20|GuGl
+| 20|AnSt
+| 20|AlSu
+| 12|Gast AnEi
+
+1: ErsteUnserioseSchaetzung
+
+
+Verhindert: RaSc, HeEg, BoHo

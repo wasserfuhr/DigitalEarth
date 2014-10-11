@@ -1,0 +1,2 @@
+* IsA: ProFessor
+* HasTalked: SteffenBecker

@@ -1,0 +1,6 @@
+ein MindPlace in der Einflugschneise von GrueterichEins International Airport.
+
+* MindTags: MindPlace
+* BreitenGrad: 51.10147
+* LaengenGrad: 7.387901
+* BoundingBox: 150

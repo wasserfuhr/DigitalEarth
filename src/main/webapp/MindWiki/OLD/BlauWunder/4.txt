@@ -1,0 +1,10 @@
+* IsA: MindPlace
+* InterWiki: [DdWiki:Blaues_Wunder] [DeWikiPedia:Blaues_Wunder]
+* BreitenGrad: 51.0533
+* LaengenGrad: 13.8102
+* BoundingBox: 120
+* GraDient: 45
+* SlimNess: 0.2
+* MindCount: 10
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/30129851
+* NearBy: KoernerPlatz SchillerPlatz

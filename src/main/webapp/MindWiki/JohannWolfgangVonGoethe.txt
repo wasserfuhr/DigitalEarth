@@ -1,0 +1,9 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Johann_Wolfgang_von_Goethe] [OpenCyc:JohannWolfgangVonGoethe] [WikiWikiWeb:JohannWolfgangGoethe]
+* ChildOf: CatharinaElisabethGoethe JohannCasparGoethe
+* BornIn: 1749
+* BirthDay: 08-28
+* DiedIn: 1832
+* EnsId: http://www.okkam.org/ens/id4a479446-f4f4-46b8-89d6-51620387ff57
+* ViAf: http://viaf.org/viaf/24602065
+* HasKissed: CharlotteBuff

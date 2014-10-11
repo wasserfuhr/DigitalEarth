@@ -1,0 +1,14 @@
+Die Regeln von MindBroker.
+
+später http://kodex.mindbroker.de
+
+* CodeIsLaw: Die Regeln der MindBrokerAg ergeben sich aus dem SourceCode. Auf Anfrage können die SourceCode-Committer ihn erläutern. 
+* FixBugsFirst: UnsereBugs.
+* Mit Ausnahme von [Mind] ist jeder PageName im AgWiki CamelCase
+* Halte ProjektDokumentation so kurz und knapp wie möglich, [WikiWikiWeb:TheSourceCodeIsTheSpecification] ABER:
+* schreibe selbsterklärenden SourceCode, der für neue MitWirkende so einfach und schnell wie möglich verstanden werden kann.
+* IMMER bevor Du mit dem Coden anfängst: Mache ein SVN update.
+* Sobald Du einen funktionierenden und getesteten Stand erreicht hat, mache ein Commit.
+* Kündige grössere Änderungen am Code im LockLog an.
+* Mache auf jeden Fall spätestens täglich ein Commit.
+* Alle Bezeichnungen im Sourcecode (Klassen, Packages, Kommentare, jsp-Dateinamen, Servlet-URLs, ...) sollten english sein. Schaue dir einige Teile des schon vorhandenen SourceCode an um ein Gefühl dafür zu bekommen

@@ -1,0 +1,143 @@
+|20070930     |     |        |              |UrLaub                   |YvonneSchubert
+|20070930:1630|     |        |StadtDresden  |Jagdgöttinnenmeeting     |RainerWasserfuhr,NN
+|20070929     |     |CANCELED|StadtDresden  |PianoStimmung            |RainerWasserfuhr
+|20070929     |     |        |              |Freizeit                 |YvonneSchubert
+|20070928     |     |        |              |Freizeit                 |YvonneSchubert
+|20070928:1900|     |        |LaRue         |XingLe Dinner            |
+|20070928     |     |        |FrankFurt     |NetzwerkTagung           |JanaDiesner
+|20070927:1300|2100 |        |              |Bürozeit                 |YvonneSchubert
+|20070927     |     |        |FrankFurt     |NetzwerkTagung           |JanaDiesner
+|20070926:1930|     |        |StadtDresden  |Vortrag ElbTaler         |
+|20070926:1400|     |        |StadtDresden  |Abnahme Übergabe Büro    |YvonneSchubert
+|20070925     |     |        |StadtDresden  |Endreinigung Büro        |YvonneSchubert
+|20070925     |     |        |StadtDresden  |Freizeit                 |YvonneSchubert
+|20070924:2000|     |        |StadtBerlin   |SecondLife-Bots          |RainerWasserfuhr,UteMoritz,SebastianKuepers
+|20070924     |     |        |StadtDresden  |Freizeit                 |YvonneSchubert
+|20070923:19xx|     |        |StadtDresden  |BauchTanz                |NiZi?
+|20070923     |     |        |HamBurg       |StartUpWeekEnd           |RainerWasserfuhr,TinaPickhardt,AndreasDittes,CemBasman,MarioSixtus
+|20070922     |     |        |HamBurg       |StartUpWeekEnd           |RainerWasserfuhr,TinaPickhardt,AndreasDittes,CemBasman,MarioSixtus
+|20070921:1930|2359 |        |AuraRaum      |Literatur im Gespräch    |YvonneSchubert,JensWegerle
+|20070921     |0923 |        |RadeBeul      |HerbstUndWeinfest        |YvonneSchubert
+|20070920     |     |        |DeutschLand   |fahre Schnellboot        |RainerWasserfuhr
+|20070920:1000|     |        |StadtDresden  |Umzug Büro               |YvonneSchubert
+|20070919:1700|     |        |WirkZentrum   |Besprechung StartUpWeekEnd|RainerWasserfuhr, YvonneSchubert
+|20070919:0930|     |        |StadtDresden  |Besichtigung Fr. Rambusch|YvonneSchubert
+|20070919     |     |        |StadtDresden  |Kisten packen            |YvonneSchubert
+|20070918:2200|     |        |SaLoppe       |Hüften schwingen         |RainerWasserfuhr,NN?
+|20070918:1815|     |        |StadtDresden  |Vortrag Altern           |RainerWasserfuhr?
+|20070918:0945|     |        |DeutschLand   |SkypeChat                |RainerWasserfuhr,DanielPoodratchi,YvonneSchubert
+|20070918     |     |        |StadtDresden  |Kisten packen            |YvonneSchubert
+|20070918     |     |CANCELED|StadtDresden  |Esplanadi-Diskurs        |RainerWasserfuhr,NN
+|20070917:1900|     |        |StadtDresden  |WirtschaftsStammtisch    |RainerWasserfuhr,NicoleZiesche,BobHooda
+|20070917:1300|     |        |              |Arbeitsbeginn            |YvonneSchubert
+|20070917:1230|     |        |StadtDresden  |PostAmt                  |RainerWasserfuhr
+|20070916:1930|     |        |WirkZentrum   |Meeting                  |RainerWasserfuhr,NN
+|20070916:1600|     |        |StadtDresden  |Spaziergang              |RainerWasserfuhr,ChristineSchlinck
+|20070916:1100|     |        |StadtDresden  |Katerfrühstück           |RainerWasserfuhr,NN
+|20070916     |     |        |              |Freizeit                 |YvonneSchubert
+|20070915:2200|     |        |StadtDresden  |Stammtisch               |
+|20070915:1800|     |        |StadtDresden  |DayTrade                 |RainerWasserfuhr,JensFreydank
+|20070915:1400|     |        |StadtDresden  |Shopping                 |RainerWasserfuhr,NN
+|20070915     |     |        |              |Freizeit                 |YvonneSchubert
+|20070914     |     |        |KarlsRuhe     |IchWirUndDieAnderen      |OliverGassner,DonAlphonso
+|20070913     |     |        |KarlsRuhe     |IchWirUndDieAnderen      |OliverGassner,DonAlphonso
+|20070913:1640|     |        |FriseurGehestr|HairCut                  |RainerWasserfuhr
+|20070913     |     |        |              |Urlaub                   |YvonneSchubert
+|20070912:1830|     |        |StadtMuseum   |Networkingveranstaltung Kommunikationspool |
+|20070912     |     |        |              |Freizeit                 |YvonneSchubert
+|20070911:1700|     |        |StadtDresden  |WalkInThePark            |RainerWasserfuhr,JensWegerle
+|20070911     |     |        |              |Freizeit                 |YvonneSchubert
+|20070910:2100|     |        |DeutschLand   |IndiPhone                |RainerWasserfuhr,NN
+|20070910:2030|     |CANCELED|StadtDresden  |Meeting                  |RainerWasserfuhr,NN
+|20070909:1800|     |        |StadtDresden  |Meeting                  |RainerWasserfuhr,NN
+|20070909:1700|     |CANCELED|StadtDresden  |Sonnenmeeting            |RainerWasserfuhr,NN
+|20070909:1500|     |        |KulturPalast  |8=1000 MetaKuesse?       |RainerWasserfuhr,YvonneSchubert,DeBurgos,RoxanaBriban
+|20070908:1100|     |        |StadtDresden  |Meeting                  |RainerWasserfuhr,NN
+|20070907:1930|2300 |        |AuraRaum      |Ich oder Wir?            |RainerWasserfuhr,YvonneSchubert,JensWegerle
+|20070907:1530|1830 |        |WirkZentrum   |Fee                      |RainerWasserfuhr,IngridaPlunksnyte
+|20070906:1230|1430 |        |StadtDresden|Doctor                   |YvonneSchubert,EvLu
+|20070904:1800|     |        |StadtDresden|privat                   |YvonneSchubert
+|20070904:1300|     |        |StadtDresden|Postamt                  |RainerWasserfuhr
+|20070903:1900|     |        |KarlsRuhe   |WebMontag                |OliverGassner
+|20070903:1600|     |        |SkyPe       |MindBroker               |RainerWasserfuhr,DanielPoodratchi
+|20070903:0800|     |        |StadtDresden|Sonderurlaub UmZug       |YvonneSchubert
+|20070902:1200|     |CANCELED|StadtDresden|DimiInDresden            |RainerWasserfuhr,YvonneSchubert,DimitriUwarov,ChristineSchlinck,NN
+|20070902     |     |        |StadtDresden|1 Tag Wochenende         |YvonneSchubert
+|20070901:1400|     |        |StadtDresden|DimiInDresden            |RainerWasserfuhr,DimitriUwarov
+|20070901:1230|     |CANCELED|StadtDresden|BohrPlattform-Besuch     |RainerWasserfuhr
+|20070901     |     |        |StadtDresden|1 Tag Wochenende         |YvonneSchubert
+|20070831     |     |        |MAX         |XingLe Meeting im        |YvonneSchubert
+|20070831:1500|     |        |StadtBerlin |SuSuh und Sushi          |RainerWasserfuhr,NicoHagenburger
+|20070830:2000|     |        |StadtBerlin |Party                    |RainerWasserfuhr,UteMoritz
+|20070830:1000|     |        |StadtBerlin |MindRente                |RainerWasserfuhr,NN
+|20070830:0915|     |        |StadtBerlin |Meeting Hbf              |RainerWasserfuhr,AlfredLiesecke,NN
+|20070829:2200|0700 |        |StadtDresden|privat                   |YvonneSchubert
+|20070829:0000|1830 |        |StadtDresden|Freizeit                 |YvonneSchubert
+|20070828:1300|     |        |StadtDresden|1 / 2 Tag Freizeit       |YvonneSchubert
+|20070828:0830|     |        |art'otel    |Xing BusinessBrunch      |RainerWasserfuhr,YvonneSchubert
+|20070827     |     |        |UnitedStates|http://www.burningman.com/|
+|20070825:2100|     |        |StadtDresden|Hecht                    |RainerWasserfuhr,NN
+|20070825     |     |        |            |Wochenende               |YvonneSchubert
+|20070824:2200|     |        |StadtDresden|9 Jahre Motown           |
+|20070824:1930|     |        |StadtDresden|privat                   |YvonneSchubert
+|20070824:1400|     |        |WirkZentrum |Fee                      |RainerWasserfuhr
+|20070824:1000|1200 |        |StadtDresden|Aquariumsumzug           |YvonneSchubert,FaMe
+|20070823     |     |CANCELED|UnitedStates|http://www.barcampusa.org/|RainerWasserfuhr?
+|20070822:2000|     |CANCELED|StadtDresden|RepublikBaer-Interview   |RainerWasserfuhr,NN
+|20070822:1000|     |        |StadtDresden|HairCut                  |YvonneSchubert
+|20070821:2100|     |        |StadtDresden|UMTS-Test                |RainerWasserfuhr,YvonneSchubert
+|20070821:1200|     |        |Venezia     |Meeting                  |RainerWasserfuhr,YvonneSchubert,AlfredLiesecke
+|20070821:0900|     |        |DresdenHauptbahnhof|BusinessBrunch    |YvonneSchubert, PiKa
+|20070820     |     |        |            |Wochenende               |YvonneSchubert
+|20070819     |     |        |StadtDresden|StadtFest                |RainerWasserfuhr
+|20070819     |     |        |            |Wochenende               |YvonneSchubert
+|20070818     |     |        |StadtDresden|StadtFest                |YvonneSchubert
+|20070817:1900|     |        |StadtDresden|StadtFest                |YvonneSchubert
+|20070817:0800|1000 |        |StadtDresden|Umzugsvorbereitung       |YvonneSchubert
+|20070816:1330|     |        |StadtDresden|She                      |RainerWasserfuhr
+|20070815:1400|     |        |WirkZentrum |ReineMachFee             |RainerWasserfuhr
+|20070815:1000|     |        |StadtDresden|Wohnungsübergabe         |YvonneSchubert
+|20070814:2330|     |        |Saloppe     |SchnittchenBuffet        |RainerWasserfuhr
+|20070813:1900|     |        |Blumenau    |CointFlirt               |RainerWasserfuhr,ChristineSchlinck
+|20070813     |     |        |            |Wochenende               |YvonneSchubert
+|20070812:1930|     |        |StadtBerlin |reviewe MingDynastie     |RainerWasserfuhr,UteMoritz
+|20070811:1600|2359 |        |StadtDresden|Kochzirkel               |YvonneSchubert
+|20070809     |     |        |StadtDresden|Eva Geburtstag           |YvonneSchubert, RainerWasserfuhr
+|20070808:1900|:2359|        |Zaza        |Xing Stammtisch          |RainerWasserfuhr,YvonneSchubert,JuergenKohn,JaDi, PiKa
+|20070807:1800|:0700|        |StadtDresden|privat                   |YvonneSchubert
+|20070806:2000|     |        |StadtDresden|Plauderei                |YvonneSchubert, JanDie
+|20070806:1800|     |        |WirkZentrum |Fee                      |RainerWasserfuhr
+|20070806     |     |        |            |Freizeit                 |YvonneSchubert
+|20070805     |     |        |            |Freizeit                 |YvonneSchubert
+|20070804:1000|     |        |RauschenBach|MindPenne                |RainerWasserfuhr,YvonneSchubert,ChristineSchlinck,JosefBuechel
+|20070803:1930|2359 |        |AuraRaum    |LiteraturImGespraech     |YvonneSchubert,JensWegerle
+|20070803:1600|:1900|        |StadtDresden|SportWiki                |YvonneSchubert,JuergenKohn,KaKu
+|20070803     |     |        |TaiPei      |WikiMania                |JimmyWales
+|20070731:1900|:2300|        |FreudenBerg |Xing Stammtisch          |RainerWasserfuhr,YvonneSchubert,ChristineSchlinck,BobHooda
+|20070730:1400|     |        |WirkZentrum |Fee                      |RainerWasserfuhr
+|20070728:1600|     |        |            |Freizeit                 |RainerWasserfuhr
+|20070726     |     |        |            |Freizeit                 |YvonneSchubert
+|20070722     |     |        |            |Freizeit                 |YvonneSchubert
+|20070721     |     |        |            |Freizeit                 |YvonneSchubert
+|20070720:1930|:2359|        |AuraRaum    |Was ist rein?            |YvonneSchubert, JensWegerle
+|20070720     |0722 |        |KarlsRuhe   |[DasFest|http://ka.stadtwiki.net/Das_Fest]|
+|20070720:1400|     |        |FaehrGarten |Besprechung VerTrag,SportPortal|RainerWasserfuhr,JuergenKohn,KaKu
+|20070719:1830|:2200|        |Ammonhof    |Büro-Golf                |YvonneSchubert
+|20070718:2000|:2300|        |StadtDresden|Besprechung              |RainerWasserfuhr,NN
+|20070718:1930|:2300|        |Hellerau    |Networking FutureSax     |YvonneSchubert?
+|20070718:1800|     |        |GehAcht     |Formschluss              |RainerWasserfuhr?
+|20070717:1930|:2300|        |StadtDresden|Besprechung Koop         |YvonneSchubert, KaPi
+|20070716:1700|:1900|        |WirkZentrum |Fee                      |RainerWasserfuhr
+|20070715:2000|     |        |StadtDresden|SchauBudenSommer         |RainerWasserfuhr
+|20070715:1900|     |        |ThaliaDresden|TreckerUndIhreHelden    |
+|20070713     |     |        |Freizeit    |                         |YvonneSchubert
+|20070712:1800|:2200|        |FinanzMinisterium|SaxxessEvent        |RainerWasserfuhr,YvonneSchubert,SebastianMitter,JuergenKohn,KaKu
+|20070712:1400|:1800|        |StadtDresden|SportPortal-Storming     |RainerWasserfuhr,YvonneSchubert,JuergenKohn,KaKu
+|20070711:2200|:0700|        |StadtDresden|privat                   |YvonneSchubert 
+|20070710:1800|:2100|        |StadtDresden|BusinessEnglish          |YvonneSchubert
+|20070708:1400|:1800|        |StadtDresden|SportPortal-Storming     |RainerWasserfuhr,JuergenKohn,KaKu
+|20070706:1930|:2359|        |AuraRaum    |Literarischer Abend      |YvonneSchubert,JensWegerle
+|20070705:1900|:1000|        |SemperOper  |Faust                    |RainerWasserfuhr
+|20070703:1900|:2300|        |CarolaSchloesschen|XingTreffen        |YvonneSchubert,ChristineSchlinck
+|20070703:1800|:2100|        |StadtDresden|BusinessEnglish          |YvonneSchubert
+|20070703:0900|:1000|        |StadtDresden|privat                   |YvonneSchubert

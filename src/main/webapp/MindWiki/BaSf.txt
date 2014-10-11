@@ -1,0 +1,4 @@
+* IsA: DaxUnternehmen
+* EtymoLogia: "Badische Anilin- & Soda-Fabrik"
+* InterWiki: [DeWikiPedia:BASF]
+* IsIn: DE0005151005

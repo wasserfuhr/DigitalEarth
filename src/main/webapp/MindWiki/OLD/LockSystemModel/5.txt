@@ -1,0 +1,19 @@
+The SystemDynamics model of LockSchuppenAg.
+
+Nodes:
+* LockCoupon
+* LockSession's
+* PageCount
+* #CitiZens
+* MarketCap
+* ReVenue (EuRo)
+* WechselKurs (KayGroschen to EuRo)
+* #MonthlyActiveUsers of MindWiki
+* #PayMent's at PieschenBank
+* [#1] LockSchuppen-TwittEr-followers
+* [#2] LockSchuppen-TwittEr-following
+* [#3] LockSchuppen-TwittEr-listed
+* [#4] FaceBookGroup-members
+
+||On       ||[1]||[2]||[3]||[4]
+|2010-03-12| 451| 610| 32|119

@@ -1,0 +1,50 @@
+* InterWiki: [AgiriWiki:AGIRI_Events] [DdWiki:Stadtwiki:Veranstaltungen] [DeWikiPedia:Januar_2010]
+ [OpenCog:Current_events]
+
+The WikiBased calendar of NooPolis.
+
+(MindEvent's in the WikiLender have a "When" and an optional "UnTil". Things which only have an "UnTil" can be found as DeadLine)
+||When        ||UnTil||Status||MindPlace    ||What                    ||MindPeople
+|20100104:1930|     |        |VereinshausJohannstadt|MontagsKreis     |AndreasPoldrack ThomasKlemm NorbertRost RalfLippold? EtAl
+|20100106     |     |        |LockOffice    |TuerSchild               |RalfLippold EtAl
+|20100107     |     |        |StadtDresden  |UndSonstSo               |
+|20100111     |     |        |StadtDresden  |WirtschaftsJunioren      |
+|20100120     |     |        |StadtChemnitz |FutureSax                |
+|20100125     |     |        |StadtLeipzig  |ElevatorPitch            |JamesParsons
+|20100211:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|20100216     |     |        |RoeschenHof   |FaschingsParty           |RainerWasserfuhr? EtAl
+|20100305     |     |        |Lugano        |AgiConf                  |BenGoertzel? EtAl
+|20100319     |     |        |ParkHotel     |HutBall                  |
+|20100320     |     |        |ParkHotel     |HutBall-Party            |
+|20100324     |     |        |EtherPad      |Uebertrag in MindWiki    |RalfLippold RainerWasserfuhr EtAl
+|20100330     |     |        |FreistaatSachsen|FutureSax              |
+|20100424     |     |        |StadtDresden  |MobileCamp               |JanBoehme EtAl
+|20100425     |     |        |StadtDresden  |MobileCamp               |JanBoehme EtAl
+|20100505     |     |        |NordrheinWestfalen|NrwWahl2010          |JuergenRuettgers EtAl
+|20100514     |     |        |VillaWeigang  |Heirat                   |JeMand JeMand EtAl
+|20100514     |     |        |StadtDresden  |PolterAbend              |JeMand JeMand EtAl
+|20100515     |     |        |ChristusKirche|HochZeit                 |JeMand JeMand EtAl
+|20100515     |     |        |BallsaalRichter?|HochzeitsFeier         |JeMand JeMand EtAl
+|20100610     |     |        |CongressCenterDresden|ZukunftsForum     |RayKurzweil ThomasKoeplin? EtAl
+|20101023     |     |        |LosAngeles    |LoebnerPrize             |HughLoebner EtAl
+|20110224     |     |        |StadtDresden  |WorldCultureForum        |EtAl
+|20110225     |     |        |StadtDresden  |WorldCultureForum        |EtAl
+|20110226     |     |        |StadtDresden  |WorldCultureForum        |EtAl
+|20110303:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|20120216:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|20121221     |     |        |PlanetErde    |13.0.0.0.0               |
+|20120623     |     |        |PlanetErde    |BirthDay                 |AlanTuring
+|2013         |     |        |DeutschLand   |BundestagsWahl2013       |
+|20141024     |     |        |GalerieHorschik|OpenArt-BeSuch          |RainerWasserfuhr JeMand?
+|20261113     |     |        |PlanetErde    |DoomsDay                 |HeinzVonFoerster EtAl
+|20361217:1930|     |        |UniVerse      |End of HundertMalHundert |RainerWasserfuhr
+|20810903     |     |        |DeutschLand   |SonnenFinsternis         |
+
+everything else is on the FutureMap
+
+!WasWar:
+
+||When        ||UnTil||      ||MindPlace    ||What                    ||MindPeople
+|20091231     |     |        |RoeschenHof   |Party                    |RainerWasserfuhr GerdPriebe JeMand EtAl
+
+Earlier Events: WasWar.

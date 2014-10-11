@@ -1,0 +1,48 @@
+* InspiredBy: TeamAcademy, BildungsBurg
+
+Beitrag für http://wwweblern.pbwiki.com/PeerAcademy :
+
+Um über das WwWebLern-ProJekt hinaus einen dauerhaften Rahmen für neue Lehr- und Lernformen zu finden, wollen RaldLippold und RainerWasserfuhr ein ambitioniertes VorHaben vorschlagen:
+
+Der beste Weg des Lernens ist das Tun.
+
+Anstatt BWL zu pauken bieten Einrichtungen wie das CdTm in der StadtMuenchen oder die TiimiAkatemia in FinLand schon während des Studiums die Möglichkeit an, ein StartUp zu gründen.
+
+Das Lernen in der von RaldLippold und RainerWasserfuhr vorschlagenen PeerAcademy soll dabei noch einen Schritt weitergehen:
+
+Unser Ziel ist die Schaffung einer ganzen MicroNation, in der nicht nur
+ein sondern mehrere StartUp's florieren sollen. Und ein ganzes virtuelles 
+Wirtschaftssystem, ähnlich wie in SecondLife, ein WikiBasiert'es Rechtswesen mit VerFassung,
+BuergerBeteiligung und gewählten MinisTer'n im CabiNet. Die KeimZelle für ein WikiBasiert'es VolksNetz,
+das Lernende und Lehrende sowie Kunden und Mitarbeiter verbindet.
+
+Als Ort der physikalischen Begegnung wollen wir von der DbServicesImmo einen ca 1500 qm grossen derzeit lehrstehenden 
+LokSchuppen erwerben, und die gesamte Finanzierung mittels CrowdSourcing und SchwarmIntelligenz
+aufziehen und darin die SingularFernUni gründen, um damit Lernen per RealLife und TelePresence zu ermöglichen.
+
+Erstes Grobkonzept:
+* Kleine Lerneinheiten (so ab 1-2h). Lernen erfolgt zwischen sogenannten "Peers".
+* Bei jedem PeerLearning vermittelt der Lehrer eine Einheit - dies kann OnLine oder OffLine FaceToFace geschehen
+
+Öffentliche Empfehlung: "mein Schüler kennt sich jetzt (ganz wenig - gut - sehr gut - exzellent aus mit Topic)."
+
+Diese Empfehlung wird öffentlich mit ZeitStempel im MindWiki festgehalten.
+Sobald der Schüler die MindSkill's erworben hat, kann er selbst als Lehrer auftreten.
+
+SingularBachelor:
+* Lehrer: RainerWasserfuhr
+* Schueler: RalfLippold, ChristineSchlinck, (YvonneSchubert?)
+
+LeanBachelor:
+* Lehrer: RalfLippold
+* Schueler: RainerWasserfuhr
+
+Weitere MindSkill's im Angebot:
+* JavaBachelor
+* WikiBachelor
+* InternetBachelor
+* FacebookBachelor
+
+Lernen, Spielen, Quiz.
+
+Könne wir das BildungsSystem vom Kopf auf die Fuesse stellen?: PeerToPeer-ErZieh'ung und WeiterBildung.

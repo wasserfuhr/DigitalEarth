@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:David_Hilbert]
+* BirthDay: 01-23

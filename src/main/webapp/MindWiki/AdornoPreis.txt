@@ -1,0 +1,17 @@
+* IsA: MindAward
+* InterWiki: [DeWikiPedia:Theodor-W.-Adorno-Preis]
+* NamedAfter: TheodorWAdorno
+
+RedBlueGame:
+* 2009 AlexanderKluge
+* 2006 AlbrechtWellmer
+* 2003 GyoergyLigeti
+* 2001 JacquesDerrida
+* 1998 ZygmuntBauman
+* 1995 JeanLucGodard
+* 1992 PierreBoulez
+* 1989 LeoLoewenthal
+* 1986 MichaelGielen
+* 1983 GuentherAnders
+* 1980 JuergenHabermas
+* 1977 NorbertElias

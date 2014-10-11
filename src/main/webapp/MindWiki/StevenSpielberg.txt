@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Steven_Spielberg]
+* BornIn: 1946
+* BirthDay: 12-18
+* ViAf: http://viaf.org/viaf/98230187

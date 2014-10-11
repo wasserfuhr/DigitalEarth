@@ -1,0 +1,8 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Alexander_der_Große] [OpenCyc:AlexanderTheGreat-HistoricPerson]
+* VorName: AlexAnder
+* BornIn: -355
+* BirthDay: 07-20
+* DiedIn: -323
+
+SpouseOf: RaUḫšna

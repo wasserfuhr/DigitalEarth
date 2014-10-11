@@ -1,0 +1,18 @@
+* IsA: WunderKind
+* MindQuote: "bruähhwahaauäääää!"
+* SprachWelt: de
+* VorName: Jannis Florentin
+* MamaZwoNull: ChristineSchlinck
+* BornIn: 2008
+* BirthDay: 10-11:1741
+* WoZu: ImMortal
+* TraumZeitAlter: 2008
+* BoundingBox: 0.53
+* WohnSitz: BergGarten
+* BirthPlace: JosephStift
+* MindTrust: ChristineSchlinck
+* WikiPate: RainerWasserfuhr
+* MindSkill: DrehenUndTreten SchluckAuf DeziPetaFlops
+* WortSchatz: MaMa heiss brumm wauwau an ainer agger auf ei heia
+* PersonenGedaechtnis: ChristineSchlinck RainerWasserfuhr HeGa MarLo RaBr 
+* InBody: {"20081011:1741", 4.12}, {"20081010:1200", 4.1}

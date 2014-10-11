@@ -1,0 +1,4 @@
+Die Startseite des MindWiki ist die Seite MindBroker.
+Ein WikiPath ist eine Folge von *unterschiedlichen* Wikiseiten, durch über einen oder mehrere Clicks im MindBroker von der Startseite aus erreichbar ist.
+
+Jede Seite im PageIndex hat null, einen oder mehrere WikiPath's.

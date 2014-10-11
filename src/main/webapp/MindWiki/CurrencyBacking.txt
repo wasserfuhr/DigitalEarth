@@ -1,0 +1,3 @@
+Currently the PieschenBank offers the following CurrencyBacking:
+
+* 100 KayGroschen are backed by 1 EuRo

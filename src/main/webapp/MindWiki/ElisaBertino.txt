@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Elisa_Bertino]
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/ElisaBertino
+* HomePage: http://homes.cerias.purdue.edu/~bertino/
+* PageNumber: 12
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann WolfgangBibel KlausPJantke BernhardThalheim JoachimBiskup SandraWortmann ElenaFerrari ElisaBertino

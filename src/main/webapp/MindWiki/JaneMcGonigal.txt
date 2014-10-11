@@ -1,0 +1,12 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Jane_McGonigal]
+* BornIn: 1977
+* BirthDay: 10-21
+* MindQuote: "in terms of perceived quality of life, virtuality is beating reality."
+* MindBlog: http://avantgame.blogspot.com/
+* MindSkill: PostReal AlternateReality
+* MindFaves: FruitMentos
+|[TwittEr:avantgame]
+|[FlickEr:avantgame]
+|[SlideShare:avantgame]
+|[FaceBook:694502545]

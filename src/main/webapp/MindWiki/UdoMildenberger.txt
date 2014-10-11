@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/62/2983
+* PageNumber: -1
+* HomePage: http://www.hdm-stuttgart.de/~mildenb/
+|[XingLe:Udo_Mildenberger]

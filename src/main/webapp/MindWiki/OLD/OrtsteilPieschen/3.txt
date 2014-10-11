@@ -1,0 +1,7 @@
+* http://de.wikipedia.org/wiki/Pieschen
+* http://wikidd.frokost.de/wiki/Pieschen
+* PieschenBank
+
+* BreitenGrad: 51.07833
+* LaengenGrad: 13.71778
+* BoundingBox: 2000

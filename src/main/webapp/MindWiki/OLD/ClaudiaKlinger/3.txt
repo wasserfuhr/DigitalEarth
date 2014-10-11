@@ -1,0 +1,15 @@
+* IsA: PerSon
+|[TwittEr:HumanVoice]
+
+InspiredBy: http://www.webwriting-magazin.de/wozu-noch-privatheit-ein-wutanfall/
+
+RainerWasserfuhr VerSteh't die Schlussfolgerung von "weniger PrivatSphaere" zu "weniger FreiHeit" und "De-Individualisierung" ("gleichförmig","stromlinienförmig") nicht.
+
+Eher dürfte »LongTail« hochdifferenzierter Wissens-Portfolies entstehen, und davon können wir von Tag zu Tag mehr entdecken.
+
+Und dieser LongTail lässt sich sehr EinFach nachweisen: Als BeiSpiel: Die TwitterSearch nach CxCr4 lieftert TimeLine 2010-03-10 3 Ergebnisse: http://search.twitter.com/search?q=cxcr4
+* http://twitter.com/ultramegawolf/statuses/10204866993
+* http://twitter.com/LyndaLaPlante/statuses/10037380798
+* http://twitter.com/VEGFRSSfeeds/statuses/9971108697
+
+Sie lieferte uA MustafaEngin und einen Aggretator für Vascular_endothelial_growth_factor.

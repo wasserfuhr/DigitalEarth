@@ -1,0 +1,7 @@
+Welche großen UnterNehmen haben wie große unternehmensweite interne WikiPedia- artige Projekte:
+
+||UnterNehmen||Seiten ||Software||Mitarbeiter
+|EiBiEm      |>2000   |MediaWiki|355766
+|GoogleInc   |?       |?        |15916
+|SynAxon     |?       |?        |130
+|MindBroker  |>1000   |JspWiki  |1,5

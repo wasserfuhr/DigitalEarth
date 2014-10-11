@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* HomePage: http://www.tzdresden.de/
+* BreitenGrad: 51.0128
+* LaengenGrad: 13.7537
+* BoundingBox: 150
+* MindCount: 50

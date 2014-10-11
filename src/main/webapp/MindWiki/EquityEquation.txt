@@ -1,0 +1,2 @@
+"You should give up n% of your company if what you trade it for improves your average outcome enough that the (100 - n)% you have left is worth more than the whole company was before."
+http://www.paulgraham.com/equity.html

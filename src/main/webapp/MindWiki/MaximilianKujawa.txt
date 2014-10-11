@@ -1,0 +1,8 @@
+* IsA: PerSon
+* ChildOf: ThomasKujawa
+* ChildOf: AntjeKujawa
+* BornIn: 1995
+* BirthDay: 12-17
+* SprachWelt: de en-1
+* HomeStead: SeeBenisch
+* TimeZone: CET

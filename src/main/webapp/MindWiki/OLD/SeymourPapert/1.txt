@@ -1,0 +1,6 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Seymour_Papert], [WikiWikiWeb:SeymourPapert]
+* JahrGang: 1928
+* BirthDay: 03-01
+* HasTalked: JeanPiaget
+* MindSkill: ArTelligence

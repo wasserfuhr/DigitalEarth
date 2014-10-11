@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.06
+* LaengenGrad: 13.75
+* BoundingBox: 15
+* MindCount: 5
+* HomePage: http://www.cafe-today.de/

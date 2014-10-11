@@ -1,0 +1,4 @@
+Eines der Axiome der Unternehmensphilosophie von MindBroker:
+* Neben dem Wissen in den MiNd's der MindBroker besteht das UnterNehmen nur aus dem MindWiki und dem SourceCode.
+
+Siehe auch: WikiWikiWeb:SelfDocumentingCode

@@ -1,0 +1,4 @@
+* IsA: MindPlace
+* PartOf: TuDresden
+* NearBy: GeorgeBaehrStrasse HelmholtzStrasse
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/23326563

@@ -1,0 +1,12 @@
+||On     ||by             ||                ||Audience
+|20091203|RainerWasserfuhr|GoodByeKurzweil  |~42
+|20091019|RainerWasserfuhr|KurzweilVortrag  |~35
+|20090610|RalfLippold     |LockMontagsKreis |~15
+|20081215|RainerWasserfuhr|KiVortrag        |~15
+|20081125|RainerWasserfuhr|SeminarWissen    |~10
+|20050810|RainerWasserfuhr|WissensManagement|~30
+|20031201|RainerWasserfuhr|WikiPedia        |~20
+|200305  |RainerWasserfuhr|IdeenMaerkteManagement|~~15
+|19990925|RainerWasserfuhr|AwareNet         |~60
+|19980518|RainerWasserfuhr|ToCee            |~100
+|19970117|RainerWasserfuhr|ToCee            |~100

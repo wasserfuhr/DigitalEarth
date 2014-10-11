@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/FrankvanHarmelen
+* HomePage: http://www.cs.vu.nl/~frankh/
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker StefanDecker FrankVanHarmelen
+|[TwittEr:FrankVanHarmele]

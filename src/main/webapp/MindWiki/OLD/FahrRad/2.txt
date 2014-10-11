@@ -1,0 +1,4 @@
+* InterWiki: [DeWikiPedia:Fahrrad]
+* HaeufigsteWoerter: 5901
+
+HaeufigkeitsKlasse: 11

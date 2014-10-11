@@ -1,0 +1,9 @@
+!Wetten um MindShares in der Zukunft:
+
+||am          ||Gewinner||Pro         ||Contra          ||# ||MindLine||Topic
+|20070402     |      |RainerWasserfuhr|DanielPoodratchi | 10|20071231|SanfteRache
+|2007???      |      |RainerWasserfuhr|RicardaDHerbrand | 20|20070430|SalsaNonnen
+|20070330     |      |RainerWasserfuhr|DanielPoodratchi |100|20071231|RotLicht
+|20070303     |      |RainerWasserfuhr|ChristineSchlinck| 10|20100303|DelIq
+|20070302:1620|      |RainerWasserfuhr|DanielPoodratchi | 10|20090302|SecondLips
+|2007???      |contra|RainerWasserfuhr|RicardaDHerbrand | 10|20070331|SecondSalsa

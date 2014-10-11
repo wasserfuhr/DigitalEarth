@@ -1,0 +1,144 @@
+* MindTags: MindEvent
+* HashTag: sse09
+
+A GedankenSpiel of RainerWasserfuhr, RalfLippold, ChristineSchlinck and SiggiBecker:
+
+The
+
+__SingularSummitEurope__
+
+- already 2009 in the LockSchuppen? With RayKurzweil, Simultan-TransLate'd für DeutschSprech'ende???
+
+* WikiLender: One or two days in September 2009?
+
+* MindPlace-Candidates: TuDresden or PanoMeter or CongressCenterDresden or LockSchuppen
+
+Event Format: a mixture of a classical conference with a few KeyNote's plus a SingularCamp with OpenSpace elements.
+
+OrgaTeam: RainerWasserfuhr, RalfLippold, SiggiBecker, ChristineSchlinck, DavidOrban? BobRichards? ChristianHeller? JanBoehme??
+
+__InvitationOnly__!
+
+OpenBook: Each PayMent of sponsors and participants is TransParent'ly documented in the MindWiki. Earnings go to the LockSchuppenAg.
+
+OpenPricing: Participant can openly declare their __individual__ price tag for:
+* what they want to pay to participate
+* price for a giving a talk
+* sponsoring
+
+In each case, the price has to be approved by at least one of the OrgaTeam members.
+
+!BrainStorm: Sponsors:
+* BrandEins
+* ClariumCapital
+* CyberPort
+* DeutscheBahn
+* DeutscheTelekom
+* DeutscheWelle
+* DieZeit
+* DresdenInternationalUniversity
+* DvbAg
+* EaDs
+* FreistaatSachsen
+* GoogleInc
+* HtwDresden
+* LaVilletta
+* MunichRe
+* SingularityUniversity
+* StadtDresden
+* SuppenBar
+* SwissRe
+* TaschenBerg
+* TSystemsMms
+* TuDresden
+* ZeppelinUniversity
+
+!BrainStorm: Guests, KeyNote-Speaker, ProFessor's, SingularityMind's, ZukunftsForscher, EntrePreneur's:
+
+||Participant ||[1]||[2]||[3]||[4]||WantsToPay||HasPayed||ApprovedBy
+|AndersSandberg | | |
+|AndreasPoldrack | | | |
+|AubreyDeGrey |K |
+|AxelOckenfels | | |P
+|BastiHirsch | | | |
+|BenGoertzel |K |S | |E
+|BillLiao | | | |E
+|BrunoGiussani | | | |
+|BobRichards | | | |
+|DavidBrin |K |S
+|DavidOrban | | | |
+|ChristineSchlinck | | | | |100 EuRo | |RainerWasserfuhr
+|ChristianHeller | |S
+|DavidBrin |K |S
+|DirkHilbert | | | |
+|DirkRoehrborn | | | |E
+|PeterKlingenburg | | | |
+|EdgarSchein | | | |
+|FrankSchoenefeld | | | |
+|GuentherSchiwy | |S
+|HassoPlattner | |S |P |E
+|HelmaOrosz | | | |
+|HenryMarkram |K |S |P |
+|HubertBurda | | | |E
+|IanPearson | |S |
+|IjGood | |S |
+|JanBoehme | | | |
+|JayForrester | |S |P
+|JensBemme | | | |
+|JoachimNiemeier | | |P
+|JoergKeller | | | |
+|JoergSiekmann | |S |P
+|JohnNash |K |S |P
+|JohnSterman | |S |P
+|KevinKelly |K |S
+|KurtBiedenkopf | | |P
+|LarsHinrichs | | | |E
+|MarcusBertelsmeier | | | |
+|MarioSixtus | | | |
+|MartinNowak | | |P
+|MatthiasHorx | |S
+|NickBostrom | |S
+|MichaelSchefczyk | | |P
+|NikolaiKardashev |K | |P
+|NorbertRost | | | |
+|OliverGassner | | | |
+|OttoScharmer | | | |
+|PeterClaussen | | | |
+|PeterHines | | | |
+|PeterKlingenburg | | | |
+|PeterNorvig | |S |P |
+|PeterSenge | | | |
+|PeterThiel |K |S | |E
+|RaimarScherer | | |P |
+|RainerWasserfuhr | |S | |
+|RalfLippold | | | |
+|RayKurzweil |K |S | |E
+|ReinhardHeil | | | |
+|RichardBranson | |S | |E
+|RichardFlorida | | |P |
+|SebastianMitter | | | |
+|SebastianThrun | |S |P |
+|SethGodin | | | |
+|SiggiBecker | |S
+|SoerenStamer | |S | |E
+|SteffenHoelldobler | | |P
+|SteveJurvetson | |S | |E
+|TimBruysten | | | |
+|TimBl |K |S
+|WilliamShatner | | | |
+|WilliSchroll | | | |
+|WinfriedLachnit | | |P
+|WolfgangBibel | | |P
+|WolfgangDonsbach | | |P
+|WolfgangWahlster | |S |P
+|ZigaTurk | |S |P
+* [#1] Candidate as the KeyNote-Speaker
+* [#2] Speaker
+* [#3] ProFessor
+* [#4] EntrePreneur
+
+Special guests:
+|AnSto |
+|ChSchu |
+|JuSt
+|MaSc 

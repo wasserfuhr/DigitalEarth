@@ -1,0 +1,6 @@
+* InterWiki: [WikiPedia:Freebase_(database)]
+* HomePage: http://www.freebase.com/
+
+by MetaWeb
+
+MindBase LinkedData

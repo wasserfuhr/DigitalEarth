@@ -1,0 +1,60 @@
+* InspiredBy: ProustQuestionnaire
+
+# Wie heisst Du?
+**
+# Welcher JahrGang bist Du?
+**
+# Hast Du schon mal ScreenR ausprobiert?
+**
+# Hast Du Lust, einen Teil der Beantwortung dieser Fragen per ScreenR aufzuzeichnen?
+**
+# Gibt es ein öffentlich zugängliches Video von Dir im InterNet?
+**
+# Wann hattest Du Deinen ersten Computer?
+**
+# Wieviel MegaHertz hatte er?
+**
+# Was hat er gekostet?
+**
+# Schätzt Du gerne?
+**
+# Schätzt Du manchmal Deine statistische LebensErwartung?
+**
+# Was ist der Standard-Browser auf Deinem LapTop?
+**
+# Wie oft hast Du RaysTedTalk gesehen?
+**
+# Hast Du SingularityIsNear gelesen?
+**
+# Wie oft hast Du CreateYourself gesehen?
+**
+# Wie oft hast Du SpaceOdyssey gesehen?
+**
+# Hast Du schon mal die folie http://www.slideshare.net/rainer/goodbyekurzweil/55 gesehen?
+**
+# Hast Du schon ScreenCast's von WikiWallGame's gesehen?
+**
+## welche?
+**
+# Lust ein WikiWallGame per ScreenR zu spielen?
+**
+## wenn nein: wie hoch müsste das incentive sein (in EuRo KayGroschen LockCoupon's oder LockProMille)?
+**
+# Was schätzt Du: was schätzt RaWa wieviele Punkte Du beim WiWaGa machen wird?
+**
+# Wie oft schon MonoPoly gespielt?
+**
+# Hast Du schon mal NoMic gespielt?
+**
+# Wie oft ca. im Leben schon SkyPe ScreenSharing gemacht?
+**
+# Hast Du schon mal einen WikiPedia-Artikel geschrieben?
+**
+## in angemeldetem Modus?
+**
+# Wer könnte NextGuest für den SingularQuestionnaire sein?
+**
+# Hast Du schon mal schon mal ein AlternateReality-Game gespielt?
+**
+# Kennst Du JeMand der Lust hat, eine neue WorldCurrency zu schaffen?
+**

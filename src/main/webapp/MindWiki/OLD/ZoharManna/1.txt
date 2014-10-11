@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Zohar_Manna]
+* JahrGang: 1939
+* DbLp: http://dblp.uni-trier.de/rec/pid/m/ZoharManna

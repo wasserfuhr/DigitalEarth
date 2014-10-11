@@ -1,0 +1,17 @@
+ist MindBroker.
+
+* role: Founder, ChiefMarketingOfficer
+* svn-user: yvonne
+* JahrGang: 1974
+* LebensErwartung: 2065
+
+
+||AusLand
+|[BlogLines:yvonneschubert]
+|[DelIcioUs:Perl]
+|[DeWikiPediaUser:Yvonne_Schubert]
+|[XingLe:Yvonne_Schubert]
+|[FaceBook:645804224]
+|[SkyPe:yvonneschubert]
+|[WorldWideWeb:yvonneschubert.com]
+|[YouTube:yvonneschubert]

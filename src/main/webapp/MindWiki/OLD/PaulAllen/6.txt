@@ -1,0 +1,10 @@
+* IsA: SingularityMind UnternehmensGruender
+* InterWiki: [DeWikiPedia:Paul_Allen] [WebSeitz:PaulAllen]
+* ViAf: http://viaf.org/viaf/18161513
+* BornIn: 1953
+* BirthDay: 01-21
+* MindSkill: NooChess
+
+[TwittEr:PaulGAllen]?
+
+MicroSoft

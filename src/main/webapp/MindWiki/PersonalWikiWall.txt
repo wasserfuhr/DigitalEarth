@@ -1,0 +1,25 @@
+PersonalWikiWall 4x4 WikiWall with personal ConNect'ions to PerSon's, ConCept's or ideas
+
+# LogIn to MindWiki
+# Edit / Bearbeiten
+# Copy / Kopieren (the following 4 lines as they are below):
+|xxx |xxx |xxx      |xxx
+|xxx |xxx |xxx      |xxx
+|xxx |xxx ||YourName|xxx
+|xxx |xxx |xxx      |xxx
+
+# Create new page YourNameWikiWall (that will be created by yourself)
+# Paste the above 4 lines
+# Change "YourName" 
+# Fill in the table with the remaining 15 names
+# save and check RedVsBlue links
+# wait UnTil a WikiAngel will start to ConNect the red ones ;)
+
+MyWikiWall:
+* EliasMorgensternWikiWall
+* MandyHelasWikiWall
+* MarkusStammWikiWall
+* PhilippeGreierWikiWall
+* RalfLippoldWikiWall
+* RainerWasserfuhrWikiWall
+* SoerenRogollWikiWall

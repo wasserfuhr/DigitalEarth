@@ -1,0 +1,51 @@
+* MindTags: RdfClass
+* RdfClass: http://xmlns.com/foaf/0.1/#Person
+
+MindPeople are interesting people on PlanetEarth,
+with or without LebensEnde, with their RealName as title of a WikiPage.
+The CitiZens of NooPolis want to connect these BeautifulMind's.
+
+Current MindPeople in PageIndex of the MindWiki:
+
+[{INSERT ReferringPagesPlugin}]
+
+Additional interesting MindPeople (sorted by VorName):
+* AlvarFreude
+* AndyWarhol
+* ArnoSchmidt
+* BjoernOgnibeni
+* CarlGustavJung
+* ColinSchlueter
+* DanielGoleman
+* DirkBaecker
+* DirkOlbertz
+* ErikBenson
+* EkkehardBoesche
+* EugenDrewermann
+* FernandoPessoa
+* FrankWestphal
+* FranzPatzig
+* FriedrichSchiller
+* HannahAhrend
+* HeikoHebig
+* HermannHesse
+* HugoEMartin
+* JacquesDerrida
+* JeffBezos
+* JensUweSauer
+* JohannesKleske
+* LudwigWittgenstein
+* MartinRecke
+* MichelSerres
+* NicoleSimon
+* OliverThylmann
+* OliverUeberholz
+* OriBrafman
+* PeterEmilBecker
+* PeterEngels
+* PeterFuchs
+* StefanKellner
+* StephanHeller
+* VincentJaehrig
+
+DoIt: Create a WebApp for showing and searching MindPeople, later http://people.mindbroker.de

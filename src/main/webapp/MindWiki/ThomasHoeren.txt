@@ -1,0 +1,9 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Thomas_Hoeren]
+* BornIn: 1961
+* BirthDay: 08-22
+* DbLp: http://dblp.uni-trier.de/rec/pid/52/3926
+* HomePage: http://www.uni-muenster.de/Jura.itm/hoeren/mitarbeiter/hoeren.htm
+* PageNumber: 4
+* PagePath: LarryPage HectorGarciaMolina GerhardWeikum GottfriedVossen ThomasHoeren
+* MindSkill: VerFassung

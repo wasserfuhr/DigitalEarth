@@ -1,0 +1,1 @@
+GedankenSpiel: KayGroschen based MindVote. (based on the KayGroschen CitiZens own on their BankAccount)

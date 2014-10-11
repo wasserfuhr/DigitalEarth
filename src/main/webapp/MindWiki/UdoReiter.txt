@@ -1,0 +1,6 @@
+* IsA: PerSon
+* BornIn: 1944
+* BirthDay: 03-28
+|[TwittEr:mdrreiter]
+
+StaatsFunk

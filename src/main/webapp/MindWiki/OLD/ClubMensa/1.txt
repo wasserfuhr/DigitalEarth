@@ -1,0 +1,4 @@
+* IsA: NightClub
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/295070246
+* HomePage: http://www.clubmensa.de/
+* PartOf: HochschulStrasse

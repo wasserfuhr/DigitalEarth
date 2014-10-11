@@ -1,0 +1,34 @@
+UnterNehmen auf dem HoheitsGebiet von NooPolis:
+||UnterNehmen  ||RechtsForm   ||UnternehmensGruender
+|PieschenBank  |StaatsBetrieb |RainerWasserfuhr
+|AlgenDresden  |UnLimited     |HolgerHelas
+|CreoSphere    |UnLimited     |MarcoDziallas
+|FamilienFreund|UnLimited     |JanaSchlegel
+|LockSchuppenAg|UnLimited     |RalfLippold
+|MindBroker    |UnLimited     |RainerWasserfuhr
+|ProtoWerb     |UnLimited     |JoergKeller
+
+
+Potentielle Kandidaten:
+* BildungsBurg
+* SemProc
+* SchreitHarvester
+* BauchTanzAg
+* PengAg
+* BuzzRiders
+* CoreMedia
+* DueckWiki
+* IntelliHaus
+* KuhVz
+* LearnToUse
+* MindBau
+* OsCar
+* RapidRabbit
+* WebLin
+* SynAxon
+
+Besonders geeignet sind Kandidaten mit
+* OpenSource-SourceCode
+* WikiBasiert'em BusinessPlan
+* OpenBook
+* Mut und MindSkill für ein GlaesernesUnternehmen

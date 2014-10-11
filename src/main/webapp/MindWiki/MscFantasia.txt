@@ -1,0 +1,3 @@
+* MindTags: MindThing
+* InterWiki: [DeWikiPedia:MSC_Fantasia]
+* BoundingBox: 333.30

@@ -1,0 +1,29 @@
+* MindTags: CrowdWisdom
+* InterWiki: [DeWikiPedia:Lebenserwartung], [WebSeitz:LifeExpectancy]
+
+Die PreDict'ion für Dein LebensEnde. Die wichtigste Kennzahl für das EigenRisk.
+
+Dazu ein netter Test [beim ZDF|http://www.zdf.de/ZDFmediathek/content/Der_ZDF-Lebenszeitrechner/216668?inPopup=true].
+
+RainerWasserfuhr wird [diesem Chart zufolge|http://www.flickr.com/photos/rainerw/2326936072/] das
+Jahr 2029 zu ca. 88% erleben:
+||UnTil||LebensErwartung
+|2019|95%
+|2029|88%
+|2039|75%
+|2049|55%
+|2059|22%
+|2069|2%
+
+
+WasSchaetztDu: Was wird im Jahr X die durchschnittliche statistische LebensErwartung aller derzeit auf PlanetErde lebender MindPeople sein?:
+
+[DeWikiPedia:Bevölkerungspyramide]
+
+||Jahr||MindBroker    ||Schätzung
+|2007|YvonneSchubert  |2057
+|2007|RainerWasserfuhr|2058
+|2010|                |2060?
+|2020|                |2080?
+|2030|                |2100?
+|2040|AubreyDeGrey?   |2999?

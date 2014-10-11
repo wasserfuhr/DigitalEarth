@@ -1,0 +1,48 @@
+|[TwittEr:BigTableNomic]
+
+BigTableNomic is a CodeNomic game played on top of the functional ProgrammingLanguage CloJure, installed as a WebApp hosted on an AppEngine from GoogleInc.
+
+To play BigTableNomic, you should be familiar with
+* how a WebApp on the JavaVm and on AppEngine works
+* BigTable, as seen through the low level Java DataStore-API
+* CloJure, as our main language
+
+BigTableNomic is inspired by PerlNomic, but additionally it allows to create very a dynamic and scalable game inventory because of the underlying BigTable InfraStructure.
+
+To play BigTableNomic you only need a GoogleAccount. Soon we may also support FbConnect. JoinNow and help to implement it and earn 8192 units of our game currency »KayGroschen«.
+
+For coordinating the BigTableNomic developers we use a simple "DogFood" application that is based on the BigTable entity "BootStrap" and sorted in ReverseChronological order by property "date" and soon shown on the HomePage.
+
+The BootStrap WebApp is
+*  http://bigtablenomic.appspot.com/
+Other WebApp's based on BigTableNomic obtain their initial version from GoogleCode.
+
+Currently BigTableNomic is played on these AppEngine WebApp's:
+||ReVision||WebApp
+|32|http://bigtablenomic.appspot.com/
+|32|http://noopolis.appspot.com/
+|ToDo|http://pieschenbank.appspot.com/
+
+BigTableNomic is similar to a WiKi, but here the PageContent is not static text,
+but a dynamically executable fragment of SourceCode. 
+Currently BigTableNomic supports SourceCode for
+* CloJure
+* JavaScript (similar to Helma)
+* PHP
+
+In TheFuture we might also support server side languages like
+* grails
+* jRuby
+* Jython
+* Scala
+
+The mid-term goal of BigTableNomic is to create
+a new social OperatingSystem called »NoOs«, offering
+* Identity
+* Trust
+* Currency
+* SemanticWeb
+
+We want to help create an ecosystem for programmers, web designers and users.
+
+The LongTerm key purpose of NoOs is to play the AiGame with ArtificialGeneralIntelligence, where you define one or more AvaTar's and play exciting scenes at the SingularTheater.

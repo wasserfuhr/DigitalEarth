@@ -1,0 +1,8 @@
+http://websvn.mindbroker.de/
+
+Logins für SVN:
+* rainer:  RainerWasserfuhr
+* daniel: DanielPoodratchi
+* andreasw: AndreasWeigel
+* aurelien: AurelienEyoum
+* michael: Michael

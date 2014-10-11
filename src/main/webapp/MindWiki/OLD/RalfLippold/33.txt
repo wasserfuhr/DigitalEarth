@@ -1,0 +1,34 @@
+* MindTags: SingularityMind, UnternehmensGruender
+* WohnSitz: FritzReuterStrasse
+* JahrGang: 1965
+* BirthDay: 06-25
+* MamaZwoNull: GudrunLippold
+* PapaZwoNull: HermannLippold
+* SprachWelt: de, en-2, fr-1, es-1, la
+* TimeZone: CEST
+* LebensErwartung: 2056
+* MindBrowser: SafariBrowser, FlockBrowser
+* CurrentProjects: LockSchuppen
+* PastProjects: CeSarTrackingTool, ElbeFlut, WerkAufbauBMWLeipzig
+* MindSkill: SystemDynamics, EinfachMachen, LeanThink, MoeglichkeitsRaum, AbsTra, UltimateFrisbee, GlaesernesUnternehmen, GuteGespraeche, GesagtGetan
+* MindFaves: PeterSenge, EdwardsDeming, SystemDynamics, LeanThink, DanielGoleman, JayForrester, DennisMeadows, DanaMeadows, SustainabilityInstitute, BMW, Innovation, EdgarSchein, JohnSterman, OverBurden, FireFighting, OrganizationalCulture, Industrial Heritage, UrbanSplash, TeamAcademy, TeamLeaRningExperience, StadtDresden, LeaderShip, ManageMent, TheoryU, Facilitation, TippingPoint, SoL, network, KnowledgeWork, sharing, ImProve outside-the-box, ShigeoShingo, JimWomack, HtwDresden, SystemsThinking, Macintosh, EmotionalIntelligence, ProcessConsulting, OttoScharmer, SlUb, GeniusHellerau, MitSloan, MitWorld, TwittEr, TheSingularity, RayKurzweil, RichardFlorida, SeaSteading, TheHub, TiimiAkatemia, GranTorino
+* MindFollow: RainerWasserfuhr, CorneliaHeinz
+* HasTalked: ChristineSchlinck, DennisMeadows, DirkHilbert, EvaMariaStange, HeidiGallinat, HelmaOrosz, HansJuergenCrede, JayForrester, JohnSterman, KaiNeumann, MarigoRaftopoulos, MartinNovak, PeterClaussen, PeterSenge, ReinerZieschank, RobCross, YvonneSchubert
+* HasSeen: HelmutKohl, NorbertReithofer, SvenEchtermeyer
+* DrankBeerWith: RainerWasserfuhr, MarcusBertelsmeier, SimonKoeppl
+* MindBlog: http://leanthinkers.blogspot.com/
+||AusLand
+|[TwittEr:RalfLippold]
+|[XingLe:Ralf_Lippold]
+|[DelIcioUs:RalfLippold]
+|[FaceBook:1210500545]
+|[FriendFeed:ralflippold]
+|[FlickEr:ralflippold]
+|[TwittEr:leanthinkers]
+|[TwittEr:systemsguy]
+|[LinkedIn:ralflippold]
+|[DeWikiPediaUser:Frisbeeralf]
+Twibe:RalfLippold
+
+HotTopics für nächste GuteGespraeche
+* SocialBackup, DresdenFutureGroup, FutureMap, SchaetzQual, LoewenJagd, LockFutureSax, LangerMarsch, StimmeDerDvb, DatingWiki, AussenPattern, InnenPattern, MarketCap, DoIt, VerbThing, ReDo, WebFeed, LeistungsKonto, WirkSatz, MindFloor, VerTrag, PeerAcademy, GettingThingsDone, TheBerg, VerFassung, RayGroschen, IdeenPool, StartUpSaxony, StartUpSim, HtwAlumni, OpenFab, DigitalTwin, BrainCopy, FansOfFuturesax, SingularFutureSax, ShockLevel, SemanticWeb, SippenHaft, DistanzSpiel, WortSchatz, OpenEverything, LeanBachelor, LivingSystem, ReCur, AcceleratingReturns

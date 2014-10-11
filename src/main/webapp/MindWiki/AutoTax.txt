@@ -1,0 +1,6 @@
+The virtual SemanticEconomy of NooPolis could have automatic taxation.
+
+Not only tax collection is automated, but also the definition of the taxation levels.
+
+e.g CitiZens can propose TobinTax as MindProps on their WikiPage.
+The actual taxation level is calculated from the arithmetic mean.

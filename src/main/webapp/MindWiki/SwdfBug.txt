@@ -1,0 +1,50 @@
+UniqueNameAssumption for SwDf for PerSon's __except__:
+
+DfKi:
+* http://data.semanticweb.org/organization/dfki-gmbh
+* http://data.semanticweb.org/organization/german-research-center-for-artificial-intelligence-dfki
+
+HansJoergHappel
+* http://data.semanticweb.org/person/hans-joerg-happel
+* http://data.semanticweb.org/person/hans-jorg-happel
+
+JaeWookAhn
+* http://data.semanticweb.org/person/jae-wook-ahn
+* http://data.semanticweb.org/person/jaewook-ahn
+
+JimHendler
+* http://data.semanticweb.org/person/jim-hendler
+* http://data.semanticweb.org/person/james-hendler
+
+MicheleNucci
+* http://data.semanticweb.org/person/m-nucci
+* http://data.semanticweb.org/person/michele-nucci
+
+OscarMunozGarcia
+* http://data.semanticweb.org/person/oscar-munoz-garca
+* http://data.semanticweb.org/person/oscar-munoz-garcia
+
+PhilippKaerger
+* http://data.semanticweb.org/person/philipp-karger
+* http://data.semanticweb.org/person/philipp-kaerger
+
+RamanathanGuha
+* http://data.semanticweb.org/person/ramanathan-guha
+* http://data.semanticweb.org/person/ramanathan-v-guha
+
+Missing FirstName:
+* FrancescoPiazza http://data.semanticweb.org/person/f-piazza
+* LenoidLibkin http://data.semanticweb.org/person/l-libkin
+* PaoloPuliti http://data.semanticweb.org/person/p-puliti
+* SolmazKolahi: http://data.semanticweb.org/person/s-kolahi
+* SMuthuMuthukrishnan: http://data.semanticweb.org/person/s-muthukrishnan
+
+No UpperCase:
+* LuigiSauro http://data.semanticweb.org/person/luigi-sauro
+
+DeLiberat'ed:
+* McSchraefel: http://data.semanticweb.org/person/mc-schraefel
+
+Bug:
+* http://data.semanticweb.org/person/beijing-beihang-assets-management-co-ltd
+* [http://data.semanticweb.org/person/kieron-o'hara] (no nice UrL)

@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/28/905
+* HomePage: http://www.heiko-stoermer.net/
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker HolgerWache HeikoStoermer
+* MindSkill: QrCode

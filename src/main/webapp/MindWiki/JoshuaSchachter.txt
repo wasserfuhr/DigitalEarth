@@ -1,0 +1,16 @@
+* IsA: UnternehmensGruender
+* InterWiki: [WebSeitz:JoshuaSchachter] [WikiPedia:Joshua_Schachter]
+* JahrGang: 1974
+* DbLp: http://dblp.uni-trier.de/rec/pid/80/6548
+* PageNumber: 9
+|[DelIcioUs:joshua]
+|[TwittEr:joshu]
+
+PagePath:
+# BarbaraLiskov
+# MosesMoses [http://dblp.uni-trier.de/db/indices/a-tree/l/Liskov:Moses.html]
+# RanCanetti [http://dblp.uni-trier.de/db/indices/a-tree/c/Canetti:Ran.html]
+# RonaldRivest [http://dblp.uni-trier.de/db/indices/a-tree/r/Rivest:Ronald_L=.html]
+# ManuelBlum [http://dblp.uni-trier.de/db/indices/a-tree/b/Blum:Manuel.html]
+# LuisVonAhn [http://dblp.uni-trier.de/db/indices/a-tree/a/Ahn:Luis_von.html]
+# JoshuaSchachter

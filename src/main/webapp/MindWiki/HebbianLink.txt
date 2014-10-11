@@ -1,0 +1,4 @@
+* InterWiki: [OpenCog:HebbianLink]
+* NamedAfter: DonaldHebb
+
+AufMerk

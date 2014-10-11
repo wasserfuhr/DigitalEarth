@@ -1,0 +1,12 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/ChristianSpannagel
+* HomePage: http://www.christian-spannagel.de/
+* MindBlog: http://cspannagel.wordpress.com/
+* PageNumber: 6
+* PagePath: LarryPage HectorGarciaMolina GerhardWeikum TobiasNipkow GregorSnelting UlrikSchroeder ChristianSpannagel
+|[SkyPe:chrisp1976]
+
+gone:
+|[TwittEr:cspannagel]
+|[XingLe:Christian_Spannagel]
+|[FaceBook:1177999881]

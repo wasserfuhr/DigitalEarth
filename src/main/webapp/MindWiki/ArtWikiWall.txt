@@ -1,0 +1,12 @@
+* IsA: WikiWall
+
+|| ||a||b||c||d||e||f||g||h
+||1|SchuleDerIntelligenz |TransparentMan |NewWorldSaga |MindTower |RainerWasserfuhr |DanGraham |LebensKunst |EliasMorgenstern
+||2|DerKuerzesteWeg |HeidiMorgenstern |VisAVis |BahnChefSpiel |PieschenArtMuseum |UniversalKunst |GoogleFluse |PieschenTv
+||3|PieschenerAllgemeine |ZukunftsRoman |GraphitPapier |PostKarten |ChristopherAlexander |RedSocks | |BallSaalSpiel
+||4|PieschenSamt |TalDrei |SpaceLiftAg |HotelKronentor |BuckminsterFuller |KirschRing |SimCardBingo |ArtWikiWalk
+||5|ZeugenKurzweils |ZuKunst |WeltSpiel |InSchrift ||ArtWikiWall |MailArt |EnisRat |OtSieben
+||6|PieschenBank |SingularAcademy |HolgerJohn |GretchenFaust |ArbeiterKinderBund |HfBk |SadoMalo |DerSingularLeuchtTurm
+||7|MindPost |XingleQuartett |InterWikiWall |JosephBeuys |PieschenArtGroup |LifeCell |BauKunst |SingularTheater
+||8|BootStrap |ElliEisbein |SystemKunst |PieschenPark |LockSchuppen |PuffCafe |RuedigerJohn |VomTellerwaescherZumMillionaer
+http://spreadsheets.google.com/ccc?key=0Ajye42NB5rdhdGtFQUhvaUVINTk0TlZiZC1GdWduQmc

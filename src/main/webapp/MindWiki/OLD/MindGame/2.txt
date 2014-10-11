@@ -1,0 +1,6 @@
+* JumboWoerterSpiel
+* MasterMind
+* MindKniffel
+* MindTueftel
+* StadtLandFluss
+* WereWolf

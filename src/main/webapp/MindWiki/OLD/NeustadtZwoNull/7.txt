@@ -1,0 +1,17 @@
+* MindTags: MindEvent
+
+!Ort: OostEinde (Absacker: BlueNote)
+!Beginn: 24.04.2007 um 20:00
+!Ende: 25.04.2007 um 03:00
+* XingLe: https://www.xing.com/app/events?op=detail;id=203578
+
+Teilgenommen:
+* JanBoehme
+* FrankLorenz
+* IrisSchilke
+* TobiasKroha
+* HG
+* RainerWasserfuhr
+
+!Angeschnittene Themen:
+* FriendFeed, StadtWiki, DresdenChess, SemanticEconomy, JeromeKerviel, GiantGlobalGraph, TerraMind, LongBetOne, TwitAiPrize, PeterThiel, JeffHawkins, TuringTest, GoogleMind, EverScreen, HuisClos, KurtGoedel, BioMind.

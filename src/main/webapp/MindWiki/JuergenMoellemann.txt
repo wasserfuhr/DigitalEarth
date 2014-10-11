@@ -1,0 +1,7 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Jürgen_Möllemann]
+* BornIn: 1945
+* BirthDay: 07-15
+* DiedIn: 2003 
+* DbLp: http://dblp.uni-trier.de/rec/pid/50/5297
+* ViAf: http://viaf.org/viaf/37713535

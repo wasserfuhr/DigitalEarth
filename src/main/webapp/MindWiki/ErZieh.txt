@@ -1,0 +1,19 @@
+* InterWiki: [DeWikiPedia:Erziehung]
+
+die BabyAi.
+
+GeFuehl'e könnten eine gute Heuristik für die HappiNess-Funktion sein:
+
+Objekte und Situationen erhalten AdJective in einem Spektrum von Werten, die für die eigene (Über-) Lebensfunktion wichtig sind:
+* gefährlich/harmlos
+* giftig/nicht essbar/essbar
+* teuer/billig
+* ComPlex/EinFach
+* interessant/LangeWeile'ig
+* ...
+
+Die grundlegende DiFer'enz bekannt/unbekannt steuert das Lernen von Neuem:
+Neues muss immer als ComPlex von schon Bekanntem repräsentiert werden.
+
+Wenn zwei Menschen sich kennenlernen, reduzieren sie das jeweils Unbekannte immer auf Bekanntes:
+Wo lebst Du? Wo kommst Du her? Ist das nicht in der Nähe von XY? Wen kennst Du? Ist das nicht der PapaZwoNull von XY? Was machst Du? Ist das sowas wie XY?

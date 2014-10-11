@@ -1,0 +1,9 @@
+The BoundingBox is one of the optional MindProps of a MindPlace, drawn around the center of a MindPlace given by it's latitude and longitude (MindProps: BreitenGrad, LaengenGrad), defined in meters.
+The box is a rectangular approximation of the boundary of the place similar to [WikiPedia:Minimum_bounding_box], but more in the sense of an "average" BoundingBox.
+
+If the MindPlace has no MindProps "SlimNess", the box is defined as a square.
+
+If the MindPlace has MindProps "SlimNess", the box is defined as a rectangle with a ratio of the shorter side divided by the longer side.
+The MindProps "GraDient" define the rotation of the rectangle relative to the north-south orientation, measured clockwise in arc degrees. (so a Rectangle with east-west orientation has GraDient: 90)
+
+The plane of the BoundingBox is drawn tangentially to earth surface.

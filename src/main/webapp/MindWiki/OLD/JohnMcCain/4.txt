@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* InterWiki: [OpenCyc:JohnMcCain], [WebSeitz:JohnMcCain]
+* BirthDay: 08-29

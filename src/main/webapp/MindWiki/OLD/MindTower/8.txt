@@ -1,0 +1,10 @@
+Im Norden der StadtDresden. Mindestens 1024m hoch dank NanoBeton. MindLine: 2020.
+
+Kleiner AprilQuest: Welcher MindBroker gönnt ChristineSchlinck wieviele Aktien, damit sie anfängt, mit einer OpenSource-Alternative zu AutoCad die Entwürfe für den MindTower zu planen. UnserDesigner wartet schon.
+
+||MindBroker||gönnt
+|RainerWasserfuhr|50
+
+* BreitenGrad: 51.089867
+* LaengenGrad: 13.778803
+* BoundingBox: 100 

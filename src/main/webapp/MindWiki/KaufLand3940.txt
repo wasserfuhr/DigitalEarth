@@ -1,0 +1,3 @@
+* IsA: SuperMarket
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/221831304
+* PartOf: BorsbergStrasse

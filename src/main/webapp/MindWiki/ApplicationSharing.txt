@@ -1,0 +1,15 @@
+Installiere auf dem MindMac:
+* HamachiX: http://hamachix.spaceants.net/download.html
+* Chicken of the VNC: http://sourceforge.net/projects/cotvnc/
+* Vine: http://sourceforge.net/projects/osxvnc/
+
+Auf MindWindows:
+* Hamachi: https://secure.logmein.com/products/hamachi/list.asp
+* RealVNC: http://www.realvnc.com/products/download.html
+
+Joine das Network "MindBroker" mit Deinem CamelCase-Namen.
+
+Nutzer:
+* RainerWasserfuhr
+* DanielPoodratchi
+* HeikeRibke

@@ -1,0 +1,15 @@
+* WeltSprache: VerFassung
+* SprachWelt: zh
+
+!前提
+* 自由
+
+!公民
+* 德勒斯登 銀行
+* MindId
+
+!经济
+* KayGroschen
+
+!政府
+* KabiNett

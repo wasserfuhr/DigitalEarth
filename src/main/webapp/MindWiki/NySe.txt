@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:New_York_Stock_Exchange]
+* BreitenGrad: 40.706
+* LaengenGrad: -74.011
+* BoundingBox: 50

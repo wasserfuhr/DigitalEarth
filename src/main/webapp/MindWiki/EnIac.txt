@@ -1,0 +1,2 @@
+* HerKunft: "Electronic Numerical Integrator and Computer"
+* InterWiki: [DeWikiPedia:ENIAC]

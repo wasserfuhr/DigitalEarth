@@ -1,0 +1,5 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Paul_Erdős], [WikiWikiWeb:PaulErdos]
+* BirthDay: 03-26
+* LebensEnde: 1996
+* BaconNumber: 4

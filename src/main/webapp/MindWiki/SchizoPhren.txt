@@ -1,0 +1,8 @@
+* HerKunft: "von altgriechisch σχίζειν schizein „abspalten“ und φρήν phrēn „ZwerchFell, SeeLe“"
+* InterWiki: [DeWikiPedia:Schizophrenie]
+
+GedankenSpiel für UpLoad-Szenarien: Am AnGang besteht der DigitalTwin nur aus einem
+statischen AbBild, das über PersonalityCapture aufgebaut wird. Aber mehr und mehr soll er 
+beginnen, selbständig zu InFer'ieren.
+Er könnte dank MindEyes gleichen WahrNehm'ungen ausgesetzt werden. Er wird unentwegt trainiert und
+verbessert, so dass sich sein Verhalten immer mehr an sein VorBild annähert.

@@ -1,0 +1,32 @@
+* InterWiki: [WebSeitz:UnitedNations], [WikiPedia:United_Nations]
+* MindOne: BanKiMoon
+
+||ComPare   ||UnitedNations ||NooPolis
+|Government |SecurityCouncil|CabiNet
+|Charter    |UnitedNationsCharter|ConStitution
+|MindOne    |BanKiMoon      |RainerWasserfuhr
+|Bank       |WorldBank      |PieschenBank
+|Currency   |-              |KayGroschen
+|CitiZens   | 6.650.000.000 |44
+|Election   |-              |UrWahl
+|BoundingBox|PlanetErde     |UhTopia
+
+ToDo:
+* Food: MindCuisine
+* Shelter: MindHome
+* Health: GeSund'heit
+* Money: BasicIncome
+* Peace: WeltFrieden
+* InterNet: OneLaptopPerMind
+
+
+MindOne's:
+* BanKimoon
+* KofiAnnan
+* BoutrosBoutrosGhali
+* JavierPerezDeCuellar
+* KurtWaldheim
+* SithuUThant
+* DagHammarskjold
+* TrygveLie 
+* GladwynJebb

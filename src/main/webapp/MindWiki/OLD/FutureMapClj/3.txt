@@ -1,0 +1,31 @@
+;
+;
+;{{{
+
+((defn futuremap [] 
+       (handle "futuremap"
+        (fn []
+       	 (str
+       	  "<h3>Das <a href='http://mindbroker.de/wiki/TwentyFirstCentury'>TwentyFirstCentury</a>: 
+       	   ein <a href='http://mindbroker.de/wiki/MoeglichkeitsRaum'>MoeglichkeitsRaum</a>:</h3>
+       	  "<table>"
+ 	  (apply str 
+	   (map
+	     (fn [x]
+	       (str
+	         "<tr>"
+	         (apply str (map 
+	           (fn [y]
+	             (str "<td>20" x y
+	               (if (and (= x 3) (= y 0))
+	                 (str
+	                  "<a href='http://mindbroker.de/wiki/RalfLippold'><img src='" (cache nil :RalfLippold) "' width='32' height='32'/></a>"
+	                  "<a href='http://mindbroker.de/wiki/PhaetonBallett'><img src='http://www.volkswagen.de/etc/medialib/vwcms/virtualmaster/de/Models/Phaeton/content.Par.0183.Image.jpg/D10710_2008_180x110.jpg' width='90' height='55'/>PhaetonBallett</a>")
+	               )
+	             "</td>")) 
+	           (range 10)))
+                 "</tr>")) 
+	     (range 10)))
+	  "</table>") ) "" )
+   )))
+;}}}

@@ -1,0 +1,100 @@
+* MindTags: ReView
+
+Der LiebesMarkt von NooPolis.
+
+KandidatInnen können entweder mit ihrem RealName oder unter Zuhilfenahme eines Kupplers als JeMand aufgenommen werden.
+
+|| ||Single         ||BeuteSchema ||                     ||Kuppler
+|♂|RainerWasserfuhr |             |
+| |                 |Sucht        |♀
+| |                 |Alter        |25-37
+| |                 |Bildung      |HSA, Promo, ProFessor
+| |                 |IQ           |>140
+| |                 |Rauchen      |egal
+| |                 |Grösse       |172-185
+| |                 |EnneaGram    |komplementär zu 5
+| |                 |PolyTreu     |sehr tolerant
+| |                 |Familienstand|bevorzugt kinderlos 
+| |                 |KinderWunsch |auf Verhandlungsbasis
+| |                 |WohnSitz     |StadtDresden
+| |                 |BeRuf        |UnterNehmer'in, WissenSchaft'lerin, Künstlerin
+|| ||               ||            ||                               ||
+|♂|JeMand           |             |          |RainerWasserfuhr
+| |                 |Sucht        |♀
+| |                 |Alter        |28-35 
+| |                 |Bildung      |gebildet
+| |                 |Rauchen      |nein
+| |                 |Grösse       |172-185
+| |                 |Familienstand|bevorzugt kinderlos 
+| |                 |KinderWunsch |ok
+| |                 |WohnSitz     |RheinMain
+|| ||               ||            ||                               ||
+|♀|ChristineSchlinck|             |                               |
+| |                 |Sucht        |♂
+| |                 |Alter        |34-39
+| |                 |Bildung      |normal
+| |                 |Grösse       |182-192
+| |                 |Familie      |kinderlieb 
+| |                 |Familienstand|ledig o. geschieden
+| |                 |MindDuft     |AcquaDiGio, ArmaniAttitude
+| |                 |Rauchen      |nein
+| |                 |WohnSitz     |StadtDresden
+|| ||               ||            ||                               ||
+|♀|UteMoritz        |
+| |                 |Sucht        |♂
+| |                 |Alter        |30-38
+| |                 |Bildung      |mindestens Diplom
+| |                 |Rauchen      |egal
+| |                 |IQ           |>125
+| |                 |Grösse       |183-195
+| |                 |Familie      |gerne
+| |                 |KinderWunsch |auf Verhandlungsbasis
+| |                 |WohnSitz     |von StadtBerlin bis PlanetErde
+|| ||               ||            ||                               ||
+|♀|JeMand           |             |                    |RainerWasserfuhr                   
+| |                 |Sucht        |♂
+| |                 |Alter        |37-44
+| |                 |Bildung      |HSA
+| |                 |SternZeichen |Wassermann, Steinbock
+| |                 |EnneaGram    |komplementär zu 2-3
+| |                 |Rauchen      |lieber nicht
+| |                 |MindDuft     |Kouros
+| |                 |IQ           |>120
+| |                 |Grösse       |175-200
+| |                 |Familie      |gerne
+| |                 |BeRuf        |UnterNehmer, Anwalt, Architekt
+| |                 |PolyTreu     |tolerant, aber lieber treu
+| |                 |KinderWunsch |eher nicht
+| |                 |WohnSitz     |von StadtDresden bis DeutschLand
+|| ||               ||            ||                               ||
+|♀|JeMand           |             |                    |RainerWasserfuhr                   
+| |                 |Sucht        |♂
+| |                 |Alter        |30-35
+| |                 |Bildung      |HSA
+| |                 |Body         |athletisch-normal
+| |                 |KoerperFett  |<=20
+| |                 |Haar         |nicht blond
+| |                 |MindDuft     |CK1, Boss, AcquaDiGio, Sun
+| |                 |Rauchen      |lieber nicht
+| |                 |MindDuft     |Kouros
+| |                 |IQ           |>120
+| |                 |Grösse       |176-
+| |                 |Familie      |eher nicht
+| |                 |BeRuf        |Anwalt, Architekt
+| |                 |PolyTreu     |niemals
+| |                 |KinderWunsch |ja
+| |                 |MindMusic    |RobertSchumann, FranzSchubert, JacquesOffenfach, FriedrichLiszt
+| |                 |WohnSitz     |von StadtDresden bis FreistaatSachsen
+|| ||               ||            ||                               ||
+|♂|ChristianRieger  |             |
+| |                 |Sucht        |♀
+| |                 |Alter        |25-35
+| |                 |Bildung      |normal
+| |                 |IQ           |>140
+| |                 |Rauchen      |egal
+| |                 |Grösse       |169-184
+| |                 |Familienstand|ledig
+| |                 |KinderWunsch |längerfristig denkbar
+| |                 |WohnSitz     |HamBurg
+| |                 |BeRuf        |UnterNehmer'in, Angestellte, Freiberufl.
+|| ||               ||            ||                               ||

@@ -1,0 +1,17 @@
+MindVote for the KabiNett of NooPolis:
+
+!Candidate statements
+* HeikeRibke: ...
+* ChristineSchlinck: ...
+* ...
+
+All CitiZens have up to 5 votes:
+
+||Candidate       ||receives MindVote from
+|HeikeRibke       |RainerWasserfuhr
+|ChristineSchlinck|RainerWasserfuhr
+|FrankLorenz      |RainerWasserfuhr
+|CemBasman        |RainerWasserfuhr
+
+The following CitiZens are not willing to accept a role in the KabiNett:
+* none yet

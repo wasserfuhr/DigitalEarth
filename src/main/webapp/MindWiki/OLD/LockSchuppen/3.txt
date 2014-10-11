@@ -1,0 +1,32 @@
+* MindTags: MindPlace
+
+[TwittEr:LockSchuppen]
+
+Ist-Zustand:
+* Ein heruntergekommener LokSchuppen in der StadtDresden
+
+Vision:
+* ein GlaesernesUnternehmen zur Beschleunigung der besten GeschaeftsIdee'n für die DigitalEconomy von PlanetErde.
+
+
+!Phase 1:
+Ein ca 20qm grosses Kontaktbüro im Erdgeschoss.
+NextAction's:
+* VerTrag mit DbImmo
+* Strom
+* KuehlSchrank
+* Wasser
+* Toilette (anfangs reicht ein ToiToi-Container)
+
+!Phase 2:
+* Erste Aufräumarbeiten der Aussenanlagen.
+* ca 100 qm im Erdgeschoss. Vollausbau. 
+
+!Phase 3:
+* ca 1500 qm im Vollausbau
+* Platz für ca 300 Leute
+* ein MindHotel mit ObDach für 20 MitWirkende
+* eine edles Kantinenrestaurant mit PieschenJamie als Starkoch.
+
+!Phase 4:
+* Baubeginn von MindTower und SpaceLift

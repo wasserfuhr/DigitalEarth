@@ -1,0 +1,88 @@
+* So riecht die NooSphere: [37 Milliarden|http://www.heise.de/newsticker/meldung/97270]: Suchanfragen, macht also [5.6|http://www.google.com/search?q=37/6.6] pro Weltbürger pro Monat.
+
+für ein fiktives Interview in English:
+* On september 2004 I started to collect funny links under http://del.icio.us/rainer/lol
+When historians of the 21st century will look at this, they will notice, that an increasing percentage of my laughing was taking place online. When I laughed before 2004, it could only be heard by the people near by. I guess that an
+ever increasing ratio of my laughing after 2004 has an echo chamber which potentially has a global reach.
+* just look at the frequency
+* Another important milestone was to read about the BlueBrain project of IBM. They want to achieve a simulation.
+* taking into account MooresLaw
+* many years ago I estimated my life expectancy: It was the year 2042, based on officially available democraphic data, valid for a male person with higher education born in western Germany.
+* Raymond KurzWeil has these amazing charts showing that the brain power equivalent per $1000 of computer will exceed human brain power between 2020 and 2040. [http://bpastudio.csudh.edu/fac/lpress/netapps/hout/techprogress/kurzweil.gif]
+So my question of the last months was: If you have a personal timeframe of 35 years, what can you do today?
+The classical answer: stop smoking, only occasional drinking, find a wive and create a family. But this wasn't really geeky.
+If BlueBrain will be working sometimes between 2025 and 2035, just start to build a model of your own brain.
+A long time ago I read this famous article of LionKimbro about "how to make a complete map of everything you think for as long as you like".
+
+TerraMind, ca MindLine 2060:
+* PlanetErde als MashUp aus Computronicum, Turing-Riesenmaschine und Zellularautomat,
+* ein idealisierter Würfel der Kantenlänge 10.000 km,
+* 1 Kubikmeter großen Würfeln, die im einfachsten Modell genau 1 Bit repräsentieren, 
+* aus Gründen der AisThesis aber auch eine binärcodierbare endliche Menge von Farben sein könnten
+* Die Würfel erzeugen einen Adressraum der Form (0,0,0) bis (9999999,9999999,9999999)
+* die Zustände der Würfel wechseln alle gleichzeitig im Takt von 1 GHz
+* Der Folgezustand ist determiniert durch den aktuellen Zustand und die Zustände der 3*9-1=26 Nachbarwürfel
+* durch geschickte Wahl von Zustandsübergangsformeln kann man in TerraMind Kommunikationsröhren und -tuben eincoden 
+* Um eine Nachricht von einer Ecke von TerraMind zur anderen zu schicken braucht man also annähernd 10 msec
+* Zustandswechsel in TerraMind erfolgen also nicht über Lichtgeschwindigkeit
+* Die Zustandsübergangsformeln werden ihrerseits wie bei einer Von-Neumann-Maschine auf TerraMind codiert
+* Die Zustandsübergangsformeln sind wie bei NoMic auch selbst änderbar. (Wie? DoIt: genauer ausdenken)
+* Die Würfel an der äusseren Hülle von TerraMind dürfen meinetwegen in jedem Takt die Farben der Außenwelt wahrnehmen
+* Ziel von TerraMind ist, FloTt nach SeTo zu suchen und YvonneSchubert aus ihren grausamen Klauen zu befreien.
+
+Beim Berechnen des Stahlwürfels *wusste* er *vorher* intuitiv, dass er das Problem mit Sicherheit lösen konnte.
+
+
+
+Yvonne Schubert war heute so lieb, mich für etwa 6 Stunden in das Leben eines
+
+18jährigen eintauchen 
+
+
+
+Stefan, der Neffe von Yvonne, wurde am 22.12.1988 geboren.
+
+Er wird "Abi 2008" sein. I
+
+Um diese Zeit herum habe ich an meinem ATARI ST programmiert.
+
+Gut möglich dass ich mit der ich es in die Endrune (30 aus ca 1500) des 
+
+Bundeswettbewerb Informatik geschafft habe.
+
+Er hat -genau wie ich damals- Leistungskurse Mathe und Physik.
+
+
+18jährige haben keine Angst vor dem Internet.
+
+Sie haben keine Angst davor, dass sie das "reale Leben draussen" verpassen.
+
+Die Lichtelfen und dunklen Elfen, mit denen er in Lineage 2 spielt, sind
+
+für ihn genauso real wie es für mich Pippi Langstrumpf  Adrian Leverkühn waren.
+
+Allerdings ist seine "fiktive" Realität eine, in denen er mit echten Menschen interagiert.
+
+Die meisten seiner Mitspieler sind ebenfalls männlich.
+
+Es gibt fast eine Frauen die spielen. Jungs und Mädchen spielen in getrennten Communities.
+
+Etwa 60% seiner Klassenkameraden leben in einer Beziehung.
+
+Die meisten neuen Beziehungen entstehen beim Sport.
+
+Wenn er mit seinen Jungs  "Mädchen"
+
+Realität und Fiktion sind für diese Menschen nicht mehr trennbar.
+
+Er schätzte dass etwa 50% seiner Altersgenossen ebenfalls Multiuserspiele spielen.
+
+Pro Woche spielt er "14-20" Stunden Lineage.
+
+Er zeigte mir eine der Chatcommunities in denen er aktiv ist. Dort stand "101.000 Minuten online seit 2004"
+
+Er erzählte mir davon, während wir durch die Altmarktgalerie spazierten.
+
+Vor uns ging ChristineSchlinck, die uns wie eine Generälin durch den
+
+Samstäglichen Shoppingfeldzug kommandierte.

@@ -1,0 +1,346 @@
+* RdfProperty: http://xmlns.com/foaf/0.1/firstName
+* InspiredBy: http://twitter.com/rainer/statuses/517913822
+
+The first names of the XingLe contacts of RainerWasserfuhr:
+* Agnes
+* Aharon: 1
+* Aldis
+* Alexander: 11
+* Alexandra
+* Alfred
+* André
+* Andreas: 21
+* Andreu
+* Anett
+* Angelica
+* AnJa: 4
+* Anke
+* Annette
+* Ansgar
+* Anthony
+* Antje
+* Arne
+* Astrid
+* Atef
+* Aurelia
+* Aurelien
+* Axel
+* Bala
+* Barbara
+* Basti
+* Bastian
+* Beat: 1
+* Beate: 2
+* Benjamin
+* Bernd: 9
+* Bernhard
+* Bert
+* Berta: 0
+* Betina
+* Bettina: 0
+* Bidjan
+* Birgit
+* Björn
+* Bjoern
+* Bob
+* Börtecin
+* Brendon
+* Brigitte
+* Britta
+* Bruno
+* Carola
+* Carsten
+* Cem: 1
+* Chris
+* Christian: 20
+* Christiane: 0
+* Christine: 2
+* Christoph
+* Cihan
+* Clara
+* Claudia
+* Clemens
+* Collin
+* Conrad
+* Corinna
+* Cornelia
+* Corry
+* Damir
+* Daniel: 11
+* Daniela
+* David
+* Denise
+* Dennis
+* Diane
+* Dieter
+* Dietmar
+* Dimitar
+* Dimitri
+* Dominik
+* Doreen
+* Dorothée
+* Eberhard
+* Ebru
+* Eduardo
+* Eike
+* Esat
+* Etienne
+* Eustáquio
+* Eva: 1
+* Fabian
+* Fabio
+* Falk
+* Felix: 3
+* Flavia
+* Florian
+* Florentin: 0
+* Frank: 12
+* Franziska
+* Friedel
+* Friedrich
+* Gabi
+* Gabriela
+* Gabriele
+* Gabrielle
+* Garvin
+* Georg
+* Gernot
+* Gert
+* Gertrud
+* Gitta
+* Götz
+* Guido
+* Gundula: 1
+* Gunter: 3
+* Gunther
+* Hannes
+* Hans
+* Harald
+* Harry
+* Hauke
+* Heike: 2
+* Heiko
+* Heinz
+* Helena
+* Helmut
+* Hendrik
+* Henning
+* Herbert
+* Holger
+* Hubert
+* Hugo
+* Human
+* Ian
+* Ilona
+* Ingo
+* Ingrida: 1
+* Iris
+* Isabel
+* Jacob
+* Jan: 6
+* Jana
+* Janette
+* Jannis: 0
+* Jason
+* Jennifer
+* Jens: 11
+* Jirka
+* Joachim
+* Jochen
+* Johann
+* Johannes
+* Jöran
+* Jörg: 9
+* Jörn
+* Jose
+* Josef
+* Judith: 1
+* Julia
+* Juliane
+* Julius
+* Jürgen
+* Kai
+* Karin
+* Karina
+* Karl: 3
+* Karol
+* Katharina
+* Katja
+* Kelly
+* Kenan
+* Kerstin
+* Kirstin
+* Klaus
+* Kornelia
+* Kristina
+* Kuno
+* Lars: 5
+* Laszlo
+* Leo
+* Ljubica
+* Lord???
+* Lorenz
+* Lorna
+* Lotte
+* Louis
+* Luca
+* Lutz
+* Lydia
+* Magdalena
+* Maik
+* Maja
+* Mandy
+* Manfred
+* Manuel: 1
+* Manuela
+* Marc: 4
+* Marcel
+* Marco
+* Marcus
+* Margit
+* Maria
+* Marianne
+* Mario
+* Marion
+* Mark: 1
+* Marko
+* Markus: 5
+* Martin: 13
+* Martina
+* Mathias
+* Matthew
+* Matthias: 9
+* Mattis
+* Max: 3
+* Maximilian
+* Melanie
+* Michael: 17
+* Michaela: 2
+* Mikhail
+* Milena
+* Mirco
+* Mirijana
+* Mirko
+* Mischa
+* Monte
+* Murat
+* Musse
+* Nadin: 1
+* Nadine: 1
+* Nadjeschda: 1
+* Nalin
+* Nico
+* Nicole: 3
+* Nicoletta
+* Nils
+* Nina
+* Ning
+* Norbert
+* Octavian
+* Oliver: 10
+* Otto
+* Patrick
+* Paul
+* Paula: 0
+* Peer
+* Peter: 5
+* Petra
+* Philipp
+* Pierre
+* Raafat
+* Rafael
+* Raik
+* RaiNer: 6
+* Ralf: 5
+* Ralph: 1
+* Raphael: 1
+* Ray: 0
+* Rebecca
+* Reiner: 2
+* Reinhard
+* Reinhold
+* Rene
+* René
+* Resi
+* Ricarda
+* Riccardo
+* Rico
+* Robert: 3
+* Rocco
+* Roland
+* Rolf: 3
+* Roman
+* Ron
+* Ronald
+* Rosemarie
+* Roswitha
+* Roy
+* Rüdiger
+* Sabrina
+* Sami
+* Samuel
+* Sandra
+* Sara
+* Sarik
+* Sascha
+* Sathya
+* Sebastian
+* Siegbert
+* Siegfried
+* Siggi
+* Silke: 2
+* Silvan: 1
+* Silvia
+* Simon
+* Slavomir
+* Stefan: 13
+* Stefania
+* Stefanie
+* Steffen
+* Steffi
+* Stephan: 5
+* Steve
+* Suresh
+* Susan
+* Susann
+* Susanne
+* Sven: 8
+* Sylke
+* Sylvia
+* Tanja
+* Tecumseh: 1
+* Teje: 0
+* Theresa
+* Thiemo: 1
+* Thilo
+* Thomas: 21
+* Till
+* Tim: 2
+* Timo
+* Tino: 2
+* Tobias
+* Tom 
+* Ulrich: 4
+* Ulrike
+* Uta
+* Ute: 2
+* Uwe: 4
+* Uz
+* Vasco
+* Veit
+* Viktor
+* Vivian
+* Viola
+* Verena
+* Volker: 6
+* Wanja
+* Walter
+* Wenke
+* Willi
+* Wolfgang: 6
+* Xinkai
+* Yanet
+* Yann
+* Yassin
+* Yolna: 1
+* Yvonne

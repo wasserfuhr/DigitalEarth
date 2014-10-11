@@ -1,0 +1,10 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/82/1789
+* PageNumber: 11
+|[XingLe:Gerald_Krafft]
+
+PagePath:
+# JackDongarra
+# [http://dblp.uni-trier.de/db/indices/a-tree/s/Sunderam:Vaidy_S=.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/g/Gray:Paul_A=.html]
+# GeraldKrafft

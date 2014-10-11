@@ -1,0 +1,5 @@
+|[TwittEr:BrinPath]
+
+calculates your PageNumber. based on CoAuthor'ship in DbLp.
+
+If you know other CoAuthor's or a shorter BrinPath, you can , please ReTweet.

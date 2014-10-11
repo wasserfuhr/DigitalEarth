@@ -1,0 +1,9 @@
+* IsA: EnterPrise
+* NamedAfter: OtPieschen
+* MindOne: RainerWasserfuhr
+
+AndreasTest CoBoter ClaudiaTest OsterSpaziergang PhaetonBallett SemperRobOper WikiWallBot WillowBot ZwingeRasimo
+
+
+|| ||ShareHolder
+|1000|RainerWasserfuhr

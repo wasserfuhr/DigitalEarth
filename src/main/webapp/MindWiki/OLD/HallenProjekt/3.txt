@@ -1,0 +1,4 @@
+* HomePage: http://hallenprojekt.de/
+* MitWirkende: SebastianSooth ChristianHeller EtAl
+
+JsOn: http://hallenprojekt.de/places.json

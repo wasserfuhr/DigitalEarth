@@ -1,0 +1,4 @@
+* MindTags: MinisTer
+* InterWiki: [DeWikiPedia:Joe_Biden], [OpenCyc:JosephBiden], [WebSeitz:JoeBiden]
+* JahrGang: 1942
+* BirthDay: 11-20

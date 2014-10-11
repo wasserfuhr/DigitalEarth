@@ -1,0 +1,13 @@
+Erklärung: [WikiWikiWeb:InterWiki]
+
+|WikiWikiWeb --> http://c2.com/cgi/wiki?%s
+|JSPWiki --> http://www.jspwiki.org/Wiki.jsp?page=%s
+|BlogLines --> http://bloglines.com/public/%s
+|DelIcioUs --> http://del.icio.us/%s
+|DeWikiPedia --> http://de.wikipedia.org/wiki/%s
+|WikiPedia --> http://en.wikipedia.org/wiki/%s
+|GoogleSearch --> http://www.google.com/search?q=%s
+|SecondLife --> http://www.sloog.org/users/%s
+|XingLe --> https://www.xing.com/profile/%s
+
+aktuelle InterWiki links: SystemInfo

@@ -1,0 +1,7 @@
+* InterWiki: [DeWikiPedia:Transaktion]
+
+AcId
+
+begin commit rollback
+
+demarcation

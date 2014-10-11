@@ -1,0 +1,14 @@
+* IsA: NaturalLanguage
+* InterWiki: [DeWikiPedia:Chinesische_Sprache]
+
+WadeGiles FamilyName: [WikiPedia:List_of_common_Chinese_surnames]
+# Li
+# Wang
+# Chang
+# Liu
+# Chen
+# Yang
+# Huang
+# Chao
+# Chou
+# Wu

@@ -1,0 +1,6 @@
+Einen DusselStein gibt es ab jetzt immer dann wenn ein MindBroker im AgWiki editiert ohne sich vorher eingeloggt zu haben.
+
+Schuld ist allerdings nicht der MindBroker sondern RainerWasserfuhr, weil er so lange nicht mehr an IntraBroker programmiert hat und jetzt ein JSPWiki für das AgWiki nehmen muss,
+
+||von||für||IP
+|RainerWasserfuhr|YvonneSchubert|89.51.208.141

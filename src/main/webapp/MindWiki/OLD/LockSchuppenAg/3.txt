@@ -1,0 +1,16 @@
+* MindTags: EnterPrise
+* VorStand: RalfLippold
+* WikiAngel: RainerWasserfuhr
+
+Die LockSchuppenAg ist ein UnterNehmen zur Planung, zum Bau und zum Betrieb des LockSchuppen's.
+
+Sie hat wie jedes Unternehmen im HandelsRegister von NooPolis 1000 Shares.
+
+Die PieschenBank hat im HausHalt von NooPolis ein Startkapital von 1.000.000 KayGroschen bereitgestellt.
+
+Jeder Gewinn aus UmSatz (zb Mieteinnahmen) verteilt sich in der ZuKunft gemäss:
+
+||ShareHolder||Shares
+|1000|RalfLippold
+
+bald auf dem MindFloor.

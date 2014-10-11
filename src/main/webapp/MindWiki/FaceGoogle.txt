@@ -1,0 +1,45 @@
+[EtherPad:FaceGoogle] - SnapShot:
+
+This EtherPad is an experimental collaborative HardScienceFiction story that describes
+a DeBate between C-level executives of FaceBook and GoogleInc in order to prepare __the__ InterNet merger of the decade:
+
+This pad text is SynChron'ized as you type, so that EveryOne viewing and editing this page sees the same text. This allows you to collaborate seamlessly!
+
+To edit this EtherPad, you have to read and agree to http://etherpad.com/EtherSpirit.
+
+(A linked SnapShot of this EtherPad can be found at http://mindbroker.de/wiki/FaceGoogle )
+
+April 1st, 2011:
+* LarryPage: Hello MarkZuckerberg.
+* MarkZuckerberg:  Hello LarryAndSergey.
+* SergeyBrin: Hello MarkZuckerberg... how is PeterThiel?
+* PeterThiel: Hello SergeyBrin, are MarissaMayer and EricSchmidt with you?
+* EricSchmidt: Hello FaceBook, here we are, so let's start. What's your MarketCap? Our current StockPrice is 512 UsDollar, so we are at 162 440 000 000 UsDollar.
+* PeterThiel: Our MarketCap is 15 000 000 000 UsDollar.
+* EricSchmidt: Ouch... 
+* PeterThiel: We will be able to roll out our FaceDollar project next month: A global currency for a then estimated UserBase of 500 000 000 active MonthlyActiveUser.
+* LarryPage: You are too late. WaveCash is currently taking off. 1 WaveCoin is already at 128 UsDollar.
+* SergeyBrin: Please let's first talk about the technical issues: How shall we merge our UserBase's?
+* MarkZuckerberg: Please tell us first about your legendary InfraStructure. Where is UrsHoelzle?
+* UrsHoelzle: Currently we have 2.097.152 commodity server nodes, which we are doubling every 18 months. They are spread across 16 DataCenter's and consume nearly 1% of the WorldEnergy.
+* PeterThiel: Please, guys, let's focus on our competitors first.
+* MarissaMayer: *clears her throat*... TwittEr? ;) ... @ev, are you there?
+* EvanWilliams: Hi followers: What do you think how we fixed our performance ProBlem's...? I hope the WorldWideWeb foundation will  forgive us, but we had to slaughter the FailWhale on a BigTable... GoogleInc is now hosting our more than 8.589.934.592 tweets.
+* PeterThiel: We already outpaced one of our foremost competitors at end of 2009, when our UserBase surpassed the 308.241.000 CitiZens of the UnitedStates.
+* EricSchmidt: So what about your plans for the UnitedSemanticNations?
+* MarkZuckerberg: One moment, let me just write on the Wall of our ChiefSemanticOfficer...
+* TimBl: Hello SemanticWorld. I just got stuck in the GiantGlobalGraph with my FbId 512908782. Of course my main concern is how to build a WebOfTrust for the joined SocialGraph of FaceBook and GoogleInc.
+* PeterThiel: So with FaceBook and GoogleMail combined we have a UserBase 700 000 000 of CitiZens on PlanetErde.
+* TimBl: We just have to define some SameAs-relationships between the profiles.
+* PeterThiel: Next we need some kind of legislative mechanisms that can replace nation state
+voting procedures.
+* MarissaMayer: How can we avoid a SystemClash with existing NationState's?
+* PeterThiel: We will just scale the UnitedSemanticNations slowly and show them the unrivaled power of a global, selforganized political system that is based on a WebOfTrust, RadiCal TransParency and a global MindId for 600 000 000 CitiZens on PlanetErde, growing with an monthly rate of 5%.
+* SergeyBrin: @PeterThiel so you are informed about ProJect 20080209234?
+* PeterThiel: Of course ;) - That's why i donated yet another 115 000 000 UsDollar to the SeaSteading institute to build the first ClubStead ;).
+* MarissaMayer: How can we address the PostPrivacy issues that the establishment of existing NationState's can instrumentalize against us? noone would accept a public voting and currency system at this time?
+* MarkZuckerberg: first we have to capture ThiloWeichert and arrest him on the ClubStead ;)
+* EricSchmidt: How can we foresee the with this step we will AcCelerate.
+* MarkZuckerberg: Should we ask our ChiefSingularityOfficer?
+* RayKurzweil: HelloWorld, the SingularityIsNear ;)
+* LarryAndSergey in choir: Hi RayKurzweil- you here??? You are our ChiefSingularityOfficer too... why didn't you tell us that you are working for our strongest competitor?

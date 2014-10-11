@@ -1,0 +1,4 @@
+* IsA: MindCity
+* PartOf: OesterReich
+
+HeldenPlatz HofBurg MannOhneEigenschaften SchlossSchoenbrunn

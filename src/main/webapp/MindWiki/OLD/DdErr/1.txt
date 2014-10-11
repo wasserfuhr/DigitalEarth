@@ -1,0 +1,5 @@
+ehemals ein Land im Osten von DeutschLand.
+
+* BreitenGrad: 52
+* LaengenGrad: 10
+* BoundingBox: 400000

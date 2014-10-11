@@ -1,0 +1,4 @@
+A MemeTracker like http://rivva.de/ , where the Seed is http://rivva.de/, which
+only accepts 100%-valid RdF-MindFeeds.
+
+Additionally a monitor for the frequency of occurence of RdF-Vocabulary.

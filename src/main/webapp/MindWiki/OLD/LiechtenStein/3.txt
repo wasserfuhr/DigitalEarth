@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Liechtenstein]
+* BreitenGrad: 47.144
+* LaengenGrad: 9.558
+* BoundingBox: 20000
+* GraDient: 160
+* SlimNess: 0.3

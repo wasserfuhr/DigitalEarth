@@ -1,0 +1,5 @@
+* IsA: PerSon
+* HomePage: http://www.injelea.de/
+* ParteiWiki: PiratenWiki
+* HasTalked: RainerWasserfuhr
+|[TwittEr:fwhamm]

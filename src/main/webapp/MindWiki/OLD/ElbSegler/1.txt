@@ -1,0 +1,6 @@
+TotalRecall: (~21:00-~23:30) ZukunftsForum, AugustusGarten, PuroBeach, WikiSym, AugustusBruecke, 
+CoreMedia, TomFriedman, PlUrk, CityBeach, CabiNetElection, AltStadt, SocialPassword, SocialBackupFeed, 
+EcZwo, WebApp, ApacheDerby, MindId, MindSql, KurzWeil, TransSimian, LongBetOne, TwitAiPrize,
+MaxxOnAir, DeutscheTelekom, StreetView, AnDroid, TwentyOne, LingnerSchloss, 
+FederalReserve, WeltWaehrung, HausHalt, HelmaOrosz, ObWahlDresden08, PredictionMarket, WahlOMat,
+KayGroschen, MindEyes, FrauenKirche, HofKirche.

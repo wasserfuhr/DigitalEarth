@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/g/ThomasRGruber
+* HomePage: http://tomgruber.org/
+
+advisory role with LinkedIn SocialText InternetArchive MindJet PowerSet RadarNetworks/TwiNe

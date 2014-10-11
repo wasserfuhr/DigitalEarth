@@ -1,0 +1,8 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.084609
+* LaengenGrad: 13.695477
+* BoundingBox: 600
+* SlimNess: 0.8
+* GraDient: 350
+* HomePage: http://www.elbepark.info/
+[TwittEr:elbepark]

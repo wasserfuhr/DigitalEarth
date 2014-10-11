@@ -1,0 +1,11 @@
+3-Jahres-Plan für MindBroker: eine Grid-Plattform für OpenSource-Internet-Applikationen
+auf Basis der VirtuelleOekonomie von NooPolis.
+
+Potentielle Einnahmequellen:
+* wir betreiben Portale und Dienste
+** Bezahldienste
+*** Transaktionsgebühren
+*** Memberships
+* OpenConsult: wir beraten Grid-Lizenznehmer bei der Implementierung
+
+Aber: LoveFirst.

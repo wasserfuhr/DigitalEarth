@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* PastProjects: ConPlan
+* HomePage: [http://www.dfki.uni-kl.de/~schwarz/]
+* FoAf: http://www.dfki.uni-kl.de/~schwarz/foaf.xml

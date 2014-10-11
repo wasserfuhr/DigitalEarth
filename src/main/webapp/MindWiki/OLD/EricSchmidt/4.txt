@@ -1,0 +1,9 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Eric_Schmidt]
+* JahrGang: 1955
+* BirthDay: 04-27
+|[TwittEr:ericschmidt]
+
+DbLpBug?:
+* [http://dblp.uni-trier.de/db/indices/a-tree/s/Schmidt:Eric.html]
+* [http://dblp.uni-trier.de/db/indices/a-tree/s/Schmidt:Eric_E=.html]

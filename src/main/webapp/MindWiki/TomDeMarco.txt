@@ -1,0 +1,8 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Tom_DeMarco] [WikiWikiWeb:TomDeMarco]
+* JahrGang: 1940
+* BirthDay: 08-20
+* DbLp: http://dblp.uni-trier.de/rec/pid/66/5399
+* HomePage: http://www.systemsguild.com/GuildSite/TDM/Tom_DeMarco.html
+* PageNumber: 16
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge BarneyPell MichaelGenesereth JayTenenbaum AlanKay DanIngalls RobertHirschfeld GuySteele AndersHejlsberg MartinFowler FredBrooks TomDeMarco

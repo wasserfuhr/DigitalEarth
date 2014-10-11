@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [BookShelved:DavidBrin] [DeWikiPedia:David_Brin] [OpenCyc:DavidBrin] [WebSeitz:DavidBrin]
+* BornIn: 1950
+* BirthDay: 10-06
+* HomePage: http://www.davidbrin.com/
+* MindSkill: SciFi
+|[FaceBook:3501412]

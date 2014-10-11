@@ -1,0 +1,4 @@
+* http://del.icio.us/tag/socialgraph
+* http://bradfitz.com/social-graph-problem/
+* BillSeitz: http://webseitz.fluxent.com/wiki/z2007-08-18-FitzpatrickSocialGraph
+* MindId

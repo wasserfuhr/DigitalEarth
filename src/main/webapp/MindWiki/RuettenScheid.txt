@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Essen-Rüttenscheid]
+* BreitenGrad: 51.435
+* LaengenGrad: 7.005
+* BoundingBox: 2000
+* NormalNull: 110

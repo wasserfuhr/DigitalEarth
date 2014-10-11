@@ -1,0 +1,3 @@
+* IsA: HochSchule
+* SwDf: http://data.semanticweb.org/organization/stanford-university
+* PartOf: StanFord

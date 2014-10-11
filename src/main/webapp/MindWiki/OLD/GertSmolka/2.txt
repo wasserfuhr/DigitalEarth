@@ -1,0 +1,5 @@
+* MindTags: ProFessor
+* InterWiki: [LangReiter:Gert+Smolka]
+* JahrGang: 1955
+* BirthDay: 01-05
+* HomePage: [http://www.ps.uni-sb.de/~smolka/]

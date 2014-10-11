@@ -1,0 +1,2 @@
+* MindTags: MindPlace
+* OpenStreetMap: http://www.openstreetmap.org/index.html?lat=51.052842&lon=13.742444&zoom=15

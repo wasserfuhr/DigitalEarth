@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Ferdinand_de_Saussure]
+* BirthDay: 11-26
+* MindSkill: SprechAkt SynTax

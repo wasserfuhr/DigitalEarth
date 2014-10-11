@@ -1,0 +1,26 @@
+Um Produkte und Services im MindShop zu erwerben, 
+musst Du MindBroker sein und Dein BankKonto muss entsprechend gefüllt sein.
+
+Für begrenzte Zeit kannst Du KayGroschen bei der PieschenBank erwerben:
+
+||Produkt             ||Preis || ||
+|1.000 KayGroschen|    20|        EUR|
+
+Der Preis beinhaltet 19% MWSt.
+
+* BLZ: 86010090
+* KontoNr: 858372905
+* Empfänger: RainerWasserfuhr
+* Verwendungszweck: 1.000 KayGroschen
+
+Zur Zeit im Angebot im MindShop:
+
+||Produkt             ||Preis ||Einheit je||Service
+|OpenConsult       |     100|EUR mit RaBatt|
+|StartUpSim        |ab 99.999|KayGroschen|
+|MindBanner        |   5.000|KayGroschen|Monat Februar 2008 im MindWiki
+|MindBanner        |  10.000|KayGroschen|Monat März 2008 im MindWiki
+|MindBanner        |  15.000|KayGroschen|Monat April 2008 im MindWiki
+|NacktSichtBrille  |  10.000|KayGroschen|
+|EheRinge          |   1.000|KayGroschen|
+|LiebesRinge       |     100|KayGroschen|

@@ -1,0 +1,5 @@
+It's not a ZukunftsRoman, but the RealRoman und Drehbuch für den RealFilm.
+
+Der RealRoman ist ein Roman, der neben dem menschenlesbaren Text auch einen maschinenlesbaren Untergrundtext besitzt: den SourceCode für UnserGrid.
+
+Der RealRoman ist ein Roman, der seine Leser zu Romanfiguren macht, aber damit auch zu Co-Autoren.

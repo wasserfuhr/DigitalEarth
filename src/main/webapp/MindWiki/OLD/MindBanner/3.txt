@@ -1,0 +1,4 @@
+Ein Banner Deines UnterNehmen's im MindWiki: Jetzt im MindShop!
+
+||Date |KundIn      |Price
+|200906|JanaSchlegel|2000 KayGroschen

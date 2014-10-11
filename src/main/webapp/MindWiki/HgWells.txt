@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:H._G._Wells] [OpenCyc:HgWells] [WikiWikiWeb:HerbertGeorgeWells]
+* BornIn: 1866
+* BirthDay: 09-21
+* DiedIn: 1946
+* MindSkill: SciFi

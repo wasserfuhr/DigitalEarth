@@ -1,0 +1,4 @@
+* IsA: WirtsHaus
+* HomePage: http://www.jaipur-dresden.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/282841525
+* PartOf: LouisenStrasse

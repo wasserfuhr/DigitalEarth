@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Hans_Grabowski]
+* BirthDay: 05-04
+* LebensEnde: 2008
+* DbLp: http://dblp.uni-trier.de/rec/pid/99/3148
+* PageNumber: 9
+* PagePath: LarryPage SergeyBrin MonikaHenzinger KurtMehlhorn FriedhelmMeyerAufDerHeide RolfWanka KlausBrockmann ChristophKilger StefanRude HansGrabowski

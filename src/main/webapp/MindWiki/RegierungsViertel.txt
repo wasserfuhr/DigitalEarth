@@ -1,0 +1,3 @@
+* IsA: DiStrict
+* PartOf: StadtDresden
+* NearBy: NeuStadt

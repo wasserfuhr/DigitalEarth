@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* WohnSitz: BeiJing
+* HomePage: http://keg.cs.tsinghua.edu.cn/persons/tj
+* FoAf: http://keg.cs.tsinghua.edu.cn/persons/tj/jietang.rdf
+* MindSkill: MachineLearning, SemanticWeb

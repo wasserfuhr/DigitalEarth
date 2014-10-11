@@ -1,0 +1,9 @@
+* MindTags: FutureCard
+* CardOwner: ChristineSchlinck
+* UnTil: 2018
+
+StreetView wird Schieberegler haben, um beim Fahren über die GoldenGateBridge
+* Tageszeit
+* Jahreszeit und
+* Wetter
+einzustellen.

@@ -1,0 +1,25 @@
+fürs WunderKind:
+
+Einsatz: 100 KayGroschen pro Teilnehmer. Der Gewinner erhält den gesamten Einsatz. Mehrere Gewinner teilen sich den gesamten Einsatz.
+
+||       ||Spieler
+|20080930|
+|20081001|ChristineSchlinck
+|20081002|
+|20081003|
+|20081004|
+|20081005|RainerWasserfuhr
+|20081006|
+|20081007|
+|20081008|
+|20081009|
+
+Hintergrundwissen: 
+
+VET fürs WunderKind: 20081007 
+VET = voraussichtlicher Entbindungstermin
+
+"75% der Kinder kommen 1 - 2 KW vor dem VET zur Welt.
+Nur 5% am VET und 20 % bis 2 KW nach dem VET." (Quelle: www.eltern.de)
+
+Die tatsächlichen Geburten sind um den errechneten Geburtstermin normalverteilt. Die Standardabweichung liegt bei ca. zehn Tagen, was bedeutet, dass etwa 68 Prozent der Kinder im Intervall zehn Tage vor bis zehn Tage nach dem errechneten Geburtstermin zur Welt kommen, hingegen nur ca. vier Prozent am errechneten Geburtstermin. (http://de.wikipedia.org/wiki/Naegelesche_Regel)

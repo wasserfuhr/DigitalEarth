@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWikie: [DeWikiPedia:Timothy_Leary] [WebSeitz:TimLeary]
+* JahrGang: 1920
+* BirthDay: 10-22
+* LebensEnde: 1996
+* ViAf: http://viaf.org/viaf/61548424

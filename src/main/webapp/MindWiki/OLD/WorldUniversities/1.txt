@@ -1,0 +1,12 @@
+[WikiPedia:Academic_Ranking_of_World_Universities]
+
+# Harvard University
+# StanFord University
+# University of California, Berkeley
+# University of CamBridge
+# MassachusettsInstituteOfTechnology
+# California Institute of Technology
+# Columbia University
+# Princeton University
+# University of Chicago
+# University of Oxford

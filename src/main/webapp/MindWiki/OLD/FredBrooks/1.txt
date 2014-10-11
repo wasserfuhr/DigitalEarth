@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Frederick_P._Brooks] [WebSeitz:FredBrooks] [WikiWikiWeb:FredBrooks]
+* BirthDay: 04-19
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/FrederickPBrooksJr
+* HomePage: http://www.cs.unc.edu/~brooks/
+* PageNumber: 
+* PagePath: LarryPage ... FredBrooks

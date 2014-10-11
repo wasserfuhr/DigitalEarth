@@ -1,0 +1,31 @@
+LifePattern sind etwas ganz Konkretes:
+* Etwas, an das man ImmerWieder denkt und tut
+* Etwas, an das einen eindeutigen und lebenslangen CamelCase-Namen hat
+* Etwas, das man im seinem LifeWiki festhält und beschreibt 
+* Etwas, das man miteinander vernetzt
+* Etwas, das man beim ElbSpaziergang mit anderen BuergerInnen austauscht und weiterspinnt
+
+Good LifePattern:
+* DelIm - use DelIcioUs to send links to friends
+* DoIt - keep a WikiBased ToDo list
+* EnErgie - EnErgie is what keeps the UniVerse running - find out where when and by whom
+* FutureMap - define scenarios of our future
+* HappyBirthday - RePeat'edly 
+* InterWiki - link you LifeWiki with the LifeWiki of your friends
+* LebensErwartung - estimate your EndOfLife
+* LifeWiki - your first place to store thoughts, facts and fictions
+* PostReal - RealLife is just a subset of your imaginations and your possible futures
+* ReDo - identity and track the things that you do RePeat'edly
+* ReView - ReView your thoughts
+* SchaetzQual - quantify the ConFidence of your own beliefs
+* SchatzKiste - keep a box of funny but useless MindThing's
+* SocialBackup - you will need it for UpLoad
+* TotalRecall - remember your thoughts and conversations
+* TwitMap - keep track of the places you visited
+* WikiLender - keep track of MindEvent's
+* WoZu - what is your mission?
+
+AntiPattern:
+* IntuitiveLinear
+* SpectatorSports
+* TotesHolz

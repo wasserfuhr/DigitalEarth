@@ -1,0 +1,1 @@
+next ParaDigm after MachineReadable LinkedData: ServerSide access to the MindBase via NooMic and MapReduce.

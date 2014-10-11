@@ -1,0 +1,14 @@
+Bisherige MitWirkende:
+
+||Name||svn||MindMac
+|RainerWasserfuhr|rainer|neptun
+|DanielPoodratchi|daniel|
+|OliverGassner|oliver|
+|AndreasWeigel|andreasw|
+|YvonneSchubert|yvonne|nana
+|ChristineSchlinck|tine|triton
+|RicardaDHerbrand| |
+
+neu hinzukommen werden voraussichtlich:
+* MichaelBohner (=cc-snake000-at-gmx.de) - JSP, JS Developer
+* AurelienEyoum Eyoum (=aurelien.eyoum-at-googlemail.com) - CSS & HTML, https://www.xing.com/profile/Aurelien_Eyoum/

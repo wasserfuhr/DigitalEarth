@@ -1,0 +1,27 @@
+26^4 = 456.976:
+* AcAb
+* AcDc
+* ApMl
+* BdCs
+* BdSm
+* CoOp
+* DeCt
+* DpWn: DeutschePost
+* EoTi
+* EtAl
+* EuLa
+* FoAf
+* GaOp
+* GoCe
+* HtTp
+* InSw
+* IsBn
+* IsIn
+* OoAd
+* OlAp
+* PoTs
+* RiAa
+* RoFl
+* ScNr
+* SmTp: IhMail
+* SxSw

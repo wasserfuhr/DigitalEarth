@@ -1,0 +1,6 @@
+* MindTags: UnternehmensGruender
+* InterWiki: [WikiPedia:Douglas_Lenat]
+* JahrGang: 1950
+* MindQuote: "Intelligence is ten million rules."
+* HasTalked: EdwardFeigenbaum
+* MindSkill: ArTelligence

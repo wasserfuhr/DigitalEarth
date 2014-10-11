@@ -1,0 +1,3 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/05/2824
+* WebLog: http://seaborne.blogspot.com/

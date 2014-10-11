@@ -1,0 +1,8 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Edelgard_Bulmahn]
+* BornIn: 03-04
+* BirthDay: 1951
+* DbLp: http://dblp.uni-trier.de/rec/pid/66/2842
+* ViAf: http://viaf.org/viaf/49875380
+* PageNumber: InFinite
+* ParteiWiki: SpdWiki

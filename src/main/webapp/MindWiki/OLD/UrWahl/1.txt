@@ -1,0 +1,8 @@
+Die UrWahl findet an jedem Monatsanfang statt.
+Jeder Bürger von NooPolis kann mittels 
+* Ja
+* Nein oder
+* Enthaltung
+über die Verfassung abstimmen.
+
+Falls nach 7 Tagen mehr Ja- als Neinstimmen abgegeben wurden, wird die Republik aufgelöst.

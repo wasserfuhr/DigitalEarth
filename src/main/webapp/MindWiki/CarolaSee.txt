@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Carolasee]
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/4704445

@@ -1,0 +1,3 @@
+* InterWiki: [WikiWikiWeb:CategoryBook]
+
+Bücher und deren IsBn's, die BuergerInnen, angefangen vom BilderBuch, gelesen oder in ihrer MindBib stehen haben.

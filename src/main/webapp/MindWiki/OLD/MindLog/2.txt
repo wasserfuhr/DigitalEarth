@@ -1,0 +1,12 @@
+Bald ein zentrales Objekt in der Systemarchitektur für UnsereProjekte.
+
+Repräsentiert Ereignisse, die für Nutzer relevant sein können:
+* Ein Posting oder Kommentar im MindBlog
+* Ein Payment der PieschenBank
+* Eine Nutzerregistrierung für die MindId
+etc.
+
+Philosophischer Hintergrund: http://yvonne.intrabroker.com/nodes/node.jsp?id=1049
+
+Landet wohl als de.mindbroker.core.model.Log im DomainModel.
+

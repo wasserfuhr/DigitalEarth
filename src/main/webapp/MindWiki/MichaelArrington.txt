@@ -1,0 +1,5 @@
+* IsA: UnternehmensGruender
+* InterWiki: [WikiPedia:Michael_Arrington]
+* BornIn: 1970
+* BirthDay: 03-13
+|[TwittEr:arrington]

@@ -1,0 +1,3 @@
+* IsA: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Theo_Albrecht]
+* BirthDay: 03-28

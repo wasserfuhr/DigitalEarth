@@ -1,0 +1,5 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Helmut_Kohl] [OpenCyc:HelmutKohl]
+* BornIn: 1930
+* BirthDay: 03-03
+* MindFaves: SauMagen SchwarzKoffer

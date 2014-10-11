@@ -1,0 +1,11 @@
+ViAf ToDo: SameAs:
+* AlexanderSigel: http://viaf.org/viaf/51027833 http://viaf.org/viaf/85202334
+* JacquesHerbrand: http://viaf.org/viaf/61912155 http://viaf.org/viaf/24739214
+* JesusChrist: http://viaf.org/viaf/52481432 http://viaf.org/viaf/91885628
+* MarkusWasserfuhr: http://viaf.org/viaf/40492973 http://viaf.org/viaf/49022351
+* MichaelSchefczyk http://viaf.org/viaf/35154378 http://viaf.org/viaf/101080901
+* OliverGassner: http://viaf.org/viaf/28143094 http://viaf.org/viaf/28173695
+* RaimarScherer: http://d-nb.info/gnd/110062957 http://d-nb.info/gnd/110597826
+* RayKurzweil: http://viaf.org/viaf/62387199 http://viaf.org/viaf/27286496
+* TimBl: http://viaf.org/viaf/79454736 http://viaf.org/viaf/23002995 http://viaf.org/viaf/85312226 http://viaf.org/viaf/87229430
+* ZigaTurk: http://viaf.org/viaf/80976012 http://viaf.org/viaf/16913270

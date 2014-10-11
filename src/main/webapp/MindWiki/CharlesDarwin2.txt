@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* InterWiki: [WikiPedia:Charles_Darwin_(1758–1778)]
+* PapaZwoNull: ErasmusDarwin
+* JahrGang: 1758
+* LebensEnde: 1778
+* ViAf: http://viaf.org/viaf/735

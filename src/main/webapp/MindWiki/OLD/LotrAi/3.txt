@@ -1,0 +1,13 @@
+* InspiredBy: http://www.acceleratingfuture.com/michael/blog/2009/04/agi-discussion/
+
+||SingularityMind ||LoTr-PerSona
+|AndersSandberg   |TomBombadil
+|AnnaS            |Arwen
+|DaleCarrico      |The cave troll from Moria
+|EliezerYudkowsy  |Aragorn
+|MichaelAnissimov |Legolas
+|DouglasHofstadter|BilboBaggins
+|RayHawk          |Gimli
+|RayKurzweil      |Saruman, Denethor
+
+soon: MindVote?

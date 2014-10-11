@@ -1,0 +1,38 @@
+Ein Backup des gesamten AgWiki zum Download:
+
+20070808:1410:
+* http://mindbroker.de/mind.zip (Die Inhalte des AgWiki als JspWiki-Textfiles, MD5-SUM: ff08cde56bb777f91ca781bd6d1035c3)
+20070703:1400:
+* http://mindbroker.de/source.zip (Der SVN-Dump von svn://svn.mindbroker.de/opensource/)
+20070519:0247:
+* http://mindbroker.de/mvnrepo.zip (Der SVN-Dump von svn://svn.mindbroker.de/mvnrepo/)
+
+SocialBackup heisst, dass jeder MindBroker ImmerWieder das Backup herunterlädt, damit praktisch mit jedem MindMac ein fast aktuelles Recovery gemacht werden kann, selbst wenn der Server mal bei einem ErdBeben einen Festplattenschaden haben sollte.
+
+||MindBroker      ||what  ||MindMac||letzter Download||MD5-Sum
+|RainerWasserfuhr |mind   |triton  |20070808:1415|ff08cde56bb777f91ca781bd6d1035c3
+|RainerWasserfuhr |mind   |triton  |20070719:1050|acc20cb175455be04a7b3afb7b4a6579
+|RainerWasserfuhr |source |triton  |20070703:1425
+|RainerWasserfuhr |mind   |triton  |20070703:1425
+|RainerWasserfuhr |source |triton  |20070518:1010
+|RainerWasserfuhr |mind   |triton  |20070518:1010
+|RainerWasserfuhr |mvnrepo|triton  |20070519:0251
+|RainerWasserfuhr |mind   |neptun  |20070510:0136
+|RainerWasserfuhr |mind   |neptun  |20070430:1302
+|RainerWasserfuhr |source |neptun  |20070430:1302
+|RainerWasserfuhr |mind   |ares    |20070328:0023
+|DanielPoodratchi |mind   |        |20070326:2103
+|AndreasWeigel    |mind   |othello |not yet, also ToDo ;)
+|OliverGassner    |mind   |???     |not yet, also ToDo ;)
+|YvonneSchubert   |mind   |triton  |20070521:1500
+|YvonneSchubert   |mvnrepo|triton  |20070521:1500
+|YvonneSchubert   |source |triton  |20070521:1500
+|RicardaDHerbrand |mind   |???     |not yet, also ToDo ;)
+
+{{{
+rm /home/insider/apache-tomcat-5.5.23/webapps/ROOT/mind.zip
+zip -r /home/insider/apache-tomcat-5.5.23/webapps/ROOT/mind.zip agwiki agwiki-files
+ls -l /home/insider/apache-tomcat-5.5.23/webapps/ROOT/mind.zip
+ls -l /home/insider/apache-tomcat-5.5.23/webapps/ROOT/source.zip
+
+}}}

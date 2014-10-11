@@ -1,0 +1,75 @@
+The preliminary curriculum of the SingularAcademy:
+
+!1-9 DigitalNative
+* AlphaBet
+* TastaTur
+* LapTop
+* WiFi
+* InterNet
+* FireFox
+* HtTp
+* HtMl
+* WiKi
+* MindPhone
+
+!10-19 ZuKunft
+* MooresLaw
+* CalculationsPerSecondPerDollar
+* AcceleratingChange
+* AcceleratingReturns
+* FutureMap
+* PredictionMarket
+* TheSingularity
+
+!20-29 SemanticWeb
+* RdF
+* ReSource
+* FoAf
+* SparQl
+* MulgaraServer: http://screenr.com/gSh
+* MulgaraRLog
+* MindId
+* WebOfTrust
+* SemanticEnterprise
+* SemanticMind
+* ...
+
+!30-39 EnErgie
+* VenterDiesel
+* EnerNet
+* EastingHouse
+* TrEc
+
+!40-49 HirnForschung
+* EmotivEpoc
+* BrainComputerInterface
+* EpisodicMemory
+* WorldWideMindConsortium
+* ...
+
+!50-59 NanoTech
+* BuckminsterFuller
+* NanoBot
+* QuantPuter
+* GershenfeldReplicator
+
+!60-69 InternetOfThings
+* RfId
+* QrCode
+* AugmentedReality
+* ...
+
+
+!70-79 InternetOfThings
+* RfId
+* QrCode
+* AugmentedReality
+* ...
+
+!...
+
+!90-99 ArtificialGeneralIntelligence
+* TuringTest
+* LongBetOne
+* OpenCog
+* TakeOff

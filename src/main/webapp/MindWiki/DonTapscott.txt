@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Don_Tapscott]
+* BornIn: 1947
+* MindSkill: WikiNomics
+|[TwittEr:dtapscott]
+
+NoBirthday

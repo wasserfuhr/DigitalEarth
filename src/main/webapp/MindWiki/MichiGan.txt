@@ -1,0 +1,3 @@
+* EtymoLogia: "from the Indian words "Michi-gama" meaning "large lake"" [*|http://www.dnr.state.wi.us/org/water/greatlakes/lakemichigan.html]
+* IsA: MindPlace
+* InterWiki: [DeWikiPedia:Michigan]

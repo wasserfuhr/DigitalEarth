@@ -1,0 +1,15 @@
+* NamedAfter: LarryPage
+
+PageNumber <= TurkNumber + 19:
+# JuergenAvenhaus
+# DieterRombach
+# ManfredBroy
+# LeslieLamport
+# BarbaraLiskov
+# JeffreyUllman
+# MichaelStonebraker
+# MosheYVardi
+# TomHenzinger
+# MonikaHenzinger
+# SergeyBrin
+# LarryPage

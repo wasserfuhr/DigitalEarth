@@ -1,0 +1,47 @@
+Welcher MindBroker mit CommitMent wird wie MitWirken?
+
+(Später wird diese WikiSpec als WebApp automatisiert: DoItProject.)
+
+Wichtigste Items zuerst:
+||OrderedByShares||h||Project    ||done(%)||do    ||it
+|RainerWasserfuhr|500|RainerWasserfuhr   |  4|schreibe    |MeinWerk
+|RainerWasserfuhr| 5|MindId              | 20|code        |Invitations
+|RainerWasserfuhr| 1|MindId              |  0|fixe        |Session-Timeouts
+|RainerWasserfuhr| 4|MindId              | 50|code        |kml.jsp
+|RainerWasserfuhr| 2|MindBlog            |  0|code        |Formatierungsproblem Texte in DB
+|RainerWasserfuhr| 2|InBox               |  0|code        |Formatierungsproblem Texte in DB
+|RainerWasserfuhr| 4|MindId              | 50|code        |MindMap
+|RainerWasserfuhr| 3|MindId              | 50|code        |MindTrust
+|RainerWasserfuhr| 5|MindVote            |  0|code        |Alpha
+|RainerWasserfuhr| 1|GeoMindBroker       |  0|fixe        |DB-Inhalt
+|RainerWasserfuhr| 3|InBox               |  0|code        |API
+|RainerWasserfuhr| 3|InBox               |  0|code        |InBox-Matrix
+|RainerWasserfuhr| 3|MindChat            |  0|code        |Alpha
+|RainerWasserfuhr| 3|PieschenBank        | 60|code        |WechselKurs-Auktionen
+|RainerWasserfuhr| 1|MindId              |  0|code        |automatisches Backup
+|RainerWasserfuhr| 4|UnserGrid           |  0|code        |automatisches Backup
+|RainerWasserfuhr| 1|PieschenBank        |  0|code        |automatisches Backup
+|RainerWasserfuhr| 1|MindFee             |  0|code        |automatisches Build
+|RainerWasserfuhr| 1|MindBrokerKg        |  0|kündige     |BSB
+|RainerWasserfuhr| 1|MindBrokerKg        |  0|vorbereite  |Providerwechsel von Strato zu inwx.de
+|RainerWasserfuhr| 1|PieschenBank        |  0|code        |Legende zu Farben bei Auktionen
+|RainerWasserfuhr| 2|UnserGrid           | 50|code        |MicroFormat-Status
+|RainerWasserfuhr|  |MindBlog            |   |vergrößere  |Eingabetext
+|RainerWasserfuhr|  |MindBlog            |   |ermögliche  |Korrekturen in Blogtexten
+|RainerWasserfuhr|  |                    |  0|verwende    |neue KontoNummer bei der norisbank
+|RainerWasserfuhr|  |                    |  0|verwende    |neue SteuerNummer der KG
+|RainerWasserfuhr|10|MindBrokerKg        |  0|organisiere |BdCs
+|RainerWasserfuhr|  |UmZug               |  0|kündige     |Telekom PF 20 00 in 53105 Bonn 
+|RainerWasserfuhr|  |UmZug               |  0|erneuere    |Telekom Login Rechnung Online 
+|RainerWasserfuhr|  |Domains             |  0|umziehe     |alle Domains auf inwx
+|RainerWasserfuhr|  |Steuer              |  0|speichere   |alle Onlinerechnungen Telekom Büro
+|RainerWasserfuhr|20|NooPolis            |  0|organisiere |SingularCamp
+|RainerWasserfuhr|  |UmZug               |  0|gebe        |Adressänderung an BfA
+|RainerWasserfuhr|  |MindBrokerKg        |  0|mache       |USTVA am 01. Dezember
+|-| -|-      |  -|-                      |-
+|DanielPoodratchi| 3|MindBlog            |  0|code        |RSS-Feed
+|DanielPoodratchi| 3|MindId              |  0|code        |RSS-Feed für neue BuergerInnen
+|DanielPoodratchi| 3|MindBlog            |  0|code        |Comments
+|DanielPoodratchi| 4|InBox               |  0|code        |Messages senden
+|DanielPoodratchi| 2|AgWiki              |  0|code        |MindCss für MindWiki
+|-| -|-      |  -|-                      |-

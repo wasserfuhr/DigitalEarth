@@ -1,0 +1,42 @@
+Wer WerdeMindBroker als nächstes?
+
+||MindId *)||MindBroker     ||NextId
+|         *|RainerWasserfuhr|SebastianMitter (20 EUR)
+|         *|RainerWasserfuhr|KatharinaKuehnel
+|         *|RainerWasserfuhr|JuergenKohn
+|          |RainerWasserfuhr|DimitriUwarov
+|          |RainerWasserfuhr|FrSc
+|          |RainerWasserfuhr|CemBasman
+|          |RainerWasserfuhr|AndreasStuhlmueller
+|          |RainerWasserfuhr|AlexandraSurdina
+|          |RainerWasserfuhr|JensWegerle
+|          |RainerWasserfuhr|NicoleSimon
+|          |RainerWasserfuhr|alle MindPeople ohne LebensEnde
+|          |RainerWasserfuhr|SoerenStamer
+|          |RainerWasserfuhr|StephanMosel
+|          |RainerWasserfuhr|BeatDoebeli
+|          |RainerWasserfuhr|HelmutLeitner
+|          |RainerWasserfuhr|DirkRiehle
+|          |RainerWasserfuhr|StephanSchmidt
+|          |RainerWasserfuhr|MatthiasJugel
+|          |RainerWasserfuhr|JosefBuechel
+|          |RainerWasserfuhr|HagenStanek
+|          |RainerWasserfuhr|ManuelaAmann
+|          |RainerWasserfuhr|JaRe
+|          |RainerWasserfuhr|EvLu
+|          |RainerWasserfuhr|Alle Teilnehmer von MindEvents
+"*": Von der Person selbst angefragt
+
+falls englische WebApps fertig:
+* JoiIto
+* LawrenceLessig
+* alle UnternehmensGruender
+
+Option auf je 200 MindShares:
+* AlGe
+* AlGo
+* PeKa
+* SeMi
+* SvSc
+
+Vanity-MindId: Runde Zahlen und Schnapszahlen werden nachher bei ebay versteigert.

@@ -1,0 +1,18 @@
+Bisherige MitWirkende:
+
+||OrderedByShares ||svn     ||MindMac||SecondLife                      ||Xing                    ||BlogLines                ||DelIcioUs
+|RainerWasserfuhr |rainer   |neptun  |[SecondLife:Ted_Christensen]     |[Xing:Rainer_Wasserfuhr] |[BlogLines:rainer]        |[DelIcioUs:rainer]
+|DanielPoodratchi |daniel   |adonis  |[SecondLife:Daniel_Foysten]      |[Xing:Daniel_Poodratchi] |[BlogLines:danieleP]      |[DelIcioUs:daniele85]
+|AndreasWeigel    |andreasw |othello |[SecondLife:B4d4_Bing]           |[Xing:Andreas_Weigel10]  |[BlogLines:diplomate]     |[DelIcioUs:weigel]
+|OliverGassner    |         |        |[SecondLife:Oliver_Gassner]      |[Xing:Oliver_Gassner]    |[BlogLines:OliverG]       |[DelIcioUs:oliverg]
+|YvonneSchubert   |yvonne   |nana    |                                 |[Xing:Yvonne_Schubert]   |[BlogLines:yvonneschubert]|[DelIcioUs:Perl]
+|TimBonnemann     |tim      |        |[SecondLife:Intrepid_Replacement]|[Xing:Tim_Bonnemann]     |                          |[DelIcioUs:tbonnemann]
+|RicardaDHerbrand |         |        |                                 |[Xing:RicardaD_Herbrand] |                          |
+|DimitriUwarov    |dimitri  |        |[SecondLife:??]                  |[Xing:Dimitri_Uwarov]    |                          |
+|JensWegerle      |         |        |                                 |[Xing:RicardaD_Herbrand] |                          |
+|HagenStanek      |hagen    |        |[SecondLife:Huge_Norie]          |                         |                          |
+|ChristineSchlinck|tine     |triton  |[SecondLife:Clarisse_Schumann]   |[Xing:Christine_Schlinck]|                          |
+
+hinzukommen können eventuell:
+* Michael B. - JSP, JS Developer
+* AurelienEyoum Eyoum - CSS & HTML, https://www.xing.com/profile/Aurelien_Eyoum/

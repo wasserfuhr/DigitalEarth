@@ -1,0 +1,35 @@
+Das Kind des StartUpWeekEnd:
+
+http://edelbild.de/
+
+einige Gesellschafter:
+* CemBasman
+* JanBeckers
+* RainerWasserfuhr
+* ThomasPromny
+* TinaPickhardt
+
+
+Es gibt derzeit [82|http://www.gruenderszene.de/?p=325] EdelBild-ShareHolder. Jeder der ShareHolder hat genau 2 Shares.
+Leider war der Geschaftervertrag der Edelbild Ltd. noch nicht aufzutreiben.
+
+Hier ein kleines virtuelles Orderbuch für das Traden von Edelbild-Shares.
+Disclaimer: Dieses Orderbuch ist völlig virtuell und hat keinerlei rechtliche Verbindlichkeit.
+Es hat lediglich Spielcharakter und soll helfen, per CrowdWisdom den aktuellen Unternehmenswert von EdelBild genauer zu bestimmen.
+
+Teilnahmeberechtigt am Handel sind nur Personen, die BuergerInnen von NooPolis sind (WerdeMindBroker).
+Bei Verkaufsangeboten müssen die Certificate-Nummern der angebotenen Shares angegeben werden, so wie sie auf den ausgehändigten Shares angegeben sind.
+
+!!Orderbuch
+das aktuell gültige Orderbuch:
+||Stk||Geld   ||Bieter          ||Stk||Brief  ||Nachfrager        ||Shares-Nummern||Einheit
+|    |        |                 |   1|50000,00|RainerWasserfuhr   |            273|KayGroschen
+|   5|101,00  |JensFreydank     |   1| 5000,00|RainerWasserfuhr   |            274|KayGroschen
+|  50|100,00  |RainerWasserfuhr |    |        |                   |               |KayGroschen
+|  50| 50,00  |RainerWasserfuhr |    |        |                   |               |KayGroschen
+
+!!Times & Sales
+So würde eine hypothetische Times&Sales-Tabelle aussehen, wenn RainerWasserfuhr seinen Briefwert auf 100 reduzieren würde:
+||Datum    ||Uhrzeit||Stk||Kurs||Käufer    ||Verkäufer      ||Shares-Nummern
+|14.10.2007|12:27:10|1|101|JensFreydank    |RainerWasserfuhr|274
+|14.10.2007|12:28:30|1|101|JensFreydank    |RainerWasserfuhr|273

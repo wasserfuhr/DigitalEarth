@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/n/HeinrichNiemann
+* HomePage: http://www5.informatik.uni-erlangen.de/en/our-team/niemann-heinrich
+* PageNumber: 14
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge NickJennings AdrianPetcu BoiFaltings AkshatKumar ShaneLegg MarcusHutter JuergenSchmidhuber HorstBunke HeinrichNiemann

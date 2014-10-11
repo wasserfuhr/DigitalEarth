@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Kurt_Mehlhorn]
+* BirthDay: 08-29
+* PageNumber: 3
+* PagePath: LarryPage SergeyBrin MonikaHenzinger KurtMehlhorn

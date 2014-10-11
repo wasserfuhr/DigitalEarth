@@ -1,0 +1,8 @@
+
+
+
+||MindBanner    ||WerbeOrt        ||Größe      ||Homepage      ||Dauer     ||noch verfügbar
+|SkyScraper     |StartSeite       | 120 x 600  |familienFreunde| 1 Monat   | 3
+|HalfBanner     |StartSeite       | 234 x 60   |familienKatalog| 1 Monat   | 5
+|HalfBanner     |Liste Angebote   | 234 x 60   |familienKatalog| 1 Monat   | 5
+|HalfBanner     |Detailseite      | 234 x 60   |familienKatalog| 1 Monat   | 5

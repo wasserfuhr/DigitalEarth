@@ -1,0 +1,2 @@
+* IsA: GottesHaus
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/67351231

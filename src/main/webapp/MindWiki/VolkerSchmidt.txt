@@ -1,0 +1,4 @@
+* IsA: PerSon
+* HomePage: http://www.aa-net.de/
+* HasTalked: RainerWasserfuhr
+|[XingLe:Volker_Schmidt9]

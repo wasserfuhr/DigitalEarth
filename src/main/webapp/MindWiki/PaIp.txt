@@ -1,0 +1,2 @@
+* InterWiki: [WikiWikiWeb:ParadigmsOfArtificialIntelligenceProgramming]
+* DcAuthor: PeterNorvig

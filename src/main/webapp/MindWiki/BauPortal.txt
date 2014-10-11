@@ -1,0 +1,6 @@
+RainerWasserfuhr hat 5 Jahre lang am Institut für BauInformatik der TuDresden geforscht.
+Hauptsächlich über den Einsatz von WorkFlow-Systemen bei Bauprojekten.
+
+Da könnte man die schöne Software von damals neu entwickeln für UnserGrid.
+
+Domain: http://bau.mindbroker.de

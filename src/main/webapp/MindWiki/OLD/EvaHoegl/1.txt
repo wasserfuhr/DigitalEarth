@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Eva_Högl]
+* BornIn: 1969
+* BirthDay: 01-06
+* ParteiWiki: SpdWiki

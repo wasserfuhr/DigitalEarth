@@ -1,0 +1,9 @@
+* MindTags: EventSeries
+
+!MitMachSache: Wo warst Du bei der [DeWikiPedia:Sonnenfinsternis_vom_11._August_1999]???
+
+||PerSon           ||MindPlace
+|RainerWasserfuhr  |KarlsRuhe
+|YvonneSchubert    |KarlsRuhe
+|LaHe              |KarlsRuhe
+|ChristineSchlinck |

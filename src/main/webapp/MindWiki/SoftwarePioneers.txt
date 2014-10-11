@@ -1,0 +1,5 @@
+* IsA: MindEvent
+* MindPlace: StadtBonn
+
+RedBlueGame:
+* ErnstDenert ManfredBroy TonyHoare FiedrichLBauer OleJohanDahl NiklausWirth FredBrooks AlanKay RudolfBayer PeterChen EwDijkstra DavidLParnas JohnGuttag MichaelJackson2 TomDeMarco MichaelFagan BarryBoehm ErichGamma

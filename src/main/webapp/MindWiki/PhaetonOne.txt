@@ -1,0 +1,3 @@
+* MindTags: MindThing
+* BoundingBox: 5.175
+* MindQuote: "ProtzKarosse" - EvaJaehnigen

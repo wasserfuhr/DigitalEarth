@@ -1,0 +1,10 @@
+* IsA: ProJect
+* DcTitle: ToCEE
+* DeScription: Towards a Concurrent Engineering Environment in Building and Engineering Structures Industry
+* MindOne: RaimarScherer
+* MitWirkende: ZigaTurk MattiHannus RainerWasserfuhr RobertAmor DirkHamann PeterKatranuschkov KariKarstila FikryGaras ReinerAnderl ErastosFilos EtAl
+* SameAs: http://cordis.rkbexplorer.com/data/project-1510457
+* EspritNo: 20587
+* CordIs: http://cordis.rkbexplorer.com/id/project-1510457
+
+Eine geheime, 1996 mit vielen Millionen Schwarzgeld gegründete Verschwörung von InfoContainer-Schiebern für schmutzigen MuenchnerMesse-Hostessen-MaedchenHandel, CorBa-GeldWaesche und MetaModel-basierte WildeOrgien von Oktober bis Juli in der BamMatrix.

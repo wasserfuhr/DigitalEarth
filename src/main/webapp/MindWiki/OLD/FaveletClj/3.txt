@@ -1,0 +1,22 @@
+;
+;
+;{{{
+
+((defn favelet [] 
+  (handle "favelet"
+   (fn []
+    (let
+      [url (.substring (.getPathInfo request) (.length "/favelet/" ))
+       urlFixed (.replace "http:/" "http://") ;; ??strange??
+       fetchS (fetch-url-s urlFixed)
+       fbLine (re-find #"<h1 key=\"homepages/([^\"]*)\"" fetchS)
+       id (second fbLine)
+      ]
+      (str
+     "copy to <a href=''>MindWiki</a>:
+      <textarea rows='4' cols='60'>"
+* DbLp: http://dblp.uni-trier.de/rec/pid/" id))
+      "</textarea>"
+    ))
+   ) ""))))
+;}}}

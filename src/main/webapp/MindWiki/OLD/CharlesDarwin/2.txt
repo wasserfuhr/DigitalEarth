@@ -1,0 +1,7 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Charles_Darwin]
+* JahrGang: 1809
+* BirthDay: 02-12
+* PapaZwoNull: RobertDarwin
+* LebensEnde: 1882
+* HasVisited: DarwinIsland

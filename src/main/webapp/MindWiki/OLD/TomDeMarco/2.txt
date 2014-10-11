@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Tom_DeMarco], [WikiWikiWeb:TomDeMarco]
+* JahrGang: 1940
+* BirthDay: 08-20
+* HomePage: http://www.systemsguild.com/GuildSite/TDM/Tom_DeMarco.html

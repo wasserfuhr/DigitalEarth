@@ -1,0 +1,5 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Ludwig_Boltzmann]
+* JahrGang: 1844
+* BirthDay: 02-20
+* LebensEnde: 1906

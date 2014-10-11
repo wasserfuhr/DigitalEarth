@@ -1,0 +1,9 @@
+Hintergrund: http://wasserfuhr.com/nodes/node.jsp?id=606
+
+||Skala (10 hoch ''x'' sec)||Einheit||WebApp||Event
+|5  |day |MindId      |User.register()
+|4  |day |PieschenBank|Payment.pay()
+|4  |hour|UnserGrid   |User.login()
+|2  |min |AgWiki      |Page.edit()
+|0  |sec |UnserGrid   |WepApp.checkStatus()
+|-3 |msec|WebApp      |HttpServlet.service()

@@ -1,0 +1,4 @@
+* IsA: DaxUnternehmen
+* InterWiki: [DeWikiPedia:Deutsche_Börse]
+* IsIn: DE0005810055
+* MindOne: RetoFrancioni

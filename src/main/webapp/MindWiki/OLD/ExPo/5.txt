@@ -1,0 +1,3 @@
+* MindQuote: "Die nahe Zukunft von exponentiellen Prozessen wird überschätzt, die ferne [unterschätzt|http://www.siggibecker.de/blog/archives/2005/10/grand-challenge-red-team/]"
+
+WirWollen nicht immer exponentiell denken. Manchmal ist Enthaltsamkeit besser: NullWachstum. SigMoid.

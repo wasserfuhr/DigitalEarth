@@ -1,0 +1,13 @@
+In der gesamten Geistesgeschichte findet eine Formalisierung der Kommunikation statt:
+* In der Mathematik und ihren exakten Formelsysteme schon seit Jahrhunderten. Anfangs in Bereichen wie Algebra und Analysis, später dank Frege, Russell, Wittgenstein auch für beliebige Wissensbereiche.
+* In Form von Programmiersprachen werden formale Sprachen zu Kulturtechniken.
+* Im Hypertext wird der Vorgang des zeigenden Sprechens ein technischer Akt.
+* In der WikiPedia werden Subjekte von Sprechakten des Allgemeinwissens zu exakt kodierten Ressourcen.
+* Im LifeWiki werden die Begriffswelten jedes einzelnen Menschen zu exakt kodierten Ressourcen.
+
+Die EmerGier'ende KunstSprache des MindWiki verbindet den SourceCode und die SprachWelt'en der WeltSprache zu einem PostReal'en SemanticWeb-KunstWerk.
+
+Bausteine:
+* AdJective
+* MindVerb
+

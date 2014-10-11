@@ -1,0 +1,7 @@
+RainerWasserfuhr RePeat'edly ReFactor's the MindWiki for
+* PageSize
+* pages with most BackLink's
+* number of ReVision's
+The idea behind this is to keep the MindWiki as close as possible to a neuronal MetaPhor, where each neuron and SynApse only has limited ConNect'ions to its neighbours.
+
+Similar to [WikiPedia:B-tree]

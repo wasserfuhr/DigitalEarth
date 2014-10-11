@@ -1,0 +1,11 @@
+Hier erfassen ShareHolder und Lieferanten wannn sie welche Leistungen für UnterNehmen in NooPolis erbracht haben:
+
+||für UnterNehmen||wer            ||wann   ||was                         ||Stunden
+|MindBroker      |DanielPoodratchi|20070823|code Review, Bug fixing       |5
+|MindBroker      |DanielPoodratchi|20070824|                           -  |10
+|MindBroker      |DanielPoodratchi|20070903|Auction JSP coding            |10
+|MindBroker      |DanielPoodratchi|20070904|Bug fixing, Abstimmung Rainer |2
+|MindBroker      |DanielPoodratchi|20070907|YAML MindBlog Layout          |6
+|MindBroker      |DanielPoodratchi|20070919|MindBlog Kommentare           |3
+|MindBroker      |DanielPoodratchi|20071104|InBox single Message, overview|6
+NuIt

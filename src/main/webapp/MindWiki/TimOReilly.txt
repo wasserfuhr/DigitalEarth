@@ -1,0 +1,9 @@
+* IsA: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Tim_O’Reilly] [LangReiter:Tim+O'Reilly] [WebSeitz:TimOReilly]
+* BornIn: 1954
+* BirthDay: 06-06
+* DbLp: http://dblp.uni-trier.de/rec/pid/90/3808
+* PageNumber: 2
+* PagePath: LarryPage HectorGarciaMolina TimOReilly
+* UsElection08: BarackObama
+|[TwittEr:timoreilly]

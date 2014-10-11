@@ -1,0 +1,6 @@
+* MindTags: MindThing
+* InterWiki: [DeWikiPedia:Sonne] [OpenCyc:TheSun] [WikiWikiWeb:TheSun]
+* BoundingBox: 1391400000
+* PartOf: SolarSystem
+
+EnErgie: 370000000000000000000000000 Watt

@@ -1,0 +1,15 @@
+;; do some basic forms:
+;;  (defn addd [x] (str "value:" x "<br/>") )
+;;       (addd "4222") )
+
+(str 
+   "<html>
+     <head><title>NooPolis - Building Utopia from the sources</title></head>
+     <body>
+     <form><textarea name='text'></textarea><input type='submit' value='NooMic'></form>"
+   (str (.getParameter request "text") )
+   "<br/>"
+   "Memory: " (.totalMemory (Runtime/getRuntime))
+   "<body>
+   </html>"
+)

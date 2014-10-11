@@ -1,0 +1,2 @@
+* HerKunft: "proiacere (pro = vor, für, iacere = werfen) und dessen Partizip proiectus"
+* MindTags: RdfClass

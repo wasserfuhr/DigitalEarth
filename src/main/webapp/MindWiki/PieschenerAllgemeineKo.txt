@@ -1,0 +1,9 @@
+PieschenerAllgemeine in LangKo
+
+from 드레스덴.
+
+||SubScriber  ||SeonKwang?
+|MindId       |?
+|가정          |원광사
+|지로          |1000 KayGroschen?
+|QrCode       |[{Image src='http://farm3.static.flickr.com/2721/4229576587_bfa1bbe9fb_t.jpg'}]

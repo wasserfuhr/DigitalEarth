@@ -1,0 +1,4 @@
+* IsA: PerSon
+* HasTalked: RainerWasserfuhr (2010-06-22 HauptStrasse)
+
+BueSo

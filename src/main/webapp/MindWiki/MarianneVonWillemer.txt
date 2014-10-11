@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Marianne_von_Willemer]
+* HasKissed: JohannWolfgangVonGoethe
+* BirthDay: 11-20

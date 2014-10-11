@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/n/JurgenNehmer
+* HomePage: http://wwwagss.informatik.uni-kl.de/Mitarbeiter/nehmer/
+* PageNumber: 4
+* PagePath: LarryPage TerryWinograd NorbertStreitz RalfSteinmetz JuergenNehmer

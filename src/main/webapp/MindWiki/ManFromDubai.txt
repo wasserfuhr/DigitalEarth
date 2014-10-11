@@ -1,0 +1,5 @@
+* IsA: PerSona
+* MindTag: FutureCard
+* PreDict: 
+
+FaceBase [http://95fragen.de/questions/index/question_id:49]

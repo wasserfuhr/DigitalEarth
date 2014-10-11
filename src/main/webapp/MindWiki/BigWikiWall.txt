@@ -1,0 +1,4 @@
+* IsA: MindPlace
+* PartOf: BigSchuppen
+
+[{Image src='http://farm4.static.flickr.com/3335/3643865018_c168b427a7.jpg'}][*|http://www.flickr.com/photos/ralflippold/3643865018/]

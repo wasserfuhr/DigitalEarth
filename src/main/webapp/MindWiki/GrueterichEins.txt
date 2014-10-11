@@ -1,0 +1,14 @@
+* IsA: MindBuilding
+* BreitenGrad: 51.096603
+* LaengenGrad: 7.341150
+* BoundingBox: 20
+* MindCount: 3
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/48159854
+* NearBy: WipperFeld
+
+MeMo:
+* 2010-02-28:1400 RainerWasserfuhr (TelePresence per PoTs) JeMand JeMand: RaiNer LgKp107 TeMobile BastianWeingaertner WupperTal StanislawTillich WinterThur JfSchlinck LockOfficeBerlin DeutschTelekom JuergenRuettgers TwittEr DeutschPost
+* 2009-10-24:1108 RainerWasserfuhr (TelePresence per PoTs) JeMand: JfSchlinck MindBrokerKg HamBurg BadenBaden HomeOffice LockSchuppen RalfLippold
+* 2009-08-29: RainerWasserfuhr (TelePresence per PoTs) JeMand JeMand: PiratenPartei LockSchuppen StanislawTillich WaldSchloesschenBruecke JfSchlinck
+* 2008-11-09: RainerWasserfuhr (TelePresence per PoTs) JeMand JeMand: SeminarWissen, JfSchlinck, MutterMilch, RamonKachelmann, BurjDubai, JakobsBerg, ZuKunft, MindAudi, WaldSchloesschenBruecke, RaimarScherer, JahrGang, ToCee, DeutzAg, VolksWagen, YvonneSchubert, DresdenFutureGroupOne, InterNet, WirkSatz
+* 2008-10-03: RainerWasserfuhr, JeMand: WorldCrash, MacBook, CableCar, XingLe, JfSchlinck, ManuelaAmann, FlickEr, AbSchalten, InBoxPolicy.

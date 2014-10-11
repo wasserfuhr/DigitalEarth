@@ -1,0 +1,28 @@
+http://www.dvb.de/de/Fahrplan/Haltestellenfahrplaene/haltestellenauswahl.do?uk_id=1262146316
+
+    * SuedVorstadt
+    * NuernbergerPlatz
+    * Reichenbachstr.
+    * Hauptbahnhof
+    * Hauptbahnhof Nord
+    * Walpurgisstraße
+    * Prager Straße
+    * PostPlatz
+    * TheaterPlatz
+    * Neustädter Markt
+    * Carolaplatz
+    * Carolaplatz
+    * AlbertPlatz
+    * LouisenStrasse
+    * Bischofsweg
+    * Tannenstraße
+    * Stauffenbergallee
+    * HeeresBaeckerei
+    * Industriegelände
+    * Hellersiedlung
+    * Moritzburger Weg
+    * InfinEon Süd
+    * Am Hellerrand
+    * Heinrich-Tessenow-Weg
+    * Festspielhaus HellerAu
+    * BrunnenWeg

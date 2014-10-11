@@ -1,0 +1,11 @@
+Die UrWahl von NooPolis ist frei, gleich und öffentlich.
+
+Die UrWahl findet an jedem Monatsanfang statt.
+
+Jeder Bürger von NooPolis kann mittels
+* Ja
+* Nein oder
+* Enthaltung
+über die Verfassung abstimmen. Bei der Abstimmung mit "Nein" muss genau eine Wiki-Page des PolisWiki als Begründung für die Stimmverweigerung angegeben werden.
+
+Falls nach 7 Tagen mehr Nein- als Jastimmen abgegeben wurden, wird die Republik aufgelöst.

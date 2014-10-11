@@ -1,0 +1,1 @@
+statt einer hierarchischen OrdNung können Seiten im MindWiki mehrere MindTags erhalten.

@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Alfred_Korzybski]
+* BornIn: 1879 
+* BirthDay: 07-03
+* DiedIn: 1950
+* MindSkill: GeneralSemantics

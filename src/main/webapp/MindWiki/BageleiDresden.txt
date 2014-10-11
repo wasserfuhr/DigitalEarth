@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* HomePage: http://www.bagelei.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/257483860

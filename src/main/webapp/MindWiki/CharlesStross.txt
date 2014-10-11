@@ -1,0 +1,8 @@
+* MindTags: SingularityMind
+* InterWiki: [DeWikiPedia:Charles_Stross], [OpenCyc:CharlieStross-Author], [WebSeitz:CharlieStross]
+* JahrGang: 1964
+* BirthDay: 10-18
+* HomePage: http://www.antipope.org/charlie/
+* MindBlog: http://www.antipope.org/charlie/blog-static/
+
+MustRead: AccelerAndo

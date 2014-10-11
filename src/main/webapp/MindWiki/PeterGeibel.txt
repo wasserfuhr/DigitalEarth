@@ -1,0 +1,4 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/10/1774
+* HomePage: http://www.peter-geibel.de/
+|[XingLe:Peter_Geibel]

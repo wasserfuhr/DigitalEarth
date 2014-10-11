@@ -1,0 +1,5 @@
+* IsA: PerSon
+* HomePage: http://www.judith-kobor.de/
+* HomeStead: NeuStadt
+* HasTalked: HeidiMorgenstern RainerWasserfuhr
+|[FaceBook:100001651510741]

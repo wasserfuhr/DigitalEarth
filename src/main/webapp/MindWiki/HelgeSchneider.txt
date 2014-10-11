@@ -1,0 +1,10 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Helge_Schneider]
+* BirthDay: 08-30
+* EnsId: http://www.okkam.org/ens/id7cff20f1-ec3d-41e8-b752-7dcdd9b32aa5
+* ViAf: http://viaf.org/viaf/59886022
+* HomePage: http://www.helge-schneider.de/
+* Erfindungen: KatzeKlo KaeseBrot
+* Alias: TelefonMann
+
+[FaceBook:100000705832647]?

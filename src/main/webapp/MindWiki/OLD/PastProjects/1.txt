@@ -1,0 +1,2 @@
+* IsA: MindProps
+* RdfDomain: ProJect

@@ -1,0 +1,37 @@
+DoIt RePeat'edly:
+
+WikiTable:
+||ImmerWieder||OrderedByShares||last||do     ||it
+|day     |RainerWasserfuhr|20080313|check    |SocialGrid-Status
+|day     |RainerWasserfuhr|20080313|read     |daily MindFeeds
+|3 days  |RainerWasserfuhr|20080312|do       |SocialBackup
+|3 days  |RainerWasserfuhr|20080313|pour     |MindGreen
+|week    |RainerWasserfuhr|20071216|review   |DoIt
+|week    |RainerWasserfuhr|20080124|review   |ReDo
+|week    |RainerWasserfuhr|20080313|review   |WasWyrd
+|week    |RainerWasserfuhr|20080313|review   |DiscussionForum
+|week    |RainerWasserfuhr|20080311|read     |weekly MindFeeds
+|week    |RainerWasserfuhr|20080313|check    |BankAccount
+|week    |RainerWasserfuhr|20071127|plan     |CashFlow
+|week    |RainerWasserfuhr|20071127|save     |CashFlow in web.de
+|week    |RainerWasserfuhr|20071120|sort     |TotesHolz-InBox
+|week    |RainerWasserfuhr|20080313|read     |XingLe-Termine
+|week    |RainerWasserfuhr|20080310|check    |FaceBook
+|2 weeks |RainerWasserfuhr|20080307|order    |ReineMachFee
+|month   |RainerWasserfuhr|20071206|review   |ReView
+|month   |RainerWasserfuhr|20071112|download |Kontoauszüge NorisBank und PostBank
+|month   |RainerWasserfuhr|20080309|do       |UstVA
+|month   |RainerWasserfuhr|20080313|manure   |MindGreen
+|6 weeks |RainerWasserfuhr|20080311|backup   |TwittEr
+|6 weeks |RainerWasserfuhr|20080313|backup   |DelIcioUs
+|6 weeks |RainerWasserfuhr|20080313|backup   |BlogLines
+|6 weeks |RainerWasserfuhr|20071101|backup   |MindMac
+|year    |RainerWasserfuhr|20070413|do       |JahresAbschluss
+|year    |RainerWasserfuhr|20080101|calculate|LebensErwartung
+|-| | | |
+|month   |HeikeRibke      |20080313|check    |BegruessungsGeld-payments
+|-| | | |
+|week    |DanielPoodratchi|20071103|read     |weekly MindFeeds
+|month   |DanielPoodratchi|20071103|review   |UnserBudget
+|month   |DanielPoodratchi|20071103|review   |CommitMent
+|month   |DanielPoodratchi|20071103|do       |SocialBackup

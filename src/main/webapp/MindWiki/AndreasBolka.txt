@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [LangReiter:Andreas+Bolka]
+
+SystemOne

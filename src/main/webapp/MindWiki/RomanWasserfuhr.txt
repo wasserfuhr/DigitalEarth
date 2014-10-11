@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Roman_Wasserfuhr]
+* BornIn: 1985
+* BirthDay: 02-24
+* MindSkill: MindMusic
+
+ViafBug: http://viaf.org/viaf/103367344 http://viaf.org/viaf/103139666

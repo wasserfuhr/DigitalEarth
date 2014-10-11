@@ -1,0 +1,10 @@
+Bisherige MitWirkende:
+* RainerWasserfuhr
+* DanielPoodratchi
+* AndreasWeigel
+* YvonneSchubert
+
+neu hinzukommen werden voraussichtlich:
+* MadeleinePoodratchi (=chima_@gmx.de) - Design
+* MichaelBohner (=cc-snake000@gmx.de) - JSP, JS Developer
+* AurelienEyoum Eyoum (=aurelien.eyoum@googlemail.com) - CSS & HTML, https://www.xing.com/profile/Aurelien_Eyoum/

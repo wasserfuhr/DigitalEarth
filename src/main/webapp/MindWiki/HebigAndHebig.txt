@@ -1,0 +1,5 @@
+||        ||HaikoHebig||HeikoHebig
+||VorName |Haiko      |Heiko
+||NachName|Hebig      |Hebig
+||HomePage|http://hebig.org/|http://hebig.com/
+||(Ex-)WohnSitz|Herdecke   |HamBurg

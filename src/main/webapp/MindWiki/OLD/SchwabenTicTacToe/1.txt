@@ -1,0 +1,3 @@
+* MindTags: RealSpiel
+* BoardCenter: UniStuttGart
+* BoardSize: 200

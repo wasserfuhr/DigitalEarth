@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:David_Hasselhoff], [OpenCyc:DavidHasselhoff]
+* JahrGang: 1952
+* BirthDay: 07-17

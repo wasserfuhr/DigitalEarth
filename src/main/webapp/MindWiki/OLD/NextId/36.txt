@@ -1,0 +1,48 @@
+Who might JoinNow?
+
+Ein paar BeautifulMind's, die in Frage kämen:
+
+||MindId *)||Einladender    ||NextId
+|          |HeikeRibke      |MarcPilloud
+|          |HeikeRibke      |GunterDueck
+|         *|RainerWasserfuhr|JuergenKohn
+|          |RainerWasserfuhr|ChristianFischer
+|          |RainerWasserfuhr|MaikKrause
+|          |RainerWasserfuhr|SiegfriedHirsch
+|          |RainerWasserfuhr|BeatDoebeli
+|          |RainerWasserfuhr|DirkRiehle
+|          |RainerWasserfuhr|OlivierAuber
+|          |RainerWasserfuhr|StephanSchmidt
+|          |RainerWasserfuhr|MatthiasJugel
+|          |RainerWasserfuhr|FrankGerhardt
+|          |RainerWasserfuhr|HelmutLeitner
+|          |RainerWasserfuhr|StephanMosel
+|          |RainerWasserfuhr|AndreasStuhlmueller
+|          |RainerWasserfuhr|AlexandraSurdina
+|          |RainerWasserfuhr|SoerenStamer
+|          |RainerWasserfuhr|KaKl
+|        *?|RainerWasserfuhr|MiIv
+|          |RainerWasserfuhr|AnjaEigner
+|          |RainerWasserfuhr|JensWegerle
+|          |RainerWasserfuhr|NicoleSimon
+|          |ChristineSchlinck|CoSc
+|          |RainerWasserfuhr|FrSc
+|          |RainerWasserfuhr|IlKu
+|          |RainerWasserfuhr|alle MindPeople ohne LebensEnde
+|          |RainerWasserfuhr|JuRi
+|          |RainerWasserfuhr|JosefBuechel
+|          |RainerWasserfuhr|HagenStanek
+|          |RainerWasserfuhr|ManuelaAmann
+|          |RainerWasserfuhr|JaRe
+|          |DanielPoodratchi|Michael B. 
+|          |RainerWasserfuhr|Alle MindEvent-Teilnehmer 
+
+"*": Von der PerSon selbst angefragt
+
+falls WebApp's mit englischer SprachWelt fertig:
+* JoiIto
+* LawrenceLessig
+* JimmyWales
+* alle UnternehmensGruender
+
+Vanity-MindId: Runde Zahlen und Schnapszahlen werden bald bei ebay versteigert.

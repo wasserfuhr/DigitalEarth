@@ -1,0 +1,9 @@
+* IsA: ProFessor
+* InterWiki: [LangReiter:Peter+Norvig] [WebSeitz:PeterNorvig] [WikiPedia:Peter_Norvig] [WikiWikiWeb:PeterNorvig]
+* JahrGang: 1956
+* DbLp: http://dblp.uni-trier.de/rec/pid/n/PeterNorvig
+* HomePage: http://norvig.com/
+* PastProjects: VerbMobil
+* UsElection08: BarackObama
+* MindSkill: ArTelligence
+* MindFaves: HawaiiShirt

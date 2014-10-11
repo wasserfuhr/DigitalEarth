@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Alexandr_Baranov]
+* BornIn: 1746
+* DiedIn: 1819

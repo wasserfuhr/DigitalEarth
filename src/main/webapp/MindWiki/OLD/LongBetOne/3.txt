@@ -1,0 +1,9 @@
+* MindLine: 2029
+* MindTags: PredictionMarket
+
+See http://www.longbets.org/1
+
+No TuringTest 2029?
+
+* predictor: MitchKapor
+* challenger: KurzWeil

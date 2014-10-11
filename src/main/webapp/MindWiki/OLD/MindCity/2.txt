@@ -1,0 +1,7 @@
+Jeder Bürger kann
+* in der ganzen Stadt sein MindPhone als Personalausweis verwenden
+* unter http://city.mindbroker.de/citizen/123 seine CitizenId verwalten
+* kann unter http://city.mindbroker.de/streets/XYstreet/123 seinen Wohnsitz veröffentlichen
+* kann unter http://city.mindbroker.de/citizen/123/tax seine Steuererklärungen veröffentlichen
+* kann unter http://city.mindbroker.de/citizen/123/pets seine Hundesteuer veröffentlichen
+* Alle Läden der MindCity und die PieschenBank akzeptieren neben EUR auch USD, JPY, CNY und KayGroschen

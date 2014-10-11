@@ -1,0 +1,35 @@
+CrowdWisdom: An welchen UnterNehmen sollte sich MindBroker beteiligen?
+Zum Beispiel durch ein *reales* Aktiendepot.
+
+Vorschlag von RainerWasserfuhr: 1000 Aktien zum WichtKurs am 20070415:0000.
+
+||Spekulativ?||Beteiligung
+|low   |EiBiEm
+|low   |BerkshireHathaway
+|medium|TeslaCar
+|medium|AdamUndEva
+|medium|ComBots
+|medium|XingLe
+|medium|DWave
+|medium|StudiVz
+|high  |MindTowerAg
+|high  |BamMatrix
+|high  |WyrdMind
+|high  |WarrenBuffett
+|high  |RealFilm
+
+Zur Absicherung von Wechselkursrisiken werden ausserdem Devisenreserven angelegt:
+||Spekulativ?||Währung
+|medium|CNY
+|medium|GBP
+|medium|JPY
+|high  |USD
+|medium|LindenDollar
+
+ShopQuest: Was wäre das spekulativste Unternehmen für eine Beteiligung? 
+
+Vorsicht: Keine Überkreuzbeteiligungen!!!
+
+UnsereSorge: Zu hohe Transaktions- und Depotgebühren.
+
+Mag KlausZumWinkel unser Depot bei der PostBank sponsorn?

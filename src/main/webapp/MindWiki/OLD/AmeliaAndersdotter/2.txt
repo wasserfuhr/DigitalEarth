@@ -1,0 +1,3 @@
+* IsA: Person
+* InterWiki: [DeWikiPedia:Amelia_Andersdotter]
+* HasTalked: ChristianHeller

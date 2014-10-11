@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Howard_Carpendale]
+* BornIn: 1946
+* BirthDay: 01-14
+* MindSkill: MindMusic

@@ -1,0 +1,4 @@
+MindBroker will try to build the first true OpenSource-, GnuFdl-OpenContent social geo-OperatingSystem of PlanetEarth.
+
+We will start with MindPlace's and BoundingBoxCaptain's.
+WorldChess will help to populate the MindWiki with CitiZens and MindPlace's.

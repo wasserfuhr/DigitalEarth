@@ -1,0 +1,23 @@
+MindVote for the CabiNet of NooPolis:
+
+!End of Vote: 2008-05-24:2400 GMT (05-25:0200 MESZ, 05-24:2100 PDT)
+
+According to the ConStitution, members
+
+All CitiZens have up to 5 votes. The 3 candidates with the most votes are elected:
+
+||Candidate       ||receives MindVote from
+|BastiHirsch      |RainerWasserfuhr
+|ChristineSchlinck|RainerWasserfuhr
+|HeikeRibke       |RainerWasserfuhr
+|FrankLorenz      |RainerWasserfuhr
+|JanBoehme        |RainerWasserfuhr
+
+!Candidate statements
+* HeikeRibke: ...
+* ChristineSchlinck: ...
+* BastiHirsch: ...
+* ...
+
+The following CitiZens are not willing to accept a role in the CabiNet:
+* RainerWasserfuhr - favours Gewaltenteilung and wants to concentrate on his role as VorStand of MindBroker.

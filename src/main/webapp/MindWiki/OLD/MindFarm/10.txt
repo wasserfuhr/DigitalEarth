@@ -1,0 +1,44 @@
+The MindFarm is a small WikiBased BrowserGame for the VirtualEconomy to NooPolis.
+
+Here is how it works:
+
+you can buy land in the MindShop.
+
+Rules
+* All CitiZens of NooPolis can play MindFarm.
+* TaskForce
+* members of the have to at least one move 
+
+
+
+Allowed moves:
+* Buy land in the MindShop
+* edit the Rules
+* currencies:
+** EnErgie - under the condition that it happens TransParent'ly
+** KayGroschen - constant
+** you can trade 
+
+DomainModel: 
+* Object
+* Quantity
+
+UseCase:
+* CitiZen buys apple
+* CitiZen buys area
+* CitiZen eats apple: apple--; AppleSeed+=4;
+
+Next things to come:
+* Body
+* ApplePie
+* Electricity
+* Mobility
+* NewHolland harvester
+* Water
+* Silicon
+* CoCrPt
+* OpenStreetMap
+* SpatialModel
+* NoOs
+
+FarmClj is a ProtoType of a game. BrainStorm: FarmVille FarmTown RealEstate WeizenMehl FoodShelterAndWeb

@@ -1,0 +1,3 @@
+* EtymoLogia: SemanticWeb DogFood
+* HomePage: http://data.semanticweb.org/
+* MindOne: KnudMoeller

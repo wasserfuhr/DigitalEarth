@@ -1,0 +1,6 @@
+* IsA: PerSon
+* BornIn: 1960
+* BirthDay: 04-03
+* MindBlog: http://holger-john.blogspot.com/
+* HasTalked: JoergImmendorff RainerWasserfuhr
+|[FaceBook:100000234540240]

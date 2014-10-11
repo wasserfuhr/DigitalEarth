@@ -1,0 +1,3 @@
+* IsA: PerSon
+* BornIn: 1824
+* ChildOf: ChristianWasserfuhr

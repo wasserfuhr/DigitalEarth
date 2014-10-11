@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* HomePage: http://www.vmsweb.net/
+* MindFaves: DatenSchimmel

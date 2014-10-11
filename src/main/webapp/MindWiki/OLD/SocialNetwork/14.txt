@@ -1,0 +1,13 @@
+||Name           ||Nutzer||Werbung||Userfoto||API   ||Newsfeed||StickyNess||ProfileVisits||WebOfTrust||https
+|MySpace         |   180m|x       |x        |+      |        +|        +++|             ?|          -|     ?
+|FaceBook        |    35m|x       |x        |+++    |      +++|        +++|             -|          -|     -
+|LinkedIn        |    13m|x       |-        |+      |        -|          -|             -|          -|     x
+|XingLe          |     2m|-       |x        |not yet|        -|          +|             +|          -|     x
+|TribeNetworks   |  >500k|x       |x        |?      |        ?|          ?|             ?|          -|     ?
+|AhSmallWorld    |   230k|x       |?        |?      |        ?|          ?|             ?|          x|     ?
+|PeopleAggregator|   6726|x       |x        |-      |        -|          +|             -|          -|     ?
+|NooPolis        |     10|-       |-        |x      |        -|          ?|             -|          x|not yet
+
+MetaMatrix.
+
+OpenStats.

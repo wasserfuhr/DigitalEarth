@@ -1,0 +1,44 @@
+* IsA: MindAward
+* InterWiki: [DeWikiPedia:Schock-Preis]
+
+RedBlueGame:
+
+MatheMatik
+* 1993 EliasStein
+* 1995 AndrewWiles
+* 1997 MikioSato
+* 1999 YuriManin
+* 2001 ElliottHLieb
+* 2003 RichardPStanley
+* 2005 LuisCaffarelli
+* 2008 EndreSzemeredi
+
+PhiloSophie
+* 1993 WillardVanOrmanQuine
+* 1995 MichaelDummett
+* 1997 DanaScott
+* 1999 JohnRawls
+* 2001 SaulAaronKripke
+* 2003 SolomonFeferman
+* 2005 JaakkoHintikka
+* 2008 ThomasNagel
+
+BildendKunst
+* 1993 RafaelMoneo
+* 1995 ClaesOldenburg
+* 1997 TorstenAndersson
+* 1999 JacquesHerzog PierreDeMeuron
+* 2001 GiuseppePenone
+* 2003 SnRothenberg
+* 2005 KazuyoSejima RyueNishizawa
+* 2008 MonaHatoum
+
+MindMusic
+* 1993 IngvarLidholm
+* 1995 GyorgyLigeti
+* 1997 JormaPanula
+* 1999 KronosQuartet
+* 2001 KaijaSaariaho
+* 2003 AnneSofieVonOtter
+* 2005 MauricioKagel
+* 2008 GidonKremer

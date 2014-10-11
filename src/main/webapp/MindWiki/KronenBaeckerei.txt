@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* HomePage: http://www.kronenbaeckerei.de/
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.092712&lon=13.71472&zoom=18 ToDo

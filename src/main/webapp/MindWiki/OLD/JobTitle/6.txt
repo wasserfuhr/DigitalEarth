@@ -1,0 +1,22 @@
+MindBroker könnte verrückte JobTitle haben:
+
+||TLA||Name||MindBroker||aka
+|CEO|ChiefExecutiveOfficer|RainerWasserfuhr|BenevolentDictator
+|C2O|ChiefSecondLifeOfficer|OliverGassner|
+|CTO|ChiefTechnologyOfficer|ToBeDiscussed|
+|CQO|ChiefQuantumOfficer|ToBeDiscussed|
+|CMO|ChiefMontagsOfficer|ToBeDiscussed|
+|CFO|ChiefFictionOfficer|ToBeDiscussed|
+|CSO|ChiefSinnOfficer|ToBeDiscussed|
+|CSO|ChiefSingularityOfficer|ToBeDiscussed|
+|CSO|ChiefSalsaOfficer|ToBeDiscussed|
+|CAO|ChiefAcronymOfficer|ToBeDiscussed|
+|C?O|UnternehmensPfarrer|ToBeDiscussed|
+|C?O|UnternehmensPhilosoph|ToBeDiscussed|
+|C?O|UnternehmensPolitiker|ToBeDiscussed|
+|C?O|UnternehmensProfessor|ToBeDiscussed|
+|C?O|UnternehmensTherapeut|ToBeDiscussed|
+|C1O|ChiefEinRadOfficer|ToBeDiscussed|
+|??|SchnellBoot|ToBeDiscussed|
+|??|MerkantilMuse|ToBeDiscussed|
+|??|ReineMachFee|ToBeDiscussed|

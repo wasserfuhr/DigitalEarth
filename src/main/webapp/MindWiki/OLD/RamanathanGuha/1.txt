@@ -1,0 +1,7 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/g/RamanathanVGuha
+* HomePage: http://www.guha.com/
+* PageNumber: 4
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy RamanathanV.Guha
+
+StanfordEdu GoogleInc

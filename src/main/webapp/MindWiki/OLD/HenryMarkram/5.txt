@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [LangReiter:Henry+Markram] [WikiPedia:Henry_Markram]
+* MindQuote: "In ten years, this computer will be [talking to us|http://www.seedmagazine.com/news/2008/03/out_of_the_blue.php]."
+* DbLp: http://dblp.uni-trier.de/rec/pid/51/644
+* HomePage: http://people.epfl.ch/henry.markram
+* CurrentProjects: BlueBrain
+* MindSkill: MiNd, ArTelligence

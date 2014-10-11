@@ -1,0 +1,10 @@
+* MindTags: EnterPrise,SocialNetwork
+* InterWiki: [DeWikiPedia:Xing_(Online-Community)], [FloWiki:Xing]
+* IsIn: DE000XNG8888
+* MindOne: LarsHinrichs
+* UstId: DE 230144235
+* HomePage: http://www.xing.com
+
+Ein SocialNetwork ohne OpenId, WebOfTrust oder BuergerBeteiligung, aus dem irgendwie trotz OpenSocial ein wenig die ShareHolder-Fantasie entschwunden ist.
+
+Deshalb: NewXing?

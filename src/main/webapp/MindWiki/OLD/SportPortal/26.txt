@@ -1,0 +1,23 @@
+Während andere noch an teure, starre Portale glauben, wäre mal ein semantisches SportWiki cool.
+
+Tabelle:
+||Url                          ||Status ||UserOwned||WikiBased||OpenSource||OpenStats||Finanzierung   ||Umsatz
+|http://sport.mindbroker.de/   |Prototyp|ja        |ja       |ja         |ja         |50k KayGroschen |100 EUR
+|http://sportme.de/            |LIVE|nein      |nein     |nein       |nein       |ja              |0
+|http://netzathleten.de/       |LIVE|nein      |nein     |nein       |nein       |???             |0
+|http://www.championsworld.de/ |LIVE|nein      |nein     |nein       |nein       |2m EUR          |0
+|http://www.spielerkabine.net/ |LIVE|nein      |nein     |nein       |nein       |???             |0
+|http://www.vereinsheim.de/    |LIVE|nein      |nein     |nein       |nein       |???             |0
+|http://meinverein24.de/       |LIVE|nein      |nein     |nein       |nein       |???             |0
+|http://www.hartplatzhelden.de/|LIVE|nein      |nein     |nein       |nein       |???             |0
+|http://www.die-fans.de/
+|http://www.sport-id.de/
+|http://www.sportleronline.de/
+|http://www.sportsvite.com/
+|http://www.fanground.de
+|http://www.zesara.de/
+
+Potentielle Kooperationspartner:
+* http://gaysquash.de/
+* http://www.tanzportal-thueringen.de/
+* Unisport

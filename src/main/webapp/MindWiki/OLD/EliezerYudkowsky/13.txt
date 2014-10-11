@@ -1,0 +1,12 @@
+* MindTags: SingularityMind
+* InterWiki: [WikiPedia:Eliezer_Yudkowsky]
+* JahrGang: 1979
+* BirthDay: 09-11
+* HomePage: http://yudkowsky.net/
+* MindQuote: "Our sole responsibility is to produce something smarter than we are; any ProBlem's beyond that are not ours [to solve|http://sysopmind.com/singularity.html]".
+* ShockLevel: 4
+* MindFaves: StMichael
+* MindSkill: AiRisk, MindBias
+
+HotTopics RainerWasserfuhr would talk about with EliezerYudkowsky during a MetaBeer or MindLatte:
+* OpenCog, MindWiki, AiStartUp, DigitalTwin, RussianRoulette, SingularFernUni, LongBetOne, TineTest, RainerTest, TheExperiment, FutureMap, UnTil2019, WeltSprache

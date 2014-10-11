@@ -1,0 +1,44 @@
+Jeder GlaeserneRaucher in NooPolis zahlt am Ende eines Jahres für jede gerauchte GauLoises oder sonstige Zigaretten einen KayGroschen in die KrankenKasse ein:
+
+||wann   ||#||wer
+|20081016| 9|RainerWasserfuhr
+|20081015|18|RainerWasserfuhr
+|20081014|18|RainerWasserfuhr
+|20081013| 9|RainerWasserfuhr
+|20081012| 8|RainerWasserfuhr
+|20081011|10|RainerWasserfuhr
+|20081010|12|RainerWasserfuhr
+|20081009|13|RainerWasserfuhr
+|20081008|10|RainerWasserfuhr
+|20081007| 8|RainerWasserfuhr
+|20081006| 1|RainerWasserfuhr
+|20081005|MoonOne|RainerWasserfuhr
+|20081004| 0|RainerWasserfuhr
+|ImmerWieder| 0|RainerWasserfuhr
+|...| 0|RainerWasserfuhr
+|20080608| 0|RainerWasserfuhr
+|20080607| 0|RainerWasserfuhr
+|20080606| 0|RainerWasserfuhr
+|20080605| 0|RainerWasserfuhr
+|20080604| 0|RainerWasserfuhr
+|20080603| 0|RainerWasserfuhr
+|20080602| 0|RainerWasserfuhr
+|20080601| 0|RainerWasserfuhr
+|20080531| 0|RainerWasserfuhr
+|20080530| 0|RainerWasserfuhr
+|20080529| 0|RainerWasserfuhr
+|20080528| 0|RainerWasserfuhr
+|20080527| 0|RainerWasserfuhr
+|20080526| 0|RainerWasserfuhr
+|20080525| 0|RainerWasserfuhr
+|20080524| 0|RainerWasserfuhr
+|20080523| 2|RainerWasserfuhr
+|20070921|12|RainerWasserfuhr
+|20070920|23|RainerWasserfuhr
+|20070919| 5|RainerWasserfuhr
+|20070918|15|RainerWasserfuhr
+|20070917| 2|RainerWasserfuhr
+|20070916| 0|RainerWasserfuhr
+|20070915| 0|RainerWasserfuhr
+|20070914| 0|RainerWasserfuhr
+|20070913| 0|RainerWasserfuhr

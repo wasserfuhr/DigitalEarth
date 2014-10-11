@@ -1,0 +1,8 @@
+* HomePage: http://www.fuerstentum-germania.org/
+
+||            ||FuerstentumGermania||NooPolis
+|             |DankMark          |KayGroschen
+|BankGeheimnis|ja                |nein
+|FoundedBy    |MichaelVonPallandt|RainerWasserfuhr
+|SprachWelt   |LangDe            |WeltSprache'n
+|             |VolksRat          |KabiNett

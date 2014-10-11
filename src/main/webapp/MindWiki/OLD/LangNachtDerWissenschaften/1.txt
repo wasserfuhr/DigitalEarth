@@ -1,0 +1,2 @@
+* IsA: EventSeries
+* HomePage: http://www.dresden-wissenschaft.de/index.php?id=langenacht

@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki [DeWikiPedia:Heinrich_Wolfgang_von_Weizsäcker]
+* HomePage: http://www.mathematik.uni-kl.de/~wwwstoch/HvW/
+* PapaZwoNull: CarlFriedrichVonWeizsaecker

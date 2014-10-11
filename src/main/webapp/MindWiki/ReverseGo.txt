@@ -1,0 +1,2 @@
+ein Go-Spiel, bei dem das Brett zu Beginn mit EmUndEms gefüllt wird 
+und mit jedem Zug eines gegessen werden darf.

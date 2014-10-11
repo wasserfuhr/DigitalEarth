@@ -1,0 +1,11 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.053021
+* LaengenGrad: 13.808424
+* BoundingBox: 20
+* http://www.villa-marie.de/
+
+TotalRecall von ChristineSchlinck und RainerWasserfuhr: UpLoad, WindelWelt, BlueBrain, 
+HalleBerry, HenryMarkram, EigenMuster, ReDo, DoIt, KabiNett, WaldRohrBach, BlueMind, SuperComp,
+JoeTsien, NielsBirbaumer, SpracheDesGehirns, BrainComputerInterface, CxCr4, JustinRattner,
+DanielCraig, WikiPedia, SocialBackup, MindZip, PageIndex, PannaCotta, UllersDorf,
+FilmnaechteAlbertbruecke.

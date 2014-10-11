@@ -1,0 +1,10 @@
+* InterWiki: [DeWikiPedia:Einschreiben_(Post)]
+
+Für die InBox: Nachrichten, deren EmPfang der Empfänger bestätigen muss.
+
+Auf jeder WikiHomePage sollten BuergerInnen die Art der Zulieferung angeben.
+Zulässig: 
+* InBox
+* MindChat
+* TwittEr
+* BriefKasten

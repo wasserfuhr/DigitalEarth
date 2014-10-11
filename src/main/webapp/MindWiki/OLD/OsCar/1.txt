@@ -1,0 +1,3 @@
+Ein OpenSource-MindCar:
+
+http://www.theoscarproject.org/

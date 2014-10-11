@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Programmkino_Ost]
+* BreitenGrad: 51.0394
+* LaengenGrad: 13.80668
+* BoundingBox: 40
+* HomePage: http://www.programmkino-ost.de/

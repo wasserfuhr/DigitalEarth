@@ -1,0 +1,4 @@
+* IsA: EnterPrise
+* InterWiki: [DeWikiPedia:Globalfoundries]
+* HomePage: http://www.globalfoundries.com/
+* MindOne: DougGrose

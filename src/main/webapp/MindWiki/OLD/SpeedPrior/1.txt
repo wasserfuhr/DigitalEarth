@@ -1,0 +1,22 @@
+* InterWiki: [WikiPedia:Speed_prior]
+
+For NewMind: randomly generated rules about StateMent's.
+Validity of rules is tested by computing limited number of steps,
+validated against: A HappiNess function?
+
+NewMind has a temporal memory which is constructed in
+analogy to the 43-folders-MetaPhor:
+Future actions are organized on a hierarchical temporal horizon.
+Predictions are computed against this horizon.
+
+Future actions include state transitions of the WorldModel.
+
+Simplest usecase: sun light on and off every day.
+
+Parallal to this ZeitStrahl there is the semantic level,
+constructed from atoms out of the SinnChemie-Baukasten:
+Like a TuringMachine, walking on the PageIndex.
+
+So basically the SpeedPrior-programs are hypertexts.
+External perception can be simulated by copying texts from
+a [AgiriWiki:Sensory_Stimulus].

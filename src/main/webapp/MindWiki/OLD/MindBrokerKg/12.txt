@@ -1,0 +1,23 @@
+* MindTags: EnterPrise
+* UnternehmensGruender: RainerWasserfuhr, YvonneSchubert.
+* JahrGang: 1999
+* LebensEnde: 2008
+* RechtsForm: KommanditGesellschaft
+* HeadQuarters: WirkZentrum
+* VertretungsBerechtigt: RainerWasserfuhr
+* HandelsRegister: StadtDresden, HRA 3908
+* UstId: DE209784000
+
+Projekte:
+||Status||Name
+|DONE|PolitikBoerse
+|DONE|ForStudents
+|LIVE|IntraBroker
+|LIVE|SiemensDematic
+|LIVE|AdiDas: POD
+|LIVE|MuevaPlan
+|DONE|TeHome
+|LIVE|DeutschePost: AZLN
+|DONE|KuehneNagel
+|DONE|Consulting for ComBots
+|DONE|DeutschePost: PEP

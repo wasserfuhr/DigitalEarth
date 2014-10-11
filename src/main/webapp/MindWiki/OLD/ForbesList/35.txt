@@ -1,0 +1,73 @@
+* MindTags: ReView
+* InterWiki: [DeWikiPedia:The_World’s_Billionaires_(Forbes_Magazine)]:
+
+||PerSon           ||UsDollar||2008[1]||2008[2]
+|BillGates         |40.0| 3|58.0
+|WarrenBuffett     |37.0| 1|62.0
+|CarlosSlimHelu    |35.0| 2|60.0
+|LarryEllison      |22.5|14|25.0
+|IngvarKamprad     |22.0| 7|31.0
+|KarlAlbrecht      |21.5|10|27.0
+|MukeshAmbani      |19.5| 5|43.0
+|LakshmiMittal     |19.3| 4|45.0
+|TheoAlbrecht      |19.8|16|23.0
+|AmancioOrtega     |18.3|22|20.2
+|JimWalton         |17.8|  |
+|AliceWalton       |17.6|  |
+|ChristyWalton     |17.6|  |
+|RobsonWalton      |17.6|  |
+|BernardArnault    |16.5|13|25.5
+|LiKaShing         |16.2|11|26.5
+|MichaelBloomberg  |16.0|  |
+|StefanPersson     |14.5|  |
+|CharlesKoch       |14.5|  |
+|DavidKoch         |14.0|  |
+|LilianeBettencourt|13.4|17|22.9
+|AlWaleed          |13.3|19|
+|MichaelOtto 	   |13.2|   |
+|DavidThomson 	   |13.0|   |
+|MichaelDell       |12.3|   |
+|SergeyBrin        |12.0| 32|18.7
+|LarryPage         |12.0| 33|18.6
+|AnilAmbani        |10.1|  6|42.5
+|SusanneKlatten    |10.0| 55|13.1
+|JimSimons         | 8.0|178| 5.5
+|RomanAbramovich   | 8.5| 15|23.5
+|KpSingh           | 5.0|  8|30.0
+|OlegDeripaska     | 3.5|  9|28.0
+|SheldonAdelson    | 3.4| 12|26.0
+[#1] ranking in 2008
+[#2] fortune in 2008 in 1.000.000.000 UsDollar
+
+Additional candidates for the ForbesList UnTil2019 (ordered by ExPect'ed position):
+* DavidThomson
+* DeeHock
+* JimSimons
+* PaulAllen
+* MarkZuckerberg
+* DieterSchwarz
+* PeterThiel
+* MasayoshiSon
+* JeffBezos
+* HassoPlattner
+* PierreOmidyar
+* ErivanHaub
+* HubertBurda
+* JohnPaulson
+* HaimSaban
+* RobertHersov
+* MartinVarsavsky
+* SteveJurvetson
+* RalphDommermuth
+* ElonMusk
+* MichaelGreve
+* NovaSpivack
+* RobertRubin
+* JeffClavier
+* LarsHinrichs
+* LukaszGadowski
+
+CrowdWisdom?
+
+RIP:
+* AdolfMerckle

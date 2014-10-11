@@ -1,0 +1,4 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/92/3710
+* PageNumber: 13
+* PagePath: LarryPage ... GuySteele JamesGosling

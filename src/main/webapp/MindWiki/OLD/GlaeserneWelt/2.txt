@@ -1,0 +1,10 @@
+* MindTags: FutureCard
+* UnTil: 2030
+
+Ist schlichtweg der GrenzWert von MooresLaw, DataExplosion und IntelligenceExplosion.
+
+* GlaesernMensch
+** GlaesernPatient
+* GlaesernesUnternehmen
+** GlaeserneBank
+* TransparentSociety

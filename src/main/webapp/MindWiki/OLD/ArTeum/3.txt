@@ -1,0 +1,9 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.068875
+* LaengenGrad: 13.778271
+* BoundingBox: 30
+* HomePage: http://www.arteum-dresden.de/
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.068756&lon=13.777359&zoom=18&layers=B000FTF ToDo
+
+TotalRecall
+* 20090115: GoogleDocs, BarackObama, PuppQueue, WorldCrash, OpenSource, WikiPedia, GlaesernesUnternehmen, ErlemannTurm, NewHollandCr9090, GoogleSearch, AlfaGruss

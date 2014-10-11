@@ -1,0 +1,7 @@
+Which BigCo's are most infected and undercut with SingularityMind's?
+||BigCo    ||SingularityMind||Role
+|IntEl     |JustinRattner|CTO
+|FaceBook  |PeterThiel   |InVest'or, Board of Directors
+|GoogleInc |PeterNorvig  |Director of ReSearch
+|MicroSoft |BarneyPell   |search strategist, evangelist
+|DraperFisherJurvetson|SteveJurvetson|Managing Director

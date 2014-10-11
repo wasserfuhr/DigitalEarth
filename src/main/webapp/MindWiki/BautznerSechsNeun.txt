@@ -1,0 +1,5 @@
+* IsA: MindPlace
+* HomePage: http://www.bautzner69.de/
+* PartOf: BautznerStrasse
+
+KarenWeinert UwePatzer

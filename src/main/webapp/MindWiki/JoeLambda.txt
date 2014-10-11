@@ -1,0 +1,4 @@
+* IsA: PerSona
+* FoafKnows: TimBl
+* FoAf: http://dig.csail.mit.edu/2007/wiki/people/JoeLambda#JL
+|[TwittEr:JoeLambda]

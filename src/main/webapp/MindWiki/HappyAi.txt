@@ -1,0 +1,3 @@
+nicht freundlich soll sie sein, sondern happy!
+
+NewMind erhält eine HappiNess-Zielfunktion. Die kann die HappiNess von BuergerInnen als Eingangsparameter umfassen.

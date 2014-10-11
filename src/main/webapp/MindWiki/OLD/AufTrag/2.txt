@@ -1,0 +1,6 @@
+||an||AufTrag
+|DanielPoodratchi|dokumentiere backup im wiki 
+|YvonneSchubert|koordiniere DoIt
+|DanielPoodratchi|installiere gprs
+|DanielPoodratchi|diskutiere UnsereProjekte mit AndreasWeigel
+|DanielPoodratchi|wende QuellPrinzip für alle gimpDateien an

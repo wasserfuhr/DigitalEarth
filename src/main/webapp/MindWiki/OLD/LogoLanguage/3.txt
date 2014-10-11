@@ -1,0 +1,58 @@
+* InterWiki: [WikiWikiWeb:LogoLanguage]
+
+SeymourPapert
+
+{{{
+
+reset
+setx 550000
+sety 150
+color [2550 0 0]
+forward 107
+right 90
+fw 200
+pendown
+left 45
+repeat 9 [
+ fw 9
+ right 15
+]
+fw 90
+left 270
+fw 260
+
+setx 548888
+sety 230
+repeat 18 [
+forward 15
+left 55]
+
+setx 548888
+sety 280
+repeat 18 [
+forward 15
+left 55 ]
+
+setx 548888
+sety 300
+repeat 18 [
+forward 15
+left 55 ]
+
+setx 548888
+sety 330
+repeat 18 [
+forward 15
+left 45 ]
+
+setx 548888
+sety 390
+repeat 18 [
+forward 15
+left 55 ]
+
+left 90
+forward 100
+setx 5488550
+
+}}}

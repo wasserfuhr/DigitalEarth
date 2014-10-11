@@ -1,0 +1,11 @@
+WasSchaetztDu:
+* JahrGang? 1975
+* LebensErwartung? 2055
+* GeSchlecht: 95% ♂ 
+* InterNet-Anbindung im MindHome? 3 EmBit
+* MindOs? WinDoofs
+* VerMoegen? 50k
+* ProFessor: 4%
+* SocialNetwork's: 5
+* DunbarNumber: 200
+* ShockLevel: 1.5

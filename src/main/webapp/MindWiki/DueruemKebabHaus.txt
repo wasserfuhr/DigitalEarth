@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.066
+* LaengenGrad: 13.7536
+* BoundingBox: 20
+* HomePage: http://www.durum-kebab-haus.de/

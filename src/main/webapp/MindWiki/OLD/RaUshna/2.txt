@@ -1,0 +1,5 @@
+gesprochen Ara-uchschna, ‏‏روشنک‎‎ Roschanak
+
+IsA: Persona
+
+SpouseOf: AlexanderGreat

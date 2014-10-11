@@ -1,0 +1,9 @@
+A four dimensional Game of Go: x,y,z,t.
+
+Alpha: http://go.mindbroker.de
+
+The Rules of the Game are defined by the SourceCode of GoMind.
+
+Hints:
+* the dimensions x,y and z are measured in meter, dimension t is measured in seconds.
+* Players should be mavens concerning Turing machines, Goedel-Numberings, Go and Nomic.

@@ -1,0 +1,36 @@
+Some MindPeople have an almost perfect DelIcioUs-TagCloud. Only sometimes they contain typos or
+redundancies:
+
+* [http://del.icio.us/andreas.s/g%C3%B6del]
+* http://del.icio.us/andreas.s/goedel
+* http://del.icio.us/andreas.s/cateory
+* http://del.icio.us/andreas.s/machine
+* [http://del.icio.us/andreas.s/osnabrück]
+* http://del.icio.us/andreas.s/osnabrueck
+* http://del.icio.us/andreas.s/quote
+* http://del.icio.us/andreas.s/quotes
+* http://del.icio.us/andreas.s/tutorial
+* http://del.icio.us/andreas.s/tutorials
+
+* http://del.icio.us/OliverG/%22anderas%2Bdittes%22
+
+* http://del.icio.us/siggiB/a
+* http://del.icio.us/siggiB/attenioneconomy
+* http://del.icio.us/siggiB/b
+* http://del.icio.us/siggiB/up
+* http://del.icio.us/siggiB/AubreyDeGrey
+* http://del.icio.us/siggiB/degrey
+* http://del.icio.us/siggiB/Circovic
+* [http://del.icio.us/siggiB/Ćirković]
+* http://del.icio.us/siggiB/Dommsdayargument
+* http://del.icio.us/siggiB/ebook
+* http://del.icio.us/siggiB/ebooks
+* http://del.icio.us/siggiB/Ideologie
+* http://del.icio.us/siggiB/ideology
+* http://del.icio.us/siggiB/lucid-dreaming
+* http://del.icio.us/siggiB/lucid_dreaming
+* http://del.icio.us/siggiB/Matrioshka_Brains
+* http://del.icio.us/siggiB/matrioshkabrain
+* http://del.icio.us/siggiB/nooshpere
+* http://del.icio.us/siggiB/postsingular
+* http://del.icio.us/siggiB/postsingularity

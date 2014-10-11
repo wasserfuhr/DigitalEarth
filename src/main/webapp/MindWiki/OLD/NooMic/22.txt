@@ -1,0 +1,12 @@
+; do some basic forms:
+
+(last
+ '(
+   (defn addd [x] (str "value:" x "<br/>") )
+   (str "<form><textarea name='text'></textarea><input type='submit' value='NooMic'></form>"
+        (if (.getParameter request "text") (.getParameter request "text") "noparam") 
+        "<br/>" 
+        (.totalMemory (Runtime/getRuntime)) 
+        (addd "4222") )
+  )
+)

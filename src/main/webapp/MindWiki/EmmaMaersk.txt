@@ -1,0 +1,5 @@
+* MindTags: MindShip
+* InterWiki: [WikiPedia:Emma_Mærsk]
+* CallSign: OYGR2
+* BoundingBox: 397
+* MmSi: 220417000

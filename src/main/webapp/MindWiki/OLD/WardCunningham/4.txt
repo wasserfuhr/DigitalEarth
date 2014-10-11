@@ -1,0 +1,8 @@
+* IsA: WikiMind
+* InterWiki: [DeWikiPedia:Ward_Cunningham] [LangReiter:Ward+Cunningham] [WebSeitz:WardCunningham]
+* JahrGang: 1941
+* BirthDay: 05-26
+* PageNumber: 14
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi MichaelStonebraker JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy GregorEngels ErnstErichDoberkat HeinzZuellighoven DirkRiehle WardCunningham
+||AusLand
+|[TwittEr:WardCunningham]

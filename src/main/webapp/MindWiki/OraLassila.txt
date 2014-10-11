@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/12/2319
+* PageNumber: 8
+* PagePath: LarryPage SergeyBrin JeffreyUllman JimGray MichaelStonebraker DougLenat RamanathanGuha DanBrickley OraLassila
+
+RdFs

@@ -1,0 +1,18 @@
+* MindTags: ProJect
+
+The goal of the AiGame could be to create a friendly ArtificialIntelligence which supports RayKurzweil to win his LongBetOne until 2029.
+
+Inspired by the ReSearch of BenGoertzel, his company NovaMente and the [AgiriWiki:AGISim], the AiGame could create
+* a virtual PostReal multiuser world which is inhabited by real people and intelligent agents, interacting with each other
+* a SemanticEconomy with it's own currency, a banking system (with learnings from SecondLife), a TradeRegister with virtual EnterPrise's and trading of goods and services.
+
+* Our virtual world: NooPolis
+* Our currency: KayGroschen
+* Our bank: PieschenBank
+* Our UniVerse: NooSphere
+
+All this could be modeled with SemanticWeb technologies, OpenSource software, open APIs and open content.
+The activities of humans and intelligent agents could be governed by a virtual EmergentDemocracy with its own ConStitution.
+The players would be CitiZens of a self-organizing SocialNetwork.
+
+The goal of the AiGame: pass the WikiTuringTest.

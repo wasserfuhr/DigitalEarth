@@ -1,0 +1,5 @@
+Wer WerdeMindBroker als Nächstes?
+
+||MindBroker     ||NextId
+|RainerWasserfuhr|JanaDiesner
+|RainerWasserfuhr|SoerenStamer

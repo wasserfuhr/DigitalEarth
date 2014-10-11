@@ -1,0 +1,4 @@
+currently nominated:
+* BayAreaChess
+* DresdenChess
+* ManHattanChess

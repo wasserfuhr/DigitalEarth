@@ -1,0 +1,5 @@
+* IsA: MindCity
+* InterWiki: [DeWikiPedia:Pjöngjang] [OpenCyc:CityOfPyongyangNorthKorea]
+* MindCount: 3800000
+* BoundingBox: 50000
+* TwinTown: KathMandu

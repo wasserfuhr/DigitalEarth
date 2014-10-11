@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Gregory_Bateson]
+* BornIn: 1904
+* BirthDay: 05-09
+* DiedIn: 1980
+* InFluenced: NiklasLuhmann

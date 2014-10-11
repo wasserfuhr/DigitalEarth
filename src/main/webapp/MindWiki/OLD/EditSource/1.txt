@@ -1,0 +1,3 @@
+Noch schneller als ViewSource: Der SourceCode steht selbst im Wiki.
+
+http://clojure.sourceforge.net/

@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:René_Obermann]
+* BornIn: 1963
+* BirthDay: 03-05

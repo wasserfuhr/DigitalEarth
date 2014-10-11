@@ -1,0 +1,15 @@
+* NamedAfter: PierreDeFermat
+* InterWiki: [DeWikiPedia:Fermat-Preis]
+
+RedBlueGame:
+* 2009 ElonLindenstrauss CedricVillani
+* 2007 ChandrashekharKhare
+* 2005 PierreColmez JeanFrancoisLeGall
+* 2003 LuigiAmbrosio
+* 2001 RichardTaylor WendelinWerner
+* 1999 FabriceBethuel FredericHelein
+* 1997 MichelTalagrand
+* 1995 AndrewWiles
+* 1993 JeanMichelCoron
+* 1991 JeanLouisColliotThelene
+* 1989 AbbasBahri

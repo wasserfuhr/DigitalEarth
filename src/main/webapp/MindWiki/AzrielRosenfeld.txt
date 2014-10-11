@@ -1,0 +1,9 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Azriel_Rosenfeld]
+* BornIn: 1931
+* BirthDay: 02-19
+* DiedIn: 2004
+* DbLp: http://dblp.uni-trier.de/rec/pid/r/AzrielRosenfeld
+* HomePage: http://www.cfar.umd.edu/~ar/
+* PageNumber: 7
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy ManfredNagl AzrielRosenfeld

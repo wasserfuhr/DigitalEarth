@@ -1,0 +1,4 @@
+RainerWasserfuhr 1995: DA.tex: 
+
+\title{Spezifikationstechniken eingebetteter Systeme-\\
+"Ubersicht und Verifikationsprobleme}

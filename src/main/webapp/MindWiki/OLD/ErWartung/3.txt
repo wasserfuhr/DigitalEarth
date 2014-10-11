@@ -1,0 +1,7 @@
+redet nicht immer so lange rum.
+
+Je unsicherer etwas ist, desto wichtiger ist es, sich klar zu machen wie man das Unsichere einschätzt.
+
+Eine ErWartung hat daher:
+# wahrscheinlichster Wert
+# Unsicherheit oder [DeWikiPedia:Varianz] (in Prozent)

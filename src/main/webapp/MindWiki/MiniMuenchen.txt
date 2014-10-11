@@ -1,0 +1,17 @@
+* HomePage: http://www.mini-muenchen.info/
+
+||ComPare   ||MiniMuenchen  ||NooPolis
+|Currency   |MiMue          |KayGroschen
+|VerFassung |Spielregeln    |ConStitution
+|MindPlace  |StadtMuenchen  |LockSchuppen+PlanetErde
+|JahrGang   |7-15           |0-1024
+|WikiBasiert|-              |MindWiki
+|           |LohnZettel     |TimeSheet
+|           |StadtSteuer    |TobinTax? 
+|           |MitspielAusweis|MindId
+|           |HochSchule     |SingularFernUni
+|           |StadtRat       |CabiNet
+|           |BuergerMeister |MinisTer  
+|           |GewerbeAmt     |HandelsRegister
+|           |StadtGericht   |MindCourt
+|Sprache    |LandDe         |LangDe, LangEn

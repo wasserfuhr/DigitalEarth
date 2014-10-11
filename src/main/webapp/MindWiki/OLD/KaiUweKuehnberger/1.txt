@@ -1,0 +1,10 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/78/701
+* HomePage: http://www.cogsci.uni-osnabrueck.de/~kkuehnbe/
+* PageNumber: 9
+
+PagePath:
+# LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann WolfgangWahlster
+# CarolaReddigSiekmann [http://dblp.uni-trier.de/db/indices/a-tree/r/Reddig=Siekmann:Carola.html]
+# HelmarGust [http://dblp.uni-trier.de/db/indices/a-tree/g/Gust:Helmar.html]
+# KaiUweKuehnberger

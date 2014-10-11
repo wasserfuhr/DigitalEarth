@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Dirk_Baecker]
+* BornIn: 1955
+* BirthDay: 08-11
+* HomePage: http://homepage.mac.com/baecker/
+* HasTalked: NiklasLuhmann
+* MindSkill: SystemsTheory

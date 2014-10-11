@@ -1,0 +1,4 @@
+* IsA: ProJect
+* DcTitle: ISTFORCE
+* DeScription: Intelligent Services and Tools for ConcurrentEngineering
+* CordIs: http://cordis.rkbexplorer.com/description/project-5051368

@@ -1,0 +1,7 @@
+* IsA: ProFessor SingularityMind
+* InterWiki: [LangReiter:Marcus+Hutter] [WikiPedia:Marcus_Hutter]
+* JahrGang: 1967
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/MarcusHutter
+* HomePage: http://www.hutter1.net/
+* PageNumber: 17
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach JuergenAvenhaus KlausMadlener FriedrichOtto NorbertKuhn JoergMueller NickJennings AdrianPetcu BoiFaltings AkshatKumar ShaneLegg MarcusHutter

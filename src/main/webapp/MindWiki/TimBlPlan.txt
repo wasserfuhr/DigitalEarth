@@ -1,0 +1,3 @@
+* IsA: MindPlan
+* NamedAfter: TimBl
+* TheGoal: TimBl ObTain's a MindId

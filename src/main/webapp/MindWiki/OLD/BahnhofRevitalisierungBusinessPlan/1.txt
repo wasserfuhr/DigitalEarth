@@ -1,0 +1,19 @@
+__Bezeichnung der Idee__:
+BahnhofRevitalisierung
+
+__Beschreibung der Idee__:
+Hunderte von kleinen Bahnhöfen der Deutschen Bahn liegen stillgelegt an Nebenbahnstrecken. Momentan sind diese größtenteils ungenutzt und fallen dem Verfall anheim. Diese können durch kreative Entrepreneure, Gemeinden durch die Nutzung von DSL und Web-2.0 zu InnovationsInkubator'en in der Region gewandelt werden.
+
+__Zu lösende Probleme__:
+* Vermarktung von nicht mehr benötigten Immobilien der Deutschen Bahn AG
+* Vermeidung von Neubauten
+* Action Research, wie alte Industriegeäude kreativ mit Win-Win Ergebnis umgewandelt werden können
+
+__Anwendungsfelder beim Endverbraucher__:
+* Projektentwicklung von Industriedenkmälern
+* aktiver Denkmalschutz
+* Umsetzung von Lean -Prinzipien im individuellen Bauprojekt
+
+__Weitere Forschungsaktivitäten__:
+* Stadtentwicklung in Verbindung mit Immobilienabteilungen (DbServicesImmo, DbNetz) der Deutschen Bahn AG
+* Best Practice für Umnutzung von IndustrialHeritage

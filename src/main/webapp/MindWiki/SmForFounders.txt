@@ -1,0 +1,18 @@
+* IsA: MindEvent
+* HashTag: sm4f
+* MindPlace: LockOffice
+* WikiLender: 2010-03-04:1400-1800
+* XingEvent: https://www.xing.com/events/social-media-existenzgrunder-469589
+* GastGeber: RalfLippold SoerenRogoll
+* TeilNehmer: ConstanceWolter DirkHengst FrankMueller2 MatthiasWeise PatrickPietsch RainerWasserfuhr
+* LeiderVerhindert: AlexanderDomschke AlexanderDuda AlexanderFriedland AlexanderGehre AlexanderGoetze AlexanderHesse AndreaMuellerHutschenreuter AndreasPoldrack AndreasSchanzenbach AndreasWocko AnjaEigner AnkeNossmann AnneBeutel AnneRichter AntjeKirsch AntjePusch BertReichert BertramDressel BettinaBunge BiancaWerner BirgitFrech CarstenMaiwald ChristianFischer ChristianeWagner ChristineSchlinck ClaudiaDeliga ConstanzeKuring CorneliaWalter DanielEngelschalt DanielKibler DanielSenf DavidRost DeniseSowa DieterSchneider DirkHengst DirkHilbert FerdinandEichler FlorianKlare FrankToeppel GeorgFreitag GeorgWSchenk GundulaGelfert HakimRassol HansUlfLange HansUlrichReusser HendrikMDietrich HolgerHelas HolgerTeske JanBoehme JanKreuter JanaSomieski JenniferWagner JensBemme JensKorte JensKrzywinski JensOsthues JensUweSauer JensVoigt JoergKeller JohannesLohmeyer JuergenAnke JuergenKohn KaiKranich KarstenHauptmann KarstenPeters KathrinKuntzsch KatrinKahle KatyKaestner KerstinTrautmann LarsArlt LindaBastian LindaRosenow MandyHelas ManuelLenk MarcoDziallas MarcoWildner MarcoZichner MarioHeim MarioKretzschmar MarioWalther MarkoRitter MarkusBracklow MartinFiedler MatthiasJRietmann MatthiasNaumann MikeKramer NadinKarnath NicoEffenberger NicoPreissler NicoleKirchner NorbertMartsch NorbertRost OliverCroenertz PeggyJerchel PeterHerbst PeterOesterreich PeterOtto PeterStawowy PetraAlexandraBuhl RalfMueller RalphSonntag ReikoNoetzold ReneSchulte ReneWerner RobertGranich RobertLanger RominaBluethner RonaldHerzberg RonnyGloeckner RonnyLeuschner RoswithaHunold SandraLuther SandroYersin SebastianHoke SebastianSalvadorSchwerk SeonKwangHaengja SilkeGeithner SilkeLeibiger SimoneTrommer SindyHoehne StefanHeinig StefanJentzsch SteffenBecker SusanKrebs SvenAlbinus SvenDusin TheresaFoerster ThomasJung ThomasKujawa ThomasScheufler ThomasWolf ThomasZarbock ThorstenWolfer TiloBretschneider UlrichSoeder VolkerSchmidt2 WilhelmBrune YvonneSchubert
+* HotTopics: WebZwoNull DatenSchutz BarCamp
+|[EtherPad:2010-03-04-Work20]
+
+WikiTable:
+|MatthiasWeise|DirkHengst   |ConstanceWolter |SoerenRogoll
+|RalfLippold  |FrankMueller2|RainerWasserfuhr|PatrickPietsch
+
+VorWort: [EtherPad:SmForFounders]
+
+HotTopics for TheFuture: LockCoupon StartupWiki TwittEr TwitterHolic FaceBook XingLe StartUpWeekEnd BetriebsWiki BusinessPlanGenerator StealthMode ClueTrain GeheimKosten GoogleWave GoogleBuzz DelIcioUs DoMain OpenSource FbApp FbConnect GoogleAnalytics SingularFutureSax FansOfFuturesax BusinessAngel SkyPe ScreenSharing EtherPad PageRank ReleaseEarlyReleaseOften FailFast RevisionsSicher SaftTante

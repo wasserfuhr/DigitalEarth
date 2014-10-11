@@ -1,0 +1,4 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/34/5621
+* PageNumber: InFinite
+|[TwittEr:richhickey]

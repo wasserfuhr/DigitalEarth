@@ -1,0 +1,5 @@
+* MindTags: EnterPrise
+* InterWiki: [DeWikiPedia:ComBOTS]
+* HomePage: http://www.combots-ag.de/
+* IsIn: DE000CMBT111
+* MindOne: MichaelGreve

@@ -1,0 +1,2 @@
+* InterWiki: [OpenCyc:Google-SearchEngine]
+* MindQuote: "Unversioned program" - OpenCyc

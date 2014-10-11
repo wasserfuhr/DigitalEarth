@@ -1,0 +1,16 @@
+RainerWasserfuhr und viele MitWirkende wollen 2007 die MindBrokerAg gründen.
+
+Dies ist unser GruenderWiki.
+
+Aktuelle Projekte
+* UnserGrid (LIVE!)
+* GeoMindBroker (LIVE!)
+* WikiTchen
+* SportPortal
+
+WICHTIG: Die ProjektRegeln.
+
+Automatische Softwarebuilds (Continuum): [http://continuum.mindbroker.de:8080/continuum/]
+
+!Was bisher geschah:
+[{RecentChangesPlugin since=30}]

@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Adam_Smith] [OpenCyc:AdamSmith] [WebSeitz:AdamSmith]
+* BornIn: 1723
+* BirthDay: 06-16
+* DiedIn: 1790

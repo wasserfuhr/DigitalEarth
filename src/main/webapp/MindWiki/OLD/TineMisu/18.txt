@@ -1,0 +1,124 @@
+||Ort                 ||Nr  ||BreitenGrad||LaengenGrad||VorName||Bote||Status
+|PaelzerStubb         |     |51.0773 |13.7165 |Fatih   |RainerWasserfuhr
+|MmsTower             |     |51.08243|13.72594|Gökhan  |FrankLorenz?
+|SachsenBad           |     |51.0815 |13.719  |Mehmet  |RainerWasserfuhr
+|WirkZentrum          |     |51.0738 |13.7299 |Volkan  |RainerWasserfuhr|[done|https://twitter.com/rainer/statuses/847204507]
+|-
+|WernerHartmannStrasse|6    |51.08572|13.76436|Jogi    |JanBoehme|[done|https://twitter.com/janboehme/statuses/847215448]
+|FoerstereiStrasse    |6    |51.0679 |13.7500 |Kevin   |M?
+|-
+|DresdnerSchloss      |     |51.0527 |13.738  |Fernando|YvonneSchubert
+|SchwarzMarktCafe     |     |51.0604 |13.74424|Pepe    |YvonneSchubert
+|PirnaischerPlatz     |     |51.0494 |13.7447 |Raúl    |YvonneSchubert
+|BogenSchuetze        |     |51.05738|13.75179|Sergio  |RainerWasserfuhr
+|-
+|DinglingersWeinberg  |     |51.062  |13.8018 |Alexei  |RainerWasserfuhr
+|NetLinx              |     |51.05993|13.78813|Dmitri  |Annette
+|PohlandPlatz         |     |51.0429 |13.7953 |Guus    |YvonneSchubert
+|VoglerStrasse        |9    |51.04664|13.80809|Igor    |Annette
+|AugsburgerStrasse    |72   |51.04545|13.79784|Sergei  |YvonneSchubert
+|MueVa                |     |50.98798|13.803  |Wassili |Peter?
+|RobertBerndtStrasse  |1    |51.00757|13.8199 |Wladimir|YvonneSchubert
+
+MitWirkende:
+* Yvonne
+* A.S.
+* RainerWasserfuhr
+
+||Land	|| VorName	||	NachName
+|	ru 	|	Alexander	|	Anjukow
+|	ru 	|	Alexei	|	Beresuzki
+|	es	|	Álvaro	|	Arbeloa
+|	ru 	|	Andrei	|	Arschawin
+|	es	|	Andrés	|	Palop
+|	es	|	Andrés	|	Iniesta
+|	tr	|	Arda	|	Turan
+|	de	|	Arne	|	Friedrich
+|	tr	|	Ayhan	|	Akman
+|	de	|	Bastian	|	Schweinsteiger
+|	es	|	Carles	|	Puyol
+|	es	|	Carlos	|	Marchena
+|	es	|	Cesc	|	Fàbregas
+|	de	|	Christoph	|	Metzelder
+|	de	|	Clemens	|	Fritz
+|	tr	|	Colin	|	Kâzım-Richards
+|	es	|	Daniel	|	Güiza
+|	de	|	David	|	Odonkor
+|	es	|	David	|	Silva
+|	es	|	David	|	Villa
+|	ru 	|	Denis	|	Kolodin
+|	ru 	|	Dinijar	|	Biljaletdinow
+|	ru 	|	Dmitri	|	Torbinski
+|	ru 	|	Dmitri	|	Sytschow
+|	tr	|	Emre	|	Belözoğlu
+|	tr	|	Emre	|	Aşık
+|	tr	|	Emre	|	Güngör
+|	tr	|	Fatih	|	Terim
+|	es	|	Fernando	|	Navarro
+|	es	|	Fernando	|	Torres
+|	tr	|	Gökdeniz	|	Karadeniz
+|	tr	|	Gökhan	|	Zan
+|	ru	|	Guus	|	Hiddink
+|	tr	|	Hakan	|	Balta
+|	tr	|	Hamit	|	Altıntop
+|	de	|	Heiko	|	Westermann
+|	ru 	|	Igor	|	Akinfejew
+|	ru 	|	Igor	|	Semschow
+|	es	|	Iker	|	Casillas
+|	ru 	|	Iwan	|	Sajenko
+|	de	|	Jens	|	Lehmann
+|	de	|	Joachim	|	Löw
+|	es	|	Joan	|	Capdevila
+|	es	|	Juanito	|	
+|	ru 	|	Juri	|	Schirkow
+|	de	|	Kevin	|	Kurányi
+|	ru 	|	Konstantin	|	Syrjanow
+|	es	|	Luis	|	Aragonés
+|	de	|	Lukas	|	Podolski
+|	de	|	Marcell	|	Jansen
+|	es	|	Marcos	|	Senna
+|	de	|	Mario	|	Gómez
+|	tr	|	Mehmet	|	Aurélio
+|	tr	|	Mehmet	|	Topal
+|	tr	|	Mevlüt	|	Erdinç
+|	de	|	Michael	|	Ballack
+|	de	|	Miroslav	|	Klose
+|	tr	|	Nihat	|	Kahveci
+|	ru 	|	Oleg	|	Iwanow
+|	de	|	Oliver	|	Neuville
+|	es	|	Pepe	|	Reina
+|	de	|	Per	|	Mertesacker
+|	de	|	Philipp	|	Lahm
+|	de	|	Piotr	|	Trochowski
+|	es	|	Raúl	|	Albiol
+|	ru 	|	Renat	|	Janbajew
+|	de	|	René	|	Adler
+|	de	|	Robert	|	Enke
+|	ru 	|	Roman	|	Pawljutschenko
+|	ru 	|	Roman	|	Schirokow
+|	ru 	|	Roman	|	Adamow
+|	es	|	Rubén	|	de la Red
+|	tr	|	Rüştü	|	Reçber
+|	tr	|	Sabri	|	Sarıoğlu
+|	es	|	Santi	|	Cazorla
+|	tr	|	Semih	|	Şentürk
+|	ru 	|	Sergei	|	Semak
+|	ru 	|	Sergei	|	Ignaschewitsch
+|	es	|	Sergio	|	Ramos
+|	es	|	Sergio	|	García
+|	tr	|	Servet	|	Çetin
+|	de	|	Simon	|	Rolfes
+|	de	|	Thomas	|	Hitzlsperger
+|	de	|	Tim	|	Borowski
+|	tr	|	Tolga	|	Zengin
+|	de	|	Torsten	|	Frings
+|	tr	|	Tümer	|	Metin
+|	tr	|	Tuncay	|	Şanlı
+|	tr	|	Uğur	|	Boral
+|	tr	|	Volkan	|	Demirel
+|	ru 	|	Wassili	|	Beresuzki
+|	ru 	|	Wjatscheslaw	|	Malafejew
+|	ru 	|	Wladimir	|	Gabulow
+|	ru 	|	Wladimir	|	Bystrow
+|	es	|	Xabi	|	Alonso
+|	es	|	Xavi	|	

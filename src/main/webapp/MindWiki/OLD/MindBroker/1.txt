@@ -1,0 +1,33 @@
+[WikiPedia:Mind]:
+[[[az:ذهن]]
+[[[bn:মন]]
+[[[de:Geist]]
+[[[en:Mind]]
+[[[eo:Menso]]
+[[[es:Mente (psicología)]]
+[[[fi:Mieli]]
+[[[fr:Esprit]]
+[[[hr:Um]]
+[[[ia:Mente]]
+[[[it:Mente]]
+[[[ja:心]]
+[[[lt:Protas]]
+[[[nl:Geest]]
+[[[pl:Umysł]]
+[[[pt:Mente]]
+[[[ru:Разум]]
+[[[simple:Mind]]
+[[[sq:Mendja]]
+[[[th:จิตใจ]]
+[[[yi:שכל]]
+[[[zh:心靈]]
+[[[zh-min-nan:Sim]]
+
+On 20070719:0900 MEST RainerWasserfuhr and YvonneSchubert have founded VebMind.
+
+!What will happen:
+* WasWyrd
+* MindLine
+
+!What happened:
+[{RecentChangesPlugin since=5}]

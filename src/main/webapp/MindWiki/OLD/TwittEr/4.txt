@@ -1,0 +1,6 @@
+http://twitter.com/home
+
+MindPeople mit CamelCase-TwittEr-Name:
+* JeffClavier
+* LarsHinrichs
+* PickiHH (fast, siehe [SourceCode|http://websvn.mindbroker.de/showfile.svn?path=%2fde.mindbroker.core%2ftrunk%2fsrc%2fmain%2fjava%2fde%2fmindbroker%2fcor e%2fWikiNameParser.java&revision=HEAD&name=opensource] ;) )

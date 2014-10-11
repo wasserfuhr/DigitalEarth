@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* PapaZwoNull: GeorgWilhelmFriedrichHegel
+* JahrGang: 1814
+* BirthDay: 09-24
+* BirthPlace: NuernBerg
+* LebensEnde: 1891

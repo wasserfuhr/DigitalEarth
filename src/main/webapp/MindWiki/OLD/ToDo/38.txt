@@ -1,0 +1,51 @@
+RainerWasserfuhr
+* schreibe ProjektPlan
+* schreibe AlphaTester
+* schreibe BetaTester
+* schreibe ContinuousIntegration
+* code die Suchfunktion
+* refactore Messages und Contacts in Mindbroker core.
+* erweitere DB für: Userguestbooks, Blogfunktion für Clubs/Teams
+* implementiere Funktion für online/offline Status der user
+* finde Grafiker für Logo.
+
+done:
+* ziehe den DemoServer auf Port 80 um
+* schreibe Demo für google-Map: http://spoooort.de/map.jsp
+* ziehe dieses Wiki auf einfachere Domain um: http://developer.spoooort.de/
+
+DanielPoodratchi
+* implementiere Tag-Libraries
+* code Löschoption für Termine, Nachrichten und Spoooortfreunde
+* code picUpload für Team und Club
+* code Passwort vergessen
+* code Passwort ändern
+* frage Rainer zu reply=true setzen
+* frage Rainer zu generic Types
+* code dynamische Zuordnung Teams->Clubs
+* code Auswahlmöglichkeit der Sportarten
+* code userGuestbook
+* frage Rainer zu NullFeldern
+
+done:
+* code zufällige Anzeige von Sportsfreunden auf der Startseite
+* user die zuletzt mein Profil angesehen haben
+
+AndreasWeigel
+* implementiere jsp "Sie sind nicht berechtigt..." inkl LoginForm und bigLink zu register.jsp
+* implementiere Grunddesign-/layout
+* optimiere Layout für alle Browser
+* integriere Forms für Passwort ändern und Passwort vergessen
+
+done:
+* setze "antworten" in message.jsp an die richtige Stelle
+* integriere logout button
+* implementiere standartisierte Layout Boxes
+* integriere die neuen Buttons
+* mache navigation fertig
+* korrigiere Ansicht von forgotPassword.jsp
+
+AurelienEyoum
+* recherchiere nach Fußballer Rechten
+* recherchiere nach existierenden Datenbanken von Fußballern
+* schaue video2brainCSS

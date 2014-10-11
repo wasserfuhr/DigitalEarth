@@ -1,0 +1,5 @@
+In UhTopia in der Galaxie MilchStrasse auf PlanetErde in EurOpa in DeutschLand in der StadtDresden im OrtsteilPieschen auf der GeheStrasse21 im 2. Obergeschoss an der MindKlingel bei RainerWasserfuhr.
+
+* LaengenGrad: 13.717778
+* BreitenGrad: 51.078333
+* BoundingBox: 10

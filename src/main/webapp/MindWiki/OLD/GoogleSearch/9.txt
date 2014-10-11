@@ -1,0 +1,25 @@
+* InterWiki: [OpenCyc:Google-SearchEngine]
+* MindQuote: "Unversioned program" - OpenCyc
+
+Nice MindWiki PageName's and their GoogleSearch rankings:
+* #1: PieschenBank, PieschenJamie, PieschenPuffin, PieschenTv, SuendenMund, VolksKonto
+* #2: LateinConsulting
+* ...
+* #4: BdCs, DatingWiki
+* ...
+* #9: BrainCopy, SexVamp
+* #10: PuffCafe
+* ...
+* #12: GoogleSea
+* ...
+* #19: FickPieschen
+* ...
+* #26: LifeWiki
+* #27: AbschleppSchuppen
+* #28: SklavenZentrale
+* ...
+* #51: LubaShumeyko
+* ...
+* #102: WaldRohrBach
+
+ToDo: ZwingerClub

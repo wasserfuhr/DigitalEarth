@@ -1,0 +1,9 @@
+Hallenfußballfeld, Tennis, Squash, Fitness, Saunen, Volleyball zum MindBaggern, 50m-Schwimmbahnen, Gastro.
+
+Zwischen MarienBruecke und Puschkinplatz, nördlich und südlich der Leipziger Str., verbunden über eine Glasbrücke.
+
+2015 im OrtsteilPieschen.
+
+* BreitenGrad: 51.0677
+* LaengenGrad: 13.7319
+* BoundingBox: 100

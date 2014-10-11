@@ -1,0 +1,10 @@
+ein MindVerb als MindSkill, zB:
+
+RoswithaHunold:
+* forschen
+* schreiben
+* tanzen
+
+RainerWasserfuhr:
+* fragen
+* vorhersehen

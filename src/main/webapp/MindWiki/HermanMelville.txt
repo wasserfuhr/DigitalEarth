@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* InterWiki: [OpenCyc:HermanMelville]
+* JahrGang: 1819
+* LebensEnde: 1891

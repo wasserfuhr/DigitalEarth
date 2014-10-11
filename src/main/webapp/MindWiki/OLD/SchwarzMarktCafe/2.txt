@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0604
+* LaengenGrad: 13.74424
+* BoundingBox: 20
+
+VorSicht!: fiktionales Etablissement.

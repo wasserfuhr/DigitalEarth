@@ -1,0 +1,31 @@
+Die BuergerInnen von NooPolis und deren MindTrust:
+
+||Bürger          ||Trustee 1       ||Trustee 2        ||Trustee 3        ||Trustee 4
+|RainerWasserfuhr |YvonneSchubert   |DanielPoodratchi  |ChristineSchlinck |HeikeRibke
+|YvonneSchubert   |RainerWasserfuhr |DanielPoodratchi  |ChristineSchlinck |HeikeRibke
+|DanielPoodratchi |RainerWasserfuhr |YvonneSchubert    |ChristineSchlinck
+|RicardaDHerbrand |pending: VerFassung|RainerWasserfuhr
+|AndreasWeigel    |RainerWasserfuhr |YvonneSchubert    |ChristineSchlinck
+|UteMoritz        |RainerWasserfuhr |ChristineSchlinck
+|NicoHagenburger  |RainerWasserfuhr |
+|TinaPickhardt    |RainerWasserfuhr |
+|TimBonnemann     |RainerWasserfuhr |
+|ChristineSchlinck|RainerWasserfuhr |YvonneSchubert    |HeikeRibke
+|OliverGassner    |RainerWasserfuhr |YvonneSchubert
+|IngridaPlunksnyte|RainerWasserfuhr |YvonneSchubert
+|PierreKerchner   |RainerWasserfuhr |
+|NicoleZiesche    |RainerWasserfuhr |
+|AndreasDittes    |RainerWasserfuhr |
+|JanaDiesner      |RainerWasserfuhr |YvonneSchubert
+|MattisManzel     |RainerWasserfuhr |
+|HeikeRibke       |RainerWasserfuhr |YvonneSchubert    |ChristineSchlinck
+|JensFreydank     |RainerWasserfuhr |
+|KatharinaKuehnel |RainerWasserfuhr |YvonneSchubert    |HeikeRibke
+|DimitriUwarov    |RainerWasserfuhr |
+|IrisSchilke      |RainerWasserfuhr |ChristineSchlinck |HeikeRibke
+|SebastianMitter  |RainerWasserfuhr |ChristineSchlinck |HeikeRibke
+|EvaLubas         |RainerWasserfuhr
+|StefanNitzsche   |ChristineSchlinck|RainerWasserfuhr
+|VivianPein       |RainerWasserfuhr
+
+Diese WikiSpec inclusive MindTrust in Kürze automatisch auf http://id.mindbroker.de/.

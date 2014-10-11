@@ -1,0 +1,4 @@
+* InterWiki: [DeWikiPedia:Nomic], [WebSeitz:NomicGame], [WikiWikiWeb:NomicGame]
+* http://del.icio.us/rainer/nomic
+
+"Bei der Nomic-Variante WikiPedia sind ebenfalls alle Regeln durch die Spieler veränderlich. Allerdings ist das Ziel des Spieles nicht das Hervorbringen eines Paradoxons, sondern einer [umfassenden Enzyklopädie|http://de.wikipedia.org/w/index.php?title=Nomic&oldid=21209997]"

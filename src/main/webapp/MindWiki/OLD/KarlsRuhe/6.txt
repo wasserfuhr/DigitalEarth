@@ -1,0 +1,12 @@
+* IsA: MindPlace
+* InterWiki: [DeWikiPedia:Karlsruhe] [KaWiki:Karlsruhe]
+* NamedAfter: KarlWilhelm
+* BreitenGrad: 49.014
+* LaengenGrad: 8.4043
+* BoundingBox: 5000
+* MindCount: 300000
+* MindOne: HeinzFenrich
+
+Wohl die MindCity auf PlanetErde mit der höchsten Zahl an StadtWiki-Seiten pro CitiZen (wenn man nicht bald DdWiki und MindWiki addiert)
+
+Die MindCity auf PlanetErde mit der höchsten Zahl an StadtWiki-Seiten überhaupt.

@@ -1,0 +1,24 @@
+* InterWiki: [FloWiki:Social_Network], [WebSeitz:SocialNetworking]
+
+||Name           ||User ||Ads||Userpic||API   ||FoAf||NewsFeed||StickyNess||ProfileVisits||TrustChain||https||OpenId||OpenSource||RealName
+|FaceBook        |  250m|x   |x       |+++    |     |      +++|        +++|             -|          -|     +|+      |+          |+
+|MySpace         |  200m|x   |x       |+      |     |        +|        +++|             ?|          -|     -|+      |-          |-
+|FoAf*           |   90m|-   |x       |+++    |+++  |        ?|          ?|             ?|          x|     +|-      |+          |+
+|HiFive          |   80m|x   |x       |+      |++   |        +|        +++|             ?|          -|     -|-      |-          |
+|ClassMates      |   40m|x   |x       |+      |     |        +|          +|             ?|          -|     -|-      |-          |
+|LinkedIn        |   24m|x   |x       |+      |     |        -|          -|             -|          -|     +|-      |-          |+
+|LiveJournal     |   16m|x   |x       |++     |++   |        +|        +++|             ?|          +|     +|-      |-          |-
+|FlickEr         |    7m|-   |x       |++     |     |        -|         ++|             -|          -|     -|+      |-          |-
+|XingLe          |    8m|x   |x       |+      |     |       ++|        +++|             +|          -|    ++|-      |-          |++
+|StudiVz         |    4m|x   |x       |-      |     |        -|         ++|             +|          -|     -|-      |-          |-
+|WerKenntWen     |    4m|x   |x       |x      |     |        x|         ++|             +|          x|     -|x      |-          |+
+|DelIcioUs       |    2m|x   |-       |x      |     |        x|          x|             -|          x|     -|-      |-          |-
+|TwittEr         |    2m|-   |x       |x      |+    |        x|          x|             -|          x|     +|-      |-          |--
+|TribeNet        | >500k|x   |x       |FoAf?  |     |        ?|          ?|             ?|          -|     +|-      |-          |
+|ASmallWorld     |  300k|x   |x       |?      |     |        ?|          ?|             ?|          -|     x|-      |-          |+
+|PeopleAggregator|  8414|x   |x       |-      |     |        -|          +|             -|          -|     -|-      |+++        |
+|NooPolis        |    81|-   |x       |++     |+++  |        +|          ?|             -|          x|not yet|-     |+++        |+++
+
+*): we count FoAf as "meta" SocialNetwork which also sums up the FoAf profiles of other FoAf-enabled SocialNetwork's.
+
+OpenStats.

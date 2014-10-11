@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+
+http://www.openstreetmap.org/?lat=47.78383&lon=18.76845&zoom=15&layers=B000FTT ToDo
+http://www.restaurant-dressler.de/de/start/index.htm

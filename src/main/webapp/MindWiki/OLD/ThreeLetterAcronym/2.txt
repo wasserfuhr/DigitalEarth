@@ -1,0 +1,26 @@
+im MiNd von RainerWasserfuhr sind unter anderem folgende ThreeLetterAcronym's mit einer BeDeut'ung verknüpft:
+* agi: ArTelligence
+* brd: DeutschLand
+* css
+* cvs
+* gef
+* hql
+* htm: JeffHawkins
+* ibm: EiBiEm
+* jsf
+* jsp
+* lol
+* ooa
+* ood
+* mdd
+* rdf: SemanticWeb
+* sap: SapAg
+* soa
+* sql: MindSql
+* svn
+* swt
+* tdd
+* tla: ThreeLetterAcronym
+* usa: UnitedStates
+* owl
+* xml

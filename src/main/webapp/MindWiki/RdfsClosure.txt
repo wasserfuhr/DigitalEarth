@@ -1,0 +1,3 @@
+* HomePage: http://www.w3.org/TR/2002/WD-rdf-mt-20020214/#rdfs_entail
+
+EnTail RdFs HerbrandUniverse

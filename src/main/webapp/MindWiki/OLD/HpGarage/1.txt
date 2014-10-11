@@ -1,0 +1,3 @@
+* IsA: MindGarage
+* InterWiki: [WikiPedia:HP_Garage]
+* PartOf: AddisonAvenue

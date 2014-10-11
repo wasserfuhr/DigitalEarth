@@ -1,0 +1,5 @@
+* MindLine: 2012
+
+http://blog.thylmann.net/2006/03/13/google-earth-2012/
+
+Google Earth 2012 looks something like this: 100.000 people walk around with headcams, retinadisplays and wirelesshubs. You can connect to the cam of your friend and choose a perspective. Thanks to magical Google Software you can choose between different locations and fly back and forth seemlessly. The software calculates what you see from satellite and video stream data that it has archived. Effects like daylight and GoogleFog are calculated dynamically, annoying moving objects filtered out.

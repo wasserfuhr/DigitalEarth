@@ -1,0 +1,15 @@
+* IsA: MindProps
+* RdfProperty: http://vocab.org/bio/0.1/#Birth
+
+later: http://id.mindbroker.de/lifeline
+
+* RdfRange: http://www.w3.org/2001/XMLSchema#integer
+
+__Caution__: The integer is in AstronomicalYearNumbering.
+
+So MindFul'ness is necessary for PerSon's born or died BeFore JesusChrist, since there is no YearZero.
+
+So when MrAristotle is BornIn 384BC, the MindProps are
+{{
+* BornIn: -383 
+}}

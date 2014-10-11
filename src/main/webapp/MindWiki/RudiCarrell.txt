@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Rudi_Carrell]
+* BornIn: 1934
+* BirthDay: 12-19
+* ViAf: http://viaf.org/viaf/3261896

@@ -1,0 +1,5 @@
+* IsA: SocialNetwork
+* HomePage: http://www.myheritage.com/
+|[TwittEr:MyHeritage]
+
+SocialObject: ChildOf

@@ -1,0 +1,46 @@
+;LogIn
+;{{{
+
+((defn login []
+  (handle "login"
+   ""
+   (fn []
+    (let
+     [wikiName (.getParameter request "wikiName")
+      pw (.getParameter request "password")
+      idServer "http://id.mindbroker.de/"
+      idPage (fetch-url-s (str idServer "id?wikiName=" wikiName ))
+      publicKey (get (re-find #"<span id=\"publicKey\">([a-zA-Z0-9]+)</span>" idPage) 1)
+      mindId (get (re-find #"<span id=\"id\">([0-9]+)</span> idPage 1)
+      pwDigest (de.mindbroker.tools.Hash/getHash (str publicKey "#" pw))
+      loginStatusUrl (str idServer "login?wikiName=" wikiName "&passwordDigest=" pwDigest)
+      loginStatusPage (fetch-url-s loginStatusUrl)
+      hConf (new org.apache.hadoop.hbase.HBaseConfiguration)
+      hBase (new org.apache.hadoop.hbase.client.HBaseAdmin hConf)
+      hTable (new org.apache.hadoop.hbase.HTableDescriptor "EventLog")
+      batch
+        (new org.apache.hadoop.hbase.io.BatchUpdate 
+         (org.apache.hadoop.hbase.util.Bytes/toBytes (long 1)))]
+     (if
+       (.contains loginStatusPage "\"login\": true")
+       (do
+        (.put batch
+           "log:EventType"
+            (.getBytes "LogIn"))
+        (.put batch
+           "log:MindId"
+            (.getBytes mindId))
+        (.put batch
+           "log:RemoteAddr"
+            (.getBytes (.getRemoteAddr request)))            
+        (.put batch
+           "log:RemoteHost"
+            (.getBytes (.getRemoteHost request)))
+        (.commit hTable batch)
+        (.setAttribute (.getSession request) "WikiName" wikiName)
+        (.sendRedirect response (.getParameter request "pathInfo"))
+       )
+       (.sendRedirect response (str (.getParameter request "pathInfo") "&message=wrongPassword"))
+     )))
+   )))
+;}}}

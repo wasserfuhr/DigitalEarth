@@ -1,0 +1,5 @@
+http://www.ageekstour.com/wiki.cgi?InfiniteLoop
+
+* BreitenGrad: 37.331973
+* LaengenGrad: -122.029649
+* BoundingBox: 150

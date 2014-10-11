@@ -1,0 +1,14 @@
+* IsA: UnLimited
+* MindOne: AlexanderFriedland
+
+|| ||ShareHolder
+|501|AlexanderFriedland
+|99|RainerWasserfuhr
+|99|RalfLippold
+|99|ConstanceWolter
+|99|MarcoDziallas
+|99|SoerenRogoll
+|4|CoOrpheumUnlimited
+
+__SperrKlausel__
+Bis zur offiziellen Übernahme des CoOrpheum (Beginn von Mietzahlungen), können Anteile nicht ohne Zustimmung von 3/4 der Anteile veräußert oder übertragen werden.

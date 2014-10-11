@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:William_Shatner], [OpenCyc:WilliamShatner]
+* JahrGang: 1931
+* BirthDay: 03-22
+||AusLand
+|[TwittEr:WilliamShatner]

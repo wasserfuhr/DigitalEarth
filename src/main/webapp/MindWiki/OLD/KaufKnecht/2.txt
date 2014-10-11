@@ -1,0 +1,20 @@
+* MindTags: ProJect
+
+Ein NooPolis-StartUp. ShareHolder:
+* DanielMehner
+* JuergenKohn
+* LarsKleinbeckes
+* RainerWasserfuhr
+
+
+
+DomainModel:
+* User
+* Position
+* Shop
+* Artikel
+* ArtikelPreis
+
+Erste Daten:
+||Käufer          ||Produkt||Marke||Menge||Preis
+|RainerWasserfuhr |Spaghetti|500g|0,39

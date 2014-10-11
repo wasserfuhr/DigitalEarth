@@ -1,0 +1,2 @@
+* IsA: MindHome
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/41841275

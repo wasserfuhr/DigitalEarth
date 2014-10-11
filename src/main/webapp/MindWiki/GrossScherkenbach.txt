@@ -1,0 +1,2 @@
+* MindTags: MindPlace
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.10353&lon=7.42356&zoom=15&layers=B000FTF ToDo

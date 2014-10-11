@@ -1,0 +1,8 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Richard_Wagner], [OpenCyc:RichardWagner]
+* JahrGang: 1813
+* BirthDay: 05-22
+* LebensEnde: 1883
+* HasTalked: FriedrichNietzsche, OttoVonBismarck
+
+schuf Gesamt-KunstWerk'e

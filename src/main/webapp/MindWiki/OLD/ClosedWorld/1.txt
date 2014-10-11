@@ -1,0 +1,5 @@
+A strategy to create NewMind, inspired by [WikiPedia:Closed_world_assumption]:
+
+Everything enters the WorldModel via well defined channels.
+
+Inside the ClosedWorld, everything is TransParent.

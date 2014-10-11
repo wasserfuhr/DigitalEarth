@@ -1,0 +1,3 @@
+* IsA: MindEvent
+* MindPlace: LingnerSchloss
+* XingEvent: https://www.xing.com/events/xing-dresden-lingnerschloss-507946

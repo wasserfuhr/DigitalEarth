@@ -1,0 +1,30 @@
+Die MindBroker mit MindId und damit BuergerInnen von NooPolis: http://id.mindbroker.de/.
+
+||Bürger          ||Trustee 1       ||Trustee 2        ||Trustee 3        ||Trustee 4
+|RainerWasserfuhr |   |  | |
+|YvonneSchubert   |RainerWasserfuhr |  | |
+|DanielPoodratchi |RainerWasserfuhr |    |
+|RicardaDHerbrand |pending: VerFassung|RainerWasserfuhr|
+|AndreasWeigel    |RainerWasserfuhr |    |
+|UteMoritz        |RainerWasserfuhr | |
+|NicoHagenburger  |RainerWasserfuhr |
+|TinaPickhardt    |RainerWasserfuhr |
+|TimBonnemann     |RainerWasserfuhr |
+|ChristineSchlinck|RainerWasserfuhr |    |
+|OliverGassner    |RainerWasserfuhr |
+|IngridaPlunksnyte|RainerWasserfuhr |
+|PierreKerchner   |RainerWasserfuhr |
+|NicoleZiesche    |RainerWasserfuhr |
+|AndreasDittes    |RainerWasserfuhr |
+|JanaDiesner      |RainerWasserfuhr |
+|MattisManzel     |RainerWasserfuhr |
+|HeikeRibke       |RainerWasserfuhr |    |
+|JensFreydank     |RainerWasserfuhr |
+|KatharinaKuehnel |RainerWasserfuhr |    |
+|DimitriUwarov    |RainerWasserfuhr |
+|IrisSchilke      |RainerWasserfuhr | ||
+|SebastianMitter  |RainerWasserfuhr | ||
+|EvaLubas         |RainerWasserfuhr |        |
+|StefanNitzsche   | |RainerWasserfuhr
+|VivianPein       |RainerWasserfuhr |
+|MonteMiersch     |RainerWasserfuhr |

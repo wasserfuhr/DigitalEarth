@@ -1,0 +1,25 @@
+* HomePage: http://flavourcity.appspot.com/
+* MindOne: ChristineSchlinck
+
+{{{
+(fn [request response]
+ (let [noop (.setCharacterEncoding response "UTF-8")]
+  (hiccup.core/html "<!DOCTYPE html>"
+   [:html
+    [:head
+     [:title "ChristineSchlinck"]
+     [:meta {:http-equiv "Content-Type" :content "text/html;charset=utf-8"}]]
+    [:body
+     [:h1 "ChristineSchlinck"]
+     [:h2 "test"]
+     [:table
+      [:tr
+       [:th "year"]
+       [:th "work"]]
+      [:tr
+       [:td "2008"]
+       [:td "WunderKind"]]
+      [:tr
+       [:td "2010"]
+       [:td "ARunningGag"]]]]])))
+}}}

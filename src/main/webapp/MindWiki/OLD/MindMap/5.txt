@@ -1,0 +1,10 @@
+DoIt: Auf http://id.mindbroker.de/map darstellen:
+
+* MindPlaces mit Koordinaten
+* BuergerInnen, die ihren WohnSitz angegeben haben
+* Jeden MindMove
+** Jeden Zug mit ZugStrom
+** Die Flüge der AirLine
+** Jeden MindWay in der Umgebung von GruenesWunder
+** Alle Mähdrescher in DeutschLand beim HarVest
+* MindIp

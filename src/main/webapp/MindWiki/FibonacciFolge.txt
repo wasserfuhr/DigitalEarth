@@ -1,0 +1,10 @@
+ist eine unendliche mathematische Folge nicht negativer ganzer Zahlen.
+
+* Für die beiden ersten Zahlen werden die Werte 0 und 1 vorgegeben.
+* Jede weitere Zahl ist die Summe ihrer beiden Vorgänger.
+
+Die FibonacciFolge findet vielfältigen Niederschlag in der Natur. So beschreibt sie die Ahnenmenge einer weiblichen Honigbiene, die spiralförmige Anordnung von Blätter um die Sprossachse und die Anordnung von Samen in einem Blütenstand. 
+
+Für Finanzanalysten bietet die FibonacciFolge die mathematische Grundlage, das zeitliche und räumliche Ausmaß der Wellenbewegungen eines Kurses zu ermitteln. 
+
+Das Verhältnis einer Zahl zu ihrer nächsthöheren nähert sich nach den ersten vier Gliedern der Folge dem Wert 0,618 an. Dieses Verhältnis entspricht dem GoldenerSchnitt.

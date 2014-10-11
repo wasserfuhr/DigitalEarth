@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/08/384
+* HomePage: http://www.hitec-hh.de/ueberuns/home/aguenter
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann BerndNeumann AndreasGünter
+|[XingLe:Andreas_Guenter]

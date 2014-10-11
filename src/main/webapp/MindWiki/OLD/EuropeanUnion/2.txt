@@ -1,0 +1,32 @@
+* InterWiki: [DeWikiPedia:Europäische_Union]
+* PartOf: EurOpa
+
+||[1]||NationState||SprachWelt
+|be|Belgien      |LangFr
+|it|Italien      |LangIt
+|ro|Rumänien     |
+|bg|Bulgarien	 |
+|lv|Lettland     |
+|se|Schweden     |LangSv
+|dk|Dänemark 	 |
+|lt|Litauen 	 |
+|sk|Slowakei     |
+|de|DeutschLand  |LangDe 
+|lu|LuxemBurg 	 |
+|si|Slowenien    |
+|ee|EestiVabariik|
+|mt|Malta        |
+|es|Spanien      |LangEs
+|fi|FinLand  	 |
+|nl|NederLands   |LangNl
+|cz|Tschechien   |
+|fr|LaFrance     |LangFr
+|at|OesterReich  |LangDe
+|hu|Ungarn       |
+|gr|Griechenland |
+|pl|Polen        |
+|gb|UnitedKingdom|LangEn
+|ie|Irland 	 |
+|pt|Portugal     |
+|cy|Zypern       |
+* [#1] ISO 3166

@@ -1,0 +1,7 @@
+Bald: Eine WebApp, die automatisch TwittEr't, das MindWiki editiert und auf der GoogleWave reitet, wenn bestimmte Ereignisse feuern, zB:
+* überweise BegruessungsGeld für neue BuergerInnen
+* editiere #Nutzer bei SocialNetwork
+* TwittEr'e neue Nutzer und Änderungen an der VerFassung: NooPoBot
+
+||AusLand
+|[TwittEr:mindbroker]

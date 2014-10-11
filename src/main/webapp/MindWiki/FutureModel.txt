@@ -1,0 +1,13 @@
+http://www.flickr.com/photos/rainerw/310219121/
+
+A SystemDynamics approach for PreDict'ing the TwentyFirstCentury:
+* CalculationsPerSecondPerDollar
+* KardashevScale
+* WorldPopulation
+* DresdenFlickr
+* BirthdayTwin
+
+more candidates soon?:
+* AcceleratingReturns
+* OpenGeoData
+

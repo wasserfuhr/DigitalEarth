@@ -1,0 +1,5 @@
+
+MindTags : MindPeople
+LebensBeginn : 1936
+
+http://de.wikipedia.org/wiki/Christopher_Alexander

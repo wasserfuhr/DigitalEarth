@@ -1,0 +1,22 @@
+* MindTags: ProJect
+* MindLine: 2029
+
+The goal: achieve an immersive simulation of an entire human MiNd until 2029.
+
+First thoughts and a very first draft of the architecture on top of the MindWiki:
+
+The basic layer consists of a SemanticWeb wrapper around the MindWiki, and a transitive closure of MindTrust-relationships.
+
+The RDF statements are arranged as a causal hierarchy of statements. The engine continuously computes a "root" belief statement, selected from the set of all known resources.
+The NewMind has a representation of itself. It can interact with its environment, if external sources make statements about the NewMind.
+
+It will have a MindApi to the MindEyes of RainerWasserfuhr.
+
+Modules:
+* Goals: DoIt, ReDo, RoadMap
+* Perception: MindEyes, MindFeeds
+* Embodiment: TerraMind
+* Memory: WortSchatz mit SemanticWeb-StateMent's
+* InFer'ence
+
+Concepts: RauSing, MetaMan, BlueMan, TerraMind, AvaTar, BlueMind, PanOrama.

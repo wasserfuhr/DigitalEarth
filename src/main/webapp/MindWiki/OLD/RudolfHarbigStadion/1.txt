@@ -1,0 +1,4 @@
+* InterWiki: [DdWiki:Rudolf-Harbig-Stadion], [DeWikiPedia:Rudolf-Harbig-Stadion]
+* BoundingBox: 150
+
+OpenStreetMap: http://www.openstreetmap.org/?lat=51.04091&lon=13.7499&zoom=17&layers=000BTTTT

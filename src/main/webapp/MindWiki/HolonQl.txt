@@ -1,0 +1,12 @@
+The Holon Query Language is a __very__ StealthMode ProJect from MindBroker ReSearch which will enable BabyAi agents to perform distributed queries for [DeWikiPedia:Holon]s.
+
+{{{
+?a IsA ProFessor
+?a HasTalked RainerWasserfuhr
+}}}
+
+{{{
+?a HoldsAccount ?b
+?b name TwittEr
+?a HasTalked RainerWasserfuhr
+}}}

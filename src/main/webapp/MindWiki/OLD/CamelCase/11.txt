@@ -1,0 +1,67 @@
+Wie man im PageIndex sieht, haben alle Seiten im Wiki von NooPolis sogenannte CamelCase-Schreibweise:
+
+# Der erste Buchstabe ist ein Großbuchstabe A-Z
+# es folgen ein oder mehrere Kleinbuchstaben a-z
+# es folgt ein Großbuchstabe A-Z
+# es folgt ein Kleinbuchstabe
+# es folgen null oder mehr Buchstaben oder Zahlen.
+
+Zulässig sind wirklich nur die 26 Buchstaben von A bis Z, aber *keine* Umlaute, Apostrophe oder ähnliche Schreibweisen.
+
+Die Wahl des CamelCase-Namens ist ein kreativer Akt, für den sich ein paar Varianten eingebürgert haben:
+* iPod -> EiPott: Die phonetische 
+* Utopie -> UhTopie: Der Kreative Tippfehler.
+* Hamburg -> HamBurg, weil Burg als eigenständige Sinneinheit existiert
+* Brunch -> MindBrunch (wie auch MindCar, MindCat oder MindMac)
+* Projekte -> UnsereProjekte
+
+Als [DeWikiPedia:Regul%C3%A4rer_Ausdruck]:
+ 
+{{{
+[A-Z][a-z]+[A-Z][a-z]+[a-zA-Z0-9]*
+}}}
+
+
+Die kürzest möglichen CamelCase-Wörter haben also mindestens 4 BuchStaben:
+* AaAa
+* AaAb
+* AaAc
+* ...
+* AaAz
+* AaBa
+* AaBb
+* AaBc
+* ...
+* AhGe
+* ...
+* BdCs
+* ...
+* BeTa
+* ...
+* BdSm
+* ...
+* DiVa
+* ...
+* DoIt
+* ...
+* ExPo
+* ...
+* FoAf
+* ...
+* LaNu
+* ...
+* NaDa
+* ...
+* OtNa
+* ...
+* PoTs
+* ...
+* SiMa
+* ...
+* ToDo
+* ...
+* VoNa
+* ...
+* YaCy
+* ....
+* ZzZz

@@ -1,0 +1,29 @@
+Overview:
+*mit deinem Sportsfreunden in Kontakt bleiben
+**Message Board für Teams
+**UserGuestbooks
+**Nachrichten versenden
+*neue und alte Sportsfreunde finden
+**Suche,
+**Suche nach "sportler in meiner Umgebung mit gleichen Interessen",
+**Mitglieder deiner Vereine durchsuchen
+*die besten Vereine in deiner Umgebung finden
+**Vereinssuche via Postleitzahlen
+**Präsenzseite der Vereine (Preise, Sportarten, Räumlichkeiten, Erfolge, Bilder)
+**Blogfunktion für Vereine (news, bekanntmachungen)
+*eigene Teams gründen
+**neues Team erstellen
+**Mitlgieder finden
+**Trainingstermine abstimmen
+*Verwaltung deiner Sporttreffen/Trainings/Freizeit
+**Terminkalender         
+*an öffentlichen Events mit deinen Sportsfreunden teilnehmen
+**automatische Benachrichtigung von Sportevents in deiner Umgebung
+**Option zur Teilnahme und damit verbundene Benachrichtigung alle deiner Sportsfreunde
+*eigene private oder öffentliche Events starten
+**Umfragen nach Interesse für Events
+**Erstellung eines Events
+**Teilnahmebestätigungen
+**Einladungen für Sportevents versenden
+*Bilder und videos veröffentlichen
+**uploadfunkiton für User/Teams/Vereine

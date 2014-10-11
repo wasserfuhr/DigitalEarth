@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Charles_Lindbergh]
+* BornIn: 1902
+* BirthDay: 02-04
+* DiedIn: 1974

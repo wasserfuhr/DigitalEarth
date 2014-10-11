@@ -1,0 +1,3 @@
+* MindTags: ProJect
+* TcTitle: ISTFORCE
+* DeScription: Intelligent Services and Tools for Concurrent Engineering

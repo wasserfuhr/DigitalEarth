@@ -1,0 +1,3 @@
+* InterWiki: [LangReiter:SearchWiki], [WikiPedia:SearchWiki]
+
+GoogleInc RoadMap: SearchWiki → LifeWiki → GoogleMind

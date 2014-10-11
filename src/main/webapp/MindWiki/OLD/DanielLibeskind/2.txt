@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Daniel_Libeskind]
+* BornIn: 1946
+* BirthDay: 05-12
+* CurrentProjects: MhmDresden

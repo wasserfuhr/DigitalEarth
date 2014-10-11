@@ -1,0 +1,8 @@
+* IsA: CitiZen
+* InvitedBy: HeidiMorgenstern
+* MindId: 169
+* BornIn: 2001
+* ChildOf: HeidiMorgenstern
+* HomeStead: NeuStadt
+* MindFaves: TrainYard
+|[GoogleProfile:eliasmorgenstern01]

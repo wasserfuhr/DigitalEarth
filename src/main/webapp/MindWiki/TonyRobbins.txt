@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Anthony_Robbins]
+* BornIn: 1960
+* BirthDay: 02-29
+|[TwittEr:tonyrobbins]

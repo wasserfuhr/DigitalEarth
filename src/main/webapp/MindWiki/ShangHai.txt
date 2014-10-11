@@ -1,0 +1,7 @@
+* HerKunft: [WikiPedia:Shanghai]: „Stadt am Oberlauf des Huangpu Flusses“
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Shanghai]
+* BreitenGrad: 31.21
+* LaengenGrad: 121.52
+* BoundingBox: 50000
+* MindCount: 13000000

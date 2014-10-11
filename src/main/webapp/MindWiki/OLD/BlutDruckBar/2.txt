@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BreitenGrad: 52.505946
+* LaengenGrad: 13.44443
+* BoundingBox: 10
+
+Die Saffi ist eine nette Gastgeberin.

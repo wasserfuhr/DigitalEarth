@@ -1,0 +1,396 @@
+DiplomArbeit:
+
+{{{
+\newcommand{\etalchar}[1]{$^{#1}$}
+\newcommand{\noopsort}[1]{} \newcommand{\printfirst}[2]{#1}
+  \newcommand{\singleletter}[1]{#1} \newcommand{\switchargs}[2]{#2#1}
+\begin{thebibliography}{BDD{\etalchar{+}}92b}
+
+\bibitem[AJ89]{lazyMLvsC}
+L.~Augustsson, T.~Johnsson.
+\newblock The chalmers lazy-ML compiler.
+\newblock {\em The Computer Journal}, 32:127--141, 1989.
+
+\bibitem[AVW93]{AVW93}
+J.~Amstrong, R.~Virding, M.~Williams.
+\newblock {\em {C}oncurrent {P}rogramming in {E}rlang}.
+\newblock Prentice Hall, 1993.
+
+\bibitem[BD92]{Focus-FS-OS}
+M.~Broy, C.~Dendorfer.
+\newblock Modelling of operating system structures by timed stream processing
+  functions.
+\newblock {\em Journal of Functional Programming}, 2(1):1--21, 1992.
+
+\bibitem[BDD{\etalchar{+}}92a]{focus}
+M.~Broy, F.~Dederichs, C.~Dendorfer, M.~Fuchs, T.~F. Gritzner, R.~Weber.
+\newblock The design of distributed systems - an introduction to {\sc Focus}.
+\newblock Technical Report SFB 342/2/92 A, Technische Universit"at M"unchen,
+  1992.
+
+\bibitem[BDD{\etalchar{+}}92b]{Focus-Fallstudien}
+M.~Broy, F.~Dederichs, C.~Dendorfer, M.~Fuchs, T.~F. Gritzner, R.~Weber.
+\newblock {Summary of Case Studies in {\sc Focus} - a Design Method for
+  Distributed Systems}.
+\newblock {Technical Report SFB 342/3/92 A}, Technische Universit"at M"unchen,
+  1992.
+
+\bibitem[BFG{\etalchar{+}}91]{Spectrum-v03}
+M.~Broy, C.~Facchi, R.~Grosu, R.~Hettler, H.~Hussmann, D.~Nazareth,
+  F.~Regensburger, K.~Stolen.
+\newblock The Requirement and Design Specification Language {\sc Spectrum} - An
+  Informal Introduction - Version 0.3.
+\newblock Technical Report TUM-I9140, Technische Universit"at M"unchen, Mai
+  1991.
+\newblock \fbox{\tt TUM-ftp}.
+
+\bibitem[BFG{\etalchar{+}}93]{Spectrum-intro}
+M.~Broy, C.~Facchi, R.~Grosu, R.~Hettler, H.~Hussmann, D.~Nazareth,
+  F.~Regensburger, O.~Slotosch, K.~Stolen.
+\newblock The Requirement and Design Specification Language {\sc Spectrum} - An
+  Informal Introduction - Version 1.0*.
+\newblock Technical Report TUM-I9311+9312, Technische Universit"at M"unchen,
+  Mai 1993.
+\newblock \fbox{\tt TUM-ftp}.
+
+\bibitem[BH93]{BH93}
+R.~Braek, O.~Haugen.
+\newblock {\em Engineering Real Time Systems}.
+\newblock Prentice Hall, 1993.
+
+\bibitem[Bro87a]{SDB}
+M.~Broy.
+\newblock Algebraic and Functional Specification of a Serializable Database
+  Interface.
+\newblock Technischer Bericht MIP 8718, Fakult"at f"ur Mathematik und
+  Informatik, Universit"at Passau, Oktober 1987.
+
+\bibitem[Bro87b]{abracadabra}
+M.~Broy.
+\newblock Some Algebraic and Functional Hocus Pocus with Abracadabra.
+\newblock Technischer Bericht MIP 8717, Fakult"at f"ur Mathematik und
+  Informatik, Universit"at Passau, September 1987.
+
+\bibitem[Bro87c]{sra}
+M.~Broy.
+\newblock Specification and Design of Shared Resource Arbitration.
+\newblock Technischer Bericht MIP 8721, Fakult"at f"ur Mathematik und
+  Informatik, Universit"at Passau, 1987.
+
+\bibitem[Bro87d]{railway}
+M.~Broy.
+\newblock Specification of a Railway System.
+\newblock Technischer Bericht MIP 8715, Fakult"at f"ur Mathematik und
+  Informatik, Universit"at Passau, 1987.
+
+\bibitem[Bro87e]{queue}
+M.~Broy.
+\newblock Views of Queues.
+\newblock Technischer Bericht MIP 8704, Fakult"at f"ur Mathematik und
+  Informatik, Universit"at Passau, Februar 1987.
+
+\bibitem[Bro88]{lift}
+M.~Broy.
+\newblock An Example for the Design of Distributed Systems in a Formal Setting:
+  The Lift Problem.
+\newblock Technischer Bericht MIP 8802, Fakult"at f"ur Mathematik und
+  Informatik, Universit"at Passau, 1988.
+
+\bibitem[Bro89]{methodology}
+M.~Broy.
+\newblock Towards a Design Methodology for Distributed Systems.
+\newblock In M.~Broy (Hrsg.), {\em Construktive Methods in Computing Science},
+  Band~55 von {\em NATO ASI Series F: Computer and System Science}, S.
+  311--364. Springer, 1989.
+
+\bibitem[Bro90]{Focus-Time}
+M.~Broy.
+\newblock {\em Functional Specification of Time Sensitive Communicating
+  Systems. REX Workshop.}, Band 430 von {\em Lecture Notes in Computer
+  Science}, S. 153--179.
+\newblock Springer, 1990.
+
+\bibitem[Bro92a]{CompRef92}
+M.~Broy.
+\newblock Compositional Refinement of Interactive Systems.
+\newblock SRC~89, DIGITAL Systems Research Center, 1992.
+
+\bibitem[Bro92b]{Br92a}
+M.~Broy.
+\newblock Operational and Denotational Semantics with Explicit Concurrency.
+\newblock {\em Fundamenta Informaticae}, 16, 1992.
+
+\bibitem[BS94]{Focus-Time-2}
+M.~Broy, K.~Stoelen.
+\newblock Specification and Refinement of Finite Dataflow Networks.
+\newblock In H.~Langmaack, W.-P.de Roever, J.~Vytopil (Hrsg.), {\em Formal
+  Techniques in Real-Time and Fault-Tolerant Systems}, Band 863 von {\em
+  Lecture Notes in Computer Science}. Springer, 1994.
+
+\bibitem[BW90]{ACP-Axioms}
+J.~C.~M. Baeten, W.~P. Weijland.
+\newblock {\em Process Algebra}, Band~18.
+\newblock Cambridge Tracts in Theoretical Computer Science, Cambridge, 1990.
+
+\bibitem[Dav91]{Dav91}
+J.~Davies.
+\newblock Specification and proof in real-time systems.
+\newblock Technical Monograph PRG-93, Programming Research Group, Oxford
+  University Computing Laboratory, UK, April 1991.
+
+\bibitem[Dei94]{PAISLey-Haus}
+T.~Dei"s.
+\newblock An Outsiders Evaluation of {PAIS}Ley.
+\newblock Interner Bericht 250, Fachbereich Informatik. Universit"at
+  Kaiserslautern, 1994.
+
+\bibitem[DG94]{DG94}
+D.~Dranidis, S.~Gastinger.
+\newblock {\em {Describing Traces in an Algebraic Specification Language
+  Abstractly by Predicates and more Concretely by CSP-like Programming
+  Constructs}}, S. 201--230.
+\newblock FZI Karlsruhe, 1994.
+
+\bibitem[DW90]{Safe-Live-Decomp}
+F.~Dederichs, R.~Weber.
+\newblock Safety and liveness from a methodological point of view.
+\newblock {\em Information Processing Letters}, 36:25--30, Oktober 1990.
+
+\bibitem[EM85]{EhMa85}
+H.~Ehrig, B.~Mahr.
+\newblock Fundamentals of Algebraic Specification I: Equations and Initial
+  Semantics.
+\newblock EATCS Monographs, Vol. 6, Springer-Verlag, 1985, 1985.
+\newblock 19890120; Gr; n.
+
+\bibitem[FP94]{fertigungszelle}
+M.~Fuchs, J.~Phillips.
+\newblock {\em {Formal Development of a Production Cell in {\sc Focus} - A Case
+  Study}}, S. 189--200.
+\newblock FZI Karlsruhe, 1994.
+
+\bibitem[FW90]{FoTa90}
+M.~Foster, D.~Wise.
+\newblock {\em {S}trand: {N}ew {C}oncepts in {P}arallel {P}rogramming}.
+\newblock Prentice Hall, 1990.
+
+\bibitem[Har87]{statecharts2}
+D.~Harel.
+\newblock Statecharts: A visual formalism for complex systems.
+\newblock {\em Science of Computing}, 8:231--274, 1987.
+
+\bibitem[Har88]{statecharts}
+D.~Harel.
+\newblock On visual formalisms.
+\newblock {\em Communications of the ACM}, 5(31):514--530, Mai 1988.
+
+\bibitem[HH92]{Zeit+RT-Systeme}
+B.~Hoogeboom, W.~A. Halang.
+\newblock {\em The Concept of Time in the Specification of Real Time Systems},
+  S. 19--38.
+\newblock Los Alamitos, Calif., 1992.
+
+\bibitem[HLN{\etalchar{+}}90]{statemate}
+D.~Harel, H.~Lachover, A.~Naamad, A.~Pnueli, M.~Politi, R.~Sherman,
+  A.~Shtull-Trauring, M.~Trakhtenbrot.
+\newblock STATEMATE: A working environment for the development of complex
+  reactive systems.
+\newblock {\em IEEE Transactions on Software Engineering}, 16(4):403--414,
+  April 1990.
+
+\bibitem[Hoa78]{csp78}
+C.~A.~R. Hoare.
+\newblock Communicating Sequential Processes.
+\newblock {\em Communications of the ACM}, 21(8):666--677, 1978.
+
+\bibitem[Hoa85]{csp85}
+C.~A.~R. Hoare.
+\newblock {\em Communicating Sequential Processes}.
+\newblock Prentice Hall, 1985.
+
+\bibitem[HPSS87]{statecharts1}
+D.~Harel, A.~Pnueli, J.P. Schmidt, R.~Sherman.
+\newblock On the formal semantics of statecharts.
+\newblock In {\em Proceedings of the 2nd IEEE Symposium on Logic in Computer
+  Science}, S. 54--64, Ithaka, New York, Juni 1987.
+
+\bibitem[HW94]{HeWe94}
+M.~Heisel, D.~{Weber-Wulff}.
+\newblock {Korrekte Software: Nur eine Illusion?}
+\newblock {\em Informatik Forschung und Entwicklung}, 9:192--199, 1994.
+
+\bibitem[Kah74]{Kahn}
+G.~Kahn.
+\newblock The semantics of a simple language for parallel programming.
+\newblock In J.~L. Rosenfeld (Hrsg.), {\em Information Processing}, Band~74, S.
+  471--475. North Holland, 1974.
+
+\bibitem[Lam93]{Lam93}
+L.~Lamport.
+\newblock How to Write a Proof.
+\newblock Technischer Bericht~94, 1993.
+
+\bibitem[Lam94]{Lamport91}
+L.~Lamport.
+\newblock {T}he {T}emporal {L}ogic of {A}ctions.
+\newblock {\em ACM Transactions on Programming Languages and Systems},
+  16(3):872--923, Mai 1994.
+
+\bibitem[LS87]{Loeckx-Sieber}
+J.~Loeckx, K.~Sieber.
+\newblock {\em Foundations of Program Verification}.
+\newblock Wiley Teubner Series in Computer Science, 2 edition, 1987.
+
+\bibitem[Mil80]{ccs1}
+R.~Milner.
+\newblock {\em A Calculus of Communicating Systems}.
+\newblock LNCS 92. Springer, 1980.
+
+\bibitem[Mil89]{ccs}
+R.~Milner.
+\newblock {\em Communication and Concurrency}.
+\newblock Prentice Hall, 1989.
+
+\bibitem[MMP92]{MMP92}
+O.~Maler, Z.~Manna, A.~Pnueli.
+\newblock From timed to hybrid systems.
+\newblock In J.W. {de Bakker}, C.~Huizing, W.-P. {de Roever}, G.~Rozenberg
+  (Hrsg.), {\em Real-Time: Theory in Practice}, Band 600 von {\em LNCS}, S.
+  447--484. Springer-Verlag, 1992.
+
+\bibitem[M"o82]{Moel82}
+B.~M"oller.
+\newblock {\em {U}nendliche {O}bjekte und {G}eflechte}.
+\newblock PhD thesis, Technische Universit"at M"unchen, September 1982.
+
+\bibitem[MP92]{temp_logic}
+Z.~Manna, A.~Pnueli.
+\newblock {\em The Temporal Logic of Reactive and Concurrent Systems. Vol. 1:
+  Specification}.
+\newblock Springer, 1992.
+
+\bibitem[MPW92a]{Mobile-Processes-1}
+R.~Milner, J.~Parrow, D.~Walker.
+\newblock A Calculus of Mobile Processes I.
+\newblock {\em Journal of Information and Computation}, 100(1):1--40, 1992.
+
+\bibitem[MPW92b]{Mobile-Processes-2}
+R.~Milner, J.~Parrow, D.~Walker.
+\newblock A Calculus of Mobile Processes II.
+\newblock {\em Journal of Information and Computation}, 100(1):41--70, 1992.
+
+\bibitem[NS92]{NS92}
+X.~Nicollin, J.~Sifakis.
+\newblock An overview and synthesis of timed process algebras.
+\newblock In J.W. {de Bakker}, C.~Huizing, W.-P. {de Roever}, G.~Rozenberg
+  (Hrsg.), {\em Real-Time: Theory in Practice}, Band 600 von {\em LNCS}, S.
+  447--484. Springer-Verlag, 1992.
+
+\bibitem[Ost92]{Ost92}
+J.S. Ostroff.
+\newblock Formal methods for the specification and design of real-time safety
+  critical systems.
+\newblock {\em Journal of Systems and Software}, 18(1):33--60, 1992.
+
+\bibitem[Pau94]{Paulson94book}
+L.~C. Paulson.
+\newblock {\em Isabelle: A Generic Theorem Prover}.
+\newblock Springer-Verlag LNCS 828, 1994.
+
+\bibitem[PH88]{Pnu88}
+A.~Pnueli, E.~Harel.
+\newblock Applications of Temporal Logic to the Specification of Real-Time
+  Systems (extended abstract).
+\newblock In M.~Joseph (Hrsg.), {\em Formal Techniques in Real-Time and
+  Fault-Tolerant Systems}, Band 331 von {\em LNCS}, S. 84--98. Springer, 1988.
+
+\bibitem[Phi94]{f-zelle-dipl}
+J.~Phillips.
+\newblock {Spezifikation einer Fertigungszelle - Eine Fallstudie in \sc Focus}.
+\newblock Diplomarbeit, Technische Universit"at M"unchen, 1994.
+
+\bibitem[Pnu86]{Temporal-Logic-Survey}
+A.~Pnueli.
+\newblock Applications of Temporal logic to the specification and verification
+  of reactive systems: A survey of current trends.
+\newblock In G.~Rozenberg J.~W.~de Bakker, W. P. de~Roever (Hrsg.), {\em
+  Currend Trends in Concurrency. Overview and Tutorials.}, Band 224 von {\em
+  Lecture Notes in Computer Science}, S. 510--584, Berlin, 1986. Springer.
+
+\bibitem[Reg94]{Spectrum-Kalkuel}
+F.~Regensburger.
+\newblock {The Calculus of \sc Spectrum}.
+\newblock Technical Report TUM-94xx, Technische Universit"at M"unchen, Juni
+  1994.
+\newblock \fbox{\tt TUM-ftp}.
+
+\bibitem[Rei85]{Petri-Netze}
+W.~Reisig.
+\newblock {\em Petri Nets}.
+\newblock Number~4 in ETACS Monographs on Theoretical Computer Science.
+  Springer, 1985.
+
+\bibitem[RG94a]{Spectrum-Semantik}
+F.~Regensburger R.~Grosu.
+\newblock {The Logical Framework of \sc Spectrum}.
+\newblock Technical Report TUM-9402, Technische Universit"at M"unchen, March
+  1994.
+\newblock \fbox{\tt TUM-ftp}.
+
+\bibitem[RG94b]{Spectrum-Semantik-kurz}
+F.~Regensburger R.~Grosu.
+\newblock {The Semantics of \sc Spectrum}.
+\newblock Technical Report TUM-94xx, Technische Universit"at M"unchen, March
+  1994.
+\newblock \fbox{\tt TUM-ftp}.
+
+\bibitem[Rin94]{Ri94}
+G.~A. Ringwood.
+\newblock A Brief History Of Stream Parallel Logic Programming.
+\newblock {\em Logic Programming}, 7(2):2--4, 1994.
+
+\bibitem[Rum91]{Tubsy}
+B.~Rumpe.
+\newblock Spezifikation eines touristischen Buchungssystems- Eine {\sc
+  Spectrum} Fallstudie.
+\newblock Master's thesis, Technische Universit"at M"unchen, November 1991.
+\newblock \fbox{\tt TUM-ftp}.
+
+\bibitem[Sch94]{Haus-informell}
+C.~Schwarzweller.
+\newblock Requirement specification of an almost automatically steered house.
+\newblock Arbeitspapier, Fachbereich Informatik, Universit"at Kaiserslautern,
+  September 1994.
+
+\bibitem[SDW93]{focus-AC}
+K.~Stolen, F.~Dederichs, R.~Weber.
+\newblock {A}ssumption/{C}ommitment rules for networks of asynchronously
+  communicating agents.
+\newblock Technical Report SFB 342/2/93 A, Technische Universit"at M"unchen,
+  1993.
+
+\bibitem[SH93]{Smo:Hen:93}
+G.~Smolka, M.~Henz.
+\newblock {O}bject-{O}riented {C}oncurrent {C}onstraint {P}rogramming in {O}z.
+\newblock Technischer Bericht, 1993.
+
+\bibitem[Web91]{gas-station}
+R.~Weber.
+\newblock {\em Where can I get gas round here? - An Application of a Design
+  Methodology for Distributed Systems}, Band 490 von {\em LNCS}, S. 143--166.
+\newblock Springer Verlag, 1991.
+
+\bibitem[WGS92]{WiGrSc92}
+J.~Widom, D.~Gries, F.~B. Schneider.
+\newblock Trace-Based Network Proof Systems: Expressiveness and Completeness.
+\newblock {\em ACM Transactions on Programming Languages and Systems},
+  14(3):396--416, 1992.
+
+\bibitem[ZHR91]{CHR91}
+C.~Zhou, C.~A.~R. Hoare, A.~P. Ravn.
+\newblock A calculus of durations.
+\newblock {\em Information Processing Letters}, 40(5):269--276, 1991.
+
+\end{thebibliography}
+
+}}}

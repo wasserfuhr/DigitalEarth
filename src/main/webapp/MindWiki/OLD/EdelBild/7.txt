@@ -1,0 +1,29 @@
+Das Kind des StartUpWeekEnd:
+
+http://edelbild.de/
+
+einige Gesellschafter:
+* CemBasman
+* JanBeckers
+* RainerWasserfuhr
+* ThomasPromny
+* TinaPickhardt
+
+
+Es gibt derzeit [82|http://www.gruenderszene.de/?p=325] EdelBild-ShareHolder. Jeder der ShareHolder hat genau 2 Shares.
+Leider war der Geschaftervertrag der Edelbild Ltd. noch nicht aufzutreiben.
+
+Hier ein kleines virtuelles Orderbuch für das Traden von Edelbild-Shares.
+Disclaimer: Dieses Orderbuch ist völlig virtuell und hat keinerlei rechtliche Verbindlichkeit.
+Es hat lediglich Spielcharakter und soll helfen, per CrowdWisdom den aktuellen Unternehmenswert von EdelBild genauer zu bestimmen.
+
+Teilnahmeberechtigt am Handel sind nur Personen, die BuergerInnen von NooPolis sind.
+Bei Verkaufsangeboten müssen die Certificate-Nummern der angebotenen Shares angegeben werden, so wie sie auf den ausgehändigten Shares angegeben sind.
+
+||Stück||Art||Stückpreis||Währung||Bieter||Shares-Nummern
+|    50|Kauf   |  100|KayGroschen|RainerWasserfuhr|
+|     1|Verkauf| 5000|KayGroschen|RainerWasserfuhr|274
+
+
+|Stk |Geld  |Bieter          |# Shares|Stk  |Brief  |Nachfrager      |Shares-Nummern|Einheit
+|  50|100,00|RainerWasserfuhr|        |5000 |5000,00|RainerWasserfuhr|            74|KayGroschen

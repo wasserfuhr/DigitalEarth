@@ -1,0 +1,8 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Frauenkirche], [DeWikiPedia:Frauenkirche_(Dresden)]
+* BreitenGrad: 51.0518
+* LaengenGrad: 13.74157
+* BoundingBox: 40
+* MindCount: 30
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/26890002
+* HomePage: http://www.frauenkirche-dresden.de/

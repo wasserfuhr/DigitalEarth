@@ -1,0 +1,7 @@
+Faves kennen einige BuergerInnen wahrscheinlich schon von FlickEr, TwittEr oder YouTube.
+
+Im MindWiki müssen die Faves natürlich: Wikiseiten sein! Alle BuergerInnen können MindFaves als MindProps auf ihrer Profilseite angeben. 
+
+Aktuelle MindFaves:
+
+* [{INSERT ReferringPagesPlugin}]

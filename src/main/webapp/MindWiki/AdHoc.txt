@@ -1,0 +1,7 @@
+Brauchen UnterNehmen in NooPolis eine AdHoc-Meldepflicht?
+
+Wenn ja: Über welchen Kanal?:
+* RecentChanges?
+* MindFeeds?
+* MindMessi?
+* TwittEr?

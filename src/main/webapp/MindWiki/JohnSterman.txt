@@ -1,0 +1,17 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:John_Sterman]
+* DbLp: http://dblp.uni-trier.de/rec/pid/65/7071
+* HomePage: http://jsterman.scripts.mit.edu/
+
+PagePath:
+# LeslieLamport
+# [http://dblp.uni-trier.de/db/indices/a-tree/l/Lynch:Nancy_A=.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/f/Fischer:Michael_J=.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/b/Bloniarz:Peter_A=.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/l/Larsen:Kai_R=_T=.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/l/Lee:Younghwa.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/l/Lee:Jintae.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/w/Wyner:George_M=.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/j/Joglekar:Nitin.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/f/Ford:David_N=.html]
+# JohnSterman

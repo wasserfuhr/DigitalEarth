@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Florianturm]
+* BreitenGrad: 51.496389
+* LaengenGrad: 7.476389
+* BoundingBox: 20 

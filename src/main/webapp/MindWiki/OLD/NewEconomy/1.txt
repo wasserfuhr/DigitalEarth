@@ -1,0 +1,9 @@
+||OldEconomy   ||NewEconomy
+|secret        |sharing
+|ArBeit        |Wissen
+|ChainOfCommand|TrustChain
+|TotesHolz     |WikiBasiert
+|No risk       |BeBold
+|Presence      |TelePresence
+|              |NachHaltig
+|              |AchtSam

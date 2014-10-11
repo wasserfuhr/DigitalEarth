@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* HomePage: http://www.altes-wettbuero.de/
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.064334&lon=13.744544&zoom=18&layers=B000FTTT ToDo
+
+MeMo:
+* 20090817: RainerWasserfuhr, RalfLippold: PaulFLevy, BostonMa, BobMetcalfe, PiratenWiki, KeyOne

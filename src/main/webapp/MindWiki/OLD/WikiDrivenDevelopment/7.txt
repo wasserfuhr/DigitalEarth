@@ -1,0 +1,25 @@
+[inspired|http://riehle.org/computer-science/research/2007/wikis4se-2007-ppaper.html] by DirkRiehle and similar to [WikiPedia:Test-driven_development] or [WikiPedia:Model-driven_development]
+MindBroker performs WikiDrivenDevelopment:
+
+* The first prototype of a WebApp is a Wiki.
+* User and data are first created as pages in the wiki. They include:
+** Users themselves
+** Software developers
+** The ([WikiWikiWeb:GoldOwner])
+* Based on RecentChanges typical and RePeat'ed UseCases are identified and automated
+* Ideas for our WebApp's first have a page in the MindWiki.
+* The PageIndex is the foundation for the project glossary and the DomainModel.
+* Structured daten are first captured in the MindWiki as Wiki-Tables, MindTags or MindProps.
+* As soon as a Wiki-Table is edited more frequently, the table columns are used as a first draft of the DomainModel.
+* With the DomainModel we develop a WebApp, which replaces the wiki table
+* Step by step, routine processes in the MindWiki are simplified and the MindFlow is AcCelerate'd.
+* Per MindApi, more and more WebApp's are developed around the MindWiki.
+
+Examples:
+||MindWiki page||WebApp ||DomainModel class
+|BankAccount |http://bank.mindbroker.de|Depot,Payment
+|CitiZens    |http://id.mindbroker.de  |User
+|WechselKurs |http://bank.mindbroker.de|CurrencyAuction
+|WasWyrd     |http://cal.mindbroker.de |
+|MindFloor   |                         |Bid,Ask,ShareOrder,TimesSales
+|DoIt        |bald                     |Item

@@ -1,0 +1,5 @@
+* IsA: PerSon
+* HasTalked: RainerWasserfuhr YvonneSchubert
+|[XingLe:PaulGeorg_Guggemoos]
+
+DresdenExists

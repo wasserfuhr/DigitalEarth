@@ -1,0 +1,5 @@
+* MindTags: ProFessor
+* JahrGang: 1947
+* BirthDay: 01-15
+* HomePage: http://www-madlener.informatik.uni-kl.de/staff/madlener/madlener_en.html
+* ViAf: http://viaf.org/viaf/37476658

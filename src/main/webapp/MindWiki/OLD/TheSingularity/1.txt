@@ -1,0 +1,2 @@
+* MindTags: MindEvent
+* InterWiki: [MeatballWiki:TheSingularity], [WebSeitz:SingularIty], [WikiWikiWeb:TheSingularity]

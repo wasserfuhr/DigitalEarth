@@ -1,0 +1,3 @@
+Seiten mit etymologischen Erklärungen zur Wortherkunft des Seitennamens:
+
+[{INSERT ReferringPagesPlugin}]

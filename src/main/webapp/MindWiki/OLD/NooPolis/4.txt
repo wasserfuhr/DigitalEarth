@@ -1,0 +1,40 @@
+"Mit freiem Volk auf freiem Grund wird stehn"
+
+Die digitale Republik, als NoMic-Game, powered by GoMind.
+
+später http://noopolis.org
+
+
+Ein Bürger, eine ID, ein Login. 
+SingleSignon für eine große Zahl von Webapplikationen.
+
+WebofTrust: Menschen, die einander bekannt sind, können sich das Vertrauen aussprechen und bezeugen, dass dieser Mensch tatsächlich existiert und diesen Namen trägt. 
+
+Welche politischen Interessen sind an eine solche Idee geknüpft?
+Sozialversicherungsnummer
+Gesundheitskarte
+Datenschutz
+
+Prototyp
+*SingleSignon
+*einfaches Profil
+*WebofTrust-Dummmy
+
+NormalAccount
+*SingleSignon
+*ausführliches Profil
+*WebofTrust
+*Einfache Suche 
+
+PremiumAccount
+*SingleSignon
+*WebofTrust
+*Erweiterte Suche
+*Zahlungsfunktion
+
+
+
+
+
+
+

@@ -1,0 +1,44 @@
+* MindTags: ProJect
+* MindLine: 2028
+
+The NewMind project is the ReSearch playground of MindBroker for general ArTelligence.
+
+First thoughts and a very first draft of the architecture on top of the MindWiki:
+
+Some concepts are inspired by the OpenCog architecture:
+* Memory/storage: The memory consists of probabilistic semantic StateMent's stmt(c,s,p,o),
+with a confidence c from [0,1] and a traditional RDF like StateMent (s,p,o).
+** The memory has a dedicated root statement.
+** the memory contains rules, based on [WikiPedia:Semantic_Web_Rule_Language]
+** the memory includes a SemanticWeb wrapper around the MindWiki, and a transitive closure of MindTrust-relationships.
+
+Things that NewMind might do:
+* a ChatBot to ask questions to CitiZens
+* scutter FoAf-profiles of MindPeople
+* fetch their HomePage's and crawl links
+* expand and refine TerraMind
+* trade shares on the MindFloor
+* edit the MindWiki
+* build a WortSchatz
+
+The RDF statements are arranged as a causal hierarchy. The engine continuously computes a "root" belief statement, selected from the set of all known resources, based on a HappiNess function.
+The NewMind has a representation of itself. It can interact with its environment, if external sources make statements about the NewMind.
+
+Modules:
+* Goals:
+** an overall HappiNess function
+** DoIt: list of possible next actions
+** a RoadMap arranging actions into ProJect's
+** ReDo: actions to be done RePeat'edly
+* PerCeive: MindEyes, MindFeeds, FaceBase, VoiceBase
+* Memory:
+** EpisodicMemory
+** SpatialMemory
+** WortSchatz with SemanticWeb-StateMent's
+* InFer'ence
+* Embodiment: TerraMind
+
+The long-term goal is to achieve an immersive simulation of an entire human MiNd.
+It might have a MindApi to the MindEyes of RainerWasserfuhr and other CitiZens.
+
+Additional concepts and thoughts: AvaTar, BlueMan, BlueMind, CogitoErgoSum, MetaMan, PanOrama, RauSing, TerraMind

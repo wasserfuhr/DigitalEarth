@@ -1,0 +1,12 @@
+* MindTags: ProJect
+
+Hier von MartinRoell beschrieben: http://www.roell.net/weblog/archiv/2004/06/22/semantic_travel_planner.shtml
+
+Das MindWiki ist ja schon ein SemanticWiki und hat viele exemplarische
+Testdaten:
+* MindPlace's mit LaengenGrad und BreitenGrad
+* MindPeople mit WohnSitz und MindEvent's im WikiLender
+* BankKonto für PayMent's
+und all dies soll verbunden werden zu einer SemanticEconomy, in der man sogar ein AiGame spielen könnte.
+
+Wie jetzt GetRichQuick?

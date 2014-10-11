@@ -1,0 +1,6 @@
+* Mindtags: MindPlace
+MindBet: Wird MindBroker dort bis 20101231 ein Büro haben? 768m über NormalNull mindestens?
+
+* BreitenGrad: 25.19713
+* LaengenGrad: 55.27411
+* BoundingBox: 50

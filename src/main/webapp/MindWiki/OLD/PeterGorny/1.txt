@@ -1,0 +1,3 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/g/PeterGorny
+* PagePath: ... NorbertStreitz

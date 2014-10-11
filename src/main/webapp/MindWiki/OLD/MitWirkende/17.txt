@@ -1,0 +1,16 @@
+Bisherige MitWirkende:
+
+||Name           ||svn    ||MindMac||SecondLife       ||Xing                 ||BlogLines          ||delicious
+|RainerWasserfuhr |rainer  |neptun  |Ted Christensen   |Xing:Rainer_Wasserfuhr|BlogLines:rainer    |delicious:rainer
+|DanielPoodratchi |daniel  |        |Daniel Foysten    |Xing:Daniel_Poodratchi|BlogLines:danieleP  |delicious:daniele85
+|OliverGassner    |oliver  |        |Oliver Gassner
+|AndreasWeigel    |andreasw|        |B4d4 Bing         |Xing:Andreas_Weigel10 |BlogLines:diplomate |delicious:weigel
+|YvonneSchubert   |yvonne  |        |                  |Xing:Yvonne_Schubert  |yvonneschubert     |pearl
+|ChristineSchlinck|tine    |triton  |Clarisse Schumann
+|RicardaDHerbrand |        |        |
+|HagenStanek      |        |        |Huge Norie
+
+
+neu hinzukommen werden voraussichtlich:
+* MichaelBohner (=cc-snake000-at-gmx.de) - JSP, JS Developer
+* AurelienEyoum Eyoum (=aurelien.eyoum-at-googlemail.com) - CSS & HTML, https://www.xing.com/profile/Aurelien_Eyoum/

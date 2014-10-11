@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* HomePage: http://www.golfanlage-ullersdorf.de/
+* BreitenGrad: 51.073968
+* LaengenGrad: 13.896248
+* BoundingBox: 1400
+* GraDient: 90
+* SlimNess: 0.7

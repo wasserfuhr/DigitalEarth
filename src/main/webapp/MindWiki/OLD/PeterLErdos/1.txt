@@ -1,0 +1,4 @@
+* IsA: PerSon
+* HomePage: http://www.renyi.hu/~elp/
+* PageNumber: 15
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann WolfgangBibel KlausPJantke BernhardThalheim KlausDieterSchewe SebastianLink SvenHartmann UweLeck ChristianBey RudolfAhlswede PeterLErdos

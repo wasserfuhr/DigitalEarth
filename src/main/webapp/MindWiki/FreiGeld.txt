@@ -1,0 +1,3 @@
+* InterWiki: [DeWikiPedia:Umlaufgesichertes_Geld]
+
+Da die PieschenBank ja alle PayMent's mit Zeitstempel gespeichert hat, könnte FreiGeld so aussehen, dass Beträge auf einem BankKonto einer FreiGeld-Steuer unterliegen wenn sie länger als X nicht zwischen BuergerInnen und/oder UnterNehmen geflossen sind. Das wäre auch gut für die StickyNess.

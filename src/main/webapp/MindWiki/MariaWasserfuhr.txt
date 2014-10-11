@@ -1,0 +1,3 @@
+* IsA: PerSon
+* BornIn: 1910
+* BirthDay: 05-14

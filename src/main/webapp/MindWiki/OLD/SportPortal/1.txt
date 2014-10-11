@@ -1,0 +1,10 @@
+Der zu Beginn festgelegte [ProjectCodeName|http://c2.com/cgi/wiki?ProjectCodeName]: spot.
+
+Der Sourcecode: svn://svn.mindbroker.de/opensource/de.mindbroker.spot/
+
+Das [websvn|http://websvn.mindbroker.de/directoryContent.jsp?url=de.mindbroker.spot%2Ftrunk] zum Sourcecode.
+(Die [zentralen Hibernate-Klassen|http://websvn.mindbroker.de/directoryContent.jsp?url=de.mindbroker.spot%2Ftrunk%2Fsrc%2Fmain%2Fjava%2Fde%2Fmindbroker%2Fspot%2Fejb]).
+
+Das Maven-POM als Startpunkt für alle Doku und Entwicklungsschritte: svn://svn.mindbroker.de/opensource/de.mindbroker.spot/trunk/pom.xml
+
+Vorläufiger Vorschlag für die Domain: http://sport.mindbroker.de

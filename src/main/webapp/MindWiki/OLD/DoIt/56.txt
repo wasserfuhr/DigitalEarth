@@ -1,0 +1,60 @@
+Welcher MindBroker mit CommitMent macht was?
+
+Wichtigste Items zuerst:
+||OrderedByShares||h||Project    || %||do       ||it
+|RainerWasserfuhr| 1|MindId      |  0|code      |automatisches Backup
+|RainerWasserfuhr| 3|PieschenBank| 60|code      |WechselKurs-Auktionen
+|RainerWasserfuhr| 4|UnserGrid   |  0|code      |automatisches Backup
+|RainerWasserfuhr| 4|InBox       |  0|code      |Alpha
+|RainerWasserfuhr| 1|PieschenBank|  0|code      |automatisches Backup
+|RainerWasserfuhr| 1|MindId      |  0|fixe      |Login redirect aus AgWiki heraus
+|RainerWasserfuhr| 1|MindFee     |  0|code      |automatisches Build
+|RainerWasserfuhr| 4|MindId      |  0|code      |MindTrust
+|RainerWasserfuhr| 1|MindId      |  0|code      |Funktion für online/offline Status der user
+|RainerWasserfuhr| 1|UnserGrid   | 50|code      |MicroFormat-Status
+|DanielPoodratchi| 1|MindBroker  |  0|reviewe   |VerTrag und CommitMent
+|DanielPoodratchi| 1|DoIt        |  0|joine     |FaceBook und dort die Group MindBroker
+|DanielPoodratchi| 3|PieschenBank|  0|code      |Auktionen für WechselKurs
+|DanielPoodratchi| 4|UnserGrid   |  0|code      |MindCss
+|DanielPoodratchi| 4|AgWiki      |  0|code      |MindCss
+|DanielPoodratchi| 4|MindFloor   |  0|code      |MindCss
+|DanielPoodratchi| 4|MindHome    |  0|code      |MindCss
+|DanielPoodratchi| 4|GeoMindBroker|  0|code      |MindCss
+|DanielPoodratchi|20|MindId      |  0|code      |picUpload
+|DanielPoodratchi| 4|UnserGrid   |  0|code      |RSS Feed
+|DanielPoodratchi| 1|DoIt        |  0|frage     |Rainer zu Problem zu ContextSort (rede mit Daniel darüber)
+|DanielPoodratchi| 1|DoIt        |  0|integriere|MindLine
+|DanielPoodratchi| 4|DoIt        |  0|migriere  |Jedes Item dieser Tabelle als DoIt-Item
+|DanielPoodratchi| 4|DoIt        |  0|integriere|Seitenwechsel
+|DanielPoodratchi| 4|DoIt        |  0|erstelle  |die Seite "Konfiguration" 
+|DanielPoodratchi| 4|DoIt        |  0|integriere|export Funktion für DoIt zu iCal (ics)
+|DanielPoodratchi| 4|DoIt        |  0|integriere|Projects
+|AndreasWeigel   | 4|DoIt        |  0|integriere|bessere DetailAnsicht von den ToDos (schon besprochen)
+|AndreasWeigel   | 2|DoIt        |  0|integriere|DoJo DatePicker
+|AndreasWeigel   | 2|DoIt        |  0|erstelle  |Haken für dropDownMenüs
+|YvonneSchubert  | 3|NooPolis    |  0|tue       |YvonneRuftAn
+|YvonneSchubert  | 3|VebMind     |  0|konzipiere|DueckWiki
+|YvonneSchubert  |10|MindBrokerAg|  0|organisiere|BdCs
+|YvonneSchubert  |20|MindBrokerAg|  0|organisiere|MindSalon
+|JuergenKohn     |99|SportWiki   |  0|vermarkte |
+|JuergenKohn     | 1|SportPortal |  0|installiere|Eclipse
+|JuergenKohn     | 2|SportPortal |  0|reviewe   |OtherLand
+|JuergenKohn     | 4|SportPortal |  0|reviewe   |VerTrag
+|NoName          | ?|SportPortal |  0|code      |Suche von Usern, Clubs, Teams
+|NoName          | ?|SportPortal |  0|code      |Anzeige von User, die zuletzt auf meinem Profil waren
+|NoName          | ?|SportPortal |  0|code      |Profile von Clubs, Teams
+|NoName          | ?|SportPortal |  0|code      |mehrere Admins von Clubs und Teams
+|NoName          | ?|SportPortal |  0|code      |Fotoalben für User, Teams und Clubs
+|NoName          | ?|MindId      |  0|code      |message: "Du bist nicht eingeloggt" && "Auf diese Seite hast du nur Zugriff, wenn du eingeloggt bist"
+|NoName          | ?|MindId      |  0|code      |Anzeige von Freunden, die gerade online sind
+|NoName          | ?|MindId      |  0|code      |Passwort vergessen
+|NoName          | ?|MindId      |  0|code      |
+
+
+Später diese WikiSpec als WebAbb; Alpha: http://doit.mindbroker.de/
+svn://svn.mindbroker.de/opensource/de.mindbroker.doit
+
+Alternativen:
+* http://mein.todooo.com/
+* http://vitalist.com/
+* http://gopingme.com/

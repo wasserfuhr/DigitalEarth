@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Wolfgang_Schuster]
+* BirthDay: 09-05
+* EnsId: http://www.okkam.org/ens/id12c56725-6bb5-45c8-b421-8caa007092af
+* ParteiWiki: CduWiki

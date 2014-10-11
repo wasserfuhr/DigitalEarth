@@ -1,0 +1,5 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Adolf_Hitler]
+* Born: 1889
+* BirthDay: 04-20
+* DiedIn: 1945

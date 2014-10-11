@@ -1,0 +1,7 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Niklas_Luhmann]
+* ViAf: http://viaf.org/viaf/29546145
+* JahrGang: 1927
+* BirthDay: 12-08
+* LebensEnde: 1998
+* MindSkill: ZettelKasten, DiFer, ComPlex

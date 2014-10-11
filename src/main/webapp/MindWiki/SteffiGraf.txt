@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* InterWiki: [OpenCyc:SteffiGraf-TennisPlayer]
+* BirthDay: 06-14
+* MindSkill: TieBreak

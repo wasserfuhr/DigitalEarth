@@ -1,0 +1,3 @@
+* NamedAfter: SmartCar
+
+AntiPattern: Throwing a SmartCar into a gracht in AmsterDam ;)

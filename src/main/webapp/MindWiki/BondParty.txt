@@ -1,0 +1,4 @@
+* IsA: EventSeries
+* NamedAfter: JamesBond
+
+RoeschenHof

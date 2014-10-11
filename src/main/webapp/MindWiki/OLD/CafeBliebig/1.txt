@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+
+TotalRecall: Themen eines Gespräches, das an und nahe diesem Ort geführt wurde:
+IndustryFoundationClasses, BuildingModel, SemanticWeb, NeuStadt, XingBus, NooPolis, 
+LebensErwartung, LongBetOne, BioMind, GoogleMind, MattiHannus, IslandsOfAutomation,
+IslandsOfHumanIntelligence, FaceBook, XingLe, ShaneLegg, FoAf, DresdenChess, MindTower,
+SkyPe.

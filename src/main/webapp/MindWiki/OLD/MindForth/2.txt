@@ -1,0 +1,4 @@
+* MindTags: ProJect
+* InterWiki: [AgiriWiki:MindForth]
+* HomePage: http://code.google.com/p/mindforth/
+* MindOne: ArthurTMurray

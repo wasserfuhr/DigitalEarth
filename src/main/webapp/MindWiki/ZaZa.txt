@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* HomePage: http://www.zaza.de/
+* InterWiki: [DdWiki:ZAZA_Café_Kultur_Quartier]
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/306473598

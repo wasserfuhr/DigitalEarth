@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:William_Shakespeare] [OpenCyc:WilliamShakespeare] [WikiWikiWeb:WilliamShakespeare]
+* BornIn: 1564
+* DiedIn: 1616

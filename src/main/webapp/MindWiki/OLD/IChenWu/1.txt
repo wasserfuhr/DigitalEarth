@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/06/983
+* HomePage: http://java.csie.nctu.edu.tw/~icwu/
+* PageNumber: 12
+* PagePath: LarryPage TerryWinograd NorbertStreitz WendyHall JimHandler WolfgangWahlster ArminBCremers OttoMayer HermannMaurer JuergenAlbert MarcEbner RichardWallace IChenWu

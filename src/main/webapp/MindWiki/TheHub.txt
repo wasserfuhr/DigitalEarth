@@ -1,0 +1,16 @@
+* InterWiki: [ThoughtStorms:TheHub]
+* HomePage: http://www.the-hub.net/
+* MindOne: JonathanRobinson
+
+||ComPare    ||TheHub      ||NooPolis
+|HeadQuarters|HubIslington |LockOffice
+|MindPlace's |London Soweto Cairo Bristol TelAviv SaoPaulo BrusSels JohannesBurg NewYork ShangHai RotterDam StadtBerlin
+|            |HubSpace     |LockSchuppen
+|            |HubLibrary   |MindBib
+|            |HubAngel     |WikiAngel
+|            |HubContract  |VerTrag
+|            |HubGovernance|CabiNet
+|            |HubPassport  |MindId
+|            |HubPlus      |MindWiki
+|            |HubHost      |WikiPate
+|            |MicroHotel   |MindHotel

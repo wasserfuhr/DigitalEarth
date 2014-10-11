@@ -1,0 +1,37 @@
+* MindTags: PredictionMarket
+* InterWiki: [DeWikiPedia:Präsidentschaftswahl_in_den_Vereinigten_Staaten_2008], [WebSeitz:PresidentialCandidates2008], [WikiPedia:United_States_presidential_election,_2008]
+
+For CitiZens of NooPolis, PieschenBank will soon start a PredictionMarket for the UsElection08:
+
+!The shares:
+* BarackObama
+* JohnMcCain
+
+!The rules:
+* For each candidate there is a stock with 1000 Shares
+* You can invest an amount of x KayGroschen into each stock.
+* They are IPO-issued by PieschenBank. You can initially buy them for 1 KayGroschen per share. (JoinNow to obtain a BankAccount with WelcomeMoney)
+* You can trade your shares with other CitiZens.
+* The sum of all shares sold by PieschenBank is payed to the ShareHolder's of the winning candidate.
+* The shares of the winner of the UsElection08 will be bought back by PieschenBank for 5 KayGroschen per share after being officially declared at WikiPedia.
+* The shares of the other candidates will be worthless. 
+
+Check out soon: http://bank.mindbroker.de/orders
+
+Former candidates:
+* BillRichardson
+* ChrisDodd
+* DennisKucinich
+* DuncanHunter
+* FredThompson
+* JoeBiden
+* JohnEdwards
+* MittRomney
+* RudolphGiuliani
+* SamBrownback
+* TomTancredo
+* MikeGravel
+* MikeHuckabee
+* AlanKeyes
+* HillaryClinton
+* RonPaul

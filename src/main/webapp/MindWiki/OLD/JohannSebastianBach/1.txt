@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Johann_Sebastian_Bach] [OpenCyc:JohannSebastianBach] [WikiWikiWeb:JohannSebastianBach]
+* BornIn: 1685
+* BirthDay: 03-21
+* ViAf: http://viaf.org/viaf/12304462

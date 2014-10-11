@@ -1,0 +1,3 @@
+* MindTags: FutureCard
+* CardOwner: JoergKeller
+* UnTil: 2028

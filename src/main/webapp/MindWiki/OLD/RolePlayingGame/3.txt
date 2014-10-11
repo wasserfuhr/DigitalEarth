@@ -1,0 +1,11 @@
+* InterWiki: [DeWikiPedia:Rollenspiel_(Spiel)]
+
+Current roles of NooPolis:
+||CitiZen         ||Roles
+|ChristineSchlinck|MinisTer
+|JanBoehme        |MinisTer
+|JanKreuter       |EntrePreneur
+|HeikeRibke       |MinisTer
+|RainerWasserfuhr |SerialEntrepreneur,WikiAngel,BankDirektor
+|RalfLippold      |EntrePreneur
+|ThomasKujawa     |EntrePreneur

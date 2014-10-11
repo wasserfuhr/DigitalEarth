@@ -1,0 +1,3 @@
+* IsA: MindEvent
+* InterWiki: [DeWikiPedia:Landtagswahl_in_Nordrhein-Westfalen_2010]
+* MindPlace: NordrheinWestfalen

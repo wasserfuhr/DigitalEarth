@@ -1,0 +1,15 @@
+* InspiredBy: PhotoSynth
+
+ConNect 3D points across 2D pictures and calculate an entire WorldModel.
+
+||Point||px||px||ObJect
+|DsCf1649|1103|533|WestMainWindowTop
+|DsCf1649|1207|506|MainWindowTop
+
+* ViewPoint v=(vx,vy,vz)
+* ViewDirection d=(dx,dy,dz)
+* WorldPoint w=(wx,wy,wz)
+* GraDient g
+* PicturePoint p=(px,py)
+
+[WikiPedia:Photogrammetry]

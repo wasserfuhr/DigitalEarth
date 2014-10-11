@@ -1,0 +1,14 @@
+* MindTags: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Stephen_Wolfram]
+* BirthDay: 08-29
+
+
+|JackDongarra|http://dblp.uni-trier.de/db/indices/a-tree/d/Dongarra:Jack.html
+|HenriCasanova ahttp://dblp.uni-trier.de/db/indices/a-tree/c/Casanova:Henri.html
+| |http://dblp.uni-trier.de/db/indices/a-tree/c/Chien:Andrew_A=.html
+|KaramchetiVijay http://dblp.uni-trier.de/db/indices/a-tree/k/Karamcheti:Vijay.html
+|DenisZorin http://dblp.uni-trier.de/db/indices/a-tree/z/Zorin:Denis.html
+|BiermannHenning http://dblp.uni-trier.de/db/indices/a-tree/b/Biermann:Henning.html
+|http://dblp.uni-trier.de/db/indices/a-tree/b/Bregler:Christoph.html
+|http://dblp.uni-trier.de/db/indices/a-tree/o/Omohundro:Stephen_M=.html
+|WolframStephen http://dblp.uni-trier.de/db/indices/a-tree/w/Wolfram:Stephen.html

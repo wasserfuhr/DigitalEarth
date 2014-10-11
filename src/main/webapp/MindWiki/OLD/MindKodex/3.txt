@@ -1,0 +1,7 @@
+Die Regeln von MindBroker.
+
+später http://kodex.mindbroker.de
+
+* CodeIsLaw: Die Regeln der MindBrokerAg ergeben sich aus dem SourceCode. Auf Anfrage können die SourceCode-Committer ihn erläutern. 
+* FixBugsFirst: UnsereBugs.
+* Mit Ausnahme von [[Mind]] ist jeder PageName im AgWiki CamelCase.

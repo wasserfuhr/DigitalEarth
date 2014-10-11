@@ -1,0 +1,2 @@
+* InterWiki: [WikiPedia:Stylometry]
+* InspiredBy: http://www.riehle.org/2008/07/14/author-obfuscation/

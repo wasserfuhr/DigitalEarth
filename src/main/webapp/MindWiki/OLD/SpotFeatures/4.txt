@@ -1,0 +1,22 @@
+general Social Network features
+* Suche
+* UserProfile
+* Freunde hinzufügen
+* Wer kennt wen über wen
+* Nachrichten schicken
+* Gruppen
+
+
+
+spot 1.0 features
+* "Eltern Gruppen" - Ein Club (Eltern Gruppe) kann mehrere Mannschaften (Kinds Gruppen) haben
+
+
+future spot features
+
+
+ToBeDiscussed:
+* Wie soll das Akzeptieren von Kontakten gehandhabt werden?
+** "Xing-Modell": Ein Kontakt wird nur für andere User sichtbar, wenn A anfrägt und B zustimmt. 
+** "flickr": A kann Kontakt von B sein, B muss aber nicht von A.
+* "Kontakt" und "Fan" umbenennen?

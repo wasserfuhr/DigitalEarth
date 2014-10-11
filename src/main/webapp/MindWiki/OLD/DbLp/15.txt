@@ -1,0 +1,95 @@
+* InterWiki: [DeWikiPedia:Digital_Bibliography_%26_Library_Project]
+* HomePage: http://dblp.uni-trier.de/
+* MindOne: MichaelLey
+
+ToDo: move as MindProps to their WikiPage:
+
+LarryPage:
+* DbLp: http://dblp.uni-trier.de/rec/pid/p/LawrencePage
+
+JustinRattner:
+* DbLp: http://dblp.uni-trier.de/rec/pid/20/1867
+
+LarryEllison:
+* DbLp: http://dblp.uni-trier.de/rec/pid/95/1676
+
+NielsBirbaumer:
+* DbLp: http://dblp.uni-trier.de/rec/pid/36/991
+
+NilGeisweiller:
+* DbLp: http://dblp.uni-trier.de/rec/pid/66/981
+
+PaulErdos:
+* DbLp: http://dblp.uni-trier.de/rec/pid/e/PErdos
+
+PeterChen:
+* DbLp: http://dblp.uni-trier.de/rec/pid/c/PPChen
+
+PeterKatranuschkov:
+* DbLp: http://dblp.uni-trier.de/rec/pid/94/1038
+
+PeterNorvig:
+* DbLp: http://dblp.uni-trier.de/rec/pid/n/PeterNorvig
+
+RaimarScherer:
+* DbLp: http://dblp.uni-trier.de/rec/pid/91/2959
+
+RayKurzweil:
+* DbLp: http://dblp.uni-trier.de/rec/pid/67/6969
+
+ReinhardSelten:
+* DbLp: http://dblp.uni-trier.de/rec/pid/97/1695
+
+RobertAmor:
+* DbLp: http://dblp.uni-trier.de/rec/pid/66/1681
+
+SergeyBrin:
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/SergeyBrin
+
+ShaneLegg:
+* DbLp: http://dblp.uni-trier.de/rec/pid/36/5739
+
+SoerenStamer:
+* DbLp: http://dblp.uni-trier.de/rec/pid/87/5905
+
+StefanAgne:
+* DbLp: http://dblp.uni-trier.de/rec/pid/54/5190
+
+StefanDecker:
+* DbLp: http://dblp.uni-trier.de/rec/pid/d/StefanDecker
+
+SteffenHoelldobler:
+* DbLp: http://dblp.uni-trier.de/rec/pid/48/415
+
+StephanSchmidt:
+* DbLp: http://dblp.uni-trier.de/rec/pid/55/3842
+
+SvenEricSchapke:
+* DbLp: http://dblp.uni-trier.de/rec/pid/84/3829
+
+SvenSchwarz:
+* DbLp: http://dblp.uni-trier.de/rec/pid/66/1656
+
+ThiloWeichert:
+* DbLp: http://dblp.uni-trier.de/rec/pid/79/904
+
+TimBl:
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/TimBernersLee
+
+UlrikeBeckerKornstaedt:
+* DbLp: http://dblp.uni-trier.de/rec/pid/44/5073
+
+WardCunningham:
+* DbLp: http://dblp.uni-trier.de/rec/pid/09/5151
+
+WolfgangBibel:
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/WBibel
+
+WolfgangMaass:
+* DbLp: http://dblp.uni-trier.de/rec/pid/m/WolfgangMaass
+
+WolfgangWahlster:
+* DbLp: http://dblp.uni-trier.de/rec/pid/w/WolfgangWahlster
+
+ZigaTurk:
+* DbLp: http://dblp.uni-trier.de/rec/pid/15/960

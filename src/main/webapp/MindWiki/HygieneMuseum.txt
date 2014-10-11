@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* InterWiki: [DdWiki:Deutsches_Hygienemuseum] [DeWikiPedia:Deutsches_Hygiene-Museum]
+* HomePage: http://www.dhmd.de/

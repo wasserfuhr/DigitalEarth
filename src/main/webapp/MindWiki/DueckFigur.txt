@@ -1,0 +1,4 @@
+Die Figuren im RealFilm sind evtl auch DueckGefaerbt:
+* TrueMan: WahrerMensch
+* BlueMan: NatuerlicherMensch
+* DarkMan: NatuerlicherMensch

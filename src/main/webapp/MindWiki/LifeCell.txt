@@ -1,0 +1,9 @@
+* IsA: ProJect
+
+Modulare ConTainer für ObDach und ArBeit.
+
+Prototyp: LifeCellOne.
+
+mal LuigiColani fragen.
+
+ContainerRevolution for RealEstate

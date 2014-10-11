@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Mihaly_Csikszentmihalyi] [WebSeitz:MihalyCsikszentmihalyi] [WikiPedia:Mihály_Csíkszentmihályi] [WikiWikiWeb:MihalyCsikszentmihalyi]
+* MindQuote: "chick-sent-me-high-ee"
+* BornIn: 1934
+* BirthDay: 09-29
+* MindSkill: MindFlow

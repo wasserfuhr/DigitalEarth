@@ -1,0 +1,70 @@
+* SprachWelt: english: NooPolisFaq
+
+!About
+* Was ist der Nutzen von NooPolis? Warum soll ich mich anmelden?
+** Du kannst ein spannendes Projekt von Beginn an mit gestalten und KayGroschen verdienen.
+** Du kannst Dich mit einigen holden Köpfen Connecten: ConnectingBeautifulMinds.
+* Wer hatte die Idee?
+** RainerWasserfuhr + wertvolles Feedback anderer BuergerInnen.
+* Wie entstand die Idee für NooPolis?
+** Die Idee entstand [hier|http://www.flickr.com/photos/rainerw/308191869/]
+* Wieviele Leute seid ihr?
+** Anfang Mai 2009: 70 BuergerInnen
+* Wieso haben so viele Wörter Grossbuchstaben in der Wortmitte?
+** das ist CamelCase
+* Wie kann ich das MindWiki bearbeiten?
+** Du musst die RechteUndPflichten akzeptieren, von bestehenden BuergerInnen eingeladen werden und der VerFassung zustimmen.
+* (Wie) wollt ihr Geld verdienen?
+** Indem alle BuergerInnen ein BankKonto mit KayGroschen erhalten und wir gemeinsam den WechselKurs der KayGroschen auf dem BankKonto im Vergleich zum EuRo oder UsDollar steigern. Wer ShareHolder von UnterNehmen in NooPolis ist, kann KayGroschen oder EuRo ausgeschüttet bekommen.
+* Seit wann gibt es NooPolis?
+** NooPolis startete im Sommer 2007 und wird seitdem ständig ausgebaut.
+* Ich verstehe einige Wikieinträge nicht. Worum geht es eigentlich?
+** Wenn Du im MindWiki etwas nicht verstehst: Frage RainerWasserfuhr oder andere MitWirkende.
+* Was bedeutet der Name NooPolis?
+** Der Name hat seine Wurzeln in der [griechischen Antike|http://de.wikipedia.org/wiki/Polis] und der NooSphere von TeilhardDeChardin.
+* Warum ist in der VerFassung von NooPolis VirtuelleOekonomie bis Ende 2012 begrenzt?
+** Weil wir derzeit noch nicht wissen, ob und in wieweit eine VirtuelleOekonomie mit den Gesetzen in DeutschLand und EurOpa realisierbar wäre, wenn sie unbefristet existieren würde. Bis dahin ist NooPolis ein KunstWerk und eine spielerische StartUpSim-Simulation.
+* Kann sich das LebensEnde von NooPolis ändern?
+** Sofern die BuergerInnen und ihre VerFassung dies wünschen: ItsaWiki! ;)
+
+!Politik
+* Ist NooPolis eine Demokratie?
+** NooPolis ist eine MicroNation mit BuergerBeteiligung
+** Bei der UrWahl haben alle BuergerInnen mit Mindest-VerMoegen *gleiches* Stimmrecht.
+
+!Währung und Wirtschaft
+* Warum gibt es in NooPolis überhaupt eine virtuelle Währung und nicht EinFach EuRo oder UsDollar?
+** Weil ein Spiel mit KayGroschen viel stärker die Fantasie der MitWirkende'n fördert.
+* Was kann ich mit KayGroschen machen?
+** Du Dienste im MindShop kaufen oder Aktien auf dem MindFloor handeln
+** gründe UnterNehmen
+* Muss ich mein Guthaben auf meinem BankKonto versteuern?
+** Die VerFassung sieht derzeit keine Steuern vor.
+* Wie ist die VirtuelleOekonomie an die reale Wirtschaft anschlussfähig?
+** Durch Tausch von EuRo in KayGroschen. Später vielleicht auch umgekehrt.
+* Wie kann in NooPolis ein Projekt mit Beteiligung von Siemens&Co stattfinden?
+** Sobald Siemens&Co eine AusLand's-Niederlassung in NooPolis gründet.
+* Ist die Eintragung im NooPolis-HandelsRegister dieselbe wie im echten HandelsRegister?
+** Nein. NooPolis ist eine virtuelle MicroNation mit eigener VerFassung. Wenn Du eine MindId hast, kannst Du die VerFassung aber editieren.
+
+!Sonstiges
+* Warum kann ich in NooPolis meine bereits vorhandene OpenId nicht verwenden?
+** Das wird später möglich sein. WerdeMindBroker und hilf uns bei der Implementierung!
+* Kann ich mich mit der NooPolis-MindId auf allen OpenId-fähigen Seiten einloggen?
+** Ja, das soll bald möglich sein. WerdeMindBroker und hilf uns bei der Implementierung!
+* Kann ich eine Benachrichtigung bekommen, wenn ich neue Mail in meiner InBox habe?
+** Vorerst nicht, später eventuell. Als Zwischenlösung: Lass Dich von BuergerInnen in den MindChat einladen.
+* Wie sicher sind meine Daten bei euch?
+** Unsere Software ist OpenSource. Auf jeder Seite gibt es ViewSource. Hast Du Verbesserungsvorschläge? WerdeMindBroker und hilf uns bei der Implementierung!
+* Seid ihr nicht bloß ein StudiVz-Klon?
+** doch, aber ohne gruscheln
+* Seid ihr nicht bloß ein XingLe-Klon?
+** doch, aber wir nennen "Profilbesuche" wenigstens TraumPartner-Suche.
+* Seid ihr nicht bloß ein FaceBook-Klon?
+** doch, aber ohne MindPhp
+* Betreibt ihr ein Glücksspiel?
+** selbstverständlich, wir sind eine glückliche SpielWiese.
+* Gründet ihr eine Aktiengesellschaft?
+** Die Gründung einer AhGe hatten wir 2006 geprüft, dann aber wegen der unbefriedigenden gesetzlichen Spielräume im Sommer 2007 verworfen.
+* Ihr benennt Euer ProJekt nach dem Begriff eines Jesuiten? Seid Ihr eine Sekte?
+** Die ReLigio von NooPolis heißt FreiHeit und AisThesis.

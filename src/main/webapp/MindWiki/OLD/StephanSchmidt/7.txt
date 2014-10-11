@@ -1,0 +1,9 @@
+* IsA: UnternehmensGruender WikiMind
+* InterWiki: [WikiWikiWeb:StephanSchmidt]
+* DbLp: http://dblp.uni-trier.de/rec/pid/55/3842
+* HomePage: http://www.codemonkeyism.com/
+* MindBlog: http://stephan.reposita.org/
+* PastProjects: SnipSnap
+|[XingLe:Stephan_Schmidt3]
+|[FaceBook:1246411370]
+|[TwittEr:codemonkeyism]

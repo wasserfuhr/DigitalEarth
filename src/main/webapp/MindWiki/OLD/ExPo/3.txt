@@ -1,0 +1,1 @@
+WirWollen nicht immer exponentiell denken. Manchmal ist Enthaltsamkeit besser: NullWachstum. SigMoid.

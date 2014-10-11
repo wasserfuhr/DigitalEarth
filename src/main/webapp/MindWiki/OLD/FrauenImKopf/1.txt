@@ -1,0 +1,5 @@
+Selbstähnlichkeit BeuteSchema ArcheTyp 
+
+CaseBased reasoning [WikiPedia:Abductive_reasoning]
+
+Optimierung der Varianz für Reproduktion.

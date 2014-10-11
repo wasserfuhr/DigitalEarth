@@ -1,0 +1,20 @@
+Redet nicht immer so lange rum, sonst gibt es eine LoewenJagd.
+
+Je unsicherer etwas ist, desto wichtiger ist es, sich klar zu machen, wie man das Unsichere einschätzt.
+
+Eine ErWartung hat daher:
+# wahrscheinlichster Wert
+# Unsicherheit oder [DeWikiPedia:Varianz] (in Prozent)
+
+Beispiel: vergangene DealFutures-GeheimKosten von Google für JaiKu: 30m USD, Varianz 25%.
+
+ErWartung der Zahl der BuergerInnen:
+|20071231|YvonneSchubert   |30
+|20071231|EvaLubas         |43
+|20071231|HeikeRibke       |50
+|20071231|ChristineSchlinck|50
+|20081231|YvonneSchubert   |150
+|20081231|EvaLubas         |220
+|20081231|ChristineSchlinck|300
+|20081231|HeikeRibke       |500
+|20101231|HeikeRibke       |10000

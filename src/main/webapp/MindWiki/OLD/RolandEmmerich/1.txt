@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* MindSkill: ReadFilm
+* MindQuote: "Das Spielbergle aus Sindelfingen"

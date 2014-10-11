@@ -1,0 +1,9 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Marissa_Ann_Mayer]
+* BornIn: 1975
+* BirthDay: 05-30
+* DbLp: http://dblp.uni-trier.de/rec/pid/80/5451
+* PageNumber: -1
+|[TwittEr:marissamayer]
+
+OrkutProfile:11896824899287314528

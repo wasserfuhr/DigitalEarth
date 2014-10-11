@@ -1,0 +1,3 @@
+* IsA: MindStreet
+* InterWiki: [DeWikiPedia:Bundesstraße_506]
+* ConnectsTo: StadtKoeln LamsFuss SchniffelsHoeh WipperFuerth

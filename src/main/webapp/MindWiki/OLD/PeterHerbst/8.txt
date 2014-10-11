@@ -1,0 +1,13 @@
+* JahrGang: 1971
+* BirthDay: 10-11
+* WohnSitz: StrieSen
+* TimeZone: CEST
+* SprachWelt: de, en-1, AugenSprache
+* MindBrowser: FireFox, SRWareIron, Ie8
+* MindSkill: GroundView, KnowLedge for bank, finance, ProzessOptimierung, ChangeManagement, ERP-CRM-Einführung, ProjectManagement
+* WorkPlaces: StadtDresden, StuttGart, FrankFurt
+* WorkFields: BaKer, BanK, MechanicalEngineer'ing-Company, IT-ServiceCompany
+* InvitedBy: RainerWasserfuhr
+||AusLand
+|[XingLe:Peter_Herbst2]
+|[SkyPe:pit_autumn]

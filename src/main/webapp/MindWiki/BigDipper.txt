@@ -1,0 +1,10 @@
+* InterWiki: [OpenCyc:BigDipper-Asterism], [WikiPedia:Big_Dipper]
+
+|| ||    ||MindLight||Distance
+|α|Dubhe |1.8|124
+|β|Merak |2.4| 79
+|γ|Phecda|2.4| 84
+|δ|Megrez|3.3| 81
+|ε|Alioth|1.8| 81
+|ζ|Mizar |2.1| 78
+|η|Alkaid|1.9|101

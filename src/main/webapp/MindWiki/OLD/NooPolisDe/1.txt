@@ -1,0 +1,16 @@
+* WorldLanguages: english: NooPolis, español: NooPolisEs
+
+!NooPolis ist:
+* ein experimentell-künstlerisch-spielerisches Projekt, um neue Formen digitaler SocialNetwork's auszuprobieren
+
+!NooPolis will:
+* eines der einfachsten und TransParent'esten virtuellen Wirtschafts-, Rechts- und Politiksysteme auf PlanetErde schaffen,
+* seinen BuergerInnen eine Plattform bieten für digitale Identität, VerTrauen, FreiHeit, VerAntwortung und AchtSam'keit, 
+* eine VirtuelleOekonomie schaffen für UnterNehmen, deren Produkte und Services das virtuelle Zusammenleben der Bürger fördern,
+* Orte und Menschen aus dem RealLife der GegenWart spielerisch mit fiktiven, aber prinzipiell denkbaren Orten der näheren und ferneren ZuKunft verbinden,
+* die Schaffung futuristischer KunstWerk'e fördern,
+* die LebensErwartung aller BuergerInnen verbessern und ihren LastWill achten
+
+!!Dazu gibt sich NooPolis seine: VerFassung.
+
+!Weitere Fragen zu NooPolis?: NooPolisFaq

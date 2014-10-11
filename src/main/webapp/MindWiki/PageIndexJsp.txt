@@ -1,0 +1,16 @@
+PageIndex-MindApi via JspWiki patch:
+{{{
+<%@ page import="
+java.io.File,
+java.util.Arrays"%><%
+File dir = new File("/home/insider/wiki");
+String fs[]=dir.list();
+Arrays.sort(fs);
+for (String f:fs) {
+  if (f.endsWith(".txt") ) {
+    %> <%=f.substring(0,f.length()-4)%> <%
+  }
+}%>
+}}}
+
+result: http://mindbroker.de/pageIndex.jsp

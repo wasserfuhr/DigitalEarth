@@ -1,0 +1,23 @@
+* IsA: MindBook
+* MindTag: ErZaehlung
+* IsBn: 978-3-456-84513-5
+* KarlFWender GuenterDanielRey
+
+hat in Kapitel 5 interessante Überlegungen zur neuronalen Repräsentation von Zahlen.
+
+Offensichtlich nutzt das HuMan'e GeHirn keine effizienten binären oder nur
+ansatzweise dezimale Kodierungen. Daher kann es so schlecht rechnen.
+Und so schlecht erinnern.
+
+Ein handelsüblicher Chip für ein paar dutzend UsDollar hat leicht eine milliardenfach höhere
+Rechenleistung als eine menschliche Gehirn-ALU.
+
+Auf wieviele Byte käme man, wenn man alle Kfz-Kennzeichen, Telefonnummern, HausNummer'n
+oder Bachwerke-Nummern aufsummieren würde, die in einem GeHirn zu finden sind?
+Ein MegaByte wäre sicherlich hochgegriffen. 
+
+Mit jedem Jahr steigt die Kluft zwischen dem nicht mehr evolutionsfähigen GeHirn und der 
+einfachen Gleichförmigkeit, aber unschlagbaren Effizienz und Skalierbarkeit von Transistorschaltungen.
+
+Und an der Kasse im MindPlus tippt die Kassiererin Zahlen in eine TastaTur.
+Auch sie ist ein BeWusst'seinsbasiertes System, das mit permanent mit 10 PetaFlops arbeitet.

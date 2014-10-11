@@ -1,0 +1,7 @@
+* IsA: EnterPrise
+* InterWiki: [WikiPedia:Intrade]
+* HomePage: http://www.intrade.net/
+* MindOne: JohnDelaney
+|[TwittEr:intrade]
+
+PredictionMarket

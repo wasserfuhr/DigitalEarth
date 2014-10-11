@@ -1,0 +1,4 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/28/135
+* PageNumber: 12
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann WolfgangWahlster CarolaReddigSiekmann HelmarGust PeterGeibel FritzWysotzki UteSchmid EmanuelKitzelmann

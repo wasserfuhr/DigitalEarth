@@ -1,0 +1,21 @@
+Ein StateMent zur AnFang's avisierten ZielGruppe:
+
+MindBroker und NooPolis sind vorerst nicht für JederMann, sondern ein wenig LeEt.
+
+Zur Zeit sind folgende Dinge für JederMann verfügbar:
+* Lesender Zugriff auf das MindWiki
+
+Nach Einladung durch bestehende BuergerInnen (JoinNow) sind verfügbar:
+* eine MindId
+* ein BankKonto mit KayGroschen zur Teilnahme am MarketPlace
+
+Bald könnten dort auch folgende Dinge für JederMann sein:
+* die Teilnahme an der KabiNettWahl
+* die MindId als besonders VerTrauen'swürdige OpenId auf anderen Websites
+* ein MindMe als persönliches LifeWiki.
+* ein Depot zum Handeln von MindShare's an virtuellen Unternehmen und zum Prognostizieren von DealFutures
+* die Dienste anderer StartUp's
+
+DasMan.
+
+JederMensch.

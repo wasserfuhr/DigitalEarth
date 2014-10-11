@@ -1,0 +1,93 @@
+StadtDresden:
+2009-
+||Platz Name	 Stimmen|Partei 
+|1 	 SteffenKaden 	10547|CDU
+|2 	 ChristaMueller 	8667|CDU
+|3 	 KlausRentsch 	8196|CDU
+|4 	 HelfriedReuther 	7928|CDU
+|5 	 AngelikaMalberg 	6578|CDU
+|6 	 LarsDetlefKluger 	6419|CDU
+|7 	 LarsRoeher 	6403|CDU
+|8 	 DietmarHassler 	6065|CDU
+|9 	 IngoFlemming 	5586|CDU
+|10 	 Wagner,Anke 	5511|CDU
+|11 	 Zinkler,Stefan 	4487|CDU
+|12 	 Dr.Böhm,Gudrun 	4409|CDU
+|13 	 Donhauser,Jan 	4171|CDU
+|14 	 Dr.Brauns,Hans-Joachim 	3816|CDU
+|15 	 Schreiber,Patrick 	3649|CDU
+|16 	 Dr.Böhme-Korn,Georg 	3212|CDU
+|17 	 Klein,Lothar 	3135|CDU
+|18 	 Schöps,Silke 	2838|CDU
+|19 	 Fischer,Elke 	2731|CDU
+|20 	 Stübner,Joachim 	2634|CDU
+|21 	 Kieslich,Sebastian 	2490|CDU
+|22 	 Uhlig,Horst 	2482|CDU
+|23 	 Krüger,Peter 	1928|CDU
+|1 	 Dr.Sühl,Klaus 	5841|Linke
+|2 	 Kaufmann,Kristin 	3887|Linke
+|3 	 Naumann,Andreas 	3877|Linke
+|4 	 Schollbach,André 	3867|Linke
+|5 	 Dr.Gaitzsch,Margot 	3836|Linke
+|6 	 Kießling,Tilo 	3198|Linke
+|7 	 Muskulus,Hans-Jürgen 	3110|Linke
+|8 	 Wirtz,Tilo 	3080|Linke
+|9 	 Lattmann-Kretschmer,Gunild 	3052|Linke
+|10 	 Matthis,Jens 	2660|Linke
+|11 	 Apel,Anja 	2252|Linke
+|12 	 Klepsch,Annekatrin 	2252|Linke
+|1 	 Hoffsommer,Jens 	6065|Grüne
+|2 	 Jähnigen,Eva 	5119|Grüne
+|3 	 Kühn,Stephan 	4109|Grüne
+|4 	 Schubert,Andrea 	3702|Grüne
+|5 	 Zimmermann,Elke 	2998|Grüne
+|6 	 Löser,Thomas 	2817|Grüne
+|7 	 Hinz,Ulrike 	2728|Grüne
+|8 	 Filius-Jehne,Christiane 	2443|Grüne
+|9 	 Schulze,Torsten 	2144|Grüne
+|10 	 Trepte,Thomas 	1626|Grüne
+|11 	 Kämmerer,Eva 	1602|Grüne
+|1 	 Heinrich,Wilm 	4194|SPD
+|2 	 Dr.Lames,Peter 	3906|SPD
+|3 	 Friedel,Sabine 	3443|SPD
+|4 	 Bergmann,Axel 	3335|SPD
+|5 	 Pallas,Albrecht 	3002|SPD
+|6 	 Blümel,Thomas 	2593|SPD
+|7 	 Bertram,Martin 	2577|SPD
+|8 	 Kaniewski,Richard 	2439|SPD
+|9 	 Bartels,Peter 	2093|SPD
+|1 	 Mücke,Jan 	5529|FDP
+|2 	 Lässig,Barbara 	4059|FDP
+|3 	 Rink,Eberhard 	3905|FDP
+|4 	 Zastrow,Holger 	3550|FDP
+|5 	 Genschmar,Jens 	3115|FDP
+|6 	 Dr.Gebel,Thoralf 	3021|FDP
+|7 	 Felgner,Jürgen 	2433|FDP
+|8 	 BurkhardVester 	2396|FDP
+|9 	 AndreSchindler 	1955|FDP
+|1 	 JanKaboth 	2860|Freie Bürger
+|2 	 ChristophHille 	2415|Freie Bürger
+|3 	 FranzJosefFischer 	1967|Freie Bürger
+|1 	 AnitaKoehler 	1411|BÜRGERBÜNDNIS
+|1 	 HartmutKrien 	1656|NPD
+|2 	 JensBaur 	1397|NPD
+
+
+-2009:
+* ChristianeFiliusJehne
+* ElkeZimmermann
+* EvaJaehnigen
+* JensHoffsommer
+* JohannesLichdi
+* KarlHeinzGerstenberg
+* SabineFriedel
+* StephanKuehn
+* ThomasTrepte
+* TorstenHans
+
+WipperFuerth:
+* AndreasSchmitz
+* BastianWeingaertner
+* FrankMederlet
+* GerdKohlgrueber
+* HaraldKoppelberg

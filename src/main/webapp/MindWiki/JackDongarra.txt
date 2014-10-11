@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Jack_Dongarra]
+* DbLp: http://dblp.uni-trier.de/rec/pid/d/JackDongarra
+* HomePage: http://www.netlib.org/utk/people/JackDongarra/
+* MindSkill: SuperComp
+* PageNumber: 8
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy ArndtBode HenriCasanova JackDongarra

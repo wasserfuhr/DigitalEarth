@@ -1,0 +1,6 @@
+* IsA: StartUp
+* MindOne: ThomasHerr
+* HomePage: http://www.placeboard.com/
+|[TwittEr:placeboard]
+
+MitWirkende: MarkusSchueler

@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Robert_Fritz]
+* HomePage: http://www.robertfritz.com/
+* MindQuote: "creative tension"

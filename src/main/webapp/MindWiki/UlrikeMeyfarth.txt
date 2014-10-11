@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* WohnSitz: OdenThal
+* BirthDay: 05-04

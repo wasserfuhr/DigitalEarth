@@ -1,0 +1,5 @@
+* WohnSitz: NeuStadt
+* SprachWelt: de, en, fr, es, it, la
+* WeinLiebhaber
+||AusLand
+|[XingLe:MichaelH_Wagner]

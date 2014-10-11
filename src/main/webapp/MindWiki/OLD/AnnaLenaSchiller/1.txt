@@ -1,0 +1,6 @@
+* IsA: PerSon
+* HasTalked: ConstanceWolter
+|[FaceBook:frauleinschiller]
+|[XingLe:AnnaLena_Schiller]
+
+KaosPilot

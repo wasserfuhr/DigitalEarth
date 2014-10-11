@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/78/701
+* HomePage: http://www.cogsci.uni-osnabrueck.de/~kkuehnbe/
+* PageNumber: 9
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann WolfgangWahlster CarolaReddigSiekmann HelmarGust KaiUweKuehnberger

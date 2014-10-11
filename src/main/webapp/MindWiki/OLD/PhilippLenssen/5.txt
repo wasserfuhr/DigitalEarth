@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* FoAf: http://blogoscoped.com/foaf.rdf
+
+BlogoScoped

@@ -1,0 +1,4 @@
+* IsA: PerSon
+* BornIn: 1967
+* HomePage: http://www.sharcware.com/
+|[XingLe:Jens_Grosse]

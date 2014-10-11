@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Sachsenbad]
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.081832&lon=13.719564&zoom=18&layers=B000FTTT ToDo

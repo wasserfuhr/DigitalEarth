@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/d/JDenzinger
+* HomePage: http://pages.cpsc.ucalgary.ca/~denzinge/
+* PageNumber: 8
+* PagePath: LarryPage ... JuergenAvenhaus JoergDenzinger

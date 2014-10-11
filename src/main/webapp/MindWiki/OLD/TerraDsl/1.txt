@@ -1,0 +1,2 @@
+* MindTags: FutureCard
+* PreDict: Die Verbindung von Deinem MindMac mit dem InterNet erlaubt Dir für weniger als 100 EuRo pro Monat eine FlatRate mit symmetrischer Bandbreite von mindestens 1.099.511.627.776 bit/sec

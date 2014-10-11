@@ -1,0 +1,5 @@
+Ein paar Ideen für die BauInformatik:
+* SecondMind für Bauplanung, Baufortschrittserfassung, Mängelmanagement, Immobilienmarketing und FacilityManagement
+* WikiProf als DoktorVater: Der Promovend schreibt nur noch ein Wiki. Die Gutachter haben Schreibrechte.
+* BuildingModel
+* IntelliHaus

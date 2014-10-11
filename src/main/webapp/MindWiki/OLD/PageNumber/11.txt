@@ -1,0 +1,3 @@
+* NamedAfter: LarryPage
+
+The PageNumber is similar to the ErdosNumber, but dedicated the LarryPage, one of the founders of GoogleInc, and based on CoAuthor'ship relations available in DbLp or MindBib.

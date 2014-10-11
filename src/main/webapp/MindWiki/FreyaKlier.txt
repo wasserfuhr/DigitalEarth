@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Freya_Klier]
+* BornIn: 1950
+* BirthDay: 02-04
+* ViAf: http://viaf.org/viaf/22287972

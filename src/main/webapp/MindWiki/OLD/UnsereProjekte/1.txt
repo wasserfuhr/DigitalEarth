@@ -1,0 +1,10 @@
+UnsereProjekte:
+* UnserGrid (LIVE!)
+* IntraBroker (LIVE!)
+* GeoMindBroker (LIVE!)
+* WikiTchen
+* MindBrokerCore
+* DoThings
+* MindBrokerShop
+* SportPortal
+* SemanticMind

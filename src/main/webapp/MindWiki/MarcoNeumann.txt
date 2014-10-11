@@ -1,0 +1,6 @@
+* IsA: PerSon
+* HomePage: http://www.marconeumann.org/
+* DbLp: http://dblp.uni-trier.de/rec/pid/02/241
+* PageNumber: 15
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy GregorEngels ErnstErichDoberkat HeinzZuellighoven DirkRiehle JamesNoble JanVitek UrsHoelzle BradCalder AlanEustace MarcoNeumann
+|[XingLe:Marco_Neumann2]

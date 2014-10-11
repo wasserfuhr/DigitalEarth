@@ -1,0 +1,10 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Ralf_Steinmetz]
+* BornIn: 1956
+* BirthDay: 07-31
+* SwDf: http://data.semanticweb.org/person/ralf-steinmetz
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/RalfSteinmetz
+* HomePage: http://www.kom.tu-darmstadt.de/en/people/staff/ralf-steinmetz/
+* PageNumber: 3
+* PagePath: LarryPage TerryWinograd NorbertStreitz RalfSteinmetz
+|[XingLe:Ralf_Steinmetz2]

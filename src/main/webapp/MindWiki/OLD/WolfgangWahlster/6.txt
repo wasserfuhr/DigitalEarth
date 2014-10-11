@@ -1,0 +1,10 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Wolfgang_Wahlster]
+* JahrGang: 1953
+* BirthDay: 02-02
+* DbLp: http://dblp.uni-trier.de/rec/pid/w/WolfgangWahlster
+* ViAf: http://viaf.org/viaf/55022810
+* HomePage: http://www.dfki.de/~wahlster/
+* MindSkill: ArTelligence
+* PageNumber: 5
+* PagePath: LarryPage TerryWinograd NorbertStreitz WendyHall JimHandler WolfgangWahlster

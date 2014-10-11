@@ -1,0 +1,4 @@
+* IsA: GrundSchule
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/393434471
+* HomePage: http://www.buesingen.de/buergerneu/schulen.html
+* MindOne: ManuelaAmann

@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Uwe_Albrecht]
+* BirthDay: 07-19
+* ParteiWiki: CduWiki

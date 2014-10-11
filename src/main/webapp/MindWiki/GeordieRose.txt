@@ -1,0 +1,5 @@
+* MindTags: UnternehmensGruender
+* MindSkill: QuantPuter
+* MindBlog: http://dwave.wordpress.com/
+
+CTO of DWaveSystems

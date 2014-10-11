@@ -1,0 +1,11 @@
+* MindTags: UnternehmensGruender
+* InterWiki: [WikiPedia:Loïc_Le_Meur]
+* JahrGang: 1972
+* BirthDay: 07-14
+* SprachWelt: fr,en-4-accent, ru
+* HomePage: http://www.loiclemeur.com/
+* CurrentProjects: SeesMic, LeWeb
+* UsElection08: BarackObama
+||AusLand
+|[TwittEr:loiclemeur]
+|[XingLe:Loic_LeMeur]

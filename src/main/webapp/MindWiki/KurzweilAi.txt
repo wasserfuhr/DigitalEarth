@@ -1,0 +1,6 @@
+* HomePage: http://www.kurzweilai.net/
+* MindOne: RayKurzweil
+
+uses TheBrain and a ChatBot.
+
+Bad redirecting DeepLink's.

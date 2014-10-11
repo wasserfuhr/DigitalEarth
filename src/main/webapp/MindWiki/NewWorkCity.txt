@@ -1,0 +1,5 @@
+* IsA: CoWorkingSpace
+* HomePage: http://nwcny.com/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/606197987
+* PartOf: VarickStreet
+|[TwittEr:nwc]

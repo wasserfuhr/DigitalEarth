@@ -1,0 +1,4 @@
+* IsA: DiStrict
+* InterWiki: [DdWiki:Großzschachwitz] [DeWikiPedia:Großzschachwitz]
+* PartOf: StadtDresden
+* NearBy: StadtHeidenau

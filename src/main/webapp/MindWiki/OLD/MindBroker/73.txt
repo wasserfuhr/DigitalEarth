@@ -1,0 +1,8 @@
+* WorldLanguages: deutsch:MindBrokerDe, español:MensoMercado, 中文:XinLingJiaoHuan
+* MindTags: EnterPrise
+* MindOne: RainerWasserfuhr
+* SloGan: ConnectingBeautifulMinds
+
+!Welcome to MindBroker
+
+Now LIVE: DasExperiment.

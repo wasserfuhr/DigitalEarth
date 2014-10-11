@@ -1,0 +1,1 @@
+LifePattern: always watch and UnderStand the mechanics of a UniformResourceLocator for each WebPage you visit!

@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* HomePage: http://www.cafe-blumenau.de/
+* NearBy: LouisenStrasse

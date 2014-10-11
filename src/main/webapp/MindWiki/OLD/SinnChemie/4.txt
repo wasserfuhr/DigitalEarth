@@ -1,0 +1,9 @@
+* MindTags: MetaPhor
+
+Angeregt durch die Idee einer ChemicalAbstractMachine:
+* Elektronen: Buchstaben+Zahlen
+* Atome: CamelCase-Folgen von Elektronen
+* Moleküle: Seiten im MindWiki
+* Reaktionen: 
+** Dezidierte Atome (CitiZens) haben die Fähigkeit, Moleküle zu verändern. Reaktionen werden chronologisch als RecentChanges protokolliert.
+** Automatische Reaktionen via InFer'ence

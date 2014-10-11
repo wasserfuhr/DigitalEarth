@@ -1,0 +1,3 @@
+* MindTags: ProFessor
+* HomePage: [http://www.vision.ee.ethz.ch/members/get_member.cgi?id=1]
+* MindSkill: ComputerVision

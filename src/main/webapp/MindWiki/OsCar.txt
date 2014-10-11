@@ -1,0 +1,5 @@
+* InterWiki: [DeWikiPedia:OScar]
+* HomePage: http://www.theoscarproject.org/
+* MindOne: MarkusMerz
+
+An OpenSource-MindCar.

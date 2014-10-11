@@ -1,0 +1,4 @@
+* 0: member of GoogleWave »LockWave«
+* 1: voted on GoogleWave LockSchuppenOpening with yes or MayBe
+* 2: member of XingGroup »PowerForAfrica«
+* 3: 

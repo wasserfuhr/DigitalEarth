@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Norbert_Reithofer]
+* JahrGang: 1956
+* BirthDay: 05-29

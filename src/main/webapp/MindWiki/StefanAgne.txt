@@ -1,0 +1,8 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/54/5190
+* HomePage: [http://www.dfki.de/web/forschung/km/mitarbeiter/base_view?uid=stag00]
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker AndreasDengel StefanAgne
+|[XingLe:Stefan_Agne]
+
+DfKi

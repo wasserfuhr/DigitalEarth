@@ -1,0 +1,34 @@
+* InterWiki: [LangReiter:Clojure] [WikiPedia:Clojure]
+* HomePage: http://clojure.org/
+* MindOne: RichHickey
+
+Root: NooMic + NooMicJsp
+
+Modules:
+* CacheClj
+* CitizensClj
+* FaceBookClj
+* FarmClj
+* FaveletClj
+* ForexClj
+* FutureMapClj
+* FutureNewsClj
+* HandleClj
+* IndexClj
+* JoinClj
+* LoginClj
+* LogoutClj
+* MindBaseClj
+* PayPalClj
+* PieschenRadioClj
+* PieschenTvClj
+* ReplClj
+* SummitClj
+* WikiClj
+* WikiTableClj
+* WikiWallClj
+
+and MindCss
+
+On AppEngine:
+* NooMicClj

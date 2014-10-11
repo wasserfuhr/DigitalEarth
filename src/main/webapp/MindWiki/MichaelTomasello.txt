@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Michael_Tomasello]
+* JahrGang: 1950
+* BirthDay: 01-18
+* DbLp: http://dblp.uni-trier.de/rec/pid/84/174
+* MindSkill: TransSimian WortSchatz

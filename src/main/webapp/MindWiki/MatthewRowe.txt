@@ -1,0 +1,8 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/00/4365
+* HomePage: http://www.dcs.shef.ac.uk/~mrowe/
+* PageNumber: 8
+* PagePath: LarryPage SergeyBrin MonikaHenzinger DavidEppstein JoanFeigenbaum TimBl NigelShadbolt FabioCiravegna MatthewRowe
+|[TwittEr:mattroweshow]
+
+Great for a SocialGraph BackUp: FaceBook FoAf generator: http://www.dcs.shef.ac.uk/~mrowe/foafgenerator.html

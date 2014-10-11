@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Barbara_Liskov] [WikiWikiWeb:BarbaraLiskov]
+* JahrGang: 1939
+* ViAf: http://viaf.org/viaf/44337197
+* PageNumber: 3
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov

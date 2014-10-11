@@ -1,0 +1,9 @@
+||Messi||Version||Seit||OS-Client||OS-Server||P2P||Dezentral||Avatare||3D-Welt||3D-Edit||4D||4D-Edit||VoIP||OlPc||OS X||GroupChat||BackDoor
+|Jabber    |   |2000|ja  |ja  |jein|ja  |nein|nein|nein|nein|    |    |?     |    |    |
+|SecondLife|   |2003|ja  |bald|jein|nein|nein|ja  |ja  |nein|nein|    |nein  |    |    |
+|Skype     |   |2003|nein|nein|ja  |nein|ja  |nein|nein|nein|    |    |?     |    |    |?*
+|ComBots   |   |2006|nein|nein|ja  |nein|ja  |nein|nein|nein|nein|ja  |nein  |nein|nein|
+|WyrdMind  |0.0|2007|ja  |ja  |ja  |ja  |ja  |ja  |ja  |ja  |nein|nein|theor.|ja  |ja  |
+|MindMessi |   |2008|ja  |ja  |ja  |ja  |ja  |ja  |ja  |nein|nein|nein|?     |nein|nein|
+|WyrdMind  |1.0|2020|ja  |ja  |ja  |ja  |ja  |ja  |ja  |ja  |ja  |ja  |ja    |ja  |ja  |ja, mit AndersWeltSchleuse
+*) [evtl|http://www.rss-blogger.de/b2e/blogs/index.php/new/2007/02/07/kopiert_skype_das_bios_und_was_tut_es_da]

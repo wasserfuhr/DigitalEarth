@@ -1,0 +1,8 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Edgar_F._Codd] [WikiWikiWeb:DrCodd]
+* BornIn: 1923
+* BirthDay: 08-23
+* DiedIn: 2003
+* DbLp: http://dblp.uni-trier.de/rec/pid/c/EFCodd
+* PageNumber: 3
+* PagePath: LarryPage HectorGarciaMolina NickRoussopoulos DrCodd

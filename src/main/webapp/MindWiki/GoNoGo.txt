@@ -1,0 +1,10 @@
+* MindTags: ErZaehlung
+* InspiredBy: http://www.vetta.org/2008/09/agi-to-create-or-not-to-create/
+
+Let's assume that you are ShaneLegg and have worked hard to build the first ArTelligence on PlanetEarth. You think that you’re finished with your new AGI, you will take a TuringTest. You will have to feed your AGI with test data. Which test data? Data from one of your friends? From of your own life? Take the archive of your mail InBox of the last 10 years?
+Add data from a crawler from WikiPedia, OpenCyc and OpenStreetMap? Let’s say that you use your own data and you let decide some of your friends, if your AGI will pass a TuringTest, eg during an 25 minute IRC chat. If your AGI passes the test: Will you keep your AGI running over night?
+Will you go to bed?
+Will you allow your AGI to comment on the blogs of your friends?
+How will you talk to your AGI when you wake up the next morning?
+
+Are you prepared for __ErstKontakt__?

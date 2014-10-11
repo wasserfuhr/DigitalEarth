@@ -1,0 +1,22 @@
+Für ihr CommitMent haben MitWirkende folgende Ansprüche auf PayOut:
+
+||                  ||  ||  2007||2008||Erfolgsabhängig
+|InVest             |   |       |
+|-RainerWasserfuhr  |EUR|  20700| 4500|
+|-WernerWasserfuhr  |EUR|     50|     |
+|-AgnesWasserfuhr   |EUR|     50|     |
+|-PieschenBank      |Kay|1000000|     |
+|PayOut             |   |       |     |
+|- RainerWasserfuhr |EUR|  15000|     |30000
+|- YvonneSchubert   |EUR|  15000|     |
+|- DanielPoodratchi |EUR|   2000| 1000|9500
+|- DanielPoodratchi |Kay|  66000|33000|
+|- OliverGassner    |EUR|      0| 2500|
+|- AndreasWeigel    |EUR|   2000| 1000|1500
+|MindShare          |   |       |     |
+|- RainerWasserfuhr |  %|     77|     |30000
+|- YvonneSchubert   |  %|      3|     |
+|- DanielPoodratchi |  %|      5|     |
+|- OliverGassner    |  %|      5|     |
+|- AndreasWeigel    |  %|      3|     |
+|EcZwo              |EUR|    700| 1000|

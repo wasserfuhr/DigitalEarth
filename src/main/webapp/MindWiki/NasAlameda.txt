@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* InterWiki: [WikiPedia:Naval_Air_Station_Alameda]
+
+[http://www.openaerialmap.org/map/?lat=37.79207&lon=-122.32714&zoom=21&layers=BF]

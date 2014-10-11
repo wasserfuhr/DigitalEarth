@@ -1,0 +1,4 @@
+* IsA: MindStreet
+* PartOf: PaloAlto
+
+AGeeksTour http://www.ageekstour.com/wiki.cgi?HewlettPackardGarage

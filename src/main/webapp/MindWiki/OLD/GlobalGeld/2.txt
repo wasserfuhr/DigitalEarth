@@ -1,0 +1,11 @@
+||ComPare   ||GlobalGeld||RegioGeld
+|Currency   |KayGroschen|ElbTaler HavelBluete EtAl
+|MoneySupply|constant   |
+|FreiGeld   |no         |yes
+|TransParent|yes        |no
+
+Entire MoneySupply on PlanetErde UnTil2010: ~80 000 000 000 000 UsDollar [*|http://dollardaze.org/blog/?page_id=00023]
+
+The most plausible market scenario UnTil2029: BigFive who share 80% of the global MoneySupply. The rest are relicts of NationState's.
+
+The best case is a 1 in the BigFive scenario.

@@ -1,0 +1,9 @@
+* MindTags: MindEvent
+* https://www.xing.com/app/events?op=detail;id=203578
+
+Themenideen:
+* KurzWeil und SingularityIsNear
+* AiGame
+* DresdenChess
+* GeneralAssembly
+* SemanticWeb

@@ -1,0 +1,2 @@
+* IsA: HochSchule
+* HomePage: http://www.msu.edu/

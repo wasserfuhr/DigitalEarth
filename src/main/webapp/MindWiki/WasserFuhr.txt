@@ -1,0 +1,16 @@
+* IsA: FamilyName
+* NamedAfter: OtWasserfuhr
+
+WernerWasserfuhr AgnesWasserfuhr RainerWasserfuhr RainerWasserfuhr2 ManuelaAmann EtAl
+
+How often does the FamilyName »WasserFuhr« occur in different SocialNetwork's?:
+
+||#User||#Total (mio)||SocialNetwork||
+|65|  ?|StayFriends|
+|64|  ?|WerKenntWen|[*|http://www.wer-kennt-wen.de/users/proSearch/sort/userSearch/0/0/0/lastName/Wasserfuhr/gender/0/birthyear/0/city_select/all]
+|44|350|FaceBook   |[*|http://www.facebook.com/search/?flt=1&q=wasserfuhr]
+|39|  ?|StudiVz    |[*|http://www.studivz.net/Search/SearchGlobal/name/Wasserfuhr/doSearch/1]
+|19|  8|XingLe     |
+|19|  ?|ViAf       |[*|http://viaf.org/search?query=local.names+all+%22wasserfuhr%22&&stylesheet=xsl/results.xsl]
+| 8|  ?|LinkedIn   |[*|http://www.linkedin.com/search/fpsearch?lname=wasserfuhr]
+| 4|  ?|TwittEr    |

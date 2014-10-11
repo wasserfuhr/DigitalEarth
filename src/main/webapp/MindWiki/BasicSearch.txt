@@ -1,0 +1,4 @@
+* MindTags: ReView
+* InspiredBy: http://www.basicthinking.de/blog/2008/01/03/google-suche-algorithmus-geaendert/
+
+Ein StartUp mit dem einzigen Geschäftszweck, eine Suchmaschine für die 100 Lieblingsblogs von RobertBasic zu bauen.

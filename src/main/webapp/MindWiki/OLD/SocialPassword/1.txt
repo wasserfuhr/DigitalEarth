@@ -1,0 +1,3 @@
+* Passworte werden nicht im Klartext, sondern nur deren Hashwerte gespeichert (derzeit mittels java.security.MessageDigest)
+* Bei vergessenem Passwort wird kann und wird das alte Passwort nicht per Mail zugeschickt,
+sondern der Nutzer fragt zwei seiner Trustees, das Passwort zurückzusetzen.

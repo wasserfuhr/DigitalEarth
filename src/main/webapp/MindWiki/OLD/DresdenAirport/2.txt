@@ -1,0 +1,4 @@
+* IsA: AirPort
+* InterWiki: [DdWiki:Flughafen] [DeWikiPedia:Flughafen_Dresden]
+* MindOne: MichaelHupe
+* PartOf: StadtDresden

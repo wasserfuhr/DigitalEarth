@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Dieter_Rombach]
+* BirthDay: 06-06
+* PageNumber: 11
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi MichaelStonebraker JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach

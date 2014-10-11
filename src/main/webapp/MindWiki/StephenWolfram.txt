@@ -1,0 +1,16 @@
+* IsA: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Stephen_Wolfram]
+* BirthDay: 08-29
+* ChildOf: HugoWolfram
+* DbLp: http://dblp.uni-trier.de/rec/pid/09/4291
+* PageNumber: 
+* PagePath: LarryPage ... StephenWolfram SteveOmohundro
+
+
+PagePath: JackDongarra  HenriCasanova 
+# [http://dblp.uni-trier.de/db/indices/a-tree/c/Chien:Andrew_A=.html]
+# VijayKaramcheti [http://dblp.uni-trier.de/db/indices/a-tree/k/Karamcheti:Vijay.html]
+# DenisZorin [http://dblp.uni-trier.de/db/indices/a-tree/z/Zorin:Denis.html]
+# HenningBiermann [http://dblp.uni-trier.de/db/indices/a-tree/b/Biermann:Henning.html]
+# ChristophBregler [http://dblp.uni-trier.de/db/indices/a-tree/b/Bregler:Christoph.html]
+# StephenWolfram SteveOmohundro

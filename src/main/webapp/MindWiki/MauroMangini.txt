@@ -1,0 +1,5 @@
+* IsA: PerSon
+* HasTalked: RainerWasserfuhr
+* DbLp: http://dblp.uni-trier.de/rec/pid/26/5415
+* PageNumber: 10
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker RudiStuder YorkSure MartinHepp AlistairDuke ChimayAnumba MauroMangini

@@ -1,0 +1,1 @@
+Das erste SocialObject für die WebApp der PieschenBank.

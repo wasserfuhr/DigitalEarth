@@ -1,0 +1,3 @@
+* IsA: MindCity
+* InterWiki: [DeWikiPedia:Bad_Doberan]
+* PartOf: MeckPomm

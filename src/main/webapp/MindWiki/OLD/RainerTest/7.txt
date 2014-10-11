@@ -1,0 +1,10 @@
+* MindTags: FutureCard
+* PieschenTv: http://seesmic.com/videos/l5cPmdTAf7
+* PreDict: A fully automated 3D DigitalTwin of RainerWasserfuhr will pass the TuringTest after a public 25min VideoChat with DanielPoodratchi
+* UnTil: 2030
+* DependsOn: LongBetOne
+* CardOwner: DanielPoodratchi
+* CardHolder: RainerWasserfuhr
+
+FutureCard, TuringTest, WohnZimmer, BriefKasten, DanielPoodratchi, PerSon, AvaTar, JohnSmart, DigitalTwin, WirkZentrum, GeorgBaselitz, 
+PreDict, LoebnerPrize, ChatBot, WasSchaetztDu, RainerWasserfuhrDrankBeerWith, PriVat

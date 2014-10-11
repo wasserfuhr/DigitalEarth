@@ -1,0 +1,13 @@
+* IsA: EventSeries
+* HomePage: http://cargocollective.com/undsonstso
+* HashTag: ussDD
+|[TwittEr:undsonstso]
+
+SylviaPetrasch MartinFiedler MarcoZichner EtAl
+
+Talks:
+* 9: BertSiegel
+* 7: AndresKuehn RalfLippold
+* 5: MarcusAnhaeuser
+* 4
+* 3: RainerWasserfuhr

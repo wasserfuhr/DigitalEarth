@@ -1,0 +1,4 @@
+* MindTags: MindThing
+* IstEin: Heissluftballon
+* AircraftRegistration: D-ODOL
+* MindColor: Blau-Weiss

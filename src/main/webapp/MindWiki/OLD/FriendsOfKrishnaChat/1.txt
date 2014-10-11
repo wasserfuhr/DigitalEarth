@@ -1,0 +1,8 @@
+members:
+* BobSingh
+* RadhaKrishna
+* RainerWasserfuhr
+* RalfLippold
+* UrsulaViljoen?
+* VijayJoshi
+EtAl

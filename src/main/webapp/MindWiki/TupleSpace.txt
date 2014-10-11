@@ -1,0 +1,18 @@
+* InterWiki: [WikiWikiWeb:TupleSpace]
+
+Wie könnte TheOne aussehen?
+Mit ganz vielen Tupeln, die auf eine gigantische globale MindBase gespeichert werden.
+An einzelnen Stellen führen HuMan'e Akteure Daten in TheOne ein.
+Auch deren Lesen wird als ClickStream festgehalten.
+Innerhalb der MindBase ist alles mit allem verknüpfbar.
+
+Die ganze SemanticEconomy wird in TheOne abgewickelt. 
+Da alle Daten öffentlich sind, können sie auch
+global repliziert werden. PublicComputing.
+TheOne ''ist'' das WorldModel. Es wird durch abermilliarden Sensoren gefüttert.
+
+Die grundlegende Datenstruktur gibt HadoopHBase vor.
+An jedem Datensatz hängen unzählige Trigger, die nach
+Änderungen sofort feuern.
+Eine kleine TaskForce von Spezialisten kümmert sich noch
+um die Vermeidung von Zyklen. Doch das Netz wird immer ReSilient'er.

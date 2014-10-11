@@ -1,0 +1,18 @@
+* MindTags: MindThing
+* BreitenGrad: 51.073834
+* LaengenGrad: 13.729916
+* BoundingBox: 0.5
+
+WikiBasiert'es GeoCaching im WirkZentrum:
+
+||am     || ||MindThing
+|20090126:1251|in|McKinley
+|20090117:1641|in|HippoFlipp
+|20081124:1545|in|RthurAndersi
+|20081010|in|WertSchoepfungsKette
+|20081006|in|MoonOne-Kippe
+|20081006|in|UsdFessel
+|20080929|in|RasenderFalke
+|20080922|in|DomLoeffel
+|20080919|in|ZweiKletten
+|20080919|in|R2D2

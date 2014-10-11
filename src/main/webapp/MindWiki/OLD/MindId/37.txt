@@ -1,0 +1,21 @@
+Alle eingeladenen BuergerInnen erhalten nach Zustimmung zur VerFassung eine MindId: http://id.mindbroker.de/
+
+Die MindId ist eine natürliche Zahl, die beginnend von 1 hochgezählt wird.
+* 1: RainerWasserfuhr
+* 2: YvonneSchubert
+* 3: usw.
+
+Die MindId ist gleichzeitig der PrimaryKey in der MindSql-Tabelle.
+Ausserdem werden erhalten alle BuergerInnen einen eindeutigen CamelCase-Namen, zB RainerWasserfuhr.
+Der CamelCase-Name eignet sich allerdings nicht als PrimaryKey, da typischen Statistiken
+in DeutschLand zufolge etwa 15-20% der Bevölkerung ihren Namen im Falle einer Ehe ändern.
+
+Jeder MindBroker kann nach dem Login verschiedene WebApps nutzen.
+Das Login ist immer der aktuelle eigene CamelCase-Name (z. B. RainerWasserfuhr).
+
+Erste WebApps mit MindId-Login:
+* PieschenBank: http://bank.mindbroker.de/
+* MindBlog: http://blog.mindbroker.de/
+* InBox: http://inbox.mindbroker.de/ 
+
+Später: OpenId für jeden User einer MindBroker-WebApp.

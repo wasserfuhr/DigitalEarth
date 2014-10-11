@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:George_A._Miller] [WikiWikiWeb:GeorgeMiller]
+* JahrGang: 1920
+* BirthDay: 02-03
+* DbLp: http://dblp.uni-trier.de/rec/pid/18/3533

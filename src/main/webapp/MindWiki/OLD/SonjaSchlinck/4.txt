@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* WohnSitz: WaldRohrBach
+* BirthDay: 06-03
+* JahrGang: 1951
+* MamaZwoNull: Brunck
+* PapaZwoNull: Brunck

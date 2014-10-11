@@ -1,0 +1,17 @@
+* KindOf: WiKi
+
+BenchMark: http://omaha.towncommons.com/Omaha_Commons:Omaha_Wiki_Benchmarks:
+
+||StadtWiki||Ranking||PageCount||MindCount||MindCity
+|KaWiki   | 1|20,100|  300,000|KarlsRuhe
+|HhWiki   | 3|12,412|1,500,000|HamBurg
+|KsWiki   |  | 8,956|         |StadtKassel
+|AwWiki   |  | 6,026|         |
+|DdWiki   |16| 5,480|  450,000|StadtDresden
+|PfenzWiki|  | 4,243|         |
+|         |12| 3,787|  300,000|BieleFeld
+|MucWiki  |13| 3,146|1,300,000|StadtMuenchen
+|         |15| 3,312|7,800,000|LonDon
+|         |25|   817|1,500,000|SacraMento
+
+IqProQm

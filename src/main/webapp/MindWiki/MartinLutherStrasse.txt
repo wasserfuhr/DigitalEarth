@@ -1,0 +1,4 @@
+* IsA: MindStreet
+* NamedAfter: MartinLuther
+* InterWiki: [DdWiki:Martin-Luther-Straße]
+* ConnectsTo: MartinLutherPlatz LouisenStrasse

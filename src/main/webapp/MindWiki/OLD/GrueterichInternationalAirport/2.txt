@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* MindLine: 2015
+* BreitenGrad: 51.09690
+* LaengenGrad: 7.34115
+* BoundingBox: 20
+
+in der Nähe von WipperFuerth.

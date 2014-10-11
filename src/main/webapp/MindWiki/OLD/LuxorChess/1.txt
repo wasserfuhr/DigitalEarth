@@ -1,0 +1,2029 @@
+ca 1986 von RainerWasserfuhr für AtariSt:
+
+{{{
+;Konstanten
+
+ endebed  =   -32768
+
+ weiss        = 0
+
+ schwarz      = 1
+
+ vorne        = 0
+
+ hinten       = 1
+
+
+
+;Aufbau des Records, der die augenblickliche Situation beschreibt
+
+ partie   = 0
+
+ seite    = 64
+
+ am_zuge  = 65
+
+ roch_s_ku = 66
+
+ roch_s_la = 67
+
+ roch_w_ku = 68
+
+ roch_w_la = 69
+
+ blk_vars = 72   ; muû durch 4 teilbar sein !!!
+
+ anfang_x = 72
+
+ anfang_y = 74
+
+ ende_x   = 76
+
+ ende_y   = 78
+
+ block_ende = 80   ; muû durch 4 teilbar sein !!!
+
+
+
+;Aufbau des Speichers fÅr den Partieverlauf:
+
+ verl_partie = 0
+
+ verl_zuege = 64
+
+ verl_ende = 68
+
+
+
+ move.w   #10,opcode       ;appl_init
+
+ clr.w    sintin
+
+ move.w   #1,sintout
+
+ clr.w    saddrin
+
+ clr.w    saddrout
+
+ jsr      aes
+
+ move.w   intout,apid
+
+ move.l   a7,altstack
+
+ move.l   a7,a5
+
+ move.l   #nstapel,a7
+
+ move.l   4(a5),a5
+
+ move.l   $c(a5),d0
+
+ add.l    $14(a5),d0
+
+ add.l    $1c(a5),d0
+
+ add.l    #$100+$4000+136000,d0  ;base-page-offset + stack + 1000*68*2 fÅr
+
+ move.l   d0,-(a7)              ;              Partieverlauf
+
+ move.l   a5,-(a7)
+
+ clr.w    -(a7)
+
+ move.w   #$4a,-(a7)
+
+ trap     #1
+
+ add.l    #12,a7
+
+ tst.l    d0
+
+ bmi      malloc_fail
+
+ move.w   #77,contrl          ;graf_handle
+
+ clr.w    contrl+2
+
+ move.w   #5,contrl+4
+
+ clr.w    contrl+6
+
+ clr.w    contrl+8
+
+ jsr      aes
+
+ move     intout,grhandle
+
+ move.w   #100,opcode         ;open virtual workstation
+
+ clr.w    contrl+2
+
+ move.w   #11,contrl+6
+
+ move.w   grhandle,contrl+12
+
+ lea      intin,a0
+
+ move.w   #9,d0
+
+initialisiere:
+
+ move.w   #1,(a0)+
+
+ dbra     d0,initialisiere
+
+ move.w   #2,intin+20
+
+ move.w   grhandle,contrl+12
+
+ jsr      vdi
+
+ move.w   #122,opcode       ;show_cursor
+
+ clr.w    contrl+2
+
+ move.w   #1,contrl+6
+
+ move.w   grhandle,contrl+12
+
+ clr.w    intin
+
+ jsr      vdi
+
+ move.w   #78,opcode     ;maus_form
+
+ move.w   #1,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ clr.w    intin
+
+ jsr      aes
+
+ move     #110,opcode         ;rsrc_load
+
+ clr.w   contrl+2
+
+ move     #1,contrl+4
+
+ move     #1,contrl+6
+
+ clr.w    contrl+8
+
+ move.l   #pfadname,addrin
+
+ jsr      aes
+
+ tst.w    intout
+
+ beq      rsc_fehlt
+
+ move     #112,opcode         ;rsrc_gaddr
+
+ move     #2,contrl+2
+
+ move     #1,contrl+4
+
+ clr.w    contrl+6
+
+ move     #1,contrl+8
+
+ clr.w    intin
+
+ clr.w    intin+2
+
+ jsr      aes
+
+ move.l   addrout,menue_addr
+
+ move     #30,opcode          ;menu_bar
+
+ move     #1,contrl+2
+
+ move     #1,contrl+4
+
+ move     #1,contrl+6
+
+ clr.w    contrl+8
+
+ move     #1,intin
+
+ move.l   menue_addr,addrin
+
+ jsr      aes
+
+ move     #100,opcode         ;wind_create
+
+ move     #5,contrl+2
+
+ move     #1,contrl+4
+
+ clr.w    contrl+6
+
+ clr.w    contrl+8
+
+ clr.w    intin
+
+ clr.w    intin+2
+
+ move     #20,intin+4
+
+ move     #640,intin+6
+
+ move     #400,intin+8
+
+ jsr      aes
+
+ tst.w    intout
+
+ bmi      kein_fenster
+
+ move.w   intout,brett_handle
+
+ move     #101,opcode         ;wind_open
+
+ move     #5,contrl+2
+
+ move     #1,contrl+4
+
+ clr.w    contrl+6
+
+ clr.w    contrl+8
+
+ move.w   brett_handle,intin
+
+ move.w   #2,intin+2
+
+ move.w   #21,intin+4
+
+ move     #634,intin+6
+
+ move     #224,intin+8
+
+ jsr      aes
+
+ move     #100,opcode         ;wind_create
+
+ move     #5,contrl+2
+
+ move     #1,contrl+4
+
+ clr.w    contrl+6
+
+ clr.w    contrl+8
+
+ clr.w    intin
+
+ clr.w    intin+2
+
+ move     #20,intin+4
+
+ move     #640,intin+6
+
+ move     #400,intin+8
+
+ jsr      aes
+
+ tst.w    intout
+
+ bmi      kein_fenster
+
+ move.w   intout,uhr_handle
+
+ move     #101,opcode         ;wind_open
+
+ move     #5,contrl+2
+
+ move     #1,contrl+4
+
+ clr.w    contrl+6
+
+ clr.w    contrl+8
+
+ move.w   uhr_handle,intin
+
+ move.w   #2,intin+2
+
+ move.w   #249,intin+4
+
+ move     #460,intin+6
+
+ move     #147,intin+8
+
+ jsr      aes
+
+ move     #100,opcode         ;wind_create
+
+ move     #5,contrl+2
+
+ move     #1,contrl+4
+
+ clr.w    contrl+6
+
+ clr.w    contrl+8
+
+ move     #%111000000,intin
+
+ clr.w    intin+2
+
+ move     #20,intin+4
+
+ move     #640,intin+6
+
+ move     #400,intin+8
+
+ jsr      aes
+
+ tst.w    intout
+
+ bmi      kein_fenster
+
+ move.w   intout,partie_handle
+
+ move     #101,opcode         ;wind_open
+
+ move     #5,contrl+2
+
+ move     #1,contrl+4
+
+ clr.w    contrl+6
+
+ clr.w    contrl+8
+
+ move.w   partie_handle,intin
+
+ move.w   #466,intin+2
+
+ move.w   #249,intin+4
+
+ move     #170,intin+6
+
+ move     #147,intin+8
+
+ jsr      aes
+
+ lea      partie_,a0
+
+ lea      partie_verlauf,a1
+
+ move.w   #63,d0
+
+erste_stellung:
+
+ move.b   (a0)+,(a1)+
+
+ dbra     d0,erste_stellung
+
+ move.b   #weiss,am_zuge(a1)
+
+ move.b   #vorne,seite(a1)
+
+ clr.b    roch_s_ku(a1)
+
+ clr.b    roch_s_la(a1)
+
+ clr.b    roch_w_ku(a1)
+
+ clr.b    roch_w_la(a1)
+
+ clr.w    zug_anzahl
+
+ clr.w    zug_top
+
+ev_abfrage:
+
+ move     #25,opcode          ;evnt_mesag
+
+ move     #16,contrl+2
+
+ move     #7,contrl+4
+
+ move     #1,contrl+6
+
+ clr.w    contrl+8
+
+ move.w   #18,intin
+
+ move.w   #1,intin+2
+
+ move.w   #1,intin+4
+
+ move.w   #1,intin+6
+
+ move.l   #puffer,addrin
+
+ jsr      aes
+
+ move.w   intout,d0
+
+ and.w    #2,d0
+
+ bne      ev_button
+
+ lea      ev_spruenge,a0
+
+ lea      ev_codes,a1
+
+ move.w   puffer,a3
+
+ev_vergleich:
+
+ move.l   (a0)+,a2
+
+ bmi      ev_weiter
+
+ cmp.w    (a1)+,a3
+
+ bne      ev_vergleich
+
+ jsr      (a2)
+
+ev_weiter:
+
+ bra      ev_abfrage
+
+
+
+zug_anzahl: blk.w 1
+
+first:    blk.w   1
+
+ev_button:
+
+ move.w   #106,opcode    ;Wind_find
+
+ move.w   #2,sintin
+
+ move.w   #1,sintout
+
+ clr.w    saddrin
+
+ clr.w    saddrout
+
+ move.w   intout+2,intin
+
+ move.w   intout+4,intin+2
+
+ jsr      aes
+
+ move.w   intout,d0
+
+ cmp.w    brett_handle,d0
+
+ bne      ev_abfrage
+
+ jsr      editiere
+
+ move.w   zug_anzahl,d0
+
+ mulu     #verl_ende,d0
+
+ add.l    #partie_verlauf,d0
+
+ move.l   d0,-(a7)
+
+ jsr      gueltig
+
+ addq.l   #4,a7
+
+ tst.w    figur_return
+
+ bmi      zug_ungueltig
+
+ add.w    #1,zug_top
+
+ move.w   brett_handle,puffer+6
+
+ jsr      erneuern
+
+ move.w   uhr_handle,puffer+6
+
+ jsr      erneuern
+
+ move.w   partie_handle,puffer+6
+
+ jsr      erneuern
+
+ lea      partie_verlauf,a0
+
+ move.w   zug_anzahl,d0
+
+ mulu     #verl_ende,d0
+
+ add.l    d0,a0
+
+ bchg     #0,seite(a0)
+
+ bchg     #0,am_zuge(a0)
+
+ move.l   #-1,d2
+
+g_koenig_such:
+
+ addq.l   #1,d2
+
+ move.b   0(a0,d2.w),d0
+
+ move.b   d0,d1
+
+ and.w    #7,d0
+
+ cmp.w    #5,d0
+
+ bne      g_koenig_such
+
+ asr.b    #3,d1
+
+ and.b    #1,d1
+
+ cmp.b    am_zuge(a0),d1
+
+ bne      g_koenig_such
+
+ divs     #8,d2
+
+ move.w   d2,g_schach_y
+
+ swap     d2
+
+ move.w   d2,g_schach_x
+
+ move.w   zug_anzahl,d0
+
+ mulu     #verl_ende,d0
+
+ add.l    #partie_verlauf,d0
+
+ move.l   d0,-(a7)
+
+ jsr      g_schach
+
+ addq.l   #4,a7
+
+ tst.w    schach_return
+
+ bpl      kein_schach
+
+ move.w   #52,opcode     ;form_alert
+
+ move.w   #1,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ move.w   #1,intin
+
+ move.l   #schach_warn,addrin
+
+ jsr      aes
+
+kein_schach:
+
+ lea      partie_verlauf,a0
+
+ move.w   zug_anzahl,d0
+
+ mulu     #verl_ende,d0
+
+ add.l    d0,a0
+
+ add.l    #block_ende,a0
+
+ move.l   a0,a1
+
+ add.l    #verl_ende,a1
+
+ move.w   #block_ende-1,d0
+
+naechs_partie:
+
+ move.b   -(a0),-(a1)
+
+ dbra     d0,naechs_partie
+
+ move.w   anfang_x(a1),d0
+
+ move.b   d0,verl_zuege(a0)
+
+ move.w   anfang_y(a1),d0
+
+ move.b   d0,verl_zuege+1(a0)
+
+ move.w   ende_x(a1),d0
+
+ move.b   d0,verl_zuege+2(a0)
+
+ move.w   ende_y(a1),d0
+
+ move.b   d0,verl_zuege+3(a0)
+
+ add.w    #1,zug_anzahl
+
+ move.w   #1,-(a7)     ; 1 = SpielstÑrke
+
+ move.w   zug_anzahl,d0
+
+ mulu     #verl_ende,d0
+
+ add.l    #partie_verlauf,d0
+
+ move.l   d0,-(a7)
+
+ jsr      compi_zug
+
+ addq.l   #6,a7
+
+ lea      partie_verlauf,a0
+
+ move.w   zug_anzahl,d0
+
+ mulu     #verl_ende,d0
+
+ add.l    d0,a0
+
+ add.l    #block_ende,a0
+
+ move.l   a0,a1
+
+ add.l    #verl_ende,a1
+
+ move.w   #block_ende-1,d0
+
+naech_partie:
+
+ move.b   -(a0),-(a1)
+
+ dbra     d0,naech_partie
+
+ move.w   anfang_x(a1),d0
+
+ move.b   d0,verl_zuege(a0)
+
+ move.w   anfang_y(a1),d0
+
+ move.b   d0,verl_zuege+1(a0)
+
+ move.w   ende_x(a1),d0
+
+ move.b   d0,verl_zuege+2(a0)
+
+ move.w   ende_y(a1),d0
+
+ move.b   d0,verl_zuege+3(a0)
+
+ add.w    #1,zug_anzahl
+
+ add.w    #1,zug_top
+
+ bchg     #0,seite(a1)
+
+ bchg     #0,am_zuge(a1)
+
+ move.w   brett_handle,puffer+6
+
+ jsr      erneuern
+
+ move.w   uhr_handle,puffer+6
+
+ jsr      erneuern
+
+ move.w   partie_handle,puffer+6
+
+ jsr      erneuern
+
+ jsr      status_norm
+
+ bra      ev_abfrage
+
+
+
+zug_ungueltig:
+
+ move.w   #52,opcode     ;form_alert
+
+ move.w   #1,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ move.w   #1,intin
+
+ move.l   #zug_warn,addrin
+
+ jsr      aes
+
+ jsr      status_norm
+
+ bra      ev_abfrage
+
+zug_warn: dc.b  '[3][UngÅltiger Zug !][ Abbruch ]',0
+
+schach_warn: dc.b  '[1][Schach !][ Ok ]',0
+
+ even
+
+
+
+compi_zug:
+
+ comp_hi_par = - block_ende - block_ende
+
+ comp_partie = partie - block_ende
+
+ comp_seite   = seite - block_ende
+
+ comp_am_zuge = am_zuge - block_ende
+
+ comp_an_x = anfang_x - block_ende
+
+ comp_an_y = anfang_y - block_ende
+
+ comp_en_x = ende_x - block_ende
+
+ comp_en_y = ende_y - block_ende
+
+ bewertung = comp_hi_par - 2
+
+ start_such = bewertung - 2
+
+ ziel_such = bewertung - 4
+
+ comp_link = ziel_such
+
+ link     a6,#comp_link
+
+ sub.w    #1,12(a6)          ; Dekrement des RekursionszÑhler
+
+ move.w   #-999,bewertung(a6)
+
+ clr.w    start_such(a6)
+
+erst_suche:
+
+ clr.w    ziel_such(a6)
+
+zweit_suche:
+
+ move.w   start_such(a6),d0
+
+ cmp.w    ziel_such(a6),d0
+
+ beq      com_cont
+
+ move.l   8(a6),a0
+
+ move.b   0(a0,d0.w),d1
+
+ bmi      com_cont
+
+ asr.b    #3,d1
+
+ cmp.b    am_zuge(a0),d1
+
+ bne      com_cont
+
+ move.w   ziel_such(a6),d0
+
+ move.b   0(a0,d0.w),d0
+
+ asr.b    #3,d0
+
+ cmp.b    d0,d1
+
+ beq      com_cont
+
+ move.w   start_such(a6),d0
+
+ ext.l    d0
+
+ divu     #8,d0
+
+ move.l   d0,comp_an_x(a6)
+
+ move.w   ziel_such(a6),d0
+
+ ext.l    d0
+
+ divu     #8,d0
+
+ move.l   d0,comp_en_x(a6)
+
+ move.l   a6,a1
+
+ add.l    #comp_partie,a1
+
+ move.w   #blk_vars/4-1,d0
+
+com_tausch:
+
+ move.l   (a0)+,(a1)+
+
+ dbra     d0,com_tausch
+
+ move.l   a6,-(a7)
+
+ move.l   a6,-(a7)
+
+ add.l    #comp_partie,(a7)
+
+ jsr      gueltig
+
+ addq.l   #4,a7
+
+ move.l   (a7)+,a6
+
+ tst.w    figur_return
+
+ bmi      com_cont
+
+ move.w   12(a6),-(a7)
+
+ move.l   a6,-(a7)
+
+ add.l    #comp_partie,(a7)
+
+ jsr      bewerte
+
+ addq.l   #6,a7
+
+ move.w   wert,d0
+
+ cmp.w    bewertung(a6),d0
+
+ blt      com_cont
+
+ move.w   wert,bewertung(a6)
+
+ move.l   a6,a0
+
+ move.l   a6,a1
+
+ add.l    #comp_partie,a0
+
+ add.l    #comp_hi_par,a1
+
+ move.w   #block_ende/4-1,d0
+
+com_tau1:
+
+ move.l   (a0)+,(a1)+
+
+ dbra     d0,com_tau1
+
+com_cont:
+
+ add.w    #1,ziel_such(a6)
+
+ cmp.w    #64,ziel_such(a6)
+
+ blt      zweit_suche
+
+ add.w    #1,start_such(a6)
+
+ cmp.w    #64,start_such(a6)
+
+ blt      erst_suche
+
+; add.w    #1,comp_an_x(a6)
+
+; cmp.w    #8,comp_an_x(a6)
+
+; blt      com_aus_x
+
+; add.w    #1,comp_an_y(a6)
+
+; cmp.w    #8,comp_an_y(a6)
+
+; blt      com_aus_y
+
+com_ende:
+
+ move.l   8(a6),a0
+
+ move.l   a6,a1
+
+ add.l    #comp_hi_par,a1
+
+ move.w   #block_ende/4-1,d0
+
+com_etausch:
+
+ move.l   (a1)+,(a0)+
+
+ dbra     d0,com_etausch
+
+ move.l   8(a6),a0
+
+ unlk     a6
+
+ rts
+
+wert:     blk.w 1
+
+
+
+bewerte:
+
+ bew_partie = - block_ende
+
+ akt_wert = bew_partie-2
+
+ bew_link = akt_wert
+
+ link     a6,#bew_link
+
+ move.l   8(a6),a0
+
+ move.l   a6,a1
+
+ add.l    #bew_partie,a1
+
+ move.w   #block_ende/4-1,d0
+
+bew_tausch:
+
+ move.l   (a0)+,(a1)+
+
+ dbra     d0,bew_tausch
+
+ move.l   a6,a0
+
+ add.l    #bew_partie,a0
+
+ tst.w    12(a6)
+
+ bmi      jetzt_bewerte
+
+rekursion:
+
+ bchg     #0,seite(a0)
+
+ bchg     #0,am_zuge(a0)
+
+ move.w   12(a6),-(a7)     ;SpielstÑrke
+
+ move.l   a0,-(a7)
+
+ jsr      compi_zug
+
+ move.l   (a7)+,a0
+
+ addq.l   #2,a7
+
+ bchg     #0,seite(a0)
+
+ bchg     #0,am_zuge(a0)
+
+jetzt_bewerte:
+
+ clr.w    d0
+
+ move.w   #63,d1
+
+add_sub:
+
+ move.b   0(a0,d1.w),d2
+
+ tst.b    d2
+
+ bmi      add_sub_ende
+
+ move.b   d2,d3
+
+ and.b    #%111,d3
+
+ addq.b   #1,d3
+
+ asr.b    #3,d2
+
+ cmp.b    am_zuge(a0),d2
+
+ beq      sub
+
+ neg.b    d3
+
+sub:
+
+ ext.w    d3
+
+ add.w    d3,d0
+
+add_sub_ende:
+
+ dbra     d1,add_sub
+
+ move.w   d0,akt_wert(a6)
+
+ move.l   a6,a0
+
+ add.l    #bew_partie,a0
+
+ bchg     #0,seite(a0)
+
+ bchg     #0,am_zuge(a0)
+
+ move.l   #-1,d2
+
+g_ckoenig_such:
+
+ addq.l   #1,d2
+
+ move.b   0(a0,d2.w),d0
+
+ move.b   d0,d1
+
+ and.w    #7,d0
+
+ cmp.w    #5,d0
+
+ bne      g_ckoenig_such
+
+ asr.b    #3,d1
+
+ and.b    #1,d1
+
+ cmp.b    am_zuge(a0),d1
+
+ bne      g_ckoenig_such
+
+ divs     #8,d2
+
+ move.w   d2,g_schach_y
+
+ swap     d2
+
+ move.w   d2,g_schach_x
+
+ move.l   a0,-(a7)
+
+ jsr      g_schach
+
+ move.l   (a7)+,a0
+
+ bchg     #0,seite(a0)
+
+ bchg     #0,am_zuge(a0)
+
+ tst.w    schach_return
+
+ bpl      nicht_add
+
+ add.w    #10,akt_wert(a6)
+
+nicht_add:
+
+ move.w   akt_wert(a6),wert
+
+ unlk     a6
+
+ rts
+
+
+
+brett_handle:  blk.w 1
+
+partie_handle: blk.w 1
+
+uhr_handle:    blk.w 1
+
+
+
+malloc_fail:
+
+ move.w   #52,opcode     ;form_alert
+
+ move.w   #1,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ move.w   #1,intin
+
+ move.l   #malloc,addrin
+
+ jsr      aes
+
+ bra      ende
+
+malloc:   dc.b '[3][Nicht genug Speicher fÅr LUXOR Chess !!!][Abbruch]',0
+
+ even
+
+
+
+dialog:
+
+ move.w   #112,opcode    ;rsrc_gaddr
+
+ move.w   #2,sintin
+
+ move.w   #1,sintout
+
+ clr.w    saddrin
+
+ move.w   #1,saddrout
+
+ clr.w    intin
+
+ move.w   #2,intin+2
+
+ jsr      aes
+
+ move.l   addrout,dial_addr
+
+ move.w   #54,opcode     ;form_center
+
+ clr.w    sintin
+
+ move.w   #5,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ move.w   #1,intin
+
+ clr.w    intin+2
+
+ clr.w    intin+4
+
+ move.w   #640,intin+6
+
+ move.w   #400,intin+8
+
+ move.l   dial_addr,addrin
+
+ jsr      aes
+
+ move.w   #51,opcode     ;form_dial
+
+ move.w   #9,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ clr.w    intin
+
+ clr.w    intin+10
+
+ clr.w    intin+12
+
+ move.w   #640,intin+14
+
+ move.w   #400,intin+16
+
+ jsr      aes
+
+ move.w   #42,opcode     ;Objc_draw
+
+ move.w   #6,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ clr.w    intin
+
+ move.w   #4,intin+2
+
+ move.w   #50,intin+4
+
+ move.w   #50,intin+6
+
+ move.w   #540,intin+8
+
+ move.w   #300,intin+10
+
+ move.l   dial_addr,addrin
+
+ jsr      aes
+
+ move.w   #50,opcode     ;Form_do (Dialog mit Anwender)
+
+ move.w   #1,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ clr.w    intin
+
+ move.l   dial_addr,addrin
+
+ jsr      aes
+
+ move.w   #47,opcode
+
+ move.w   #8,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ move.w   intout,intin
+
+ clr.w    intin+2
+
+ clr.w    intin+4
+
+ clr.w    intin+6
+
+ move.w   #640,intin+8
+
+ move.w   #400,intin+10
+
+ clr.w    intin+12
+
+ clr.w    intin+14
+
+ move.l   dial_addr,addrin
+
+ jsr      aes
+
+ move.w   #51,opcode     ;form_dial
+
+ move.w   #9,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ move.w   #3,intin
+
+ clr.w    intin+10
+
+ clr.w    intin+12
+
+ move.w   #640,intin+14
+
+ move.w   #400,intin+16
+
+ jsr      aes
+
+ rts
+
+dial_addr: dc.l  1
+
+
+
+rsc_fehlt:
+
+ move.w   #52,opcode     ;form_alert
+
+ move.w   #1,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ move.w   #1,intin
+
+ move.l   #rsc_warn,addrin
+
+ jsr      aes
+
+ bra      ende
+
+rsc_warn: dc.b  '[3][Die Datei  LUXOR.RSC  fehlt !][Abbruch]',0
+
+ even
+
+
+
+menuezeile:
+
+ lea      men_index,a0
+
+ lea      men_sprung,a1
+
+ move.w   puffer+8,d0
+
+men_vergleich:
+
+ move.l   (a1)+,a2
+
+ bmi      men_weiter
+
+ cmp.w    (a0)+,d0
+
+ bne      men_vergleich
+
+ jsr      (a2)
+
+men_weiter:
+
+ move.w   #33,opcode
+
+ move.w   #2,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ move.w   puffer+6,intin
+
+ move.w   #1,intin+2
+
+ move.l   menue_addr,addrin
+
+ jsr      aes
+
+ rts
+
+info:
+
+ move.w   #112,opcode    ;rsrc_gaddr
+
+ move.w   #2,sintin
+
+ move.w   #1,sintout
+
+ clr.w    saddrin
+
+ move.w   #1,saddrout
+
+ clr.w    intin
+
+ move.w   #1,intin+2
+
+ jsr      aes
+
+ move.l   addrout,obj_addr
+
+ move.w   #54,opcode     ;form_center
+
+ clr.w    sintin
+
+ move.w   #5,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ move.w   #1,intin
+
+ clr.w    intin+2
+
+ clr.w    intin+4
+
+ move.w   #640,intin+6
+
+ move.w   #400,intin+8
+
+ move.l   obj_addr,addrin
+
+ jsr      aes
+
+ move.w   #51,opcode     ;form_dial
+
+ move.w   #9,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ clr.w    intin
+
+ clr.w    intin+10
+
+ clr.w    intin+12
+
+ move.w   #640,intin+14
+
+ move.w   #400,intin+16
+
+ jsr      aes
+
+ move.w   #42,opcode     ;Objc_draw
+
+ move.w   #6,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ clr.w    intin
+
+ move.w   #3,intin+2
+
+ move.w   #50,intin+4
+
+ move.w   #50,intin+6
+
+ move.w   #540,intin+8
+
+ move.w   #300,intin+10
+
+ move.l   obj_addr,addrin
+
+ jsr      aes
+
+ move.w   #50,opcode     ;Form_do (Dialog mit Anwender)
+
+ move.w   #1,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ clr.w    intin
+
+ move.l   obj_addr,addrin
+
+ jsr      aes
+
+ move.w   #47,opcode
+
+ move.w   #8,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ move.w   intout,intin
+
+ clr.w    intin+2
+
+ clr.w    intin+4
+
+ clr.w    intin+6
+
+ move.w   #640,intin+8
+
+ move.w   #400,intin+10
+
+ clr.w    intin+12
+
+ clr.w    intin+14
+
+ move.l   obj_addr,addrin
+
+ jsr      aes
+
+ move.w   #51,opcode     ;form_dial
+
+ move.w   #9,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ move.w   #3,intin
+
+ clr.w    intin+10
+
+ clr.w    intin+12
+
+ move.w   #640,intin+14
+
+ move.w   #400,intin+16
+
+ jsr      aes
+
+ rts
+
+obj_addr: dc.l  1
+
+laden:
+
+ move.w   #$19,-(a7)
+
+ trap     #1
+
+ addq.l   #2,a7
+
+ add.b    #65,d0
+
+ move.b   d0,lade_buff-2
+
+ clr.w    -(a7)
+
+ move.l   #lade_buff,-(a7)
+
+ move     #$47,-(a7)
+
+ trap     #1
+
+ addq.l   #8,a7
+
+ move.l   #lade_buff,a0
+
+nullsuch:
+
+ tst.b    (a0)+
+
+ bne      nullsuch
+
+ lea      extender,a1
+
+ subq.l   #1,a0
+
+anhang:
+
+ move.b   (a1),(a0)+
+
+ tst.b    (a1)+
+
+ bne      anhang
+
+ move.w   #90,opcode          ;Get_in_File
+
+ clr.w    contrl+2
+
+ move.w   #2,contrl+4
+
+ move.w   #2,contrl+6
+
+ clr.w    contrl+8
+
+ move.l   #lade_buff-2,addrin
+
+ move.l   #nam_buff,addrin+4
+
+ move     #1,intin
+
+ jsr      aes
+
+ tst.b    nam_buff
+
+ bne      file_exist
+
+ rts
+
+file_exist:
+
+ tst      intout+2
+
+ bne      lade_ok
+
+ rts
+
+lade_ok:
+
+ move.l   #lade_buff,a0
+
+nullwarte:
+
+ tst.b    (a0)+
+
+ bne      nullwarte
+
+subwarte:
+
+ cmp.b    #'\',-(a0)
+
+ bne      subwarte
+
+ move.l   #nam_buff,a1
+
+ addq.l   #1,a0
+
+haenge_an:
+
+ move.b   (a1)+,(a0)+
+
+ tst.b    (a1)
+
+ bne      haenge_an
+
+ clr.b    (a0)
+
+ move     #2,-(a7)
+
+ move.l   #lade_buff,-(a7)
+
+ move     #$3d,-(a7)
+
+ trap     #1
+
+ addq.l   #8,a7
+
+ tst.w    d0
+
+ bmi      neufile
+
+ rts
+
+
+
+neufile:
+
+ move     #52,opcode
+
+ move     #1,contrl+2
+
+ move     #1,contrl+4
+
+ move     #1,contrl+6
+
+ clr.w    contrl+8
+
+ move     #1,intin
+
+ move.l   #neudatbox,addrin
+
+ jsr      aes
+
+ rts
+
+
+
+kein_fenster:
+
+ move.w   #52,opcode     ;form_alert
+
+ move.w   #1,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ move.w   #1,intin
+
+ move.l   #fenster,addrin
+
+ jsr      aes
+
+ rts
+
+fenster:
+
+ dc.b '[3][Zu viele Fenster geîffnet !!!][Abbruch]',0
+
+ even
+
+
+
+beenden:
+
+ move.w   #52,opcode     ;form_alert
+
+ move.w   #1,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ move.w   #2,intin
+
+ move.l   #endebox,addrin
+
+ jsr      aes
+
+ cmp.w    #1,intout
+
+ beq      ende
+
+ rts
+
+ende:
+
+ move.l   altstack,a7
+
+ clr.w    -(a7)
+
+ trap     #1
+
+extender:      dc.b     '\*.TRM',0,0
+
+ even
+
+altstack: blk.l  1
+
+
+
+bewegen:
+
+ move.w   #105,opcode         ;wind_set
+
+ move.w   #6,sintin
+
+ move.w   #1,sintout
+
+ clr.w    saddrin
+
+ clr.w    saddrout
+
+ move.w   puffer+6,intin
+
+ move.w   #5,intin+2          ;Grîûe
+
+ move.w   puffer+8,intin+4
+
+ move.w   puffer+10,intin+6
+
+ move.w   puffer+12,intin+8
+
+ move.w   puffer+14,intin+10
+
+ jsr      aes
+
+ rts
+
+
+
+oben:
+
+ move.w   #104,opcode         ;wind_get
+
+ move.w   #2,sintin
+
+ move.w   #5,sintout
+
+ clr.w    saddrin
+
+ clr.w    saddrout
+
+ move.w   #10,intin+2         ;oben ?
+
+ jsr      aes
+
+ move.w   partie_handle,d0
+
+ cmp.w    intout+2,d0
+
+ bne      weitermachen
+
+ rts
+
+weitermachen:
+
+ move.w   #105,opcode         ;wind_set
+
+ move.w   #6,sintin
+
+ move.w   #1,sintout
+
+ clr.w    saddrin
+
+ clr.w    saddrout
+
+ move.w   brett_handle,intin
+
+ move.w   #10,intin+2         ;nach oben
+
+ jsr      aes
+
+ move.w   #105,opcode         ;wind_set
+
+ move.w   #6,sintin
+
+ move.w   #1,sintout
+
+ clr.w    saddrin
+
+ clr.w    saddrout
+
+ move.w   uhr_handle,intin
+
+ move.w   #10,intin+2         ;nach oben
+
+ jsr      aes
+
+ move.w   #105,opcode         ;wind_set
+
+ move.w   #6,sintin
+
+ move.w   #1,sintout
+
+ clr.w    saddrin
+
+ clr.w    saddrout
+
+ move.w   partie_handle,intin
+
+ move.w   #10,intin+2         ;nach oben
+
+ jsr      aes
+
+ rts
+
+
+
+partie_:
+
+ dc.b    3,  1,  2,  4,  5,  2,  1,  3
+
+ dc.b    0,  0,  0,  0,  0,  0,  0,  0
+
+ dc.b   -1, -1, -1, -1, -1, -1, -1, -1
+
+ dc.b   -1, -1, -1, -1, -1, -1, -1, -1
+
+ dc.b   -1, -1, -1, -1, -1, -1, -1, -1
+
+ dc.b   -1, -1, -1, -1, -1, -1, -1, -1
+
+ dc.b  8+0,8+0,8+0,8+0,8+0,8+0,8+0,8+0
+
+ dc.b  8+3,8+1,8+2,8+4,8+5,8+2,8+1,8+3
+
+
+
+status_norm:
+
+ move.w   #129,opcode  ;Clipping aus
+
+ move.w   #2,contrl+2
+
+ move.w   #1,contrl+6
+
+ move.w   #0,intin
+
+ jsr      vdi
+
+ move.w   #100,opcode         ;open virtual workstation
+
+ clr.w    contrl+2
+
+ move.w   #11,contrl+6
+
+ move.w   grhandle,contrl+12
+
+ lea      intin,a0
+
+ move.w   #9,d0
+
+initial:
+
+ move.w   #1,(a0)+
+
+ dbra     d0,initial
+
+ move.w   #2,intin+20
+
+ move.w   grhandle,contrl+12
+
+ jsr      vdi
+
+ move.w   #78,opcode     ;maus_form
+
+ move.w   #1,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ clr.w    saddrout
+
+ clr.w    intin
+
+ jsr      aes
+
+ rts
+
+
+
+scrolling:
+
+ move.w   puffer+8,intin+4
+
+schieb_fresh:
+
+ move.w   #105,opcode               ;stellt Schieber ein
+
+ move.w   #6,sintin
+
+ move.w   #1,sintout
+
+ clr.w    saddrin
+
+ clr.w    saddrout
+
+ move.w   partie_handle,intin
+
+ move.w   #9,intin+2
+
+ jsr      aes
+
+ move.w   partie_handle,puffer+6
+
+ jsr      erneuern
+
+ rts
+
+
+
+pfeile:
+
+ clr.w    intin+4
+
+ bra      schieb_fresh
+
+
+
+show_maus:
+
+ move.w   #78,opcode
+
+ move.w   #1,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ move.w   #0,saddrout
+
+ move.w   #257,intin
+
+ jsr      aes
+
+ rts
+
+hide_maus:
+
+ move.w   #78,opcode
+
+ move.w   #1,sintin
+
+ move.w   #1,sintout
+
+ move.w   #1,saddrin
+
+ move.w   #0,saddrout
+
+ move.w   #256,intin
+
+ jsr      aes
+
+ rts
+
+
+
+ dc.b     'A:'
+
+lade_buff:     blk.b  64
+
+nam_buff:      dc.b   'TERMIN.TRM',0
+
+ even
+
+menue_addr:    blk.l  1
+
+pfadname: dc.b   'BLUES.RSC',0
+
+puffer:   blk.w  16,0
+
+ev_codes: dc.w 10,20,21,24,26,27,28,0
+
+ev_spruenge: dc.l menuezeile,erneuern,oben,pfeile,scrolling,bewegen,bewegen,-1
+
+men_index: dc.w     10,19,22,0
+
+men_sprung: dc.l    info,laden,beenden,-1
+
+neudatbox:
+
+ dc.b '[2][Neue Datei ?][Ok|Abbruch]',0
+
+endebox:
+
+ dc.b '[3][Ende des Programms lîscht alle|vorher '
+
+ dc.b 'nicht gespeicherten Termine !][Ende|Weiter]',0
+
+ even
+}}}

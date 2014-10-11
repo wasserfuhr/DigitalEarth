@@ -1,0 +1,4 @@
+* InterWiki: [WikiPedia:Computing_machinery_and_intelligence]
+* DcAuthor: AlanTuring
+
+TuringTest

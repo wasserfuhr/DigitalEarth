@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/t/RalfTreinen
+* HomePage: http://www.pps.jussieu.fr/~treinen/
+* PageNumber: 6
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi AlexAiken RalfTreinen
+* CoAuthor: GertSmolka

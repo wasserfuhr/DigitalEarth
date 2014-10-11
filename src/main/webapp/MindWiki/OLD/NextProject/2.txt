@@ -1,0 +1,6 @@
+The next ProJect of RainerWasserfuhr:
+
+Candidates:
+||StandOrt||Staus
+|StadtBerlin|pending
+|HamBurg|pending

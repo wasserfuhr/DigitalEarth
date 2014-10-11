@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/18/5628
+* PageNumber: 8
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge JoergMueller NorbertKuhn IsabelJohn
+|[XingLe:Isabel_John]
+|[FaceBook:100000590414834]

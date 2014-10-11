@@ -1,0 +1,157 @@
+To add a LockSession please copy next paragraph/Um eine LockSession hinzuzufügen
+
+''bitte den nachfolgenden Paragraphen kopieren:''
+
+ThomasKoeplin LockSchuppen CoWorking FutureLab2056 SingularAcademy LockPresentation EmotivEpoc GoodByeKurzweil RaysTedTalk PiratePad SingularSummitEurope LongBetOne CoOrpheum PalomarFive BastiHirsch RamonaKurzweil DigitalEquipment JayForrester
+
+* yyyy-MM-dd: NextGuest
+** MindPlace:
+** HotTopics:
+* TeilNehmer
+** MindPlace:
+*** LockOffice: RalfLippold SoerenRogoll
+*** GeZero43: RainerWasserfuhr
+*** EtcEtc
+** HotTopics: RechtsForm
+** TagesOrdnung
+*** ToDo
+**** starte LifeStream
+**** alle TeilNehmer sagen wieviel Zeit sie mitgebracht haben
+**** alle TeilNehmer im LockOffice zahlen ihre LockCoupon's
+**** LockOfficer kündigt die Zeit der geplanten Pausen an
+**** TeilNehmer kündigen die LockSession per TwittEr an
+**** PresencingStatus
+*** WellDone
+
+
+
+** LockOfficer:
+** PresencingStatus
+*** RealName
+**** SessionRating: 
+**** good: 
+**** tricky: 
+**** learned: 
+**** NextAction: 
+**** NextGuest: 
+
+Bisherige BeSuch'er/ ReCent guests at the LockOffice:
+* 2010-03-17: JeMand
+** MindPlace: CafeDuesenberg
+** HotTopics: FaceBook LockSchuppenAg LockCoupon MindWiki CamelCase ItElligence LockSchuppen FutureSax EtherPad BusinessPlan OpenEnterprise ZeitenStroemung RestaurantElements FaceBook BetaHaus
+* 2010-03-17: RalfLippold MarcoDziallas JohannesGeorgHaaser RainerWasserfuhr ConstanceWolter  PierreTunger AlexanderFriedland MatthiasRietmann
+** EtherPad: SoerenRogoll
+* MindPlace: CafeDuesenberg
+* HotTopics: RayKurzweil TwittEr TechnologischBeschleunigung MerBitz GoogleEarth FlickR LockSketch UsbLili SpaceLiftAg XingLe FaceBook DatenSchutz ParaNoid
+
+* 2010-03-16: MarcoDziallas
+** LockOfficer: RalfLippold RainerWasserfuhr
+** MindPlace: LockOffice McXery
+** PresencingStatus
+*** RainerWasserfuhr
+**** SessionRating: *
+**** good: observing a FutureLab2056 visitor, McXery
+**** tricky: missed opportunity to evolve MarketCap and WechselKurs
+**** learned: GeDuld
+**** NextGuest: AndreasBoernig
+*** RalfLippold
+**** SessionRating: **
+**** good: FreiRaum LockSketch EnricoNake
+**** tricky: GeldVsNutzen
+**** learned: TooMuchIsTooMuch
+**** NextAction: TSystemsMms OccDd
+**** NextGuest: MatthiasRietman
+* 2010-03-16: AlexanderFriedland:
+** HotTopics CafeWorld OpeningHours OsmWiki LockOffice prezi Twiddern BeastFile GoogleInc MindSkill EinfachMachen LarsHinrichs MindId HomeStead VEBLadenAuf OsmStats LockSchuppenAg ferienzimmer-dresden FbApp Twiddern Prezi bacchus-dresden PortEins InSide Twiddern GoogleAnalytics EinsUndEins EinfachMachen MatthiasRietmann NewTimesSquare CafeDuesenberg ZeitenStroemung Kevin Hauke  GemeinsamArbeiten HallenProjekt SoerenRogoll MircoDaSilva DresdnerPolitiker GoogleWave OpenStreetMap WikiWallTagCloud ScreenR PayPal BillGates SurfaceTable NooPolis
+* 2010-03-15 MatthiasRietmann
+* 2010-03-15 ConstanceWolter JensBemme
+* 2010-03-15 KatjaGrosser ChristianRost
+* 2010-03-13: FlorianKlare SoerenRogoll GabrieleKontor ConstanceWolter CordulaSchoellhorn PeggyJerchel SvenEchtermeyer MarcusBertelsmeier ChristineSchlinck KatrinKahle PeterLehmann EtAl
+** MindPlace: LockOffice
+** HotTopics: see LockSchuppenBausteln
+** LockOfficer: RalfLippold RainerWasserfuhr
+** PresencingStatus
+*** RainerWasserfuhr
+**** SessionRating: ****
+**** good: WikiWallGame of TineRoyal, won MindBet about # of LockSchuppenBausteln-TeilNehmer
+**** tricky: only 1 ScreenR, only 1 LockSchuppen3D BuildingModel
+**** learned: KeirseyType of KaKa and PeLe
+**** NextGuest: WolfgangDonsbach
+* 2010-03-05: MarcoDziallas
+** MindPlace:LockOffice
+** HotTopics:CoWorking LockSchuppen OpenCoffeeClubDresden UndSonstSo LockBirthday
+** LockOfficer: RalfLippold
+** PresencingStatus
+*** MarcoDziallas
+**** SessionRating: 
+**** good: KartoffelSuppe SkyPe CharlesVanDerHaegen
+**** tricky: neuer Rechentechnik
+**** learned: 
+**** NextAction: Für LockBirthday LockMittel entwickeln (DuesenBerg, OpenCoffeeClubDresden, o.ä.) in Verbindung mit UndSonstSo
+**** NextGuest: 
+*** RalfLippold
+**** SessionRating: ****
+**** good: SkyPeCharlesVanDerHaegen LockPresentation
+**** tricky: nix
+**** learned: Spontanes SkyPe entspannt möglich 
+**** NextAction: LockPresentation für JohannesLohmeyer und SocialBar
+**** NextGuest: JensBemme
+
+
+* 2010-03-05:1630: RobertWartenberg
+** PresencingStatus
+*** RainerWasserfuhr
+**** SessionRating: ***
+**** good: spannende ConNect'ions rund um MindId
+**** tricky: LockSchuppenAg vermitteln
+**** learned: siehe good
+**** NextAction: coache RaLi
+**** NextGuest: ThomasVonDerElbe
+*** RalfLippold
+**** SessionRating: ****
+**** good: WikiWall ViSion RobertWartenberg PiratenPartei
+**** tricky: Nix
+**** learned: LiquidDemocracy LiquidFeedback VotoRola VisionaeresDresden
+**** NextAction: BueroFetscherplatz LockOffice
+**** NextGuest: 
+
+* 2010-03-04:1400: SmForSounders
+** MindPlace: LockAgora
+** PresencingStatus
+*** RainerWasserfuhr
+**** SessionRating: ***
+**** good: viele NeuGier'ige Leute im LockOffice
+**** tricky: zu wenig Zeit, zu starr am Programm gehalten, keine Slides vorab/OnLine
+**** learned: ComPlex'ität von WebZwoNull aus didaktischer Sicht
+**** NextAction: neuer WorkShop: SemanticWebHandsOn 
+**** NextGuest: AlexanderGehre
+* 2010-03-03:1030-1130: MatthiasEichhoff
+** MindPlace: SkyPe
+** HotTopics: CrowdSourcing SecondInterest AmartyaSen RayKurzweil FrankSchaetzing NasaCoLab SecondLife LockSchuppen StaatlicheKunstsammlungen InnovationWorkshop BolognaProcess DesignThinking HubBerlin ExistenzGruender BundesWehr
+** LockOfficer: RalfLippold
+** PresencingStatus
+*** RalfLippold
+**** SessionRating: ****
+**** good: Spontane LockSession
+**** tricky: nix
+**** learned: SecondInterest ChristianWeilmeier
+**** NextAction: Invitation zu MindBroker
+**** NextGuest:
+* 2010-03-02:1530-1700 FriedemannHoeller
+** MindPlace: LockOffice
+** LockOfficer: RalfLippold RainerWasserfuhr
+** HotTopics: ParkPlatz  LongTermEvolution GerhardFettweis DresdenChess LockOffice DiffusionOfInnovations EricSchoop FlickR SchachOlympiade RobertVonWeizsaecker Kalmüken LongBetOne ChiefSingularityOfficer OpenStreetMap PolisProject ErnstMuellerStiftung PillNitz ExtremeBlue SmForFounders KuegelgenHaus BlueBrain LinieVier JuGene AnnetteSchavan BundesWehr
+** PresencingStatus
+*** RainerWasserfuhr
+**** SessionRating: ***
+**** good: WikiWall
+**** tricky: WandelDruck
+**** learned: activities at EiBiEm
+**** NextAction:
+**** NextGuest: GeorgMilbradt
+* 2010-02-28:1700 JfSchlinck ChristineSchlinck HeidiGallinat
+** MindPlace: LockOffice
+** LockOfficer: RalfLippold RainerWasserfuhr
+** HotTopics: DresdenExists ArturFriedrich ZettelKasten NiklasLuhmann JanHinrichs LarsHinrichs MartinRoell YvonneSchubert TeilhardDeChardin TimBonnemann TheSingularity RayKurzweil JohannesLohmeyer MooresLaw SiggiBecker GunterDueck NachHaltig PeterThiel WikiWall JirkaSchaefer RaimarScherer ZigaTurk
+
+more: LockSessionLog

@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Wendelin_Werner]
+* BornIn: 1968
+* BirthDay: 09-23
+* ViAf: http://viaf.org/viaf/69996749
+* HomePage: http://www.math.u-psud.fr/~werner/

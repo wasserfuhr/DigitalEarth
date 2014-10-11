@@ -1,0 +1,27 @@
+* InterWiki: [DeWikiPedia:Künstliche_Intelligenz], [LangReiter:AI], [ThoughtStorms:ArtificialIntelligence],[WebSeitz:AI]
+* MindQuote: "If we carefully prepare for this possibility in advance, not only might we overt DisAster, we might bring about an age of prosperity unlike anything seen before." - ShaneLegg
+* MindQuote: "Dich wundert nicht DesSturmesWucht, du hast ihn wachsen sehn;"
+
+short for: ArtificialIntelligence.
+
+SergeyBrin wants to achieve AI [until 2020|http://www.siggibecker.de/blog/archives/2007/01/cyc-und-google-totgesagte-leben-langer/]
+
+When will ArTelligence exist, so that human MiNd's will no longer be considered
+as the highest development of ConScious'ness:
+
+||Jahr||MindPeople
+|2025|ShaneLegg
+|2027|RainerWasserfuhr
+|2029|RayKurzweil
+|2080|DimitriUwarov
+|2222|YvonneSchubert
+
+BruceKlein already asked this: http://www.novamente.net/bruce/index.php/?p=54
+
+The RoadMap to ArTelligence will be stridden simultaneously via the three noble paths:
+* BioMind
+* GoogleMind
+* NewMind
+
+
+[{INSERT ReferringPagesPlugin}]

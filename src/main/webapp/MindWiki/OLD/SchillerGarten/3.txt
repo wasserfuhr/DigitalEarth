@@ -1,0 +1,13 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.05227
+* LaengenGrad: 13.80894
+* BoundingBox: 65
+* GraDient: 135
+* SlimNess: 0.8
+* HomePage: http://www.schillergarten.de/
+
+OpenStreetMap: http://www.openstreetmap.org/?lat=51.052525&lon=13.808655&zoom=18
+
+TotalRecall:
+* 20081006:1900: ChristineSchlinck, YvonneSchubert, RainerWasserfuhr, CoSc EtAl: SchluepferLuefter, OrthoMol, TotalRecall, KenFollett, WurfLotto, ExistenzFilm, MeinhofKomplex, DerUntergang, AndreasEschbach, GeSund, DarmFlora, BaSf.
+* 20080810: ChristineSchlinck, RainerWasserfuhr: MindShift, PieschenerRevolution

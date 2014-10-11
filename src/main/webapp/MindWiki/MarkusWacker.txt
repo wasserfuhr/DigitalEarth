@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* HomePage: http://www.informatik.htw-dresden.de/~wacker/
+* DbLp: http://dblp.uni-trier.de/rec/pid/41/2761
+* PageNumber: 6
+* PagePath: LarryPage SergeyBrin MonikaHenzinger KurtMehlhorn FriedhelmMeyerAufDerHeide MichaelWand HansPeterSeidel WolfgangStrasser MarkusWacker

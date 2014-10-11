@@ -1,0 +1,6 @@
+* IsA: MindEvent
+* HashTag: jl1
+* NamedAfter: JeanLucGodard JeanLucPicard
+* TeilNehmer: ChristianHeller TinaPickhardt MartinSchmidt SebastianSooth
+* FaceBookEvent: http://www.facebook.com/event.php?eid=236327850770
+* HotTopics: TheSingularity

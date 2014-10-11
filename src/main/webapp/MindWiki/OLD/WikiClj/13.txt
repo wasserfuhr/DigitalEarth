@@ -1,0 +1,15 @@
+;create WikiPage views
+;{{{
+
+((defn wiki []
+  (handle "wiki"
+   (fn []
+    (let [name (.substring (.getPathInfo request) 6)]
+     (if (.startsWith (.getPathInfo request) "/wiki/" )
+      (str 
+        (fetch-url (str "http://mindbroker.de/wiki/" name "?skin=raw")) 
+        "..." (.getTime (new java.util.Date))) )))
+   "")))
+   ; (clojure.xml/parse (str "http://feeds.delicious.com/v2/rss/rainer/" name)))))
+   ;(if (.startsWith "http://www.flickr.com/photos/")
+;}}}

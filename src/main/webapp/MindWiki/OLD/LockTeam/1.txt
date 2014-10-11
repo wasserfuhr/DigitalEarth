@@ -1,0 +1,7 @@
+!Aktive LockTeam:
+
+||VornameNachname||MindSkill's |||FirstnameLastName || MindSkill's
+| RalfLippold   | Networking, LeanThinking, CommmunityBuilding, SystemDynamics, ProcessConsultation, Singularity, TheoryU||| ||
+| MarcoDziallas   | ||| ||
+| PeterStawowy   | ||| ||
+| PeterHerbst   | ||| ||

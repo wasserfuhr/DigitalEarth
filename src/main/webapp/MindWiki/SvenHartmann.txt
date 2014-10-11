@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/SvenHartmann
+* HomePage: http://www.in.tu-clausthal.de/personen/aktuelle/prof-dr-sven-hartmann/
+* PageNumber: 11
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann WolfgangBibel KlausPJantke BernhardThalheim KlausDieterSchewe SebastianLink SvenHartmann

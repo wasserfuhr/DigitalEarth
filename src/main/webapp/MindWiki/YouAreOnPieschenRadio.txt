@@ -1,0 +1,33 @@
+soon:
+||PerSona          ||EpIsOde
+|AnJa              |NacktAufAnJa
+|CemBasman         |
+|ChristineSchlinck |MindQuestOne
+|ChristineSchlinck |WilliSchroll
+|DavidBrin         |wiki9
+|DieterSchwarz     |MindQuestOne
+|FrankWestphal     |
+|FriedrichWilhelmJunge|wiki9
+|FyodorDostoevsky  |wiki9
+|GordonMoore       |PeaNuts
+|HeidiGallinat     |
+|JfSchlinck        |MindQuestOne
+|JoergKeller       |GlaeserneWelt
+|KnusperFlocke     |
+|MartinRoell       |wiki9
+|MichaelGreve      |MindQuestOne
+|NealStephenson    |NacktAufAnJa
+|NiklasLuhmann     |WilliSchroll
+|PhilipRosedale    |NacktAufAnJa
+|RalfLippold       |MindQuestOne PeaNuts
+|SiggiBecker       |WilliSchroll
+|SoerenStamer      |
+|SteveJurvetson    |MindQuestOne
+|SusanneRitzenhoff |
+|TimBruysten       |WilliSchroll
+|ThomasPromny      |
+|UteMoritz         |
+|UweTellkamp       |MindQuestOne
+|WilliamGibson     |NacktAufAnJa
+|WilliSchroll      |WilliSchroll
+|YvonneSchubert    |NacktAufAnJa

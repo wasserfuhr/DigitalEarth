@@ -1,0 +1,10 @@
+;
+;{{{
+((defn wikitable []
+  (handle "table"
+   (fn []
+    (let [name (.substring (.getPathInfo request) 6)]
+     (if (.startsWith (.getPathInfo request) "/wiki/" )
+      (fetch-url (str "http://mindbroker.de/wiki/" name "?skin=raw")))))
+   "")))
+;}}}

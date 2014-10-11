@@ -1,0 +1,8 @@
+* IsA: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Bill_Gates] [WikiWikiWeb:BillGates]
+* JahrGang: 1955
+* BirthDay: 10-28
+* DbLp: http://dblp.uni-trier.de/rec/pid/g/BillGates
+* PageNumber: InFinite
+* MindSkill: VerMoegen
+|[TwittEr:billgates]

@@ -1,0 +1,5 @@
+* InterWiki: [CommunityWiki:FOAF] [DeWikiPedia:FOAF] [WebSeitz:FOAF] [WikiWikiWeb:FriendOfaFriend]
+
+Friend of a friend.
+
+How to build a TransParent NextGeneration distributed open SocialNetwork based on FoAf?

@@ -1,0 +1,13 @@
+ZUERST LESEN: 
+* http://www.blog.mactv24.de/2007/11/22/xing-zickt-rum/
+
+MindBroker ReSearch macht jetzt ein kleines Experiment zu BuergerBeteiligung im einem SocietoNetwork:
+Ein MindVote: Soll Michael sein altes Bild behalten dürfen?
+
+||XingLe          ||XingId||seit  ||Kontakte||Vote
+|OliverGassner    |      ?|02/2004|      664|banane
+|RainerWasserfuhr |    752|10/2003|      538|ja
+|ChristineSchlinck|      ?|12/2004|      114|?
+|YvonneSchubert   |      ?|06/2004|      111|?
+|HeikeRibke       |6571534|06/2007|        5|ja
+|SaWe             |  klein|??/2003|        ?|?

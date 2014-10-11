@@ -1,0 +1,23 @@
+* MindTag: ReView
+
+Ein WikiBasiert'es automatisches Quiz für die BuergerInnen von NooPolis:
+
+Der WohnSitz von RainerWasserfuhr ist?:
+# WirkZentrum
+# StadtBerlin
+# GrueterichEins
+
+Die AugenFarbe von RainerWasserfuhr ist?:
+# blau
+# grau
+# PeRcAnAt-grün
+
+MindOne von FaceBook ist?:
+# PeterThiel
+# MarkZuckerberg
+# LarsHinrichs
+# PhilipRosedale
+
+etc. etc. (Weitere Fragen automatisch generiert aus dem PageIndex und MindProps im MindWiki)
+
+bald als WebApp unter http://quiz.mindbroker.de/ ?

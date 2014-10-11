@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/04/146
+* HomePage: http://www.tu-dresden.de/wwwiisih/uhr.html
+* PageNumber: 10
+* PagePath: LarryPage TerryWinograd NorbertStreitz WendyHall JimHendler WolfgangWahlster WolfgangKoenig KarlheinzKautz SabineZumpe WernerEsswein WolfgangUhr

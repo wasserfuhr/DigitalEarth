@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Miguel_de_Icaza]
+* DbLp: http://dblp.uni-trier.de/rec/pid/79/5006
+|[TwittEr:migueldeicaza]

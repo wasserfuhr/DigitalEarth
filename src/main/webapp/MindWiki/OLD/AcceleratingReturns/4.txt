@@ -1,0 +1,33 @@
+RayKurzweil AbsTra'cts MooresLaw towards a new WeltFormel.
+
+* mass use of inventions / diameter in millimeter
+* countdown to TheSingularity / paradigm shift time
+* MooresLaw / calculations per seconds per $1000
+* DNA sequencing cost (per base pair)/ UsDollar
+* human genes mapped per year / number of genes
+* RAM / kilobytes per UsDollar
+* Magnetic data storage  / kilobytes per UsDollar
+* ISP cost-performance / bits-per-second per UsDollar
+* Modem cost performance / bits-per-second per UsDollar
+* InterNet backbone bandwidth / bits-per-second
+* fastest possible data transmission speed  / bits-per-second
+* InterNet / number of hosts
+* price performance of wireless data devices /  bits-per-second per UsDollar
+* decrease in transistor size / diameter
+* decrease in size of computers / cubic meters
+* decrease in size of mechanical devices/ diameter
+* growth pof computing / calculations per second per UsDollar
+* resolution of noninvasive BrainScan'ning devices / Millimeters
+* BrainScan'ning speed / Seconds
+* BrainScan'ning image reconstruction speed / seconds
+* total US GDP in constant dollars / year 2000 UsDollar's
+* per capita US GDP in constant dollars / year 2000 UsDollar's
+* percentage annual increase in US GDP / percentage increase
+* US private manufacturing / output per hour
+* E-Commerce / percent of US GDP
+* US patents granted / Number of patents
+* education expenditures in US / year 1999 UsDollar's
+* per capita US education expenditures / year 1999 UsDollar's
+* human LifeExpectancy / years
+
+EatThis!: ExPo'nential MegaTrend's almost everywhere.

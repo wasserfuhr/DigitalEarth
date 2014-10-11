@@ -1,0 +1,11 @@
+inspired by http://morale.erikbenson.com/person/erik
+
+||MindBroker      ||date     ||HappiNess||speed||coffeine||sleep||creativity
+|RalfLippold      |2010-04-08:2030| 95|
+|RalfLippold      |2010-04-08:1830| 90|
+|RalfLippold      |2010-04-08:1530| 70|
+|RalfLippold      |2010-04-08:1500| 80|
+|RalfLippold      |2010-04-08:0800| 20|
+|RainerWasserfuhr |2007-05-18     |   |105   |2        |10    |110
+
+MeNow

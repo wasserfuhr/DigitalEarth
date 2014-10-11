@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/18/985
+* PageNumber: 6
+* PagePath:LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann GerhardBarth
+
+DfKi DresdnerBank DeutschBank?

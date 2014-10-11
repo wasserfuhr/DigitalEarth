@@ -1,0 +1,14 @@
+Die MindBrokerAg ist eine eingespielte Gemeinschaft von MindTueftel-begeisterten DenkSport'lern und BoersenSpiel'ern.
+
+!Haupt-MitWirkende
+[{Image src='http://floor.mindbroker.de/chart'}]
+(Maßgeblich beim StillGestanden)
+
+!Weitere MitWirkende
+[{Image src='http://floor.mindbroker.de/chart?small'}]
+
+!Kurse und Futures:
+||MindBroker     ||MindFutures||IpoKurs||Aktueller Kurs
+|RainerWasserfuhr|          30|   10,00|9,501
+|DanielPoodratchi|          10|    4,50|3,5
+|AndreasWeigel   |            |        |2,501

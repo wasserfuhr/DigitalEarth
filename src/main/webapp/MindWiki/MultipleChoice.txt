@@ -1,0 +1,4 @@
+* MindTags: ReView
+* InterWiki: [DeWikiPedia:Multiple_Choice]
+
+idea for proto-AiGame-ChatBot: TuringTest for MultipleChoise questions, automatically created from MindWiki.

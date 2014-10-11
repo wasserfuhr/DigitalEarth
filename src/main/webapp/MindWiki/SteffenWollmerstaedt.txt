@@ -1,0 +1,5 @@
+* IsA: PerSon
+* HasTalked: RainerWasserfuhr
+|[TwittEr:youyou_eu]
+|[XingLe:steffen_wollmerstaedt]
+|[FaceBook:1087952623]

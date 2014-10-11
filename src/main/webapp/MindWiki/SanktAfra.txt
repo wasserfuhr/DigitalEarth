@@ -1,0 +1,4 @@
+* IsA: MindPlace
+* InterWiki: [DeWikiPedia:Sächsisches_Landesgymnasium_Sankt_Afra]
+* MindOne: UlrikeOstermaier
+* PartOf: StadtMeissen

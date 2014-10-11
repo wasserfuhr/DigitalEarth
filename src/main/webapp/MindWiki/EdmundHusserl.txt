@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Edmund_Husserl] [OpenCyc:EdmundHusserl]
+* LebensEnde: 1938
+* BirthDay: 04-08
+* MindSkill: MiNd
+
+Hat das LifeWiki erfunden.

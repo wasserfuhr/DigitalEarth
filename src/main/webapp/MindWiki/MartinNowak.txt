@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Martin_Nowak]
+* JahrGang: 1965
+* ViAf: http://viaf.org/viaf/34005721
+* HomePage: http://www.ped.fas.harvard.edu/people/faculty/
+
+NoBirthday

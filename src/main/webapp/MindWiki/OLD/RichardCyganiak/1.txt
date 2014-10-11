@@ -1,0 +1,3 @@
+* IsA: PerSon
+* HomePage: http://richard.cyganiak.de/
+* MindSkill: SemanticWeb

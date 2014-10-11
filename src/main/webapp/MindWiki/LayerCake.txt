@@ -1,0 +1,18 @@
+* http://www.w3.org/2004/Talks/0319-RDF-WGs/slide4-0.html
+
+[{Image src='http://www.w3.org/2004/Talks/0319-RDF-WGs/sw_stack.png'}]
+
+||LayerCake ||        ||MindWiki
+|Trust      |         |WebOfTrust
+|Proof      |         |InFer
+|Rules      |         |
+|OntoLogy   |         |
+|RdfSchema  |         |
+|Rdf Model & SynTax|  |
+|XmlQuery   |XmlSchema|
+|XML        |NameSpace|
+|URI        |UniCode  |
+
+* Signature EnCrypt'ion
+
+* RSS DublinCore Annotea P3P CcPp

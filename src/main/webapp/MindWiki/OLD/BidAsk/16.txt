@@ -1,0 +1,28 @@
+||MindBroker||type||#||price/share||Currency
+|YvonneSchubert|ask|80|1|EUR
+|RainerWasserfuhr|bid|200|  1|EUR
+|RainerWasserfuhr|bid|100|  2|EUR
+|RainerWasserfuhr|ask|20 | 20|EUR
+|RainerWasserfuhr|ask|20 | 20|EUR
+|RainerWasserfuhr|ask|10 |500|EUR
+|RainerWasserfuhr|ask|1|1.000.000.000.000|EUR
+
+* bid: der Kurs, zu dem ein Marktteilnehmer A bereit ist, ein Wertpapier zu kaufen
+* ask: der Kurs, zu dem ein Marktteilnehmer A bereit ist, ein Wertpapier zu verkaufen
+
+!Transaktionen
+||am    ||Stück||Kurs||von||an||Kommentar
+|20070414|   66|0|RainerWasserfuhr |TiBo|Geschenk
+|20070414|   20|0|DanielPoodratchi |TiBo|Geschenk
+|20070414|    5|0|AndreasWeigel    |TiBo|Geschenk
+|20070414|    5|0|OliverGassner    |TiBo|Geschenk
+|20070414|    3|0|YvonneSchubert   |TiBo|Geschenk
+|20070414|    1|0|ChristineSchlinck|TiBo|Geschenk
+|20070401|   10|0|RainerWasserfuhr |ChristineSchlinck|Englischkurs
+|20070401|   10|0|RainerWasserfuhr |RicardaDHerbrand |
+|200703xx|1.000|0|RainerWasserfuhr |AndreasWeigel    |
+|200702xx|1.500|0|RainerWasserfuhr |YvonneSchubert   |
+|200702xx|    2|0|RainerWasserfuhr |ChristineSchlinck|Geschenk
+|200702xx|2.500|0|RainerWasserfuhr |OliverGassner    |D-Quest
+|20061231|1.500|0|RainerWasserfuhr |AndreasWeigel
+|20061231|9.500|0|RainerWasserfuhr |DanielPoodratchi

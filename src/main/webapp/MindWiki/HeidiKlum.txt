@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Heidi_Klum], [OpenCyc:HeidiKlum]
+* BirthDay: 06-01

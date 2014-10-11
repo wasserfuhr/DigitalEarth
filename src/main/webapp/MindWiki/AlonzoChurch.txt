@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Alonzo_Church] [WikiWikiWeb:AlonzoChurch]
+* BornIn: 1903
+* BirthDay: 06-14
+* DiedIn: 1995

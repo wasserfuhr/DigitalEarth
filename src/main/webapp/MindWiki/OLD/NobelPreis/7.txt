@@ -1,0 +1,25 @@
+* MindTags: PredictionMarket, ReView
+* InterWiki: [OpenCyc: NobelPrize]
+
+RainerWasserfuhr wünscht sich einen PredictionMarket auf die NobelPreis'träger der ZuKunft.
+
+unter http://nobel.mindbroker.de/ ?
+
+bis dahin hier:
+
+||MindBroker||Aktien||Jahr||für||Preisträger
+|RainerWasserfuhr|0123|2020|Literatur|AndreasStuhlmueller
+
+2008:
+* MartinChalfie
+* OsamuShimomura
+* RogerTsien
+* PaulKrugman
+* JeanMarieGustaveLeClezio
+* FrancoiseBarreSinoussi
+* LucMontagnier
+* HaraldZurHausen
+* MarttiAhtisaari
+* MakotoKobayashi
+* ToshihideMaskawa
+* YoichiroNambu

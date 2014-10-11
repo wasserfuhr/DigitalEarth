@@ -1,0 +1,8 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0723
+* LaengenGrad: 13.7270
+* BoundingBox: 40
+* OpenStreetMap: http://openstreetmap.org/browse/node/262167333
+* HomePage: http://www.netto-online.de/angebote/handzettel.php?id=8664
+
+Ehemals ein "Plus"-SuperMarket mit kleinen Preisen, seit Anfang 2009 aber ein "Netto".

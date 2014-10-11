@@ -1,0 +1,5 @@
+* IsA: EnterPrise SocialNetwork
+* InterWiki: [DeWikiPedia:LinkedIn] [WebSeitz:LinkedIn],[WikiWikiWeb:LinkedIn]
+* HomePage: http://www.linkedin.com/
+* MindOne: ReidHoffman
+

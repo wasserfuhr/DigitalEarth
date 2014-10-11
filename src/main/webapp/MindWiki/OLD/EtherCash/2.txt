@@ -1,0 +1,3 @@
+* NamedAfter: EtherPad EtherNet
+
+[EtherPad:EtherCash]

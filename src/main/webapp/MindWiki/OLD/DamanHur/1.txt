@@ -1,0 +1,5 @@
+http://www.damanhur.info/en/html/ArcMagazineDet.asp?IDArt=80
+
+* BreitenGrad: 45.4179
+* LaengenGrad: 7.7498
+* BoundingBox: 50

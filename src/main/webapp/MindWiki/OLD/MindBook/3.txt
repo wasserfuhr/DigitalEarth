@@ -1,0 +1,1 @@
+alle IsBn's von Büchern, die BuergerInnen, angefangen vom BilderBuch, jemals gelesen oder in ihrer MindBib stehen haben.

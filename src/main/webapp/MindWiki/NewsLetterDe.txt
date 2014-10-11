@@ -1,0 +1,40 @@
+* WorldLanguages: english: NewsLetter
+
+!Entwurf für den NewsLetter:
+
+Hallo liebe(r) ***,
+
+dies ist der erste NewsLetter an alle BuergerInnen von NooPolis.
+Wir sind mittlerweile 40 BuergerInnen.
+Die PieschenBank hat ihre Online-Banking-Pforten geöffnet.
+Der Kontostand auf Deinem BankKonto beträgt *** KayGroschen.
+
+Im Juni fand im MindWiki die erste KabiNettWahl statt.
+Als MinisTer gewählt wurden ChristineSchlinck, HeikeRibke and JanBoehme.
+
+RainerWasserfuhr arbeitet an der Weiterentwicklung der Software.
+Seit Mai 2008 können neben dem BankKonto auch Aktien auf dem
+virtuellen MindFloor gehandelt werden.
+
+In Kürze wollen wir die ersten virtuellen StartUp's gründen.
+Heisseste Kandidaten sind derzeit:
+* KaufKnecht: (mit LarsKleinbeckes): persönliche Einkaufszettel mit aktuellen Preisinformationen
+* BildungsBurg: (mit BastiHirsch): die digitale video- und WikiBasiert'e Schule, Hochschule und Eliteuniversität unserer digitalen Republik
+
+Wir haben begonnen, die VerFassung in andere WeltSprache'n zu übersetzen.
+Eine erste Übersicht über den aktuellen Stand findest Du unter
+
+  http://www.mindbroker.de/synopsis.
+
+Falls Du jemanden kennst, der bei der Übersetzung helfen möchte: EinfachMachen.
+
+Am xx.xx. findet die erste SprechStunde statt, bei der alle
+BuergerInnen und Gäste über die Weiterentwicklung von NooPolis diskutieren
+können.
+
+Dieser NewsLetter soll in ZuKunft regelmässig an alle BuergerInnen verschickt werden.
+Du findest eine Online-Fassung dieses NewsLetter auch unter
+  http://mindbroker.de/wiki/NewsLetterDe
+
+Beste Grüße
+  RainerWasserfuhr - Gründersohn von NooPolis

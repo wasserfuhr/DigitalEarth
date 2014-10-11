@@ -1,0 +1,3 @@
+statt einer hierarchischen OrdNung können Seiten im MindWiki mehrere MindTags erhalten.
+
+bald könnte dann per MindApi automatisch der IndexIndex durch eine TagCloud ersetzt werden.

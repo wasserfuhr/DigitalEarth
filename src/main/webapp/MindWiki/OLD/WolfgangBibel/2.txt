@@ -1,0 +1,6 @@
+* MindTags: ProFessor
+* JahrGang: 1938
+* BirthDay: 10-28
+* HomePage: http://www.intellektik.de/
+* MindSkill: ArTelligence
+* MindFaves: KurzWeil

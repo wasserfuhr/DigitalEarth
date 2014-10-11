@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Thilo_Weichert]
+* DbLp: http://dblp.uni-trier.de/rec/pid/79/904
+
+MindOne von DeutschLand für DatenSchutz

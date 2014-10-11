@@ -1,0 +1,9 @@
+* IsA: SingularityMind
+* BornIn: 1984
+* BirthDay: 04-10
+* ShockLevel: 4
+* HomePage: http://www.acceleratingfuture.com/michael/
+* MindBlog: http://www.acceleratingfuture.com/michael/blog/
+|[DelIcioUs:anissimov]
+|[TwittEr:mikeanissimov]
+|[FaceBook:584287703]

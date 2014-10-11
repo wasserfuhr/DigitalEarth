@@ -1,0 +1,39 @@
+"Mit freiem Volk auf freiem Grund wird stehn": NooPolis: Eine virtuelle digitale Republik als NoMic-Game.
+
+spätere Startseite für http://noopolis.org
+
+!Hintergrund:
+ist die Übertragung des SelbstorganisationsPrinzip's der Wikipedia auf Gesellschaften. Die bestehen aus freien Bürgern, die sich ihre Gesetze selbst geben. 
+Viele Bürger sind mit der Gesetzgebung heute unzufrieden. Sie identifizieren sich kaum mit bestehenden politischen Organen. Auf allen Ebenen des Gemeinwesens - Stadt, Land, Bund - herrscht Gleichgültigkeit oder Ablehnung.
+
+
+!Idee:
+* Gründung einer virtuellen Republik zur Verfolgung dieser
+
+!Ziele:
+* Den Bürgern eine Plattform bieten für Identität, Freiheit und Vertrauen
+* einen Kodex einfacher, transparenter und verbindlicher Regeln
+* eine virtuelle Ökonomie schaffen für Unternehmen, die das digitale Zusammenleben der Bürger fördern
+
+!Verfassung:
+* NooPolis ist eine Republik mit dem LeaderShip-Modell des PrimusInterPares.
+* PrimeMinister von NooPolis in der ersten Legislatur ist YvonneSchubert.
+* Die Bürger von NooPolis haben FreiHeit.
+* Die Währung von NooPolis sind KayGroschen.
+* Die PieschenBank hütet die Währung von NooPolis.
+* Jeder Bürger von NooPolis hat genau eine MindId.
+* Ein Bürger, eine ID, ein Login. 
+* ungerade ID= männlich
+* gerade ID=weiblich
+
+* MindBroker ist ein VolksEigenerBetrieb auf dem Staatsgebiet von NooPolis.
+* MindBroker ist der E-Government-ServiceProvider von NooPolis.
+* WebofTrust: Menschen, die einander bekannt sind, können sich das Vertrauen aussprechen und bezeugen, dass dieser Mensch tatsächlich existiert und diesen Namen trägt.
+
+
+
+!Diskussion:
+Welche politischen Interessen sind an eine solche Idee geknüpft?
+* Sozialversicherungsnummer
+* Gesundheitskarte
+* Datenschutz

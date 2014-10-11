@@ -1,0 +1,5 @@
+* InterWiki: [DeWikiPedia:Hey-Joe-Prinzip]
+
+ActiveHelp
+
+SameAs [WikiWikiWeb:HeyJoe]?

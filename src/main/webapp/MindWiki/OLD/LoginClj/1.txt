@@ -1,0 +1,19 @@
+;LogIn
+;{{{
+
+((defn login []
+  (handle "login"
+   (fn []
+     (if 
+       (and 
+         (.startsWith (.getPathInfo request) "/login")
+         ;;TODO a lazy first security check
+         (.equals "id.mindbroker.de" (.getRemoteHost request)))
+      (do
+       (.setAttribute (.getSession request) "WikiName")
+       (.sendRedirect response (.getParameter request "pathInfo"))
+       )
+      ))
+   "")))
+
+;}}}

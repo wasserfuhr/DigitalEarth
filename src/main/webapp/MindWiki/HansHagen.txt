@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/HansHagen
+* HomePage: http://www-hagen.informatik.uni-kl.de/~hagen/
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker AndreasDengel StefanAgne HansHagen
+
+UniKl

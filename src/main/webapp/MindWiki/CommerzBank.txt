@@ -1,0 +1,3 @@
+* IsA: DaxUnternehmen
+* InterWiki: [DeWikiPedia:Commerzbank]
+* IsIn: DE0008032004

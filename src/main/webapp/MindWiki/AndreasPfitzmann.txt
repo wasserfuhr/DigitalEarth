@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Andreas_Pfitzmann]
+* BirthDay: 03-18
+* DbLp: http://dblp.uni-trier.de/rec/pid/p/AndreasPfitzmann
+* HomePage: http://www.inf.tu-dresden.de/index.php?node_id=495
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd NorbertStreitz RalfSteinmetz MaxMuehlhaeuser AlexanderSchill AndreasPfitzmann

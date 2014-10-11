@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Werner_Seelenbinder]
+* BornIn: 1904
+* BirthDay: 08-02

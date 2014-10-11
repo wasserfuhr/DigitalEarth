@@ -1,0 +1,3 @@
+LifePattern for MindEvent's: Name 3 MindTags that describe you best.
+
+and create MyWikiWall

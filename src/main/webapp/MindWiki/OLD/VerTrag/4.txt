@@ -1,0 +1,18 @@
+A-Regeln:
+* Gesellschafter der MindBrokerAg führen ein Konto mit KayGroschen.
+* Änderungen bei KayGroschen werden im MindFloor protokolliert.
+* Leistungen werden gemäss WirkSatz als KayGroschen addiert. 
+* Die Gesellschafter bilden eine Gesellschaft bürgerlichen Rechts (BGB 705).
+* Einnahmen aus dem MindBrokerShop fliessen entsprechend der Anteile an die Gesellschafter.
+* Die Ausschüttung erfolgt jährlich durch Zahlung an ein Bankkonto des Gesellschafters.
+* Jeder Gesellschafter versteuert seine Einnahmen im Rahmen seiner jährlichen Einkommensteuererklärung.
+* Jeder Gesellschafter kann den VerTrag ändern.
+* Vertragsänderungen gelten als von allen Gesellschaftern angenommen, wenn kein anderer Gesellschafter der Änderung binnen 14 Tagen durch editieren widerspricht.
+* Bei Meinungsverschiedenheiten entscheidet die Mehrheit der KayGroschen.
+* Der Gesellschaftsvertrag besteht aus A- und B-Regeln
+* Änderungen der A-Regeln erfordern die Zustimmung aller Gesellschafter mit mehr als 1000 KayGroschen.
+
+B-Regeln:
+* noch keine
+
+Unterzeichner: RainerWasserfuhr

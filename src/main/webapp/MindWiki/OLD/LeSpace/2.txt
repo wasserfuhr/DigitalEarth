@@ -1,0 +1,4 @@
+* IsA: CoWorkingSpace
+* MindOne: NicoKrause
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/606131296
+* PartOf: TapetenWerk

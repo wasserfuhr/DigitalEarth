@@ -1,0 +1,9 @@
+* IsA: PerSon
+* InterWiki: [LangReiter:chris]
+* DbLp: http://dblp.uni-trier.de/rec/pid/38/4464
+* MindSkill: FaceBase
+* PageNumber: InFinite
+|[WorldWideWeb:www.langreiter.com]
+|[DelIcioUs:chl]
+|[TwittEr:chl]
+|[XingLe:Christian_Langreiter]

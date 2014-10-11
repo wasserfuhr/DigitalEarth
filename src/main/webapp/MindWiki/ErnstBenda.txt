@@ -1,0 +1,5 @@
+* IsA: ProFessor MinisTer
+* InterWiki: [DeWikiPedia:Ernst_Benda]
+* BirthDay: 01-15
+* DiedIn: 2009
+* ParteiWiki: CduWiki

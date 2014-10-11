@@ -1,0 +1,83 @@
+* InterWiki: [WikiWikiWeb:ThreeLetterAcronym]
+
+im WortSchatz von RainerWasserfuhr sind unter anderem folgende aller 17.576 ThreeLetterAcronym's mit einer BeDeut'ung verknüpft:
+* aal: andere ArBeit'en lassen
+* afk: away from TastaTur
+* afm: away from MindMac, aber MindPhone dabei
+* agi: ArTelligence
+* anh: AlbanNikolaiHerbst
+* aqc: QuantPuter
+* ard: StaatsFunk
+* bbl: be back later
+* bdi: HansOlafHenkel
+* brd: DeutschLand
+* brn: BunteRepublik
+* btw: by the MindWay
+* bvg: StadtBerlin
+* cet: TimeZone
+* cdg: AirPort Paris
+* cgn: AirPort StadtKoeln
+* css
+* csv
+* cvs
+* ddr: DdErr
+* dst: TimeZone
+* dsl: duschen shaven liften
+* dvb: LinieVier
+* etc: EtCetera
+* eur: EuRo
+* fdl: GnuFdl
+* fra: AirPort FrankFurt
+* gef
+* gmt: TimeZone
+* gnu: GnuFdl
+* gps
+* hql
+* htm: JeffHawkins
+* ibm: EiBiEm
+* jfk
+* jsf
+* jsp
+* kgv
+* lol
+* mad: AirPort
+* mfg
+* mfi
+* mfs: DdErr
+* mom: einen Moment bitte
+* nda: NonDisclosureAgreement
+* ooa
+* ood
+* oop
+* oql
+* owl
+* pdf: MindPdf
+* pst
+* mdd: DomainModel
+* mez: TimeZone
+* raf: SystemClash
+* rdf: SemanticWeb
+* rdh: StadtJena
+* sai
+* sap: SapAg
+* soa
+* sql: MindSql
+* ssv
+* ssw
+* svn
+* swt
+* tdd
+* tla: ThreeLetterAcronym
+* tud: TuDresden
+* tui: TuiLuna
+* ugc
+* usa: UnitedStates
+* usb
+* usd: UsDollar
+* utc: TimeZone
+* vet: voraussichtlicher Entbindungstermin
+* vlt: vielleicht
+* wsv
+* www: WorldWideWeb
+* xml
+* zdf

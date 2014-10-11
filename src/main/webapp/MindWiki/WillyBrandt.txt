@@ -1,0 +1,6 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Willy_Brandt] [OpenCyc:WilliBrandt]
+* BornIn: 1913
+* BirthDay: 12-15
+* DiedIn: 1992
+* EheVertrag: BrigitteSeebacherBrandt

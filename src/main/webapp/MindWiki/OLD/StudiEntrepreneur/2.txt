@@ -1,0 +1,16 @@
+Mit dem LockSchuppen-ProJekt wollen wir allen Studierenden an HochSchule'n in der StadtDresden die MoegLich'keit geben,
+schon während des Studiums nicht nur interdisziplinär zu arbeiten und ComPlex'e Forschungsprobleme im RealLife zu identifizieren und zu lösen, sondern auch während des Studiums schon ein StartUp zu gründen und ShareHolder zu werden.
+
+Aktuelle haben wir folgende Themen und Fragestellungen:
+* BWL
+** BusinessPlan, DueDiligence, InitialPublicOffering, Marketing
+* BauIngenieur
+** digitales BuildingModel, BauKosten
+* Jura
+** VerFassung, Gesellschafter-VerTrag
+* InforMatik
+** MindWiki
+* Sprachwissenschaften
+** TranslateTheConstitution
+* Chemie
+** KontaminierungsGutachten

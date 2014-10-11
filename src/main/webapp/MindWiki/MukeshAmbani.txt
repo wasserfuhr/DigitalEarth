@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Mukesh_Ambani]
+* JahrGang: 1957
+* BirthDay: 04-19

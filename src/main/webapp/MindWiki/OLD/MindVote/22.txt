@@ -1,0 +1,23 @@
+später als WebApp unter http://vote.mindbroker.de
+
+!KabiNettWahl
+
+!SportPortal?
+||Voter          ||Vote
+|RainerWasserfuhr|irgendwann
+|HeikeRibke      |banane       
+
+!WichtigeBrowser: Nur FireFox?
+||Voter          ||Vote
+|RainerWasserfuhr|ja
+|DimitriUwarov   |nein
+|HeikeRibke      |nein
+|ChristianRieger |nein
+
+!MindCal oder MindCalendar?
+||Voter          ||Vote
+|RainerWasserfuhr|cal
+|HeikeRibke      |cal
+
+!VerFassung: Neuer Zusatz: "Alle unter unseren Domains veröffentlichten Texte unterliegen der GnuFdl!
+Die Verfassungsänderung gilt ab dem 07.12.2007, da keiner der BuergerInnen binnen der VetoFrist widersprochen hat!

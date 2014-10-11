@@ -1,0 +1,3 @@
+* MindTags: ProJect
+
+a MindEngine for InFer'ence inside WikiPedia.

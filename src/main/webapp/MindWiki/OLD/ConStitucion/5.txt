@@ -1,0 +1,32 @@
+* MindQuote: integritas - perfectio - consonantia - commensuratio - convenientia - claritas
+* WeltSprache: VerFassung
+* SprachWelt: es
+
+!Principio
+
+Todos los CiudaDanos tienen LiberTad. 
+El status del CiudaDano
+*Todos los CiudaDanos tienen exactamente un MindId y con esto un login.
+*Se gana el status del ciudadano con la adquisición del MindId y con esto se reconoce la ConStitución.
+*Todos los ciudadanos se TuTean
+*Todos los CiudaDanos se entretejen en un WebOfTrust. Con esto se puede identificarse y se puede expresar la confianza a un CiudaDano.
+*Todos los CiudaDanos pueden invitar nuevos CiudaDanos.
+*Antes de la invitación el ciudadano que invitar tiene que crear un página de perfil en el MindWiki por el nuevo ciudadano.
+*En la invitación el ciudadano que invitar tiene que indicar el nombre, apellidos y el sexo del nuevo ciudadano.
+*En la página de perfil el nombre y apellidos se escrito en CamelCase. Las excepciones permitidas son:
+**Nombre abreviado (por ejemplo Tina en lugar Martina)
+**Nombre artístico, si inscrito in el documento de identidad o el pasaporte (por ejemplo AlbanNikolaiHerbst)
+*A una modificación de nombre posterior (por ejemplo ContratoMatrimonial) tienen que aprobar por lo menos más dos CiudaDanos 
+*Cuando un CiudaDano LlegaAlT&eacute;rmino de la vida su LastWill (testamento) entra en vigor. Aquí se puede dejar su ForTuna virtual en herencia.
+*Si no se expresaba un LastWill, se pasa la ForTuna virtual en la CuentaBancaria a la PieschenBank
+
+
+!Ciudadano
+
+!Constitucion
+
+!Economía
+KayGroschen
+
+!Gobierno
+KabiNett

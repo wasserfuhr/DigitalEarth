@@ -1,0 +1,5 @@
+* IsA: PerSon
+* BirthDay: 03-13
+* JahrGang: 1975
+* LebensEnde: 2010
+|[XingLe:Daniel_Drechsel]

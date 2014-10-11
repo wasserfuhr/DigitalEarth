@@ -1,0 +1,29 @@
+;{{{
+
+(defn wiki [x]
+ (str "HelloWorld")
+)
+;}}}
+
+(import '(java.net URL)
+        '(java.lang StringBuilder)
+        '(java.io BufferedReader InputStreamReader))
+
+(defn fetch-url
+  "Return the web page as a string."
+  [address]
+  (let [url (URL. address)]
+    (with-open stream (. url (openStream))
+      (let [buf (BufferedReader. (InputStreamReader. stream))]
+        (apply str (line-seq buf))))))
+
+ (let
+  (reader
+   (new java.io.BufferedReader
+     (uc.getInputStream 
+        (cast java.net.HttpURLConnection
+          (.openConnection (
+            new java.net.URL "http://mindbroker.de/wiki/WikiClj?skin=raw")))
+  (while (let (line (reader readLine))
+  (apply str
+  

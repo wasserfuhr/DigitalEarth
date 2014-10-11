@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Robert_Darwin]
+* JahrGang: 1766
+* BirthDay: 05-30
+* PapaZwoNull: ErasmusDarwin
+* LebensEnde: 1848

@@ -1,0 +1,4 @@
+Auf der Kamenzer liegen das OrpheumDresden und das MuesliHaus.
+
+* IsA: MindStreet
+* ConnectsTo: TalStrasse BischofsWeg

@@ -1,0 +1,9 @@
+* MindTags: FutureCard
+* CardOwner: ChristineSchlinck
+* CardHolder: RainerWasserfuhr
+* PreDict: JfSchlinck will give a LernenDurchLehren EpIsOde on PieschenTv where he explains how to calculate TwinPrime's.
+* PreDictDe: JfSchlinck wird eine LernenDurchLehren EpIsOde bei PieschenTv geben wo er erklärt wie TwinPrime's berechnet werden.
+* UnTil: 2021
+
+|| ||PreDict's
+|RainerWasserfuhr|2017

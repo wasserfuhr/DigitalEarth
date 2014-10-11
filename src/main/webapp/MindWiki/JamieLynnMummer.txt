@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* BirthDay: 10-11
+* JahrGang: 2008
+* BirthPlace: JosephStift

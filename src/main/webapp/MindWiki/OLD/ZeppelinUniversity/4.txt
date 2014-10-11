@@ -1,0 +1,12 @@
+* SloGan: "Neu-Gierig-Toll-Kühn"
+* BreitenGrad: 47.6632
+* LaengenGrad: 9.4428
+* BoundingBox: 1250
+
+Bald WikiBasiert unter http://zeppelin.mindbroker.de ???
+
+EinfachMachen:
+* DirkBaecker
+* NicoStehr
+* StephanJansen
+

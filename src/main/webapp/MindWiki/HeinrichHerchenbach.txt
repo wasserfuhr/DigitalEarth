@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* JahrGang: 1837
+* BirthDay: 02-09
+* PapaZwoNull: PeterHerchenbach
+* MamaZwoNull: MariaChristinaFelder

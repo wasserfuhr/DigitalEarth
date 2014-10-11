@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:New_York]
+* BreitenGrad: 40.69
+* LaengenGrad: -73.39
+* BoundingBox: 42000
+* MindCount: 8000000

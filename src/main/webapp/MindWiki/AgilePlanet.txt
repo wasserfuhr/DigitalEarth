@@ -1,0 +1,11 @@
+On 2010-04-16 RainerWasserfuhr visited an amazing event called AgileSaxonyDay.
+
+However, the Event had two mayor drawbacks:
+* It lasted only one day
+* It only took place in the FreistaatSachsen
+
+Therefore, RainerWasserfuhr thought that it would be worth an experiment to UnLeash both constraints
+and start the AgilePlanet, where people around the world can meet OnLine to have CodeKata' on various
+HotTopics.
+
+So at the following EtherPad you can list your TimeSlot's when you want have a CodeKata or FedExDay: http://piratepad.net/AgilePlanet

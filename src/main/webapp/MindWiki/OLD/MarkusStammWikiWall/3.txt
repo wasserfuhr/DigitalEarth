@@ -1,0 +1,4 @@
+|LeanThinking |SystemDynamics  |ToyotaProductionSystem|FactoryPhysics
+|ManuFacturing|LeaderShip      |OrganisationalChange  |LearningOrganisation
+|RalfLippold  |RainerWasserfuhr|TaiichiOhno  |RayImmelman
+|Dissertation |NewZealand      |JobSearch    |OutdoorSport

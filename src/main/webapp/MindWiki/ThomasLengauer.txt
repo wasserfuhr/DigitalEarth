@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/l/TLengauer
+* HomePage: [http://bioinf.mpi-inf.mpg.de/homepage/index.php?&account=lengauer]
+* MindSkill: BioMind
+* PageNumber: 6
+* PagePath: LarryPage SergeyBrin MonikaHenzinger StefanNaeher ChristophBuchheim MichaelJuenger ThomasLengauer

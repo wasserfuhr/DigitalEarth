@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Susanne_Gaschke]
+* JahrGang: 1967
+* ViAf: http://viaf.org/viaf/54300970

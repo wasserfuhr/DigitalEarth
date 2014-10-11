@@ -1,0 +1,6 @@
+* IsA: PerSon
+* BornIn: 1925
+* BirthDay: 11-17
+* DbLp: http://dblp.uni-trier.de/rec/pid/13/4049
+* PageNumber: 10
+* PagePath: LarryPage TerryWinograd NorbertStreitz WendyHall JimHendler WolfgangWahlster ArminBCremers OttoMayer HermannMaurer GrzegorzRozenberg AristidLindenmayer

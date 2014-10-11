@@ -1,0 +1,5 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Al_Gore] [WebSeitz:AlGore]
+* JahrGang: 1948
+* BirthDay: 03-31
+|[TwittEr:algore]

@@ -1,0 +1,4 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Hermann_von_Helmholtz]
+* BirthDay: 08-31
+* MindSkill: ThermoDynamics

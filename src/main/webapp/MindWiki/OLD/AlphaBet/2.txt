@@ -1,0 +1,33 @@
+[DeWikiPedia:Buchstabiertafel]:
+
+||BuchStabe||de||en|| ||
+|A |Ah|Ey|Anton |Alpha |Anna |Anton
+|Ä | | | Ärger |– |Äsch (Aesch) |Ärger
+|B |Be|Bi|Berta |Bravo |Berta |Berta
+|C |Ze|Si|Cäsar |Charlie |Cäsar |Cäsar
+|Ch| | | Charlotte |– |– |Christine (nicht gebräuchlich)
+|D |De|Di|Dora |Delta |Daniel |Dora
+|E |Eh|Ih|Emil |Echo |Emil |Emil
+|F |Ef|Ef|Friedrich |Foxtrott |Friedrich |Friedrich
+|G |Ge|Ji|Gustav |Golf |Gustav |Gustav
+|H |Ha|Es|Heinrich |Hotel |Heinrich |Heinrich
+|I |Ih|Ei|Ida |India |Ida |Ida
+|J |Jo|Ye|Julius |Juliett |Jakob |Julius
+|K |Ka|Ke|Kaufmann |Kilo |Kaiser |Konrad
+|L |El|El|Ludwig |Lima |Leopold |Ludwig
+|M |Em|Em|Martha |Mike |Marie |Martha
+|N |En|En|Nordpol |November |Niklaus |Nordpol
+|O |Oh|Ou|Otto |Oscar |Otto |Otto
+|Ö |  |  |Ökonom |– |Örlikon (Oerlikon) |Österreich
+|P |Pe|Pi|Paula |Papa |Peter |Paula
+|Q |Qu|Kj|Quelle |Quebec |Quasi |Quelle
+|R |Er|Ar|Richard |Romeo |Rosa |Richard
+|S |Es|Es|Samuel |Sierra |Sophie |Siegfried
+|T |Te|Ti|Theodor |Tango |Theodor |Theodor
+|U |Uh|Ju|Ulrich |Uniform |Ulrich |Ulrich
+|Ü |Ue|  |Übermut |– |Übermut |Übel
+|V |Va|Vi|Viktor |Victor |Viktor |Viktor
+|W |We|Dj|Wilhelm |Whiskey |Wilhelm |Wilhelm
+|X |Ix|Ex|Xanthippe |X-Ray |Xaver |Xaver (früher: Xanthippe)
+|Y |Yp|Wy|Ypsilon |Yankee |Yverdon |Ypsilon
+|Z |Ze|Se|Zacharias |Zulu |Zürich |Zürich (früher:Zeppelin)

@@ -1,0 +1,29 @@
+Die BuergerInnen von NooPolis und deren MindTrust:
+
+||Bürger          ||Trustee 1      ||Trustee 2    ||Trustee 3      |
+|RainerWasserfuhr |YvonneSchubert  |DanielPoodratchi |ChristineSchlinck
+|YvonneSchubert   |RainerWasserfuhr|DanielPoodratchi |ChristineSchlinck
+|DanielPoodratchi |RainerWasserfuhr|YvonneSchubert   |ChristineSchlinck
+|RicardaDHerbrand |pending: VerFassung|RainerWasserfuhr
+|AndreasWeigel    |RainerWasserfuhr|YvonneSchubert   |ChristineSchlinck
+|UteMoritz        |RainerWasserfuhr|ChristineSchlinck
+|NicoHagenburger  |RainerWasserfuhr|
+|TinaPickhardt    |RainerWasserfuhr|
+|TimBonnemann     |RainerWasserfuhr|
+|ChristineSchlinck|RainerWasserfuhr|YvonneSchubert
+|OliverGassner    |RainerWasserfuhr|YvonneSchubert
+|IngridaPlunksnyte|RainerWasserfuhr|YvonneSchubert
+|PierreKerchner   |RainerWasserfuhr|
+|NicoleZiesche    |RainerWasserfuhr|
+|AndreasDittes    |RainerWasserfuhr|
+|JanaDiesner      |RainerWasserfuhr|YvonneSchubert
+|MattisManzel     |RainerWasserfuhr|
+|HeikeRibke       |RainerWasserfuhr|YvonneSchubert   |ChristineSchlinck
+|JensFreydank     |RainerWasserfuhr|
+|KatharinaKuehnel |RainerWasserfuhr|YvonneSchubert
+|DimitriUwarov    |RainerWasserfuhr|
+|IrisSchilke      |RainerWasserfuhr|ChristineSchlinck
+|SebastianMitter  |RainerWasserfuhr|ChristineSchlinck
+
+
+Diese WikiSpec inclusive MindTrust in Kürze automatisch auf http://id.mindbroker.de/.

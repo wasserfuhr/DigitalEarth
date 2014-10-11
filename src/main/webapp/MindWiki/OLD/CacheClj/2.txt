@@ -1,0 +1,13 @@
+;
+;
+;{{{
+
+(defn cache [cacheName key]
+ (get
+  {
+   :ChristineSchlinck "http://s3.amazonaws.com/twitter_production/profile_images/32462172/herbstsonne.jpg"
+   :RainerWasserfuhr "http://s3.amazonaws.com/twitter_production/profile_images/151228708/aa20071226.rainer_profile_image_xing.com.jpg"
+   :RalfLippold "http://s3.amazonaws.com/twitter_production/profile_images/84499783/MEDIA_080328_Ralf_Lippold.jpg"
+   :SimonKoeppl "http://s3.amazonaws.com/twitter_production/profile_images/190141648/10cm_300dpiframe.jpg"
+  } key ))
+;}}}

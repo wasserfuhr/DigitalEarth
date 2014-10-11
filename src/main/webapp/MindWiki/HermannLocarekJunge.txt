@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Hermann_Locarek-Junge]
+* BornIn: 1957
+* BirthDay: 05-15

@@ -1,0 +1,31 @@
+Beim FutureGame kommen die FutureCard's in Umlauf.
+
+Jede FutureCard soll unterschiedlichen Szenarien für die ZuKunft ein Gesicht geben.
+
+So sehen Vorder- und Rückseite einer FutureCard aus:
+[{Image src='http://farm1.static.flickr.com/169/439238500_26a5677975.jpg'}] [*|http://www.flickr.com/photos/rainerw/439238500/]
+
+Im WirkZentrum hat RainerWasserfuhr ein dickes BlankoBueschel mit vielen hundert FutureCard's.
+Es sind im Grunde alte WerbeFlyer der MindBrokerKg. Aber TotesHolz wollen wir jetzt NachHaltig
+nutzen: Deshalb werden sie umfunktioniert und erhalten eine neue Bedeutung als FutureCard.
+
+Jede FutureCard ist ein Unikat. 
+
+Jede FutureCard erhält einen CardOwner. 
+
+Eine der ersten CardOwner'innen war HeikeRibke: Sie hat die berühmt-berüchtigte NacktSichtBrille.
+
+Die Grundidee einer FutureCard: "Für diese ZuKunft steht der CardOwner mit seinem guten Namen."
+
+Eine FutureCard soll helfen, die ErWartung'en von BuergerInnen an unterschiedliche ZuKunft'sszenarien greifbar und verständlich zu machen.
+
+BuergerInnen können FutureCard's gemäss FutureLaw verschenken, tauschen und später handeln.
+
+ImmerWieder diskutieren und erforschen wir die kausalen Abhängigkeiten zwischen FutureCard's.
+
+FutureCard für FutureCard bauen wir eine immer grössere und genauere __FutureMap__.
+
+||SerialNumber||FutureCard||
+|1   |MindTower
+|2   |TheSingularity
+|3   |?

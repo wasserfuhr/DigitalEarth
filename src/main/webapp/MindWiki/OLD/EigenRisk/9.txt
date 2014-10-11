@@ -1,0 +1,15 @@
+MindLine for 2015?: A tool for the MindPhone which will show location aware ExistentialRisk on the MindMap in RealTime.
+
+Dedicated to ManfredEigen.
+
+EigenRisk:
+* EinBrecher und UeberFall
+* ErdBeben
+* HeadCrash
+* InSolvenz
+* LebensEnde
+* MondBeben
+* Schmerz
+** ZahnSchmerz
+* StromAusfall
+

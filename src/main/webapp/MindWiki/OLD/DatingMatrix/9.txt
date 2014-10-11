@@ -1,0 +1,9 @@
+||Name          ||Ab ||Blöde Popups||CoolURIs||OpenSource||UserOwned||Trust||Recommendations
+|FriendScout    |200?|?            |?        |nein       |nein |?    |?
+|ParShip        |200?|?            |?        |nein       |nein |?    |?
+|NeuDe          |200?|ja           |ja       |nein       |nein |teils|nein
+|finya.de       |200?|ja           |nein     |nein       |nein |nein |nein
+|AdultFriendFinder
+|AltCom         |200?|?            |?        |nein       |nein |nein |nein
+|SklavenZentrale|200?|nein         |?        |nein       |nein |ja   |nein
+|HeuteAbend     |2008|nein         |ja       |ja         |ja   |ja   |ja

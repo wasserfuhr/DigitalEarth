@@ -1,0 +1,3 @@
+WebApps, die UnserGrid hostet, haben auf jeder Page einen Link "ViewSource", bei dem man sich den SourceCode der JSP der WebApp anschauen kann.
+
+Siehe auch: http://www.langreiter.com/space/2004-08-27

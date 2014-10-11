@@ -1,0 +1,83 @@
+* HomePage: http://twitterholic.com/
+
+http://twitterholic.com/top100/followers
+
+4. 		CNN Breaking News (cnnbrk) 	Everywhere 	http://cnn.com/ 	2,387,028 	18 	1,029 	31 months ago
+5. 		 (oprah) 	Chicago, IL 	http://www.oprah.com 	1,908,793 	15 	56 	
+8. 		 (RyanSeacrest) 	Hollywood, CA 	http://www.ryanseacrest.com 	1,794,306 	124 	1,013 	11 months ago
+9. 		 (johncmayer) 	USA 	http://www.johnmayer.com 	1,780,525 	62 	1,696 	6 months ago
+10. 		THE_REAL_SHAQ (THE_REAL_SHAQ) 	PHOENIX/EVERYWERE 	http://www.Facebook.com/Shaq 	1,755,827 	554 	2,004 	8 months ago
+11. 		 (kimkardashian)
+
+
+||Rank[1]||[2]||PerSon
+|  1|  5|AshtonKutcher
+|  2|  ?|EllenDeGeneres
+|  3|  4|BritneySpears
+|  4|  ?| |CNN
+|  5|  ?|OprahWinfrey
+|  6|  ?| |TwittEr
+|  7|  2|BarackObama
+|  8|  ?|RyanSeacrest
+|  9|  ?|JohnMayer
+| 10|  ?|ShaquilleONeal
+| 11|  ?|KimKardashian
+| 12| 46|DemiMoore
+| 15|  6|LanceArmstrong
+| 19| 10|AlGore
+| 26| 13|EvanWilliams
+| 31|  ?|PeteCashmore
+| 43| 27|JohnMcCain
+| 46| 39|TonyRobbins
+| 58| 24|MichaelArrington
+| 59| 35|BizStone
+| 65| 37|JackDorsey
+| 99| 80|TimOReilly
+|110| 84|DavidAllen
+|307| 92|GuyKawasaki
+|398|189|WilliamShatner
+|650|  ?|TomSiwik
+|1272|321|LoicLeMeur
+|2193|   ?|ReinerCalmund
+|2569|1355|SaschaLobo
+|3565|989|JoiIto
+|3639|795|RossMayfield
+|3758|1378|JimmyWales
+|4089|1165|NicoleSimon
+|4568|   ?|JoergTauss
+|4578|   ?|JohnnyHaeussler
+|4654|   ?|SarikWeber
+|5115|   ?|MarkusBeckedahl
+|5614|2699|MarioSixtus
+|5807|2564|WernerVogels
+|6002|2884|TimPritlove
+|6283|2524|MartinVarsavsky
+|6398|2360|JeffClavier
+|6414|   ?|KlausEck
+|7968|   ?|IbrahimEvsan
+|8590|2848|RobertBasic 
+|9291|   ?|NicoLumma
+|9350|6208|JaneMcGonigal
+|9497|3607|LarsHinrichs
+|10565|  ?|TinaPickhardt
+|10674|  ?|MarkusAngermeier
+|11262|3844|OliverGassner
+|11532|8516|WardCunningham
+|14307|7933|CemBasman
+|19932|12334|OliverBerger
+|23267|    ?|ChristianHeller
+|24277|21642|KirstinWalther
+|51162|    ?|PeterStawowy
+|57614|    ?|RalfLippold
+|59579|116705|ZigaTurk
+|62191|    ?|JohannesLohmeyer
+|63629|32430|MartinRoell
+|72082|    ?|DirkRoehrborn
+|74444|    ?|StephanBoehlig
+|81033|42277|RainerWasserfuhr
+|84184|    ?|UteMoritz
+|84441|99044|ChristineSchlinck
+|162915|   ?|GunterDueck
+by number of followers:
+[#1] as of 20090728
+[#2] as of 20090302

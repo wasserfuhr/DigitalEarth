@@ -1,0 +1,97 @@
+* MindTags: ProFessor
+* JahrGang: 1949
+* BirthDay: 11-09
+* BirthPlace: BadKreuznach
+* HomePage: http://www.donsbach.net/
+* WohnSitz: StadtDresden
+
+lässt per tefl umfragen:
+
+{{{
+striezelmarkt
+
+attraktiv
+fläche?
+
+
+prager str
+stallhöfe
+hauptstr 
+frauenkirche
+loschwitz
+andere
+
+lieblings?
+
+peterlahmes
+klaus sühl
+lutzvogel
+gerdwinkel
+orosz ja
+rosberg
+jähnigen
+
+obwahl:
+oros no
+rosberg jein
+jähnigen ja
+
+eigenschaften
+dynamisch sehr
+bürgernah wich
+glaubwürdig sehr
+durchsetzung eher
+gewandt sehr
+bodenständig ---
+sozial eher
+dresden unwichtig
+
+staatsoperette in leuben
+gehört? nö
+besucht nö
+
+besuch wenn in innenstadt
+* eher
+
+waldschlösschen
+freude? nein
+grünes wunder
+30kmh auf der brücke? ja
+schafft milbradt-kompromiss: nein
+kompromiss ja bei 
+
+}}}
+
+GruenesWunder
+
+{{{
+
+wissen über den klimawandel:
+* hoch
+
+lernen:
+twitter
+
+was lernen andere
+* wenig
+
+übertrieben|verharmlosend|angemessen 
+
+
+energiesparlampen? ja
+fliegen? nein
+sich aktiv informierne: ja
+standby: nein
+heizung: ja
+
+jahrgang 38
+berufstätig: ja
+status: seblständig
+abschluss: diplom
+
+tageszeitung: keine
+wählbar: komunalwahlparteien: spd,grün
+erstwählbar: spd
+haushalt: 0
+einkommen: >3000
+}}}

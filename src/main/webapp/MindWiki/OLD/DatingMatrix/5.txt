@@ -1,0 +1,5 @@
+||Name     ||Ab ||Blöde Popups||CoolURIs||OpenSource||UserOwned||Trust||Recommendations
+|finya.de  |200?|ja           |nein     |nein       |nein |nein|nein
+|neu.de    |200?|ja           |ja       |nein       |nein |nein|nein
+|alt.com   |200?|?            |?        |nein       |nein |nein|nein
+|HeuteAbend|2008|nein         |ja       |ja         |ja|ja|ja

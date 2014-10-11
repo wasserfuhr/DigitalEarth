@@ -1,0 +1,21 @@
+[Zur Erlösung von Meere-Göttinnen|http://www.flickr.com/photos/rainerw/435000045/]:
+
+* alt
+* ampersand
+* apfel
+* at
+* backspace
+* caps lock
+* control
+* cursor/pfeil auf ab rechts links
+* enter/return
+* escape
+* fn
+* hash
+* pipe
+* shift
+* slash
+* space
+* tab
+* tilde
+* underscore

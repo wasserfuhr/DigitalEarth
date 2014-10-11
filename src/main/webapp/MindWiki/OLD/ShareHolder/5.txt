@@ -1,0 +1,19 @@
+MindBroker hat 1000 Shares und folgende ShareHolder:
+
+||                ||Share
+|RainerWasserfuhr |850
+|CemBasman        |50
+|OliverGassner    |40
+|YvonneSchubert   |30
+|AndreasWeigel    |20
+|TimBonnemann     |2
+|Kleinaktionäre   |8
+
+Kleinaktionäre:
+* RicardaDHerbrand
+* DimitriUwarov
+* JensFreydank
+* JensWegerle
+* AgnesWasserfuhr
+* WernerWasserfuhr
+

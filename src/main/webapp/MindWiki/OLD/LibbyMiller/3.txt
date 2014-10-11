@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/m/LibbyMiller
+* PageNumber: 16
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach JuergenAvenhaus KlausMadlener NorbertKuhn IsabelJohn MartinPinzger HaraldGall PeterVorburger AbrahamBernstein AndySeaborne LibbyMiller
+* MindSkill: FoAf SemanticWeb
+|[TwittEr:libbymiller]

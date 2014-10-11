@@ -1,0 +1,22 @@
+* AbstandsTanz
+* BlokUs
+* FutureGame
+* GemischtesDoppel
+* GoMind
+* JumboWoerterSpiel
+* LoewenJagd (IstGleich IchSeheWasWasDuNichtSiehst?)
+* LuxorChess
+* MasterMind
+* MindGo
+* MindKniffel
+* MindTueftel
+* NooChess
+* PoKern
+* RealSpiel
+* SchiffeVersenken
+* [DeWikiPedia:Slotter]
+* StadtLandFluss
+* TicTacToe
+* VierGewinnt
+* VisitenkartenMaumau
+* WereWolf

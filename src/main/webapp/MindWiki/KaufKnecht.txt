@@ -1,0 +1,23 @@
+* MindTags: MarketGap
+
+Ein NooPolis-StartUp. Idee: WebApp für persönliche Einkaufszettel mit aktuellen Preisinformationen.
+
+ShareHolder:
+* DanielMehner
+* JuergenKohn
+* LarsKleinbeckes
+* RainerWasserfuhr
+
+Erste Daten:
+||Käufer          ||Produkt||Marke       ||Menge ||Preis||EAN||Laden
+|RainerWasserfuhr |Spaghetti|La Capannina|500g   |0,39|4008535244063|MindPlus
+
+DomainModel:
+* User
+* Position
+* Shop
+* Artikel
+* ArtikelPreis
+
+Wettbewerber/ ähnliche Anbieter:
+* MarktJagd

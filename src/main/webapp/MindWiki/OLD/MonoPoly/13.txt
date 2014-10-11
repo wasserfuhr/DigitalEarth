@@ -1,0 +1,24 @@
+* InterWiki: [DeWikiPedia:Monopoly]
+
+||ComPare       ||MonoPoly      ||NooPolis/FutureGame
+|Invented by    |ElizabethMagie |RainerWasserfuhr+MitWirkende
+|Since          |1904           |2007
+|Player         |2-8            |unlimited: JoinNow
+|Duration       |1.5-10 h       |infinite
+|               |Bank           |PieschenBank
+|Money          |UsDollar/EuRo...|KayGroschen
+|Initial amount |$1500...       |dynamic: BegruessungsGeld
+|Rules          |static         |dynamic: FutureLaw
+|Moving         |round robin    |concurrently
+|Move direction |roll dice      |unlimited FreeDom
+|Goal           |VerMoegen      |RayKurzweilSignsTheSingularity
+|               |physical       |WikiBased
+|Board          |TotesHolz      |TwentyFirstCentury
+|Places         |40             |100
+|               |Schloßallee    |GeheStrasse21
+|Cards          |Community Chest|FutureCard
+|Cards          |Chance         |MindLotto
+
+however: NooPolis was __not__ named after MonoPoly: see NooPolisFaq.
+
+see also: [CommunityWiki:MassivelyMultiplayerOnlineTextEditingGame]

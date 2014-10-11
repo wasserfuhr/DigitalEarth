@@ -1,0 +1,7 @@
+* IsA: MindCity
+* EtymoLogia: niederdeutsche „An de Schede“ hochdeutsch "an der Scheide"
+* InterWiki: [DeWikiPedia:Enschede] [WikiPedia:Enschede]
+* LaengenGrad: 6.88
+* BreitenGrad: 52.217
+* BoundingBox: 12000
+* MindCount: 150000

@@ -1,0 +1,3 @@
+The DresdenScore is a SemanticWeb quality measure from MindBroker ReSearch for your FoAf node inside the WebOfTrust enabled GiantGlobalGraph.
+
+soon.

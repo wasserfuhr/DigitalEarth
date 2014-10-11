@@ -1,0 +1,11 @@
+!!! spot Entwicklerwiki
+
+Das Entwicklerwiki für unser Sportportal.
+
+[ProjectCodeName|http://c2.com/cgi/wiki?ProjectCodeName]: spot.
+
+Vorläufiger Vorschlag für die Domain spoooort.de
+
+
+!Was bisher geschah:
+[{RecentChangesPlugin since=30}]

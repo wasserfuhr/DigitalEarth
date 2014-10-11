@@ -1,0 +1,12 @@
+Our preferred MindHoster: http://aws.amazon.com/ec2 
+EC2 steht für "Elastic compute cloud" und hostet im Oktober 2007 10.000.000.000 Dateien und bewältigt 27.000 Transaktionen pro Sekunde.
+
+
+
+1 Kiste pro Monat 72 EUR ([ca. 51 EUR|http://www.google.com/search?q=72+usd+in+eur]) + ein bisschen Traffic
+
+
+Ein möglicherweise in Zukunft wichtiger Grund, EcZwo und jeden anderen MindHoster in den UnitedStates zu meiden: 
+http://blog.xing.com/2007/08/software-patent.html
+
+

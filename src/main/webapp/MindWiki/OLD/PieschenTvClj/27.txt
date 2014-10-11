@@ -1,0 +1,38 @@
+;
+;
+;{{{
+
+(defn camelify [camels]
+ (apply str
+  (map
+   (fn [keyword]
+    (str "<a href='http://mindbroker.de/wiki/" (.trim keyword) "'>" (.trim keyword) "</a>"))
+     (seq 
+      (.split
+       camels
+       ",")))))))
+
+((defn tv [] 
+  (handle "tv"
+   (fn []
+    (str
+     "<table>"
+     (apply str
+      (map
+       (fn [x]
+        (if (= :entry (:tag x))
+         (str 
+           "<tr>"
+           "<td valign='top'><img src='" (:href (:attrs (nth (:content x) 6))) "'></td>"
+           "<td valign='top'><h3>" (:title (:attrs (nth (:content x) 6))) "</h3>
+             <a href='" (:href (:attrs (nth (:content x) 1))) "'>view</a></td>"
+           "<td>"
+           (if (get (:content x) 11)
+            (camelify (first (:content (get (:content x) 11))))
+           "</td>"
+           "</tr>
+           ")))
+       (:content (clojure.xml/parse "http://feeds.seesmic.com/user.rainer.atom"))))
+     "</table>")
+   ) "")))
+;}}}

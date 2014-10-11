@@ -1,0 +1,5 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Hermann_Maurer_%28Informatiker%29], [LangReiter:Hermann+Maurer]
+* JahrGang: 1941
+* BirthDay: 04-26
+* WohnSitz: StadtGraz

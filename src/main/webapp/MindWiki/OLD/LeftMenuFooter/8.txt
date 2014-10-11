@@ -1,0 +1,10 @@
+----
+MindBanner:
+__________________________________________
+[{Image src='http://familienfreun.de/openads/www/images/a1ecc86118ce07d997cfb9a41d9883ba.gif' link='FamWis01'
+style='border-bottom: 3px;'}]
+----
+__BackLink's__
+
+
+[{ReferringPagesPlugin max=20, maxwidth=50}]

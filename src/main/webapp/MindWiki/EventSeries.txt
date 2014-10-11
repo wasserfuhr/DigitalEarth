@@ -1,0 +1,3 @@
+* IsA: NamedEntity
+
+Series of MindEvent's

@@ -1,0 +1,17 @@
+Which BigCo's are most infected by the SingularVirus and undercut with SingularityMind's?
+||BigCo    ||SingularityMind||Role
+|GoogleInc |LarryPage      |President, Products
+|GoogleInc |PeterNorvig    |Director of ReSearch
+|IntEl     |JustinRattner  |CTO
+|SapAg          |MarkFinnern      |Director SDN and BPX Communities
+|FaceBook       |PeterThiel       |InVest'or, Board of Directors
+|EiBiEm         |DharmendraModha  |Manager
+|MicroSoft      |BarneyPell       |search strategist, evangelist
+|DraperFisherJurvetson|SteveJurvetson|Managing Director+UnternehmensGruender
+|DraperFisherJurvetson|TimDraper  |Managing Director+UnternehmensGruender
+|WolframResearch|StephenWolfram   |Founder, Owner
+|TSystemsMms    |FrankSchoenefeld?|COO
+|XingLe         |LarsHinrichs     |UnternehmensGruender+Member of the Supervisory Board
+|DWaveSystems   |GeordieRose      |CTO+UnternehmensGruender
+|RadarNetworks  |NovaSpivack      |CEO+UnternehmensGruender
+

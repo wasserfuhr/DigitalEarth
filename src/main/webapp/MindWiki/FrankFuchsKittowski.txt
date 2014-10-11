@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/52/4738
+* PageNumber: 9
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy MichaelEvangelist VolkerGruhn AndreKoehler FrankFuchsKittowski
+|[XingLe:Frank_FuchsKittowski]

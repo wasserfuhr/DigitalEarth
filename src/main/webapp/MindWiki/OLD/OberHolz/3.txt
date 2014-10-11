@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: 52.5295
+* LaengenGrad: 13.4022
+* BoundingBox: 15
+* http://www.sanktoberholz.de/

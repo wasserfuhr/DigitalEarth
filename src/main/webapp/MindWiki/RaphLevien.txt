@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/56/1778
+* HomePage: http://www.levien.com/
+* PagePath: RalfTreinen AlexAiken
+
+AdvoGato: http://www.advogato.org/person/raph/

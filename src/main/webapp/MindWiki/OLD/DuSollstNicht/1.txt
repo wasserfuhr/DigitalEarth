@@ -1,0 +1,3 @@
+AntiPattern.
+
+Besser: Wenn Du... dann...

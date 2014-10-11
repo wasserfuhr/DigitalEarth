@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Martin_Heidegger] [OpenCyc:MartinHeidegger-Philosopher]
+* BornIn: 1889
+* BirthDay: 09-26
+* DiedIn: 1976
+
+DasMan regiert.

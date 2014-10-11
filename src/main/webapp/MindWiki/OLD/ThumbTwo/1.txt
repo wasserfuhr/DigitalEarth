@@ -1,0 +1,3 @@
+* MindTags: MindThing
+* BoundingBox: 0.1
+* PartOf: HandOne

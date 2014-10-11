@@ -1,0 +1,68 @@
+* InterWiki: [AgiriWiki:AGIRI_Events] [DdWiki:Stadtwiki:Veranstaltungen] [DeWikiPedia:April_2010]
+ [OpenCog:Current_events] [PlomWiki:Terminkalender]
+
+The WikiBased calendar of NooPolis.
+
+(MindEvent's in the WikiLender have a "When" and an optional "UnTil". Things which only have an "UnTil" can be found as DeadLine)
+||When          ||UnTil||Status||MindPlace    ||What                    ||MindPeople
+|2010-05-14     |     |        |VillaWeigang  |Heirat                   |RoHu JeMand EtAl
+|2010-05-14     |     |CANCELED|StadtDresden  |PolterAbend              |RoHu JeMand
+|2010-05-15     |     |        |ChristusKirche|HochZeit                 |RoHu JeMand EtAl
+|2010-05-15     |     |        |PutjatinHaus  |HochzeitsFeier           |RoHu JeMand EtAl
+|2010-05-20     |     |        |CoOrpheum      |BeSuch                   |HerrEichler
+|2010-06-10     |     |        |CongressCenterDresden|ZukunftsForum     |RayKurzweil TimBl ThomasKoeplin EtAl
+|2010-06-18     |     |        |NeuStadt      |BuntRepublik             |RalfLippold SoerenRogoll EtAl
+|2010-06-19     |     |        |NeuStadt      |BuntRepublik             |RalfLippold SoerenRogoll EtAl
+|2010-06-20     |     |        |NeuStadt      |BuntRepublik             |RalfLippold SoerenRogoll EtAl
+|2010-06-22     |     |        |PlanetErde    |BirthDay                 |KonradZuse
+|2010-07-09     |     |        |Gdansk        |WikiMania                |JimmyWales? EtAl
+|2010-10-19     |     |        |StadtDresden  |SemiconEuropa            |EtAl
+|2010-10-23     |     |        |LosAngeles    |LoebnerPrize             |HughLoebner EtAl
+|2011-02-24     |     |        |StadtDresden  |WorldCultureForum        |EtAl
+|2011-02-25     |     |        |StadtDresden  |WorldCultureForum        |EtAl
+|2011-02-26     |     |        |StadtDresden  |WorldCultureForum        |EtAl
+|2011-03-03:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|2012-02-16:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|2012-12-21     |     |        |PlanetErde    |13.0.0.0.0               |
+|2012-06-23     |     |        |PlanetErde    |BirthDay                 |AlanTuring
+|2013           |     |        |DeutschLand   |BundestagsWahl2013       |
+|2014-10-24     |     |        |GalerieHorschik|OpenArt-BeSuch          |RainerWasserfuhr JeMand?
+|2026-11-13     |     |        |PlanetErde    |DoomsDay                 |HeinzVonFoerster EtAl
+|2036-12-17:1930|     |        |UniVerse      |End of HundertMalHundert |RainerWasserfuhr
+|2081-09-03     |     |        |DeutschLand   |SonnenFinsternis         |
+
+everything else is on the FutureMap
+
+!WasWar:
+
+||When          ||UnTil||      ||MindPlace    ||What                    ||MindPeople
+|2010-05-09     |     |        |NordrheinWestfalen|NrwWahl2010          |JuergenRuettgers EtAl
+|2010-05-06     |     |        |StadtDresden  |UndSonstSo               |RalfLippold EtAl
+|2010-05-05     |     |        |StadtLeipzig  |LeipzigerSemanticWebDay  |SoerenAuer EtAl
+|2010-05-05     |     |        |TuDresden     |GruenderFoyer            |GuenterFaltin EtAl
+|2010-05-04     |     |        |RosenHeim     |                         |
+|2010-04-30     |     |        |Altleuteritz  |TreffenAltleuteritz      |ConstanceWolter EtAl
+|2010-04-28     |     |        |VereinshausJohannstadt|VorTrag          |NorbertRost EtAl
+|2010-04-28:1100|     |        |DeutschLand   |EtherPad                 |RaWa HeGa EtAl
+|2010-04-27:1430|     |        |CafeCombo     |Treffen                  |SoRo MaDz EtAl
+|2010-04-26     |     |        |CapitolHill   |VorTrag                  |ZigaTurk CraigMundie EtAl
+|2010-04-26:1400|     |        |LingerAllee   |DiaLog                   |RainerWasserfuhr JeMand
+|2010-04-25     |     |        |StadtDresden  |MobileCamp               |JanBoehme EtAl
+|2010-04-24     |     |        |StadtDresden  |FilmBall                 |HolgerJohn EtAl
+|2010-04-24     |     |        |StadtDresden  |MobileCamp               |JanBoehme EtAl
+|2010-04-21:2000|     |        |CafeNeustadt  |TwittWoch                |JensOsthues RalfLippold EtAl
+|2010-04-21:1400|     |        |ZukunftsRaum  |BrainStorm               |RalfLippold RainerWasserfuhr JeMand
+|2010-04-20:1300|     |        |ZukunftsRaum  |BrainStorm               |RalfLippold BobHooda
+|2010-04-18:1530|     |        |StadtDresden  |ElbSpaziergang           |RalfLippold RainerWasserfuhr FlorianKlare BobHooda
+|2010-04-17     |     |        |KleinHaus     |PiranhaBeatKlub          |PeterLehmann EtAl
+|2010-04-16:1700|     |        |TuDresden     |DiaLog                   |RalfLippold RainerWasserfuhr MartinGaedke
+|2010-04-16:0900|     |        |StadtDresden  |AgileSaxony              |JensKorte RalfLippold RainerWasserfuhr EtAl
+|2010-04-16     |     |        |StadtBerlin   |RePublica                |
+|2010-04-15     |     |        |StadtBerlin   |RePublica                |
+|2010-04-14:1900|     |        |ZukunftsRaum  |WaveWednesdayDresden     |RalfLippold RainerWasserfuhr ConstanceWolter
+|2010-04-14     |     |        |StadtBerlin   |RePublica                |
+|2010-04-11:1000|     |        |LockOffice    |BueroEroeffnungLouise61  |RalfLippold CorneliaHoesel MandyHelas EtAl
+|2010-04-04:1300|     |        |NeuStadt      |FilmBrunch               |MarcoWildner?
+|2010-04-01:1930|     |        |CafeDuesenberg|UndSonstSo               |RalfLippold SoerenRogoll MarcoDziallas EtAl
+
+Earlier Events: WasWar.

@@ -1,0 +1,5 @@
+* IsA: PerSon
+* HomePage: http://www.lohrpage.de/
+* HomeStead: StadtDresden
+* DrankBeerWith: RainerWasserfuhr
+|[FaceBook:100000694997841]

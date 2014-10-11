@@ -1,0 +1,37 @@
+! MindPost 1: MindMac-NetzTeil
+Beim ersten StartUpWeekEnd im September 2007 hatte RainerWasserfuhr dieses NetzTeil seines MindMac im StilWerk in HamBurg vergessen. JasonFranklinStokes hatte es dankenswerterweise aufgehoben.
+
+[{Image src='http://farm2.static.flickr.com/1392/621357797_9fac5c91f0_m.jpg'}]
+http://www.flickr.com/photos/rainerw/621357797/
+
+Wie kam das NetzTeil zu RainerWasserfuhr?
+
+Lieferweg:
+||von               ||an             ||am      ||in      ||Status
+|JasonFranklinStokes|CemBasman       | 200711??|HamBurg  |danke!
+|CemBasman          |VivianPein      | 20071228|HamBurg  |danke!
+|VivianPein         |SoerenStamer    | 20071228|HamBurg  |danke!
+|SoerenStamer       |TinaPickhardt   | 20071228|HamBurg  |danke!
+|TinaPickhardt      |RobertBasic     |~20080126|~HamBurg |danke!
+|RobertBasic        |RainerWasserfuhr| 20080210|StadtJena|danke!
+Da das NetzTeil ein wichtiges Arbeitsmittel für den VorStand von MindBroker ist,
+erhält jeder Kurier 200 KayGroschen aus dem Budget von MindBroker für den Botengang.
+
+Jeder Kurier hatte bei der Übergabe das NetzTeil ordnungsgemäß mit einem MindEdding [unterschreiben|http://www.wortfeld.de/2007/10/paeckchen/].
+
+! MindPost 2: MindPhone-NetzTeil
+Im OberHolz befindet sich das NetzTeil des MindPhone.
+
+Geplanter Lieferweg:
+||von                ||an         ||am     ||in        ||Status
+|OberHolz            |FalkLueke   |200711??|StadtBerlin|pending
+|FalkLueke           |?           |200711??|?          |pending
+
+! MindPost 3: MindBluse
+
+Geplanter Lieferweg:
+||von                ||an              ||am     ||in        ||Status
+|UteMoritz           |RainerWasserfuhr |20071224|WirkZentrum|danke!
+|RainerWasserfuhr    |ChristineSchlinck|20080108|WirkZentrum|danke!
+
+Der Weg jedes zukünftigen Pakets könnte bald als GPolyline auf der MindMap getrackt werden.

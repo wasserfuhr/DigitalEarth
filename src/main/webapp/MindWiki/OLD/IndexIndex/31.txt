@@ -1,0 +1,31 @@
+Ein wenig OrdNung im PageIndex: Seiten, die Übersichten über andere Seiten enthalten:
+
+* PageIndex
+** EnterPrise
+*** HandelsRegister
+*** StartUp
+** CrowdWisdom
+** EiName
+** HerKunft
+** KunstWerk
+** MetaMatrix
+** MindEvent
+** MindGame
+** MindMusic
+** MindNumber
+** MindPeople
+*** ElektrischerReporter
+*** ForbesList
+*** MitWirkende
+**** BuergerInnen
+***** EdelMind
+*** SingularityMind
+*** UnternehmensGruender
+*** UnterNehmer
+*** WikiMind
+** MindPet
+** MindPlace
+** MindQuest
+** MindVerb
+** UnsereProjekte
+** VertikalPortal

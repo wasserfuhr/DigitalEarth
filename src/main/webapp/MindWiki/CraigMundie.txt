@@ -1,0 +1,11 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Craig_Mundie]
+* BornIn: 1949
+* BirthDay: 07-01
+* HomePage: http://www.microsoft.com/presspass/exec/craig/
+* MindSkill: ForeSight
+* DbLp: http://dblp.uni-trier.de/rec/pid/12/1103
+* PageNumber: 11
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi AlexAiken RalfTreinen NachumDershowitz YuriGurevich BertrandMeyer GuySteele CraigMundie
+
+MicroSoft

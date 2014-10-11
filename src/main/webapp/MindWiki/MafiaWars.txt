@@ -1,0 +1,4 @@
+* IsA: FbApp
+* HomePage: http://apps.facebook.com/inthemafia/
+
+by ZyngaInc

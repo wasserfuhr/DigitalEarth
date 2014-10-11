@@ -1,0 +1,4 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/07/6012
+* PageNumber: 4
+* PagePath: LarryPage HectorGarciaMolina ErhardRahm MarioJeckle StefanMueller

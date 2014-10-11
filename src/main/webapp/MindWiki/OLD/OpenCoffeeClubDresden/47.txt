@@ -1,0 +1,131 @@
+* MindTags: EventSeries
+* TwittEr: [#occdd|http://search.twitter.com/search?q=%23occdd]
+
+OpenCoffeeClub in der StadtDresden, ein lockeres Treffen von Dresdner EntrePreneur'en, FreiBeruf'lern und Interessierten, die im HauptStaedtchen vom FreistaatSachsen etwas bewegen möchten.
+
+!!MusterFormular
+!Nr.
+* WikiLender: YYYYMMDD
+* MindPlace: Ort
+* TeilNehmer: 
+* HotTopics: 
+* XingEvent: 
+
+!Nr. 18
+* WikiLender: 20091223
+* MindPlace: LockOffice
+* TeilNehmer: MarcoDziallas AlexanderFriedland
+* HotTopics: LockSchuppen PresencingStatus BusinessModelGeneration TwiDDern
+* XingEvent: folgt
+
+!Nr. 17
+* WikiLender: 20091216
+* MindPlace: CafeNeustadt
+* TeilNehmer: SoerenRogoll AlexanderFriedland RalfLippold
+* HotTopics: LockSchuppen, TwiDDern, GemeinsamWachsen
+* XingEvent: folgt
+
+!16
+* WikiLender: 20091209
+* MindPlace: CafeNeustadt
+* TeilNehmer: RalfLippold
+* HotTopics: 
+* XingEvent: https://www.xing.com/events/opencoffeeclub-dresden-nr-16-437694
+
+!15
+* WikiLender: 20091202
+* MindPlace: CafeNeustadt
+* TeilNehmer: RalfLippold RalfMueller SoerenRogoll
+* HotTopics: Betahaus, CoWorking, LockSchuppen, CoWorkingGoerlitz
+* XingEvent: https://www.xing.com/events/opencoffeeclub-dresden-nr-15-434977
+
+!14:
+* WikiLender: 20091125
+* MindPlace: BibLounge
+* TeilNehmer: AchimBonte AnneRichter KatrinKahle SusanKrebs MandyHelas MartinFiedler MarcoDziallas ThomasJung RobertLanger RalfLippold RainerWasserfuhr
+* HotTopics: Was können öffentliche Institutionen von Entrepreneuren und neuen Konzepten der Arbeit (z.B. CoWorking) lernen?
+* XingEvent: https://www.xing.com/events/opencoffeeclub-dresden-nr-14-431487
+
+!13
+* WikiLender: 20091118
+* MindPlace: CafeNeustadt
+* TeilNehmer: MandyHelas AlexanderGoetze FrankLorenz RainerWasserfuhr StefanHomilius MarcoDziallas SoerenRogoll RalfMueller RalfLippold
+* HotTopics: AugustusRex LockSchuppen FraktaleOrganisation EchoLogic DreiMFuenf OpenCoffeeClub GlobalEntrepreneurshipWeek
+* XingEvent: https://www.xing.com/events/opencoffeeclub-dresden-nr-13-425882
+
+!12 
+* WikiLender: 20091111
+* MindPlace: Spago, MmsTower
+* TeilNehmer: RainerWasserfuhr ConstanceWolter RalfLippold
+* XingEvent: https://www.xing.com/events/opencoffeeclub-no-12-424126
+
+!11
+* WikiLender: 20091104
+* MindPlace: MondPalast
+* TeilNehmer: MandyHelas RalfLippold AnneRichter RainerWasserfuhr
+* HotTopics: EckhartTolle LockSchuppen WebZwoNull CloWn LeaderShip
+* XingEvent: https://www.xing.com/events/opencoffeeclub-dresden-nr-11-421714
+
+!10
+* WikiLender: 20091028
+* MindPlace: 
+* TeilNehmer: RalfLippold SoerenRogoll RalfMueller
+* HotTopics: CoWorking Goerlitz
+* XingEvent: https://www.xing.com/events/opencoffeeclub-dresden-nr-10-417051
+
+!9
+* WikiLender: 20091021
+* MindPlace:
+* TeilNehmer: RalfLippold RainerWasserfuhr SoerenRogoll NicoleKirchner PeterStawowy UweWeigel
+* HotTopics: TheSingularity
+* XingEvent: https://www.xing.com/events/opencoffeeclub-dresden-nr-9-414653
+
+!8
+* WikiLender: 20091014
+* MindPlace: 
+* TeilNehmer: RalfLippold GeroldKeefer
+* HotTopics: ExperImentum
+* XingEvent: https://www.xing.com/events/opencoffeeclub-dresden-nr-8-411069
+
+!7
+* WikiLender: 20091007
+* MindPlace: TelekomKantine
+* TeilNehmer: RalfLippold PeterStawowy MandyHelas RainerWasserfuhr ThomasWalter
+http://twitter.com/RalfLippold/statuses/4638341365
+
+
+!6
+* WikiLender: 20090930
+* MindPlace: 
+* TeilNehmer: PeterStawowy SteffenPeschel EtAl
+* XingEvent: https://www.xing.com/events/opencoffeeclub-dresden-nr-6-403534
+
+!5
+* WikiLender: 20090923
+* Mindplace: SuppenBarSz
+* TeilNehmer: PeterStawowy AlexanderFriedland JuergenKohn RalfLippold ChristianFischer RainerWasserfuhr
+* XingEvent: https://www.xing.com/events/opencoffeeclkub-dresden-nr-5-397762
+
+!4
+* WikiLender: 20090916
+* MindPlace: CafeNeustadt
+* TeilNehmer: RalfLippold IrisSchilke RainerWasserfuhr
+* XingEvent: https://www.xing.com/events/opencoffeeclub-dresden-nr-4-396250
+
+!3
+* WikiLender: 20090909
+* MindPlace: SuppenBarSz
+* TeilNehmer: RoswithaHunold JfSchlinck ChristineSchlinck RalfLippold HeidiGallinat JeMand?? AlexandraGrandpierre EnricoNeuber CorinnaFiedlerVascotti RaikFischer PeterStawowy RainerWasserfuhr
+* XingEvent: https://www.xing.com/events/opencoffeeclub-dresden-392376
+
+!2 
+* WikiLender: 20090902
+* MindPlace: SuppenBarGoerlitzer
+* TeilNehmer: RalfLippold AlexandraGrandpierre JeMand
+http://doodle.com/vye94f6br7dfcgyu
+
+!1 
+* WikiLender: 20090826
+* MindPlace: CafeNeustadt
+* TeilNehmer: RalfLippold AlexandraGrandpierre JeMand
+http://doodle.com/dyxmq3t4s3hdi2ib

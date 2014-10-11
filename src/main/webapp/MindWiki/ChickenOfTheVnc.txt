@@ -1,0 +1,2 @@
+* InterWiki: [WikiPedia:Chicken_of_the_VNC]
+* HomePage: http://sourceforge.net/projects/cotvnc/

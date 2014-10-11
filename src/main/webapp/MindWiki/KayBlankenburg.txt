@@ -1,0 +1,2 @@
+* IsA: PerSon
+* HomePage: http://drupal.wie-hulle.de/ob

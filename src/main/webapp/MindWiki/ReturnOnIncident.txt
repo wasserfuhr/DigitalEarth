@@ -1,0 +1,3 @@
+Represents the negative RoI of bad customer experience initiated by an incident with service provider.
+
+[KevinSmith Story|http://twitter.com/ThatKevinSmith] [ThaLys Story|http://theservicerevolution.blogspot.com/search/label/Thalys]

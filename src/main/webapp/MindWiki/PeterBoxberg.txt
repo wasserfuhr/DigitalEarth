@@ -1,0 +1,6 @@
+* IsA: PerSon
+* BirthDay: 01-10
+* BirthPlace: BoxBerg
+
+* JahrGang: 1745 oder 1749?
+* LebensEnde: 1803?

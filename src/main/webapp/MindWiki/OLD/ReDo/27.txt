@@ -1,0 +1,43 @@
+* MindQuote: "We are what we RePeat'edly do" - MrAristotle
+
+DoIt RePeat'edly:
+
+WikiTable:
+||ReDo per||OrderedByShares||last||do     ||it
+|hour    |RainerWasserfuhr|20090119:1245|read|hourly MindFeeds
+|day     |RainerWasserfuhr|20090119|read     |daily MindFeeds
+|day     |RainerWasserfuhr|20090117|do       |ManageMyLove
+|3 days  |RainerWasserfuhr|20081219|check    |SocialGrid-Status
+|3 days  |RainerWasserfuhr|20090109|do       |SocialBackup
+|3 days  |RainerWasserfuhr|20090110|pour     |MindGreen
+|week    |RainerWasserfuhr|20071120|sort     |TotesHolz-InBox
+|week    |RainerWasserfuhr|20081208|check    |BankAccount
+|week    |RainerWasserfuhr|20080922|review   |DoIt
+|week    |RainerWasserfuhr|20080922|read     |XingLe-Termine
+|week    |RainerWasserfuhr|20090113|check    |FaceBook
+|week    |RainerWasserfuhr|20080922|ReView   |ReDo
+|week    |RainerWasserfuhr|20080922|ReView   |WikiLender
+|week    |RainerWasserfuhr|20090113|ReView   |DiscussionForum
+|week    |RainerWasserfuhr|20090119|read     |weekly MindFeeds
+|2 weeks |RainerWasserfuhr|20071127|plan     |CashFlow
+|2 weeks |RainerWasserfuhr|20090110|clean    |WirkZentrum
+|2 weeks |RainerWasserfuhr|20090108|weigh    |BodyOne
+|month   |RainerWasserfuhr|20071206|ReView   |ReView
+|month   |RainerWasserfuhr|20090110|do       |UstVa
+|month   |RainerWasserfuhr|20081208|fertilize|MindGreen
+|month   |RainerWasserfuhr|20080922|BackUp   |TwittEr
+|6 weeks |RainerWasserfuhr|20081127|do       |HairCut
+|6 weeks |RainerWasserfuhr|200810??|check    |FollowPolicy
+|6 weeks |RainerWasserfuhr|20080915|BackUp   |DelIcioUs
+|6 weeks |RainerWasserfuhr|20080916|BackUp   |BlogLines
+|6 weeks |RainerWasserfuhr|20080319|BackUp   |MindMac
+|6 weeks |RainerWasserfuhr|20080519|ReFactor |DelIcioUs TagCloud
+|2 months|RainerWasserfuhr|20090110|change   |ToothBrush
+|2 months|RainerWasserfuhr|20090114|ReView   |GiftSchrank
+|2 months|RainerWasserfuhr|20090115|ReView   |WantedPages
+|year    |RainerWasserfuhr|20090114|calculate|LebensErwartung
+|year    |RainerWasserfuhr|20081230|do       |JahresAbschluss
+|year    |RainerWasserfuhr|20081230|check    |ItRs
+|-| | | |
+|month   |HeikeRibke      |20080814|do       |SocialBackup
+|month   |HeikeRibke      |20080921|check    |BegruessungsGeld-payments

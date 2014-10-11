@@ -1,0 +1,7 @@
+[Xyz] IstGleich [Xyz]
+
+Der Sinn der WeltFormel ist eine Antwort auf die Frage: Wo kommt EnErgie her, wo fliesst EnErgie hin?
+Anders als die KayGroschen in der SemanticEconomy von NooPolis scheint die
+Gesamtmenge aller EnErgie nicht konstant zu sein. 
+Manchmal kommt sie aus dem BlackHole und verschwindet auch dort wieder. Das ist dann sowas wie eine Hidden-Markov-Variable in der WeltFormel.
+Wird es gelingen, alle versteckten Variablen zu lösen und die WeltFormel aufzuklären?

@@ -1,0 +1,31 @@
+* MindQuote: "HappiNess is your new business model" - TaraHunt
+
+Nur über die Leiche von RainerWasserfuhr wird MindBroker jemals wieder ein Word-Dokument oder eine Excel-Datei anlegen, um einen BusinessPlan zu erstellen (Nicht dass sich MindBroker damit nicht auskennen würde: zwischen 1999 und 2003 hat die MindBrokerKg damit über 50.000 EuRo Preisgelder bzw nichtrückzahlbare Fördermittel gewonnen).
+
+GeekIq ist dagegen der für FutureSax begonnene automatische BusinessPlan-Generator auf Basis von ApacheFop,
+der ein PDF-Dokument On-the-fly generiert und theoretisch mit 1-2 Stunden von MindHacking von RainerWasserfuhr auch die Inhalte der folgenden WikiPages einbetten könnte:
+* MindBroker
+* RoadMap
+* VerTrag
+* MitWirkende 
+* CommitMent
+* UnsereProjekte
+* UnserBudget
+
+Das PDF könnte es für interessierte InVest'oren im MindShop zu kaufen geben. Jedoch welcher Mensch mit VerMoegen und Verstand InVest'iert im Jahre 2008 noch in StartUp's die nicht WikiBasiert sind?
+
+Hierzu ist auch der Vortrag von ProFessor GunterDueck unbedingt hörenswert: HoereDueck
+
+Das zentrale Produkt von MindBroker wird der DigitalTwin:
+Ein digitales Abbild des eigenen Geistes.
+In wenigen Jahren werden Neuroheadsets den Massenmarkt
+erobern:
+"The EmotivEpoc neuroheadset is priced at $299 neuroheadsets will begin shipping in late 2008."
+Ein immer genaueres Abbild eigener Erfahrungen, Erlebnisse und Empfindungen, das 
+alle eigenen Aktivitäten im InterNet und "echten" Leben begleitet.
+MindBroker wird das führende EnterPrise für SemanticWeb-basierte
+digitale Modelle des eigenen Denkens.
+
+
+
+

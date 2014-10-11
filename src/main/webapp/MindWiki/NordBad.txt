@@ -1,0 +1,4 @@
+* IsA: MindPlace
+* InterWiki: [DdWiki:Nordbad]
+* HomePage: http://www.nordbad-dresden.de/
+* PartOf: LouisenStrasse

@@ -1,0 +1,3 @@
+* MindTags: FutureCard
+* PreDict: Mindestens zehn BuergerInnen von NooPolis haben den LapTop in ihrem MindHome für weniger als 100 EuRo pro Monat per FlatRate mit symmetrischer Bandbreite von mindestens 1.099.511.627.776 bit/sec mit dem InterNet verbunden.
+* FutureNumber: 40

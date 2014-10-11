@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* NamedAfter: MartinBonhoeffer
+* OpenStreetMap:  Bonhoefferplatz

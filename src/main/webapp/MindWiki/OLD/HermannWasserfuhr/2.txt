@@ -1,0 +1,7 @@
+* IsA: PerSon
+* BornIn: 1823
+* DiedIn: 1897
+
+ChildOf: AugustFerdinandWasserfuhr ?
+
+http://books.google.com/books?id=iyZoAAAAMAAJ&q=wasserfuhr

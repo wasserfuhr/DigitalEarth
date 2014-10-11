@@ -1,0 +1,109 @@
+StadtLeipzig - 2009
+
+!Wahlkreis 0
+
+Zentrum, Zentrum-Ost, Zentrum-Südost, Zentrum-Süd, Zentrum-West, Zentrum-Nordwest, Zentrum-Nord, Marienbrunn.
+
+||Partei || Abgeordneter
+|SPD| HeikoOsswald AnjaPohl
+|DIE LINKE| SiegfriedSchlegel InesHantschick
+|CDU| SabineHeymann DieterDeissler
+|GRÜNE| KatharinaKrefft AnnetteKoerner
+|FDP| SvenMorlok
+
+!Wahlkreis 1
+
+Schönefeld-Abtnaundorf, Schönefeld-Ost, Thekla, Plaußig-Portitz, Neustadt-Neuschönefeld, Volkmarsdorf, Heiterblick.
+
+||Partei ||Abgeordneter
+|SPD | IngridGloeckner
+|DIE LINKE| SteffenWehmann
+|CDU | AnsbertMaciejewski TorstenBonew
+|NPD | RudiGerhardt
+
+!Wahlkreis 2
+
+Anger-Crottendorf, Sellerhausen-Stünz, Paunsdorf, Mölkau, Engelsdorf, Baalsdorf, Althen-Kleinpösna.
+
+||Partei ||Abgeordneter
+|SPD | AnkeKaestner
+|DIE LINKE | CarolaLange
+|CDU | RonaldPohle JensLehmann3
+|NPD | KlausUfer
+
+!Wahlkreis 3
+
+Reudnitz-Thonberg, Stötteritz, Probstheida, Meusdorf, Liebertwolkwitz, Holzhausen.
+
+||Partei ||Abgeordneter
+|SPD | GunterMueller HeikeBoehm
+|DIE LINKE | MargittaHollick
+|CDU | UrsulaGrimm StefanBillig
+|GRÜNE | WolframLeuze
+|FDP | DrMichaelBurgkhardt
+
+!Wahlkreis 4
+
+Südvorstadt, Connewitz, Lößnig, Dölitz-Dösen.
+
+||Partei ||Abgeordneter
+|SPD | AxelDyck ChristopherZenker
+|DIE LINKE | MarcoGoetze JulianeNagel
+|CDU | KarstenAlbrecht
+|GRÜNE | NormanVolger RolandQuester MalteReupert
+|FDP | ReikHesselbarth
+
+!Wahlkreis 5
+
+Schleußig, Plagwitz, Kleinzschocher, Großzschocher, Knautkleeberg-Knauthain, Hartmannsdorf-Knautnaundorf, Grünau-Siedlung.
+
+||Partei ||Abgeordneter
+|SPD | UteKoehlerSiegel MathiasWeber
+|DIE LINKE | ReinerEngelmann MandyGehrt
+|CDU | ThomasZeitler KonradKretschmar
+|GRÜNE | IngoSasama MichaelSchmidt
+|FDP | ReneHobusch
+|FORUM | MarionZiegler
+
+!Wahlkreis 6
+
+Schönau, Grünau-Ost, Grünau-Mitte, Lausen-Grünau, Grünau-Nord.
+
+||Partei ||Abgeordneter
+|SPD | HeikoBaer
+|DIE LINKE | IlseLauter SoerenPellmann
+|CDU | DietmarKern
+
+!Wahlkreis 7
+
+Miltitz, Lindenau, Altlindenau, Neulindenau, Leutzsch, Böhlitz-Ehrenberg, Burghausen-Rückmarsdorf.
+
+||Partei ||Abgeordneter
+|SPD | ChristianSchulze
+|DIE LINKE | NaomiPiaWitte
+|CDU | KarinTeubner
+|FDP | ReneWiesner
+|WVL | BertSander
+
+!Wahlkreis 8
+
+Möckern, Wahren, Lützschena-Stahmeln, Lindenthal, Gohlis-Süd, Gohlis-Nord.
+
+||Partei ||Abgeordneter
+|SPD | GerhardPoetzsch AndreasGeisler
+|DIE LINKE | SkadiJennicke BirgittMai
+|CDU | WolfDietrichRost ClausUweRothkegel
+|GRÜNE | MichaelWeichert
+|FDP | IsabelSiebert
+|WVL | ArnoldWinter
+
+!Wahlkreis 9
+
+Mockau-Süd, Mockau-Nord, Gohlis-Mitte, Eutritzsch, Seehausen, Wiederitzsch.
+
+||Partei ||Abgeordneter
+|SPD   | ClausMueller
+|DIE LINKE | WilliamGrosser JensHerrmann
+|CDU   | KonradRiedel GerdHeinrich
+|GRÜNE | GiselaKallenbach
+|FDP   | KnutKeding

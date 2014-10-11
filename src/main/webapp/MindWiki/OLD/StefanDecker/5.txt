@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [LangReiter:Stefan+Decker]
+* JahrGang: 1968
+* BirthDay: 12-20
+* DbLp: http://dblp.uni-trier.de/rec/pid/d/StefanDecker
+* HomePage: http://www.deri.ie/about/team/member/stefan_decker/
+* MindSkill: SemanticWeb
+|[LinkedIn:stefandecker]

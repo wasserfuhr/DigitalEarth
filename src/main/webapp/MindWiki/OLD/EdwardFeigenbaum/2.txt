@@ -1,0 +1,6 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Edward_Feigenbaum], [OpenCyc:EdwardFeigenbaum-ComputerScientist]
+* JahrGang: 1936
+* BirthDay: 01-20
+* HomePage: http://ksl-web.stanford.edu/people/eaf/
+* MindSkill: ArTelligence

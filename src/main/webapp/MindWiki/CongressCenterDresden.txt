@@ -1,0 +1,6 @@
+* IsA: CongressCenter
+* InterWiki: [DeWikiPedia:Kongresszentrum_(Dresden)]
+* HomePage: http://www.dresden-congresscenter.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/23119198
+* ArchiTect: HinrichStorch WalterEhlers MartinBockelmann MarinaSpeckmann EtAl
+* PartOf: NeuTerrasse

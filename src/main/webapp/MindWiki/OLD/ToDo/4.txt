@@ -1,0 +1,21 @@
+RainerWasserfuhr
+* schreibe ProjektPlan
+* schreibe AlphaTester
+* schreibe BetaTester
+* schreibe ContinuousIntegration
+* ziehe den DemoServer auf Port 80 um
+* refactore Messages und Contacts in Mindbroker core.
+
+DanielPoodratchi
+* code Passwort vergessen
+* code Passwort ändern
+* edit messages
+
+AndreasWeigel
+* mache Layout für alle Browser brauchbar
+* fixe Bugs im Layout
+
+AurelienEyoum
+* recherchiere nach Fußballer Rechten
+* recherchiere nach existierenden Datenbanken von Fussballern
+

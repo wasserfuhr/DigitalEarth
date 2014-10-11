@@ -1,0 +1,2 @@
+* KindOf: MindPlace
+* InterWiki: [DeWikiPedia:Bundesstaat_der_Vereinigten_Staaten] [OpenCyc:State-UnitedStates]

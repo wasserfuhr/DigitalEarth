@@ -1,0 +1,18 @@
+* IsA: UnternehmensGruender
+* InterWiki: [WikiPedia:Tan_Le]
+* JahrGang: 1978
+* BirthDay: 01-01
+* DbLp: http://dblp.uni-trier.de/rec/pid/50/7222
+* PageNumber: 8
+|[TwittEr:tanttle]
+|[FaceBook:749614918]
+
+PagePath:
+# TerryWinograd
+# RandallDavis
+# [http://dblp.uni-trier.de/db/indices/a-tree/g/Gero:John_S=.html]
+# ThorstenSchnier [http://dblp.uni-trier.de/db/indices/a-tree/s/Schnier:Thorsten.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/b/Byrne:William_J=.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/l/Liu:Yong.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/y/Yao:Xin.html]
+# TanLe

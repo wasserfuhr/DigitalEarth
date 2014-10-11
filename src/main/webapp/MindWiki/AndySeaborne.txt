@@ -1,0 +1,6 @@
+* IsA: PerSon
+* SwDf: http://data.semanticweb.org/person/andy-seaborne
+* DbLp: http://dblp.uni-trier.de/rec/pid/05/2824
+* PageNumber: 15
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach JuergenAvenhaus KlausMadlener NorbertKuhn IsabelJohn MartinPinzger HaraldGall PeterVorburger AbrahamBernstein AndySeaborne
+* WebLog: http://seaborne.blogspot.com/

@@ -1,0 +1,38 @@
+MindVote for the CabiNet of NooPolis:
+
+!End of Vote: 2008-05-31:2400 GMT (06-01:0200 MESZ, 05-24:2100 PDT)
+
+The term of office starts: 2008-06-01:0000 GMT and lasts for 6 months.
+
+According to the ConStitution, members can receice 10.000 KayGroschen per month.
+
+The duties of the CabiNet are:
+* writing the monthy NewsLetter
+* mediating on ConStitution conflicts
+* at least one member having a weekly ConsultationHour
+
+All CitiZens have up to 5 votes. The 3 candidates with the most votes are elected:
+
+||Candidate       ||Your Vote:
+|BastiHirsch      |RainerWasserfuhr, HeikeRibke
+|ChristineSchlinck|RainerWasserfuhr, DanielPoodratchi, FrankLorenz, HeikeRibke
+|HeikeRibke       |RainerWasserfuhr, ChristineSchlinck, YvonneSchubert
+|FrankLorenz      |RainerWasserfuhr, HeikeRibke
+|JanBoehme        |RainerWasserfuhr, ChristineSchlinck, HeikeRibke, JanaDiesner
+|JanaDiesner      |FrankLorenz, HeikeRibke
+
+
+!Candidate statements
+* HeikeRibke: ...
+* ChristineSchlinck: ...
+* BastiHirsch: ...
+*...
+
+\\
+
+Other statements:
+JanaDiesner returns her four yet unassigned votes to the common pool of votes. They can be used by any CitiZen at his or her will on a first come, first served or edit-any-time basis. Since this is a rare instance of a purely explorative act with no exploitive component to it, any donations made towards her benefit will be collected and passed in full amount to one or many MindProject(s) of her choice.\\
+\\
+
+The following CitiZens are not willing to accept a role in the CabiNet:
+* RainerWasserfuhr - favours separation of powers and wants to concentrate on his role as VorStand of MindBroker.

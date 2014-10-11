@@ -1,0 +1,8 @@
+* IsA: PerSon
+* InterWiki: [WebSeitz:EstherDyson] [DeWikiPedia:Esther_Dyson]
+* JahrGang: 1951
+* BirthDay: 07-14
+* DbLp: http://dblp.uni-trier.de/rec/pid/68/3403
+* ChildOf: FreemanDyson
+* MindSkill: VentureCapital
+|[TwittEr:edyson]

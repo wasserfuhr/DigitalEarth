@@ -1,0 +1,7 @@
+StructuredQueryLanguage
+
+Einige WebApp's haben StructuredQueryLanguage-Console.
+
+Könnte auch für andere BuergerInnen freigeschaltet werden (eine weitere FreiHeit).
+
+Mit Limit für Nicht-BuergerInnen?

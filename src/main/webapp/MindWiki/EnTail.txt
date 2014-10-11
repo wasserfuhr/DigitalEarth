@@ -1,0 +1,6 @@
+* EtymoLogia: from entailler (“‘to cut away’”); prefix en- Latin + tailler (“‘to cut’”)
+* EtymoLogiaSource: http://en.wiktionary.org/wiki/entail#Etymology
+
+InFer RdF
+
+TransitiveClosure

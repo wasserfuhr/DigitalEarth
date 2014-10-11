@@ -1,0 +1,6 @@
+* MindTags: MarketGap
+* InterWiki: [WebSeitz:FamousForFifteenPeople] [ThoughtStorms:EveryoneWillBeFamousForFifteenPeople]
+
+Idea for a new SocialNetwork: only have up to 15 ConTact's that you can 
+* send messages
+* subscribe feeds

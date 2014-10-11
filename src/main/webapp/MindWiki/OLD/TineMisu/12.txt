@@ -1,0 +1,26 @@
+||Ort                 ||Nr  ||Breitengrad||Längengrad||VorName
+|PaelzerStubb         |     |51.0773 |13.7165
+|MmsTower             |     |51.082429|13.725936|Adrian
+|SachsenBad           |     |51.0815 |13.719
+|WirkZentrum          |     |51.0738 |13.7299|Adrian
+|-
+|WernerHartmannStrasse|6    |51.08572|13.76436
+|FoerstereiStrasse    |6    |51.0679|13.7500
+|-
+|DresdnerSchloss      |     |51.0527 |13.738
+|HauptStrasse         |36   |51.0604 |13.74424
+|PirnaischerPlatz     |     |51.0494 |13.7447
+|BogenSchuetze        |     |51.057383|13.751788
+|-
+|SchillerGarten       |     |51.05231|13.80918|Christian
+|KaetheKollwitzUfer   |76-79|51.05993|13.78813|Bernd 
+|AugsburgerStrasse    |72   |51.04545|13.79784|
+|VoglerStrasse        |9    |51.04664|13.80809
+|PohlandPlatz         |     |51.0429 |13.7953
+|MueVa                |     |50.98798|13.803|Christian
+|RobertBerndtStrasse  |1    |51.00757|13.8199
+
+MitWirkende:
+* Yvonne
+* A.S.
+* RainerWasserfuhr

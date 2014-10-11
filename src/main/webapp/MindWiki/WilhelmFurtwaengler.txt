@@ -1,0 +1,4 @@
+* IsA: PerSon
+* BirthDay: 01-25
+* ChildOf: AdolfFurtwaengler
+* MindSkill: ConDuct

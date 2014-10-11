@@ -1,0 +1,12 @@
+* MindTags: RdfClass
+* InterWiki: [OpenCyc:Person]
+* RdfClass: http://xmlns.com/foaf/0.1/#Person
+
+Interesting PerSon's on PlanetEarth,
+with or without LebensEnde, with their RealName as PageName of a WikiPage in the MindWiki.
+The CitiZens of NooPolis want to ConNect these BeautifulMind's.
+
+Additional interesting PerSon's:
+*  EkkehardBoesche NicoleSimon OriBrafman
+
+DoIt: Create a WebApp for listing and searching MindPeople, later http://people.mindbroker.de

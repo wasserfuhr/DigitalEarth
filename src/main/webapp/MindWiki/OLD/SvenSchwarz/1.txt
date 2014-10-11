@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* PastProjects: ConPlan
+* HomePage: http://www.dfki.uni-kl.de/~schwarz/

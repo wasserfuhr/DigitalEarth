@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* InterWiki: [OpenCyc:CityOfPyongyangNorthKorea]
+* MindCount: 3800000
+* BoundingBox: 50000

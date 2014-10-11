@@ -1,0 +1,5 @@
+||Name ||Nutzer||Werbung||Profilfoto||API
+|FaceBook|30m|-     |x          |+++
+|LinkedIn|13m|-     |-          |+
+|PeopleAggregator|<1m|x     |x          |-
+|XingLe  | 2m|-     |-          |not yet

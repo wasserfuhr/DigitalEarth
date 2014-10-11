@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* HomePage: http://texai.org/
+* MindSkill: ArTelligende, OpenCyc
+||AusLand
+|[WikiPediaUser:StephenReed]

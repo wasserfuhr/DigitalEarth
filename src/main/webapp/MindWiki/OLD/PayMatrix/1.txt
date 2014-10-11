@@ -1,0 +1,8 @@
+Wie könnten potentielle MindBroker KayGroschen einzahlen?
+
+||Compare       ||PayPal          ||MoneyBookers||GiroPay
+|Homepage       |http://paypal.com|http://moneybookers.com
+|Payer Fee      |1%               |1%
+|Merchant Fee   |3,5%             |2%
+|PatriotAct     |yes              |no
+|User (Mio)     |133              |3

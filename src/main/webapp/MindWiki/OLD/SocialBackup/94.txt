@@ -1,0 +1,125 @@
+The backup of the entire SocialGrid of NooPolis for download:
+
+||Timestamp   ||Content  ||URL                            ||latest MD5-Sum
+|20080530:1156|MindZip   |http://mindbroker.de/mind.zip   |9300206ae09b5c749f3c7bdc234fc01a
+|20080530:1147|IdZip     |id.zip                          |410a9eb8dc9b49dfaa43d13f82b666e0
+|20080523:1118|BankZip   |http://mindbroker.de/bank.zip   |7ea2c020563ae86a58b1396902a2946c
+|20080117:0303|SourceZip |http://mindbroker.de/source.zip |74088d1dd3b5dfa2995ac137515945f9
+|20080117:0323|MvnRepoZip|http://mindbroker.de/mvnrepo.zip|6be02582db27f7b5bd2b8dbbfdcf2405
+
+SocialBackup means, that each member of the CabiNet RePeat'edly downloads the entire backup, such that on each MindMac an almost complete ReCovery can be made, even if there is a server DisAster.
+
+(latest downloads first. The MD5-Sum identifies the download uniquely and simplifies
+to find the latest backup in case of a BootStrap)
+
+||MindBroker      ||what  ||MindMac||latest Download||MD5-Sum
+|RainerWasserfuhr |mind   |NepTun   |20080530:1156|9300206ae09b5c749f3c7bdc234fc01a
+|RainerWasserfuhr |id     |NepTun   |20080530:1150|410a9eb8dc9b49dfaa43d13f82b666e0
+|RainerWasserfuhr |bank   |NepTun   |20080523:1123|7ea2c020563ae86a58b1396902a2946c
+|RainerWasserfuhr |mind   |NepTun   |20080523:1117|fa2edde68984a4a9098332c5874f95dd
+|RainerWasserfuhr |mind   |NepTun   |20080521:0243|8a27ca5a040dea81ec730197e655c365
+|HeikeRibke       |bank   |HelpMate |20080521:0100|dde26c46c81d14fb7abefccdb017c93a
+|HeikeRibke       |mind   |HelpMate |20080521:0030|727b0dd409c603f6fd7de626b9293a9a
+|RainerWasserfuhr |id     |NepTun   |20080517:0623|3d69910192075aeb67ec00c20b769169
+|RainerWasserfuhr |bank   |NepTun   |20080517:0620|dde26c46c81d14fb7abefccdb017c93a
+|RainerWasserfuhr |mind   |NepTun   |20080517:0618|da08d30eb0a7121565e7544425b82fa8
+|RainerWasserfuhr |mind   |NepTun   |20080505:1556|da08d30eb0a7121565e7544425b82fa8
+|RainerWasserfuhr |mind   |NepTun   |20080429:1610|c72142e5be513f09e3f057de6f182e37
+|HeikeRibke       |mind   |HelpMate |20080427:0205|727b0dd409c603f6fd7de626b9293a9a
+|RainerWasserfuhr |mind   |NepTun   |20080422:1546|e7f5a10a0ac98e00620d5e5f61f6e5c0
+|RainerWasserfuhr |bank   |NepTun   |20080422:1540|b406f4fc4473965635fa5f5cdf3b4f84
+|RainerWasserfuhr |mind   |NepTun   |20080418:1655|f7c4a57c1443f2ae47280009c35e63ae
+|HeikeRibke       |mind   |HelpMate |20080411:1614|727b0dd409c603f6fd7de626b9293a9a
+|HeikeRibke       |mind   |HelpMate |20080326:0019|d6d6c794591b50591a64bddd161b8c7f
+|HeikeRibke       |mind   |HelpMate |20080311:1431|d6d6c794591b50591a64bddd161b8c7f
+|RainerWasserfuhr |mind   |NepTun   |20080311:1431|d6d6c794591b50591a64bddd161b8c7f
+|RainerWasserfuhr |bank   |NepTun   |20080221:0740|0e914374f2ffaddf06e058ca14b039ac
+|RainerWasserfuhr |mind   |NepTun   |20080221:0723|50fcdd377dddbd0f4a50ce8c1224d6ba
+|HeikeRibke       |id     |HelpMate |20080219:1857|f0b8600c65118f88cf236d3eb393aa16
+|RainerWasserfuhr |id     |NepTun   |20080219:1721|f0b8600c65118f88cf236d3eb393aa16
+|HeikeRibke       |source |HelpMate |20080219:1455|74088d1dd3b5dfa2995ac137515945f9
+|HeikeRibke       |mvnrepo|HelpMate |20080219:1450|6be02582db27f7b5bd2b8dbbfdcf2405
+|HeikeRibke       |bank   |HelpMate |20080219:1435|4d2b43d1180e4dcca23fa78c304e03c8
+|HeikeRibke       |mind   |HelpMate |20080219:1430|
+|RainerWasserfuhr |mind   |NepTun   |20080214:0132|9d55c652d6062874a51d6c1b273e5b8d
+|FrankLorenz      |source |ähm HtPc |20080207:2057|
+|FrankLorenz      |bank   |ähm HtPc |20080207:2056|
+|FrankLorenz      |mind   |ähm HtPc |20080207:2055|7f0aae9bcba58d74f5197c245b736af5
+|HeikeRibke       |source |HelpMate |20080205:1559|
+|HeikeRibke       |mvnrepo|HelpMate |20080205:1555|
+|HeikeRibke       |bank   |HelpMate |20080205:1535|
+|HeikeRibke       |mind   |HelpMate |20080205:1530|
+|HeikeRibke       |id     |HelpMate |20080205:1511|
+|RainerWasserfuhr |mind   |NepTun   |20080126:1832|e6870982d8449302ee3b1aebbb017419
+|RainerWasserfuhr |bank   |NepTun   |20080126:1828|bdf5f67b903aacb3006d28621a149b19
+|RainerWasserfuhr |id     |NepTun   |20080121:2120|2109fb2ab66d3d70df956ef9ded39381
+|RainerWasserfuhr |mind   |NepTun   |20080121:2117|aa6d5f80bd13d017837328e65f3b5b9e
+|RainerWasserfuhr |mvnrepo|NepTun   |20080117:0331|6be02582db27f7b5bd2b8dbbfdcf2405
+|RainerWasserfuhr |source |NepTun   |20080117:0319|74088d1dd3b5dfa2995ac137515945f9
+|RainerWasserfuhr |mind   |NepTun   |20080117:0250|26edd8b2eb567d4d8a420134c599d201
+|RainerWasserfuhr |mind   |NepTun   |20080116:0232|564110914243ca5f19fba7db776f5dc4
+
+|RainerWasserfuhr |mind   |NepTun   |20071228:0143|ce3f546bfda719533fc37918cf0d1863
+|RainerWasserfuhr |mind   |NepTun   |20071222:0240|35b57ef3ab4a0a6c05d3c15172463850
+|RainerWasserfuhr |mind   |NepTun   |20071216:0035|27a110ec12a25a3e1cb1e84e83740614
+|RainerWasserfuhr |bank   |NepTun   |20071215:0240|2107d1d8648f0b3735353b96d8d3896d
+|RainerWasserfuhr |mind   |NepTun   |20071209:2350|2a9df6cc6ddc8224670036a430c35a84
+|RainerWasserfuhr |mind   |NepTun   |20071205:0359|24709c9d8eb2ed0393d500980f4c8b51
+|HeikeRibke       |mind   |HelpMate |20071203:1910|
+|YvonneSchubert   |mind   |triton   |20071127:1818|
+|YvonneSchubert   |mvnrepo|triton   |20071127:1818|
+|YvonneSchubert   |source |triton   |20071127:1818|
+|RainerWasserfuhr |mind   |NepTun   |20071127:1715|4904e9bf7e8d177f2c5f8972fbb76e20
+|RainerWasserfuhr |mind   |NepTun   |20071112:2314|382cd859eb9c01edb31d6e3534994421
+|YvonneSchubert   |mind   |triton   |20071112:1300|
+|YvonneSchubert   |mvnrepo|triton   |20071112:1300|
+|YvonneSchubert   |source |triton   |20071112:1300|
+|DanielPoodratchi |mind   |macDaniel|20071103:1630|40498fc008f9a033bd7152dacb9fe060
+|DanielPoodratchi |source |macDaniel|20071103:1630|e045412a74b85813c7a5e5459d2199fa
+|DanielPoodratchi |mvnrepo|macDaniel|20071103:1630|082a44de7eafed040bc953ba16cbb44d
+|RainerWasserfuhr |mind   |neptun   |20071101:0039|40498fc008f9a033bd7152dacb9fe060
+|YvonneSchubert   |mind   |triton   |20071023:1430|
+|YvonneSchubert   |mvnrepo|triton   |20071023:1430|
+|YvonneSchubert   |source |triton   |20071023:1430|
+|DanielPoodratchi |mind   |macDaniel|20071018:1630|855ce72781473f76ed906f9fc99e964a
+|DanielPoodratchi |source |macDaniel|20071018:1630|e045412a74b85813c7a5e5459d2199fa
+|DanielPoodratchi |mvnrepo|macDaniel|20071018:1630|082a44de7eafed040bc953ba16cbb44d
+|RainerWasserfuhr |mind   |NepTun   |20071014:1943|855ce72781473f76ed906f9fc99e964a
+|YvonneSchubert   |mind   |triton   |20071004:1430|
+|YvonneSchubert   |mvnrepo|triton   |20071004:1430|
+|YvonneSchubert   |source |triton   |20071004:1430|
+|RainerWasserfuhr |mind   |NepTun   |20070928:0143|bc5fc1dcc8142454076492df92db1835
+|YvonneSchubert   |mind   |triton   |20070925:1430|874165c5e519da7e087c709a014dffd2
+|YvonneSchubert   |mvnrepo|triton   |20070925:1430|082a44de7eafed040bc953ba16cbb44d
+|YvonneSchubert   |source |triton   |20070925:1430|e045412a74b85813c7a5e5459d2199fa
+|YvonneSchubert   |mind   |triton   |20070917:1430|874165c5e519da7e087c709a014dffd2
+|YvonneSchubert   |mvnrepo|triton   |20070917:1430|
+|YvonneSchubert   |source |triton   |20070917:1430|
+|YvonneSchubert   |mind   |triton   |20070908:2030|
+|YvonneSchubert   |mvnrepo|triton   |20070908:2030|
+|YvonneSchubert   |source |triton   |20070908:2030|
+|DanielPoodratchi |mind   |macDaniel|20070907:1630|874165c5e519da7e087c709a014dffd2
+|DanielPoodratchi |source |macDaniel|20070907:1630|e045412a74b85813c7a5e5459d2199fa
+|DanielPoodratchi |mvnrepo|macDaniel|20070907:1630|082a44de7eafed040bc953ba16cbb44d
+|RainerWasserfuhr |mind   |NepTun   |20070903:1200|874165c5e519da7e087c709a014dffd2
+|YvonneSchubert   |mind   |triton   |20070829:2030|9c422d806e9b99d5daef56d06675ef35
+|YvonneSchubert   |mvnrepo|triton   |20070829:2030|082a44de7eafed040bc953ba16cbb44d
+|YvonneSchubert   |source |triton   |20070829:2030|e045412a74b85813c7a5e5459d2199fa
+|YvonneSchubert   |mind   |triton   |20070809:1500|
+|YvonneSchubert   |mvnrepo|triton   |20070809:1500|
+|YvonneSchubert   |source |triton   |20070809:1500|
+|RainerWasserfuhr |mind   |NepTun   |20070808:1415|ff08cde56bb777f91ca781bd6d1035c3
+|RainerWasserfuhr |mind   |triton   |20070719:1050|acc20cb175455be04a7b3afb7b4a6579
+|RainerWasserfuhr |source |triton   |20070703:1425|
+|RainerWasserfuhr |mind   |triton   |20070703:1425|
+|YvonneSchubert   |mind   |triton   |20070521:1500|
+|YvonneSchubert   |mvnrepo|triton   |20070521:1500|
+|YvonneSchubert   |source |triton   |20070521:1500|
+|RainerWasserfuhr |source |triton   |20070518:1010|
+|RainerWasserfuhr |mind   |triton   |20070518:1010|
+|RainerWasserfuhr |mvnrepo|triton   |20070519:0251|
+|RainerWasserfuhr |mind   |NepTun   |20070510:0136|
+|RainerWasserfuhr |mind   |NepTun   |20070430:1302|
+|RainerWasserfuhr |source |NepTun   |20070430:1302|
+|RainerWasserfuhr |mind   |ares     |20070328:0023|
+|DanielPoodratchi |mind   |         |20070326:2103|

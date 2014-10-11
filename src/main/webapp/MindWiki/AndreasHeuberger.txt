@@ -1,0 +1,5 @@
+* IsA: PerSon
+* XingId: 1989
+* HasTalked: RainerWasserfuhr
+|[XingLe:ANDREASH_HEUBERGER]
+|[FaceBook:100001251966863]

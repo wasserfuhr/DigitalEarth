@@ -1,0 +1,24 @@
+We  apply a new model
+
+Our RuleSet
+* One big network
+** Customers
+** Suppliers
+** CoWorker
+
+
+Our NoBut's:
+** no OfficeSpace, but TelePresence
+** no IntraNet, but public EnterpriseWiki
+** No RelationalDatabase, but BigTable
+** No "RealMoney", but a VirtualEconomy with OpenMoney
+** No Secret data, but OpenData
+** No SAP, but a SemanticEnterprise
+** No SharePoint, but an EnterpriseWiki
+** No MsOutlook or MsExchange, but EtherPad
+** No MsWord or MsExcel, but ScreenCast's and GoogleDocs
+** No lawyers, but a MicroNation with it's own JurisProudence
+** No BetriebsRat, but a RuleSet that can be edited via EnterpriseWiki
+** No SmartFilter, but free WiFi
+
+* No employees, but ShareHolder

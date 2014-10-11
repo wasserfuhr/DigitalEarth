@@ -1,0 +1,6 @@
+Die erfolgreichste AirLine auf PlanetErde des Jahres 2015 wird haben:
+* Nur noch Tickets für BuergerInnen mit MindId
+* Realtime-Flugbewegungen in SecondMind 
+* keine starren Flugpläne mehr, sondern dynamisches OnDemand-Scheduling
+* dynamisches Pricing per PowerQueue
+* Ein FlightWiki mit Seite der Fluggäste für jeden Flug

@@ -1,0 +1,21 @@
+* InterWiki: [WikiPedia:Future_Shock]
+* MindQuote: "There are somewhere between 20 and 100 SL4ers [out there|http://www.acceleratingfuture.com/michael/works/shocklevelanalysis.htm]" - MichaelAnissimov
+* RdfProperty: http://id.mindbroker.de/schema#shockLevel
+
+BeBold: CitiZens of NooPolis should guess their ShockLevel.
+First read http://www.acceleratingfuture.com/michael/works/shocklevelanalysis.htm and then
+add your estimated ShockLevel as MindProps on your WikiPage by a value r ∈ ℝ with -2 <= r <=4.
+
+||SL||MindCount   ||Concepts
+| 4|        20-100|TerraMind,JupiterBrain,AnLicht
+| 3| 1,000-100,000|GlaesernerMensch,TransHuman,UpLoad,PostReal,GlobusCassus,SynBio,PolyBody,FixPunkt
+| 2|    >1,000,000|SemanticWeb,TuringMaschine,CybOrg,WunderKind,ArTelligence,NooSphere,EinHorn
+| 1|   >10,000,000|IntuitiveLinear,DelIcioUs,SecondLife,TwittEr,DresdenDrohne
+| 0|>2,600,000,000|JederMann,AlphaBet,TastaTur,InterNet,MySpace
+|-1|~4,600,000,000|ObDach,HuMan
+|-2|  <500,000,000|
+
+Links:
+* http://del.icio.us/rainer/shocklevel
+* http://del.icio.us/rainer/sl4
+* DelSl

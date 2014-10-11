@@ -1,0 +1,5 @@
+* IsA: EnterPrise
+* NamedAfter: HubertBurda
+* InterWiki: [DeWikiPedia:Hubert_Burda_Media]
+* MindOne: HubertBurda
+* UstId: DE 142540677

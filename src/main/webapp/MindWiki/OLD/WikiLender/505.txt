@@ -1,0 +1,122 @@
+* InterWiki: [AgiriWiki:AGIRI_Events] [DdWiki:Stadtwiki:Veranstaltungen] [DeWikiPedia:Februar_2010]
+ [OpenCog:Current_events] [PlomWiki:Terminkalender]
+
+The WikiBased calendar of NooPolis.
+
+(MindEvent's in the WikiLender have a "When" and an optional "UnTil". Things which only have an "UnTil" can be found as DeadLine)
+||When          ||UnTil||Status||MindPlace    ||What                    ||MindPeople
+|2010-03-07     |     |        |KodakTheatre  |AcademyAwards            |JamesCameron? ChristophWaltz? EtAl
+|2010-03-08:1830|     |        |HygieneMuseum |DanielLibeskind          |RalfLippold MarcoDziallas (3 weitere Karten bereits reserviert, DM an RalfLippold EtAl)
+|2010-03-08:1900|     |        |NewThinkingStore|RobLet-VorTrag         |HagenStanek EtAl
+|2010-03-09:1200|     |        |MickTen     |Besichtigung               |RalfLippold ConstanceWolter EtAl
+|2010-03-09:2000|     |        |StadtteilHaus |VorTrag                  |RegineToeberich? SabineFriedel RalfLippold MarcoDziallas EtAl
+|2010-03-10     |     |        |StadtDresden     |SocialBar                   |RalfLippold EtAl
+|2010-03-12     |     |        |LockOffice     |DiaLog                  |RainerWasserfuhr RalfLippold JeMand
+|2010-03-15     |     |        |KulturPalast  |Lesung                   |FrankSchaetzing EtAl
+|2010-03-16     |     |        |HygieneMuseum |VorTrag                  |HelgaNowotny
+|2010-03-19     |     |        |ParkHotel     |HutBall                  |
+|2010-03-20     |     |        |ParkHotel     |HutBall-Party            |
+|2010-03-20     |     |        |KleinHaus     |DiaLog                   |HolgerJohn AnnaMateur EtAl
+|2010-03-20     |     |        |KleinHaus     |SchwarzMarkt             |RalfLippold EtAl
+|2010-03-27     |     |        |DeutschLand   |EarthHour                |
+|2010-03-24     |     |        |EtherPad      |Uebertrag in MindWiki    |RalfLippold RainerWasserfuhr EtAl
+|2010-03-30     |     |        |FreistaatSachsen|FutureSax              |
+|2010-04-01     |     |        |LockSchuppen    |LockBirthday     |RalfLippold RainerWasserfuhr SoerenRogoll MarcoDziallas EtAl
+|2010-04-11:1000|     |        |LockOffice    |BueroEroeffnungLouise61     |RalfLippold CorneliaHoesel MandyHelas EtAl
+|2010-04-14     |     |        |StadtBerlin   |RePublica                |
+|2010-04-15     |     |        |StadtBerlin   |RePublica                |
+|2010-04-16     |     |        |StadtBerlin   |RePublica                |
+|2010-04-16     |     |        |StadtDresden  |AgileSaxony              |JensKorte EtAl
+|2010-04-24     |     |        |StadtDresden  |MobileCamp               |JanBoehme EtAl
+|2010-04-24     |     |        |StadtDresden  |FilmBall                 |HolgerJohn EtAl
+|2010-04-25     |     |        |StadtDresden  |MobileCamp               |JanBoehme EtAl
+|2010-05-05     |     |        |NordrheinWestfalen|NrwWahl2010          |JuergenRuettgers EtAl
+|2010-05-06     |     |        |StadtDresden    |UndSonstSo LockSchuppen|RalfLippold EtAl
+|2010-05-14     |     |        |VillaWeigang  |Heirat                   |JeMand JeMand EtAl
+|2010-05-14     |     |        |StadtDresden  |PolterAbend              |JeMand JeMand EtAl
+|2010-05-15     |     |        |ChristusKirche|HochZeit                 |JeMand JeMand EtAl
+|2010-05-15     |     |        |PutjatinHaus  |HochzeitsFeier           |JeMand JeMand EtAl
+|2010-06-10     |     |        |CongressCenterDresden|ZukunftsForum     |RayKurzweil ThomasKoeplin? EtAl
+|2010-06-18     |     |        |NeuStadt      |BunteRepublik            |RalfLippold SoerenRogoll EtAl
+|2010-06-19     |     |        |NeuStadt      |BunteRepublik            |RalfLippold SoerenRogoll EtAl
+|2010-06-20     |     |        |NeuStadt      |BunteRepublik            |RalfLippold SoerenRogoll EtAl
+|2010-07-09     |     |        |Gdansk        |WikiMania                |JimmyWales? EtAl
+|2010-10-19     |     |        |StadtDresden  |SemiconEuropa            |EtAl
+|2010-10-23     |     |        |LosAngeles    |LoebnerPrize             |HughLoebner EtAl
+|2011-02-24     |     |        |StadtDresden  |WorldCultureForum        |EtAl
+|2011-02-25     |     |        |StadtDresden  |WorldCultureForum        |EtAl
+|2011-02-26     |     |        |StadtDresden  |WorldCultureForum        |EtAl
+|2011-03-03:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|2012-02-16:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|2012-12-21     |     |        |PlanetErde    |13.0.0.0.0               |
+|2012-06-23     |     |        |PlanetErde    |BirthDay                 |AlanTuring
+|2013           |     |        |DeutschLand   |BundestagsWahl2013       |
+|2014-10-24     |     |        |GalerieHorschik|OpenArt-BeSuch          |RainerWasserfuhr JeMand?
+|2026-11-13     |     |        |PlanetErde    |DoomsDay                 |HeinzVonFoerster EtAl
+|2036-12-17:1930|     |        |UniVerse      |End of HundertMalHundert |RainerWasserfuhr
+|2081-09-03     |     |        |DeutschLand   |SonnenFinsternis         |
+
+everything else is on the FutureMap
+
+!WasWar:
+
+||When          ||UnTil||      ||MindPlace    ||What                    ||MindPeople
+|2010-03-05     |     |        |Lugano        |AgiConf                  |BenGoertzel EtAl
+|2010-03-04:1900|2400 |        |NikkiFaktur    |UndSonstSo     |RalfLippold EtAl
+|2010-03-04:1400|1800 |        |LockOffice    |SocialMedia4Founders     |RalfLippold SoerenRogoll EtAl
+|2010-03-01:1700|     |        |DresdenAirport|DenkfabrikSachsen        |RalfLippold StanislawTillich EtAl
+|2010-03-02:1900|     |        |HechtViertel  |DiaLog                   |RainerWasserfuhr? JeMand?
+|2010-02-27:1930|     |        |EspritArena   |DepecheMode              |DaveGahan ShadowAt79 EtAl
+|2010-02-26:1930|     |        |EspritArena   |DepecheMode              |DaveGahan EtAl
+|2010-02-25:1900|     |CANCELED|HechtViertel  |DiaLog                   |RainerWasserfuhr? JeMand?
+|2010-02-23:2000|     |        |HygieneMuseum |Lesung                   |VolkerBraun EtAl
+|2010-02-23     |     |        |TzDresden     |UnternehmerStammtisch?   |BertramDressel? EtAl
+|2010-02-20:1100|     |        |LockOffice    |LockSession              |SabineFriedel RalfLippold
+|2010-02-18:1300|     |        |LockOffice    |MindTowerZwo-Briefing    |MarcoDziallas HeidiGallinat EtAl
+|2010-02-16     |     |        |RoeschenHof   |FaschingsParty           |OlafSchubert RainerWasserfuhr EtAl
+|2010-02-16:1945|     |        |LockOffice    |Pre-Pizza                |RainerWasserfuhr EtAl
+|2010-02-14:1900|     |        |StarBucks     |DiaLog                   |RainerWasserfuhr JeMand
+|2010-02-14     |     |        |SemperOper    |DresdenPreis             |MikhailGorbachev StanislawTillich EtAl
+|2010-02-12:1800|     |        |SolYMar       |DiaLog                   |RainerWasserfuhr JeMand
+|2010-02-11:2000|     |        |MindTowerZwo  |VorTrag                  |RegineToeberich RalfLippold EtAl
+|2010-02-11:1111|     |        |AlterMarkt    |AlAaf                    |EtAl
+|2010-02-08:1900|     |        |SkyDresden    |DiaLog                   |RainerWasserfuhr JeMand
+|2010-02-06     |     |        |HdKdW         |FuturityNow              |ConradWolfram FlorianRoetzer MercedesBunz EtAl
+|2010-02-04     |     |        |StadtDresden  |DresdnerOSMStammtisch    |
+|2010-02-03     |     |        |OtStrehlen    |DiaLog                   |RainerWasserfuhr JeMand
+|2010-02-03     |     |        |FelixDresden  |XingMeetsFelix           |JensUweSauer RalfLippold EtAl
+|2010-02-02     |     |        |StadtBerlin   |SocialMediaWeek          |MarkusAngermeier EtAl
+|2010-02-01     |     |        |StadtDresden  |AgileSaxony              |JensKorte EtAl
+|2010-02-01     |     |        |StadtBerlin   |SocialMediaWeek          |MarkusAngermeier EtAl
+|2010-01-30:1000|     |        |HygieneMuseum |GrosseSpruenge           |RalfLippold
+|2010-01-30     |     |        |ScheuneDresden|Lesung                   |HarryRowohlt EtAl
+|2010-01-29:1600|     |        |LockOffice    |InterView                |RalfLippold JeMand
+|2010-01-29:1400|     |        |MaximusDresden|DiaLog                   |RainerWasserfuhr CorneliaHeinz
+|2010-01-28:1830|     |        |NeonGrau      |                         |RalfLippold EtAl
+|2010-01-27:1900|     |        |KohlWeg       |DiaLog                   |RainerWasserfuhr JeMand
+|2010-01-27:1800|     |        |HygieneMuseum |VorTrag                  |RalfLippold JeMand
+|2010-01-26:2230|     |CANCELED|OtStrehlen    |HeiligenDamm-DiaLog      |RainerWasserfuhr JeMand
+|2010-01-26:1000|     |        |HellerAu      |DiaLog                   |RalfLippold JeMand
+|2010-01-25     |     |        |DaCapoLeipzig |ElevatorPitch            |JamesParsons RalfLippold ConstanceWolter SoerenRogoll
+|2010-01-23     |     |        |ScheuneDresden|Party                    |ClaudiaHoffmann RainerWasserfuhr EtAl
+|2010-01-23     |     |        |FranksBar     |DiaLog                   |RainerWasserfuhr JeMand
+|2010-01-23     |     |        |CuchiDresden  |DiaLog                   |RainerWasserfuhr JeMand
+|2010-01-22:2000|     |        |ZeitenStroemung|SupernovaSociety        |OliverTschentscher EtAl
+|2010-01-21     |     |        |GrassiMuseum  |TagDesDesigns            |RalfLippold EtAl
+|2010-01-20:1930|     |        |TuDresden     |TwittWoch                |RalfLippold KirstinWalther EtAl
+|2010-01-20     |     |        |StadtChemnitz |FutureSax                |KerstinTrautmann? EtAL
+|2010-01-20:1830|     |        |StadtDresden  |Sonnen-DiaLog            |RainerWasserfuhr JeMand
+|2010-01-20:1500|     |        |LockOffice    |DiaLog                   |RalfLippold SilkeGeithner MarcoDziallas EtAl
+|2010-01-19:1600|     |        |MaximusDresden|SemanticWeb-DiaLog       |RainerWasserfuhr JeMand
+|2010-01-18:1800|     |        |StadtChemnitz |WebMontag                |RalfLippold JensUweSauer ThomasLoerinczy EtAl
+|2010-01-17:1400|     |        |SchwarzMarktCafe|DiaLog                 |RainerWasserfuhr ChristineSchlinck JeMand EtAl
+|2010-01-15:2000|     |        |SemperOper    |SemperOpernBall          |HansJoachimFrey EtAl
+|2010-01-13:0900|1700 |        |LockOffice    |WorkZwoNull              |OliverGassner RalfLippold EtAl
+|2010-01-11     |     |        |TurmZimmer    |WirtschaftsJunioren      |RalfLippold EtAl
+|2010-01-11:1400|     |CANCELED|NeuStadt      |AldiTalk                 |RainerWasserfuhr WinfriedLueg
+|2010-01-09:2230|     |        |TerrasseAmBischofsplatz|BirthDay-Party  |RainerWasserfuhr JeMand JeMand
+|2010-01-07     |     |        |StadtDresden  |UndSonstSo               |RalfLippold EtAl
+|2010-01-06     |     |        |LockOffice    |TuerSchild               |RalfLippold EtAl
+|2010-01-04:1930|     |        |VereinshausJohannstadt|MontagsKreis     |AndreasPoldrack ThomasKlemm NorbertRost RalfLippold? EtAl
+
+Earlier Events: WasWar.

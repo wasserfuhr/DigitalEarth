@@ -1,0 +1,8 @@
+RainerWasserfuhr sucht eine Alternative zu FlickR, am besten auch gleich mit Video für PieschenTv:
+
+||MediaHoster||User||pics||video||OpenId||OpenSource||API||MindOne
+|FlickEr     |7m   |x    |-     |-      |-          |++|StewartButterfield
+|jAlbum      |?    |x    |-     |-      |x          |? |DavidEkholm
+|SevenLoad   |?    |x    |x     |-      |-          |? |IbrahimEvsan
+|TwoThreeHq  |?    |x    |-     |-      |-          |? |ThomasMadsenMygdal
+|YouTube     |500k |-    |x     |-      |-          |? |ChadHurley

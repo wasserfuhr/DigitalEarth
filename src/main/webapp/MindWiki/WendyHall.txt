@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Wendy_Hall]
+* BirthDay: 10-25
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/WendyHall
+* PageNumber: 3
+* PagePath: LarryPage TerryWinograd NorbertStreitz WendyHall

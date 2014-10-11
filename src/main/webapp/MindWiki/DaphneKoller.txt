@@ -1,0 +1,3 @@
+* MindTags: ProFessor
+* HomePage: [http://ai.stanford.edu/~koller/]
+* MindSkill: ArTelligence

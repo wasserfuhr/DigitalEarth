@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Theaterplatz], [DeWikiPedia:Theaterplatz_(Dresden)]
+* BreitenGrad: 51.0538
+* LaengenGrad: 13.7359
+* BoundingBox: 80

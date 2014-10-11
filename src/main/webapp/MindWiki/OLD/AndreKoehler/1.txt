@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/43/1627
+* HomePage: http://ebus.informatik.uni-leipzig.de/www/de/kontakt/mitarbeiter/ak.html
+* PageNumber: 8
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy MichaelEvangelist VolkerGruhn AndreKoehler
+|[XingLe:Andre_Koehler4]

@@ -1,0 +1,6 @@
+* IsA: PerSon
+* HomePage: http://tu-dresden.de/Members/alexander.gehre
+* TurkNumber: 1
+* PageNumber: 15
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach JuergenAvenhaus TheoHaerder ErichOrtner RalfSteinmetz ThorstenPrante NorbertStreitz JohnSmith ZigaTurk ~ AlexanderGehre
+|[XingLe:Alexander_Gehre]

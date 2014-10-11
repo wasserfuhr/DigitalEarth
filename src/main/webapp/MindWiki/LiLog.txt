@@ -1,0 +1,3 @@
+* MindTags: ProJect
+* HomePage: http://www.techfak.uni-bielefeld.de/ags/wbski/lilog/
+* MindQuote: WolfgangWahlster: "The largest project on text understanding the world has ever seen... produced seminal results in unification-based parsing, discourse representation theory, and the processing of temporal and spatial expressions"

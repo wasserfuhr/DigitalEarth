@@ -1,0 +1,18 @@
+||wer             ||am     ||von              ||nach
+|ChristineSchlinck|2008    |StadtDresden      |BergGarten
+|MindBrokerKg     |20070920|FriedrichStrasse24|GeheStrasse21
+|MindBrokerKg     |2003    |AmmonHof          |FriedrichStrasse24
+|RainerWasserfuhr |1995    |KaisersLautern    |StadtDresden
+
+DoIt: Lieferanten/Organisationen die bei UmZug wegen Adressänderung zu informieren sind:
+|Finanzamt|finished
+|Handelsregister|finished
+|Gewerbe|finished
+|IHK    |finished
+|INWX   |finished
+|Eplus  |finished
+|1 und 1|finished
+|Strato |finished
+|Telekom|kündigen
+|Bfa    |?
+|BSB    |kündigen

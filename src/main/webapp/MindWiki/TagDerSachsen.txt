@@ -1,0 +1,4 @@
+* IsA: EventSeries
+* HomePage: http://www.tds.sachsen.de/
+
+FreistaatSachsen

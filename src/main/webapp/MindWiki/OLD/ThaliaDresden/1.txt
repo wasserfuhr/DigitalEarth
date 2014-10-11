@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* HomePage: http://www.thalia-dresden.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/309018218
+
+TotalRecall:
+* 20081106:2300: RainerWasserfuhr, JeMand: AltSprech, CamelCase, OrdNung, RePort, ReVision, NeuroBalance, BarCamp, InterWiki, SemanticWeb, ReDo, LifePattern, PriVat, IsMus, MindTower, IntuitiveLinear, MindShift, ThumbOne, OpenHomeMap, BlankoBueschel

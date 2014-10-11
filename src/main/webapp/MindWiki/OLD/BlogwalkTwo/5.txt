@@ -1,0 +1,9 @@
+* IsA: MindEvent
+* MindPlace: NuernBerg
+* WikiLender: 20040528
+* HomePage: http://www.blogwalk.eu/wikka.php?wakka=BlogWalkTwo
+* TeilNehmer: ChristianLangreiter LiliaEfimova LisaNeun KarstenEhms MagdalenaBoettger MartinRoell MartinSpernau OliverWrede RainerWasserfuhr StephanMosel ThomasBurg ThomasHerr TonZijlstra EtAl
+
+BlogWalk
+  
+With the first WindowsWiki on PlanetErde? ;)

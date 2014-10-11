@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* HomePage: http://bis.informatik.uni-leipzig.de/KlausPeterFaehnrich
+* DbLp: http://dblp.uni-trier.de/rec/pid/71/2503
+* PageNumber: 8
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann WolfgangBibel KlausPJantke KlausPeterFaehnrich

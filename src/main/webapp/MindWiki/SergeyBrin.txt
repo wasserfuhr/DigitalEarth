@@ -1,0 +1,11 @@
+* IsA: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Sergei_Michailowitsch_Brin]
+* JahrGang: 1973
+* BirthDay: 08-21
+* MindQuote: "It would be like the MiNd of God."
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/SergeyBrin
+* ViAf: http://viaf.org/viaf/13478991
+* FoAf: http://www4.wiwiss.fu-berlin.de/dblp/data/person/111819
+* MindBlog: http://too.blogspot.com/
+* PageNumber: 1
+OrkutProfile:14278765755902856939

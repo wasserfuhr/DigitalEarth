@@ -1,0 +1,18 @@
+mit mindestens 5%:
+||UnterNehmer      ||UnterNehmen     ||AlleAugenLeben
+|WarrenBuffett     |BerkshireHathaway|
+|ThomasAlvaEdison  |GeneralElectric  |RestInPeace
+|LukaszGadowski    |SpreadShirt      |
+|OliverGassner     |MindBroker       |
+|LarsHinrichs      |XingLe           |
+|SteveJobs         |AppleInc         |
+|RossMayfield      |SocialText       |
+|StefanKellner     |PlazesCom        |
+|FelixPetersen     |PlazesCom        |
+|HassoPlattner     |EsAhPe           |
+|DanielPoodratchi  |MindBroker       |
+|YvonneSchubert    |MindBrokerKg     |
+|MartinVarsavsky   |FonCom           |
+|RainerWasserfuhr  |MindBrokerKg     |
+|RainerWasserfuhr  |MindBroker       |
+|ThomasWatson      |EiBiEm           |RestInPeace

@@ -1,0 +1,10 @@
+||                  ||SecondLife        ||NooPolis
+|Währung            |Lindendollar       |KayGroschen
+|Geldmengenpolitik  |??                 |konstant
+|SocialObject       |3D-Welt            |Wiki-Texte,SourceCode
+|WebOfTrust         |-                  |MindTrust
+|VerFassung         |-                  |ja, VerFassung
+|BuergerBeteiligung |-                  |UrWahl, MindVote
+
+Tools:
+* http://sourceforge.net/projects/primdotblender: Blender2SL

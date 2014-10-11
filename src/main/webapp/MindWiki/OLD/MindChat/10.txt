@@ -1,0 +1,12 @@
+Many active CitiZens of NooPolis chat via SkyPe.
+
+We have created some SkypeChat's:
+* LockChat
+* FutureChat
+* NooChat
+* KabiNettChat
+* VorStandsChat for MindBroker
+
+Also the weekly ConsultationHour with the CabiNet is held via SkyPe.
+
+For the future we consider to switch from SkyPe to OpenSource InstantMessaging alternatives like Jabber.

@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Henry_Arnold]
+* BirthDay: 05-10
+* HasKissed: SchnuessChen

@@ -1,0 +1,6 @@
+* IsA: MindPlace
+* InterWiki: [DdWiki:Alaunstraße]
+* NearBy: AlbertPlatz LouisenStrasse
+
+MeMo
+* 20081206:1500: RainerWasserfuhr JeMand: DresdenOpenSpace, OpenStreetMap, AppEngine, AnDroid, ApacheMaven, HadoopHBase, SemanticWeb, CabiNetElection, FrauenKirche, GoogleEarth, TerraDsl

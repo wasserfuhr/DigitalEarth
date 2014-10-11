@@ -1,0 +1,3 @@
+* IsA: WirtsHaus
+* HomePage: http://www.leutewitzer-windmuehle.com/
+* PartOf: SteinbacherStrasse

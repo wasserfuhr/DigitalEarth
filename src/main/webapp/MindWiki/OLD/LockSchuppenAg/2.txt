@@ -1,0 +1,14 @@
+* MindTags: EnterPrise
+* VorStand: RalfLippold
+* WikiAngel: RainerWasserfuhr
+
+Die LockSchuppenAg ist ein UnterNehmen zur Planung, zum Bau und zum Betrieb des LockSchuppen's.
+
+Sie hat wie jedes Unternehmen im HandelsRegister von NooPolis 1000 Shares.
+
+Jeder UmSatz (zb Mieteinnahmen) verteilt sich gemäss:
+
+||ShareHolder||Shares
+|1000|RalfLippold
+
+bald auf dem MindFloor.

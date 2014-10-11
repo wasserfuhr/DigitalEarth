@@ -1,0 +1,9 @@
+||Name           ||Nutzer||Werbung||Userfoto||API   ||Newsfeed||StickyNess||ProfileVisits||WebOfTrust
+|MySpace         |   180m|x       |x        |+      |        +|        +++|             ?|          -
+|FaceBook        |    30m|x       |x        |+++    |      +++|        +++|             -|          -
+|LinkedIn        |    13m|-       |-        |+      |        -|          -|             -|          -
+|XingLe          |     2m|-       |x        |not yet|        -|          +|             +|          -
+|AhSmallWorld    |   230k|x       |?        |?      |        ?|          ?|             ?|          x
+|TribeNetworks   |  >500k|?       |?        |?      |        ?|          ?|             ?|          -
+|PeopleAggregator|    <1m|x       |x        |-      |        -|          +|             -|          -
+|NooPolis        |      5|-       |-        |x      |        x|          ?|             -|          x

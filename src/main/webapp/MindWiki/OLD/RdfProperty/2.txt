@@ -1,0 +1,6 @@
+* DeFine: A WikiPage of the MindWiki can have MindProps, which can be mapped to an RdfProperty
+
+Example:
+ MindProps BirhtDay map to the FoAf RdfProperty: http://xmlns.com/foaf/spec/#birthday
+ 
+Each RdfProperty forces a certain logic like type consistency on the PageContent, which can be validated via InFer'ence.

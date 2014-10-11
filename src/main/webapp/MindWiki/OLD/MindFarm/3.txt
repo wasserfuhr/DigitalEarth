@@ -1,0 +1,16 @@
+FarmVille FarmTown RealEstate WeizenMehl FoodShelterAndWeb
+
+here is how it works:
+
+you can buy land in the MindShop.
+
+DomainModel: 
+
+MindApple: [{Image src='http://farm4.static.flickr.com/3576/3345977842_3dde8aacbd_t.jpg'}]
+
+Field: 
+
+[{Image src='http://farm4.static.flickr.com/3602/3565873025_fe85762da9_s.jpg'}][{Image src='http://farm4.static.flickr.com/3602/3565873025_fe85762da9_s.jpg'}][{Image src='http://farm4.static.flickr.com/3602/3565873025_fe85762da9_s.jpg'}]
+
+
+http://www.flickr.com/photos/kyz/3565873025/

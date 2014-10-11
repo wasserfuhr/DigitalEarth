@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* BornIn: 1934
+* BirthDay: 06-05
+* HomePage: http://www.nemetschek.com/de/home/unternehmen/menschen/firmengruender.html

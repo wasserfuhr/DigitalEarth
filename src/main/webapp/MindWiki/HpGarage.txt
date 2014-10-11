@@ -1,0 +1,3 @@
+* IsA: MindGarage
+* InterWiki: [AGeeksTour:HewlettPackardGarage] [WikiPedia:HP_Garage]
+* PartOf: AddisonAvenue

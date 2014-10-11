@@ -1,0 +1,25 @@
+* MindTags: MindEvent
+* HashTag: tudd
+* MindPlace: SchillerGarten
+* HomePage: http://twtvite.com/c5gn5p
+
+RainerWasserfuhr, ChristineSchlinck, YvonneSchubert, KirstinWalther EtAl
+||TwittEr                ||MindWiki
+|[TwittEr:rainer]        |RainerWasserfuhr
+|[TwittEr:jfschlinck]    |JfSchlinck
+|[TwittEr:tineroyal]     |ChristineSchlinck
+|curlgirl                |
+|[TwittEr:pixilla]       |MatthiasErfurth
+|[TwittEr:StadtwikiDD]   |MatthiasErfurth
+|[TwittEr:steffenster]   |
+|[TwittEr:elbelfe]       |
+|[TwittEr:ragio_g]       |
+|[TwittEr:SaftTante]     |KirstinWalther
+|[TwittEr:nkirchner]     |
+|[TwittEr:Shelog]        |IrisSchilke
+|[TwittEr:stipriaan]     |UlrichVanStipriaan
+|[TwittEr:pstawowy]      |
+|[TwittEr:asmDD]         |
+|[TwittEr:hobbes84]      |
+|[TwittEr:yvonneschubert]|YvonneSchubert
+|EtAl

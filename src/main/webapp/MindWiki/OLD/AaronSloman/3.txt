@@ -1,0 +1,8 @@
+* MindTags: ProFessor
+* InterWiki: [WikiPedia:Aaron_Sloman]
+* JahrGang: 1936
+* DbLp: http://dblp.uni-trier.de/rec/pid/23/5327
+* HomePage: [http://www.cs.bham.ac.uk/~axs/]
+* MindSkill: ArTelligence
+* PageNumber: 11
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach MichaelRichter AndreasAbecker JohnMcCarthy AaronSloman

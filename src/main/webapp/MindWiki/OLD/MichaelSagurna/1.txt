@@ -1,0 +1,3 @@
+* IsA: PerSon
+* ParteiWiki: CduWiki
+* InterWiki: [DeWikiPedia:Michael_Sagurna]

@@ -1,0 +1,9 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.07382
+* LaengenGrad: 13.72992
+* BoundingBox: 2
+* GraDient: 130
+* SlimNess: 0.3
+
+TotalRecall:
+* 20090121:1238: RainerWasserfuhr, JeMand (per PoTs): ErnemannTurm, WeinholdBau, FutureSax, KiVortrag, GoogleMail, AccraMatch, LabadiBeach, LabadiBeachHotel, DresdenFlickr, PieschenTv, TafelBerg, MindPlus, StadtHeidenau

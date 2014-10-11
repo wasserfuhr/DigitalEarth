@@ -1,0 +1,24 @@
+WasSchaetztDu:
+* VorName: Peter
+* NachName: Müller
+* GeSchlecht: 95% ♂ 
+* SprachWelt: 100% de, 100% en, 60% fr, 20% it, 10% tr, 2% zh
+* PerDu: 98%
+* JahrGang: 1975
+* ProFessor: 4%
+* LebensErwartung: 2055
+* MindOs: 70% WinDoofs
+* TerraFlops: 2Ghz
+* InterNet-Anbindung im MindHome: 3 EmBit
+* FlatRate: 70%
+* GooglePower: 40 queries/day
+* InBox: 40 Messages/day
+* FeedReader: 100 FeedItems/day
+* OpenId: 90%
+* WirkSatz: 40 EuRo/h
+* VerMoegen: 50k
+* SocialNetwork's: 5
+* DunbarNumber: 200
+* MindBlog: 500 Postings
+* MindWiki: 20 Seiten im PageIndex
+* ShockLevel: 1.5

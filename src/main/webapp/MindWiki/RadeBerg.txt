@@ -1,0 +1,4 @@
+* IsA: MindCity
+* InterWiki: [DeWikiPedia:Radeberg]
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/240040683
+* NearBy: StadtDresden

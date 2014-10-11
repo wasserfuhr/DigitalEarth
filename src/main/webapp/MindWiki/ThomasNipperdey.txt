@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Thomas_Nipperdey]
+* BirthDay: 10-27

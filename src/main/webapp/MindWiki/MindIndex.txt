@@ -1,0 +1,6 @@
+Wie das was Google macht: Das InterNet abgrasen, lokal speichern, intelligent miteinander verknüpfen und
+für jeden WikiPath den FixPunkt errechnen.
+
+Später verfügbar machen unter MindSearch, aber nicht nur einfache Abfragen sondern auch MindSql.
+
+Alles OpenSource und streng OptIn.

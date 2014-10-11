@@ -1,0 +1,1 @@
+* RdfProperty: http://dbpedia:ontology/Scientist/doctoralAdvisor

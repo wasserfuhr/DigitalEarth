@@ -1,0 +1,104 @@
+* IsA: MindEvent
+* XingEvent: https://www.xing.com/events/work-2-0-workshop-world-cafe-448302
+* MindOne: OliverGassner
+* TeilNehmer: RalfLippold SoerenRogoll MarcoDziallas JensUweSauer RainerWasserfuhr?
+
+EtherPad: http://etherpad.com/work20workshop
+
+Frühstück:
+* RalfLippold: 8 doppelte Brötchen, Pflaumenmus
+* MarcoDziallas: Vollkornbröchten, 1mal Schnittkäse, Nudossi
+* SoerenRogoll: Schinkenaufschnitt, CaMembert, Marmelade
+
+* anwesend: RalfLippold MandyHelas RobertLanger KatrinKahle JensUweSauer (http://twitter.com/juwes oder http://twitter.com/seedmatchDE ) SoerenRogoll OliverGassner AlexanderGoetze ConstanceWolter
+online: HolgerHelas RainerWasserfuhr
+
+MandyHelas: sucht einen Namen für ihr "Kochstudio"
+
+XING
+* Personen mit Etikett versehen (Tag)
+* Tagbeispiele: getroffen; b: bietet; i: Interesse; l: Location
+
+Twitter
+* Listen z. B. "unfollowed", "getroffen", "news" etc.
+* Twitter ist kein social network (genau wie WebLogs nicht)
+* Twitter ist für jeden Twitterer etwas anderes
+* http://bit.ly/ als Alternative zu http://tinyurl.com/create.php 
+* http://oliverg.wordpress.com/ (durchsuchbar nach links, tweets, Archivierung von Tweets)
+
+GoogleMail
+* InBox leer halten
+* was nicht länger als 2 Minuten dauert, sofort erledigen (GettingThingsDone-Prinzip)
+* unwichtiges sofort löschen (wieso noch löschen? - GoogleMail hat faktisch unbegrenzten Speicher)
+* archivieren mit markieren und "E" drücken
+* NextAction label und Ordner
+* multible Inbox - Zusatztool eingeschalten
+
+FaceBook
+* unbekannte neue Kontakte labeln und irgendwann einmal anschreiben und ggf. Kontakt aufnehmen
+* labeln nach Region und Kontaktqualität
+
+WebLog's und RSS
+* http://www.commoncraft.com (Video mal anschauen)
+* http://rivva.de/ (Blogschlagzeilenüberschriften)
+* GoogleReader (http://google.com) - Goodies - SelectTask - 
+* RememberTheMilk 
+* http://xmarks.com (Sync von Bookmarks zwischen verschiedenen Browsern) 
+* http://www.netvibes.com (mix the web)
+* http://friendorfollow.com (FriendOrFollow)
+
+Lesezeichenzeile nutzen: alle relevanten links in einen Ordner z. B. "day" kopieren und bei Arbeitsbeginn auf "alle Lesezeichen öffnen gehen"
+
+
+Fragen
+MarcoDziallas: Was sind die besten CoWorking Tools? (GoogleWave, etc.?)
+OliverGassner Antwort: "ist ein hochspannendes Collaborationstool"
+
+MarcoDziallas: E-Mail Weiterleitung von Domainmails
+
+JensUweSauer: "Mit Xing-Tags kann ich schlecht Xing-Profile ausge??leichen"
+
+
+Fragen von weit weg: 
+
+Frage 1.: Wie viele Kanäle sollte man maximal nutzen, um einen Überblick zu behalten?
+1  ElectronicMail (eine Adresse privat, eine geschäftlich?)
+2. Microblogging: Twitter, Posterous…
+3. SocialMedia: StudiVz, FaceBook, XING, LinkedIn…
+4. Andere: YouTube, Vimeo, DelIcioUs, SlideShare, FlickR, GoogleWave, LastFm
+ 
+Frage 2.: Wie gefährlich sind diese automatischen Verlinkungen zwischen den ganzen Applikationen? Ich twittere etwas und es landet bei Xing, FaceBook, Posterous, meinem WebLog und was weiss ich wo noch?
+
+Frage 3.: Trenne ich in meinem digitalen "ICH" privates und berufliches?
+ 
+Frage 4.: Wir unterhalten uns über Selbstorganisation, vorwiegend im digitalen WebZwoNull Umfeld. 
+Was wäre wenn ich den Vorschlag bringen würde, einfach wieder Briefe zu schreiben, Bücher zu lesen und Personen im RealLife zu treffen? 
+Im Netz als ganzes reden ALLE unfertig (siehe 90 % der Blogbeiträge) über ALLES.
+Jede starke Idee wird sofort zerpflückt und mit Gegenmeinungen verlinkt -> ich ändere permanent meine Meinung.
+Ich selber urteile nicht mehr, das macht die „Crowd“ für mich. 
+Heraus kommt ein Informationsüberfluss den ich täglich bewältige weil ich dies zu lesen, dem zu antworten und das weiterzuleiten hab = KRANK! 
+
+Ist wie zu Hause - alles was ich einmal in den Keller geschafft habe brauch ich zu 99% auch nicht mehr. Das gleiche zählt für mich archivierte EMAILS, 8000 BookMark's auf DelIcioUs, 550 Kontakten bei XING und den ganzen anderen Kram...
+ 
+Mit der Frage sind wir an dem Thema, wie hat das Internet mein Leben verändert 
+
+guter Artikel FAZ: JohnBrockman: Frage des Jahres 2010: Wie verändern InterNet und vernetzte Computer die Art, wie wir denken? 
+Homepage: http://bit.ly/7YBtpT 
+Artikel: http://bit.ly/7AUZDA + http://bit.ly/4YhAED ) 
+
+Zitat GeorgeDyson: „Sind der Preis für Maschinen, die denken, Menschen, die es nicht mehr tun?
+
+Sonstige Links
+* http://www.visionsummit.org
+* http://www.literaturwelt.de (Oliver)
+* http://www.phraseexpress.com/de/ (z. B. Geburtstagsgrüße versenden, eigene E-Mail-Adresse mit Abkürzung versehen)
+* http://de.wikipedia.org/wiki/Orkut
+* http://de.wikipedia.org/wiki/Getting_Things_Done
+* http://www.rememberthemilk.com/?hl=de
+* SocialBookmarking:
+** http://delicious.com/help/bookmarklets (Bookmarklets für unterschiedliche Browser)
+
+Überhörte Zitate aus dem Workshop:
+"Ich kann alles oder jedes missbrauchen"
+"Wenn ich anfange darüber nachzudenken, kann ich Taxifahren"
+"Und ist das nicht zu viel, alle diese Bloglinks, die Du gar nicht brauchst?" "Hast Du eine Liste aller deiner Bücher?"

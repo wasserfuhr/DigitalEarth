@@ -1,0 +1,3 @@
+The MindWiki is a SemanticWiki: Each WikiPage is embedded into the SemanticWeb:
+* MindTags are mapped to RdfClass'es.
+* MindProps are mapped to a RdfProperty.

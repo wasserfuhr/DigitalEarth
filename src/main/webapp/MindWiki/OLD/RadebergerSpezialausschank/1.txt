@@ -1,0 +1,9 @@
+* MindTags: MindPlace
+
+TotalRecall: SapAg, FrauenKirche, DresdenZwinger, StadtDresden, 
+WikiSym, NoMic, VerFassung, SecondLife, MindFloor, PeterThiel, WikiPedia, NooPolis, 
+MethuselahFoundation, JspWiki, SemanticWeb, OpenCyc, DbPedia, FreeBase, FaceBook,
+TwittEr, LinkedIn, XingLe, ElbeRiver, InterWiki, ProFessor, NashVille, DeutschePost,
+DelIcioUs, DelIm, MindProps, AppEngine, HaDoop, MapReduce, YaHoo, GoogleCheckout, PayPal,
+SeaSteading, ShaiAgassi, JimboWales, SemanticWiki, PredictionMarket, OpenSource, 
+LongBetOne, LunarSteigenberger.

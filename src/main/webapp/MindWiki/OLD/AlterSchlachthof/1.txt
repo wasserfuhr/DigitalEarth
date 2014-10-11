@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0697
+* LaengenGrad: 13.7341
+* BoundingBox: 60
+* SlimNess: 0.8
+* GraDient: 55
+* HomePage: http://www.alter-schlachthof.de/

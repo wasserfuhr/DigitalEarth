@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0735
+* LaengenGrad: 13.7303
+* BoundingBox: 10
+
+||AusLand
+|[GoogleSearch:friseur+gehestr]

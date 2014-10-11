@@ -1,0 +1,2 @@
+Ein MemeTracker wie http://rivva.de/ , dessen Seed ausschliesslich http://rivva.de/ ist, der
+aber aussschliesslich 100%-valide MindFeeds berücksichtigt.

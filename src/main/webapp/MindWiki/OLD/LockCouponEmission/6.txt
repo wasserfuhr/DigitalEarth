@@ -1,0 +1,20 @@
+Die LockSchuppenAg gibt pro Monat (vorerst) insgesamt 100 LockCoupon's an ShareHolder aus, proportional zu den jeweiligs am Monatsbegin aktuellen Anteilen (Stichzeitpunkt: 00:00h UniversalCoordinatedTime). Falls ein ShareHolder weniger als 1% LockShare's hat, werden die Bruchteile davon so lange in den Folgemonaten kumuliert, bis die Kumulation mindestens 1% ergibt: 
+
+||Month           ||Mar||Feb||Jan||
+||Monthly Emission[1]||100||100||100||
+||ShareHolder     || || || ||CarryOver[2]
+|RalfLippold      |57|57|67|3.000
+|RainerWasserfuhr |28|28|27|9.400
+|OliverGassner    |10|10| 0|0.000
+|MarkusStamm      | 2| 2| 2|3.000
+|ChristianHeller  | 1| 1| 0|1.000
+|PeterHerbst      | 0| 1| 0|8.000
+|ChristineSchlinck| 0| 1| 0|5.600
+|SimonKoeppl      | 0| 0| 0|9.000
+|CorneliaHeinz    | 0| 0| 0|6.000
+|RicoLieberwirth  | 0| 0| 0|6.000
+|JanKreuter       | 0| 0| 0|3.000
+|JoelKaczmarek    | 0| 0| 0|3.000
+|NorbertRost      | 0| 0| 0|3.000
+* [#1] Number of monthly emitted LockCoupon's. The sum of all emissions may slightly vary due to rounding and CarryOver.
+* [#2] based on LockSchuppenAg-ShareHolder-WikiTable. When the cumulated CarryOver exceeds 10.000, you get 1 LockCoupon

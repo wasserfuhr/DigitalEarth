@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Jörg_Immendorff]
+* BirthDay: 06-14
+* DiedIn: 2007

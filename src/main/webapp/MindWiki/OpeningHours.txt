@@ -1,0 +1,4 @@
+* IsA: MindProps
+
+OpenStreetMap: [http://wiki.openstreetmap.org/wiki/Key:opening_hours]
+LadenAuf

@@ -1,0 +1,9 @@
+||Mind||Wann||Bis||Wo||Nach||GeFaehrt||Was||kmh
+
+|RainerWasserfuhr|20070407:0825|:0930|DRS|CGN|4U 27,DZ9N3L| |
+|OliverGassner|20070324:1030|0325:1045|Jena|BuchMesseLeipzig|EuropCar280170982| |
+|ChristineSchlinck|20070313:1811|:2257|FrankfurtAirport|DresdenNeustadt|[ICE 1645|http://reiseauskunft.bahn.de/bin/zuginfo.exe/dn/764181/365353/102434/203510/80/ld=212.60]
+|ChristineSchlinck|20070307|FRA|Valetta
+|DanielPoodratchi|20070306 | |STR|DRS||800
+|AndreasWeigel|20070306 | |STR|DRS||800
+|RainerWasserfuhr|20070306:1036|:1045|WirkZentrum|WirkZentrum|Füsse|Einmal um den Blog|

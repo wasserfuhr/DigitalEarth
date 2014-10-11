@@ -1,0 +1,12 @@
+[{Image src='http://www.naphthalin.de/Material/Bilder/redaktionelle/bienchenBanner.gif'}]
+
+||am||Aktien||von||für||wegen
+|20070401|10|RainerWasserfuhr|OliverGassner|WolfgangTiefensee
+|20070401|10|RainerWasserfuhr|NN|WolfgangTiefensee
+|20070307:1051| |RainerWasserfuhr|AndreasWeigel|NicoLaenge
+|20070305:2341| |RainerWasserfuhr|DanielPoodratchi|groupchat + favouriten!
+|20070228| |RainerWasserfuhr|DanielPoodratchi|das neue JspWiki-Layout
+|20070228| |RainerWasserfuhr|AndreasWeigel|das Bestehen der Informatik-Prüfung
+|20070228| |RainerWasserfuhr|DanielPoodratchi|das Bestehen der Informatik-Prüfung
+
+ToDo für NN: mal hier die Geschichte der Bienchen schreiben.

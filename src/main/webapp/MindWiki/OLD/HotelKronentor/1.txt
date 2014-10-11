@@ -1,0 +1,3 @@
+* IsA: HilbertHotel
+* SloGan: Das WahrSchein'lich erste MindHotel mit InFin'itesimaler Zahl an HilbertRoom's
+|[TwittEr:HotelKronentor]

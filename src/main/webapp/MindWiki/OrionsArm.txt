@@ -1,0 +1,15 @@
+* HomePage: http://www.orionsarm.com/
+* MitWirkende: JayDugger, BerndHelfert, DonnaMalcolmHirsekorn, AndersSandberg 
+
+SciFi, AiGame
+
+Design goals:
+* persistent setting
+* experience of locality
+* PerSona's
+* friendship/trust
+* discovering new people
+* creation of future
+* Randomness
+* creativity
+* intelligence

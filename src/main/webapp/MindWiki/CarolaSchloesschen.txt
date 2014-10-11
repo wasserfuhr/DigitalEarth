@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Carolaschlösschen]
+* BreitenGrad: 51.0336
+* LaengenGrad: 13.7638
+* BoundingBox: 35
+* HomePage: http://www.carolaschloesschen.de/

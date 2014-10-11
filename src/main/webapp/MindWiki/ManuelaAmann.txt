@@ -1,0 +1,3 @@
+* IsA: PerSon
+* ChildOf: AgnesWasserfuhr WernerWasserfuhr
+|[FlickEr:manuela_und_gerhard_auf_weltreise]

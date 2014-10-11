@@ -1,0 +1,6 @@
+||MindPeople     ||Jahr||VerMoegen
+|BillGates       |2007 |viele Bille
+|WarrenBuffett   |2007 |viele Bille
+|DeeHock         |2007 |viele Bille
+|MartinVarsavsky |2007 |fast ne Bille
+|RainerWasserfuhr|2007 |keine Bille

@@ -1,0 +1,4 @@
+* IsA: MindPlace
+* HomePage: http://www.restaurant-stottmeister.de/
+* PartOf: SchulzeWeg
+http://www.openstreetmap.org/browse/node/293968442

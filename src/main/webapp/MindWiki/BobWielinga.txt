@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Bob_Wielinga]
+* BornIn: 1945
+* SwDf: http://data.semanticweb.org/person/bob-wielinga
+* DbLp: http://dblp.uni-trier.de/rec/pid/24/2577
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker StefanDecker BobWielinga

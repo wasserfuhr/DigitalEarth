@@ -1,0 +1,124 @@
+|20070629     |     |        |StadtDresden|WikipediaTagDresden      |
+|20070626:1800|:2100|        |StadtDresden|BusinessEnglish          |YvonneSchubert
+|20070626:1900|:2300|CANCELED|StadtDresden|UferKonzert              |RainerWasserfuhr
+|20070625:1700|     |        |WirkZentrum |Fee                      |RainerWasserfuhr
+|20070625:1000|:1200|        |StadtDresden|privat                   |YvonneSchubert
+|20070624     |     |        |Freizeit    |                         |YvonneSchubert
+|20070623     |     |        |Freizeit    |                         |YvonneSchubert
+|20070623f.   |     |        |StadtDresden|Elbhangfest              |YvonneSchubert, RainerWasserfuhr
+|20070622:1930|:2359|        |AuraRaum    |Mit oder ohne Ethos?     |JensWegerle, YvonneSchubert
+|200706xx     |     |        |LandBayern  |ExecutiveZwoNull         |RainerWasserfuhr?
+|20070622     |     |        |FrankFurt   |RailsKonferenz           |BeatePaland
+|20070620:2200|:0700|        |StadtDresden|privat                   |YvonneSchubert
+|20070619:1930|:2300|        |StadtDresden|JoyceLesung              |RainerWasserfuhr
+|20070619:1800|:2100|        |StadtDresden|BusinessEnglish          |YvonneSchubert
+|20070619:0900|:1000|        |StadtDresden|privat                   |YvonneSchubert
+|20070618:1900|:2330|        |StadtDresden|WirtschaftsStammtisch    |RainerWasserfuhr, BobHooda EtAl
+|20070616:1100|:1300|        |WirkZentrum |Treffen mit UnserDesigner|RainerWasserfuhr, RomanStarke, YvonneSchubert
+|20070615:0800|:1700|        |StadtDresden|Leiharbeit bei Eva       |YvonneSchubert
+|20070614:1900|     |        |LivingDresden|FutureNoodles           |YvonneSchubert, RainerWasserfuhr
+|20070613:2100|:0000|        |StadtDresden|Stammtisch               |RainerWasserfuhr, YvonneSchubert
+|20070613:1830|:2100|        |StadtDresden|Filmforum                |RainerWasserfuhr
+|20070613:1800|:2100|        |NuernBerg   |MailingtageParty         |
+|20070613:1700|:2100|        |StadtDresden|privat                   |YvonneSchubert
+|20070612:1800|:2100|        |StadtDresden|BusinessEnglish          |YvonneSchubert
+|20070611:1700|     |        |WirkZentrum |Fee                      |RainerWasserfuhr
+|20070610:1000|:1800|        |HamBurg     |BarCamp                  |
+|20070610     |     |        |            |Freizeit                 |YvonneSchubert
+|20070609     |     |        |ParkHotel   |PsychoBall               |RainerWasserfuhr
+|20070609     |     |        |            |Freizeit                 |YvonneSchubert
+|20070609:1100|     |        |RauschenBach|WEC-Brunch               |YvonneSchubert
+|20070609:1000|:1800|        |HamBurg     |BarCamp                  |
+|20070605:1800|:2100|        |StadtDresden|BusinessEnglish          |YvonneSchubert
+|20070605:0900|:1000|        |StadtDresden|privat                   |YvonneSchubert
+|20070602     |     |        |            |Freizeit                 |YvonneSchubert
+|20070603     |     |        |            |Freizeit                 |YvonneSchubert
+|20070601     |     |        |CopenHagen  |ReBoot                   |
+|20070531     |     |        |CopenHagen  |ReBoot                   |
+|20070530     |     |CANCELED|WipperFuerth|MindSchule               |AgnesWasserfuhr,WernerWasserfuhr
+|20070529:1930|     |        |Brünnerstr. 11|PowerAktienBloedsinn   |
+|20070529:1900|     |        |StadtDresden|DresdenLinks             |RainerWasserfuhr
+|20070529:1500|     |        |StadtDresden|PowerForAfrica           |RainerWasserfuhr  
+|20070528     |     |        |Freizeit    |                         |YvonneSchubert
+|20070527     |     |        |Freizeit    |                         |YvonneSchubert
+|20070526     |     |        |Freizeit    |                         |YvonneSchubert
+|20070526     |     |        |StadtBerlin |KarnevalDerKulturen      |
+|20070525:1930|:2359|        |AuraRaum    |Was ist Ordnung?         |JensWegerle, YvonneSchubert
+|20070524:1830|     |        |TuDresden   |GruenderFoyer            |LarsHinrichs,RainerWasserfuhr,YvonneSchubert EtAl
+|20070523:1600|     |CANCELED|WirkZentrum |CareTaker                |RainerWasserfuhr
+|20070523:1200|     |        |WirkZentrum |Fee                      |RainerWasserfuhr,YvonneSchubert
+|20070523:1100|     |SHIFTED |WirkZentrum |SkypeChat mit UnserDesigner|RomanStarke, RainerWasserfuhr,YvonneSchubert
+|20070522:1800|:2100|        |StadtDresden|BusinessEnglish          |YvonneSchubert
+|20070522:1100|:1400|        |WirkZentrum |BringService             |RainerWasserfuhr,YvonneSchubert
+|20070522:0900|     |        |StadtDresden|privat                   |YvonneSchubert
+|20070521:1900|:2330|        |StadtJena   |WebMontag                |
+|20070521:1900|:2330|        |StadtDresden|WirtschaftsStammtisch    |RainerWasserfuhr,BobHooda
+|20070521:0900|:0930|        |StadtDresden|privat                   |YvonneSchubert
+|20070519:1930|:2359|        |AuraRaum    |Sommerfest               |JensWegerle, YvonneSchubert
+|20070518     |     |CANCELED|StadtDresden|TraderStammtisch         |RainerWasserfuhr, NN
+|20070518:1930|:2359|        |AuraRaum    |Literarischer Abend      |JensWegerle, YvonneSchubert
+|20070515:1800|:2100|        |StadtDresden|BusinessEnglish    |YvonneSchubert
+|20070515:1630|:1800|        |StadtDresden|privat                   |YvonneSchubert
+|20070512     |     |        |Menorca     |TechTalk                 |MartinVarsavsky EtAl
+|20070512     |     |        |Freizeit    |                         |YvonneSchubert
+|20070511     |     |        |StadtBerlin |AgWunschOrganeInBerlin   |RainerWasserfuhr,NN
+|20070510:1900|:2200|        |ForumAmAltmarkt|MarketingClub         |
+|20070510:1600|:1800|        |PotsDam     |HpiKolloquium            |DirkRiehle,RainerWasserfuhr,RobertHirschfeld
+|20070510:0900|:1000|        |StadtDresden|privat                   |YvonneSchubert
+|20070508:2000|:2200|        |SemperOper  |MartinsMonologe,BrucknersNeunte|FabioLuisi,RainerWasserfuhr
+|20070508:2000|:2130|        |KathedralForum|WasUnsTraegt           |HelmaOrosz
+|20070508:1800|:2100|        |StadtDresden|Business-English         |YvonneSchubert
+|20070508:1200|:1400|        |DeutschLand |VorstandsChat,CoderChat  |RainerWasserfuhr,DanielPoodratchi,AndreasWeigel,YvonneSchubert
+|20070508     |     |        |SecondLife  |TrendTag                 |PeterWippermann,RainerWasserfuhr
+|20070507     |     |        |Freizeit    |                         |YvonneSchubert
+|20070506     |     |        |NorWegen    |Ende MindTravel          |YvonneSchubert,FaMe
+|20070502:2000|:2230|        |StadtDresden|DresdenMeetsArt          |RainerWasserfuhr,SeMi,BoHo
+|20070502:1730|:1800|        |FeenZauber  |DessousSchau             |RainerWasserfuhr
+|20070502:1400|:1920|        |WirkZentrum |AlphaTest WyrdMind 0.0   |RainerWasserfuhr,Fee
+|20070430:1800|     |        |Barcelona   |Ende MindTravel          |DanielPoodratchi,LiMa
+|20070428:1500|:2300|        |DuesselDorf |4D-Schach                |SiggiBecker
+|20070428     |     |CANCELED|StadtDresden|SalsaKurs                |RainerWasserfuhr?
+|20070427     |     |        |StadtDresden|SapDresden               |RainerWasserfuhr?,NN?
+|20070427:1930|:2230|        |AuraRaum    |Darf ich mit Genuss mich selbst belügen?|JensWegerle
+|20070427:0700|     |        |Barcelona   |Start MindTravel         |DanielPoodratchi,LiMa
+|20070426:1100|:1800|        |WirkZentrum |XingDing                 |RainerWasserfuhr,NN,NN
+|20070425:2030|:2230|        |GagAchtZehn |LinuxUserGroup           |RainerWasserfuhr
+|20070425:1235|:1238|        |KoenigStr   |Telefonat mit DeBeKa     |RainerWasserfuhr
+|20070425:1100|:1230|        |AlbertPlatz |finde UnserAdvoCat       |RainerWasserfuhr,NN
+|20070424:2000|:2200|CANCELED|SemperOper  |ApotheoseDesTanzes       |SirColinDavis; RainerWasserfuhr?
+|20070424:1030|:1330|        |WirkZentrum |MindMeisterBrunch        |RainerWasserfuhr,Hegel,Kant,Descartes
+|20070423:1700|:2000|        |WirkZentrum |AlphaTest WyrdMind 0.0   |RainerWasserfuhr,Fee
+|20070423:1700|:2000|CANCELED|SuedHoehe   |AufSicht                 |RainerWasserfuhr,NN
+|20070422:1100|     |        |WirkZentrum |Erstprägung von KayGroschen|RainerWasserfuhr
+|20070422:1000|:1800|        |FrankFurt   |BarCamp                  |OliverGassner
+|20070421:1000|:2300|        |FrankFurt   |BarCamp                  |OliverGassner
+|20070421:2000|:2300|        |StadtJena   |Bloglesung               |NichtRaucher
+|20070421:1615|     |        |CityBeach   |Kaffee trinken           |RainerWasserfuhr,SebastianMitter
+|20070421:0700|0506 |        |Averoya     |Anfang MindTravel        |YvonneSchubert
+|20070420:1000|:1700|        |WirkZentrum |MindPicNic               |8 MindBroker
+|20070420:0900|:1000|        |WirkZentrum |Vorbesprechung LearAura  |RainerWasserfuhr,YvonneSchubert,JensWegerle
+|20070419:2000|     |        |KathedralForum|"Wir brauchen keinen Gott"|KonradGyorgy, MichaelAlbus, PaulZulehner, RainerWasserfuhr
+|20070419:1300|:1800|        |WirkZentrum |Fee                      |RainerWasserfuhr, IngridaPlunksnyte
+|20070418:2100|:2145|        |StadtDresden|SneakPreview:RealFilm    |RainerWasserfuhr, nn, nn, nn
+|20070418:1950|:2030|        |StadtDresden|Scheune                  |RainerWasserfuhr, nn, nn,nn
+|20070418:1000|:1100|        |StadtDresden|PriVat                   |YvonneSchubert
+|20070417:2000|:2100|        |StadtDresden|                         |RainerWasserfuhr, JoachimReinelt, TorstenHartung
+|20070417:1800|:1900|        |SaturnAltMarkt|MindCam                |YvonneSchubert, FaMe
+|20070417:1800|:2100|CANCELED|ReichenbachStrasse|Business-English   |YvonneSchubert
+|20070416:2200|:0700|        |StadtDresden|Seelsorge                |YvonneSchubert
+|20070416:1400|:1445|        |EiscafeVenezia|Meeting                |YvonneSchubert, RainerWasserfuhr, AlfredLiesecke
+|20070414:2000|     |CANCELED|StadtBerlin |ParisMoskau              |RainerWasserfuhr,NN
+|20070413:1700|:1730|        |NeuStadt    |Zahnarzt                 |YvonneSchubert
+|20070413:1930|:2359|        |AuraRaum    |Brauchen wir (noch) Ideale?|RainerWasserfuhr, YvonneSchubert, JensWegerle
+|20070412:0700|:0414|CANCELED|StadtBerlin |SemanticHandsOn          |RainerWasserfuhr
+|20070411:2200|:0700|        |StadtDresden|Seelsorge                |YvonneSchubert
+|20070411:1100|:1030|CANCELED|PiazzaDiPalermu|MaedchenHandel        |RainerWasserfuhr, TitaniaCarthaga
+|20070408:1100|:1030|        |PetersPlatz |UrbiEtOrbi               |JosephRatzinger, RainerWasserfuhr
+|20070407:1900|:2300|        |StadtKoeln  |RainerInKoeln            |RainerWasserfuhr, StephanHeller
+|20070407:1730|:1830|        |LamsFuss    |OnkelHermannJuepp        |RainerWasserfuhr, AgnesWasserfuhr
+|20070405:1300|:1800|        |WirkZentrum |ReineMachFee             |RainerWasserfuhr
+|20070404:1700|:1730|        |NeuStadt    |Zahnarzt                 |YvonneSchubert
+|20070404:1200|:1300|        |WirkZentrum |VorStandsChat            |YvonneSchubert, RainerWasserfuhr
+|20070404:0830|:1100|        |Wittenberger Str. 86|Business-Brunch  |YvonneSchubert
+|20070403:1800|:2100|        |ReichenbachStrasse|Business-English   |YvonneSchubert
+|20070403:0900|:1000|        |            |privat                   |YvonneSchubert

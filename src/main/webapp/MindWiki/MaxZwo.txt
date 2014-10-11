@@ -1,0 +1,10 @@
+* MindTags: MindPlace
+* HomePage: http://www.max-dresden.de/max_altstadt/
+* MindOne: DirkRathgeber
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/344886606
+* NearBy: PostPlatz
+
+MeMo:
+* 20100110:1730: JeMand JeMand: LockOffice
+* 20091116:1730: RalfLippold JeMand: LockSchuppen RainerWasserfuhr ScaleFreeNetwork SensitivityAnalysis StirlingMotor TwittEr
+* 20090215:1148: ChristineSchlinck RainerWasserfuhr JfSchlinck: ShockLevel RayKurzweil NumberOfNeurons SingularBachelor

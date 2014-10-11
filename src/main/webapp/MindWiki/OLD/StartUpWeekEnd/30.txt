@@ -1,0 +1,34 @@
+CemBasman: http://startupweekend.wordpress.com/   
+
+* https://www.xing.com/app/events?op=detail;id=139060
+* Pitch: maximal 3 Minuten, ohne Hilfsmittel, stehend
+
+Ein fiktiver Pitch eines PitchBull beim StartUpWeekEnd für NooPolis (ghostwriting by: PitchBitch):
+
+Hallo, mein Name ist PitchBull. Ich stelle Ihnen das Projekt NooPolis vor:
+
+NooPolis wird eine neue Art von SocialNetwork. NooPolis ist das SocialNetwork von übermorgen. Es ist eine virtuelle Republik mit BuergerBeteiligung und eigener VirtuelleOekonomie. Die drei wichtigsten Werte von NooPolis sind 1. TransParenz, 2. Vertrauen und 3. FreiHeit. 
+
+1. TransParenz entsteht durch die ausschließliche Verwendung von OpenSource-Software. Der Quelltext kann auf jeder Seite eingesehen werden. Auch die Administration der Server ist transparent. 
+
+2. Vertrauen entsteht durch ein WebOfTrust. Die Identität aller User wird durch ein Netz von gegenseitigen Vertrauensbezeugungen verifiziert und gesichert. So entsteht eine wirklich vertrauenswürdige Community.
+
+3. FreiHeit heißt SelbstOrganisation. Die User selbst definieren die Regeln, nach denen die Republik funktioniert. Im Vordergrund steht hier ein dynamischer Prozess, nicht ein statischer Vertrag. NooPolis basiert auf einer im Wiki editierbaren VerFassung, die die Bürger selbst schreiben und verändern. Zur Zeit lautet der erste Satz der Verfassung: Alle Bürger haben FreiHeit. 
+
+Das wirklich Neue an dieser Republik wird sein, dass sie über eine eigene VirtuelleOekonomie verfügt, über eigene Unternehmen und eine eigene Währung namens KayGroschen. 
+
+Die Idee dahinter: auf dem HoheitsGebiet von NooPolis werden Unternehmen gegründet, die auf einem ArbeitsMarkt ihre Produkte und Dienstleistungen anbieten, welche von den Bürgern nachgefragt werden. Die Bezahlung erfolgt in KayGroschen. Zusätzlich können die Unternehmen Aktien ausgeben, welche auf einer virtuellen Börse gehandelt werden. 
+
+Um diese Grundfunktionalitäten gruppieren sich weitere WebApplikationen, die die notwendige Infrastruktur der Republik zur Verfügung stellen: Inbox für Mailing, Blog für Information und Diskussion, Vote für Umfragen usw.  
+ 
+Der aktuelle Stand des Projektes: Wir sind 16 Bürger, davon 3 aktive Softwareentwickler und eine Communitymanagerin.
+
+
+
+
+
+
+
+
+
+

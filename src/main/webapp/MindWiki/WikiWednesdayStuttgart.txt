@@ -1,0 +1,4 @@
+* IsA: EventSeries
+* MindOne: MartinKoser
+
+WikiWednesday in StuttGart

@@ -1,0 +1,4 @@
+* IsA: WikiMind
+* InterWiki: [WikiPedia:Tantek_Çelik]
+* HomePage: http://tantek.com/
+|[TwittEr:t]

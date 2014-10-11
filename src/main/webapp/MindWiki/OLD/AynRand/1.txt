@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* InterWiki: [CommunityWiki:AynRand], [DeWikiPedia:Ayn_Rand], [MeatballWiki:AynRand], [OpenCyc:AynRand]
+* JahrGang: 1905
+* BirthDay: 02-02
+* LebensEnde: 1982

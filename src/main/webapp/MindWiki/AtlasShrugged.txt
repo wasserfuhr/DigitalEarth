@@ -1,0 +1,3 @@
+* IsA: MindBook
+* InterWiki: [WikiPedia:Atlas_Shrugged]
+* DcAuthor: AynRand

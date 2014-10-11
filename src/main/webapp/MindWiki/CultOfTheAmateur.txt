@@ -1,0 +1,3 @@
+* IsA: MindBook
+* InterWiki: [WikiPedia:The_Cult_of_the_Amateur]
+* DcAuthor: AndrewKeen

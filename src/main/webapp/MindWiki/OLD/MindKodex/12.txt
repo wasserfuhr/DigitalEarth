@@ -1,0 +1,12 @@
+später als WebApp für http://kodex.mindbroker.de:
+
+Ein Tool zum Verwalten von gemeinschaftlichen Regeln in Webcommunities.
+
+Nutzer können wählen, welchen Regeln eines Kodex sie zustimmen.
+
+MindVote, Zustimmung und Einsprüche, Mediation und Einschränking von FreiHeit bei Regelverletzungen.
+
+Mögliche Anwendungen:
+* VerTrag
+* VerFassung von NooPolis
+* SourceCode

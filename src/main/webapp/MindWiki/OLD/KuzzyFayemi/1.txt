@@ -1,0 +1,4 @@
+* IsA: PerSon
+* HasTalked: RainerWasserfuhr RalfLippold BobHooda
+|[FaceBook:638688870]
+|[SkyPe:kuzzy4u]

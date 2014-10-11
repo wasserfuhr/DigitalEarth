@@ -1,0 +1,8 @@
+* IsA: SingularityMind
+* InterWiki: [WikiPedia:Eric_Baum]
+* JahrGang: 1957
+* DbLp: http://dblp.uni-trier.de/rec/pid/85/6640
+* ViAf: http://viaf.org/viaf/32234087
+* HomePage: http://www.whatisthought.com/eric.html
+* PageNumber: 3
+* PagePath: LarryPage TerryWinograd DanBoneh EricBaum

@@ -1,0 +1,4 @@
+Eines der Axiome der UnternehmensTheorie der MindBrokerAg:
+* Neben dem Wissen in der Köpfen der MindBroker besteht die AhGe nur aus dem AgWiki und dem SourceCode.
+
+Siehe auch: WikiWikiWeb:SelfDocumentingCode

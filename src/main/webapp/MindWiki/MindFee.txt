@@ -1,0 +1,1 @@
+A former tool for ContinuousIntegration of the SourceCode of MindBroker. Now superseded by NooMic.

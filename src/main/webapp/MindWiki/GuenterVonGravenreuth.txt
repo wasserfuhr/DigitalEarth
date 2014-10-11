@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Günter_Freiherr_von_Gravenreuth]
+* BornIn: 1948
+* BirthDay: 07-12
+* DiedIn: 2010
+* MindFaves: AbMahn

@@ -1,0 +1,3 @@
+* HomePage: http://www.zum-teufel.tu-freiberg.de/
+* PartOf: PetersStrasse
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/360695523

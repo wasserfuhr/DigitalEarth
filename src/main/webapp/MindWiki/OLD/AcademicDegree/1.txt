@@ -1,0 +1,2 @@
+* RdfClass: http://www.aktors.org/ontology/portal#Academic-Degree
+* InterWiki: [DeWikiPedia:Akademischer_Grad]

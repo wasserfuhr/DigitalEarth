@@ -1,0 +1,10 @@
+Ein Backup des gesamten AgWiki:
+
+20070326:1908: http://insider.mindbroker.de/mind.zip
+
+||MindBroker||MindMac|letzter Download
+|RainerWasserfuhr|neptun  |20070403:1904
+|DanielPoodratchi|        |not yet, also ToDo ;)
+|AndreasWeigel   |othello |not yet, also ToDo ;)
+|YvonneSchubert  |nana    |not yet, also ToDo ;)
+|YvonneSchubert  |triton  |not yet, also ToDo ;)

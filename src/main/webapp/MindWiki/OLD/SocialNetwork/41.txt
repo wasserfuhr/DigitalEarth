@@ -1,0 +1,26 @@
+||Name           ||MindOne        ||User  ||Ads||Userpic||API   ||FoAf||Newsfeed||StickyNess||ProfileVisits||WebOfTrust||https||OpenId||OpenSource
+|MySpace         |TomAnderson     |   200m|x   |x       |+      |     |        +|        +++|             ?|          -|     -|+      |-
+|FaceBook        |MarkZuckerberg  |   100m|x   |x       |+++    |     |      +++|        +++|             -|          -|     +|+
+|FoAf*           |LibbyMiller     |    90m|-   |x       |+++    |+++  |        ?|          ?|             ?|          x|     +|-      |+
+|HiFive          |RamuYalamanchi  |    80m|x   |x       |+      |++   |        +|        +++|             ?|          -|     -|-
+|ClassMates      |RandyConrads    |    40m|x   |x       |+      |     |        +|          +|             ?|          -|     -|-
+|LinkedIn        |ReidHoffman     |    24m|x   |x       |+      |     |        -|          -|             -|          -|     +|-
+|LiveJournal     |BradFitzpatrick |    16m|x   |x       |++     |++   |        +|        +++|             ?|          +|     +|-
+|FlickEr         |StewartButterfield|   7m|-   |x       |++     |     |        -|         ++|             -|          -|     -|+
+|XingLe          |LarsHinrichs    |     6m|x   |x       |not yet|     |       ++|        +++|             +|          -|     +|-
+|StudiVz         |?               |     4m|x   |x       |-      |     |        -|         ++|             +|          -|     -|-
+|WerKenntWen     |PatrickOhler    |     4m|x   |x       |x      |     |        x|         ++|             +|          x|     -|x       |-
+|DelIcioUs       |JoshuaSchachter |     2m|x   |-       |x      |     |        x|          x|             -|          x|     -|-
+|TwittEr         |BizStone        |     2m|-   |x       |x      |+    |        x|          x|             -|          x|     +|-       |-
+|TribeNet        |MarkPincus      |  >500k|x   |x       |FoAf?  |     |        ?|          ?|             ?|          -|     +|-
+|AhSmallWorld    |ErikWachtmeister|   300k|x   |x       |?      |     |        ?|          ?|             ?|          -|     x|-
+|PeopleAggregator|MarcCanter      |   8414|x   |x       |-      |     |        -|          +|             -|          -|     -|-       |+
+|NooPolis        |RainerWasserfuhr|     42|-   |x       |++     |+++  |        -|          ?|             -|          x|not yet|bald   |+
+
+*): we count FoAf as "meta" SocialNetwork which also sums up the FoAf profiles of other FoAf-enabled SocialNetwork's.
+
+OpenStats.
+
+Kandidaten:
+* UndDuDe
+* MyCorners

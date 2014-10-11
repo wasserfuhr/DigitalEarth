@@ -1,0 +1,9 @@
+||ComPare      ||NooPolis||FaceBook||SecondLife||WikiPedia
+|WikiBased     |x        |-        |-          |x
+|public        |x        |-        |-          |x
+|NonProfit     |x        |-        |-          |x
+|#User         |84       |250 mio  |x mio      |x mio
+|VirtualEconomy|x        |soon?    |x          |-
+|SemanticWeb   |+++      |-        |-          |+
+|3D            |-        |-        |x          |-
+|SocialBackup  |x        |-        |-          |x

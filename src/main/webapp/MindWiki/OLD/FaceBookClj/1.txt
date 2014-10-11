@@ -1,0 +1,12 @@
+;
+;
+;{{{
+
+((defn facebook []
+    (str "
+<fb:request-form type='friends connection' content='hello MindBroker' invite='true'
+                 action='http://apps.facebook.com/mindbroker'>
+  <fb:multi-friend-selector rows='4' actiontext='Connect yourself with your friends' />
+</fb:request-form>")))
+
+;}}}

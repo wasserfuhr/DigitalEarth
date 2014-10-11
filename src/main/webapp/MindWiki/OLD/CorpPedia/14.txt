@@ -1,0 +1,20 @@
+Welche großen und kleinen UnterNehmen haben wie große unternehmensweite interne WikiPedia- artige Projekte:
+
+||UnterNehmen||Seiten ||Autoren||Software||Mitarbeiter||Quelle         ||gefragt     ||AntWort *)
+|DeutschePost|?       |        ?|?        |520112     |                |             |
+|SieMens     |?       |        ?|?        |480000     |NN              |             |
+|EiBiEm      |?       |        ?|?        |355766     |                |             |
+|OracleCorp  |?       |        ?|?        |56133      |                |             |
+|SapAg       |?       |        ?|?        |42772      |                |             |
+|EiBiEm.de   |3766    |      966|MediaWiki|25000      |GunterDueck     |20071219     |25min
+|GoogleInc   |?       |        ?|?        |15916      |                |             |
+|BamAg       |?       |        ?|?        |700        |NN              |20071219:2245|?
+|SynAxon     |>15.000 |        ?|MediaWiki|130        |FrankRoebers    |20071219     |1min
+|SuSuh       |?       |        ?|?        |?          |NN              |20071219:2140|?
+|MindBroker  |1.360   |      ~12|JspWiki  |1,5        |RainerWasserfuhr|20071219     |-
+
+
+ *) Zeit die verging, bis ein Gefragter, der sich damit auskennen sollte, eine AntWort gab. (Eine völlig unrepräsentative, aber amüsante Kennzahl, da RainerWasserfuhr beim Fragen nicht wusste, ob der Gefragte sich zB gerade im UrLaub oder im KlarTraum befindet)
+
+Siehe auch: http://wikipedistik.de/umfrage/ergebnisse.html
+

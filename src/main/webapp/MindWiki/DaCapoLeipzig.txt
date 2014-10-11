@@ -1,0 +1,4 @@
+* IsA: MindPlace
+* HomePage: http://www.michaelis-leipzig.de/da_capo.html
+* PartOf: KarlHeineStrasse
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.32944&lon=12.32343&zoom=17&layers=0B00FTTT ToDo

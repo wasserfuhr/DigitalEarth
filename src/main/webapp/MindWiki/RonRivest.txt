@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [WikiWikiWeb:RonaldRivest]
+* DbLp: http://dblp.uni-trier.de/rec/pid/r/RonaldLRivest
+* PageNumber: 4
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman RobertFloyd RonRivest

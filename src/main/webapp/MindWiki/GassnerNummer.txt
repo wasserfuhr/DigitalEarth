@@ -1,0 +1,11 @@
+* InspiredBy: ErdosNumber
+
+TransitiveClosure of »DancedWith«
+
+0:
+* OliverGassner
+* ChristineSchlinck
+* RicardaDHerbrand?
+
+1: 
+* ChristophBecker

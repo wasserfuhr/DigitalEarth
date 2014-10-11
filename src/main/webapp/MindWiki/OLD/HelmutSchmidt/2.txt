@@ -1,0 +1,7 @@
+* MindTags: MinisTer
+* InterWiki: [DeWikiPedia:Helmut_Schmidt], [OpenCyc:HelmutSchmidt]
+* JahrGang: 1918
+* BirthDay: 12-23
+* EheVertrag: LokiSchmidt
+* MindSkill: HausHalt, VerFassung
+* HasTalked: MaoZedong

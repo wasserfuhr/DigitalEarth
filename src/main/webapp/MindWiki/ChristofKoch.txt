@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Christof_Koch]
+* BornIn: 1956
+* BirthDay: 11-13
+* MindSkill: ConScious
+* DbLp: http://dblp.uni-trier.de/rec/pid/71/4603
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge DirkWalther ChristofKoch

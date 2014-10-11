@@ -1,0 +1,15 @@
+LeserMachenMit:
+Bist Du bei FaceBook?
+Wieviele Freunde hast Du?
+Wie international ist Dein Freundeskreis?: Welche Spracheinstellungen haben Deine Freunde?
+
+Als Paradebeispiel möge hier der NewsFeed bei FaceBook gelten.
+Dort werden "XY is now in a relationship".
+Die erfolgt in der Sprache. Hier spricht also das System schon .
+Das System hat eine rudimentäre erste, von natürlicher Sprache unabhängige
+formale Repräsentation über das Vorhandensein oder Zerbrechen von Liebesbeziehungen,
+ganz gleichgültig, welche Muttersprache der Nutzer spricht.
+SemanticWeb.
+
+Eine formale Weltsprache, die in der Lage ist, möglichst viel dessen
+auszudrücken was wir tagtäglich digital von uns geben.

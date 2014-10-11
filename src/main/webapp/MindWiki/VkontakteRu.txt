@@ -1,0 +1,5 @@
+* IsA: SocialNetwork
+* InterWiki: [DeWikiPedia:Vkontakte.ru]
+* MindOne: PavelDurov
+
+RussLand

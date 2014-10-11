@@ -1,0 +1,11 @@
+* IsA: EnterPrise
+* MindOne: RainerWasserfuhr
+
+A new StartUp on NooPolis: 
+LadenAuf!
+
+MindBroker pays 50 KayGroschen for each photo like this:
+
+[{Image src='http://farm3.static.flickr.com/2726/4332151292_ac53fe9af2_m.jpg'}] [*|http://www.flickr.com/photos/rainerw/4332151292/]
+
+MitWirkende: AlexanderFriedland?

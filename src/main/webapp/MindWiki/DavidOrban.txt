@@ -1,0 +1,10 @@
+* IsA: SingularityMind
+* InterWiki: [WikiPedia:David_Orban]
+* BornIn: 1965
+* WaveAddress: david.orban@googlewave.com
+* HomePage: http://www.davidorban.com/
+* HasTalked: AlGore JohnNash VernorVinge RobertAumann TimOReilly
+* MindSkill: InternetOfThings
+|[TwittEr:davidorban]
+|[FaceBook:692897055]
+|[XingLe:David_Orban]

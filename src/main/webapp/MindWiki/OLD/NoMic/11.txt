@@ -1,0 +1,17 @@
+* InterWiki: [DeWikiPedia:Nomic] [WebSeitz:NomicGame] [WikiWikiWeb:NomicGame]
+
+Wir spielen ein Spiel, dessen Spielzüge darin
+bestehen, dass wir die Regeln verändern.
+Dazu brauchen wir anfangs überhaupt Regeln.
+Eigentlich spielen wir diese Spiele schon
+seit Jahrhundert, und wir werden uns langsam
+bewusst, wie ComPlex diese Regeln geworden
+sind und wie sie zusammenhängen.
+
+NooPolis ist ein ReFrame'ing von GeSell'schaft und VerFassung als NoMic-Spiel.
+
+Jede GesellSchaft besteht aus einem ComPlex'en System von impliziten und expliziten Regeln (von der VerFassung über das KeineWerbungGesetz bis zu TischSitte'n).
+
+Jedes System definiert dabei auch FreiHeit'en, wer wie warum welche Regeln [ändern darf|http://www.flickr.com/photos/rainerw/308191869/].
+
+Auch das MindWiki definiert durch die verwendete SoftWare (CodeIsLaw) und codifizierte Regeln FreiHeit'en, VariablenUndConstraints. Damit wollen wir experimentieren und spielen.

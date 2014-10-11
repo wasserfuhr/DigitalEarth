@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Jesus_von_Nazareth] [OpenCyc:JesusOfNazareth]
+* JahrGang: -4
+* MamaZwoNull: MariaMutterGottes
+* MindQuote: "Ich bin der Weg und die WahrHeit und das Leben; niemand kommt zum Vater denn durch mich." - Johannes 14

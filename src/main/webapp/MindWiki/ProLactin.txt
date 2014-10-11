@@ -1,0 +1,2 @@
+* MindTags: MindGene
+* InterWiki: [OpenCyc:Prolactin], [WikiPedia:Prolactin]

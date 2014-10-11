@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* HomePage: http://www.tapasbarcelona.de/
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.048853&lon=13.740281&zoom=18&layers=B000FTT ToDo

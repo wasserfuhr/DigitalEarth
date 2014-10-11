@@ -1,0 +1,5 @@
+* IsA: PotUs
+* InterWiki: [DeWikiPedia:Bill_Clinton] [OpenCyc:BillClinton] [WebSeitz:BillClinton]
+* BornIn: 1946
+* BirthDay: 08-19
+* MindSkill: NooSex

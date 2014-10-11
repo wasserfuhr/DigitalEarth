@@ -1,0 +1,7 @@
+* IsA: HilbertHotel
+* SloGan: das exclusivste Mittelklassehotel auf PlanetErde!
+* SloGan: Das WahrSchein'lich erste MindHotel mit InFinite'simaler Zahl an HilbertRoom's
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/431420121
+* PartOf: SchwerinerStrasse
+* HomePage: http://hotelkronentor.appspot.com/
+|[TwittEr:HotelKronentor]

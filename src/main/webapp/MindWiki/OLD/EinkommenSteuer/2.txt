@@ -1,0 +1,3 @@
+"Die Einkommensteuererklärung ist die schriftliche Erklärung eines Steuerpflichtigen über seine Einkommensverhältnisse. Sie dient als Grundlage für die Ermittlung der festzusetzenden EinkommenSteuer."
+
+Nur echt mit optionalem FugenEs.

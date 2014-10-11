@@ -1,0 +1,19 @@
+* MindTags: MindEvent
+
+* Ort: WipperFuerth
+* Datum: 20080524
+* HomePage: http://klassentreffen-im-web.de/
+
+Teilnehmer:
+* StephanHeller
+* JosefBuechel?
+EtAl
+
+Leider verhindert:
+* RainerWasserfuhr
+
+!Wette
+||               ||Role       ||Video
+|RainerWasserfuhr|MindSchueler|http://www.youtube.com/watch?v=-2NqZe-EnN8
+|JosefBuechel    |MindLehrer  |http://www.youtube.com/watch?v=XO5tEUUAenU
+|StephanHeller   |MindSchueler|http://www.youtube.com/watch?v=U9UREuBC8y4

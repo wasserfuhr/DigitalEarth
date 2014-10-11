@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Sokrates] [WikiWikiWeb:MrSocrates]
+* BornIn: -468
+* DiedIn: -398

@@ -1,0 +1,10 @@
+* IsA: MindPlace
+* PartOf: PriessnitzStrasse19
+
+SpeedTest:
+
+(Kopiert am 04.09.10 01:55)
+Download aus Deutschland : 2699 Kbit/Sek
+Upload : 122 kbit/Sek
+Verbindung : 1246 Verb/Min
+Ping Test Deutschland : 78 ms

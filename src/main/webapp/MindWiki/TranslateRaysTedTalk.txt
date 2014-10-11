@@ -1,0 +1,18 @@
+Das erste Werk von LockSchuppen ist "out in the world": UnterTitel für RaysTedTalk
+
+[EtherPad:TED-RayKurzweil-SingularityUniversity]
+
+http://dotsub.com/view/a2a190c6-c954-4b18-853a-77ab6f276329
+
+.......es wurde noch mal gegengecheckt bevor es auch auf http://TED.com zu sehen sein wird.
+
+Unterstützer der Übersetzung (CrowdSourcing) waren:
+* RainerWasserfuhr 69 Zeilen (= 6,9 % LockShare's)
+* MarkusStamm 21 Zeilen (= 2,1 % LockShare's)
+* GeroldKeefer 5 Zeilen (= 5% potentielle LockShare's, da noch kein Bürger von NooPolis)
+
+LockSchuppen wurde von DavidOrban von der SingularityUniversity bezüglich der Unterstützung (Übersetzung) für die künftig auch öffentlich zugänglichen Vorlesungen der Ende 2009-06 gestarteten Sommerkurse angefragt. Insbesondere die Koordinierung der in OpenSource und CrowdSourcing durchgeführten (wie im vorstehenden Prototyp) deutschsprachigen Übersetzung.
+
+Die LockSchuppenAg hat die Chance auch die Prozesse mit zugestalten.
+
+WorkForShares wie oben wird auch künftig für die Übersetzungen angewandt werden. BuergerInnen von NooPolis erhalten entsprechende LockShare's.

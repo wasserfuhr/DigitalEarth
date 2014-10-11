@@ -1,0 +1,34 @@
+* MindTags: MindPeople
+
+Wir könnten mal einen PredictionMarket machen zum Unternehmenswert der 25 wichtigsten StartUp's:
+
+http://lexikon2.blog.de/2007/03/23/die_20_wichtigsten_start_ups_im_web_2~1661379
+
+Aus technischen Gründen natürlich nur diejenigen mit CamelCase-Namen und die als GlaesernesUnternehmen
+zumindest ihren Unternehmenswert veröffentlichen:
+
+# NewXing
+# SpreadShirt
+# MyVideo.de
+# StudiVz
+# LastFm
+# PlazesCom
+# Jajah.com
+# Holidaycheck.de
+# Lokalisten.de
+# Qype.com
+# Pageflakes.com
+# Mister-Wong.de
+# Wazap.com
+# Sevenload.de
+# Mabber.de
+# Hitflip.de
+# DealJaeger.
+# eDelight.de
+# Amiando.de
+# twoday.net
+# Blog.de
+# DaWanda
+# Latengo.de
+# ImageLooop
+# SoSmart

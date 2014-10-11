@@ -1,0 +1,7 @@
+* HerKunft: [WikiPedia:Mumba_Devi_Mandir]: 'Marathi Mumbā derives from Sanskrit Mahā-Ambā "Great Mother", and Mumbaī combines the name with aī, the Marathi for "mother"'
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Mumbai]
+* BreitenGrad: 18.964
+* LaengenGrad: 72.826
+* BoundingBox: 22000
+* MindCount: 8000000

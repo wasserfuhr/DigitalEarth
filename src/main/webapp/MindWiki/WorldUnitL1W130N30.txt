@@ -1,0 +1,11 @@
+* MindTags: MindFarm
+* UnitOwner: RainerWasserfuhr
+* MindCount: 5000
+* WaterHandICap: 0.999
+* EnErgie: ToDo
+* CalculationsPerSecond: ToDo
+* CarCount: 1000
+* ElectroCarCount: 100
+* BikeCount: 1000
+* PlanesCount: ToDo
+* ConTainer: 1000

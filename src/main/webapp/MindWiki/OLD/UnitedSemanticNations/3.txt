@@ -1,0 +1,5 @@
+UnitedNations ZwoNull based on the SocialGraph?
+
+How could an EmergentDemocracy based on the SocialGraph look like?
+
+First Usecase: SemanticVoting.

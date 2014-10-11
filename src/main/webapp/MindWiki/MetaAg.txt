@@ -1,0 +1,26 @@
+Die VirtuelleOekonomie von NooPolis als Meta-AhGe.
+
+Der WechselKurs als Kurs der Gesamt-Wirtschaftskraft aller EnterPrise's im HandelsRegister von NooPolis.
+
+!DRAFT: ReFrame NooPolis als MetaAg:
+
+Leitideen:
+* Völlige TransParenz aller Unternehmensbereiche
+** wir setzen nur OpenSource-Software ein
+** Alle Kunden- und Lieferantenbeziehungen sind einsehbar
+* Grundlegende Vereinfachung der RechtsForm und aktiven Mitarbeiter-Beteiligung durch eine VirtuelleOekonomie
+* Gesellschafter, Mitarbeiter und Kunden bilden auf Basis einer VerFassung eine virtuelle Republik nach den Grundsätzen der SelbstOrganisation und der BuergerBeteiligung
+** WikiBasiert'er Gesellschafter-VerTrag
+* Das gesamte UnterNehmen ist BootStrap-fähig
+
+Zielgruppe für die Anfangsphase (FurchtloseTausend):
+* UnternehmensGruender
+* FreeLancer
+* InVest'oren
+* WebLog'ger, EarlyAdopter, Multiplikatoren und SocialNetwork-PowerUser
+* Menschen mit politischem und sozialem Engagement
+* Wissenschaftler und Forscher aus den Bereichen
+** Soziologie
+** Volkswirtschaft
+** Politikwissenschaft
+** Jura

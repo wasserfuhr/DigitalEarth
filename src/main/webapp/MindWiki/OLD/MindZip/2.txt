@@ -1,0 +1,1 @@
+Ein KomPression der Inhalte des MindWiki als JspWiki-Textfiles.

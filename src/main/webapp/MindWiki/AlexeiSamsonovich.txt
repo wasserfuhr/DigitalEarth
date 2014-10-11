@@ -1,0 +1,16 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/76/3479
+* HomePage: http://mason.gmu.edu/~asamsono/
+* PageNumber: 16
+
+PagePath:
+# LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi MichaelStonebraker PeterLockemann WalterFTichy
+# [http://dblp.uni-trier.de/db/indices/a-tree/d/Dillon:Laura_K=.html]
+# ReimerBehrends
+# [http://dblp.uni-trier.de/db/indices/a-tree/s/Stirewalt:R=_E=_Kurt.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/m/McKinley:Philip_K=.html]
+# CharlesOfria [http://dblp.uni-trier.de/db/indices/a-tree/o/Ofria:Charles.html]
+# ChristophAdami [http://dblp.uni-trier.de/db/indices/a-tree/a/Adami:Christoph.html]
+# SteenRasmussen [http://dblp.uni-trier.de/db/indices/a-tree/r/Rasmussen:Steen.html]
+# StuartHameroff
+# AlexeiSamsonovich

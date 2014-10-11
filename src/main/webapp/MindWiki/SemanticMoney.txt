@@ -1,0 +1,25 @@
+This MindPaper describes the implementation of SemanticMoney for the PieschenBank (pronounce: "Peach'nbank", NamedAfter the DiStrict OtPieschen in the CityOfDresden).
+The PieschenBank is a virtual bank for the SemanticWeb based MicroNation NooPolis.
+CitiZens of NooPolis are identified by their RealName.
+In order to support a NameChange after marriage, CitiZens are identified by their life-long MindId.
+
+One of the special requirements and opportunities of the PieschenBank is the complete TransParen'cy of it's data.
+Therefore PieschenBank will expose it's data via a SparQl endpoint.
+The data is natively stored by a MulgaraServer.
+
+create <http://noopolis.org/mulgara/server>;
+
+SourceCode: BankClj
+
+DomainModel:   
+
+PayMent
+* id: xsd:long
+* sender : BankAccountHolder
+* receiver : BankAccountHolder
+* date : Timestamp
+* procurer : CitiZen
+* amount : Double
+* text: xsd:String
+
+GoodRelations?

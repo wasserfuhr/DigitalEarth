@@ -1,0 +1,30 @@
+Was ist ein BeautifulMind?
+* AbGehoben
+* AchtSam
+* agil: WikiDrivenDevelopment
+* analytisch: DomainModel
+* belesen: MindBib
+* cineastisch: RealFilm
+* forschend: ReSearch
+* führend: AvantGarde
+* gefühlvoll: SeeLe
+* hilfsbereit: WikiPate
+* ImMortal
+* konstruktiv: MindBau
+* kulinarisch: KoalaBaerSteak
+* kunstschaffend: KunstWerk
+* langlebig: LebensErwartung
+* mobil: MindMove
+* mutig: SeiMutig
+* neugierig: ReSearch
+* phantasievoll: RealRoman
+* RadiKal
+* rechtschaffen: VerFassung
+* reich: PieschenBank
+* sündig: MindSex
+* unternehmerisch: StartUp
+* verspielt: WorldChess
+* WikiBasiert
+* wissbegierig: WikiProf
+
+JohnNash

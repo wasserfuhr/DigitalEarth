@@ -1,0 +1,16 @@
+* WorldLanguages: deutsch: NooPolisDe
+
+NooPolis is a web- and WikiBased multiuser game which simulates a VirtualEconomy and a self-organizing EmergentDemocracy.
+
+Players of NooPolis can
+* create a VirtualEconomy for inventing, developing and trading products and services,
+** have a BankAccount, 
+** can found StartUp's which can be traded on the MindFloor,
+* elect the government CabiNet at CabiNetElection's,
+* discuss and evolve the ConStitution for one of the simplest and most TransParent virtual economic, legal and political systems on PlanetEarth,
+* discuss AcCelerate'ing changes in science, technology and global markets by actively defining scenarios for the future,
+* playfully mashup places and people from RealLife with fictitious, but in principle possible locations, events and trends in the future,
+* create futuristic KunstWerk's,
+* improve the life expectancy of all CitiZens and respect their LastWill.
+
+!!JoinNow!

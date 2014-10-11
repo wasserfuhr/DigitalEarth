@@ -1,0 +1,14 @@
+|[TwittEr:BrinPath]
+
+calculates your »PageNumber«, measured as your CoAuthor-ship distance in DbLp from LarryPage.
+
+!Lastest PageNumber-calculations:
+||PageNumber||PerSon
+|10|BenGoertzel
+| 9|DirkRiehle
+| 5|ManfredBroy
+| 4|BarbaraLiskov
+| 1|SergeyBrin
+| 0|LarryPage
+
+If you know other CoAuthor's or a shorter BrinPath, please reply via ReTweet.

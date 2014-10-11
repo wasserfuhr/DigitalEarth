@@ -1,0 +1,32 @@
+Um Produkte und Services im MindShop zu erwerben, musst Du MindBroker sein (WerdeMindBroker) und Dein BankKonto muss entsprechend mit KayGroschen gefüllt sein.
+
+Für begrenzte Zeit kannst Du KayGroschen bei der PieschenBank erwerben:
+
+Die kleinste Einheit, in der Du KayGroschen erwerben kannst sind 1.000 Stück, also 1 KiloKayGroschen.
+
+||Produkt         ||EuRo||noch verfügbar
+|KiloKayGroschen|    20| 10 KiloKayGroschen
+|KiloKayGroschen|    25| 40 KiloKayGroschen
+|KiloKayGroschen|    50|450 KiloKayGroschen
+
+Der Preis beinhaltet 19% MwSt.
+
+* BLZ: 86010090
+* KontoNr: 858372905
+* Empfänger: RainerWasserfuhr
+* Verwendungszweck: x KiloKayGroschen für das MitWirken an NooPolis
+
+!Zur Zeit im Angebot im MindShop:
+
+||Produkt          ||KayGroschen|| ||Service     ||noch verfügbar
+|OpenConsult       | ab 1.000| |             |
+|StartUpSim        |ab 99.999| |             |2
+|MindBanner        |    2.000| |Monat 2008-01|1
+|MindBanner        |    5.000| |Monat 2008-02|1
+|MindBanner        |   10.000| |Monat 2008-03|1
+|MindBanner        |   15.000| |Monat 2008-04|1
+|NacktSichtBrille  |   10.000| |             |3
+|EheRinge          |    1.000| |             |
+|LiebesRinge       |      100| |             |
+
+Getätigte Käufe im MindShop werden als UmSatz protokolliert.

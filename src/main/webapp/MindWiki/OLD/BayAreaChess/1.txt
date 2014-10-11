@@ -1,0 +1,3 @@
+A realworld game of chess for the BayArea.
+
+soon.

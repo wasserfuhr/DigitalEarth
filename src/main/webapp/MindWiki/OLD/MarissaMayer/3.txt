@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Marissa_Ann_Mayer]
+* JahrGang: 1975
+* BirthDay: 05-30
+* DbLp: http://dblp.uni-trier.de/rec/pid/80/5451
+* PageNumber: InFinite
+|[TwittEr:marissamayer]

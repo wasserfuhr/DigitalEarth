@@ -1,0 +1,11 @@
+* MindTags: FutureCard
+* PreDict: At least 16 driverless VwPhaeton will regularly drive in the public road traffic of the CityOfDresden
+* PreDictDe: Mindestens 16 fahrerlose VwPhaeton fahren regelmässig im öffentlichen Strassenverkehr der StadtDresden
+* UnTil: 2030
+* CardOwner: PeterMichel
+* CardHolder: RalfLippold
+* PieschenTv: http://seesmic.com/video/uVUUaQOIy2
+* FutureNumber: 4
+
+||PreDict'or||UnTil
+|RalfLippold|2026

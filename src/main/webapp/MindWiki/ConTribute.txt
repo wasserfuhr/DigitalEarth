@@ -1,0 +1,34 @@
+How can you ConTribute to MindBroker and NooPolis?:
+
+First step: go to http://id.mindbroker.de/ and LogIn with your WikiName (eg RainerWasserfuhr) and your PassWord.
+
+After LogIn you come to http://id.mindbroker.de/home
+
+Then you can:
+* Edit your WikiHomePage:
+** Your MindProps (WohnSitz , JahrGang , BirthDay , TraumZeitAlter , etc) 
+** Your SocialNetwork's
+** Your MindFaves (WikiPage's in MindWiki which you like) 
+* invite more CitiZens to NooPolis and get InviteGroschen: JoinNow
+* For questions about NooPolis: read and complete the NooPolisFaq
+* Edit the MindWiki, eg
+** The ConStitution
+** the GovernmentBudget 
+* Offer your products and services in the MindShop
+* pay KayGroschen
+* ask for products or services on the MarketPlace
+* create a StartUp
+* Join the MindBroker groups in other SocialNetwork's:
+** FaceBook : http://www.facebook.com/group.php?gid=4065199285
+** StudiVz : http://www.studivz.net/Groups/Overview/ffdeeb0ff6933524
+** WerKenntWen : http://www.wer-kennt-wen.de/club/m78e0yfr/
+* develop the SourceCode
+* make SocialBackup
+* change the PassWord
+* become WikiPate for other CitiZens
+* take part s of participatory thing ':
+** if you're single: enrich the DatingWiki
+** improve the FutureMap
+** organize MindVote's
+** play CrowdWisdom games
+** express your ExPect'ations by trading on PredictionMarket's 

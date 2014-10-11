@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Aristoteles], [WikiWikiWeb:MrAristotle]
+* JahrGang: -384
+* LebensEnde: -322
+* HasTalked: MrPlato, AlexanderTheGreat

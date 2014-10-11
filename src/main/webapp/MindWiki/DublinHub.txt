@@ -1,0 +1,5 @@
+* IsA: CoWorkingSpace
+* HomePage: http://hubdublin.com/
+* PartOf: DubLin
+|[TwittEr:dublinhub]
+

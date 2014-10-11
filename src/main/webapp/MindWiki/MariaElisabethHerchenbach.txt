@@ -1,0 +1,7 @@
+* MindTags: MindPeople
+* JahrGang: 1804
+* BirthDay: 08-13
+* BirthPlace: EiScheid
+* PapaZwoNull: HeinrichWilhelmHerchenbach
+* LebensEnde: 1867
+* SchneiderMuch: 10112

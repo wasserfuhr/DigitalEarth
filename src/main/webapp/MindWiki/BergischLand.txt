@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* InterWiki: [DeWikiPedia:Bergisches_Land]
+* PartOf: NrW

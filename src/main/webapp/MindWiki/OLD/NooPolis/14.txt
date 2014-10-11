@@ -1,0 +1,46 @@
+"Mit freiem Volk auf freiem Grund wird stehn": NooPolis: Eine virtuelle digitale Republik als NoMic-Game.
+
+spätere Startseite für http://noopolis.org
+
+!Hintergrund:
+ist die Übertragung des SelbstorganisationsPrinzip's der Wikipedia auf Gesellschaften. Die bestehen aus freien Bürgern, die sich ihre Gesetze selbst geben. 
+Viele Bürger sind mit der Gesetzgebung heute unzufrieden. Sie identifizieren sich kaum mit bestehenden politischen Organen. Auf allen Ebenen des Gemeinwesens - Stadt, Land, Bund - herrscht Gleichgültigkeit oder Ablehnung.
+
+!Idee:
+* Gründung einer virtuellen Republik zur Verfolgung dieser
+
+!Ziele:
+* Bürgern eine Plattform bieten für Identität, Freiheit und Vertrauen
+* Kodex Aufstellung eines Kodexes einfacher, transparenter und verbindlicher Regeln
+* Schaffung einer virtuellen Ökonomie für Unternehmen, die das virtuelle Zusammenleben der Bürger fördern
+
+!Verfassung:
+* NooPolis ist eine Republik mit dem LeaderShip-Modell des PrimusInterPares.
+* Alle Regeln der Verfassung sind veränderbar.
+* Keine Regeländerung gilt rückwirkend.
+* Änderungen der Satzung erfordern die Zustimmung aller Bürger mit mehr als 1000 KayGroschen.
+* Regeländerungen gelten als von allen Bürger angenommen, wenn kein anderer Bürger der Änderung binnen Veto-Frist durch editieren im Wiki widerspricht.
+* Die Veto-Frist beträgt 3 Tage. Falls ein Bürger länger AbWesend ist, kann er die Frist während der Abwesenheit auf 14 Tage erhöhen.
+* Bei Meinungsverschiedenheiten kommt es zu einem MindVote unter allen Mitspielern. Es entscheidet dabei die einfache Mehrheit der KayGroschen.
+* Gründer sind RainerWasserfuhr und YvonneSchubert.
+* Alle Bürger von NooPolis haben FreiHeit.
+* Die Währung von NooPolis sind KayGroschen. Die PieschenBank hütet die Währung von NooPolis.
+* Jeder Bürger von NooPolis hat genau eine MindId und damit ein Login.
+
+* MindBroker ist ein VolksEigenerBetrieb im HoheitsGebiet von NooPolis.
+* MindBroker ist der E-Government-ServiceProvider von NooPolis und Hüter der MindIDs.
+* Alle Bürger von NooPolis sind eingewoben in ein WebOfTrust. Menschen, die einander bekannt sind, können sich das Vertrauen aussprechen und bezeugen, dass der andere tatsächlich existiert und diesen Namen trägt. Neben der reinen Identifikation können sie ihr Vertrauen graduell bewerten.
+* Mit Erwerb des Bürgerstatus wird Verfassung anerkannt.
+* Aktuelle Bürger: RainerWasserfuhr, YvonneSchubert.
+
+!Diskussion:
+Welche politischen Interessen sind an eine solche Idee geknüpft?
+* Sozialversicherungsnummer
+* Gesundheitskarte
+* Datenschutz
+
+Wie werden die PrimusInterPares bestimmt?
+*Mehrheitswahlrecht für alle
+*genetische Abstammung (ID 1 hat ID 13 eingeladen)
+
+

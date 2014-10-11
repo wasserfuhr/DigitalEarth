@@ -1,0 +1,7 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Friedrich_Schiller]
+* JahrGang: 1759
+* BirthDay: 11-10
+* LebensEnde: 1805
+* EheVertrag: CharlotteVonLengefeld
+* HasTalked: JohannWolfgangVonGoethe

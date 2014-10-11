@@ -1,0 +1,22 @@
+The LockSchuppenAg currently emits 100 LockCoupon's per month to the ShareHolder, proportional to the shares held at the beginning of the month (significant: 00:00h UniversalCoordinatedTime). If a ShareHolder holds less than 1% LockShare's, portions of it will be cumulated over the coming months, until the CarryOver gives at least 1%:
+
+''Die LockSchuppenAg gibt derzeit pro Monat insgesamt 100 LockCoupon's an ShareHolder aus, proportional zu den jeweiligs am Monatsbegin aktuellen Anteilen (Stichzeitpunkt: 00:00h UniversalCoordinatedTime). Falls ein ShareHolder weniger als 1% LockShare's hat, werden die Bruchteile davon so lange in den Folgemonaten kumuliert, bis das CarryOver mindestens 1% ergibt:''
+
+||Month           ||Nov||Oct||Sep||Aug||Jul||Jun||May||Apr||Mar||Feb||Jan||
+||Monthly Emission[1]||100||100||100||100||100||100||100||100||100||100||100||
+||ShareHolder     || || || || || || || || || || || ||CarryOver[2]
+|RalfLippold      |  |  |  |  |  |  |  |57|57|57|67|4.000
+|RainerWasserfuhr |  |  |  |  |  |  |  |29|28|28|27|9.200
+|OliverGassner    |  |  |  |  |  |  |  |10|10|10| 0|0.000
+|MarkusStamm      |  |  |  |  |  |  |  | 2| 2| 2| 2|4.000
+|ChristianHeller  |  |  |  |  |  |  |  | 0| 1| 1| 0|8.000
+|PeterHerbst      |  |  |  |  |  |  |  | 1| 0| 1| 0|4.000
+|ChristineSchlinck|  |  |  |  |  |  |  | 1| 0| 1| 0|0.800
+|SimonKoeppl      |  |  |  |  |  |  |  | 0| 0| 0| 0|9.000
+|CorneliaHeinz    |  |  |  |  |  |  |  | 0| 0| 0| 0|8.000
+|RicoLieberwirth  |  |  |  |  |  |  |  | 0| 0| 0| 0|8.000
+|JanKreuter       |  |  |  |  |  |  |  | 0| 0| 0| 0|4.000
+|JoelKaczmarek    |  |  |  |  |  |  |  | 0| 0| 0| 0|4.000
+|NorbertRost      |  |  |  |  |  |  |  | 0| 0| 0| 0|4.000
+* [#1] Number of monthly emitted LockCoupon's. The sum of all emissions may slightly vary due to rounding and CarryOver.
+* [#2] based on LockSchuppenAg-ShareHolder-WikiTable. When the cumulated CarryOver exceeds 10.000, you get 1 LockCoupon

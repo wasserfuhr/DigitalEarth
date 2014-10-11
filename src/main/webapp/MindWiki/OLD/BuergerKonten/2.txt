@@ -1,0 +1,4 @@
+||Kontonummer||KontoStand in KayGroschen||
+|RainerWasserfuhr|10.000|
+|YvonneSchubert|10.000|
+|AndreasWeigel|10.000|

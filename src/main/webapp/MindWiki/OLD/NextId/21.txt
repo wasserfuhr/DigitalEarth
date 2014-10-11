@@ -1,0 +1,46 @@
+Wer WerdeMindBroker als nächstes?
+
+||MindId *)||MindBroker     ||NextId
+|          |HeikeRibke      |MiKr
+|         *|RainerWasserfuhr|JuergenKohn
+|          |ChristineSchlinck|CoSc
+|          |HeikeRibke      |MaPi
+|          |RainerWasserfuhr|FrSc
+|          |RainerWasserfuhr|IlKu
+|          |RainerWasserfuhr|NicoleSimon
+|          |RainerWasserfuhr|AndreasStuhlmueller
+|          |RainerWasserfuhr|AlexandraSurdina
+|          |RainerWasserfuhr|CemBasman
+|          |RainerWasserfuhr|AnjaEigner
+|          |RainerWasserfuhr|JensWegerle
+|          |RainerWasserfuhr|alle MindPeople ohne LebensEnde
+|          |RainerWasserfuhr|SoerenStamer
+|          |RainerWasserfuhr|StephanMosel
+|          |RainerWasserfuhr|BeatDoebeli
+|          |RainerWasserfuhr|HelmutLeitner
+|          |RainerWasserfuhr|DirkRiehle
+|          |RainerWasserfuhr|StephanSchmidt
+|          |RainerWasserfuhr|MatthiasJugel
+|          |RainerWasserfuhr|JosefBuechel
+|          |RainerWasserfuhr|HagenStanek
+|          |RainerWasserfuhr|ManuelaAmann
+|          |RainerWasserfuhr|JaRe
+|          |DanielPoodratchi|AurelienEyoum
+|          |DanielPoodratchi|Michael B. 
+|          |RainerWasserfuhr|Alle Teilnehmer von MindEvents
+
+"*": Von der Person selbst angefragt
+
+falls englische WebApps fertig:
+* JoiIto
+* LawrenceLessig
+* alle UnternehmensGruender
+
+Option auf je 200 MindShares:
+* AlGe
+* AlexanderGola
+* PeKa
+* SebastianMitter
+* SvSc
+
+Vanity-MindId: Runde Zahlen und Schnapszahlen werden bald bei ebay versteigert.

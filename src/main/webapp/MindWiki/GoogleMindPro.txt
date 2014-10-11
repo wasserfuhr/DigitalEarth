@@ -1,0 +1,9 @@
+* UnTil: 2025
+
+Like GoogleMind, but with GoogleMindPro you can see and edit the activities of single neurons and change the synaptic connections.
+
+GoogleMindPro poses extremely interesting questions towards the philosophy of MiNd:
+* How does a MiNd work that is confronted with it's own hardware?
+* Which kinds of feedback between hardware and ConScious'ness will occur?
+* NotIfButWhen will it be possible to transfer observed states of my wetware to silicon?
+* NotIfButWhen will it be possible to AugMent and AcCelerate the silicon model of my MiNd?

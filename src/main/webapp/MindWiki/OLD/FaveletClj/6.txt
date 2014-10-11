@@ -1,0 +1,25 @@
+;
+;
+;{{{
+
+((defn favelet [] 
+  (handle "favelet"
+   (fn []
+    (let
+      [url (.substring (.getPathInfo request) (.length "/favelet/" ))
+       urlFixed (.replaceAll "http:/" "http://") ;; ??strange??
+       fetchS (fetch-url-s urlFixed)
+       fbLine (re-find #"<h1 key=\"homepages/([^\"]*)\">([^<]*) <" fetchS)
+       id (second fbLine)
+       name (.get fbLine 2)
+      ]
+      (str
+       "Copy to <a href='http://mindbroker.de/Edit.jsp?page='" name ">MindWiki</a>:
+<textarea rows='4' cols='60'>
+* DbLp: http://dblp.uni-trier.de/rec/pid/" id "
+* PageNumber: 
+* PagePath: LarryPage ... " name "
+</textarea>"
+    ))
+   ) ""))))
+;}}}

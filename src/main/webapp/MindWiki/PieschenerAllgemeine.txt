@@ -1,0 +1,48 @@
+* PartOf: PieschenMediaGroup
+|[TwittEr:PieschenPrint]
+
+Der personalisierte TotHolz-NewsLetter aus dem OrtsteilPieschen und der StadtDresden an alle BuergerInnen der MicroNation NooPolis in DeutschLand und ganz PlanetErde, nur echt mit CamelCase.
+
+(ErstAusgabe, AufLage: 108, ViSdW: RainerWasserfuhr)
+
+||AbonnentIn||YvonneSchubert
+|MindId   |2
+|WohnSitz |OtStriesen
+|VerMoegen|10,067 KayGroschen
+|QrCode   |[{Image src='http://farm3.static.flickr.com/2721/4229576587_bfa1bbe9fb_t.jpg'}]
+
+RouteCard/LaufZettel
+||#||At||On||From||To
+|1|2010-10-08|PensionMorgenstern|RainerWasserfuhr|
+|2|20__-__-__| | |
+|3|20__-__-__| | |
+|4|20__-__-__| | |
+|5|20__-__-__| | |
+|6|20__-__-__| | |
+|7|20__-__-__| | |
+|8|20__-__-__| | |
+|9|20__-__-__| | |
+|10|20__-__-__| | |
+
+
+Persönliches GrussWort vom ChefRedakteur: Liebe YvonneSchubert, dies ist die TotHolz-ErstAusgabe der PieschenerAllgemeine.
+Als BuergerIn mit MindId 2 stellt die MindPost Dir diese Ausgabe in Deinen BriefKasten zu.
+
+!KabiNettWahl
+Seit [TimeLine:2010-04-09] findet die 2. CabiNetElection für die neuen MinisTer der MicroNation NooPolis statt.
+
+Bis jetzt zur Wahl stehen:
+* RalfLippold
+* SoerenRogoll?
+* AlexanderFriedland?
+* ConstanceWolter?
+
+Abstimmen und selbst kandidieren kannst Du im InterNet unter http://mindbroker.de/wiki/CabiNetElection.
+
+!RayInDresden
+Der auf ganz L:PlanetErde bekannte ZukunftsForscher und SingularPapst RayKurzweil im am [TimeLine:2010-06-10] dank TSystemsMms zusammen mit WorldWideWeb-ErFind'er Sir TimBl im CongressCenterDresden. Bald mehr.
+
+!PieschenArtMuseum
+Ab [TimeLine:2010-04-24] an der TuDresden. Kommst Du auch?
+
+

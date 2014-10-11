@@ -1,0 +1,18 @@
+The SemanticMind will be a SemanticWeb based Model of a DigitalTwin of RainerWasserfuhr.
+
+It consists of concrete like places, books, ideas, PerSon's or general ConCept's.
+
+It is created from a public LifeWiki started end of 2006 that grew to a PageCount of over 10.000 WikiPage's UnTil january 2010.
+
+The RdF is available as
+* MindN3
+* MindRdf
+
+The RdF itself is generated via CloJure code inside the MindWiki: RdfClj
+
+The ConTent is created and maintained by a slightly modified JspWiki.
+
+The raw ConTent of the MindWiki is also available for DownLoad as MindZip.
+
+The PageIndex of all WikiPage's is the base for all DeFin'ed ReSource's.
+Each WikiPage can be hooked into an OntoLogy via MindProps.

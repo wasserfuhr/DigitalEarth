@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:RWE_Tower]
+* BreitenGrad: 51.51604
+* LaengenGrad: 7.4624
+* BoundingBox: 30

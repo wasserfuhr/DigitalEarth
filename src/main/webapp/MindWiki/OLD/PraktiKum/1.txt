@@ -1,0 +1,6 @@
+Aufgaben:
+* versehe alle MindPlaces mit MindTags 
+* finde MindPeople mit WikiPedia-Artikeln und eintrag sie als InterWiki 
+* finde 64 Orte für DresdenChess
+
+So 8 EuRo/h? erst mal 50h?

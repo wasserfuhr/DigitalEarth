@@ -1,0 +1,8 @@
+MindLine: 20071015.
+
+Alle BuergerInnen haben 3 Stimmen:
+
+||Kandidat||MindVote
+|DanielPoodratchi|* RainerWasserfuhr
+|YvonneSchubert  |* RainerWasserfuhr
+|MattisManzel    |* RainerWasserfuhr

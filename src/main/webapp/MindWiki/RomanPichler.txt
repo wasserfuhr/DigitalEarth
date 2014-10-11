@@ -1,0 +1,3 @@
+* IsA: PerSon
+* MindSkill: ScrumProcess
+|[XingLe:Roman_Pichler3]

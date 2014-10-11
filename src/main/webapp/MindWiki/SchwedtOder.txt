@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Schwedt/Oder]
+* BreitenGrad: 53.0624
+* LaengenGrad: 14.2698
+* BoundingBox: 2500

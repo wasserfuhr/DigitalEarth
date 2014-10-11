@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Lee_Smolin]
+* BornIn: 1955
+* ViAf: http://viaf.org/viaf/9988201
+
+NoBirthday

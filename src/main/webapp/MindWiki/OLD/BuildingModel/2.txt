@@ -1,0 +1,29 @@
+MindBroker ReSearch presents: A digital BuildingModel for WirkZentrum at GeheStrasse21:
+
+MindTerm's:
+* Bathtub
+* Bed
+* Bookcase
+* Cabinet
+* Carpet
+* Chair
+* Door
+* Easel
+* Floor
+* Houseplant
+* Lamp
+* LightSwitch
+* Opening
+* Oven
+* Painting
+* Piano
+* Poster
+* PowerPlug
+* Radiator
+* Stove
+* Stucco
+* Table
+* Wall
+* WashingMachine
+* WateringCan
+* Window

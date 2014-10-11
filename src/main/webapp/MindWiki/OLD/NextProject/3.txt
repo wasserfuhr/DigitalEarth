@@ -1,0 +1,6 @@
+The next ProJect of RainerWasserfuhr:
+
+Candidates:
+||StandOrt||Status||HomeOffice %
+|StadtBerlin|pending|0
+|HamBurg    |pending|0

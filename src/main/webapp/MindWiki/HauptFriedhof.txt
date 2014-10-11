@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* InterWiki: [DeWikiPedia:Hauptfriedhof_Frankfurt]
+* PartOf: FrankFurt

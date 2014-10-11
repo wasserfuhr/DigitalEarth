@@ -1,0 +1,13 @@
+* Allgemeine Infos
+* Projekte und Ansprechpartner rund um Familie
+** FamilienFreund in BundeslandSachsen (StadtLeipzig, StadtChemnitz, StadtDresden usw.), BundeslandSachsenAnhalt (StadtHalle, StadtMagdeburg, StadtDessauRosslau usw.), BundeslandThüringen (StadtErfurt, StadtJena usw.)
+*** für UnterNehmer http://www.familienfreund.de/Unternehmer
+*** für FamilienMitglieder http://www.familienfreund.de/Nutzer
+*** für DienstLeister http://www.familienfreund.de/Anbieter
+* Projekte und Ansprechpartner für Unternehmen
+** PERFEKT - Projekt der RKW Sachsen in Chemnitz http://www.perfekt-sachsen.de/
+* LockSchuppenAg als FamilienFreundlich'stes UnterNehmen in Sachsen 20xx?
+* Idee von StanislawTillich im ZukunftsKongress
+** datenbankgestützte Übersicht zu familienrelevanten Angeboten http://www.familienkatalog-sachsen.de
+
+related: MutterInDresden WunderKind

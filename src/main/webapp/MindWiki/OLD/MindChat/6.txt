@@ -1,0 +1,18 @@
+Wir chatten vorerst mangels OpenSource-Alternativen mittels SkyPe.
+
+Alle MindBroker: MindChat.
+
+Weitere Chats:
+
+||MindBroker      ||KabiNettChat ||CoderChat||BuergerInnenChat
+|RainerWasserfuhr |x             |x         |x
+|DanielPoodratchi |x             |x      
+|AndreasWeigel    |              |x
+|YvonneSchubert   |x             |
+|DimitriUwarov    |              |x
+|ChristineSchlinck|              |          |x
+|HeikeRibke       |              |          |x
+
+
+
+Fun-Chats: ChatChat, RobletChat, ShuttleChat, SchlotChat.

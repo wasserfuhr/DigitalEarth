@@ -1,0 +1,8 @@
+* MindTags: MinisTer
+* InterWiki: [DeWikiPedia:Helmut_Schmidt], [OpenCyc:HelmutSchmidt]
+* MindQuote: "Wer Visionen hat, sollte zum Arzt gehen."
+* JahrGang: 1918
+* BirthDay: 12-23
+* EheVertrag: LokiSchmidt
+* MindSkill: HausHalt, VerFassung
+* HasTalked: MaoZedong

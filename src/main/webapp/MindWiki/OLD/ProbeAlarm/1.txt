@@ -1,0 +1,2 @@
+In der MindCity könnte es anstelle eines ProbeAlarm's mit fester DeadLine einen WahrScheinlich'keitstheoretisch optimierten ProbeAlarm geben: In jeder StadtViertel-BoundingBox erklingt die Sirene per ZuFall'sgenerator
+normalverteilt um eine bestimmte MutingsIntervall-ZeitFenster herum und wird erst wieder abgestellt wenn es ein GeoTweet von BuergerInnen aus der BoundingBox gibt.

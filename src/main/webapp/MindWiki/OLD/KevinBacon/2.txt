@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* InterWiki: [WikiWikiPattern:KevinBacon]
+* BirthDay: 07-08

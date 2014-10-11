@@ -1,0 +1,9 @@
+* IsA: PerSon
+* BornIn: 1911
+* BirthDay: 07-21
+* ChildOf: AloisBoxberg
+* DiedIn: 2001
+* DayOfDeath: 04-28
+* MariedTo: BernhardBuechel
+* MindFaves: HoerZu
+

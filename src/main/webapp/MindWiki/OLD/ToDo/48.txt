@@ -1,0 +1,25 @@
+||Actor||Phase||Status||Action
+|rainer|AlphaTest|  |schreibe ProjektPlan
+|rainer|AlphaTest|  |schreibe AlphaTester
+|rainer|AlphaTest|  |schreibe BetaTester
+|rainer|AlphaTest|  |schreibe ContinuousIntegration
+|rainer|AlphaTest|  |code die Suchfunktion
+|rainer|AlphaTest|  |refactore Messages und Contacts in Mindbroker core
+|rainer|AlphaTest|  |erweitere DB für: Userguestbooks, Blogfunktion für Clubs/Teams
+|rainer|AlphaTest|  |implementiere Funktion für online/offline Status der user
+|rainer|AlphaTest|  |finde Grafiker für Logo
+|daniel|AlphaTest|  |implementiere Tag-Libraries
+|daniel|AlphaTest|  |code Löschoption für Termine, Nachrichten und Spoooortfreunde
+|daniel|AlphaTest|  |code picUpload für Team und Club
+|daniel|AlphaTest|  |code Passwort vergessen
+|daniel|AlphaTest|  |code Passwort ändern
+|daniel|AlphaTest|  |frage Rainer zu reply=true setzen
+|daniel|AlphaTest|  |frage Rainer zu generic Types
+|daniel|AlphaTest|  |code dynamische Zuordnung Teams->Clubs
+|daniel|AlphaTest|  |code Auswahlmöglichkeit der Sportarten
+|daniel|AlphaTest|  |code userGuestbook
+|daniel|AlphaTest|  |frage Rainer zu NullFeldern
+|andreas|AlphaTest|  |implementiere jsp "Sie sind nicht berechtigt..." inkl LoginForm und bigLink zu register.jsp
+|andreas|AlphaTest|  |implementiere Grunddesign-/layout
+|andreas|AlphaTest|  |optimiere Layout für alle Browser
+|andreas|AlphaTest|  |integriere Forms für Passwort ändern und Passwort vergessen

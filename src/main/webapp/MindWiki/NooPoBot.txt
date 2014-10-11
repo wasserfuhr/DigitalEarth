@@ -1,0 +1,6 @@
+a TwittEr bot that sends tweets to individual CitiZens of NooPolis: [TwittEr:NooPoBot]
+
+Currently NooPoBot informs you about:
+* PayMent's to your PieschenBank BankAccount
+* Trades with your offers in the OrderBook of the MindFloor
+* when CitiZens accepted your invitation to NooPolis

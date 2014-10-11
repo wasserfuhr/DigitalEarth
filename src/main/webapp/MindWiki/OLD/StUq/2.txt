@@ -1,0 +1,13 @@
+StUq ist eine halbmanuell per ZuFall generierte WikiPage.
+Aus der MindMatrix wurden die ersten 4 BuchStabe'n oben links genommen und in CamelCase TransForm'iert.
+
+StUq ist also sowas wie das [WikiPedia:Spunk] von PippiLangstrumpf.
+
+Was macht ein Mensch typischerweise, wenn ihm in einem AlternateReality-Game ein Wort wie StUq vorgelegt wird?
+
+# Bei GoogleInc nachfragen: "Ergebnisse 1 - 10 von ungefähr 20.400 für stuq"
+
+Wenn das MindWiki als rudimentäres erstes Modell für ein NewMind betrachtet werden kann, ist StUq
+ein Testfall für stochastische Methoden in NewMind.
+ 
+Welche Kausalitäten führen sonst dazu, dass sonst eine WikiPage angelegt wird?

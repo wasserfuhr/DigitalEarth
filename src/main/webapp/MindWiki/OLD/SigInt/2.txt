@@ -1,0 +1,4 @@
+* MindTags: EventSeries
+* HomePage: http://sigint.ccc.de/sigint/
+
+ChristianHeller?

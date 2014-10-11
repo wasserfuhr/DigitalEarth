@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Christiane_Floyd]
+* DbLp: http://dblp.uni-trier.de/rec/pid/f/ChristianeFloyd
+* HomePage: http://agis-www.informatik.uni-hamburg.de/swt/people/christiane-floyd/
+* PageNumber: 8
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann ThomasChristaller ReinhardKeilSlawik ChristianeFloyd

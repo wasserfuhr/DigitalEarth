@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/49/3613
+* HomePage: http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_mathematik_und_naturwissenschaften/fachrichtung_psychologie/i4/lehrlern/mitarbeiter/hermannkoerndle
+* PageNumber: 8
+* PagePath: LarryPage ... ArminBCremers ReinhardOppermann CorneliaKarger HermannKoerndle

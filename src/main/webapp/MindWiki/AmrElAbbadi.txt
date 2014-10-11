@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/a/AmrElAbbadi
+* PageNumber: 3
+* PagePath: LarryPage HectorGarciaMolina GerhardWeikum AmrElAbbadi
+
+UcsbEdu

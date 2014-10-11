@@ -1,0 +1,8 @@
+* Hat keinen NobelPreis, aber einen [Turing-Preis|http://de.wikipedia.org/wiki/Turing-Preis]
+* JahrGang: 1940
+* Kopf von CroQuet. Btw: Es gibt derzeit weder ein Währungssystem, noch eine VerFassung, noch eine Staatsbank für verteilte PeerToPeer-CroQuet-Welten.
+* Namensgeber für KayGroschen
+
+||AusLand
+|[DeWikiPedia:Alan_Kay]
+|[WikiPedia:Alan_Kay]

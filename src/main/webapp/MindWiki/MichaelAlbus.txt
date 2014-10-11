@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Michael_Albus]
+* BornIn: 1942
+* ViAf: http://viaf.org/viaf/42640924
+NoBirthday

@@ -1,0 +1,20 @@
+Was kann ich denn bei MindBroker jetzt machen?
+
+Erster Schritt: gehe zu http://id.mindbroker.de/ und logge Dich mit Deinem WikiName (z. B. RainerWasserfuhr) und Deinem Passwort ein.
+
+Nach dem Login kommst du auf http://id.mindbroker.de/home 
+
+Dort kannst Du:    
+* das MindWiki bearbeiten, zB
+** die VerFassung
+** den HausHalt
+** Deine MindProps
+** Deine MindFaves
+* an MindVote's teilnehmen
+* BuergerInnen einladen
+* KayGroschen überweisen
+* im MindBlog schreiben oder kommentieren
+* das Passwort ändern
+
+Kannst Du etwas kaputtmachen?
+* Nein, denn wir haben SocialBackup und alles kann editiert werden.

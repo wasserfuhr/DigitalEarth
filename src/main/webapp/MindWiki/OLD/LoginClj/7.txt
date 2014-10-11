@@ -1,0 +1,39 @@
+;LogIn
+;{{{
+
+((defn login []
+  (handle "login"
+   ""
+   (fn []
+    (defn fetch-url-s
+      "Return the web page as a string."
+      ;http://gnuvince.wordpress.com/2008/11/18/fetching-web-comics-with-clojure-part-2/
+      [address]
+      (let [url (java.net.URL. address)]
+        (with-open [stream (. url (openStream))]
+          (let [buf (java.io.BufferedReader. (java.io.InputStreamReader. stream))]
+            ((defn a [b]
+              (let [line (.readLine b)]
+                (if (nil? line) ""
+                 (str line (a b)))))
+             buf)))))
+    (let
+     [wikiName (.getParameter request "wikiName")
+      pw (.getParameter request "password")
+      idServer "http://id.mindbroker.de/"
+      idPage (fetch-url-s (str idServer "id?wikiName=" wikiName ))
+      publicKey (get (re-find #"<span id=\"publicKey\">([a-zA-Z0-9]+)</span>" idPage) 1)
+      pwDigest (de.mindbroker.tools.Hash/getHash (str publicKey "#" pw))
+      loginStatusUrl (str idServer "login?wikiName=" wikiName "&passwordDigest=" pwDigest)
+      loginStatusPage (fetch-url-s loginStatusUrl)
+     ]
+     (if
+       (.contains loginStatusPage "\"login\": true")
+       (do
+        (.setAttribute (.getSession request) "WikiName" wikiName)
+        (.sendRedirect response (.getParameter request "pathInfo"))
+       )
+       (.sendRedirect response (str (.getParameter request "pathInfo") "&message=wrongPassword"))
+     )))
+   )))
+;}}}

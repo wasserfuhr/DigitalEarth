@@ -1,0 +1,20 @@
+;
+;
+;{{{
+
+(defn cache [cacheName key]
+ (do
+  (.setAttribute application "cacheThread" (+ 1 (.getAttribute application "cacheThread")))
+  (get
+   {
+   :ChristineSchlinck "http://s3.amazonaws.com/twitter_production/profile_images/32462172/herbstsonne_bigger.jpg"
+   :HeidiGallinat "http://radio.intellihaus.de/schlumpf.jpg" ;cropped _OMA1667.jpg
+   :RainerWasserfuhr (str "http://s3.amazonaws.com/twitter_production/profile_images/151228708/aa20071226.rainer_profile_image_xing.com_bigger.jpg#" (.getAttribute application "cacheThread"))
+   :RalfLippold "http://s3.amazonaws.com/twitter_production/profile_images/84499783/MEDIA_080328_Ralf_Lippold_bigger.jpg"
+   :SimonKoeppl "http://s3.amazonaws.com/twitter_production/profile_images/190141648/10cm_300dpiframe_bigger.jpg"
+   :RicardaDHerbrand "http://profile.ak.facebook.com/profile6/227/70/n777753775_665.jpg"
+   :DanielPoodratchi "http://profile.ak.facebook.com/v222/1202/6/n603103551_8776.jpg"
+   :YvonneSchubert "http://barcampdresden.mixxt.de/storage/images/profiles/f/f/0/ffbdbdc6600d6cc4338df626c9805.jpg"
+   } key ))
+ )
+;}}}

@@ -1,0 +1,2 @@
+* HerKunft: StanFord ReSearch Institute ProBlem Solver
+* InterWiki: [WikiPedia:STRIPS]

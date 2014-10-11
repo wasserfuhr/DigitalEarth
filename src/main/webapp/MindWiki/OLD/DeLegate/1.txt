@@ -1,0 +1,3 @@
+* HerKunft: lat. de-legare, aus legatus, "mit GeSetz'licher VollMacht Be-AufTrag'ter, Gesandter", von lat. "lex" (legis) "GeSetz, BeStimm'ung"
+
+SocialObject for LiquidDemocarcy

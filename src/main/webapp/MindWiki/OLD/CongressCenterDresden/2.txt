@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* HomePage: http://www.dresden-congresscenter.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/23119198

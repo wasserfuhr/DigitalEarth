@@ -1,0 +1,15 @@
+A fundamental idea of NooPolis is the SocialContract between
+it's CitiZens.
+
+We create the SocialContract on a PeerToPeer base, from scratch, or from: a WikiBased TabulaRasa.
+
+We do not know whether our WebOfTrust will scale beyond the current level.
+We start the SocialContract from
+* different economic levels, with
+* different languages,
+* diffent skills.
+
+The basic challenge of the SocialContract:
+* If two (or more) people come together, can they co-ordinate their actions, 
+including all future risks of contract breaches, based on a rational agreement, without 
+reference to an external power?

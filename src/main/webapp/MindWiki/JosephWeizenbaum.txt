@@ -1,0 +1,4 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Joseph_Weizenbaum]
+* BirthDay: 01-08
+* MindSkill: ChatBot

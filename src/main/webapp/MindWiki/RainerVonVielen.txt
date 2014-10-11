@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Rainer_von_Vielen]
+* BirthDay: 02-26
+* HomePage: http://www.vonvielen.de/
+* MindSkill: MindMusic

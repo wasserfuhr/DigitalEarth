@@ -1,0 +1,15 @@
+DbLp »SameAs« bugs:
+
+submitted to MichaelLey:
+** [http://dblp.uni-trier.de/db/indices/a-tree/h/Heistermann:J=ouml=rg.html]
+** [http://dblp.uni-trier.de/db/indices/a-tree/h/Heisterman:J=ouml=rg.html]
+
+pending:
+* RaimarScherer
+** [http://dblp.uni-trier.de/db/indices/a-tree/s/Scherer:Raimar.html]
+** [http://dblp.uni-trier.de/db/indices/a-tree/s/Scherer:Raimar_J=.html]
+** [http://dblp.uni-trier.de/db/indices/a-tree/s/Scherer:R=_J=.html]
+
+* CraigVenter
+** [http://dblp.uni-trier.de/db/indices/a-tree/v/Venter:J=_Craig.html]
+** [http://dblp.uni-trier.de/db/indices/a-tree/v/Venter:J=_C=.html]

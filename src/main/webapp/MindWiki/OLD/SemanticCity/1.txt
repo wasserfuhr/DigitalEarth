@@ -1,0 +1,4 @@
+||Stadt||HebeSatz
+|StadtBerlin|?
+|StadtDresden|4xx
+|WipperFuerth|?

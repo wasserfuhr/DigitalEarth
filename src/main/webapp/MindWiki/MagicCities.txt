@@ -1,0 +1,16 @@
+* HomePage: http://www.magic-cities.com/
+
+DeutschLand
+
+* DuesselDorf
+* FrankFurt
+* HamBurg
+* HannOver
+* StadtBerlin
+* StadtDresden
+* StadtKoeln
+* StadtLeipzig
+* StadtMuenchen
+* StuttGart
+
+BettinaBunge

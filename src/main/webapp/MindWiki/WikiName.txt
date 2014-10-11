@@ -1,0 +1,3 @@
+Each CitiZen of NooPolis has both
+* a unique immutual MindId
+* a unique WikiName with a CamelCase name, which can only be changed via public NameChange.

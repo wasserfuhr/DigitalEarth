@@ -1,0 +1,5 @@
+WikiPage's used via MindApi:
+* FavIcon
+* NameSpace
+* WikiLender
+and CloJure

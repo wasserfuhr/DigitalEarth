@@ -1,0 +1,64 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Linie_4]
+* BoundingBox: 6000
+
+* Weinböhla
+* Köhlerstraße
+* Steinbacher Weg
+* Auerstraße
+* Salzstraße
+* Rathaus Coswig
+* Coswig Zentrum/Börse
+* Radebeuler Straße
+* Eisenbahnbrücke
+* Gerh.-Hauptmann-Str.
+* Johannisbergstraße
+* Schloß Wackerbarth
+* Flemmingstraße
+* Moritzburger Str.
+* Gradsteg
+* Borstraße
+* Dr.-Külz-Straße
+* Zillerstraße
+* Landesbühnen Sachsen
+* Wasastraße
+* Schildenstraße
+* HauptStrasse
+* Zinzendorfstraße
+* Radebeul Ost (Schleife)
+* Forststraße
+* Kleestraße
+* Geblerstraße
+* Am Trachauer Bahnhof
+* Rankestraße
+* AltTrachau
+* Mickten
+* AltPieschen
+* Oschatzer Straße
+* AlexanderPuschkinPlatz
+* AlterSchlachthof
+* Anton-/Leipziger Str.
+* PalaisPlatz
+* Neustädter Markt
+* TheaterPlatz
+* A.-/Leipziger Str.
+* Kongresszentrum
+* Am Zwingerteich
+* PostPlatz
+* AltMarkt
+* Pirnaischer Platz
+* HygieneMuseum
+* Straßburger Platz
+* Krhs. St.Joseph-Stift
+* Fetscherplatz
+* MosenStrasse
+* Bergmannstraße
+* PohlandPlatz
+* Gottleubaer Straße
+* Altenberger Straße
+* Ludwig-Hartmann-Straße
+* Johannisfriedhof
+* Urnenhain
+* Wasserwerk Tolkewitz
+* Alttolkewitz
+* Hermann-Seidel-Straße

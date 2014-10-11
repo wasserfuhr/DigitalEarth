@@ -1,0 +1,22 @@
+!Das wichtigste
+* JahrGang: 1971
+* BirthDay: 08-28
+* WohnSitz: NuernBerg in FranKen in DeutschLand
+* MindTrust: RainerWasserfuhr
+* meine Pflichten: VerFassung / Sektion Regierung: DoIt, ReDo
+** todo: hineinfinden / Orientierung
+* community: KabiNettChat
+
+!Mehr
+* geboren in: Dresden
+* mag ich sehr: FrauenKircheDresden, GospelKirchenTag in Hannover, WikiWiki, TYPO3, Java
+* Frage: hab ich jetzt die DoppelteStaatsBürgerschaft?
+* MindBrowser: FireFox
+
+!AusLand
+|[WorldWideWeb:www.patchworking.de]
+|[XingLe:Daniel_Bruessler]
+
+!WikiWiki
+* [http://wiki.typo3.org/index.php/User:Patchworker|http://wiki.typo3.org/index.php/User:Patchworker]
+* [http://www.wikiservice.at/dse/wiki.cgi?DanielBrüßler|http://www.wikiservice.at/dse/wiki.cgi?DanielBr%fc%dfler]

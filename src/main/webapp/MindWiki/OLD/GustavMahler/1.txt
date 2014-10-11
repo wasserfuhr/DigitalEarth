@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Gustav_Mahler], [OpenCyc:GustavMahler]
+* JahrGang: 1860
+* BirthDay: 07-07
+* LebensEnde: 1911

@@ -1,0 +1,9 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Randy_Katz]
+* DbLp: http://dblp.uni-trier.de/rec/pid/k/RandyHKatz
+* HomePage: http://bnrg.eecs.berkeley.edu/~randy/
+* PageNumber: 6
+* PagePath: LarryPage LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi MichaelStonebraker RandyKatz
+|[FaceBook:1241523]
+
+BerkeleyEdu

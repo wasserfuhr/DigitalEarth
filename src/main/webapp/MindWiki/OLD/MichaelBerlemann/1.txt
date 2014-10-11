@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* HomePage: http://www.hsu-hh.de/berlemann/
+* MindSkill: PredictionMarket

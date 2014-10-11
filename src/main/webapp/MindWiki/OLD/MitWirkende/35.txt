@@ -1,0 +1,22 @@
+Bisherige MitWirkende:
+
+||MindId||1)||OrderedByShares ||svn     ||MindMac||SecondLife                      ||XingLe                  ||BlogLines                ||DelIcioUs
+|1|x|RainerWasserfuhr |rainer   |neptun  |[SecondLife:Ted_Christensen]     |[Xing:Rainer_Wasserfuhr] |[BlogLines:rainer]        |[DelIcioUs:rainer]
+|3| |DanielPoodratchi |daniel   |adonis  |[SecondLife:Daniel_Foysten]      |[Xing:Daniel_Poodratchi] |[BlogLines:danieleP]      |[DelIcioUs:daniele85]
+|5| |AndreasWeigel    |andreasw |othello |[SecondLife:B4d4_Bing]           |[Xing:Andreas_Weigel10]  |[BlogLines:diplomate]     |[DelIcioUs:weigel]
+| |x|OliverGassner    |         |        |[SecondLife:Oliver_Gassner]      |[Xing:Oliver_Gassner]    |[BlogLines:OliverG]       |[DelIcioUs:oliverg]
+|2|x|YvonneSchubert   |yvonne   |nana    |                                 |[Xing:Yvonne_Schubert]   |[BlogLines:yvonneschubert]|[DelIcioUs:Perl]
+| | |TimBonnemann     |tim      |        |[SecondLife:Intrepid_Replacement]|[Xing:Tim_Bonnemann]     |                          |[DelIcioUs:tbonnemann]
+|4| |RicardaDHerbrand |         |        |                                 |[Xing:RicardaD_Herbrand] |                          |
+| | |DimitriUwarov    |dimitri  |        |[SecondLife:??]                  |[Xing:Dimitri_Uwarov]    |                          |
+| | |JensWegerle      |         |        |                                 |                         |                          |
+| | |JuergenKohn      |juergen  |        |[SecondLife:??]                  |[Xing:Juergen_Kohn]      |                          |
+| | |AlexanderGola    |         |        |                                 |[Xing:Alexander_Gola]    |                          |
+| | |HagenStanek      |hagen    |        |[SecondLife:Huge_Norie]          |                         |                          |
+| | |ChristineSchlinck|tine     |triton  |[SecondLife:Clarisse_Schumann]   |[Xing:Christine_Schlinck]|                          |
+
+1) Gesellschafter der VebMind.
+
+Hinzukommen können eventuell:
+* Michael B. - JSP, JS Developer
+* AurelienEyoum - CSS & HTML, https://www.xing.com/profile/Aurelien_Eyoum/

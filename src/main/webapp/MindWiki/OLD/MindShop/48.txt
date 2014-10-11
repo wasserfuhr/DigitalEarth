@@ -1,0 +1,18 @@
+Der MindShop ist die zentrale Verkaufsplattform für UnterNehmen und BuergerInnen in NooPolis.
+
+Zur Zeit im Angebot:
+||ProDukt           ||AnBieter       ||KayGroschen|| ||Service ||noch verfügbar
+|LockSchuppen-BeSuch|LockSchuppenAg  |PreisTafel| |             |
+|SingularBachelor   |RainerWasserfuhr|     2.000| |             |3
+|OpenConsult        | | ab 1.000| |             |
+|TheMatrix auf HdDvd| |      VHB| |             |1
+|StartUpSim         | |   99.999| |             |2
+|NacktSichtBrille   | |   10.000| |             |3
+|MindBanner         | |    2.000| |1 Monat      |1
+|EheRinge           | |    1.000| |             |
+|LiebesRinge        | |      100| |             |
+|KnisterRinge       | |       10| |             |
+|MethusalemKompott  | |    1.000| |             |1
+|RockTheTram        | |      189| |2 Tickets    |17
+
+Getätigte Käufe im MindShop werden als UmSatz protokolliert.

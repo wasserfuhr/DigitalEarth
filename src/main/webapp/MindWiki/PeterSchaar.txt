@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Peter_Schaar]
+* BornIn: 1954
+* MindSkill: DatenSchutz
+* DbLp: http://dblp.uni-trier.de/rec/pid/97/2776

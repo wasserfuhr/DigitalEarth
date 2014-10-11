@@ -1,0 +1,16 @@
+;
+;
+;{{{
+
+((defn facebook []
+    (str "
+    <fb:dashboard> 
+      <fb:action href='new.php'>Create a new photo album</fb:action> 
+    </fb:dashboard>
+    
+<fb:request-form type='friends connection' content='hello MindBroker' invite='true'
+                 action='http://apps.facebook.com/mindbroker'>
+  <fb:multi-friend-selector rows='4' actiontext='Connect yourself with other CitiZens' />
+</fb:request-form>")))
+
+;}}}

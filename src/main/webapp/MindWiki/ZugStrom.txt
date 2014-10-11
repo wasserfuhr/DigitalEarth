@@ -1,0 +1,9 @@
+http://twitter.com/PickiHH/statuses/224417412 : "man müsste mal ein *Welcher Zug hat Strom* Wiki machen..."
+
+was hiermit geschieht ...
+
+||Zug    ||Strom?
+|ICE 2070| ja
+| EC  172| nein
+
+Was wäre der richtige PrimaryKey? Zum Beispiel ICE 203 oder besser die ID des individuellen Zuges?

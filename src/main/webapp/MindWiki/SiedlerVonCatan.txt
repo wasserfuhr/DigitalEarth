@@ -1,0 +1,6 @@
+* InterWiki: [DeWikiPedia:Die_Siedler_von_Catan]
+
+||ComPare ||SiedlerVonCatan||NooPolis
+|MindOne  |KlausTeuber     |RainerWasserfuhr
+|Players  |3-6             |>=1
+|         |Gold            |KayGroschen

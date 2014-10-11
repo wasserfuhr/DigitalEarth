@@ -1,0 +1,12 @@
+* IsA: FamilyName
+* NamedAfter: OtWasserfuhr
+
+WernerWasserfuhr AgnesWasserfuhr RainerWasserfuhr RainerWasserfuhr2 ManuelaAmann EtAl
+
+||#User||SocialNetwork||
+|65|StayFriends|
+|64|WerKenntWen|[*|http://www.wer-kennt-wen.de/users/proSearch/sort/userSearch/0/0/0/lastName/Wasserfuhr/gender/0/birthyear/0/city_select/all]
+|44|FaceBook   |[*|http://www.facebook.com/search/?flt=1&q=wasserfuhr]
+|39|StudiVz    |[*|http://www.studivz.net/Search/SearchGlobal/name/Wasserfuhr/doSearch/1
+|19|XingLe     |[*]
+|4 |TwittEr    |

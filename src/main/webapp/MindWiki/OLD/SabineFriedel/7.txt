@@ -1,0 +1,8 @@
+* IsA: PerSon
+* BornIn: 1974
+* BirthDay: 04-05
+* ViAf: http://viaf.org/viaf/30272976
+* ParteiWiki: SpdWiki
+|[TwittEr:sabinefriedel]
+|[XingLe:Sabine_Friedel4]
+|[FaceBook:1375521408]

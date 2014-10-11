@@ -1,0 +1,18 @@
+%%( padding-left: 400px; font-size:90%)
+"This company is built on Wikis" - Shashi Seth, Product Manager, Search Quality, GoogleInc; bei der WikiSym 2005, SanDiego. 
+%%
+
+!Willkommen bei MindBroker
+
+MindBroker ist ein VirtuellesUnternehmen in der digitalen Republik NooPolis. Es erforscht, erfindet, baut und lebt neue Konzepte für VirtuelleOekonomie'n und SocialNetworks der nächsten und übernächsten Generation. Wir sind noch nicht für JederMann, geben aber hier erste Einblicke, wie wir wirken:
+
+* MitWirkende
+* WieWirWirken
+* WerdeMindBroker und dann MitWirken:
+* MindBlog
+* wichtigste Projekte:
+** NooPolis, eine VirtuelleOekonomie und Republik
+** MindMe, persönliche Wikis
+** DoItProject, webbasierte Todo-Listen
+* UnsereGeschichte
+* Unser WikiNode verbindet uns zu benachbarten Wikis.

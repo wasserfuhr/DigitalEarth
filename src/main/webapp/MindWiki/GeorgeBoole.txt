@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* BornIn: 1815
+* BirthDay: 11-02

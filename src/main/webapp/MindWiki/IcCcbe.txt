@@ -1,0 +1,3 @@
+* IsA: EventSeries
+
+http://www.isccbe.org/modules/tinycontent4/index.php?id=1

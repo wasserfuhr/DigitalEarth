@@ -1,0 +1,8 @@
+* MindTags: MindPlace
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.067942&lon=13.770412&zoom=18&layers=B000FTF ToDo
+* BoundingBox: 20
+* MindCount: 1.2
+
+MeMo:
+* 20090303:1500-1710: RainerWasserfuhr, YvonneSchubert, JeMand, JeMand, JeMand: NapfKuchen, GriebenSchmalz, TwittEr, QiMonda, YagNi, DomainModel, FaceBook, FriedrichNietzsche, AdiDas, MindId, StudiVz, FremdSprache, XingLe, DatingWiki, FirstThingsFirst, NooPolis, SecondLife, TeslaMotors, SteveInSpace, OvoLotto
+* 20090219:1500-1815: RainerWasserfuhr, JeMand, JeMand: FaceBook, MarkZuckerberg, GriebenSchmalz, ClieSe, NeoLayout, HypeCycle

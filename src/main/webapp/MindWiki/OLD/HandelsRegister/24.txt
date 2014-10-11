@@ -1,0 +1,23 @@
+UnterNehmen auf dem HoheitsGebiet von NooPolis:
+||UnterNehmen  ||RechtsForm   ||UnternehmensGruender
+|PieschenBank  |StaatsBetrieb |RainerWasserfuhr
+|MindBroker    |UnLimited     |RainerWasserfuhr
+
+Kandidaten:
+* DueckWiki (ErWartung von RainerWasserfuhr: 2010 1000 Leser/Tag)
+* PengAg
+* LearnToUse
+* EdelBild (ErWartung von RainerWasserfuhr: 2010 1m EUR)
+* MindBau
+* SynAxon
+* KuhVz
+* OsCar
+* CoreMedia (ErWartung von RainerWasserfuhr: 2010 25m EUR)
+* CelliTy
+* GimmahHot (ErWartung von RainerWasserfuhr: 2010 5m EUR)
+* MapChart
+* OtherlandGroup
+
+Besonders geeignet sind Kandidaten mit
+* OpenSource-SourceCode
+* WikiBasiert'em BusinessPlan

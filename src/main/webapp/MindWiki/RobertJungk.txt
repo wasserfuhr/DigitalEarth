@@ -1,0 +1,6 @@
+* IsA: HonoraryProfessor
+* InterWiki: [DeWikiPedia:Robert_Jungk]
+* BornIn: 1913
+* BirthDay: 05-11
+* DiedIn: 1994
+* MindQuote: Wer seiner Zeit VorAus ist, bleibt oft JahreLang außer HoerWeite

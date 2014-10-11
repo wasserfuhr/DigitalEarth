@@ -1,0 +1,6 @@
+SocialBackup of the PieschenBank:
+{{{
+zip -rq /home/insider/apache-tomcat-6.0.14/webapps/ROOT/bank.zip /home/bank/derbyDatabase/
+md5sum /home/insider/apache-tomcat-6.0.14/webapps/ROOT/bank.zip
+ls -l /home/insider/apache-tomcat-6.0.14/webapps/ROOT/bank.zip 
+}}}

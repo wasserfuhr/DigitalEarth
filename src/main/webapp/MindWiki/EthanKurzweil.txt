@@ -1,0 +1,4 @@
+* IsA: PerSon
+* ChildOf: RayKurzweil
+|[TwittEr:ethankurz]
+|[FaceBook:206117]

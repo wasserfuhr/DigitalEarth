@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* JahrGang: 1904
+* LebensEnde: 1974
+* ViAf: http://viaf.org/viaf/109

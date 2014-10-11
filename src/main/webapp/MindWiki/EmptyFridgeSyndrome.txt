@@ -1,0 +1,8 @@
+RainerWasserfuhr and his WikiTchen suffer from EFS (empty fridge syndrome)
+
+FrankLorenz suggests to lunch a SocialNetwork for people suffering from empty fridge syndrome, one could share pictures and stuff
+
+members:
+# RainerWasserfuhr
+# FrankLorenz
+# ...

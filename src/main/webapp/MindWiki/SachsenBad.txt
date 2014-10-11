@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Sachsenbad]
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/32570617

@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Friedemann_Schulz_von_Thun]
+* BornIn: 1944
+* BirthDay: 08-06
+* MindFaves: HermannHesse

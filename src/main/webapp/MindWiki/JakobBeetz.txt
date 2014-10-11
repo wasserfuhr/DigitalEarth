@@ -1,0 +1,8 @@
+* IsA: PerSon
+* BornIn: 1974
+* BirthDay: 12-24
+* DbLp: http://dblp.uni-trier.de/rec/pid/88/537
+* HomePage: http://www.spatialknowledge.com/about_beetz.shtml
+* PageNumber: 6
+* PagePath: LarryPage HectorGarciaMolina GerhardWeikum AmrElAbbadi ChengyuSun BaukeDeVries JakobBeetz
+|[XingLe:Jakob_Beetz]

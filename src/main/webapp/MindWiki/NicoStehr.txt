@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Nico_Stehr]
+* BornIn: 1942
+
+NoBirthday

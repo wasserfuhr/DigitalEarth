@@ -1,0 +1,3 @@
+Hat eine Szene in der JohnNash einen MindMatrix-artigen Himmel sieht.
+
+Die TotalRecall's sind ähnlich: sie semantifizieren den Raum. Pattern erhalten eine DenkKoordinate.

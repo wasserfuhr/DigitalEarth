@@ -1,0 +1,6 @@
+* IsA: SingularityMind
+* InterWiki: [DeWikiPedia:Eric_Drexler]
+* BornIn: 1955
+* BirthDay: 04-25
+* HomePage: http://metamodern.com/
+* MindSkill: NanoAssembler

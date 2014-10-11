@@ -1,0 +1,5 @@
+* MindTags: NobelPreis
+* InterWiki: [DeWikiPedia:Thomas_Mann], [OpenCyc:ThomasMann]
+* JahrGang: 1875
+* BirthDay: 06-06
+* LebensEnde: 1955

@@ -1,0 +1,8 @@
+* MindTags: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Mark_Zuckerberg]
+* JahrGang: 1984
+* BirthDay: 05-14
+* HasTalked: PeterThiel
+* LandingPage: FaceDollar
+||AusLand
+|[FaceBook:4]

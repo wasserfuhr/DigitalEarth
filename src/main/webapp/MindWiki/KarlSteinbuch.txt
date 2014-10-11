@@ -1,0 +1,9 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Karl_Steinbuch]
+* JahrGang: 1917
+* BirthDay: 06-15
+* LebensEnde: 2005
+* DbLp: http://dblp.uni-trier.de/rec/pid/11/975
+* PageNumber: InFinite
+
+coined "InforMatik"

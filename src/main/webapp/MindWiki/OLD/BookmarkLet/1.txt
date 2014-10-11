@@ -1,0 +1,13 @@
+* InterWiki: [DeWikiPedia:Bookmarklet]
+
+DelIcioUs:
+{{{
+javascript:location.href='http://delicious.com/rainer?v=3&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title)
+}}}
+
+BlogLines:
+{{{javascript:location.href='http://www.bloglines.com/sub/'+location.href}}}
+
+DbLp -> MindWiki:
+{{{ToDo
+}}}

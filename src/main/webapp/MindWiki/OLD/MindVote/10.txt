@@ -1,0 +1,26 @@
+später als WebApp unter http://vote.mindbroker.de
+
+!SportPortal?
+||Voter          ||Vote
+|RainerWasserfuhr|ja
+|YvonneSchubert  |nein
+
+!!Wann soll das SingularCamp stattfinden?
+||Voter          ||Vote
+|RainerWasserfuhr|20071102
+
+
+!WichtigeBrowser: Nur FireFox?
+||Voter          ||Vote
+|RainerWasserfuhr|ja
+|DimitriUwarov   |nein
+
+!MindCal oder MindCalendar?
+||Voter          ||Vote
+|RainerWasserfuhr|cal
+|YvonneSchubert  |cal
+
+!AlexWipperfuerth
+Wieviele Aktien hat AlexWipperfuerth als Geschenk verdient, damit er echt MindBroker wird?
+||Voter          ||Vote
+|RainerWasserfuhr|10

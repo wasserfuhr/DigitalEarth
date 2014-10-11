@@ -1,0 +1,17 @@
+* IsA: MindEvent
+* WikiLender: 2011-06-23
+* MindPlace: NeuStadt
+
+||Platz|| ||1 ||2||3||4||5||6||7||8
+||Reihe||Preis/Sitzplatz|| || || || || || || ||
+||16|| 1 KayGroschen    |  |  |  |  |  |  |  |  
+||15|| 2 KayGroschen    |  |  |  |  |  |  |  |
+||14|| 4 KayGroschen    |  |  |  |  |  |  |  |
+||13|| 8 KayGroschen    |  |  |  |  |  |  |  |
+||12||  16 KayGroschen  |  |  |  |  |  |  |  |
+||11||  32 KayGroschen  |  |  |  |  |  |  |  |
+||10||  64 KayGroschen  |  |  |  |  |  |  |  |
+||..||    | |
+||3|| 8192 KayGroschen  |  |  |  |  |  |  |  |
+||2||16384 KayGroschen  |  |  |  |  |  |  |  |
+||1||32768 KayGroschen  |  |  |  |  |  |  |  |

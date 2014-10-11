@@ -1,0 +1,20 @@
+* InterWiki: [WikiPedia:Mind_uploading]
+
+[http://future.wikia.com/wiki/Scenario:_Uploading]
+
+!UpLoad size
+How much memory will an average MiNd require under the assumption of __optimal__ ComPression?
+Some quick __upper-bound__ estimates: 
+* MindPeople: 20.000 people which can be recognized (real and fictional, personal contacts and celebrities)
+* MindThing's: 5.000 (Clothes in your bin, cutlery in our WikiTchen etc)
+* MindPlace's: 2.000 places, rooms or landscapes (real and fictional)
+* WortSchatz: 20.000 words and names
+* EpisodicMemory: Events, trips, meetings, related emotions
+* Acoustic: 2.000 melodies, noises and voices
+* Taste: 500 different tastes of food, beverages etc
+* Smell: 500 different smells of flowers, animals, people
+
+How to build a digital model of a human brain?
+
+Would it be possible to increase the completeness of a DigitalTwin ExPo'nentially
+before reaching the estimated EndOfLife?

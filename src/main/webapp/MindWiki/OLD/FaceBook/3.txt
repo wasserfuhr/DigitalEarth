@@ -1,0 +1,4 @@
+Ein SocialNetwork. 
+
+* HeadQuarters: PaloAlto. 
+* UnternehmensGruender und MindOne: MarkZuckerberg 

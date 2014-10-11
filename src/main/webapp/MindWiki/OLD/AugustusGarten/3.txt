@@ -1,0 +1,20 @@
+* MindTags: MindPlace
+* HomePage: http://www.augustusgarten.de/
+* BreitenGrad: 51.057013
+* LaengenGrad: 13.74177
+* BoundingBox: 64
+* GraDient: 20
+* SlimNess: 0.5
+
+TotalRecall: (18:00 bis ~23:00)
+
+SportPortal, StudiVz, DresdenChess, TomFriedman,
+WechselKurs, BegruessungsGeld,
+PuffCafe, TzDresden, WikiSym, SanDiego, TotalRecall, SemanticWiki, LongBetOne,
+HausHalt, KayGroschen, MindId, BdCs, MindPlace, PredictionMarket,
+GlaeserneBank, ProFessor, ArTelligence, ResearchSabbatical08,
+ObWahlDresden08, DirkHilbert, WaldSchloesschenBruecke, CamelCase, SapAg,
+PolyTreu, KunstSprache, InterWiki, PriVat, SchwedtOder, KonTacts, XingLe, 
+LebensErwartung, ZeppelinUniversity, 
+DirkBaecker, StartUpSim, OtherLand, LoicLeMeur, BarCamp,  MindDoping, BioMind, TerraFlops,
+LiebesRinge.

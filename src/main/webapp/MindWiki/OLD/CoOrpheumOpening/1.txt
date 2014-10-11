@@ -1,0 +1,9 @@
+* IsA: MindEvent
+* FbEvent: http://www.facebook.com/event.php?eid=123184694360378
+
+XingEvent:
+
+
+EventBright?
+
+AmiAndo?

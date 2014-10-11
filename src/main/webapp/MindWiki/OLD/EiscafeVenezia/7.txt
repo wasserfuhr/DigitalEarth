@@ -1,0 +1,15 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Café_Venezia]
+* BreitenGrad: 51.0583
+* LaengenGrad: 13.7416
+* BoundingBox: 40
+
+http://openstreetmap.org/browse/node/292823898
+
+Für viele BuergerInnen der StadtDresden das RabbitHole in die DatingMatrix.
+
+TotalRecall:
+
+* 20080909: YvSc, ChSc, RaWa: ? EnErgie, CarOne
+* 20080907: YvSc, RainerWasserfuhr: OpenCog, NewMind, LebensErwartung, IsKo, InFer
+* 20080827: MaRo, ChristineSchlinck, RainerWasserfuhr: XingLe, FreeHugs, FrozenDresden, ZehnFragen, LunarSteigenberger, SpaceOdyssey, AlleAugenLeben

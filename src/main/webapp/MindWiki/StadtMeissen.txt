@@ -1,0 +1,4 @@
+* IsA: MindCity
+* InterWiki: [DeWikiPedia:Meißen]
+* NearBy: StadtDresden
+* MindOne: OlafRaschke

@@ -1,0 +1,8 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Lutz_Heuser]
+* DbLp: http://dblp.uni-trier.de/rec/pid/78/4429
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd NorbertStreitz RalfSteinmetz MaxMuehlhaeuser AlexanderSchill LutzHeuser
+|[XingLe:Lutz_Heuser2]
+
+SapAg

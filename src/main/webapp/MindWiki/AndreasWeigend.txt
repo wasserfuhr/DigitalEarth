@@ -1,0 +1,7 @@
+* IsA: PerSon
+* HomePage: http://weigend.com/
+|[TwittEr:aweigend]
+|[XingLe:Andreas_Weigend]
+|[FaceBook:215835]
+
+WorkedFor: AmaZon

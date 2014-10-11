@@ -1,0 +1,11 @@
+* InterWiki: [WikiPedia:Snake_(video_game)]
+
+AtariSt EliasMorgenstern YouTube
+
+WikiDrivenDevelopment:
+| | | | | | | |X|
+| |*|*|*|*| | | |
+|X| | | |*| | | |
+| | | | |*| | | |X
+| | | | |*|*|*| |
+| |@| | | | | | |

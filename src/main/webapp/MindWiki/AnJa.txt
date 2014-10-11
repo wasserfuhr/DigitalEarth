@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.07006
+* LaengenGrad: 13.72525
+* BoundingBox: 1
+
+http://terraminds.com/twitter/query?query=AnJa

@@ -1,0 +1,5 @@
+* IsA: ProJect
+* HomePage: http://purl.org/goodrelations/
+* MindOne: MartinHepp
+
+SemanticWeb MindShop

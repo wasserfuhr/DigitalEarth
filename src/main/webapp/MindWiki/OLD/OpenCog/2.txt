@@ -1,0 +1,14 @@
+* MindTags: ProJect
+* MindOne: BenGoertzel
+* HomePage: http://www.opencog.org/
+
+NovaMente OpenSource.
+
+Mapping OpenCog terms:
+||MindWiki  |OpenCog                              
+|PageIndex  |http://www.opencog.org/wiki/Atomspace
+|StateMent  |http://www.opencog.org/wiki/PredicateNode
+|IstEin     |http://www.opencog.org/wiki/InheritanceLink
+|PerCeive   |http://www.opencog.org/wiki/PerceptNode
+|WikiLender |http://www.opencog.org/wiki/Current_events
+|SandBox    |http://www.opencog.org/wiki/Sandbox

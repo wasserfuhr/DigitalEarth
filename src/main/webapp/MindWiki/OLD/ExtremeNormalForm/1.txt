@@ -1,0 +1,13 @@
+{{{
+Deine Klassen sind klein und Deine Methoden sind klein; Du hast alles gesagt OnceAndOnlyOnce und Du hast das letzte Stück unnützen Codes entfernt.
+
+Irgendwo fern steht ein Aikido-Meister in einem stillen Raum. Er ist zentriert.. bewußt.. bereit für alles.
+
+Draussen schüttelt eine Sprinterin ihre Beine und kniet in den Startblock, auf den Schuß der Pistole wartend, während ein kalter Wind über die Planche streicht.
+
+Sanft erklingt eine Glocke. Alle Deine Tests haben passiert.
+
+Dein Code ist ein ExtremeNormalForm. Für heute zugeschnitten und souverän, morgen zuzuschlagen.
+}}}
+
+(übersetzt von [WikiWikiWeb:ExtremeNormalForm] von RainerWasserfuhr für eine INFJ)

@@ -1,0 +1,5 @@
+* IsA: EnterPrise
+* InterWiki: [DeWikiPedia:Spreadshirt]
+* FoundedBy: LukaszGadowski
+* MindOne: JanaEggers
+* HeadQuarters: StadtLeipzig

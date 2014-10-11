@@ -1,0 +1,2 @@
+Idee: Selbst im Falle der physikalischen Zerstörung des MindHoster-Datacenters (zB nach MondBeben) kann die komplette
+Infrastruktur mittels SocialBackup wiederhergestellt werden.

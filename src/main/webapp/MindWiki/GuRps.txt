@@ -1,0 +1,6 @@
+* InterWiki: [DeWikiPedia:GURPS]
+
+||ComPare||GuRps||NooPolis
+| |character points|KayGroschen
+| |skills |MindSkill
+| |combat |EditWar

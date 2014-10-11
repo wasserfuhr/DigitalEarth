@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/r/SJRussell
+* HomePage: http://www.cs.berkeley.edu/~russell/
+* PageNumber: 9
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge BarneyPell MichaelGenesereth DavidAndre StuartRussell

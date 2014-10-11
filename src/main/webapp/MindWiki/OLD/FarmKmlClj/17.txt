@@ -1,0 +1,58 @@
+;
+;
+;{{{
+
+((defn farmKml []
+  (do
+   (.setContentType response "application/vnd.google-earth.kml+xml")
+   (str "<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2' xmlns:gx='http://www.google.com/kml/ext/2.2' xmlns:kml='http://www.opengis.net/kml/2.2' xmlns:atom='http://www.w3.org/2005/Atom'>
+<Document>
+  <name>MindFarm</name>
+  <open>1</open>
+  <Style id='transYellowPoly1'>
+    <LineStyle>
+      <width>1.5</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7d00ffff</color>
+    </PolyStyle>
+  </Style>
+  <Style id='transDarkPoly1'>
+    <LineStyle>
+      <width>1.5</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>202020ff</color>
+    </PolyStyle>
+  </Style>"
+
+(apply str
+ (map (fn [lat]  
+  (apply str
+   (map (fn [lon]
+  (str "
+  <Placemark>
+   <name>MindPiece" lon "x" lat "</name>
+    <styleUrl>#transYellowPoly1</styleUrl>
+    <Polygon>
+        <tessellate>1</tessellate>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+           <coordinates>
+             " (+ (* 0.0001 lon) 13.7401) "," (- 51.0676 (* 0.0001 lat)) ",0
+             " (+ (* 0.0001 lon) 13.7402) "," (- 51.0676 (* 0.0001 lat)) ",0
+             " (+ (* 0.0001 lon) 13.7402) "," (- 51.0677 (* 0.0001 lat)) ",0
+             " (+ (* 0.0001 lon) 13.7401) "," (- 51.0677 (* 0.0001 lat)) ",0
+           </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+   </Polygon>
+  </Placemark>"))
+  (range 16))))
+ (range 10)))
+" </Document>
+</kml>"))))
+
+;}}}

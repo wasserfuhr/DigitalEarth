@@ -1,0 +1,32 @@
+||FamilienfreundBanner    ||WerbeOrt        ||Größe      ||Homepage      ||Dauer     ||verfügbar ||kaufen
+|SkyScraper     |StartSeite       | 120 x 600  |familienFreunde| 1 Monat   | 3         |MindShop
+|HalfBanner     |StartSeite       | 234 x 60   |familienKatalog| 1 Monat   | 5         |MindShop
+|HalfBanner     |Liste Angebote   | 234 x 60   |familienKatalog| 1 Monat   | 5         |MindShop
+|HalfBanner     |Detailseite      | 234 x 60   |familienKatalog| 1 Monat   | 5         |MindShop
+
+
+
+1. anliefeRung
+* bitte senden sie uns ihr werbemittel bis 3 tage vor dem gewünschten kampagnenstart per e-mail an
+  news@familienfreund.de
+* geben sie den kunden- und kampagnennamen, ihre kontaktdaten sowie eine telefonnummer für rückfragen an\\
+
+
+2. reporting durch die familienFreund
+* die familienfreund kg nutzt die ad-server-technologie phpadsnew. über den ad-server verwalten
+  wir vollautomatisch die gebuchten werbeplätze
+* für jeden kampagnenbetreiber wird eine eigene kampagne angelegt. die banner für den auftritt im     
+  familienkatalog werden über tagging entprechend den folgenden kategorien zugeordnet\\
+\\
+
+
+0 =kita, 99=kindertagespflege, 02=grundschule, 03=mittelschule, 04=gymnasien,
+05=förderschule 06=berufsschule, 07=sozialstation, 08=pflegeheim, 09=betreutes wohnen,
+10=begegnungsstätten, 11=obdachlosenheim, 12=pflegedienst, 13=freizeiteinrichtung, 14=beratungsstelle,
+15=kinderheim, 16=hebammen 17=recht 18=therapeuten 20=ärzte\\
+\\
+
+
+* jeder kunde erhält wöchentlich berichte und statistiken automatisch in sein e-mail-postfach
+mit entsprechend aufgelisteten ad-views und ad-clicks sowohl in der gesamtanzahl als auch
+täglich protokolliert.

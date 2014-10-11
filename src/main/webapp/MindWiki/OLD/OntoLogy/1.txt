@@ -1,0 +1,16 @@
+* NamedEntity
+** EnterPrise
+** EventSeries
+** MindEvent
+** MindPet
+** MindPlace
+** MindThing
+** PerSon
+*** MinisTer
+*** NobelPrizeLaureate
+*** ProFessor
+*** SingularityMind
+*** UnterNehmer
+**** UnternehmensGruender
+*** WikiMind
+*** WunderKind

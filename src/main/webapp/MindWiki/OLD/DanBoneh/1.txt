@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Dan_Boneh]
+* JahrGang: 1969
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/DanBoneh
+* ViAf: http://viaf.org/viaf/44198240
+* HomePage: http://theory.stanford.edu/~dabo/
+
+ViafBug: http://viaf.org/viaf/45248826

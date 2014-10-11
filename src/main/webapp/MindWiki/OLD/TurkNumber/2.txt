@@ -1,0 +1,10 @@
+The TurkNumber is similar to the ErdosNumber, but dedicated the ZigaTurk, the first Minister of EurOpa who startet
+to TwittEr in September 2007: http://twitter.com/zigaturk/statuses/285648532
+
+!TurkNumber=0
+
+!TurkNumber=1
+* MattiHannus
+* RaimarScherer
+* RainerWasserfuhr
+* RobertAmor

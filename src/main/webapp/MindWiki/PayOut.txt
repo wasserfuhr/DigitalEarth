@@ -1,0 +1,2 @@
+||EnterPrise     ||Receiver    ||Costs
+|MindBroker      |OliverGassner|5% MindShare

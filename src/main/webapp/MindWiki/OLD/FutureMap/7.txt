@@ -1,0 +1,88 @@
+* MindTags: MitMachSache
+
+Die Grundidee der FutureMap: ZuKunft greifbarer machen.
+Die Folgen des AcCelerate'ing Change für das eigene Leben vor Augen führen.
+
+We want to invent, dream and predict the future of NooPolis, PlanetEarth and the entire NooSphere.
+
+Therefore we use FutureCard's, which are arranged on a TimeLine by our CitiZens.
+Each FutureCard has:
+* a page in the MindWiki (with a unique PageName)
+* a CardOwner
+* an "UnTil"-value which has to be defined by the CardOwner
+
+||Card                 ||Year||Owner
+|FurchtloseZehntausend |2010|HeikeRibke
+|GoogleFog             |2018|ChristineSchlinck
+|ComputerGo            |2019|MartinRoell
+|LongBetOne            |2030|MartinRoell
+|LunarSteigenberger    |2040|RainerWasserfuhr
+|TuiLuna               |2050|ChristineSchlinck
+|TheSingularity        |2050|JustinRattner
+
+!Ownerless FutureCard's:
+|2009|EarthLife
+|2010|MindTowerZwo
+|2010|SemanticEconomy
+|2012|GoogleLife
+|2012|LifeCellOne
+|2012|LummaTuete
+|2012|MindShift
+|2012|PieschenerRevolution
+|2012|PolyBody
+|2012|SleepLess
+|2014|PieschenTower
+|2015|EigenRisk
+|2015|ElbOper
+|2015|GrueterichInternationalAirport
+|2015|KoalaBaerSteak
+|2015|MindEyes
+|2015|OneLaptopPerMind
+|2015|PieschenPalast
+|20151231|MindTower-Baubeginn
+|2018|NanoBoro
+|2019|SystemClash
+|20200401|GruenesWunder
+|2020|GeheimProjekt
+|2020|MindTower
+|2020|MindWater
+|2020|TransRapid
+|2020|WyrdMind
+|2022|TrueLove
+|20230831|RealFilm-Premiere
+|2025|GlaesernerMensch
+|2028|NewMind
+|2029|LongBetOne
+|2030|GoogleMind
+|2035|AlleAugenLeben
+|2035|BioMind
+|2042|MindSummit
+|2047|LebensErwartung von RainerWasserfuhr
+|2050|FruchtBlase
+|2050|NooSphere
+|2054|LebensErwartung von ChristineSchlinck
+|2065|LebensErwartung von YvonneSchubert
+|2100|GlobusCassus
+
+More cards:
+* FurchtloseTausend
+* MindTowerZwo
+* GoogleSpaceTower
+* PieschenTower
+* ElbOper
+* SleepLess
+* FurchtloseMillion
+* NacktSichtBrille
+* MindTower
+* GoogleLife
+* GlaesernesUnternehmen
+* GlaeserneBank
+* WeltSprache
+* GoogleMind
+* GoogleMindPro
+* CraigKriek
+* ImMortal
+* GlaesernerMensch
+* UpLoad
+* HiltonCentauri
+* MgmGrandOrion

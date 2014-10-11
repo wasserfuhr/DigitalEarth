@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/w/DanielJWeitzner
+* HomePage: http://www.w3.org/People/Weitzner.html
+* FoAf: http://www.w3.org/People/djweitzner/public/foaf.rdf
+* PageNumber: 6
+* PagePath: LarryPage SergeyBrin MonikaHenzinger DavidEppstein JoanFeigenbaum TimBl DanielWeitzner

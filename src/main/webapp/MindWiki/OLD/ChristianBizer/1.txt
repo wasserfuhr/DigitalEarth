@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* HomePage: http://www.wiwiss.fu-berlin.de/en/institute/pwo/bizer/
+* MindSkill: SemanticWeb

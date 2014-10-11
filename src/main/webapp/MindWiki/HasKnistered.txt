@@ -1,0 +1,15 @@
+Aruba
+DuBai
+FriedrichStrasse
+GrueterichEins
+KaisersLautern
+KamenzerStrasse
+KatharinenStrasse
+SanMateo
+StadtBerlin
+StadtKoeln
+StadtMuenchen
+StadtWien
+WaldRohrBach
+WilhelmRaabeStrasse
+WirkZentrum

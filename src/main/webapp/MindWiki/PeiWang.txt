@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/83/4555
+* HomePage: http://sites.google.com/site/narswang/PeiWangCV
+* MindSkill: ArTelligence
+* PageNumber: 11
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy MartinWirsing StephenGilmore JaneHillston NilGeisweiller BenGoertzel PeiWang

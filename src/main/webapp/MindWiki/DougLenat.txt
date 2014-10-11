@@ -1,0 +1,10 @@
+* IsA: UnternehmensGruender
+* MindQuote: "IntelLigence is ten million rules."
+* InterWiki: [WikiPedia:Douglas_Lenat]
+* JahrGang: 1950
+* DbLp: http://dblp.uni-trier.de/rec/pid/68/5550
+* DbLp: http://viaf.org/viaf/93987822
+* HasTalked: EdwardFeigenbaum
+* MindSkill: ArTelligence
+* PageNumber: 5
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy EdwardFeigenbaum DougLenat

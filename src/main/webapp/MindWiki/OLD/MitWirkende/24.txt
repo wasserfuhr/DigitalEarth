@@ -1,0 +1,15 @@
+Bisherige MitWirkende:
+
+||Name            ||svn     ||MindMac||SecondSports                   ||Xing                    ||BlogLines                ||DelIcioUs
+|RainerWasserfuhr |rainer   |neptun  |[SecondSports:Ted_Christensen]  |[Xing:Rainer_Wasserfuhr] |[BlogLines:rainer]        |[DelIcioUs:rainer]
+|DanielPoodratchi |daniel   |adonis  |[SecondSports:Daniel_Foysten]   |[Xing:Daniel_Poodratchi] |[BlogLines:danieleP] |[DelIcioUs:daniele85]
+|AndreasWeigel    |andreasw |othello |[SecondSports:B4d4_Bing]        |[Xing:Andreas_Weigel10]  |[BlogLines:diplomate]     |[DelIcioUs:weigel]
+|OliverGassner    |oliver   |        |[SecondSports:Oliver_Gassner]   |[Xing:Oliver_Gassner] 
+|YvonneSchubert   |yvonne   |nana    |                              |[Xing:Yvonne_Schubert]   |[BlogLines:yvonneschubert]|[DelIcioUs:Perl]
+|ChristineSchlinck|tine     |triton  |[SecondSports:Clarisse_Schumann]|[Xing:Christine_Schlinck]|
+|RicardaDHerbrand |         |        |                              |[Xing:RicardaD_Herbrand]|
+|HagenStanek      |hagen    |        |[SecondSports:Huge_Norie]
+
+hinzukommen können eventuell:
+* Michael B. - JSP, JS Developer
+* AurelienEyoum Eyoum - CSS & HTML, https://www.xing.com/profile/Aurelien_Eyoum/

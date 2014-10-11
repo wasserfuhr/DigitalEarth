@@ -1,0 +1,4 @@
+* IsA: PerSon
+* HasTalked: RalfLippold
+|[XingLe:Steffen_Becker5]
+|[TwittEr:BeckerCoaching]

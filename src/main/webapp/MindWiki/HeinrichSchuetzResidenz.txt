@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* NamedAfter: HeinrichSchuetz
+* HomePage: http://www.heinrich-schuetz-residenz.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/relation/90022 ToDo

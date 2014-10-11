@@ -1,0 +1,5 @@
+Vorschläge:
+||Vorname||Nachname||m/f||Name @(*)||Einladungsmaildomain(*)||Einlader||Xing
+|Alexander|Gola      |m|alex|alexander-gola.com               |rainer|https://www.xing.com/profile/Alexander_Gola/|
+|Lisanne  |Malessa   |f| |                                    |daniel|
+(*): Diese beiden Spalten sind getrennt, damit Spambots hier keine Adressen sammeln.

@@ -1,0 +1,51 @@
+* InspiredBy: NoMic FarmVille WorldThree FreeCiv MonopolyCityStreets
+
+The MindFarm is a WikiBased BrowserGame for BootStrap'ping the VirtualEconomy of NooPolis.
+
+Here is how it works:
+* The goal of the MindFarm-BrowserGame is to create a realistic digital SystemDynamics model of PlanetEarth, with different parameters, both of ToDay and the remaining TwentyFirstCentury.
+* All CitiZens of NooPolis can play MindFarm (JoinNow).
+* Our board is PlanetEarth as you can see [here|http://maps.google.com/maps?q=http://noopolis.org/kml]
+* you can buy land in the MindShop.
+
+We have a virtual field: PlanetEarth is subdivided into Units. Each CitiZen can own one or more units. The units have a BoundingBox with latitude and longitude.
+
+The name of each unit is displayed on the WorldMap, e.g.:
+* WorldUnitL1W120N30 (SanFrancisco)
+* WorldUnitL1W70N40 (NewYork)
+* WorldUnitL1E10N50 (FrankFurt)
+* WorldUnitL1E10S30 (CapeTown)
+* WorldUnitL1E130N30 (ToKyo)
+etc
+
+Later on, Units will be subdivided into more detailed layers:
+* L0: entire PlanetEarth (1 unit)
+* L1: size of 10 Degrees of latitude and longitude (18x36 units)
+* L2: 1 Degree (10x10 units)
+* L3: 0.1 Degrees
+* L4: 0.01 Degrees
+* L5: 0.001 Degrees
+* L6: 0.0001 Degrees
+
+On the first level of the MindFarm BrowserGame, you can buy L1-Units.
+
+The owner of a unit has to create as much as possible true facts about his unit.
+Other players can challenge the owner by a MindVote on a fact.
+
+We will start with the following facts:
+* MindCount - number of real people living inside the unit.
+* WaterHandICap - percentage of water surface of the unit.
+* EnErgie - average EnErgie produced on the unit (in Watt).
+* CalculationsPerSecond - average sum of calculations of all PCs and LapTop's (according to LinPack)
+* CarCount - in total numbers
+* ElectroCarCount - in total numbers
+* BikeCount - in total numbers
+* PlaneCount - in total numbers (on average located inside the unit)
+* ConTainer - sum of 20ft and 40ft containers in TwentyFootEquivalentUnit's
+
+Allowed moves:
+* Buy a land unit in the MindShop
+* edit MindProps of the Unit
+* edit the Rules
+* challenge a co-player on a fact
+* vote on a fact

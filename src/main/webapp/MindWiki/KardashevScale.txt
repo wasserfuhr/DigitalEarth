@@ -1,0 +1,11 @@
+* InterWiki: [WikiPedia:Kardashev_scale]
+* NamedAfter: NikolaiKardashev
+
+||FutureModel||[1]||RaWa
+|2000|0.71|
+|2010|0.72|
+|2030|0.73|
+|2040|    |0.74
+|2050|    |0.75
+|2100|    |0.8
+[#1] IAE World Energy Outlook (2005)

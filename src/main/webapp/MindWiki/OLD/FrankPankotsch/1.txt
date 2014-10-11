@@ -1,0 +1,4 @@
+* IsA: PerSon
+* WorksFor: DresdenExists
+* ViAf: http://viaf.org/viaf/72443848
+|[XingLe:Frank_Pankotsch]

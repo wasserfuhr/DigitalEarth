@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* HomePage: http://www.gare-de-la-lune.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/277632560

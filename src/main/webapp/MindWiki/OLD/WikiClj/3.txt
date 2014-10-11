@@ -1,0 +1,11 @@
+;
+;
+;
+;
+;{{{
+
+(
+ (defn wiki [x]
+  (str "HelloWorld" request)
+))
+;}}}

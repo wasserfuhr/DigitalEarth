@@ -1,0 +1,8 @@
+* IsA: MindCity
+* InterWiki: [DeWikiPedia:Tauberbischofsheim]
+* MindOne: WolfgangVockel
+* MindCount: 13000
+* NearBy: WuerzBurg
+* PartOf: BaWue
+
+PeterGreiner RaimarScherer

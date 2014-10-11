@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.04343
+* LaengenGrad: 13.70357
+* BoundingBox: 40
+
+[DdWiki:Chausseehaus]

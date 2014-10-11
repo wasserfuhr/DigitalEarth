@@ -1,0 +1,5 @@
+* IsA: HochSchule
+* InterWiki: [DeWikiPedia:Technische_Universität_Dresden]
+* HomePage: http://tu-dresden.de/
+
+WissensArchitektur CibWiki

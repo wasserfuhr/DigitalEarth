@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* JahrGang: 1873
+* BirthDay: 11-07
+* PapaZwoNull: ChristianBoxberg
+* LebensEnde: 1959

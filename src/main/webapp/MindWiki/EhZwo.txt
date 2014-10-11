@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.07365
+* LaengenGrad: 13.74849
+* BoundingBox: 25
+
+TotalRecall: GinUndSinn, DerAugenblick, FrozenDresden, DresdenChess, GoogleFluse, SmnTheorem

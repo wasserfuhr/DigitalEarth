@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/88/6396
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd NorbertStreitz RalfSteinmetz PeterSander CatherineFaronZucker AlainZarli
+
+CsTb

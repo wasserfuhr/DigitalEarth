@@ -1,0 +1,29 @@
+* MindTags: ErZaehlung
+* InterWiki: [BiblioNetz:w00862], [WebSeitz:MooresLaw], [WikiPedia:Moore's_Law], [WikiWikiWeb:MooresLaw]
+
+Es dauerte viele Jahre, bis der seidene Faden RainerWasserfuhr wieder
+begegnete. Empirisch gab es scheinbar fast nichts, das sich
+über längere Zeit ExPo'nentiell in RaumUndZeit ausbreiten konnte.
+Die Exponentialfunktionen waren lediglich handliche, aber mächtige Instrumente,
+um etwa Wahrscheinlichkeitsverteilungen oder physikalische Schwingungsfälle zu
+analysieren. Oder doch?
+GordonMoore hatte also die Verdopplung der Packungsdichte von Transistoren
+beobachtet. In Vorbereitung eines Vortrags über WissensManagement im Jahre 2005
+hatte RainerWasserfuhr sich den Spaß gemacht, MooresLaw anhand der eigenen
+Rechner, die er in den letzten fast 20 Jahren besessen hatte, zu verifizieren. 
+Und siehe da: Es zeichneten sich bei den meisten technischen Parametern
+schöne exponentielle Wachstumskurven ab.
+Zur Veranschaulichung hatte er sie auf eine logarithmische Skala 
+gezeichnet, wo sie schöne Geraden ergaben.
+Doch was bedeutete dies? Würde dies immer so weiter gehen?
+
+War unsere Fantasie in der Lage, sich eine immer weiter
+exponentiell beschleunigte ZuKunft vorzustellen? Mit OptoPuter und QuantPuter?
+
+Es gehört zu den Grundleistungen unseres Gehirns, sich ein
+konstantes Bild von der uns umgebenden Wirklichkeit zu machen.
+Diese Objektpermanenz ermöglicht uns, dass wir den Schlüssel dort
+wiederfinden, wo wir ihn am Vortag hingelegt haben.
+
+Es könnte aber ein Trugschluss sein, die gesamte Wirklichkeit als eine Konstante anzunähern.
+Think __UbiComp__.

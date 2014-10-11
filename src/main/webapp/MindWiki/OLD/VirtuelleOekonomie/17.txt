@@ -1,0 +1,21 @@
+Die VirtuelleOekonomie von NooPolis ist ein virtuelles Wirtschaftssystem mit einer eigenen Währung namens KayGroschen. 
+
+Die Grundsätze:
+* Die Teilnehmer des Wirtschaftssystems handeln nach den Regeln der VerFassung als BuergerInnen der virtuellen Republik NooPolis.
+* Alle BuergerInnen haben eine überprüfte und vertrauenwürdige Identität (MindId), die über ein dezentrales WebOfTrust entsteht.
+* KayGroschen werden auf dem BankKonto der PieschenBank verwaltet.
+* Alle Transaktionen im Wirtschaftssystem sind für alle Teilnehmer TransParent.
+* Alle BuergerInnen von NooPolis können durch Eintragung im HandelsRegister ein StartUp gründen und für andere BuergerInnen Dienstleistungen und Produkte im MindShop anbieten.
+
+||               ||OldEconomy        ||NooPolis     ||NooSphere
+||Currency       |EuRo,UsDollar...   |KayGroschen   |EnErgie
+||CentralBank    |FED,ECB,Boj,PBOC...|PieschenBank  |BlackHole
+||MoneySupply    |complex            |constant      |user generated
+||TransParent    |no                 |yes           |yes
+||SemanticEconomy|no                 |yes           |yes
+||FutureCash     |no                 |no            |yes
+||PostScarcity?  |scarce             |scarce        |abundant
+||inspired by:   |                   |              |
+||Economist      |AdamSmith          |GeneYoon      |AnthonyGiddens
+||Author         |ThomasHobbes       |NealStephenson|TeilhardDeChardin
+||SciFi          |Leviathan          |SnowCrash     |DownAndOut

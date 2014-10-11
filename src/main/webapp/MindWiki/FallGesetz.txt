@@ -1,0 +1,6 @@
+||     ||FreierFall    ||AcceleratingReturns
+|by    |GalileoGalilei |RayKurzweil
+|Formel|s=1/2 g*t^2    |CalculationsPerSecondPerDollar=e^(t-1957)
+|      |LuftWiderstand |ZukunftsWiderstand
+|      |MaffeoBarberini|JosephRatzinger
+|      |  |EncyclicaSingularitatis

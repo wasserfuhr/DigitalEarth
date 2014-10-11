@@ -1,0 +1,3 @@
+* BreitenGrad: 52.518333
+* LaengenGrad: 13.408333
+* BoundingBox: 15000

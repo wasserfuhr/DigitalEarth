@@ -1,0 +1,4 @@
+* IsA: PerSon
+* HomePage: http://www.dfki.uni-kl.de/~biedert/
+
+DfKi

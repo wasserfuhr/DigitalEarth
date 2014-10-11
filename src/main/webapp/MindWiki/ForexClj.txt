@@ -1,0 +1,24 @@
+;
+;
+;{{{
+
+((defn forex [] 
+  (handle "forex"
+   (fn []
+    (str
+     "<table>"
+     (apply str
+      (map
+       (fn [x]
+         (str 
+           "<h3><a href='/radio/" x "'>" x "</a></h3>"
+           "<img src='" (cache 'TwitterPic :RainerWasserfuhr) "' width='64' height='64'/>"
+           " "))
+       (if (> (.length (.getRequestURI request)) (.length "/radio/"))
+        (let
+         [name (.substring (.getRequestURI request) (.length "/radio/"))]
+         [name])
+        ["MindQuestOne"])))
+     "</table>")
+   ) ""))))
+;}}}

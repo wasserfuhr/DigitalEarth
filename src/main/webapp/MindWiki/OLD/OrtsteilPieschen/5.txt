@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Pieschen]
+* BreitenGrad: 51.07833
+* LaengenGrad: 13.71778
+* BoundingBox: 2000
+* MindCount: 15000
+* http://wikidd.frokost.de/wiki/Pieschen

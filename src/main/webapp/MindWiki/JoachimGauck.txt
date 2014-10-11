@@ -1,0 +1,5 @@
+* IsA: PerSon
+* ViAf: http://viaf.org/viaf/118684/
+* InterWiki: [DeWikiPedia:Joachim_Gauck]
+* BirthDay: 01-24
+* HomePage: http://www.joachim-gauck.de/

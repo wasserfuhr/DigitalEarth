@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/l/MichaelLey
+* HomePage: http://www.informatik.uni-trier.de/~ley/
+* PageNumber: 11
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach JuergenAvenhaus MichaelRichter AndreasAbecker RudiStuder MichaelLey
+|[XingLe:Michael_Ley6]

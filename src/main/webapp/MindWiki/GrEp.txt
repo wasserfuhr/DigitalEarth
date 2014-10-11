@@ -1,0 +1,2 @@
+* EtymoLogia: global/regular expression/print
+* InterWiki: [DeWikiPedia:Grep]

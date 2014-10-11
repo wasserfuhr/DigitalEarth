@@ -1,0 +1,20 @@
+* InterWiki: [DeWikiPedia:Deutsches_Forschungszentrum_für_Künstliche_Intelligenz]
+* HomePage: http://www.dfki.de/
+* MindOne: WolfgangWahlster
+|[TwittEr:DFKI]
+
+__Das__ ReSearch-Center von DeutschLand für KuenstlicheIntelligenz
+
+MitWirkende:
+* HansUszkoreit
+* DidierStricker
+* PhilippSlusallek
+* WalterOlthoff
+* AndreasDengel
+* ThomasBreuel
+* BerndKriegBrueckner
+* PeterLoos
+* WolfgangWahlster
+* JoergSiekmann
+* FrankKirchner
+* DetlefZuehlke

@@ -1,0 +1,7 @@
+* IsA: CoWorkingSpace
+* HomePage: http://www.indyhall.org/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/606145147
+* PartOf: PhilAdelphia
+|[TwittEr:indyhall]
+
+one of the initial CoWorkingSpace's in the UnitedStates

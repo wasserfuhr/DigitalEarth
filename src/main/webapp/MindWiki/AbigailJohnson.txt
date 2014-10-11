@@ -1,0 +1,5 @@
+* IsA: EntrePreneur
+* InterWiki: [WikiPedia:Abigail_Johnson]
+* BornIn: 1961
+* BirthDay: 12-19
+* MindSkill: VerMoegen

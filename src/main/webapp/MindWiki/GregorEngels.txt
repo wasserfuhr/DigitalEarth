@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/e/GregorEngels
+* HomePage: http://www.cs.uni-paderborn.de/fachgebiete/fg-engels/personen/visitenkarten/gregor-engels/visitenkarte.html
+* PageNumber: 6
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy GregorEngels
+|[XingLe:Gregor_Engels]

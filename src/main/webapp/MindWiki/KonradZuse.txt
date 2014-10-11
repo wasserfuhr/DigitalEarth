@@ -1,0 +1,6 @@
+* IsA: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Konrad_Zuse]
+* BornIn: 1910
+* BirthDay: 06-22
+* DiedIn: 1995
+* HasTalked: BillGates

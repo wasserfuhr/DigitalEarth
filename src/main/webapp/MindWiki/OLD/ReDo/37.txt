@@ -1,0 +1,48 @@
+* MindQuote: "WeAreWhatWeRepeatedlyDo" - MrAristotle
+
+DoIt RePeat'edly:
+
+WikiTable:
+||ReDo per||OrderedByShares||last  ||do      ||it
+|hour    |RainerWasserfuhr|20090802|read     |hourly BookMark's and MindFeeds
+|day     |RainerWasserfuhr|20090802|read     |daily MindFeeds
+|day     |RainerWasserfuhr|20090730|do       |ManageMyLove
+|3 days  |RainerWasserfuhr|20090802|check    |SocialGrid-Status
+|3 days  |RainerWasserfuhr|20090730|do       |SocialBackup
+|3 days  |RainerWasserfuhr|20090802|pour     |MindGreen
+|week    |RainerWasserfuhr|20071120|sort     |TotHolz-InBox
+|week    |RainerWasserfuhr|20090802|check    |BankAccount
+|week    |RainerWasserfuhr|20080922|review   |DoIt
+|week    |RainerWasserfuhr|20080802|read     |XingLe-Termine
+|week    |RainerWasserfuhr|20080922|ReView   |ReDo
+|week    |RainerWasserfuhr|20090802|ReView   |WikiLender
+|week    |RainerWasserfuhr|20090802|ReView   |DiscussionForum
+|week    |RainerWasserfuhr|20090802|read     |weekly MindFeeds
+|2 weeks |RainerWasserfuhr|20090802|plan     |CashFlow
+|2 weeks |RainerWasserfuhr|20090522|clean    |WirkZentrum
+|2 weeks |RainerWasserfuhr|20090619|weigh    |BodyOne
+|month   |RainerWasserfuhr|20080922|ReView   |IdeenPool
+|month   |RainerWasserfuhr|20071206|ReView   |ReView
+|month   |RainerWasserfuhr|20090710|do       |UstVa
+|month   |RainerWasserfuhr|20090515|fertilize|MindGreen
+|month   |RainerWasserfuhr|20080922|BackUp   |TwittEr
+|6 weeks |RainerWasserfuhr|20090319|do       |HairCut
+|6 weeks |RainerWasserfuhr|20090525|BackUp   |DelIcioUs
+|6 weeks |RainerWasserfuhr|20090525|BackUp   |BlogLines
+|6 weeks |RainerWasserfuhr|20080319|BackUp   |MindMac
+|6 weeks |RainerWasserfuhr|20080519|ReFactor |DelIcioUs TagCloud
+|2 months|RainerWasserfuhr|20090710|change   |ToothBrush
+|2 months|RainerWasserfuhr|20090114|ReView   |GiftSchrank
+|2 months|RainerWasserfuhr|20090115|ReView   |WantedPages
+|year    |RainerWasserfuhr|20090114|calculate|LebensErwartung
+|year    |RainerWasserfuhr|20081230|do       |JahresAbschluss
+|year    |RainerWasserfuhr|20081230|check    |ItRs
+|-| | | |
+|month   |RalfLippold     |20090505|ReView   |ReView
+|-| | | |
+|hour    |ChristianHeller |20090206:0000|check|IhMail
+|day     |ChristianHeller |20090205|check     |AnrufBeantworter
+|day     |ChristianHeller |20090205|check     |BankAccount
+|-| | | |
+|month   |HeikeRibke      |20080814|do       |SocialBackup
+|month   |HeikeRibke      |20080921|check    |BegruessungsGeld-payments

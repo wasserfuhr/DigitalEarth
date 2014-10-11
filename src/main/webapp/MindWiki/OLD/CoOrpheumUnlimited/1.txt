@@ -1,0 +1,6 @@
+* IsA: UnLimited
+* MindOne: AlexanderFriedland
+
+|| ||ShareHolder
+|500|AlexanderFriedland
+|500|RainerWasserfuhr

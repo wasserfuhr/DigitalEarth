@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:John_McCarthy] [WikiWikiWeb:JohnMcCarthy]
+* JahrGang: 1927
+* BirthDay: 09-04
+* DbLp: http://dblp.uni-trier.de/rec/pid/m/JohnMcCarthy
+* MindSkill: ArTelligence
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy

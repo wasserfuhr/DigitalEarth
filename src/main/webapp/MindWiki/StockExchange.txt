@@ -1,0 +1,10 @@
+Als der WorldCrash nahte, starrten die Broker wie gebannt darauf wann auf PlanetErde der jeweilige Börsen-LadenAuf hatte:
+||StockExchange||von||bis
+|ToKyo       |0100|0700
+|HongKong    |0300|0900
+|FrankFurt   |0900|1730
+|NySe        |1530|2200
+|MindFloor   |0000|2400
+(Relativ zu CET)
+
+Zum Glück gibt es jetzt den MindFloor, der AlwaysOn ist.

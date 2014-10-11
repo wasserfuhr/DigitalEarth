@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* InterWiki: [WikiPedia:Gran_Scala]
+
+SuperStructure

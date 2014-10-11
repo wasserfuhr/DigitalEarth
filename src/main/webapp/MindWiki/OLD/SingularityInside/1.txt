@@ -1,0 +1,10 @@
+* TimeLine: 20080821:08:55 PDT
+* Speaker: JustinRattner 
+* Title: "Crossing the Chasm between Humans and Machines"
+* MindPlace: MosconeWest
+
+keynote during IntEl Developer Forum
+
+http://intelstudios.edgesuite.net/fall_idf/jr/f.htm
+
+explicitly mentioning RayKurzweil and TheSingularity.

@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* MindQuote: "Ankommen - Eintreten - Wohlfühlen"
+* BreitenGrad: 47.521558
+* LaengenGrad: 12.4271
+* BoundingBox: 30
+* HomePage: http://members.aon.at/cafe-rainer/

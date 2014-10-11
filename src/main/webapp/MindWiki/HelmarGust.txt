@@ -1,0 +1,4 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/g/HelmarGust
+* HomePage: http://www.cogsci.uni-osnabrueck.de/en/staff?sid=58&id=58&mode=show&type=o3_staff
+|[XingLe:Helmar_Gust]

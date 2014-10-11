@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/15/2043
+* HomePage: http://www.cogpsy.uni-osnabrueck.de/members/fschmalhofer.htm
+* MindSkill: WissensRepraesentation

@@ -1,0 +1,5 @@
+* MindTags: MinisTer
+* InterWiki: [DeWikiPedia:HelmutKohl] [OpenCyc:HelmutKohl]
+* JahrGang: 1930
+* BirthDay: 03-03
+* MindFaves: SauMagen, SchwarzerKoffer

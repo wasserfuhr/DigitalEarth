@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Café_Venezia]
+* BreitenGrad: 51.0583
+* LaengenGrad: 13.7416
+* BoundingBox: 40

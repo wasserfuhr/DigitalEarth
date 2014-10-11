@@ -1,0 +1,93 @@
+Ein BusinessPlan-Wettbewerb mit DeadLine 11.12.2007: http://www.futuresax.de/Wettbewerb/Aktuelles/tabid/100/Default.aspx
+
+Folgende Mail wurde am 11.12.2007 22:39:46 MEZ an info<at>futuresax.de geschickt:
+
+{{{
+Betreff: FutureSax BusinessPlan: NooPolis
+CC: RainerWasserfuhr,YvonneSchubert,ChristineSchlink
+
+Hallo FutureSax-Team,
+
+hiermit möchte ich einen Beitrag zum Wettbewerb einreichen.
+Der BusinessPlan ist öffentlich und kann von allen Juroren
+und JederMann seit heute 21:20h und in den kommenden Wochen unter
+
+http://bank.mindbroker.de/futuresax.pdf
+
+heruntergeladen werden.
+
+Bei Rückfragen gebe ich allen Juroren auch gerne meine Kontaktdaten
+unter
+  https://www.xing.com/profile/Rainer_Wasserfuhr
+frei oder folgen Sie mir einfach auf
+  http://twitter.com/rainer
+
+PS: Einen speziellen MindBroker-Gruß noch an die Frau Trautmann ;) !
+
+Mit freundlichen Grüßen
+RainerWasserfuhr
+}}}
+
+ACHTUNG: Hierbei handelt es sich um einen BusinessPlan, dessen PDF in RealTime per ApacheFop aus ausgewählten Seiten des MindWiki generiert werden könnte, aber leider PdfIsDead:
+
+! Danksagung
+RainerWasserfuhr und einige MitWirkende verdanken GunterDueck eine tausendfache Zahl an Intuitionen, die
+in diesen BusinessPlan und NooPolis eingeflossen sind.
+
+! Executive Summary
+
+NooPolis wird eine neue Art von SocialNetwork. NooPolis wird ein SocialNetwork für übermorgen. Es ist eine virtuelle Republik mit BuergerBeteiligung und eigener VirtuelleOekonomie. Die drei wichtigsten Werte von NooPolis sind TransParenz, FreiHeit und VerTrauen:
+
+1. TransParenz entsteht durch die ausschließliche Verwendung von OpenSource-Software. Der Quelltext kann auf jeder Webseite per ViewSource eingesehen werden. Auch die Administration der Server ist TransParent.
+
+2. Vertrauen entsteht durch ein WebOfTrust. Die Identität aller BuergerInnen (MindId) wird durch ein Netz von gegenseitigen Vertrauensbezeugungen verifiziert und gesichert. So entsteht eine wirklich vertrauenswürdige Community.
+
+3. FreiHeit heißt SelbstOrganisation. Die BuergerInnen selbst definieren die Regeln, nach denen die Republik funktioniert. Im Vordergrund steht hier ein dynamischer Prozeß, und nicht nur ein statischer VerTrag. NooPolis basiert auf einer im Wiki editierbaren VerFassung, welche die BuergerInnen selbst schreiben und verändern. Der erste Satz unserer Verfassung lautet: Alle BuergerInnen haben FreiHeit. 
+
+Das Neue an dieser Republik ist, dass sie über eine eigene VirtuelleOekonomie verfügt, über eigene Unternehmen und eine eigene Währung namens KayGroschen. 
+
+Die Idee dahinter: auf dem HoheitsGebiet von NooPolis werden Unternehmen gegründet, die auf einem ArbeitsMarkt ihre Produkte und Dienstleistungen anbieten, welche von den BuergerInnen nachgefragt werden. Die Bezahlung erfolgt in KayGroschen. Zusätzlich können die Unternehmen Aktien ausgeben, welche auf der virtuellen Börse gehandelt werden. Schon zum Zeitpunkt der Eintragung im HandelsRegister ist ein UnterNehmen börsennotiert.
+
+Um diese Grundfunktionen gruppieren sich weitere WebApp's, welche die Infrastruktur der Republik zur Verfügung stellen: Die InBox für Nachrichten, das MindBlog für Information und Diskussion, die PieschenBank für den Zahlungsverkehr und MindVote's für Umfragen.
+ 
+Der aktuelle Stand des Projektes: Wir sind 27 BuergerInnen, davon einige hochkarätige Softwareentwickler.
+
+! Geschäftsidee
+
+Die ersten Ideen zu NooPolis gehen zurück auf einen Tag im Spätsommer des Jahres 2006, als RainerWasserfuhr (JahrGang 1969) und DanielPoodratchi (JahrGang 1985) in KarlsRuhe-Durlach bei ComBots arbeiteten. ComBots war damals ein noch TecDax-notiertes Unternehmen mit einer Eigenkapitaldecke von knapp 500 Mio EUR, daß zu dieser Zeit an einer bahnbrechend neuen Instant-Messaging-Software arbeitete. Einige hundert Top-Spezialisten aus ganz Deutschland waren dort einberufen, um eine - wie in mehreren Pressemitteilungen dokumentiert- neue Plattform für mehr als 100 Millionen Nutzer zu schaffen. Im Innenhof von ComBots befindet sich ein schöner grüner Park mit Sandwegen, der irgendwie entfernt an TeleTubby-Land erinnert. 
+Daniel und Rainer waren als studentische Aushilfskraft bzw. Freiberufler in das Projekt einbezogen und erwogen in den Nichtraucher-Zigarettenpausen, auch ein ähnlich spannendes Projekt zu starten.
+Rainer fand, daß Social Networks nach dem Vorbild von Xing (damals noch OpenBC) doch auch eine gute Idee z.B. für Sportler wären.
+Diese Idee hatte er auch schon einigen seiner Kollegen ins Ohr gesetzt, meist solche mit Diplomen, vielen Jahren Projekterfahrung und horrend hohen Tagensätzen. Daniel war der erste und einzige, der fand: Ja: Machen wir. EinfachMachen.
+Nach Feierabend wurde die 5Gbits-Leitung von ComBots mißbraucht, um ein SVN einzurichten und mit dem ersten Prototypen 
+anzufangen. Die Domain spoooort.de war schnell registiert, und nach ein paar Wochen stand eine erste Alpha-Version,
+bei der sich Nutzer anmelden konnten, neue Mannschaften und Clubs anlegen konnten und ihre Freunde dazu einladen.
+
+Für RainerWasserfuhr endete die Zeit bei ComBots, so daß er wieder an seinen WohnSitz in der StadtDresden zurückkehrte.
+Die Arbeit am SportPortal schritt noch voran und Rainer machte sich langsam an das Versprechen, daß er Daniel gegeben hatte,
+um das SportPortal eine AG, die MindBrokerAg zu gründen. Da Rainer in den letzten Jahren sehr die Qualität von OpenSource-Software schätzen gelernt hatte, fand er, daß man auch mal den Versuch wagen könnte, nicht nur OpenSource,
+sondern OpenEnterprise zu arbeiten, dh. die Interna der Firma nicht nur für Mitarbeiter, sondern auch für Nutzer
+und die interessierte Öffentlichkeit zu öffnen. Lange dachte er, damit Vorreiter zu sein, doch im Frühjahr 2007
+las er in der BrandEins, daß die schon börsennotierte SynAxon AG dies bereits teilweise praktiziert.
+Derweil kamen die Recherchen zur Wahl einer RechtsForm nur schleppend voran. Die steuerlichen und rechtlichen Regelungen
+in DeutschLand erwiesen sich als ein Dschungel, dessen Durchdringung ein unkalkulierbares Maß an Komplexität erforderte.
+
+In der Zwischenzeit hatte Rainer auch die spannende Welt von SecondLife entdeckt. Besonders faszinierte ihn, daß
+dort ein eigenes Währungssystem existierte, die Lindendollars, die sogar gegen echte harte UsDollar getauscht
+werden können.
+
+(Auch in millionenschweren IT-Großprojekten sind die OpenSource-Anteile mittlerweile ca. 70-80%.)
+So fand die gesamte Entwicklung des SportPortal's OpenSource in KarlsRuhe und der StadtDresden statt.
+
+Derzeit können im MindShop in beschränktem Ausmaß KayGroschen zu einem festen WechselKurs erworben werden.
+Ein Rücktausch in ist derzeit noch nicht vorgesehen. Der HausHalt sieht ein Budget von 200.000 KayGroschen vor, daß hoffentlich bald UnserAdvocat für die Ermöglichung des Devisenhandels mit dem AusLand erhält.
+Gemäß ImPressum hat daher NooPolis vorerst den Status eines experimentellen Kunst- und Technologieprojektes, dessen inhaltlich Verantwortlicher gemäß §10 Absatz 3 MDStV ausschließlich RainerWasserfuhr ist.
+
+! Kundennutzen
+Da NooPolis kein Unternehmen nach heutigem Verständnis, sondern eine digitale Republik ist, hat NooPolis auch keine
+Kunden, sondern BuergerInnen, die Teil einer Gemeinschaft mit gemeinsamen Werten, Zielen und einer VerFassung sind.
+
+! Marktanalyse
+Der Markt für FreiHeit ist so unermeßlich wie zwei hoch die Zahl der Bits im Universum.
+
+! Wettbewerbsanalyse
+Mit NachBarn in anderen SocietoNetworks pflegen wir meist freundschaftliche Beziehungen.

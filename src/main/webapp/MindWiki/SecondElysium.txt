@@ -1,0 +1,3 @@
+MindOne: Bernstein
+
+n>1?

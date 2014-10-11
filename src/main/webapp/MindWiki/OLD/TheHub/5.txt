@@ -1,0 +1,20 @@
+* InterWiki: [ThoughtStorms:TheHub]
+* HomePage: http://www.the-hub.net/
+* MindOne: JonathanRobinson
+
+||ComPare    ||TheHub      ||NooPolis
+|HeadQuarters|HubIslington |WirkZentrum
+|MindPlace's |London,Soweto,Cairo,Bristol,TelAviv, SaoPaulo, Brussels, JohannesBurg, NewYork, ShangHai, RotterDam, StadtBerlin
+|            |HubSpace     |LockSchuppen
+|            |HubLibrary   |MindBib
+|            |HubAngel     |WikiAngel
+|            |HubContract  |VerTrag
+|            |HubGovernance|CabiNet
+|            |HubPassport  |MindId
+|            |HubPlus      |MindWiki
+|            |HubHost      |WikiPate
+|            |MicroHotel   |MindHotel
+
+Islington: http://www.openstreetmap.org/index.html?mlat=51.531944&mlon=-0.122778&zoom=15
+
+KingsCross: http://www.openstreetmap.org/?lat=51.532601&lon=-0.121877&zoom=18&layers=B000FTF

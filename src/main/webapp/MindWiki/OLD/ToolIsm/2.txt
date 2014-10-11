@@ -1,0 +1,5 @@
+AntiPattern
+
+WebLog WikiEngine SystemDynamics MindMapping
+
+think about a unifying DomainModel behind each tool. Think SemanticWeb. Think SemanticMind.

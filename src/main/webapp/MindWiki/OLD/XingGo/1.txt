@@ -1,0 +1,4 @@
+Steine:
+* moderator.gif
+* premium_star.gif
+* ambassador.gif

@@ -1,0 +1,33 @@
+* MindTags: MindEvent
+* GastGeber: MartinRoell
+* MindPlace: CafeNeustadt
+* HomePage: http://2005.roell.net/
+
+RedBlueGame:
+* OliverBaer
+* fukami
+* OliverGassner
+* SteffenGilge
+* RalfGraf
+* ChristophHoerl
+* MatthiasKryn
+* BrigitteLuedecke
+* RenateMillebner
+* ThiemoMaettig
+* PhilippNaderer
+* CharlotteNordahl
+* BeatePaland
+* RenePoenitz
+* GernotPoetsch
+* DieterRappold
+* JensRietdorf
+* MartinRoell
+* ColinSchlueter
+* FrankScholz
+* YvonneSchubert
+* MichaelSchuster
+* CleoSchuetze
+* MandySchuetze
+* JanTheofel
+* RainerWasserfuhr
+* MathiasWellner

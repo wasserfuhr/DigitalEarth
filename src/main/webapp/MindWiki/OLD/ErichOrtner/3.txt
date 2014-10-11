@@ -1,0 +1,12 @@
+* MindTags: ProFessor
+* JahrGang: 1948
+* MindSkill: KunstSprache
+* TurkNumber: 5
+
+TurkPath:
+# ZigaTurk
+# PeterLinde
+# JohnSmith [http://dblp.uni-trier.de/db/indices/a-tree/s/Smith:John.html]
+# NorbertStreitz [http://dblp.uni-trier.de/db/indices/a-tree/s/Streitz:Norbert_A=.html]
+# ThorstenPrante [http://dblp.uni-trier.de/db/indices/a-tree/p/Prante:Thorsten.html]
+# RalfSteinmetz [http://dblp.uni-trier.de/db/indices/a-tree/s/Steinmetz:Ralf.html]

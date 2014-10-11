@@ -1,0 +1,3 @@
+* InterWiki: [LangReiter:Amazon+Mechanical+Turk], [WikiPedia:Amazon_Mechanical_Turk]
+
+Hauptaufgabe: Das WorldModel perfektionieren.

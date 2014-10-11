@@ -1,0 +1,7 @@
+* IsA: ProJect
+
+Wo ist wann welcher Laden auf?
+
+Als ProJect: Mit ein paar OpenStreetMap + SemanticWeb + MindPhone-Zutaten.
+
+FeierTag?

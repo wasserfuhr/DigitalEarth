@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:HelmutSpanner]
+* BirthDay: 02-05
+* HomePage: http://www.helmut-spanner.de/

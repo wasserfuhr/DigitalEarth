@@ -1,0 +1,5 @@
+* MindTags: ProJect
+* DcTitle: ConPLAN
+* DeScription: Solving Combinatorial Problems in C++
+
+http://www.sieda.com/de/dienstplan/technik/optimierung/optimierung.html?parent=12

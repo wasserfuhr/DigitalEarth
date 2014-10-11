@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0638
+* LaengenGrad: 13.7769
+* BoundingBox: 120
+* GraDient: 15
+* SlimNess: 0.2
+* HomePage: http://www.elbtunnel-dresden.de/

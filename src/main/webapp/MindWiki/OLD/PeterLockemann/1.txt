@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Peter_Lockemann]
+* BirthDay: 11-17
+* DbLp: http://dblp.uni-trier.de/rec/pid/l/PCLockemann

@@ -1,0 +1,19 @@
+;create WikiPage views
+;{{{
+
+((defn wiki []
+  (handle "wiki"
+   (fn []
+    (if (.startsWith (.getPathInfo request) "/wiki/" )
+     (let
+       [buf
+         (new java.io.BufferedReader
+          (new java.io.StringReader
+           (fetch-url (str "http://mindbroker.de/wiki/" name "?skin=raw"))))]
+           ((fn mapLine [] 
+             (let [line (.readLine buf)]
+               (if line
+                 (str "<li>" line (mapLine)) "")))))))
+   "")))
+
+;}}}

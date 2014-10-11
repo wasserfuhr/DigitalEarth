@@ -1,0 +1,6 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Christian_Wulff]
+* BornIn: 1959
+* BirthDay: 06-19
+* BirthPlace: OsnaBrueck
+* ParteiWiki: CduWiki

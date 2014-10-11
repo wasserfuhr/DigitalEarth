@@ -1,0 +1,3 @@
+''lat.'' "Rinnstein, Glied des Säulenkranzes"
+
+CamelCase, aber kürzer als SimulationArgument.

@@ -1,0 +1,12 @@
+* InterWiki: [BiblioNetz:w01810]
+
+fürs DueckWiki: Dass dank TuringMaschine'n und InterNet alles vermessbar wird.
+
+messbare Dinge:
+* VerMoegen
+* SocialNetwork-Kontakte
+* WikiPage's im PageIndex
+* edits in den RecentChanges
+* Nachrichten in der InBox
+
+und vieles mehr im PanOrama.

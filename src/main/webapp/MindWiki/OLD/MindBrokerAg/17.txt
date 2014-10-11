@@ -1,0 +1,27 @@
+http://del.icio.us/tag/mindbrokerag
+
+spot wird später das erste Projekt der MindBrokerAg. ToDo für RainerWasserfuhr: AgWiki installieren.
+Bis dahin können AG-relevante Themen hier zwischengeparkt werden.
+
+Stammkapital mit 50.000 Aktien zu 1 EUR.
+
+!Aktionäre
+||MindBroker||Anteile||WettReserve||%
+|RainerWasserfuhr|32.497|20|65
+|DanielPoodratchi|9.500|10|19
+|OliverGassner|2.500| |5
+|NN|2.500| |5
+|AndreasWeigel|1.501| |3
+|YvonneSchubert|1.500| |3
+|ChristineSchlinck|2| |0.001
+
+NN: Mit RainerWasserfuhr noch in Klärung.
+
+!Wetten um Aktien
+
+||am||Pro||Contra||#||DeadLine||Topic
+|20070302:1620|RainerWasserfuhr|DanielPoodratchi|10|20090302|Mein SecondLife- Avatar macht meine Lippenbewegungen in Echtzeit nach.
+|2007???|RainerWasserfuhr|RicardaDHerbrand|10|20070331|Ricarda wird in SecondLife sein
+
+
+Idee von DanielPoodratchi: DesignArtAndClothes

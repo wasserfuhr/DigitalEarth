@@ -1,0 +1,52 @@
+Welcher MindBroker mit CommitMent wird wie MitWirken?
+
+Wichtigste Items zuerst:
+||OrderedByShares||h||Project    ||done(%)||do    ||it
+|RainerWasserfuhr| ?|InBox/MindBlog      |  0|code        |Textlänge > 255 Zeichen
+|RainerWasserfuhr| ?|InBox/MindBlog      |  0|code        |Formatierungsproblem Texte in DB
+|RainerWasserfuhr| 1|MindId              |  0|fixe        |Login-Problem aus MindWiki heraus
+|RainerWasserfuhr| 1|PieschenBank        |  0|code        |Saldenprüfung
+|RainerWasserfuhr| 1|PieschenBank        |  0|code        |Vorschau beim Überweisen
+|RainerWasserfuhr| 4|MindId              | 50|code        |MindMap
+|RainerWasserfuhr| 2|GeoMindBroker       | 0|fixe        |Api-Key
+|RainerWasserfuhr| 2|MindCal             |  0|code        |Einbindung von WasWyrd per MindApi
+|RainerWasserfuhr| 1|MindId              |  0|fixe        |Session-Timeouts
+|RainerWasserfuhr| 3|MindId              | 40|code        |MindTrust
+|RainerWasserfuhr| 5|MindVote            |  0|code        |Alpha
+|RainerWasserfuhr| 3|InBox               |  0|code        |API
+|RainerWasserfuhr| 3|InBox               |  0|code        |InBox-Matrix
+|RainerWasserfuhr| 3|MindChat            |  0|code        |Alpha
+|RainerWasserfuhr| 3|PieschenBank        | 60|code        |WechselKurs-Auktionen
+|RainerWasserfuhr| 1|MindId              |  0|code        |automatisches Backup
+|RainerWasserfuhr| 4|UnserGrid           |  0|code        |automatisches Backup
+|RainerWasserfuhr| 1|PieschenBank        |  0|code        |automatisches Backup
+|RainerWasserfuhr| 1|MindFee             |  0|code        |automatisches Build
+|RainerWasserfuhr| 1|MindBrokerKg        |  0|kündige     |BSB
+|RainerWasserfuhr| 1|MindBrokerKg        |  0|vorbereite  |Providerwechsel von Strato zu inwx.de
+|RainerWasserfuhr| 1|PieschenBank        |  0|code        |Legende zu Farben bei Auktionen
+|RainerWasserfuhr| 2|UnserGrid           | 50|code        |MicroFormat-Status
+|-| -|-      |  -|-                      |-
+|DanielPoodratchi| 3|MindBroker          |  0|confe       |Andreas
+|DanielPoodratchi| 3|MindBlog            |  0|code        |Comments
+|DanielPoodratchi| 3|MindBlog            |  0|code        |RSS-Feed
+|DanielPoodratchi| 4|InBox               |  0|code        |Messages senden
+|DanielPoodratchi| 4|InBox               |  0|code        |YAML
+|DanielPoodratchi| 2|AgWiki              |  0|code        |MindCss für AgWiki
+|-| -|-      |  -|-                      |-
+|YvonneSchubert  |10|MindBrokerKg        |  0|organisiere |BdCs
+|YvonneSchubert  |  |                    |  0|koordiniere |RSS für blog usw.
+|YvonneSchubert  |  |UmZug               |  0|kündige     |Telekom PF 20 00 in 53105 Bonn 
+|YvonneSchubert  |  |UmZug               |  0|erneuere    |Telekom Login Rechnung Online 
+|YvonneSchubert  |  |Domains             |  0|umziehe     |alle Domains auf inwx
+|YvonneSchubert  |  |Steuer              |  0|speichere   |alle Onlinerechnungen Telekom Büro
+|YvonneSchubert  |  |MindBlog            |  0|teste       |Kommentarfkt. RSS Usability
+|YvonneSchubert  |20|NooPolis            |  0|organisiere |SingularCamp
+|YvonneSchubert  |  |UmZug               |  0|gebe        |Adressänderung an BfA
+|YvonneSchubert  |  |MindBrokerKg        |  0|mache       |USTVA am 01. Dezember
+|-| -|-      |  -|-        |-
+|JuergenKohn     |99|SportWiki           |  0|vermarkte   | 
+|JuergenKohn     | 1|SportPortal         |  0|installiere |Eclipse
+|JuergenKohn     | 2|SportPortal         |  0|reviewe     |OtherLand
+|JuergenKohn     | 4|SportPortal         |  0|reviewe     |VerTrag
+
+Später wird diese WikiSpec als WebApp automatisiert: DoItProject.

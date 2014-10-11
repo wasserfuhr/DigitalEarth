@@ -1,0 +1,5 @@
+Ist das zentrale Login für jede WebApplikation, die UnserGrid hostet.
+
+So wird jeder MindBroker in Zukunft mit einer einmaligen Registrierung und einem einmaligen Login eine Vielzahl verschiedener Services nutzen können.  
+
+http://id.mindbroker.de/

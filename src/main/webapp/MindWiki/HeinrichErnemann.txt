@@ -1,0 +1,4 @@
+* MindTags: UnternehmensGruender
+* JahrGang: 1850
+* BirthDay: 05-28
+* LebensEnde: 1928

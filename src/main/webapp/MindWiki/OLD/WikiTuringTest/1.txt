@@ -1,0 +1,7 @@
+like a TuringTest, but WikiBased and as a multi-user experiment:
+
+During the AiGame, players have to create their NewMind. The NewMind is a DigitalTwin of their KopfWelt.
+In the beginning, the players act as MechanicalTurk for their NewMind by editing their LifeWiki.
+The NewMind's become more and more and complex, and more and more automated.
+From time to time, the players have to give up control to a fully automated NewMind.
+Other players have to guess whether the NewMind is still operated by their MechanicalTurk.

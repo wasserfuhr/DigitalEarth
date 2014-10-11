@@ -1,0 +1,1 @@
+[{Image src='http://static.twitter.com/images/whale.png'}]

@@ -1,0 +1,8 @@
+* InterWiki: [WikiWikiWeb:EmailIsObsolete]
+
+for RainerWasserfuhr, since TimeLine:2007-04-19:0726 MEST.
+
+Whenever you send RainerWasserfuhr an IhMail via SMPT, you will have no guarantee, that he will read it
+because he receives more than 400 Mails per day. If you want be sure to contact me, please use a TrustProvider.
+
+LebenOhneEmail

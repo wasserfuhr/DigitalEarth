@@ -1,0 +1,6 @@
+* IsA: ProFessor UnternehmensGruender
+* InterWiki: [DeWikiPedia:Günter_Faltin]
+* BornIn: 1944
+* BirthDay: 11-25
+* BirthPlace: BamBerg
+* HasTalked: RalfLippold

@@ -1,0 +1,11 @@
+vom SysAdmin umbenannte PageName's:
+* 2010-08-25: ColLaboration deleted - redundant with CoLlaboration
+* 2009-02-06: "Kinder- und Elternakademien" > KindElternAkademie
+
+su insider
+cd
+cd /mnt/wiki
+ls *+*
+export PRE=
+export POST=
+echo $PRE$POST; mv $PRE+$POST.txt $PRE$POST.txt; mv OLD/$PRE+$POST OLD/$PRE$POST

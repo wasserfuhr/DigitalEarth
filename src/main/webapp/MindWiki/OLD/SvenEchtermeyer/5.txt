@@ -1,0 +1,4 @@
+* WohnSitz: StadtDresden
+||AusLand
+|[WorldWideWeb:www.rockthetram.com]
+|[SkyPe:dr.schnauff]

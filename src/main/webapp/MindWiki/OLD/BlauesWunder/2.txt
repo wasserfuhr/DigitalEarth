@@ -1,0 +1,8 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Blaues_Wunder]
+* BreitenGrad: 51.0533
+* LaengenGrad: 13.8102
+* BoundingBox: 120
+* GraDient: 45
+* SlimNess: 0.2
+* MindCount: 10

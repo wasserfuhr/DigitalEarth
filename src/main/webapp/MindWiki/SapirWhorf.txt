@@ -1,0 +1,11 @@
+* InterWiki: [DeWikiPedia:Sapir-Whorf-Hypothese], [WikiWikiWeb:SapirWhorfHypothesis]
+
+Unlike OpenCyc, the atoms of the ontology of the MindWiki are not only
+denglish, but also have trace elements of other languages.
+
+Additionally, the CamelCase reductions to the HerKunft of words seems to shape
+a foundation of language as such.
+
+Is this an advantage or a disadvantage?
+
+SapirWhorf?

@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Christoph_Waltz]
+* BornIn: 1956
+* BirthDay: 10-04

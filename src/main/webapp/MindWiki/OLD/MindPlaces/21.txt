@@ -1,0 +1,38 @@
+Bald werden alle Orte, auf deren Seite im MindWiki Längen- und Breitengrad als MindProps angegeben sind, auf der MindMap dargestellt:
+
+* EurOpa
+** DeutschLand
+*** StadtDresden
+**** OrtsteilPieschen
+***** GeheStrasse21
+****** WirkZentrum
+***** PieschenPalast
+**** DresdenZwinger
+**** PostAmt
+**** KunstAkademie
+**** MindTower
+**** MindTowerZwo
+**** VillaMarie
+**** RauschenBach
+*** KarlsRuhe
+*** WipperFuerth
+**** GrueterichEins
+*** HamBurg
+*** StadtBerlin
+*** StuttGart
+**** FeuerBach
+*** StadtBonn
+**** PostTower
+** EstLand
+** OesterReich
+* MaDeira
+
+* UnitedStates
+** SanJose
+** PittsBurgh
+** OneSixZeroZeroAmphiTheatreParkway
+** InfiniteLoopOne
+** Hawaii
+*** HonoLulu
+**** HonoLuluAirPort
+**** WaiKiki

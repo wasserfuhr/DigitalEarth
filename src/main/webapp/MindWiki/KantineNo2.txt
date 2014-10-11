@@ -1,0 +1,3 @@
+* IsA: WirtsHaus
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/250892641
+* PartOf: GoerlitzerStrasse

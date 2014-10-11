@@ -1,0 +1,4 @@
+* IsA: MindRiver
+* InterWiki: [DdWiki:Elbe] [DeWikiPedia:Elbe] [OpenCyc:ElbeRiver]
+
+StadtDresden HamBurg NordSee

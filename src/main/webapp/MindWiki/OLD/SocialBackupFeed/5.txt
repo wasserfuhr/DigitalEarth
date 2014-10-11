@@ -1,0 +1,31 @@
+SocialBackup via FeedReader: http://mindbroker.de/backupfeed.jsp
+
+{{{
+<?xml version="1.0" encoding="utf-8"?>
+<%@page import="java.io.File"%>
+<%@ page contentType="application/rss+xml"%>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <description>A subtitle.</description>
+      <title>SocialBackup Feed</title>
+      <pubDate>Wed, 20 Feb 2008 15:00:00 +0200</pubDate>
+      <link>http://mindbroker.de/backupfeed.jsp</link>
+      <atom:link href="http://mindbroker.de/backupfeed.jsp" rel="self" type="application/rss+xml" />
+<%
+  String backups[]={"bank","mind","source"};
+  String date="20080313";
+  for (int i=0; i<backups.length;i++) {
+    File f=new File("/home/insider/apache-tomcat-6.0.14/webapps/ROOT/"+backups[i]+".zip");
+%>
+      <item>
+         <description>See http://mindbroker.de/wiki/SocialBackup</description>
+         <title>MindBroker Social Backup: <%=backups[i]%>.zip</title>
+         <link>http://mindbroker.de/wiki/SocialBackup#<%=backups[i]%></link>
+         <enclosure url="http://mindbroker.de/<%=date%>.backup_<%=backups[i]%>.zip" type="application/zip" length="<%=f.length()%>"/>
+         <guid isPermaLink="false">urn:uuid:1225695-cfb8-4bb-aaaa-80da344efa<%=backups[i]%></guid>
+    <pubDate>Wed, 12 Mar 2008 15:00:00 +0200</pubDate>
+         <source url="http://mindbroker.de/backupfeed.jsp">SocialBackup Feed</source>
+      </item>
+<% }%>   </channel>
+</rss>
+}}}

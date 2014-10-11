@@ -1,0 +1,10 @@
+svn://svn.mindbroker.de/opensource/
+
+Darunter UnsereProjekte. Alles PureJava.
+
+Jedes Projekt wird in ReverseDomain-Notation im SVN abgelegt.
+Pro Projekt gibt es den üblichen [SVN-Konventionen|http://svnbook.red-bean.com/en/1.1/ch05s04.html] entsprechend die Ordner "trunk", "tags" und "branches", wobei derzeit keine Projekte branches benötigen.
+
+Web-Interface zum SVN: http://websvn.mindbroker.de/
+
+Die Logins für SVN stehen unter MitWirkende.

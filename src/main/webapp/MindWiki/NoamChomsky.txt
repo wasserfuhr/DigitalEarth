@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Noam_Chomsky] [ThoughtStorms:NoamChomsky] [WebSeitz:NoamChomsky]
+* JahrGang: 1928
+* BirthDay: 12-07
+* DbLp: http://dblp.uni-trier.de/rec/pid/c/NChomsky
+* HasTalked: NelsonGoodman
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy EdwardFeigenbaum DougLenat GeorgeMiller NoamChomsky

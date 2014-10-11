@@ -1,0 +1,9 @@
+* InterWiki: [OpenCyc:HigherEducationInstitution]
+
+1985: 
+* cmu.edu CmuEdu
+* berkeley.edu BerkeleyEdu
+* columbia.edu
+* purdue.edu
+* rice.edu
+* ucla.edu

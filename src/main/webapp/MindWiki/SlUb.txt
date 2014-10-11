@@ -1,0 +1,18 @@
+* InterWiki: [DdWiki:Sächsische_Landes-_und_Universitätsbibliothek_Dresden] [DeWikiPedia:Sächsische_Landesbibliothek_–_Staats-_und_Universitätsbibliothek_Dresden]
+* HomePage: http://www.slub-dresden.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/264769245 ToDo
+* FourSquare: http://foursquare.com/mobile/venue/631474
+* MindOne: ThomasBuerger
+|[TwittEr:slubdresden]
+
+TotHolz MindBib StadtDresden
+
+RainerWasserfuhr: 4160762@slub-dresden.de
+
+SpeedTest: 
+Ergebnisse von http://www.speedmeter.de
+(Kopiert am 23.08.10 19:08)
+Download aus Deutschland : 18626 Kbit/Sek
+Upload : 6599 kbit/Sek
+Verbindung : 3534 Verb/Min
+Ping Test Deutschland : 29 ms

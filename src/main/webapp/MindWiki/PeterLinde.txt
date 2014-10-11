@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/00/2926
+* HomePage: http://www.bth.se/bib/lindesajt.nsf
+* PageNumber: 4
+* PagePath: LarryPage TerryWinograd NorbertStreitz JohnSmith PeterLinde

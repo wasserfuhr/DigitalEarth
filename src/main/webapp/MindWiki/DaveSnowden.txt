@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Dave_Snowden]
+* BornIn: 1954
+* BirthDay: 04-01
+* MindSkill: ComPlex
+|[TwittEr:snowded]
+|[FaceBook:594977476]

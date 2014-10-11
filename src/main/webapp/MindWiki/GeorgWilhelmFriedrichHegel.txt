@@ -1,0 +1,5 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Georg_Wilhelm_Friedrich_Hegel], [OpenCyc:Hegel]
+* JahrGang: 1770
+* BirthDay: 08-27
+* LebensEnde: 1831

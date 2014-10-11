@@ -1,0 +1,8 @@
+* MindTags: CrowdWisdom
+
+Ab wann wird es dauerhaft mindestens 10 mit WebCam und InterNet ausgestattete Drohnen oder Zeppeline über dem Luftraum der StadtDresden geben?
+
+||MindBroker      ||Jahr||ConFidence
+|RainerWasserfuhr |2012 |60%
+|HeikeRibke       |2011 |40%
+|BastiHirsch      |2011 |50%

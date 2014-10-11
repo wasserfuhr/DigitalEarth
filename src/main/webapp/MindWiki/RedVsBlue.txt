@@ -1,0 +1,7 @@
+JspWiki:
+{{{
+a                        { color: blue; }
+a.editpage               { color: #FF0000; text-decoration: none;
+ 	                         border-bottom: 1px dashed red; }
+}}}
+

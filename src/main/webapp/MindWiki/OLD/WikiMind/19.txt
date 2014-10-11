@@ -1,0 +1,22 @@
+* IstEin: MindPeople
+
+WikiMind's are MindPeople who have started to digitize portions of their MiNd.
+
+Some WikiMind's start to notice that their wiki forms a SemanticWeb of their thoughts and their SocialNetwork. 
+
+||MindOne           ||InterWiki||Neurons||Software ||OpenStats
+|JerryMichalski     |          |  ~80000|TheBrain  |
+|BeatDoebeli        |BiblioNetz|   17830|HTML      |
+|EricWeinstein      |MathWorld |  >12000|HTML      |
+|PhilJones          |          |    3565|UseModWiki|
+|BillSeitz          |WebSeitz  |   >2804|zwiki     |
+|RainerWasserfuhr   |MindWiki  |    2618|JspWiki   |soon
+|ChristianLangreiter|LangReiter|        |vanilla   |
+|LionKimbro         |          |        |          |
+|MattisManzel       |          |        |          |
+|JoiIto             |JoiWiki   |     517|SocialText|
+|JoergKantel        |          |    ~500|DokuWiki  |
+|AndreasStuhlmueller|          |     402|MediaWiki |
+|TantekCelik        |TantekWiki|      89|PbWiki    |
+
+A lot of people do not like wikis. Are they afraid of WikiShock?

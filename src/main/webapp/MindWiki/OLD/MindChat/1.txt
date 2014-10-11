@@ -1,0 +1,8 @@
+||MindBroker      ||VorStandsChat||CoderChat
+|RainerWasserfuhr |x             |x      
+|DanielPoodratchi |x             |x      
+|AndreasWeigel    |              |x
+|YvonneSchubert   |x             |
+
+
+Alle MindBroker: AgChat

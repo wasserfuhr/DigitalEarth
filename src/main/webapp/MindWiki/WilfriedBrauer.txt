@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/WBrauer
+* HomePage: http://wwwbrauer.in.tum.de/~brauer/
+* PageNumber: 8
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi MichaelStonebraker PeterLockemann WilfriedBrauer

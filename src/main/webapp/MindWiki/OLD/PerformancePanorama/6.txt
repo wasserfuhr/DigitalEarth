@@ -1,0 +1,22 @@
+Assumptions for the system architecture (Background: http://wasserfuhr.com/nodes/node.jsp?id=606 )
+
+!User events:
+Typical events for a user who is in the 2nd upper quartile of the PowerLaw distribution of user activity:
+
+||Events||per||WebApp  ||Event
+|1  |year |MindId      |User.register()
+|2  |year |MindId      |Password.change()
+|5  |week |PieschenBank|Payment.pay()
+|2  |month|MindId      |User.login()
+|1  |month|MindId      |User.logout()
+|2  |week |InBox       |Message.send()
+|2  |week |InBox       |Message.read()
+|3  |week |MindId      |WebSession.start()
+|5  |week |MindWiki    |Page.edit()
+|4  |day  |MindWiki    |Page.view()
+|2  |day  |MindWiki    |Fave.create()
+
+!System events:
+||Events||per||WebApp  ||Event
+|1  |sec  |UnserGrid   |WepApp.checkStatus()
+|-3 |msec |WebApp      |HttpServlet.service()

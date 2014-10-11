@@ -1,0 +1,4 @@
+erste Gedanken zur Sicherheitsarchitektur von NooPolis:
+* Das Passwort von BuergerInnen wird nur als Hash-Digest auf dem Server gespeichert.
+* Passwörter werden niemals im Klartext über HTTP oder SMTP verschickt.
+* um ein vergessenes Passwort rückzusetzen: SocialPassword.

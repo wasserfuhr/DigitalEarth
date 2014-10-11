@@ -1,0 +1,68 @@
+"Mit freiem Volk auf freiem Grund wird stehn": NooPolis.
+Eine virtuelle digitale Republik als WikiBasiert'es NoMic-Game. Der Name hat seine Wurzeln in der [griechischen Antike|http://de.wikipedia.org/wiki/Polis] und bei [Teilhard de Chardin|http://de.wikipedia.org/wiki/Noosph%C3%A4re].
+
+Spätere Startseite auf http://noopolis.org. Oder umbenennen in MindPolis und dann http://polis.mindbroker.de.
+
+!Hintergrund:
+ist die Übertragung des Prinzips der SelbstOrganisation der Wikipedia auf eine virtuelle Gemeinschaft. 
+
+Sie besteht aus freien Bürgern, die sich ihre Gesetze selbst geben und die Regeln ihres Zusammenlebens selbst bestimmen.
+
+!Idee:
+* Gründung einer virtuellen Republik zur Verfolgung dieser
+
+!Ziele:
+* Bürgern eine Plattform bieten für Identität, Freiheit,VerAntwortung und Vertrauen
+* MindKodex: Aufstellung eines Kodexes einfacher, transparenter und verbindlicher Regeln
+* Schaffung einer virtuellen Ökonomie für Unternehmen, deren Produkte und Services das virtuelle Zusammenleben der Bürger fördern
+
+!Verfassung:
+* Alle Bürger von NooPolis haben FreiHeit.
+* Jeder Bürger von NooPolis hat genau eine MindId und damit ein Login.
+* Jeder Bürger kann weitere Bürger einladen.
+* Bei Registrierung muß der bürgerliche Vor- und Zuname und das Geschlecht angegeben werden.
+* Mit Erwerb der MindId wird der Bürgerstatus erworben und die Verfassung anerkannt.
+* Alle Bürger von NooPolis sind eingewoben in ein WebOfTrust. Neben der reinen Identifikation können sie damit graduell Vertrauen aussprechen.
+* Eine spätere Namensänderung bedarf der Verifikation durch mindestens zwei Trustees.
+* Die BuergerListe ist ein Verzeichnis aller aktuellen Bürger von NooPolis.
+
+* Die Währung von NooPolis sind KayGroschen. Die PieschenBank hütet sie.
+* Änderungen der Geldmenge von mehr als 10% bedürfen der Zustimmung der Bürger per MindVote.
+* Die Einnahmen und Ausgaben von NooPolis werden von den Bürgern im Rahmen des HausHalt'es selbst geregelt. 
+
+* NooPolis ist eine Republik mit dem LeaderShip-Modell des PrimusInterPares.
+* Gründer sind RainerWasserfuhr und YvonneSchubert.
+* Alle Regeln der Noopolis-Verfassung sind veränderbar.
+* Keine Regeländerung gilt rückwirkend.
+* Änderungen der Verfassung erfordern die Zustimmung aller Bürger, deren Besitz mindestens 1000 KayGroschen beträgt.
+* Regeländerungen gelten als von allen Bürger angenommen, wenn kein Bürger der Änderung binnen Veto-Frist durch Editieren im Wiki widerspricht.
+* Die Veto-Frist beträgt 3 Tage. Falls ein Bürger länger AbWesend ist, kann er die Frist während der Abwesenheit auf 14 Tage erhöhen.
+* Bei Meinungsverschiedenheiten kommt es zu einem MindVote unter allen Bürgern. Es entscheidet dabei die einfache Mehrheit der KayGroschen.
+* Jeder Bürger nimmt einmal pro Monat an der UrWahl teil.
+* Nimmt ein Bürger 3x nacheinander nicht an der UrWahl teil, erlischt seine StaatsBuergerschaft und sein Vermögen geht an die PieschenBank.
+* Auf dem HoheitsGebiet von NooPolis tätige Unternehmen tragen sich im HandelsRegister ein.
+* Der MindShare jedes Unternehmens kann auf dem MindFloor gehandelt werden.
+* MindBroker ist ein VolksEigenerBetrieb auf dem HoheitsGebiet von NooPolis.
+* MindBroker ist der E-Government-ServiceProvider von NooPolis und Hüter der MindIds.
+
+!Diskussion:
+Welche politischen Interessen sind an eine solche Idee geknüpft?
+* Sozialversicherungsnummer
+* Gesundheitskarte
+* Datenschutz
+
+Wie werden die PrimusInterPares bestimmt?
+* Mehrheitswahlrecht für alle
+* genetische Abstammung (ID 1 hat ID 13 eingeladen)
+
+Soll NooPolis ein eigenes Wiki bekommen?
+*JA! 
+
+Sollen die NooPolis-Bürger steuerpflichtig sein?
+* GewinnSteuer für die Unternehmen?
+* BuergerSteuer für die Bürger?
+* GewinnSteuer für die Bürger, die Gewinne aus Ausschüttungen erhalten?
+
+Wie sollen erhobene Steuern verwendet werden?
+* Bekommt MindBroker ein Teil der SteuerEinnahmen als Ausgleich für das Hosting?
+* Mache einen Plan zur BuergerBeteiligung

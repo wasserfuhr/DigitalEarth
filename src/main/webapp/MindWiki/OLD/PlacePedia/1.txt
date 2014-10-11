@@ -1,0 +1,7 @@
+* MindTags: FutureCard
+* UnTil: 2012
+* PreDict: RainerWasserfuhr fährt mit seinem MindPhone in LinieVier von WeinBoehla durch die StadtDresden nach AltTolkewitz. Während der Fahrt werden mindestens 64 Bilder und WikiPedia-Artikel darstellt von den NamensPatron'en von Strassennamen die an der Strecke liegen.
+* InterWiki: [DdWiki:StadtWiki:PlacePedia]
+
+||DdWiki        ||WikiPedia
+|[DdWiki:]      |[DeWikiPedia:]

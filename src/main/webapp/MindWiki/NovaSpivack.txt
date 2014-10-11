@@ -1,0 +1,9 @@
+* IsA: UnternehmensGruender
+* InterWiki: [LangReiter:Nova+Spivack] [WebSeitz:NovaSpivack] [WikiPedia:Nova_Spivack]
+* JahrGang: 1969
+* BirthDay: 06-05
+* MindSkill: SemanticWeb
+* ChildOf: MayerSpivack
+|[TwittEr:novaspivack]
+
+Founder of RadarNetworks and TwiNe.

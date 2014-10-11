@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Wolfgang_Uhlmann]
+* BirthPlace: StadtDresden
+* BornIn: 1935
+* BirthDay: 03-29
+* MindSkill: NooChess

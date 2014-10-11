@@ -1,0 +1,23 @@
+Das Wiki der MindBroker AhGe. UnserGrid hostet es. Wie man unten links erkennt, auf Basis von JSPWiki v2.4.82. VerdienstBienchen für das chice MindCss an DanielPoodratchi. 
+
+RainerWasserfuhrWuenschtSich natürlich sehnlichst dass jeder MindBroker das Wirken im AgWiki meisterlich beherrscht.
+
+Patches bezogen auf JSPWiki v2.4.82: 
+
+!Edit.jsp:
+{{{
+   String user = (String) application.getAttribute("wikiName");//wikiSession.getUserPrincipal().getName();
+    if ( "save".equals( request.getParameter( "action" ) ) &&
+         application.getAttribute("wikiName")  == null ) {
+      return;
+    }
+}}}
+
+!IdLogin.jsp:
+{{{
+<%
+  application.setAttribute("wikiName",request.getParameter("wikiName"));
+          response.sendRedirect("/wiki/MindBroker");
+%>
+}}}
+

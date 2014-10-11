@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:JenTower]
+* BreitenGrad: 50.92861
+* LaengenGrad: 11.58444
+* BoundingBox: 50
+* MindCount: 100

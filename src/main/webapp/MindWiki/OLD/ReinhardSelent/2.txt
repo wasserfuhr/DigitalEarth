@@ -1,0 +1,6 @@
+    * JahrGang: 1970
+    * BirthDay: 03-16
+    * SprachWelt: de
+    * WohnSitz: StadtEilenburg
+    * TimeZone: CET
+    * MindBrowser: FireFox

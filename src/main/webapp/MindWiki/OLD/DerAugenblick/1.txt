@@ -1,0 +1,5 @@
+* MindTags: MindEvent
+
+laut Exif: 2008:08:05 18:53:01 (vermutlich MEST)
+
+DieKamera könnte aber falsch eingestelltes Systemdatum gehabt haben.

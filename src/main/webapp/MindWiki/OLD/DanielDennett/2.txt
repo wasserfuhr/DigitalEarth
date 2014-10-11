@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Daniel_Dennett] [WebSeitz:DanielDennett]
+* BornIn: 1942
+* BirthDay: 03-28
+* MindSkill: UnGlaub

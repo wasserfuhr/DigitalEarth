@@ -1,0 +1,25 @@
+* InterWiki: [DeWikiPedia:Second_Life] [WebSeitz:SecondLife] [WikiWikiWeb:SecondLife]
+* MindOne: MarkKingdon
+* FoundedBy: PhilipRosedale
+* HomePage: http://secondlife.com/
+|[TwittEr:SecondLife]
+
+||ComPare           ||SecondLife        ||NooPolis
+|Währung            |LindenDollar       |KayGroschen
+|Geldmengenpolitik  |in-TransParent     |konstant
+|GlaeserneBank      |no                 |yes
+|SocialObject       |3D-World           |WikiPage's, SourceCode, MindMap
+|WebOfTrust         |-                  |MindTrust
+|ConStitution       |-                  |yes, ConStitution
+|BuergerBeteiligung |-                  |UrWahl, MindVote
+|OpenSource         |partially          |yes
+|AlternateReality   |partially          |yes
+|OpenContent        |partially          |yes
+
+Während SecondLife in einer komplett neuen Welt spielt, basiert NooPolis zu AnFang auf der realen Welt.
+NooPolis bildet anfangs das SocialNetwork realer Personen als WebOfTrust ab.
+BuergerInnen können fiktionale PerSona ins RealLife einführen und schreiben gemeinsam am ZukunftsRoman.
+Die Welt von NooPolis ist PostReal'er UtopischerKapitalismus auf einer FutureMap mit ProJect'en wie dem MindTower.
+
+Tools:
+* http://sourceforge.net/projects/primdotblender: Blender2SL

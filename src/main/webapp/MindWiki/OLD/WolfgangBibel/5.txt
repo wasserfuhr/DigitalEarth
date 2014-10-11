@@ -1,0 +1,11 @@
+* IsA: ProFessor SingularityMind
+* JahrGang: 1938
+* BirthDay: 10-28
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/WBibel
+* HomePage: http://www.intellektik.de/
+* MindSkill: ArTelligence
+* MindFaves: SingularityIsNear
+* PageNumber: 9
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach MichaelRichter JoergSiekmann WolfgangBibel
+
+probably ''the'' ProFessor for ArTelligence in EurOpa who is most aware of TheSingularity.

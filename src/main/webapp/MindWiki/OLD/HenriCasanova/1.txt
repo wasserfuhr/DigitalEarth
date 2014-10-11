@@ -1,0 +1,4 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/25/6606
+* PageNumber: 7
+* PagePath: ... ArndtBode HenriCasanova

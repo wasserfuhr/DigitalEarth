@@ -1,0 +1,5 @@
+* http://www.basicthinking.de/blog/feed/: BlogLines subscriber: 733
+* http://feeds.feedburner.com/basicthinking/rss: BlogLines subscriber: 13
+
+||AusLand
+|[WorldWideWeb:www.basicthinking.de]

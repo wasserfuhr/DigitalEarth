@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Johann_Wolfgang_von_Goethe], [OpenCyc:JohannWolfgangVonGoethe], [WikiWikiWeb:JohannWolfgangGoethe]
+* JahrGang: 1749
+* BirthDay: 08-28
+* LebensEnde: 1832
+* HasKissed: CharlotteBuff

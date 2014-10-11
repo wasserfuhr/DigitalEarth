@@ -1,0 +1,5 @@
+* MindTags: SingularityMind
+* InterWiki: [DeWikiPedia:Gottfried_Wilhelm_Leibniz], [OpenCyc:GottfriedWilhelmLeibniz], [WebSeitz:GottfriedLeibniz]
+* JahrGang: 1646
+* BirthDay: 07-01
+* LebensEnde: 1716

@@ -1,0 +1,49 @@
+* MindTags: EnterPrise
+* MindOne: JoergKeller
+[FaceBookGroup:56955301655]
+
+ProtoWerb is a StealthMode StartUp.
+
+If you want to learn more about ProtoWerb, please ask JoergKeller for a NonDisclosureAgreement.
+
+||Shares||ShareHolder
+|252|JoergKeller
+|200|ChristianFischer
+|200|MaikKrause
+|200|JeMand
+|148|RainerWasserfuhr
+
+Weitere MitWirkende:
+* YvonneSchubert
+
+Currently the following shares are publicly traded in the OrderBook of the MindFloor:
+
+''Derzeit werden folgende Shares öffentlich im OrderBuch des MindFloor's gehandelt:''
+
+!OrderBuch:
+||ShareHolder     ||Stück||Geld||Kurs[1]||Brief(Sell)
+|JoergKeller      |      |    |    | ???| ??
+|RainerWasserfuhr |      |    |    | 512|  1
+|RainerWasserfuhr |      |    |    | 256|  1
+|RainerWasserfuhr |      |    |    | 128|  1
+|RainerWasserfuhr |      |    |    |  64|  1
+|RainerWasserfuhr |      |    |    |  32|  1
+|RainerWasserfuhr |      |    |    |  16|  1
+|RainerWasserfuhr |      |    |    |   8|  1
+|RainerWasserfuhr |      |    |    |   4|  1
+|RainerWasserfuhr |      |    |    |   2|  1
+|RainerWasserfuhr |      |    |    |   1|  1
+||Last StockPrice ||     ||   ||???||   ||
+|RainerWasserfuhr |     ?|   ?|    |   
+|JoergKeller      |     ?|   ?|    |   
+
+[#1] in KayGroschen
+
+Potentielle Fans und ShareHolder?:
+* ChristineSchlinck
+* JuergenKohn
+* SebastianMitter
+* KatharinaKuehnel
+* DanielPoodratchi
+* OliverGassner
+* TimBonnemann

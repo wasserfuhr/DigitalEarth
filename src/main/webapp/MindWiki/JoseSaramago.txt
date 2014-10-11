@@ -1,0 +1,4 @@
+* IsA: NobelPrizeLaureate
+* InterWiki: [DeWikiPedia:José_Saramago]
+* JahrGang: 1922
+* BirthDay: 11-16

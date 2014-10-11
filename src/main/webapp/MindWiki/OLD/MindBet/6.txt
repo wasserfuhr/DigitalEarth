@@ -1,0 +1,20 @@
+!Offene Wetten in der Zukunft:
+
+(Jeder MindBroker darf nur um so viele Aktien wetten, wie er auf dem MindFloor besitzt) 
+||am          ||Gewinner||Pro         ||Contra          ||# ||Einheit||MindLine||Topic
+|2040         | | | |LunarSteigenberger
+|2012         | | | |AnneWillSingularity
+|201006       | | | |VenterDiesel
+|200802xx     |      |RainerWasserfuhr|ChristianGuenzl  | 5|EuRo|20081231|StartUpWeekEnd an der NySe
+|20080208     |      |RainerWasserfuhr|BastiHirsch      |  200|KayGroschen|20081231|StartUpWeekEnd an der NySe
+|20070402     |      |RainerWasserfuhr|DanielPoodratchi | 10|Shares|20071231|SanfteRache
+|20070302:1620|      |RainerWasserfuhr|DanielPoodratchi | 10|Shares|20090302|SecondLips
+|20070303     |      |RainerWasserfuhr|ChristineSchlinck| 10|Shares|20100303|DelIq
+
+https://twitter.com/rainer/statuses/690111522
+https://twitter.com/cervus/statuses/690109832
+
+!Abgelaufene Wetten:
+||am          ||Gewinner||Pro         ||Contra          ||# ||MindLine||Topic
+|20070???     |contra|RainerWasserfuhr|RicardaDHerbrand | 20|20070430|SalsaNonnen
+|20070???     |contra|RainerWasserfuhr|RicardaDHerbrand | 10|20070331|SecondSalsa

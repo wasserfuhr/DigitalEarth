@@ -1,0 +1,43 @@
+The basic unit of service sold by LockSchuppenAg.
+
+In the TimeToCome you can use LockCoupon's for:
+* 1 LockCoupon = 1h usage of CoWorkingSpace
+* 5 LockCoupon's = 1day usage of CoWorkingSpace
+* 80 LockCoupon's = 1 month usage of CoWorkingSpace
+* 2 LockCoupon's = 1 LockSchuppen-BeSuch (1h) with a qualified LockSchuppenFuehrer
+
+The LockCoupon might also be used at other CoWorkingSpace's operated by LockSchuppenAg (__LockOffice__) 
+
+You can buy LockCoupon's from current owners, from the MindShop or through WorkForShares.
+
+* ReVenue (updated regularly)
+
+!Current Owner
+||SerialNumber||Owner
+|1|IrisSchilke
+|2|ThiemoMaettig
+|3|RaikFischer
+|4|MarcelBoehme
+|5|HeidiGallinat
+|6|MarkusStamm
+|7|MarkusStamm
+|8|RainerWasserfuhr
+|9|RegineZiolko
+|10|RainerWasserfuhr
+|11|RainerWasserfuhr
+|12|RainerWasserfuhr
+|...|
+|35|RainerWasserfuhr
+|36|RalfLippold
+|37|RalfLippold
+|...|
+|102|RalfLippold
+
+||On     ||SerialNumber||from       ||to              ||reason
+|20100103| 36-102|LockSchuppenAg    |RalfLippold      |LockCouponEmission
+|20100103| 10- 35|LockSchuppenAg    |RainerWasserfuhr|LockCouponEmission
+|20100103|  8    |LockSchuppenAg    |RainerWasserfuhr|LockCouponEmission
+|20100103|  7    |LockSchuppenAg    |MarkusStamm     |LockCouponEmission
+|20100103|  6    |LockSchuppenAg    |MarkusStamm     |LockCouponEmission
+|20091231|  6    |WinfriedLueg      |LockSchuppenAg  |LockSession
+|20091231|  6    |RainerWasserfuhr  |WinfriedLueg    |gift

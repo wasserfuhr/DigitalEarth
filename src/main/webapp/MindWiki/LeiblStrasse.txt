@@ -1,0 +1,4 @@
+* IsA: MindStreet
+* NamedAfter: WilhelmLeibl
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/25170288
+* PartOf: OtStrehlen

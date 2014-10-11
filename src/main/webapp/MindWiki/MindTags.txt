@@ -1,0 +1,81 @@
+* MindTags: RdfClass
+* RdfClass: http://www.w3.org/2000/01/rdf-schema#Class
+
+Each WikiPage of the MindWiki can optionally have one or more MindTags, separated by WhiteSpace.
+
+!A MindTag is the in normal life used tag, just ReFrame'd as it is part of the NeuroSemanticWeb based MindWiki
+
+A taxonomy of MindTags is maintained in the IndexIndex.
+
+You can create MindTags as MindProps in the header of a WikiPage, eg:
+
+{{{
+* MindTags: ProFessor
+}}}
+
+!RePort: Most frequently used MindTags:
+||[1]||[2]||[3]||Tag
+|1666|639|282|MindPeople
+|703|417|206|MindPlace
+|552|338|176|ProFessor
+|204| 97| 48|UnternehmensGruender
+|163| 55| 20|EnterPrise
+|111| 42| 13|MinisTer
+| 74| 38| 14|MindEvent
+| 74| 16|  0|EventSeries
+| 71| 52|  0|FutureCard
+| 67| 54| 25|SingularityMind
+| 57| 31|  3|MindThing
+| 55| 45|  9|ReView
+| 55| 37| 20|ProJect
+| 53| 36|  0|ErZaehlung
+| 44| 14|  2|PerSona
+| 27| 21|  0|FutureCardIdea
+| 24| 10|  2|NobelPreis
+| 20| 15|  6|WikiMind
+| 14| 14|  0|MitMachSache
+| 11| 11|  5|UnterNehmer
+| 11|  9|  8|PredictionMarket
+| 10| 10|  9|CrowdWisdom
+| 10|  8|  1|GedankenSpiel
+| 10|  3|  2|MindProps
+|  9|  8|  0|MetaPhor
+|  9|  8|  0|MindGene
+|  9|  7|  2|SocialNetwork
+|  9|  4|  3|MindBook
+|  9|  0|  0|MindShip
+|  7|  8|  7|MindMusic
+|  7|  6|  0|MarketGap
+|  7|  5|  4|LiebesRinge
+|  6|  4|  0|ParteiWiki
+|  6|  0|  0|MindFilm
+|  5|  5|  5|NooChess
+|  5|  4|  3|MindVerb
+|  5|  4|  0|PotUs
+|  5|  2|  0|MindBet
+|  5|  2|  1|MindPet
+|  4|  4|  4|RdfClass
+|  4|  2|  2|EheRinge
+|  4|  0|  0|KunstWort
+|  3|  3|  4|RealFilm
+|  3|  3|  3|RdfProperty
+|  3|  3|  2|MindCity
+|  3|  0|  0|MindFarm
+|  3|  0|  0|MindHorse
+|  2|  2|  2|TicTacToe
+|  2|  1|  0|WunderKind
+|  1|  1|  0|BioMind
+|  1|  0|  0|MindFilm
+|  1|  0|  0|MindRace
+|  1|  0|  0|RandomlyGeneratedPageName
+|  1|  0|  0|VerEin
+|  1|  0|  0|VorTrag
+|  0|  0|  2|EdelMind
+|  0|  0|  2|GeschaeftsIdee
+|  0|  0|  2|RealRoman
+|  0|  0|  2|RegierungsSprecher
+|  0|  0|  1|AdJektiv
+|  0|  0|  1|HerKunft
+* [#1] 20091228
+* [#2] 20081207
+* [#3] 200805

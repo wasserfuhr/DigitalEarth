@@ -1,0 +1,11 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/66/1656
+* HomePage: http://www.dfki.uni-kl.de/~schwarz/
+* FoAf: http://www.dfki.uni-kl.de/~schwarz/foaf.xml
+* PageNumber: 5
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker SvenSchwarz
+* CoAuthor: LeoSauermann
+* PastProjects: ConPlan
+* HasTalked: RainerWasserfuhr
+* MindSkill: SemanticWeb
+|[XingLe:Sven_Schwarz3]

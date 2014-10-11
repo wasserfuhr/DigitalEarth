@@ -1,0 +1,23 @@
+!Offene Wetten in der ZuKunft:
+
+||Topic             ||UnTil  ||Pro            ||Contra          ||[1]||Currency||HandSchlag    
+|SecondLips         |20090302|RainerWasserfuhr|DanielPoodratchi |   10|MindBroker shares|20070302:1620
+|DelIq              |20100303|RainerWasserfuhr|ChristineSchlinck|   10|MindBroker shares|20070303
+|VenterDiesel       |20100616|MartinVarsavsky |RainerWasserfuhr |   10|UsDollar|20080616
+|AnneWillSingularity|2012    |RainerWasserfuhr|HeikeRibke       | 1000|KayGroschen|2008
+|LongBetOne         |2029    |MitchKapor      |RayKurzweil      |20000|UsDollar|2002
+|LunarSteigenberger |2040    |RainerWasserfuhr|a TaxiDriver     |  100|EuRo    |2007
+|LunarSteigenberger |2040    |RainerWasserfuhr|DimitriUwarov    |   50|EuRo    |2007
+[#1] BuergerInnen dürfen nur um so viel VerMoegen bzw Aktien wetten, wie sie bei der PieschenBank besitzen
+
+!Abgelaufene Wetten:
+||Topic             ||UnTil  ||Winner||Pro           ||Contra          ||# ||Currency ||HandSchlag
+|XingBus            |20071231|contra|RainerWasserfuhr|RiGeorg G. aus B.|200|EuRo       |2005
+|SalsaNonnen        |20070430|contra|RainerWasserfuhr|RicardaDHerbrand | 20|MindBroker shares|20070???
+|SecondSalsa        |20070331|contra|RainerWasserfuhr|RicardaDHerbrand | 10|MindBroker shares|20070???
+
+|StartUpWeekEnd an der NySe|20081231|RainerWasserfuhr|ChristianGuenzl  |  5|EuRo  |200802xx
+|20080208     |      |RainerWasserfuhr|BastiHirsch      |  200|KayGroschen|20081231|StartUpWeekEnd an der NySe
+|20070402     |      |RainerWasserfuhr|DanielPoodratchi | 10|Shares|20071231|SanfteRache
+http://twitter.com/rainer/statuses/690111522
+http://twitter.com/cervus/statuses/690109832

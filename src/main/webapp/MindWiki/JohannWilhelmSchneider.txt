@@ -1,0 +1,7 @@
+* MindTags: MindPeople
+* JahrGang: 1798
+* BirthDay: 06-19
+* PapaZwoNull: HeinrichSchneider
+* EheVertrag: MariaElisabethHerchenbach
+* LebensEnde: 1881
+* SchneiderMuch: 47

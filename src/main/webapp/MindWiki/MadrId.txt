@@ -1,0 +1,4 @@
+* EtymoLogia: from the Arabic term ميرا "Mayra" (referencing water as a "trees" or "giver of life") and the Ibero-Roman suffix "it" that means "place"
+* EtymoLogiaSource: http://en.wikipedia.org/wiki/Madrid#Names_of_the_city
+* IsA: MindCity
+* PartOf: ReinoDeEspana

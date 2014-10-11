@@ -1,0 +1,14 @@
+* IsA: EventSeries
+* HomePage: http://www.sylter-runde.de/
+* MindOne: NorbertSzyperski
+
+
+MartinGaedke
+BernhardHaselbauer
+HansHerbertHolzamer
+GabrieleLechner
+UweVLobeck
+WolfgangRogalski
+NorbertSzyperski
+MarionCharlotteWillems
+UteZacharias

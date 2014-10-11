@@ -1,0 +1,14 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0604
+* LaengenGrad: 13.74424
+* BoundingBox: 30
+* GraDient: 120
+* SlimNess: 0.6
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/292822831
+
+VorSicht!: fiktionales Etablissement.
+
+MeMo:
+* 20081009:1700: RainerWasserfuhr, JeMand: DirkHilbert, PhaetonBallett, DarpaGrandChallenge, YvonneSchubert, ChristineSchlinck, NorbertBluem, PeterSodann, DresdenDolls
+* 20080918: ChristineSchlinck, RainerWasserfuhr: RamonKachelmann, TotalRecall, PlasticLogic, TineTest, DasExperiment, BenGoertzel, MontgomeryTheater, SingularitySummit, FiRa
+* 20080907: ChristineSchlinck, RainerWasserfuhr, YvonneSchubert: RayKurzweil, TineTest, SuendenMund, ArTelligence, ShockLevel, DfKi, FutureMap, MindBall

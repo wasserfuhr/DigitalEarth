@@ -1,0 +1,4 @@
+* MindTags: ProFessor
+* InterWiki: [LangReiter:Henry+Markram], [WikiPedia:Henry_Markram]
+* HomePage: http://people.epfl.ch/henry.markram
+* CurrentProjects: BlueBrain

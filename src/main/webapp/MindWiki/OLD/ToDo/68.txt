@@ -1,0 +1,14 @@
+→ DoIt
+
+FliessText-ToDo's als BrainStorm-VorStufe für DoIt:
+* EcZwo - Volumes
+* MindBase (SparQl)
+* historisches SelfModel: Fotos, Files, PieschenRadio, Mails, GiftSchrank
+* besuche BohrPlattform
+* TransparentMan (GeSund)
+* automatisiere HotTopics
+* code WaveBot
+* NooMic: code einen BootStrapper in CloJure, der Unterseiten aus dem MindWiki liest, evaluiert und cached. Nimm MoegLich'st wenige Änderungen an NooMicJsp vor. Als Data... speichere im Servlet-Application ConText?
+* lade den BootStrapper und auch die Unterseiten nicht mehr immer, sondern nur auf AnFrage. Dies könnte auch der Hook sein für eine erste kleine SicherHeit's-Schicht, zb als FreiHeit-Konstantenliste mit berechtigten Developern.
+
+ProJekt'e mit EnErgie: WwWebLern, OpenCog, SeaSteading, QuantifiedSelf, PiratenPartei, LockSchuppen

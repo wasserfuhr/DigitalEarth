@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* HomePage: http://www.solymar-leipzig.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/640602445

@@ -1,0 +1,34 @@
+* InterWiki: [LangReiter:Twine]
+* HomePage: http://www.twine.com/
+
+||                ||TwiNe||MindWiki
+|API              |+     |+
+|RDF-Export       |+     |+
+|FoAf             |-     |++
+|Usability        |++    |-
+|Design           |++    |-
+|FoAf             |-     |++
+|Types            |~20   |unlimited: dynamic MindTags
+|Content download |-     |SocialBackup
+|MachineLearning  |++    |-
+|Linking Resources|+     |++ via CamelCase
+|Simple URLs      |--    |+++
+|Public           |--    |+++
+|SemanticEconomy  |-     |KayGroschen,MindFloor
+|User Government  |DiscussionForum|DiscussionForum,MindVote,dynamic ConStitution
+
+The TwiNe DomainModel:
+* User
+* Connection
+* Twine
+* Tag
+* Type
+** Person
+** Organisation
+** Place
+** Book
+** Bookmark
+** Note
+** ...
+
+poorly linked to WikiPedia.

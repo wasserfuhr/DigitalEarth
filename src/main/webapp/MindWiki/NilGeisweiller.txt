@@ -1,0 +1,4 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/66/981
+* HomePage: http://sites.google.com/site/ngeiswei/
+* MindSkill: ArTelligence

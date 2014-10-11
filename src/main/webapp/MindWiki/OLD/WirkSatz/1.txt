@@ -1,0 +1,3 @@
+||OrderedByShares||WirkSatz
+|RainerWasserfuhr|90
+|DanielPoodratchi|18

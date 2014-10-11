@@ -1,0 +1,9 @@
+* IsA: SingularityMind UnternehmensGruender
+* InterWiki: [DeWikiPedia:Larry_Page] [WebSeitz:LarryPage]
+* BornIn: 1973
+* BirthDay: 03-26
+* ViAf: http://viaf.org/viaf/35624513
+* DbLp: http://dblp.uni-trier.de/rec/pid/p/LawrencePage
+* PageNumber: 0
+* PagePath: LarryPage
+OrkutProfile:2990496069118008637

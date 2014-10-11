@@ -1,0 +1,11 @@
+* MindTags: WikiMind
+* InterWiki: [WebSeitz:BillSeitz]
+* WohnSitz: NewYork
+* MindFaves: HlMencken
+* MindSkill: CamelCase
+* LexBill: If "502 Bad Gateway" Then ReLoad
+* HasSeen: NealStephenson
+||AusLand
+|[WorldWideWeb:webseitz.fluxent.com]
+|[DelIcioUs:seitz]
+|[TwittEr:BillSeitz]

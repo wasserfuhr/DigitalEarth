@@ -1,0 +1,42 @@
+SocialBackup via FeedReader: http://mindbroker.de/backupfeed.jsp
+
+{{{
+<?xml version="1.0" encoding="utf-8"?>
+<%@ page contentType="application/rss+xml"%>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <description>A subtitle.</description>
+      <title>SocialBackup Feed</title>
+      <pubDate>Tue, 05 Feb 2008 15:00:00 +0200</pubDate>
+      <link>http://mindbroker.de/backupfeed.jsp</link>
+      <atom:link href="http://mindbroker.de/backupfeed.jsp" rel="self" type="application/rss+xml" />
+      <item>
+         <description>See http://mindbroker.de/wiki/MindZip</description>
+         <title>MindBroker Social Backup: MindZip</title>
+         <link>http://mindbroker.de/wiki/SocialBackup</link>
+         <enclosure url="http://mindbroker.de/mind.zip" type="application/zip" length="10130518"/>
+         <guid isPermaLink="false">urn:uuid:1225695-cfb8-4ebb-aaaa-80da344ef6a</guid>
+         <pubDate>Tue, 05 Feb 2008 15:00:00 +0200</pubDate>
+         <source url="http://mindbroker.de/backupfeed.jsp">SocialBackup Feed</source>
+      </item>
+      <item>
+         <description>Some text.</description>
+         <title>MindBroker Social Backup: BankZip</title>
+         <link>http://mindbroker.de/wiki/SocialBackup</link>
+         <enclosure url="http://mindbroker.de/bank.zip" type="application/zip" length="291575"/>
+         <guid isPermaLink="false">urn:uuid:1225695-cfb8-4ebb-aaaa-80da344ea6a</guid>
+         <pubDate>Tue, 05 Feb 2008 15:00:00 +0200</pubDate>
+         <source url="http://mindbroker.de/backupfeed.jsp">SocialBackup Feed</source>
+      </item>
+      <item>
+         <description>Some text.</description>
+         <title>MindBroker Social Backup: SourceZip</title>
+         <link>http://mindbroker.de/wiki/SocialBackup</link>
+         <enclosure url="http://mindbroker.de/source.zip" type="application/zip" length="12984370"/>
+         <guid isPermaLink="false">urn:uuid:1225695-cfb8-4ebb-aaaa-0da344ea6a</guid>
+         <pubDate>Tue, 05 Feb 2008 15:00:00 +0200</pubDate>
+         <source url="http://mindbroker.de/backupfeed.jsp">SocialBackup Feed</source>
+      </item>
+   </channel>
+</rss>
+}}}

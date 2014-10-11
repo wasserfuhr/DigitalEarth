@@ -1,0 +1,13 @@
+* MindTags: ProJect
+* MindLine: 2027
+
+The goal: achieve a totally immersive simulation of an entire human MiNd until 2027.
+
+First thoughts and a very first draft of the architecture on top of the MindWiki:
+
+The basic layer consists of a SemanticWeb wrapper around the MindWiki, and a transitive closure of MindTrust-relationships.
+
+The RDF statements are arranged as a causal hierarchy of statements. The engine continuously computes a "root" belief statement, selected from the set of all known resources.
+The NewMind has a representation of itself. It can interact with its environment, if external sources make statements about the NewMind.
+
+It will have a MindApi to the MindEyes of RainerWasserfuhr.

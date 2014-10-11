@@ -1,0 +1,4 @@
+* InterWiki: [DeWikiPedia:Real_Life_(Netzkultur)], [MeatballWiki:RealLife], [WikiWikiWeb:RealLife]
+* MindQuote: "Everybody's a MadScientist, and life is their lab." - DavidCronenberg
+
+ReFrame it as a GameOfLife.

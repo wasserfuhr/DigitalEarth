@@ -1,0 +1,18 @@
+CoIns
+GraDiva
+EurOpa
+AggRo
+LoHaS
+PEqNp
+SeeBenisch
+ColLaboration
+
+{{{
+	public static void main(String[] args) throws IOException {
+		InputStream s = ClassLoader.getSystemResourceAsStream("mind/RaWa.txt");
+		int b;
+		while((b=s.read())>=0) {
+			System.out.write(b);
+		}
+	}
+}}}

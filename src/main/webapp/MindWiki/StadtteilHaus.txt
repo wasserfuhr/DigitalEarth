@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* HomePage: http://www.stadtteilhaus.de/
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.064991&lon=13.759284&zoom=18&layers=B000FTTT ToDo

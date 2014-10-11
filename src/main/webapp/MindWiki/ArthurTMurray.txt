@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* CurrentProjects: MindForth
+ArtificialIntelligence

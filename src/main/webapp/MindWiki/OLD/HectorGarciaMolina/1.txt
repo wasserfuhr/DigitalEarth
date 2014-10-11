@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Hector_Garcia-Molina]
+* PageNumber: 1
+* PagePath: LarryPage HectorGarciaMolina

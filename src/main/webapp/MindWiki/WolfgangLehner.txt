@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/l/WLehner
+* HomePage: http://wwwdb.inf.tu-dresden.de/team/archives/2005/03/prof_dring_wolf.php
+* PageNumber: 8
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach TheoHaerder WolfgangLehner

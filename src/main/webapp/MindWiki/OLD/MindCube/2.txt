@@ -1,0 +1,6 @@
+* MindTags: GedankenSpiel, MetaPhor
+
+Take the neurons of a HuMan brain and rearrange them into a regular equidistant grid.
+Guess the edge length of the cube!
+
+Right: It is smaller than a 5000x5000x5000-cube.

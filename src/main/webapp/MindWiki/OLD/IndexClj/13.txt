@@ -1,0 +1,48 @@
+;
+;{{{
+
+((defn index []
+  (handle ""
+   (fn []
+     (if (.equals "/" (.getPathInfo request))
+      (str
+          "<h3><a href='http://mindbroker.de/wiki/BuergerInnen'>BuergerInnen</a></h3>"
+       	  "<table>"
+ 	  (apply str 
+	   (map
+	     (fn [x]
+	       (str
+	         "<tr>"
+	         (apply str (map 
+	           (fn [y]
+	             (str "<td>"
+	              (if (and (< y 8) (= x 0))
+	               (let
+	                [person
+	                  (get ["RainerWasserfuhr" "YvonneSchubert" "DanielPoodratchi" "RicardaDHerbrand"
+	                            "ChristineSchlinck" "HeidiGallinat" "RalfLippold" "SimonKoeppl"
+	                            "UteMoritz"
+       	                ] (- 7 y))]
+	                 (str
+	                  "<a href='http://mindbroker.de/wiki/" person "'><img src='" 
+	                    (cache nil (keyword person) ) "' width='46' height='46'/></a>" )
+	               )
+	              )
+	             "</td>")) 
+	           (range 8)))
+                 "</tr>")) 
+	     (range 8)))
+	  "</table>"
+          "<h3>RecentEvents</h3>"
+
+(let 
+ [hConf (new org.apache.hadoop.hbase.HBaseConfiguration)
+  hTable (new org.apache.hadoop.hbase.client.HTable hConf "EventLog")]
+"lolop")
+       
+      )
+      ))
+   ""))
+   )
+
+;}}}

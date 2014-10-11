@@ -1,0 +1,6 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Harald_Ganzinger]
+* JahrGang: 1950
+* BirthDay: 10-31
+* LebensEnde: 2004
+* HomePage: [http://www.mpi-inf.mpg.de/~hg/]

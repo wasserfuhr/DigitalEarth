@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Mexiko-Stadt]
+* BreitenGrad: 19.419
+* LaengenGrad: -99.145
+* BoundingBox: 35000
+* MindCount: 9000000

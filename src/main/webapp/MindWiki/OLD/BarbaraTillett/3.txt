@@ -1,0 +1,5 @@
+* IsA: PerSon
+* ViAf: http://viaf.org/viaf/77390479
+* MindQuote: "The arrival of the WorldWideWeb makes AuthorityControl on a global scale both feasible and essential." [*|http://www.loc.gov/loc/lcib/0309/authority.html]
+
+LibraryOfCongress ViAf

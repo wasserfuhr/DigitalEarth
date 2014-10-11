@@ -1,0 +1,34 @@
+RainerWasserfuhr
+* schreibe ProjektPlan
+* schreibe AlphaTester
+* schreibe BetaTester
+* schreibe ContinuousIntegration
+* code die Suchfunktion
+* ziehe den DemoServer auf Port 80 um
+* refactore Messages und Contacts in Mindbroker core.
+
+DanielPoodratchi
+* code Löschoption für Termine, Nachrichten und Spoooortfreunde
+* code picUpload für Team und Club
+* verstehe Mindbroker core
+* code Passwort vergessen
+* code Passwort ändern
+* frage Rainer zu reply=true setzen
+* code zufüllige Anzeige von Sportsfreunden auf der Startseite
+* frage Rainer zu generic Types
+* code dynamische Zuordnung Teams->Clubs
+* code Auswahlmöglichkeit der Sportarten
+* code userGuestbook
+* frage Rainer zu NullFeldern
+
+AndreasWeigel
+* optimiere Layout für alle Browser
+* integriere logout button
+* setze "antworten" in message.jsp an die richtige Stelle
+* implementiere standartisierte LAyout Boxes
+* zeige Ori wie er mit Hilfe meines CSS Formulare erstellt
+
+AurelienEyoum
+* recherchiere nach Fußballer Rechten
+* recherchiere nach existierenden Datenbanken von Fußballern
+* schaue video2brainCSS

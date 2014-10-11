@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Martin_Fowler] [WebSeitz:MartinFowler] [WikiWikiWeb:MartinFowler]
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge BarneyPell MichaelGenesereth JayTenenbaum AlanKay DanIngalls RobertHirschfeld GuySteele AndersHejlsberg MartinFowler
+|[TwittEr:martinfowler]

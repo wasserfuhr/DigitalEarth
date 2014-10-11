@@ -1,0 +1,10 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Rosengarten], [DeWikiPedia:Rosengarten_(Dresden)]
+* BreitenGrad: 51.05988
+* LaengenGrad: 13.75626
+* BoundingBox: 500
+* GraDient: 110
+* SlimNess: 0.1
+
+TotalRecall: 
+* 20080913:1700: ChristineSchlinck, RainerWasserfuhr: WindelWelt, AvaTar, SecondHalfOfTheChessBoard, FutureMap, GoogleLife, TheSingularity, SecondLife, GoogleEarth, GlaesernerMensch, PatternRecognition

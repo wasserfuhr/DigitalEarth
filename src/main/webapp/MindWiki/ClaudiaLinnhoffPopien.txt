@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/l/ClaudiaLinnhoffPopien
+* HomePage: http://www.mobile.ifi.uni-muenchen.de/personen/mitarbeiter/linnhoff/index.html
+* PageNumber: 9
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker AndreasDengel StefanAgne HansHagen OttoSpaniol ClaudiaLinnhoffPopien

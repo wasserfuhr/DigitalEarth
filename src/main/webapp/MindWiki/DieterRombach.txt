@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Dieter_Rombach]
+* JahrGang: 1953
+* BirthDay: 06-06
+* DbLp: http://dblp.uni-trier.de/rec/pid/r/HDRombach
+* ViAf: http://viaf.org/viaf/57201297
+* PageNumber: 6
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach

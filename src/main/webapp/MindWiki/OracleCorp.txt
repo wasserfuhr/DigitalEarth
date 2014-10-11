@@ -1,0 +1,8 @@
+* IsA: EnterPrise
+* InterWiki: [DeWikiPedia:Oracle] [WebSeitz:OraCle] [WikiWikiWeb:OracleCorporation]
+* MindOne: LarryEllison
+* IsIn: US68389X1054
+
+OracleWiki
+
+SemanticWeb player? "well positioned to become a leading RDF store [provider|http://wiki.oracle.com/page/Semantic+Web]"

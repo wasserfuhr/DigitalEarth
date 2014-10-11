@@ -1,0 +1,3 @@
+* RdfProperty: http://purl.org/vocab/relationship/childOf
+
+MindProps for parent-child-relations and the WorldFamilyTree.

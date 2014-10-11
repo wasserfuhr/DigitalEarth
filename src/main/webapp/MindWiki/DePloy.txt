@@ -1,0 +1,1 @@
+bezeichnet den VorGang, wenn eine WebApp aus dem SourceCode gebaut und auf dem SocialGrid ausgerollt wird.

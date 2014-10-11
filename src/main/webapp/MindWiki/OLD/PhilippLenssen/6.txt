@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* FoAf: http://blogoscoped.com/foaf.rdf
+* EnErgie: 1500000
+
+BlogoScoped

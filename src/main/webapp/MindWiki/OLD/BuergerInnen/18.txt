@@ -1,0 +1,29 @@
+Die BuergerInnen von NooPolis:
+
+||Bürger          ||Trustee 1      ||Trustee 2    ||Trustee 3...
+|RainerWasserfuhr |YvonneSchubert  |DanielPoodratchi
+|YvonneSchubert   |RainerWasserfuhr|DanielPoodratchi
+|DanielPoodratchi |RainerWasserfuhr|YvonneSchubert
+|RicardaDHerbrand |pending: VerFassung|RainerWasserfuhr
+|AndreasWeigel    |RainerWasserfuhr|YvonneSchubert
+|UteMoritz        |RainerWasserfuhr|
+|NicoHagenburger  |RainerWasserfuhr|
+|TinaPickhardt    |RainerWasserfuhr|
+|TimBonnemann     |RainerWasserfuhr|
+|ChristineSchlinck|RainerWasserfuhr|YvonneSchubert
+|OliverGassner    |RainerWasserfuhr|YvonneSchubert
+|IngridaPlunksnyte|RainerWasserfuhr|YvonneSchubert
+|PierreKerchner   |RainerWasserfuhr|
+|NicoleZiesche    |RainerWasserfuhr|
+|AndreasDittes    |RainerWasserfuhr|
+|JanaDiesner      |RainerWasserfuhr|YvonneSchubert
+|MattisManzel     |RainerWasserfuhr|
+|HeikeRibke       |RainerWasserfuhr|YvonneSchubert
+|JensFreydank     |RainerWasserfuhr|
+|KatharinaKuehnel |RainerWasserfuhr|YvonneSchubert
+|DimitriUwarov    |RainerWasserfuhr|
+|IrisSchilke      |RainerWasserfuhr|
+|SebastianMitter  |RainerWasserfuhr|
+
+
+Diese WikiSpec inclusive MindTrust in Kürze automatisch auf http://id.mindbroker.de/.

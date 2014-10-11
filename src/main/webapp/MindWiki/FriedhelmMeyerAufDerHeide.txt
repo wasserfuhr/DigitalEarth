@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/FMaufderHeide
+* HomePage: http://wwwhni.uni-paderborn.de/alg/mitarbeiter/fmadh/
+* PageNumber: 4
+* PagePath: LarryPage SergeyBrin MonikaHenzinger KurtMehlhorn FriedhelmMeyerAufDerHeide

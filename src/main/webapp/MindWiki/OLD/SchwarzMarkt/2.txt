@@ -1,0 +1,4 @@
+* IsA: MindEvent
+* MindPlace: KleinHaus
+* HomePage: http://www.staatsschauspiel-dresden.de/spielplan/schwarzmarkt_fuer_nuetzliches_wissen_12/
+* MindOne: HannahHurtzig

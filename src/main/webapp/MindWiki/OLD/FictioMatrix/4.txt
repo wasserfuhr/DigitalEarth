@@ -1,0 +1,21 @@
+Welche Filme und Romane verwenden welche futurologischen Konzepte?:
+
+||             ||ArTelligence||UpLoad||SiMa||BioPort
+|AccelerAndo   |x            |x      |?    |
+|MinorityReport|             |       |     |
+|RealFilm      |x            |x      |x    |x
+|SpaceOdyssey  |x            |       |     |
+|TheGame       |             |       |x    |
+|TheMatrix     |             |       |x    |
+|WeltAmDraht   |             |       |x    |
+|eXistenZ      |             |       |x    |x
+
+* 13th floor
+* Niemand kennt niemanden
+* Metropolis
+* Solaris
+* Star trek
+* Perry Rhodan
+* CaiptnFuture
+* FlieWaTuet
+* Robocob

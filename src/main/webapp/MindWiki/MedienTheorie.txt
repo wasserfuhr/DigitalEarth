@@ -1,0 +1,3 @@
+IsDead: wäre 
+# ein IsMus
+# es gibt nur noch DasNetz

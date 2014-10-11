@@ -1,0 +1,3 @@
+* InterWiki: [DeWikiPedia:Real_Life_(Netzkultur)], [MeatballWiki:RealLife], [WikiWikiWeb:RealLife]
+
+ReFrame it as a GameOfLife.

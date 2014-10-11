@@ -1,0 +1,28 @@
+Ein WorldModel für das AiGame:
+* inspiriert durch TomStonier,
+* idealisierter Basiswürfel der Kantenlänge 2^24m (16777,216 km), rekursiv halbiert
+* 1 Kubikmeter großen Würfelzellen, die im einfachsten Modell genau 1 Bit repräsentieren könnten, 
+* aus Gründen der AisThesis AsCii-Kompatibilität aber eine binärcodierbare Menge von 16*16 MindColor's sind
+* [WikiPedia:ECEF]-orientiert
+* (0,0,0) = Mittelpunkt von PlanetErde
+* x-Richtung: BreitenGrad=LaengenGrad=0, 600km südlich von [DeWikiPedia:Accra], y-Richtung: Bengalischer Rücken, z: NordPol
+* die Zustände der Würfel wechseln alle gleichzeitig im Takt von 1 GHz
+* Der Folgezustand ist determiniert durch
+** den aktuellen Zustand
+** die Zustände der 8 Nachbarwürfel:
+*** x: front-rear
+*** y: left-right
+*** z: top-bottom
+** den Zustand des input-sensors
+* durch geschickte Wahl von Zustandsübergangsformeln kann man in TerraMind Kommunikationsröhren und -tuben eincoden 
+* Um eine Nachricht von einer Ecke von TerraMind zur anderen zu schicken braucht man also annähernd 10 msec
+* Zustandswechsel in TerraMind erfolgen also nicht über Lichtgeschwindigkeit
+* Die Zustandsübergangsformeln werden ihrerseits wie bei einer Von-Neumann-Maschine auf TerraMind codiert
+* Die Zustandsübergangsformeln sind wie bei NoMic auch selbst änderbar. (Wie? DoIt: genauer ausdenken)
+* Die Würfel an der äusseren Hülle von TerraMind dürfen meinetwegen in jedem Takt die Farben der Außenwelt wahrnehmen
+* TerraMind kann durch Zellteilung seine Verarbeitungskapazität steigern.
+* Zellteilung erfolgt mit ExPo'nentieller Geschwindigkeit
+
+Später für den RealFilm: Eine Variation des TheMatrix-Motivs der humanen Bioenergiemaschinen. PlanetErde wandelt sich durch TerraForming in ein MashUp aus Computronicum, Riesen-TuringMaschine und Zellularautomat.
+
+Hypothese: Die physikalisch-chemisch-biologisch-kulturell-technologische Evolution von PlanetErde hat das Ziel, TerraMind zu schaffen. ConScious'ness ist ein Hilfsmittel, dies zu beschleunigen. AcCelerate'ing IqProQm.

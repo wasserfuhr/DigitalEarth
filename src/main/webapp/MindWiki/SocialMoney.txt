@@ -1,0 +1,3 @@
+each PayMent publicly inside the public SocialGraph.
+
+OpenMoney

@@ -1,0 +1,4 @@
+thinking about the NextAction vs actually PerForm'ing it. Simulation inside the WorldModel.
+When having done it: measure and ComPare the ImPact's vs the PreDict'ed implications.
+
+e.g. SpeechAct

@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/HansPeterSeidel
+* HomePage: http://www.mpi-inf.mpg.de/~hpseidel/
+* PageNumber: 6
+* PagePath: LarryPage SergeyBrin MonikaHenzinger KurtMehlhorn FriedhelmMeyerAufDerHeide MichaelWand HansPeterSeidel

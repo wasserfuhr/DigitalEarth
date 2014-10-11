@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BreitenGrad: 21.3316
+* LaengenGrad: -157.91
+* BoundingBox: 2000
+
+Wie InSider wissen: WikiBasiert.

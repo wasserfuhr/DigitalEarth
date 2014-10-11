@@ -1,0 +1,6 @@
+* MindTags: FutureCard
+* PreDict: 90% aller InterNet-Nutzer auf PlanetErde werden ganz ohne IhMail leben können und stattdessen spamfreie InBox'es in WebOfTrust-basierten SocialNetwork's haben, die dank OpenSocialMail auch SocialNetwork-übergreifend miteinander kommunizieren können.
+
+First concepts: SocialMail = OpenId + OpenIdWiki:Send_A_Message_Protocol + WebOfTrust,
+
+where WebOfTrust = Decentralized PeerToPeer OpenId-whitelist aggregation+syndication.

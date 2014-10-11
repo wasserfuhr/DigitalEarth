@@ -1,0 +1,31 @@
+Erklärung: [WikiWikiWeb:InterWiki]
+
+Hier als Copy+Paste für /WEB-INF/jspwiki.properties des AgWiki:
+
+{{{
+jspwiki.interWikiRef.BlogLines      =http://bloglines.com/public/%s
+jspwiki.interWikiRef.ClaimId        =http://claimid.com/%s
+jspwiki.interWikiRef.DelIcioUs      =http://del.icio.us/%s
+jspwiki.interWikiRef.DeWikiPedia    =http://de.wikipedia.org/wiki/%s
+jspwiki.interWikiRef.DeWikiPediaUser=http://de.wikipedia.org/wiki/Benutzer:%s
+jspwiki.interWikiRef.FaceBook       =http://www.facebook.com/profile.php?id=%s
+jspwiki.interWikiRef.FlickEr        =http://www.flickr.com/photos/%s/
+jspwiki.interWikiRef.GoogleSearch   =http://www.google.com/search?q=%s
+jspwiki.interWikiRef.IhBay          =http://myworld.ebay.com/%s
+jspwiki.interWikiRef.JSPWiki        =http://www.jspwiki.org/Wiki.jsp?page=%s
+jspwiki.interWikiRef.LinkedIn       =http://www.linkedin.com/in/%s
+jspwiki.interWikiRef.NeuDe          =http://neu.de/profile/%s
+jspwiki.interWikiRef.PlaZes         =http://plazes.com/users/%s
+jspwiki.interWikiRef.SecondLife     =http://www.sloog.org/users/%s
+jspwiki.interWikiRef.SkyPe          =skype:%s?chat
+jspwiki.interWikiRef.StudiVz        =http://www.studivz.net/profile.php?ids=%s
+jspwiki.interWikiRef.TwittEr        =http://twitter.com/%s
+jspwiki.interWikiRef.WikiPedia      =http://en.wikipedia.org/wiki/%s
+jspwiki.interWikiRef.WikiPediaUser  =http://en.wikipedia.org/wiki/User:%s
+jspwiki.interWikiRef.WikiWikiWeb    =http://c2.com/cgi/wiki?%s
+jspwiki.interWikiRef.WorldWideWeb   =http://%s/
+jspwiki.interWikiRef.XingLe         =https://www.xing.com/profile/%s
+jspwiki.interWikiRef.YouTube        =http://youtube.com/user/%s
+}}}
+
+aktuelle InterWiki Links: SystemInfo

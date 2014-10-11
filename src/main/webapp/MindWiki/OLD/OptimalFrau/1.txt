@@ -1,0 +1,3 @@
+BeuteSchema für den TransparentMan. Maschinenlesbar. 
+
+ActionGraph DieLiebe PolyTreu StriPs

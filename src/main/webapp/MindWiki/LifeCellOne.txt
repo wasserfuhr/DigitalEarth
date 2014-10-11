@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* MindLine: 2012
+* BreitenGrad: 51.0782
+* LaengenGrad: 13.7112
+* BoundingBox: 100

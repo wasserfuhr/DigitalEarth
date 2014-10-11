@@ -1,0 +1,24 @@
+Dinge die BuergerInnen beim Aufbau von NooPolis tun könnten:
+
+|| ||h||Projekt||Budget|| || ||
+| | 4|MindWiki     | 0|code   |MindCss
+| | 4|MindWiki     | 0|designe|MindLogo
+| | 4|MindWiki     | 0|code   |FacIvon für MindLog
+| | 4|MindFloor    | 0|code   |MindCss
+| | 4|MindHome     | 0|code   |MindCss
+| | 4|GeoMindBroker| 0|code   |MindCss
+| | 4|UnserGrid    | 0|code   |RSS Feed
+| | 1|DoItProject  | 0|integriere|MindLine
+| | 4|DoItProject  | 0|migriere |Jedes Item der DoIt-Tabelle als Item
+| | 4|DoItProject  | 0|integriere|Seitenwechsel
+| | 4|DoItProject  | 0|erstelle |die Seite "Konfiguration"
+| | 4|DoItProject  | 0|integriere|export Funktion für DoIt zu iCal (ics)
+| | 4|DoItProject  | 0|integriere|Projects
+| | 4|DoItProject  | 0|integriere|bessere DetailAnsicht von den ToDos (schon besprochen)
+| | 2|DoItProject  | 0|integriere|DoJo DatePicker
+| | 2|DoItProject  | 0|erstelle |Haken für dropDownMenüs
+| | ?|SportPortal  | 0|code |Suche von Usern, Clubs, Teams
+| | ?|SportPortal  | 0|code |Anzeige von User, die zuletzt auf meinem Profil waren
+| | ?|SportPortal  | 0|code |Profile von Clubs, Teams
+| | ?|SportPortal  | 0|code |mehrere Admins von Clubs und Teams
+| | ?|SportPortal  | 0|code |Fotoalben für User, Teams und Clubs

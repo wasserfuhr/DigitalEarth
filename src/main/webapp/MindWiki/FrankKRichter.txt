@@ -1,0 +1,3 @@
+* IsA: PerSon
+* HasTalked: HeidiMorgenstern RainerWasserfuhr
+* HomePage: http://www.isaart.com/FrankK_Richter.html

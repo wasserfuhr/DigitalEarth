@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Chico_MacMurtrie]
+* HasTalked: HolgerJohn
+
+RobOt-art

@@ -1,0 +1,7 @@
+* IsA: PerSon
+* BornIn: 1973
+* ViAf: http://viaf.org/viaf/3695236
+* HomePage: http://www.yabusame.de/
+* WorksFor: FraunHofer
+|[XingLe:Jens_Doege]
+|[FaceBook:100000220959397]

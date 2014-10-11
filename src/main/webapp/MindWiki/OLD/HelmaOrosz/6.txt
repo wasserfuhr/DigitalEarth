@@ -1,0 +1,8 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Helma_Orosz]
+* JahrGang: 1953
+* BirthDay: 05-11
+* ViAf: http://viaf.org/viaf/35605146
+* HomePage: http://www.helma-orosz.de/
+* LandingPage: SchubLade
+* MindFaves: HowardCarpendale

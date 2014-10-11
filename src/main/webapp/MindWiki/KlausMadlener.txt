@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* JahrGang: 1947
+* BirthDay: 01-15
+* DbLp: http://dblp.uni-trier.de/rec/pid/m/KlausMadlener
+* ViAf: http://viaf.org/viaf/37476658
+* HomePage: http://www-madlener.informatik.uni-kl.de/staff/madlener/madlener_en.html
+* PageNumber: 8
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach JuergenAvenhaus KlausMadlener

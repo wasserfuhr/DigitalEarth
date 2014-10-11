@@ -1,0 +1,13 @@
+* IsA: ProFessor
+* InterWiki: [LangReiter:Peter+Norvig] [WebSeitz:PeterNorvig] [WikiPedia:Peter_Norvig] [WikiWikiWeb:PeterNorvig]
+* BornIn: 1956
+* DbLp: http://dblp.uni-trier.de/rec/pid/n/PeterNorvig
+* HomePage: http://norvig.com/
+* PastProjects: VerbMobil
+* UsElection08: BarackObama
+* MindSkill: ArTelligence
+* MindFaves: HawaiiShirt
+* PageNumber: 10
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi AlexAiken RalfTreinen JanaKoehler ShlomoZilberstein StuartRussell PeterNorvig
+
+NoBirthday

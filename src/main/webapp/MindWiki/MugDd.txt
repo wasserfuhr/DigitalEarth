@@ -1,0 +1,5 @@
+* IsA: EventSeries
+* HomePage: http://macuser-dresden.de/
+|[TwittEr:mugdd]
+
+MindMac StadtDresden

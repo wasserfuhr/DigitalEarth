@@ -1,0 +1,10 @@
+* IsA: PerSon
+* EnsId: http://www.okkam.org/entity/ok5f23a5ce-a683-4c4d-ae73-b78cdc17aec1
+* SwDf: http://data.semanticweb.org/person/heiko-stoermer
+* DbLp: http://dblp.uni-trier.de/rec/pid/28/905
+* HomePage: http://www.heiko-stoermer.net/
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker HolgerWache HeikoStoermer
+* MindSkill: QrCode
+|[XingLe:Heiko_Stoermer]
+|[TwittEr:stoermer]

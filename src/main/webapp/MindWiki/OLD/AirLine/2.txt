@@ -1,0 +1,11 @@
+Die erfolgreichste AirLine auf PlanetErde des Jahres 2015 wird haben:
+* Nur noch Tickets für BuergerInnen mit MindId
+* Realtime-Flugbewegungen in SecondMind 
+* keine starren Flugpläne mehr, sondern dynamisches OnDemand-Scheduling
+* dynamisches Pricing per PowerQueue
+* Die Purser und Stewardessen strippen, wenn sie beim PoKern mitmachen
+* Ein FlightWiki mit Seite der Fluggäste für jeden Flug
+* Die fordesten Plätze sind die besten, vorn gibt es MindCuisine, in der letzten Reihe nur MindWater und BotBrot.
+* Flugberechtigt sind Kontakte bis 3. Grades des InnenMinister's
+* Das CockPit ist Raucherzone
+* gesteuert wird global per TeleFlyByWire vom Kontrollzentrum am GrueterichInternationalAirport

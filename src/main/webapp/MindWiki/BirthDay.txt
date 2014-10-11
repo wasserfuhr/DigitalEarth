@@ -1,0 +1,53 @@
+* RdfProperty: http://xmlns.com/foaf/0.1/#birthday
+* InterWiki: [OpenCyc:birthDay]
+* MindQuote: "durch die brille einer künstlichen äquivalenzrelation mit 366 repräsentanten schaut geistesgeschichte wie ein müllhaufen aus."
+
+Kleine Gedächtnisstütze für RainerWasserfuhr zum einfacheren Merken von BirthDay's:
+Jeweilige Repräsentanten für Month+Day:
+
+||Month||MindPeople
+|05|RainerWasserfuhr
+|04|KurtGoedel
+|03|AlexanderGrothendieck
+|02|RayKurzweil,SeppMaier
+|01|ManuelaAmann
+|12|ArthurCClarke
+|11|MaRo
+|10|BillGates
+|09|YvonneSchubert
+|08|JohannWolfgangVonGoethe
+|07|ChristineSchlinck
+|06|AlanTuring
+
+||Day||MindPeople
+|31|JohnSearle
+|30|DougEngelbart,ClaudeShannon
+|29|TeresaOrlowski
+|28|RainerWasserfuhr
+|27|MoZart,MartinZs
+|26|YvonneSchubert
+|25|ErichHonecker
+|24|JesusChrist
+|23|HelmutSchmidt,MaxPlanck
+|22|ImmanuelKant
+|21|MaxWeber,HassoPlattner,GuenterBlobel
+|20|AubreyDeGrey,NicoleKidman,SoerenStamer
+|19|GoSeigen,ShaiAgassi
+|18|JuergenHabermas
+|17|LarryEllison
+|16|ArthurCClarke,BeetHoven
+|15|FriedrichNietzsche
+|14|AlbertEinstein,CraigVenter
+|13|JohnNash
+|12|WernerWasserfuhr
+|11|HeidiGallinat,BeckenBauer
+|10|NickBostrom,VernorVinge,ShaneLegg
+|09|GunterDueck
+|08|ManuelaAmann
+|07|UteMoritz
+|06|RobertMusil
+|05|MarcusBertelsmeier,MartinRoell
+|04|ZigaTurk,BarackObama,JoergVossbrink
+|03|CemBasman
+|02|MikhailGorbachev
+|01|ChristineSchlinck

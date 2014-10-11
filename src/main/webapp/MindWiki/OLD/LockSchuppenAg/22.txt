@@ -1,0 +1,46 @@
+* MindTags: EnterPrise
+* MindOne: RalfLippold
+* WikiAngel: RainerWasserfuhr
+* MitWirkende: ChristineSchlinck, CorneliaHeinz?, ReneRueggebrecht?, RicoLieberwirth?, JoergKeller?, RainerSchulz??, MarcusBertelsmeier??, MarkusStamm??, YvonneSchubert???
+
+The LockSchuppenAg is a VirtualEnterprise to plan, build and operate the LockSchuppen.
+
+The LockSchuppenAg has 1.000 Shares - like each EnterPrise in the TradeRegister of NooPolis.
+
+''Die LockSchuppenAg ist ein VirtuellesUnternehmen zur Planung, zum Bau und zum Betrieb des LockSchuppen's.
+
+Die PieschenBank hat dazu im HausHalt von NooPolis ein Startkapital von 1.000.000 KayGroschen bereitgestellt.
+
+Die LockSchuppenAg hat wie jedes UnterNehmen im HandelsRegister von NooPolis 1.000 Shares.
+
+Jeder GeWinn aus UmSatz (zb Mieteinnahmen) verteilt sich in der ZuKunft gemäss:''
+
+||Shares||ShareHolder
+|788|RalfLippold
+|200|RainerWasserfuhr
+|  7|ChristianHeller
+|  2|CorneliaHeinz
+|  2|RicoLieberwirth
+|  1|SimonKoeppl
+
+Currently the following shares are publicly traded in the OrderBook of the MindFloor:
+
+''Derzeit werden folgende Shares öffentlich im OrderBuch des MindFloor's gehandelt:''
+
+!OrderBuch:
+||ShareHolder     ||Geld-Stück||Kurs[1]||Brief-Stück
+|RainerWasserfuhr |           |8192|32
+|RainerWasserfuhr |           |4096|16
+|RainerWasserfuhr |           |2048|1
+|RainerWasserfuhr |           |1024|1
+|RalfLippold      |           | 512|21
+||Last StockPrice ||          ||512||
+|RainerWasserfuhr |          1| 256|
+|RainerWasserfuhr |          2| 128|
+|RainerWasserfuhr |          4|  64|
+|RainerWasserfuhr |          8|  32|
+|RainerWasserfuhr |         16|  16|
+|RainerWasserfuhr |         32|   8|
+[#1] in KayGroschen
+
+former orders are documented on the MindFloor.

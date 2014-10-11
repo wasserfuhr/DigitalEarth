@@ -1,0 +1,7 @@
+* finde viele gute und kluge BuergerInnen für den Aufbau von NooPolis
+* finde MitWirkende mit CommitMent
+* handle, tausche und schenke KayGroschen zwischen BuergerInnen
+* übersetze die VerFassung in wichtige WeltSprache'n
+* code eine funktionsfähige InBox für die Kommunikation zwischen BuergerInnen.
+
+konkret: DoIt.

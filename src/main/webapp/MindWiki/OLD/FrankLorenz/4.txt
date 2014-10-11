@@ -1,0 +1,16 @@
+JahrGang: 1979
+
+WohnSitz: StadtDresden
+
+LebensErwartung: 2059
+
+||AusLand
+|[ClaimId:franklorenz]
+|[DoppLr:elbflorenz]
+|[FaceBook:738049033]
+|[FlickEr:elbflorenz]
+|[LinkedIn:franklorenz]
+|[TwittEr:elbflorenz]
+|[SkyPe:elbflorenz]
+|[SecondLife:Frank_Sachs] DasFunktioniertNicht
+|[XingLe:Frank_Lorenz21]

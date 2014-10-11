@@ -1,0 +1,6 @@
+in UhTopia.
+
+* BreitenGrad: 0
+* LaengenGrad: 0
+* BoundingBox: 6000000 
+* NormalNull: -6000000

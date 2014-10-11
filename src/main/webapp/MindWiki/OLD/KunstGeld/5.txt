@@ -1,0 +1,11 @@
+»KunstGeld« is a KunstWerk by PieschenArtGroup where HeidiMorgenstern and RainerWasserfuhr sign BankNote's and sell for KayGroschen them via ReverseAuction.
+
+|| ||Currency||SerialNumber||KayGroschen||Owner
+|10|EuRo|X43308830612|2048|ChSc
+|10|EuRo|X44375238173|128|FrLo
+|10|EuRo|X52139724113|256|RaWa
+|10|EuRo|X53826893669|512|RaWa
+|10|EuRo|X48168497369|1024|RaWa
+|1|UsDollar|C09854763C| |RaWa
+|1|UsDollar|E21491569E| |RaWa
+|1|UsDollar|F16706409S| |RaWa

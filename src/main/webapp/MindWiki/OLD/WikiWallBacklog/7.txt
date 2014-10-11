@@ -1,0 +1,17 @@
+The WikiWall BackLog keeps track of the WikiPage's or WantedPages that were removed from the WikiWall.
+
+!RePlace'ments
+* 2010-03-06 UlrichSoeder HolgerDemnitz LisaPirwitz LinusTorvalds ThomasGerhardt KuechenRadio HeikoKrebs SupPorter TwitterBachelor by BobMetcalfe JaneMcGonigal EnerNet FutureModel InternetOfThings ScreenR WikiWallAd WikiWallAd WikiWallAd
+* 2010-02-21 AudioTagging EquipMent ShadowBoard by ArthurCClarke GeSund SpaceLift
+
+!Candidates for RePlace'ment:
+* BeatZentrale
+* MySpace
+* UlrichDeppendorf
+* SpuerschtWieIDenk
+* AlexanderGoetze
+* DresdenChess
+* UiRr
+* HistVv
+* WalterRiester
+* DougLenat

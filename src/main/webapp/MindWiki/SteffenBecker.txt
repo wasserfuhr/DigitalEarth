@@ -1,0 +1,5 @@
+* IsA: PerSon
+* HasTalked: RalfLippold
+|[FaceBook:1522117469]
+|[TwittEr:BeckerCoaching]
+|[XingLe:Steffen_Becker5]

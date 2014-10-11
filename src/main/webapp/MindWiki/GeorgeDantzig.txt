@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:George_Dantzig]
+* BornIn: 1914
+* BirthDay: 11-08
+* DiedIn: 2005
+* ViAf: http://viaf.org/viaf/17287797
+* DbLp: http://dblp.uni-trier.de/rec/pid/12/1130
+* MindSkill: TravelingSalesmanProblem

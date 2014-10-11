@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: 52.5201
+* LaengenGrad: 13.3694
+* BoundingBox: 1
+* http://www.klingt.net/wp/?p=126

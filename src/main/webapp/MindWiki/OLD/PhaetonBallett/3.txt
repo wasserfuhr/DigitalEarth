@@ -1,0 +1,4 @@
+* MindTags: FutureCard
+* CardOwner: PeterMichel
+* PreDict: Im öffentlichen Strassenverkehr der StadtDresden werden regelmässig mindestens 12 fahrerlose [DeWikiPedia:VW_Phaeton] fahren
+* UnTil: 2030

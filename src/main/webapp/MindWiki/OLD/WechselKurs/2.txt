@@ -1,0 +1,3 @@
+Der nominale Wechselkurs gibt an, in welchem Verhältnis KayGroschen gegen Euro getauscht werden können. 
+
+Dieser Wechselkurs ist flexibel und wird durch Angebot und Nachfrage bestimmt. 

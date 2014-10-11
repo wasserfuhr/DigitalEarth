@@ -1,0 +1,5 @@
+* MindTags: ProJect
+* HerKunft: "Networked Environment for Personalized, Ontology-based Management of Unified Knowledge"
+* InterWiki: [WikiPedia:NEPOMUK_(framework)]
+* MitWirkende: AnsgarBernardi, LeoSauermann
+* HomePage: http://nepomuk.semanticdesktop.org/

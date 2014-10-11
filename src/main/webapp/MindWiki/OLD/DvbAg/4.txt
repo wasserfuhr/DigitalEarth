@@ -1,0 +1,12 @@
+* MindTags: EnterPrise
+* InterWiki: [DeWikiPedia:Dresdner_Verkehrsbetriebe]
+* HomePage: http://www.dvb.de/
+* MindOne: HansJuergenCrede
+* MindOne: ReinerZieschank
+
+* LinieDrei
+* LinieVier
+* LinieNeun
+* LinieElf
+* LinieZwoelf
+* LinieDreizehn

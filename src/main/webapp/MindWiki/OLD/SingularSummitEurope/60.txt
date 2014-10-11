@@ -1,0 +1,215 @@
+* MindTags: MindEvent
+* HashTag: sse09
+
+An early stage ProJect of RainerWasserfuhr, RalfLippold, ChristineSchlinck, SiggiBecker EtAl:
+
+The
+
+__SingularSummitEurope__
+
+- already 2010 in the LockSchuppen? With RayKurzweil?, Simultan-TransLate'd für DeutschSprech'ende???
+
+* __When?__: One or two days in spring 2010?
+
+* __Where?__: TuDresden or GehAcht or PanoMeter or CongressCenterDresden or SemperOper'a or LockSchuppen??
+
+* __What?__: a mixture of a classical conference with a few KeyNote's plus a SingularCamp with OpenSpace elements.
+
+HotTopics:
+* AcceleratingChange
+* MooresLaw
+* TheSingularity
+* FriendlyAi
+* BrainComputerInterface
+* QuantPuter
+* PostPrivacy
+* SynBio
+* SeaSteading
+
+OrgaTeam: RainerWasserfuhr, RalfLippold, SiggiBecker, ChristineSchlinck, ChristianHeller, DavidOrban? BobRichards?
+
+Participants can apply for a special SingularSummitEurope-ScholarShip.
+
+The ScholarShip has to be approved by at least two of the OrgaTeam members.
+
+OpenBook: Each PayMent of sponsors and participants is TransParent'ly documented in the MindWiki. 
+* 27,1828182% of earnings will go as a donation to the MethuselahFoundation.
+* the remaining earnings will go to the LockSchuppenAg.
+
+If you are interested to participate, please join the __FutureChat__ to discuss the details.
+
+!BrainStorm: Sponsors:
+* AirBerlin
+* AppleInc
+* BrandEins
+* ClariumCapital
+* CyberPort
+* DeutscheBahn
+* DeutscheTelekom
+* DeutscheWelle
+* DieZeit
+* DresdenInternationalUniversity
+* DvbAg
+* EaDs
+* FreistaatSachsen
+* FutureSax
+* GenRob
+* GermanWings
+* GlsBank
+* GoogleInc
+* HotelSuitess
+* HtwDresden
+* IBM
+* LaVilletta
+* LuftHansa
+* MunichRe
+* NeoOrg
+* RundKino
+* SingularityUniversity
+* StadtDresden
+* SuppenBar
+* SwissRe
+* TaschenBerg
+* TSystemsMms
+* TuDresden
+* VirginGalactic
+* SaftBlog
+* XingLe
+* ZeppelinUniversity
+
+!BrainStorm: Participants, KeyNote-Speaker, Moderators, ProFessor's, SingularityMind's, ZukunftsForscher, EntrePreneur's, OrgaTeam:
+
+||Participant       ||[1]||[2]||[3]||[4]||[5]||[6]||Ticket||WantsToPay[7]||HasPayed||ApprovedBy
+|AndersSandberg     | | | | | | | | | |
+|AndreasPoldrack    | | | | | | | | | |
+|AndreasStuhlmueller| | | | |E| | | | |
+|AnjaEigner         | | | | | | | | | |
+|AnneWill           | |M| | | | | | | |
+|AubreyDeGrey       |K| | | | | | | | |
+|AxelOckenfels      | | | |P| | | | | |
+|BastiHirsch        | | | | | | | | | |
+|BenGoertzel        |K| |S| |E| | | | |
+|BertramDressel     | | | | | | | | | |
+|BillGates          | | | | |E| | | | |
+|BillLiao           | | | | |E| | | | |
+|BrunoGiussani      | | | | | | | | | |
+|BobRichards        | | | | | | | | | |
+|CharlesStross      | | |S| | | | | | |
+|ChristineSchlinck  | | | | | |O|0000000000| 64|  |RainerWasserfuhr
+|ChristianHeller    | | |S| | |O|0000000001| 32| 32|RainerWasserfuhr,RalfLippold
+|DirkBaecker        | | | |P| | | | | |
+|DavidBrin          |K| |S| | | | | | |
+|DavidOrban         | | | | | | | | | |
+|DirkHilbert        | | | | | | | | | |
+|DirkRoehrborn      | | | | |E| | | | |
+|PeterKlingenburg   | | | | | | | | | |
+|EdgarSchein        | | | | | | | | | |
+|FrankRoebers       | | | | |E| | | | |
+|FrankSchoenefeld   | | | | | | | | | |
+|FrankVeit          | | | | | | | | | | 
+|FranzJosefRadermacher| | |S|P| | | | | 
+|GunterDueck        | | |S| | | | | | |
+|GuentherJauch      | |M| | | | | | | |
+|GuentherSchiwy     | | |S| | | | | | |
+|GuyKawasaki        | | | | | | | | | |
+|HagenStanek        | | | | |E| | | | |
+|HansMeuer          | | |S|P| | | | | |
+|HassoPlattner      | | |S|P|E| | | | |
+|HeikkiToivanen     | | | | | | | | | |
+|HelmaOrosz         | | | | | | | | | |
+|HenryMarkram       |K| |S|P| | | | | |
+|HubertBurda        | | | | |E| | | | |
+|IanPearson         | | |S| |
+|JanBoehme          | | | | | | |0000000010| 32|   |RainerWasserfuhr,RalfLippold
+|JayForrester       | | |S|P|
+|JensBemme          | | | | |
+|JirkaSchaefer      | | | | |E
+|JoachimBublath     | |M| | | 
+|JoachimNiemeier    | | | |P|
+|JoergKeller        | | | | | 
+|JoergSiekmann      | | |S|P|
+|JohnNash           |K| |S|P|
+|JohnSterman        | | |S|P|
+|JuergenAnke        | | | | |E
+|JuergenSchmidhuber | |S| |P|E
+|KerstinTrautmann   | | | | |
+|KevinKelly         |K| |S| |
+|KurtBiedenkopf     | | | |P|
+|LarsHinrichs       | | | | |E
+|MagdalenaBoettger  | | | | |
+|MarcAndreessen     | | | | |E
+|MarcusBertelsmeier | | | | |E
+|MarioSixtus        | | | | |
+|MarkusFuhrmann     | | | | |
+|MartinNowak        | | | |P|
+|MartinRoell        | | | | |
+|MartinVarsavsky    | | | | |E
+|MatthiasHorx       | | |S| |
+|MichaelGreve       | | | | |E
+|MichaelSchefczyk   | | | |P|
+|NickBostrom        | | |S| |
+|NikolaiKardashev   |K| |S|P|
+|NorbertRost        | | | | |
+|NorbertBolz        | | |S| |
+|NovaSpivack        | | |S| |E
+|OliverAngerer      | | |S| |
+|OliverGassner      | | | | |
+|OliverWrede        | | | |P|
+|OttoScharmer       | | | |P|
+|PeterClaussen      | | | | |
+|PeterHines         | | | |P|
+|PeterKlingenburg   | | | | |
+|PeterKruse         | | | |P| 
+|PeterNorvig        | | |S|P|
+|PeterSenge         | | | | | 
+|PeterThiel         |K| |S| |E
+|RaimarScherer      | | | |P|
+|RainerWasserfuhr   | | |S| | |O
+|RalfLippold        | | | | | |O
+|RangaYogeshwar     | |M| | | 
+|RangaYogeshwar     | |M| | | 
+|RebeccaHenderson     | | | |P|
+|ReinhardHeil       | | | | | 
+|RichardBranson     | | |S| |E
+|RichardFlorida     | | | |P|
+|SebastianMitter    | | | | |E| |0000000011| 32|   |	  
+|SebastianThrun     | | |S|P|
+|SethGodin          | | | | | 
+|SiggiBecker        | | |S| | |O
+|SoerenStamer       | | |S| |E
+|SteffenHoelldobler | | | |P| 
+|StephanJansen      | | | |P| 
+|SteveJurvetson     | | |S| |E
+|TimBl              |K| |S|P|
+|TimBruysten        | | | | |
+|TimOReilly         | | |S| |E
+|TobiasKaufmann     | | | | |
+|ViktoriaTrosien    | | | | |E
+|WilliamShatner     | | | | | 
+|WilliSchroll       | | | | | 
+|WilmHeinrich       | |M| | | 
+|WinfriedLachnit    | | | |P| 
+|WolfgangBibel      | | | |P| 
+|WolfgangDonsbach   | | | |P|
+|WolfgangWahlster   | | |S|P|
+|YadegarAsisi       |K| |S| |
+|ZigaTurk           | | |S|P|
+* [#1] Candidate as the KeyNote-Speaker
+* [#2] Moderator
+* [#3] Speaker
+* [#4] ProFessor
+* [#5] EntrePreneur
+* [#6] OrgaTeam
+* [#7] in EuRo
+
+Special guests:
+|AnSto |
+|ChSchu |
+|JuSt
+|MaSc 
+
+!Competing Events
+Avoid collisions with:
+* 20091023 WwWebLern
+* SingularitySummit 2009
+* 20100610: ZukunftsForum

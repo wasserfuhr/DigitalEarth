@@ -1,0 +1,8 @@
+Lists of MindPeople:
+* AcceleratingFuturePeopleDatabase
+* ElektrischerReporter
+* ForbesList
+* FrankfurterTreppe
+* GermanysBestWebFounder
+* OvercomingBias
+* SingularitySummit

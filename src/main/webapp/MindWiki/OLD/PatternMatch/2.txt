@@ -1,0 +1,5 @@
+If NewMind can PerCeive, it can PatternMatch the InPut against the PageIndex.
+
+How does a PatternMatch influence the NextAction?
+
+NeuroBalance?

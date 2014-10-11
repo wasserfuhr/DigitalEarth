@@ -1,0 +1,4 @@
+* IsA: MindPlace
+* InterWiki: [DeWikiPedia:ThULB]
+* HomePage: http://www.thulb.uni-jena.de/
+* PartOf: StadtJena

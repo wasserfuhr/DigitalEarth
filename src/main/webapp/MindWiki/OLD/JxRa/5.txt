@@ -1,0 +1,12 @@
+* MindTags: RandomlyGeneratedPageName PerSona
+* IntelLigence: 138
+* KasimirNummer: 0
+* LifeExpectancy: 2042
+* KnowLedge: 8300
+* GeSund: 0.9
+* InVentory: MoleskineOne NepTun MindPhone MindErsatzPhone BikeOne ZickTisch SchatzKiste BedOne BedTwo ToothBrushOne
+* TestosteroneLevel: 40
+* MindPlace: WirkZentrum
+* BlutDruck: 130/82
+* FullNess: 0.4
+* ThirstiNess: 0.8

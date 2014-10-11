@@ -1,0 +1,7 @@
+WasSchaetztDu: Welche ErWartung haben BuergerInnen an den UmSatz im MindShop:
+
+||Erwartung      ||bis   ||Produkt   ||Stück||Preis||Gesamt
+|RainerWasserfuhr|2008-12|KayGroschen| |
+|RainerWasserfuhr|2008-12|StartUpSim |1|99.999|99.999
+|RainerWasserfuhr|2008-12|LiebesRinge|2|99.999|99.999
+|RainerWasserfuhr|2008-12|EheRinge   |1|99.999|99.999

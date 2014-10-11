@@ -1,0 +1,15 @@
+* IsA: ProFessor
+* HomePage: http://vlado.fmf.uni-lj.si/
+
+TurkNumber:
+
+TurkPath:
+# [http://dblp.uni-trier.de/db/indices/a-tree/b/Batagelj:Vladimir.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/a/Ahmed:Adel.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/h/Hong:Seok=Hee.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/b/Buchheim:Christoph.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/j/J=uuml=nger:Michael.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/m/Mehlhorn:Kurt.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/h/Henzinger:Monika_Rauch.html]
+# SergeyBrin
+# LarryPage

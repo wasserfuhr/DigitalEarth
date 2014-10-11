@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/c/TChristaller
+* JahrGang: 1949
+* BirthDay: 05-06
+* HomePage: http://www.iais.fraunhofer.de/christaller.html
+* MindSkill: ArTelligence
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann ThomasChristaller

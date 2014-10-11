@@ -1,0 +1,5 @@
+* InterWiki: [DeWikiPedia:Tobin-Steuer]
+
+Laut aktuell gültiger VerFassung können alle BuergerInnen  auf ihrer Profilseite im MindWiki ein TobinTaxVote abgeben.
+Bald könnte bei überregionalen Zahlungsflüssen dann automatisch bei jeder Bewegung auf dem BankKonto
+eine TobinTax abgerechnet werden, die beispielsweise in einen CeOhZwo-Fonds geleitet werden könnte.

@@ -1,0 +1,3 @@
+* IsA: TownHall
+* ArchiTect: GottfriedSemper
+* PartOf: StadthausStrasse

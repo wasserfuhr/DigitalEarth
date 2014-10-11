@@ -1,0 +1,16 @@
+EhochIx
+
+SecondHalfOfTheChessboard - distribution of digits:
+||Digit||[1]||[2]
+|1|169|169
+|7|158|158
+|4|175|150
+|9|150|150
+|2|172|147
+|8|171|146
+|3|146|146
+|5|146|146
+|6|156|131
+|0|128|128
+* [1] with last digit
+* [2] without last digit (2, 4, 6 or 8)

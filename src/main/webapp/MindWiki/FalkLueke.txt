@@ -1,0 +1,4 @@
+* IsA: PerSon
+* HasTalked: RainerWasserfuhr
+* HomePage: http://www.falk-lueke.de/
+|[TwittEr:flueke]

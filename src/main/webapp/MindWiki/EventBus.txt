@@ -1,0 +1,1 @@
+the fundamental table of MindBase. One Java VirtualMachine (the only SinglePointOfFailure) which has a java "Long" counter starting from ThoughtOne. NewMind-PanOrama

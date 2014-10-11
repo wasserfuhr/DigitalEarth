@@ -1,0 +1,8 @@
+* MindTags: FutureCard
+* InterWiki: [WikiPedia:Computer_Go]
+* PreDict: There will a Go software better than the best Go player on PlanetEarth
+* CardOwner: MartinRoell
+* UnTil: 2018
+
+||PreDict'or       ||UnTil
+|RainerWasserfuhr  |2012

@@ -1,0 +1,9 @@
+AnRegung: http://www.wikimatrix.org/
+
+||Name||PureJava||OpenSource||CrossPlatForm
+|ApacheDerby|ja|ja|ja
+|H2|ja| |
+|MySQL|nein|ja?|ja
+|Oracle|nein|nein|ja
+|DB2|nein|nein|ja
+|SqlServer|nein|nein|nein

@@ -1,0 +1,3 @@
+* IsA: MindStreet
+* NearBy: AugustusBruecke CarolaBruecke
+* ConnectsTo: AlbertBruecke KaetheKollwitzUfer

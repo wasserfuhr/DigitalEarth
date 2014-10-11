@@ -1,0 +1,1 @@
+MindCount can be used as MindProps for a MindPlace with a BoundingBox and defines the average number of MiNd's that can be found inside the BoundingBox.

@@ -1,0 +1,12 @@
+Wie man im PageIndex sieht, haben alle Seiten im Wiki von NooPolis sogenannte CamelCase-Schreibweise:
+
+# Der erste Buchstabe ist ein Grossbuchstabe A-Z
+# es folgen ein oder mehrere Kleinbuchstaben a-z
+# es folgt ein Grossbuchstabe A-Z
+# es folgt ein Kleinbuchstaben
+# es folgen null oder mehr Buchstaben oder Zahlen.
+
+Als Regulärer Ausdruck: 
+{{{
+[A-Z][a-z]+[A-Z][a-z]+[a-zA-Z0-9]*
+}}}

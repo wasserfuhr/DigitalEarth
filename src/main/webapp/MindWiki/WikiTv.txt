@@ -1,0 +1,18 @@
+* PieschenTv: http://seesmic.com/videos/SQOcOmgRPn
+
+ToDo: 
+
+{{{<%
+ String tvProp=Wiki.getPropsHash(pageName).get("PieschenTv");
+ if ( tvProp!=null) {
+   String episodeId=tvProp.substring("http://seesmic.com/video/".length());%>
+  <object width="218" height="175"><param name="movie" value="http://seesmic.com/embeds/wrapper.swf"/>
+    <param name="allowScriptAccess" value="always"/>
+    <param name="flashVars" value="video=<%=episodeId%>&version=threadedplayer"/>
+    <embed src="http://seesmic.com/embeds/wrapper.swf" type="application/x-shockwave-flash"
+         flashVars="video=<%=episodeId%>&version=threadedplayer" allowFullScreen="true"
+         bgcolor="#666666" allowScriptAccess="always" width="218" height="175">
+    </embed>
+  </object>
+<%
+}}}

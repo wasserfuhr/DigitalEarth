@@ -1,0 +1,6 @@
+keeps track of the WikiPage's or WantedPages that were removed from the LockOffice WikiWall.
+
+Candidates:
+* UlrichDeppendorf
+* SpuerschtWieIDenk
+* AudioTagging

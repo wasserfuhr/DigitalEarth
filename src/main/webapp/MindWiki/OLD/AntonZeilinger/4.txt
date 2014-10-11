@@ -1,0 +1,7 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Anton_Zeilinger], [LangReiter:Anton+Zeilinger]
+* JahrGang: 1945
+* BirthDay: 05-20
+* HomePage: http://www.quantum.at/zeilinger
+* MindBlog: http://quantinger.blogspot.com/
+* MindSkill: QuantenLehrer

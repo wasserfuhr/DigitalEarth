@@ -1,0 +1,31 @@
+Ein wenig OrdNung im PageIndex:
+
+* PageIndex
+** UnterNehmen
+*** HandelsRegister
+*** StartUp
+** CrowdWisdom
+** EiName
+** HerKunft
+** KunstWerk
+** MetaMatrix
+** MindEvent
+** MindGame
+** MindMusic
+** MindNumber
+** MindPeople
+*** ElektrischerReporter
+*** ForbesList
+*** MitWirkende
+**** BuergerInnen
+***** EdelMind
+*** SingularityMind
+*** UnternehmensGruender
+*** UnterNehmer
+*** WikiMind
+** MindPet
+** MindPlaces
+** MindQuest
+** MindVerb
+** UnsereProjekte
+** VertikalPortal

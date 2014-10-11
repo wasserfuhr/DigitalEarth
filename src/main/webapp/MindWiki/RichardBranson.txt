@@ -1,0 +1,9 @@
+* IsA: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Richard_Branson] [WebSeitz:RichardBranson]
+* BornIn: 1950
+* BirthDay: 07-18
+* MindSkill: VerMoegen
+* MindBlog: http://entrepreneur.virgin.com/
+|[TwittEr:richardbranson] 
+
+GhostWriter: [TwittEr:sirdickbranson]?

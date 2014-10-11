@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Wladimir_Wladimirowitsch_Putin], [OpenCyc:VladimirPutin]
+* JahrGang: 1952 
+* BirthDay: 10-07

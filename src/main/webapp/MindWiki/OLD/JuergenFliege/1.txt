@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* BirthPlace: RadeVormWald
+* BirthDay: 03-30

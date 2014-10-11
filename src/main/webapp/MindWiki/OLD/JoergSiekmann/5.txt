@@ -1,0 +1,9 @@
+* MindTags: ProFessor
+* JahrGang: 1941
+* BirthDay: 08-05
+* HomePage: http://www-ags.dfki.uni-sb.de/
+* MindSkill: ArTelligence
+
+1984: "officials of the GI ... threatened to expel him from the German computer science society, if 
+he would continue to announce publicly that there was no difference in principle 
+between human and [machine thinking|http://www-ags.dfki.uni-sb.de/docs/portrait_siekmann.pdf]" 

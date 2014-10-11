@@ -1,0 +1,13 @@
+* IsA: ProFessor SingularityMind
+* InterWiki: [DeWikiPedia:Jürgen_Schmidhuber] [LangReiter:J%FCrgen+Schmidhuber]
+* JahrGang: 1963
+* BirthDay: 01-17
+* MindQuote: "Pronounce: Yirgan Shmidhoobuh"
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/JurgenSchmidhuber
+* HomePage: http://www.idsia.ch/~juergen/
+* MindSkill: ArTelligence TerraMind
+* HasSeen: RudiVoeller
+* PageNumber: 12
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge NickJennings AdrianPetcu BoiFaltings AkshatKumar ShaneLegg MarcusHutter JuergenSchmidhuber
+
+ 

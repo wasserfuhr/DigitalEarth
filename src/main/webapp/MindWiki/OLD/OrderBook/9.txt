@@ -1,0 +1,22 @@
+("OldEconomy"-Example: http://aktienkurs-orderbuch.finanznachrichten.de/SAP.aspx)
+
+!LockSchuppenAg:
+(1.000.000 LockShare's total)
+||ShareHolder     ||Bid-Qty   [1]||Price[2]||Ask-Qty[1]
+||Gebote          ||Kauf (Stück)[1]||Kurs[2]||Verkauf (Stück)[1]
+||                ||(Geld-Stück)[1]||Kurs[2]||(Brief-Stück)[1]
+|ChristianHeller  |        |999.00|7
+|RainerWasserfuhr |        |128.00|16
+|RalfLippold      |        |125.00|80
+|RalfLippold      |        |100.00|1
+|RainerWasserfuhr |        | 64.00|8
+|RainerWasserfuhr |        | 32.00|4
+|RainerWasserfuhr |        | 16.00|2
+|RainerWasserfuhr |        |  8.00|1
+|RainerWasserfuhr |       1|  5.00|
+|RainerWasserfuhr |      10|  2.00|
+|RainerWasserfuhr |     100|  0.02|
+|ChristianHeller  |    1000|  0.01|
+|RalfLippold      |       1|  0.01|
+* [#1] in LockProMille, (1.000 of 1.000.000 LockShare's)
+* [#2] in EuRo per 1000 LockShare's

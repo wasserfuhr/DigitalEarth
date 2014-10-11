@@ -1,0 +1,9 @@
+* MindTags: FutureCard
+* PreDict: During a SpaceWalk, SteveJurvetson will take a picture from PlanetEarth and send it to FlickEr.
+
+[{Image src='http://farm4.static.flickr.com/3600/3325159564_653d19f72a_m.jpg'}][*|http://www.flickr.com/photos/jurvetson/3325159564/]
+
+||PreDict'or       ||UnTil
+|RainerWasserfuhr  |2015
+|ChristineSchlinck |20??
+|SebastianMitter   |2018

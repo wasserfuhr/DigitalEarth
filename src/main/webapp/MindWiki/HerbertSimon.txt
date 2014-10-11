@@ -1,0 +1,8 @@
+* IsA: ProFessor NobelPrizeLaureate
+* InterWiki: [DeWikiPedia:Herbert_Simon] [WikiWikiWeb:HerbertSimon]
+* BirthDay: 06-15
+* LebensEnde: 2001
+* DbLp: http://dblp.uni-trier.de/rec/pid/16/6065
+* MindSkill: ArTelligence
+* PagePath: 5
+* PageNumber: LarryPage TerryWinograd AllenNewell JohnMcCarthy EdwardFeigenbaum HerbertSimon

@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Li_Ka-shing]
+* BornIn: 1928
+* BirthDay: 06-13

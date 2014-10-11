@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Jorge_Gomondai]
+* BirthDay: 12-27
+* DiedIn: 1991

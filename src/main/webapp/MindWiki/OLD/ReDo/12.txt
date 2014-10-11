@@ -1,0 +1,36 @@
+DoIt RePeat'edly:
+
+WikiTable:
+||ImmerWieder||OrderedByShares||last||do     ||it
+|day     |RainerWasserfuhr|20080505|read     |daily MindFeeds
+|3 days  |RainerWasserfuhr|20080505|check    |SocialGrid-Status
+|3 days  |RainerWasserfuhr|20080505|do       |SocialBackup
+|3 days  |RainerWasserfuhr|20080505|pour     |MindGreen
+|week    |RainerWasserfuhr|20071216|review   |DoIt
+|week    |RainerWasserfuhr|20080124|review   |ReDo
+|week    |RainerWasserfuhr|20080505|review   |WikiLender
+|week    |RainerWasserfuhr|20080505|review   |DiscussionForum
+|week    |RainerWasserfuhr|20080505|read     |weekly MindFeeds
+|week    |RainerWasserfuhr|20080313|check    |BankAccount
+|week    |RainerWasserfuhr|20071127|plan     |CashFlow
+|week    |RainerWasserfuhr|20071120|sort     |TotesHolz-InBox
+|week    |RainerWasserfuhr|20080422|read     |XingLe-Termine
+|week    |RainerWasserfuhr|20080429|check    |FaceBook
+|2 weeks |RainerWasserfuhr|20080422|order    |ReineMachFee
+|2 weeks |RainerWasserfuhr|20080505|weigh    |BodyOne
+|month   |RainerWasserfuhr|20071206|review   |ReView
+|month   |RainerWasserfuhr|20071112|download |BankStatement NorisBank
+|month   |RainerWasserfuhr|20071112|download |BankStatement PostBank
+|month   |RainerWasserfuhr|20080409|do       |UstVA
+|month   |RainerWasserfuhr|20080429|manure   |MindGreen
+|6 weeks |RainerWasserfuhr|20080422|do       |HairCut
+|6 weeks |RainerWasserfuhr|20080311|backup   |TwittEr
+|6 weeks |RainerWasserfuhr|20080429|backup   |DelIcioUs
+|6 weeks |RainerWasserfuhr|20080429|backup   |BlogLines
+|6 weeks |RainerWasserfuhr|20080319|backup   |MindMac
+|6 weeks |RainerWasserfuhr|20080519|refactor |DelIcioUs TagCloud
+|year    |RainerWasserfuhr|20080330|do       |JahresAbschluss
+|year    |RainerWasserfuhr|20080101|calculate|LebensErwartung
+|-| | | |
+|month   |HeikeRibke      |20080429|check    |BegruessungsGeld-payments
+|month   |HeikeRibke      |20080429|do       |SocialBackup

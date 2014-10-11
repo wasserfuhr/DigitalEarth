@@ -1,0 +1,49 @@
+;
+;{{{
+
+(let
+  [nickparam (.getParameter request "nick")
+   nick (if nickparam nickparam "rainer")
+   countS (.getParameter request "count")
+   count (Math/min 50 (if countS (new Integer countS) 5))   
+   baseurl (str "http://twitter.com/friends/ids/" nick ".xml")
+   baselist (:content (clojure.xml/parse baseurl))
+   randomidlist
+    (map
+     (fn [a]
+      (first (:content (get baselist
+       (.nextInt (new java.util.Random) (.length baselist))))))
+      (range 5))
+   randomuserlist
+    (map
+     (fn [id]
+      (:content (clojure.xml/parse 
+       (str "http://twitter.com/users/show/" id ".xml"))))
+     randomidlist)
+   randomusernamelist
+    (map
+     (fn [user]
+      (first (:content (get user 2))))
+     randomuserlist)]
+ (str
+  "<form action=''>
+    <input name='count' value='5' size='2'>
+    <input name='nick' value='" nick "' size='12'>
+   <br/>"
+  (apply str
+    (map
+     (fn [user]
+      (str
+       "@<a href='http://twitter.com/" user "'>" user "</a> "))
+      randomusernamelist))
+  "<br/><img src='http://id.mindbroker.de/favicon/twitter.png'/><a href='http://twitter.com/?status=played+FolLottery:+"
+  (apply str
+    (map
+     (fn [user]
+      (str "@" user "+"))
+     randomusernamelist))
+  "- http%3A%2F%2Fnoopolis.org%2Ffollottery'>tweet this</a> <input type='submit' value='play it again'>
+  </form>"
+))
+
+;}}}

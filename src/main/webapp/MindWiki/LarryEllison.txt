@@ -1,0 +1,7 @@
+* IsA: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Larry_Ellison] [WebSeitz:LarryEllison] [OpenCyc:LarryEllison]
+* BornIn: 1944
+* BirthDay: 08-17
+* DbLp: http://dblp.uni-trier.de/rec/pid/95/1676
+* PageNumber: InFinite
+* MarriedTo: MelanieCraft

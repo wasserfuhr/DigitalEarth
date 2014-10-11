@@ -1,0 +1,33 @@
+* InterWiki: [WikiWikiWeb:PowerUser]
+
+interesting: habe jetzt alle MindWiki-recentchanges seit mai 07 extrahiert: 19179 edits.
+scrolle da jetzt von anfang an stichprobenartig durch...
+fühlt sich an bei ein replay des eigenen denkens... viel höher auflösend als blogs oder tweets.. und: alles vernetzt.
+
+fast wie diese matrixszene, wo neo (?) vor dem schwarzgruenen screen sitzt.
+
+auszug gefällig?:
+||UnixTime    ||PageName                               ||ReVision||PerSon       ||TimeLine
+|1234556938000|GoogleSea                               |  4|RainerWasserfuhr    |20090213:212858
+|1234557584000|SkyNet                                  |  1|RainerWasserfuhr    |20090213:213944
+|1234557892000|TeufelsPakt                             |  8|RainerWasserfuhr    |20090213:214452
+|1234558084000|NeuGier                                 |  1|RainerWasserfuhr    |20090213:214804
+|1234558828000|SpiritusRector                          |  1|RainerWasserfuhr    |20090213:220028
+|1234558856000|SingularFernUni                         | 13|RainerWasserfuhr    |20090213:220056
+|1234559940000|AbGehoben                               |  2|RainerWasserfuhr    |20090213:221900
+|1234560200000|InIhr                                   |  1|RainerWasserfuhr    |20090213:222320
+|1234581398000|BrunoGiussani                           |  1|RainerWasserfuhr    |20090214:041638
+|1234581766000|BrunoGiussani                           |  2|RainerWasserfuhr    |20090214:042246
+|1234582002000|BrunoGiussani                           |  3|RainerWasserfuhr    |20090214:042642
+|1234582220000|BookMark                                |191|RainerWasserfuhr    |20090214:043020
+
+(dieser ausschnitt ist nicht ganz zufällig gewählt...:
+http://www.heise.de/newsticker/1234567890--/meldung/132347 ;) )
+
+aus dass x% aller bewussten gedanken die ich prinzipiell denken kann
+(oder a la EdmundHusserl evtl: jeder intentionale akt) im MindWiki repräsentiert ist.
+
+vor allem aber sind die semantischen verknüpfungen meiner gedanken 
+in wachsender darin repräsentiert.
+
+BenchMark: beim gespräch mit JuergenKohn hatte ich etwa 1 PageName/min erreicht.

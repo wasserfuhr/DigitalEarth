@@ -1,0 +1,62 @@
+* RdfProperty: http://xmlns.com/foaf/0.1/#birthday
+
+With how many MindPeople on PlanetEarth do you share your exact BirthDay (day, month __and__ year)?
+
+Example estimation for RainerWasserfuhr:
+* In the year 1969 3.7 billion lived on PlanetEarth. [*|http://en.wikipedia.org/wiki/World_population#_note-4]
+* In the year 1970 the birth rate per 1,000 people was 33. [HPNStats|http://ddp-ext.worldbank.org/ext/DDPQQ/member.do?method=getMembers]
+* So in 1969 ~122.000.000 were born.
+* On average 334.250 people per day were born.
+
+Currently the following MindPeople are known to be born on 1969-05-28:
+# ChiarettoCalo
+# DamianRhodes
+# EnricoCremonesi
+# EricFish
+# HakanHemlin
+# IvanGotti
+# JfQuintin
+# JustinKirk
+# MikeDiFelice
+# NataschaAntoniazzo
+# RainerWasserfuhr
+# RichardDreise
+# WernerAmon
+
+How many MindPeople will there be known to RainerWasserfuhr in the future?
+
+ForeCast:
+||Year||#||Forecaster
+|2008|10  |RainerWasserfuhr
+|2010|50  |RainerWasserfuhr
+|2020|500 |RainerWasserfuhr
+|2030|5000|RainerWasserfuhr
+|2040|all |RainerWasserfuhr
+
+
+||Month||MindPeople
+|05|RainerWasserfuhr
+|04|KurtGoedel
+|03|AlexanderGrothendieck
+|02|SeppMaier
+|01|ManuelaAmann
+|12|ArthurCClarke
+|11|MaRo
+|10|BillGates
+|09|YvonneSchubert
+|08|Goethe
+|07|ChristineSchlinck
+|06|AlanTuring
+
+||Day||MindPeople
+|28|RainerWasserfuhr
+|26|YvonneSchubert
+|12|WernerWasserfuhr
+|11|Heidi
+|09|GunterDueck
+|08|ManuelaAmann
+|07|UteMoritz
+|05|Marcus
+|04|Joerg
+|03|CemBasman
+|01|ChristineSchlinck

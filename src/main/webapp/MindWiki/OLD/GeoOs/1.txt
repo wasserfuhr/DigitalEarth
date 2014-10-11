@@ -1,0 +1,1 @@
+MindBroker will build the first true OpenSource-, GnuFdl-OpenContent social geo-OperatingSystem of PlanetEarth.

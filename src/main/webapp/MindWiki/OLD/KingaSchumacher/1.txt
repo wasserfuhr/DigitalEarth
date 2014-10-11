@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* WohnSitz: KaisersLautern
+* HomePage: http://www.kingaschumacher.de/
+* MindSkill: SemanticWeb
+* FoAf: http://www.dfki.uni-kl.de/~schumach/foaf.xml

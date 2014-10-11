@@ -1,0 +1,6 @@
+The next ProJect's of RainerWasserfuhr:
+
+Candidates:
+||ProJect  ||StandOrt||Status||HomeOffice %||OpenBooks||Position
+|MagnonFund|TelePresence|pending|0|?|MagnonFund
+|StadtBerlin| |pending|0|?

@@ -1,0 +1,14 @@
+UnsereProjekte:
+||Status ||Projekt
+|LIVE    |UnserGrid
+|LIVE    |IntraBroker
+|LIVE    |GeoMindBroker
+|FINISHED|WikiTchen
+|        |MindBrokerCore
+|        |DoIt
+|        |MindBrokerShop
+|        |SportPortal
+|        |MindBrokerSalon
+|        |SemanticMind
+
+Weitere Projekte bei der MindBrokerKg.

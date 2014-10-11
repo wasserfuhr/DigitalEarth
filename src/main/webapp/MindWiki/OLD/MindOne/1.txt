@@ -1,0 +1,3 @@
+hier: RainerWasserfuhr.
+
+Ziel der MindBrokerAg: Eine OpenInfrastructure schaffen, auf der jeder Mensch sein eigenes MindOne sein kann.

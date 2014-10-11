@@ -1,0 +1,205 @@
+* InterWiki: [DeWikiPedia:Digital_Bibliography_%26_Library_Project]
+* HomePage: http://dblp.uni-trier.de/
+* MindOne: MichaelLey
+
+
+BeatDoebeli:
+* DbLp: http://dblp.uni-trier.de/rec/pid/82/1489
+
+BenGoertzel:
+* DbLp: http://dblp.uni-trier.de/rec/pid/97/5783
+
+BillGates:
+* DbLp: http://dblp.uni-trier.de/rec/pid/g/BillGates
+
+ChristianSpannagel:
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/ChristianSpannagel
+
+ChristofKoch:
+* DbLp: http://dblp.uni-trier.de/rec/pid/71/4603
+
+CraigVenter:
+* DbLp: http://dblp.uni-trier.de/rec/pid/61/3964
+
+CraigVenter:
+* DbLp: http://dblp.uni-trier.de/rec/pid/34/4595
+
+DharmendraModha:
+* DbLp: http://dblp.uni-trier.de/rec/pid/67/1008
+
+DirkRiehle:
+* DbLp: http://dblp.uni-trier.de/rec/pid/38/5697
+
+DrCodd:
+* DbLp: http://dblp.uni-trier.de/rec/pid/c/EFCodd
+
+EdYourdon:
+* DbLp: http://dblp.uni-trier.de/rec/pid/14/4816
+
+EnnoTolzmann:
+* DbLp: http://dblp.uni-trier.de/rec/pid/58/1749
+
+GunterDueck:
+* DbLp: http://dblp.uni-trier.de/rec/pid/21/1219
+
+HansGertGraebe:
+* DbLp: http://dblp.uni-trier.de/rec/pid/77/1171
+
+HenryMarkram:
+* DbLp: http://dblp.uni-trier.de/rec/pid/51/644
+
+LarryEllison:
+* DbLp: http://dblp.uni-trier.de/rec/pid/95/1676
+
+LarryPage:
+* DbLp: http://dblp.uni-trier.de/rec/pid/p/LawrencePage
+
+HassoPlattner:
+* DbLp: http://dblp.uni-trier.de/rec/pid/58/3831
+
+HolgerWache:
+* DbLp: http://dblp.uni-trier.de/rec/pid/63/1753
+
+HenningKagermann:
+* DbLp: http://dblp.uni-trier.de/rec/pid/08/1693
+
+HugoDeGaris:
+* DbLp: http://dblp.uni-trier.de/rec/pid/48/5146
+
+JoachimNiemeier:
+* DbLp: http://dblp.uni-trier.de/rec/pid/07/3635
+
+JoergSiekmann:
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/JorgHSiekmann
+
+JuergenAvenhaus:
+* DbLp: http://dblp.uni-trier.de/rec/pid/a/JurgenAvenhaus
+
+JustinRattner:
+* DbLp: http://dblp.uni-trier.de/rec/pid/20/1867
+
+KarstenMenzel:
+* DbLp: http://dblp.uni-trier.de/rec/pid/75/1739
+
+KlausMadlener:
+* DbLp: http://dblp.uni-trier.de/rec/pid/m/KlausMadlener
+
+LarryEllison:
+* DbLp: http://dblp.uni-trier.de/rec/pid/95/1676
+
+LarryPage:
+* DbLp: http://dblp.uni-trier.de/rec/pid/p/LawrencePage
+
+LeoSauermann:
+* DbLp: http://dblp.uni-trier.de/rec/pid/05/4610
+
+MarcusHutter:
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/MarcusHutter
+
+MarkusHauser:
+* DbLp: http://dblp.uni-trier.de/rec/pid/75/3862
+
+MatthiasJugel:
+* DbLp: http://dblp.uni-trier.de/rec/pid/62/63
+
+MattiHannus:
+* DbLp: http://dblp.uni-trier.de/rec/pid/34/5898
+
+MaxVoelkel:
+* DbLp: http://dblp.uni-trier.de/rec/pid/75/3067
+
+MichaelLey:
+* DbLp: http://dblp.uni-trier.de/rec/pid/l/MichaelLey
+
+MichaelRichter:
+* DbLp: http://dblp.uni-trier.de/rec/pid/m/MichaelMRichter
+
+NiklasLuhmann:
+* DbLp: http://dblp.uni-trier.de/rec/pid/72/1393
+
+MonikaHenzinger:
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/MonikaRauchHenzinger
+
+NielsBirbaumer:
+* DbLp: http://dblp.uni-trier.de/rec/pid/36/991
+
+NilGeisweiller:
+* DbLp: http://dblp.uni-trier.de/rec/pid/66/981
+
+NorbertKuhn:
+* DbLp: http://dblp.uni-trier.de/rec/pid/33/6175
+
+PaulErdos:
+* DbLp: http://dblp.uni-trier.de/rec/pid/e/PErdos
+
+PeterChen:
+* DbLp: http://dblp.uni-trier.de/rec/pid/c/PPChen
+
+PeterKatranuschkov:
+* DbLp: http://dblp.uni-trier.de/rec/pid/94/1038
+
+PeterNorvig:
+* DbLp: http://dblp.uni-trier.de/rec/pid/n/PeterNorvig
+
+RaimarScherer:
+* DbLp: http://dblp.uni-trier.de/rec/pid/91/2959
+
+RayKurzweil:
+* DbLp: http://dblp.uni-trier.de/rec/pid/67/6969
+
+ReinhardSelten:
+* DbLp: http://dblp.uni-trier.de/rec/pid/97/1695
+
+RobertAmor:
+* DbLp: http://dblp.uni-trier.de/rec/pid/66/1681
+
+SergeyBrin:
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/SergeyBrin
+
+ShaneLegg:
+* DbLp: http://dblp.uni-trier.de/rec/pid/36/5739
+
+SoerenStamer:
+* DbLp: http://dblp.uni-trier.de/rec/pid/87/5905
+
+StefanAgne:
+* DbLp: http://dblp.uni-trier.de/rec/pid/54/5190
+
+StefanDecker:
+* DbLp: http://dblp.uni-trier.de/rec/pid/d/StefanDecker
+
+SteffenHoelldobler:
+* DbLp: http://dblp.uni-trier.de/rec/pid/48/415
+
+StephanSchmidt:
+* DbLp: http://dblp.uni-trier.de/rec/pid/55/3842
+
+SvenEricSchapke:
+* DbLp: http://dblp.uni-trier.de/rec/pid/84/3829
+
+SvenSchwarz:
+* DbLp: http://dblp.uni-trier.de/rec/pid/66/1656
+
+ThiloWeichert:
+* DbLp: http://dblp.uni-trier.de/rec/pid/79/904
+
+TimBl:
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/TimBernersLee
+
+UlrikeBeckerKornstaedt:
+* DbLp: http://dblp.uni-trier.de/rec/pid/44/5073
+
+WardCunningham:
+* DbLp: http://dblp.uni-trier.de/rec/pid/09/5151
+
+WolfgangBibel:
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/WBibel
+
+WolfgangMaass:
+* DbLp: http://dblp.uni-trier.de/rec/pid/m/WolfgangMaass
+
+WolfgangWahlster:
+* DbLp: http://dblp.uni-trier.de/rec/pid/w/WolfgangWahlster
+
+ZigaTurk:
+* DbLp: http://dblp.uni-trier.de/rec/pid/15/960

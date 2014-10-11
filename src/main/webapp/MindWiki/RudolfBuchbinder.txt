@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Rudolf_Buchbinder]
+* BirthDay: 12-01
+* MindSkill: MindMusic

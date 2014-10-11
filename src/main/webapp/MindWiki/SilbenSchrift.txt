@@ -1,0 +1,1 @@
+Graphemsystem zwischen BildSchrift und BuchStaben, das je ein Graphem für eine Silbe verwendet wie z.B. das indische DevaNagari.

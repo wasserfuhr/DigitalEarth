@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: 52.5071
+* LaengenGrad: 13.4653
+* BoudingBox: 50
+* http://www.dieturnhalle.de/

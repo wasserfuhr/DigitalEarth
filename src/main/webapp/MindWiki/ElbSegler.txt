@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BoundingBox: 30
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/23130685
+
+TotalRecall:
+* 200806 (~21:00-~23:30): RainerWasserfuhr, JeMand: ZukunftsForum, AugustusGarten, PuroBeach, WikiSym, AugustusBruecke, CoreMedia, TomFriedman, PlUrk, CityBeach, CabiNetElection, AltStadt, SocialPassword, SocialBackupFeed, EcZwo, WebApp, ApacheDerby, MindId, MindSql, RayKurzweil, TransSimian, LongBetOne, TwitAiPrize, MaxxOnAir, DeutscheTelekom, StreetView, AnDroid, TwentyOne, LingnerSchloss, FederalReserve, WeltWaehrung, HausHalt, HelmaOrosz, ObWahlDresden08, PredictionMarket, WahlOMat, KayGroschen, MindEyes, FrauenKirche, HofKirche.

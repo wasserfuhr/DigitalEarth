@@ -1,0 +1,20 @@
+Das Wiki von MindBroker: http://mindbroker.de/
+
+Unser SocialGrid hostet es. Wie man unten links erkennt, auf Basis von JspWiki v2.6.0. 
+
+Alle BuergerInnen von NooPolis können als angemeldete Nutzer Seiten bearbeiten (JoinNow).
+
+Das MindWiki ist
+* ein semantisches neuronales Netz 
+* für eine digitale Simulation des Gehirns von RainerWasserfuhr auf BlueBrain
+* das kollektive Gehirn für NooPolis als TransParent'e WikiBasiert'e Republik und 
+* MindBroker als GlaesernesUnternehmen.
+
+!SpielRegeln im MindWiki:
+# kein copyrightgeschütztes Material hochladen
+# Selbstverständlich kein rassistischen oder jugendgefährdenden Inhalte
+
+Idee: Nachher SchiedsRichter ernennen oder wählen lassen, die das FairPlay sicherstellen. Im Notfall auch Gelbe oder Rote Karten vergeben können, die auf der Profilseite angezeigt werden könnten.
+
+||Seiten||Datum
+|2866|20080801

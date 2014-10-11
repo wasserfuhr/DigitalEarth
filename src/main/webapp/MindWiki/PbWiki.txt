@@ -1,0 +1,4 @@
+* MindOne: JimGroff
+* FoundedBy: DavidWeekly
+
+not recommended as a LifeWiki: no CamelCase

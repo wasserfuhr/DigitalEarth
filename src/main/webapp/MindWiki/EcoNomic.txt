@@ -1,0 +1,3 @@
+* IsA: GoogleWave
+* WaveId: googlewave.com!w+Qic5ndZwA
+* TinyWaveUrl: http://goo.gl/oo2z

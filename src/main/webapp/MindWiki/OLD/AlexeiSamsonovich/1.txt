@@ -1,0 +1,17 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/76/3479
+* HomePage: http://mason.gmu.edu/~asamsono/
+
+PagePath:
+# MichaelStonebraker
+# [http://dblp.uni-trier.de/db/indices/a-tree/l/Lockemann:Peter_C=.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/t/Tichy:Walter_F=.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/d/Dillon:Laura_K=.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/b/Behrends:Reimer.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/s/Stirewalt:R=_E=_Kurt.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/m/McKinley:Philip_K=.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/o/Ofria:Charles.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/a/Adami:Christoph.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/r/Rasmussen:Steen.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/h/Hameroff:Stuart_R=.html]
+# AlexeiSamsonovich

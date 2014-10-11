@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* WohnSitz: WaldRohrBach
+* BirthDay: 03-06
+* JahrGang: 1951

@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/38/797
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd NorbertStreitz WendyHall JimHendler WolfgangWahlster ArminBCremers OttoMayer
+* MindSkill: LiSp
+* HasTalked: RainerWasserfuhr

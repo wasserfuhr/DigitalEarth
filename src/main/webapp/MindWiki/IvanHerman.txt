@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/IHerman
+* HomePage: http://www.ivan-herman.net/
+* PageNumber: 7
+* PagePath: LarryPage SergeyBrin MonikaHenzinger KurtMehlhorn FriedhelmMeyerAufDerHeide DorotheaWagner UlrikBrandes IvanHerman
+|[TwittEr:ivan_herman]

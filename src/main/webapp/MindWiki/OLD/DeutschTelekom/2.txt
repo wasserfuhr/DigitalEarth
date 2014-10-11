@@ -1,0 +1,4 @@
+* IsA: DaxUnternehmen
+* InterWiki: [DeWikiPedia:Deutsche_Telekom]
+* IsIn: DE0005557508
+* MindOne: ReneObermann

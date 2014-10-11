@@ -1,0 +1,5 @@
+* WohnSitz: StadtDresden
+* JahrGang: 1986
+* BirthDay: 05-22
+* SprachWelt: de, en-1, nl-2,
+* BirthPlace: DiakonissenKrankenhaus

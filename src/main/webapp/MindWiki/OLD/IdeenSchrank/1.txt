@@ -1,0 +1,11 @@
+||Idea         ||InVest more than
+|SpaceLift     |10.000.000.000
+|MindTower     |1.000.000.000
+|ElbOper       |100.000.000
+|PieschenPalast|10.000.000
+|LockSchuppen  |1.000.000
+|MindParty     |10.000
+|OcPm          |-10.000.000.000
+|OmPm          |-100.000.000.000
+|OlPm          |-1.000.000.000.000
+|BiEn          |-10.000.000.000.000

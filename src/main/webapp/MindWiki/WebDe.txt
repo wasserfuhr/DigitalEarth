@@ -1,0 +1,6 @@
+* MindTags: EnterPrise
+* MindOne: JanOetjen
+
+hat einen schlechten Spamfilter, kein WebOfTrust und trotz UndDuDe: vorerst MailIsDead.
+
+WebDe > Einstellugen > Eingang > Regeln.rv_rule_value: erlaube RegEx

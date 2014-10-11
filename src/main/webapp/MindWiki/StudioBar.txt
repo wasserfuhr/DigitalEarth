@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.066823&lon=13.754183&zoom=18&layers=B000FTTT ToDo
+
+GoerlitzerStrasse

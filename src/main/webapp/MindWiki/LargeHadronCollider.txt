@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* InterWiki: [WikiPedia:Large_Hadron_Collider]
+* BreitenGrad: 46.25
+* LaengenGrad: 6.075
+* BoundingBox: 8800

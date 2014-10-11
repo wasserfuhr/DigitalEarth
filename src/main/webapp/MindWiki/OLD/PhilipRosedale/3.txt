@@ -1,0 +1,9 @@
+* IsA: UnternehmensGruender
+* InterWiki: [WikiPedia:Philip_Rosedale]
+* JahrGang: 1968
+* BirthDay: 09-01
+* DbLp: http://dblp.uni-trier.de/rec/pid/54/728
+* PageNumber: 16
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker KnutHinkelmann ManfredMeyer JoergMueller MikeWooldridge NickJennings AdrianPetcu BoiFaltings MaryLouMaher BenShneiderman RudyDarken MichaelZyda PhilipRosedale
+|[TwittEr:philiplinden]
+|[FaceBook:586395728]

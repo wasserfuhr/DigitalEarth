@@ -1,0 +1,7 @@
+|DelIcioUs  |[{Image src='http://del.icio.us/favicon.ico'}]
+|FaceBook   |[{Image src='http://static.ak.facebook.com/favicon.ico'}]
+|FlickEr    |[{Image src='http://www.flickr.com/favicon.ico'}]
+|LinkedIn   |[{Image src='http://www.linkedin.com/favicon.ico'}]
+|MySpace    |[{Image src='http://www.myspace.com/favicon.ico'}]
+|WikiPedia  |[{Image src='http://de.wikipedia.org/favicon.ico'}]
+|XingLe     |[{Image src='http://www.xing.com/img/xing/xing.ico'}]

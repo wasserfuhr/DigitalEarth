@@ -1,0 +1,4 @@
+* IsA: MindPlace
+* InterWiki: [DeWikiPedia:Sächsisches_Staatsministerium_für_Wissenschaft_und_Kunst]
+* PartOf: RegierungsViertel
+* MindOne: SabineVonSchorlemer

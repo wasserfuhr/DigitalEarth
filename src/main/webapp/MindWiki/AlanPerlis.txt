@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Alan_J._Perlis] [WikiWikiWeb:AlanPerlis]
+* BirthDay: 04-01
+* DbLp: http://dblp.uni-trier.de/rec/pid/91/2329
+* PageNumber: 4
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AlanPerlis

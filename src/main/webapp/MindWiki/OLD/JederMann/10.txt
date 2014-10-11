@@ -1,0 +1,16 @@
+MindBroker und NooPolis sind vorerst nicht für JederMann, sondern ein wenig LeEt.
+
+Zur Zeit sind folgende Dinge für JederMann unter http://www.mindbroker.de/ verfügbar:
+* Lesender Zugriff auf das MindWiki
+
+Nach Einladung durch bestehende BuergerInnen (WerdeMindBroker) sind verfügbar:
+* eine MindId
+* ein BankKonto mit KayGroschen zur Teilnahme am WirkMarkt
+
+Bald könnten dort auch folgende Dinge für JederMann sein:
+* die Teilnahme an der UrWahl und der KabiNettWahl
+* die MindId als besonders VerTrauen'swürdige OpenId auf anderen Websites
+* ein MindMe als persönliches LifeWiki.
+* ein Depot zum Handeln von MindShares an virtuellen Unternehmen und zum Prognostizieren von DealFutures
+
+DasMan.

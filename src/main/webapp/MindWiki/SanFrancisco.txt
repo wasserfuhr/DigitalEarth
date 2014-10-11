@@ -1,0 +1,2 @@
+* MindTags: MindPlace
+* InterWiki: [OpenCyc:CityOfSanFranciscoCA]

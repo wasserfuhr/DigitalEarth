@@ -1,0 +1,6 @@
+* IsA: MindStreet
+* InterWiki: [DdWiki:Alaunstraße]
+* NearBy: AlbertPlatz LouisenStrasse
+
+MeMo
+* 2008-12-06:1500: RainerWasserfuhr JeMand: DresdenOpenSpace OpenStreetMap AppEngine AnDroid ApacheMaven HadoopHBase SemanticWeb CabiNetElection FrauenKirche GoogleEarth TerraDsl

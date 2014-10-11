@@ -1,0 +1,16 @@
+* InterWiki: [WikiWikiWeb:ThreeLetterPerson]
+
+RedBlueGame:
+* ESR (EricSRaymond)
+* FDR (FranklinRoosevelt)
+* GLS (GuySteele)
+* GVR (GuidoVanRossum)
+* JMS (JohnMichaelStraczynski)
+* JFK (JfKennedy)
+* JFM (JamesMcGovern)
+* JFS (JfSchlinck)
+* JWZ (JamieZawinski)
+* LBJ (LyndonBainesJohnson)
+* MLK (MartinLutherKing)
+* ken (KenThompson)
+* RMS (RichardStallman)

@@ -1,0 +1,17 @@
+At the HochzeitDesJahres RoswithaHunold and her bride SaschaHaarseim
+received a very special present that will allow them to prepare
+for the AcceleratingChange in the TimeToCome.
+It is a monthly rice subscription for __n__ month:
+
+Am 2010-05-15 genau ReisKorn (incl. Behältnis, delivered: 2010-05-23?)
+sowie jeden Monat dann die doppelte Zahl:
+
+||Monat||Reiskörner||status
+|2010-05|1|delivered
+|2010-06|2|delivered
+|2010-07|4|delivered
+|2010-08|8|delivered
+|2010-09|16|delivered
+
+
+

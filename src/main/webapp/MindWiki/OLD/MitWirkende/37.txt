@@ -1,0 +1,24 @@
+Bisherige MitWirkende:
+
+||MindId||1)||OrderedByShares ||svn     ||MindMac||SecondLife              ||XingLe                  
+|1|x|RainerWasserfuhr |rainer   |neptun  |                                 |
+|3| |DanielPoodratchi |daniel   |adonis  |                                 | 
+|5| |AndreasWeigel    |andreasw |othello |                                 |
+| |x|OliverGassner    |         |        |                                 |
+|2|x|YvonneSchubert   |yvonne   |nana    |                                 |
+| | |TimBonnemann     |tim      |        |                                 |
+|4| |RicardaDHerbrand |         |        |                                 |
+| | |DimitriUwarov    |dimitri  |        |[SecondLife:??]                  |[XingLe:Dimitri_Uwarov]
+| | |JensWegerle      |         |        |                                 |
+| | |JuergenKohn      |juergen  |        |[SecondLife:??]                  |[XingLe:Juergen_Kohn]
+| | |AlexanderGola    |         |        |                                 |[XingLe:Alexander_Gola]
+| | |HagenStanek      |hagen    |        |            
+| | |ChristineSchlinck|tine     |triton  |
+
+1) Gesellschafter der VebMind.
+
+Siehe weiter: http://id.mindbroker.de/ausland
+
+Hinzukommen können eventuell:
+* Michael B. - JSP, JS Developer
+* AurelienEyoum - CSS & HTML, https://www.xing.com/profile/Aurelien_Eyoum/

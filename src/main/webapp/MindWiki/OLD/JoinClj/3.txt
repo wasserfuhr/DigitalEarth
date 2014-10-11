@@ -1,0 +1,108 @@
+;
+;{{{
+
+((defn join []
+  (handle "join"
+   (fn []
+    (str
+        "<h2>Einb&uuml;rgerungsantrag</h2>
+         <p>Hier kannst Du Deinen Antrag auf Einb&uuml;rgerung in NooPolis stellen:</p>
+         <p>Damit das Wahlsystem und das Geldsystem von NooPolis zuverl&auml;ssig sind,
+            wollen wir &uuml;berpr&uuml;fbare Identit&auml;ten aller BuergerInnen sicherstellen.
+            Damit Du B&uuml;rger werden kannst, muss Dir deshalb mindestens einer der jetzigen
+            BuergerInnen sein Vertrauen aussprechen.</p>
+         <form action='/do/join' method='post'>
+	  <table align='center'>
+     	   <tr>
+	    <td width='150'>Geschlecht:</td>
+	    <td>"
+             (if (.contains (str "" (.getParameter request "message")) "noGender")
+	      ;TODO cssify the 'red':
+	      "<font color='red'>Bitte gib Dein Geschlecht an:</font><br/>")
+      	     "<input type='hidden' name='inviteeRemoteHost' value='" (.getRemoteHost request) "'/> 
+	      <input type='radio' name='inviteeSex' value='female' /> weiblich
+	      <input type='radio' name='inviteeSex' value='male' /> m&auml;nnlich
+	    </td>
+     	   </tr>
+           <tr>
+            <td width='150'>Vorname:</td>
+	    <td width='50'>
+     	     <input name='inviteeFirstName' id='inviteeFirstName' onkeyup='makeWikiName()'/>
+     	    </td>
+      	    <td>Alle BuergerInnen m&uuml;ssen ihren RealNamen angeben.</td>
+     	   </tr>
+     	   <tr>
+           <td width='150'>Nachname:</td>
+	   <td width='50'>
+      	    <input name='inviteeLastName' id='inviteeLastName' onkeyup='makeWikiName()'/>
+      	   </td>
+     	  </tr>
+     	  <tr>
+           <td width='150'>WikiName:</td>
+	   <td width='50'>"
+             (if (.contains (str "" (.getParameter request "message")) "wikiNameAlreadyInvited")
+	      ;TODO cssify the 'red':
+	      "<font color='red'>Dieser WikiName ist leider schon an einen Eingeladenen vergeben.
+	        Bitte w&auml;hle einen anderen eindeutigen WikiNamen:</font><br/>")
+             (if (.contains (str "" (.getParameter request "message")) "wikiNameAlreadyRegistered")
+	       "<font color='red'>Dieser WikiName ist leider schon an einen anderen B&uuml;rger vergeben. Bitte w&auml;hle einen anderen eindeutigen WikiNamen:</font><br/>")
+  	     "<input name='inviteeWikiName' id='inviteeWikiName'/>
+      	   </td>
+     	  </tr>
+     	  <tr>
+           <td valign='top'>Kontaktprofil:</td>	  
+           <td>
+	    Am einfachsten k&ouml;nnen Dir bestehende BuergerInnen ihr Vertrauen 
+	    aussprechen, indem Du uns einen Link zu Deinem Profil in einem der folgenden Social Networks nennst:
+       	   </td>
+     	  </tr>
+     	  <tr>
+           <td></td>	  
+           <td>"
+            ;TODO:
+  	    ;String npics[]={"XING","Facebook","StudiVZ","Twitter","LinkedIn","Skype"};
+  	    ;   for (int i=0; i<npics.length;i++) { %>
+	    ; <input type="radio" name="network" value="<%=npics[i].toLowerCase() %>"/> 
+	    ;   <img src="/favicon/<%=npics[i].toLowerCase() %>.png"/> <%=npics[i]%><br/>
+	    ;
+	    "<input name='inviteeProfileUrl' value='https://www.xing.com/profile/Dein_Name' size='50'/>
+      	   </td>
+     	  </tr>
+     	  <tr>
+           <td></td>
+           <td>
+	    Sobald Dir eine der BuergerInnen vertraut, wird sie Dich
+	    &uuml;ber Dein angegebenes Profil kontaktieren und Dir die Freischalt-TAN senden.
+           </td>
+     	  </tr>
+     	  <tr>
+           <td valign'top'>Einverst&auml;ndnis:</td>	  
+           <td>
+	    <input type='checkbox' name='accept'/> Ich akzeptiere da&szlig; mein Antrag mit der IP-Adresse 
+	    <i>" (.getRemoteHost request) "</i> &ouml;ffentlich zug&auml;nglich gespeichert wird
+		 und stimme der <a href='http://mindbroker.de/wiki/VerFassung' target='new'>VerFassung</a> zu.
+	   </td>
+     	  </tr>
+     	  <tr>
+           <td></td>
+           <td width='50'>
+ 	    <input type='submit' value='Antrag fertigstellen'/>
+	   </td>
+	  </tr>
+         </table>
+        </form>
+        <br/>
+        <h2>Ausstehende Antr&auml;ge</h2>
+        <table>
+	 <tr>
+	  <th>am</th>
+	  <th></th>
+	  <th>Vorname</th>
+	  <th>Nachname</th>
+	  <th>WikiName</th>
+	  <th>Profil</th>
+	 </tr>
+     </table>"
+      ))
+   "")))
+;}}}

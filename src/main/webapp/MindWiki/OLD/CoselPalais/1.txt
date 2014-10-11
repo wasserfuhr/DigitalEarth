@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* BoundingBox: 30
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/23058984

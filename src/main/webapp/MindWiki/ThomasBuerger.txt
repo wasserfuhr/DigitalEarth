@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Thomas_Bürger]
+* BornIn: 1953
+* BirthDay: 07-24

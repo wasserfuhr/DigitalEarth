@@ -1,0 +1,8 @@
+http://notes.zturk.com/2007/12/lisbon-to-people-via-broadband-and-web.html
+
+Some decent contributions of MindBroker and NooPolis to the implementation of the LisbonStrategy for EurOpa:
+
+* MindBib
+* QuantenLehrer
+* TurkNumber
+* WikiProf

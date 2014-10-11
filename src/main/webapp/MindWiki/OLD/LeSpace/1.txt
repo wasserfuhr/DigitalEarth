@@ -1,0 +1,4 @@
+* IsA: CoWorkingSpace
+* MindOne: NicoKrause
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.333857&lon=12.325941&zoom=18&layers=B000FTF ToDo
+* PartOf: TapetenWerk

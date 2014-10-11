@@ -1,0 +1,21 @@
+PersonalWikiWall 4x4 WikiWall with personal ConNect'ions to PerSon's, ConCept's and IdeA's
+
+# LogIn 
+# Edit / Bearbeiten
+# Copy / Kopiere (the following 4 lines as they are below):
+| xxx | xxx | xxx | xxx
+| xxx | xxx | xxx | xxx
+| xxx | xxx | xxx | xxx
+| xxx | xxx | xxx | xxx
+
+# Create page YourNameWikiWall (that will be created by yourself)
+# Paste the table
+# Put yourself below the now created table
+# Fill in the table with 16 names.
+
+# SoerenRogollWikiWall
+# RalfLippoldWikiWall
+# RainerWasserfuhrWikiWall
+# MandyHelasWikiWall
+# MarkusStammWikiWall
+# PhilippeGreierWikiWall

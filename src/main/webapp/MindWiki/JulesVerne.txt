@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Jules_Verne]
+* BornIn: 1828
+* BirthDay: 02-08
+* DiedIn: 1905
+* MindSkill: HardScienceFiction

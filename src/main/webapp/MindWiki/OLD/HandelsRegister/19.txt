@@ -1,0 +1,22 @@
+UnterNehmen auf dem HoheitsGebiet von NooPolis:
+||UnterNehmen  ||RechtsForm         ||ProKura
+|PieschenBank  |StaatsBetrieb       |RainerWasserfuhr,YvonneSchubert,DanielPoodratchi
+|MindBroker    |VolksEigenerBetrieb |RainerWasserfuhr,YvonneSchubert,DanielPoodratchi
+|KaufWunsch    |VolksEigenerBetrieb |YvonneSchubert
+
+Kandidaten:
+* MindBau
+* EdelBild (ErWartung von RainerWasserfuhr: 2010 1m EUR)
+* DueckWiki (ErWartung von RainerWasserfuhr: 2010 1000 Leser/Tag)
+* CoreMedia (ErWartung von RainerWasserfuhr: 2010 25m EUR)
+* CelliTy
+* GimmahHot (ErWartung von RainerWasserfuhr: 2010 5m EUR)
+* SuSuh (ErWartung von RainerWasserfuhr: 2010 5m EUR)
+* MapChart
+* OtherlandGroup
+* SynAxon
+* OsCar
+
+Besonders geeignet sind Kandidaten mit
+* OpenSource-SourceCode
+* WikiBasiert'em BusinessPlan

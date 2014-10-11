@@ -1,0 +1,9 @@
+Bisherige Käufe im MindShop:
+
+||Datum  ||Product         ||Sold by      ||Customer    || ||#||Price||Currency
+|20090904|LockSchuppenVisit|LockSchuppenAg|IrisSchilke  |1     |5|EuRo
+|20090904|LockSchuppenVisit|LockSchuppenAg|ThiemoMaettig|1     |5|EuRo
+|20090904|LockSchuppenVisit|LockSchuppenAg|RaikFischer  |1     |5|EuRo
+|20090904|LockSchuppenVisit|LockSchuppenAg|MarcelBoehme |1     |5|EuRo
+
+Unsere UmsatzPrognose.

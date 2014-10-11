@@ -1,0 +1,3 @@
+includes hugging and ShakeHands.
+
+HasKissed implies HasTouched

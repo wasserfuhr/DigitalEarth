@@ -1,0 +1,6 @@
+* MindTags: UnternehmensGruender
+* FoAf: http://blogs.it/0100198/gems/FOAF.rdf
+
+Gründer von MacroMedia und PeopleAggregator.
+
+[TwittEr:marccanter4real]

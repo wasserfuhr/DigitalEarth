@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Volker_Braun]
+* BirthPlace: StadtDresden
+* BornIn: 1939
+* BirthDay: 05-07

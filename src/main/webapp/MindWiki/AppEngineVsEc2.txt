@@ -1,0 +1,7 @@
+||ComPare   ||EcZwo     ||AppEngine
+|minimum    |72 UsDollar|ForFree
+|traffic    |?          |?
+|DataBase   |any        |BigTable
+|Languages  |any        |MindPhp MindJava MindPython
+|NakedDomain|yes        |no
+|ScaleUp    |no         |yes

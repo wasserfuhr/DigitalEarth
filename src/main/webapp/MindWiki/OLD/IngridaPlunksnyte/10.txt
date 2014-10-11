@@ -1,0 +1,16 @@
+ist MindBroker.
+* WikiPate: HeikeRibke
+* WohnSitz: StadtDresden
+* SprachWelt: lt, de, en, ru
+* MindFaves: ValdasAdamkus
+
+||AusLand
+|[SkyPe:plunksniuks]
+|[TwittEr:pupulka]
+|[FaceBook:779458331]
+|[StudiVz:9eabd7f321e65425]
+|[SuSuh:pupulka]
+
+!Überschrift
+!!Unterüberschrift
+__fett__ ''schräg''

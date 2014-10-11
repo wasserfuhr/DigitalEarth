@@ -1,0 +1,12 @@
+* MindTags: MindPlace
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.067942&lon=13.770412&zoom=18&layers=B000FTF ToDo
+* BoundingBox: 20
+* MindCount: 1.2
+
+MeMo:
+* 20090324:1500-2000: RainerWasserfuhr, YvonneSchubert, JeMand, JeMand, JeMand: StefanKeuchel, BrunchInDresden, RauschenBach, GoogleAnalytics, AdSense, AdWords, IdeenPool
+* 20090317:1500-2000: RainerWasserfuhr, YvonneSchubert, JeMand, JeMand, JeMand: GriebenSchmalz, TwittEr, QiMonda, DomainModel, FaceBook, WikiDrivenDevelopment, NoMic, PeterSuber, StudiVz, SubVersion, GitVersionControl, ApacheMaven, XingLe, PeterThiel, JuergenKohn 
+* 20090310:1500-2000: RainerWasserfuhr, JeMand, JeMand, JeMand: GriebenSchmalz, TwittEr, QiMonda, DomainModel, FaceBook
+* 20090310:1500-1930: RainerWasserfuhr, JeMand, JeMand, JeMand: PeterThiel, FaceBookClj, MethuselahFoundation, GlaesernesUnternehmen, ToDo, ReDo, ExtremeProgramming, RoadMap
+* 20090303:1500-1710: RainerWasserfuhr, YvonneSchubert, JeMand, JeMand, JeMand: NapfKuchen, GriebenSchmalz, TwittEr, QiMonda, YagNi, DomainModel, FaceBook, FriedrichNietzsche, AdiDas, MindId, StudiVz, FremdSprache, XingLe, DatingWiki, FirstThingsFirst, NooPolis, SecondLife, TeslaMotors, SteveInSpace, OvoLotto
+* 20090219:1500-1815: RainerWasserfuhr, JeMand, JeMand: FaceBook, MarkZuckerberg, GriebenSchmalz, ClieSe, NeoLayout, HypeCycle

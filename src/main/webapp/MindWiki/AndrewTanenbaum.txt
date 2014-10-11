@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/t/AndrewSTanenbaum
+* HomePage: http://www.cs.vu.nl/~ast/
+* PagePath: LarryPage ... AndrewTanenbaum

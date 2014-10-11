@@ -1,0 +1,116 @@
+* InterWiki: [WikiWikiWeb:ThreeLetterAcronym]
+
+im WortSchatz von RainerWasserfuhr sind unter anderem folgende aller 17.576 ThreeLetterAcronym's mit einer BeDeut'ung verknüpft:
+* aal: andere ArBeit'en lassen
+* abc: AlphaBet
+* add
+* afk: away from TastaTur
+* afm: away from MindMac, aber MindPhone dabei
+* agi: ArtificialGeneralIntelligence
+* aig
+* aim
+* ajp: SocialGrid
+* amd: AmDe
+* anh: AlbanNikolaiHerbst
+* aol
+* api
+* aqc: QuantPuter
+* ard: StaatsFunk
+* arg: AlternateReality
+* asp
+* bam: BamMatrix
+* bbl: be back later
+* bci
+* bdd
+* bdi: HansOlafHenkel
+* bmw
+* brd: DeutschLand
+* brn: BunteRepublik
+* btw: by the MindWay
+* btx
+* bvg: StadtBerlin
+* cad
+* cam
+* cax
+* ccc
+* cdg: AirPort Paris
+* cdu
+* cee: ToCee
+* ceo
+* cet: TimeZone
+* cgn: AirPort StadtKoeln
+* cia
+* cms
+* cnn
+* css
+* csv
+* cvs
+* ddr: DdErr
+* dst: TimeZone
+* dsl: duschen shaven liften
+* dvb: LinieVier
+* etc: EtCetera
+* eur: EuRo
+* evb
+* fdl: GnuFdl
+* flv: SeesMic
+* fra: AirPort FrankFurt
+* gef
+* gmt: TimeZone
+* gnu: GnuFdl
+* gps
+* gwb: GeorgeWBush
+* hal: EytschEyEl
+* hql
+* htm: JeffHawkins
+* ibm: EiBiEm
+* jar: JosephRatzinger
+* jfk
+* jsf
+* jsp
+* kgv
+* lol
+* mad: AirPort
+* mfg
+* mfi
+* mfs: DdErr
+* mom: einen Moment bitte
+* nda: NonDisclosureAgreement
+* ooa
+* ood
+* oop
+* oql
+* owl
+* pdf: MindPdf
+* pst
+* mdd: DomainModel
+* mez: TimeZone
+* raf: SystemClash
+* rdf: SemanticWeb
+* rdh: StadtJena
+* sai
+* sap: SapAg
+* soa
+* sql: MindSql
+* ssv
+* ssw
+* svn
+* swt
+* tdd
+* tla: ThreeLetterAcronym
+* tud: TuDresden
+* tui: TuiLuna
+* ugc
+* usa: UnitedStates
+* usb
+* usd: UsDollar
+* utc: TimeZone
+* vet: voraussichtlicher Entbindungstermin der GeBurt
+* vfb
+* vfl
+* vlt: vielleicht
+* wsv
+* www: WorldWideWeb
+* xml
+* zdf
+* zdk

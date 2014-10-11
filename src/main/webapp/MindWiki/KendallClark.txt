@@ -1,0 +1,6 @@
+* IsA: PerSon
+* SwDf: http://data.semanticweb.org/person/kendall-clark
+* DbLp: http://dblp.uni-trier.de/rec/pid/44/2022
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd NorbertStreitz WendyHall JimHendler BijanParsia KendallClark
+|[TwittEr:kendall]

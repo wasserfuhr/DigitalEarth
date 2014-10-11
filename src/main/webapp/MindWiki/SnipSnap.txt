@@ -1,0 +1,4 @@
+* HomePage: http://snipsnap.org/
+* InterWiki: [LangReiter:SnipSnap]
+
+ExCel'lent Java based WikiEngine.

@@ -1,0 +1,4 @@
+* WohnSitz: NeuStadt
+* SprachWelt: de, en, fr, es, it, la
+||AusLand
+|[XingLe:MichaelH_Wagner]

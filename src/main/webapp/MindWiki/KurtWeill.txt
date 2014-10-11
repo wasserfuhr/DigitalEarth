@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Kurt_Weill]
+* BornIn: 1900
+* BirthDay: 03-02
+* DiedIn: 1950
+* ViAf: http://viaf.org/viaf/76501825

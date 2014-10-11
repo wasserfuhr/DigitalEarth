@@ -1,0 +1,8 @@
+* IsA: DaxUnternehmen
+* InterWiki: [DeWikiPedia:Lufthansa] [OpenCyc:Lufthansa-CommercialOrganization]
+* IsIn: DE0008232125
+* MindOne: WolfgangMayrhuber
+
+AirLine.
+
+noch ohne FlightWiki

@@ -1,0 +1,68 @@
+* WorldLanguages: deutsch: NooPolisFaqDe
+
+!About
+* What is the key benefit of NooPolis? Why should I register?
+** You can with some Sweet heads connect: Connecting Beautiful Minds.
+** You can an exciting project from the start with design and many KayGroschen deserve.
+* Who had the idea?
+** RainerWasserfuhr with valuable feedback from other CitiZens.
+* How did the idea for NooPolis emerge?
+** The idea originated [here|http://www.flickr.com/photos/rainerw/308191869/]
+* How many people are you?
+** see CitiZens and their CommitMent
+* How will you make money?
+** By all citizens inside a bank account to receive KayGroschen and we share the exchange rate of KayGroschen in the bank account, compared with the EUR or USD.
+* Are you not just a StudiVz clone?
+** yet, but without gruscheln
+* Are you not just a XingLe clone?
+** yet, but at least we call "profile visits" search for TraumPartner.
+* Are you not just a FaceBook clone?
+** yet, but without MindPhp
+* When did it start?
+** NooPolis started in the summer of 2007 and steadily expanded since.
+* I don't understand some wiki entries. What is it actually?
+** If you do not understand some page in the MindWiki : Question RainerWasserfuhr or other MitWirkende.
+* How is origin of the name NooPolis?
+** The name has its roots in the ancient greek [Polis|http://en.wikipedia.org/wiki/Polis] and the NooSphere of TeilhardDeChardin.
+* Your designate your project on the notion of a Jesuit? Are you a sect?
+** The ReLigio of NooPolis is FreiHeit and AisThesis.
+* Why does NooPolis have an end of life?
+** Because we still do not know whether and to what extent a VirtuelleOekonomie with the laws in the country and German EurOpa feasible. Until then NooPolis is a work of art and a playful StartUpSim simulation.
+* Can the end of life of NooPolis change?
+** At any time, if the CitiZens and their ConStitution wish: ItsaWiki! ;)
+
+!Politics
+* Is NooPolis a democracy?
+* Whenever the largest voting, which is the biggest credit, but there is no real citizen participation?
+* No matter how the rules are knitted by the majority shareholder of RainerWasserfuhr at the time he would be the sole Best Always. Why should free people in such a unvorteilhaftes contractual relationship go?
+** When UrWahl all citizens with minimum VerMoegen 
+** equal voting rights.
+* Have the PrimusInterPares more rights than the other?
+** Yes, because they are particularly vulnerable NooPolis and for the welfare of the citizens inside involved.
+
+!Currency
+* Why must it be a virtual NooPolis currency?
+** Because KayGroschen game with a lot more imagination of MitWirkende'n promotes.
+* What can I do with KayGroschen?
+** buy services in the MindShop
+** create a StartUp
+** trade shares on the MindFloor
+* Do I have to balance my bank account on my taxable? How?
+** currently you only have to pay TobinTax
+* If a lot of money, and another not benefit those who do not, disproportionately. It should, however, the most benefit the most is doing?
+
+!Economy
+* How is the VirtuelleOekonomie to the real economy compatible?
+** Through exchange of EUR in KayGroschen and maybe soon vice versa.
+* How can NooPolis a project with the participation of Siemens & Co?
+** Once Siemens & Co have founded an office in NooPolis
+
+!Other
+* What can I do in my NooPolis existing OpenId not?
+** The later is possible. JoinMindBroker and help us with the implementation!
+* Can I with the NooPolis-MindId on all sides OpenId enabled log?
+** Yes, it should soon be possible. JoinMindBroker and help us in the implementation!
+* Can I get a notification when I have new mail in my InBox?
+** For now, possibly later. As an interim solution: Join the MindChat.
+* How safe is my data with you?
+** Our software is open source. On each page, there is ViewSource. Do you have suggestions for improvement? JoinMindBroker and help us in the implementation!

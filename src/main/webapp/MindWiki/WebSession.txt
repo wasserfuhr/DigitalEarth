@@ -1,0 +1,55 @@
+!RePort: PowerUser for the MindId WebApp:
+
+||#||CitiZen||MindId
+|1293|RainerWasserfuhr| 1
+| 215|HeikeRibke| 18
+| 188|YvonneSchubert| 2
+|  51|ChristineSchlinck| 10
+|  48|DanielPoodratchi| 3
+|  29|FrankLorenz| 39
+|  19|BastiHirsch| 33
+|  17|MattisManzel| 17
+|  15|ThomasKujawa| 63
+|   6|OliverGassner| 11
+|   6|IngridaPlunksnyte| 12
+|   5|IrisSchilke| 22
+|   5|SvenEchtermeyer| 59
+|   5|HansGertGraebe| 69
+|   4|RicardaDHerbrand| 4
+|   4|JanBoehme| 41
+|   4|DennisUlm| 43
+|   3|JanaDiesner| 16
+|   3|DimitriUwarov| 21
+|   3|SebastianMitter| 23
+|   2|UteMoritz| 6
+|   2|JensFreydank| 19
+|   2|VivianPein| 26
+|   2|JanaSchlegel| 28
+|   2|CemBasman| 29
+|   2|VolkerGraubaum| 35
+|   2|OliverBerger| 37
+|   2|DanielBruessler| 51
+|   2|NorbertRost| 57
+|   2|ChristianRieger| 61
+|   1|TimBonnemann| 9
+|   1|AndreasDittes| 15
+|   1|KatharinaKuehnel| 20
+|   1|EvaLubas| 24
+|   1|StefanNitzsche| 25
+|   1|FlorianKonnertz| 31
+|   1|SilvanTGolega| 47
+|   1|ChristianHeller| 73
+|   |AndreasWeigel| 5
+|   |NicoHagenburger| 7
+|   |TinaPickhardt| 8
+|   |PierreKerchner| 13
+|   |NicoleZiesche| 14
+|   |MonteMiersch| 27
+|   |BillLiao| 45
+|   |HeinzWeber| 49
+|   |LarsKleinbeckes| 53
+|   |MichaelHWagner| 55
+|   |MarcusBertelsmeier| 65
+|   |StephanHeller| 67
+|   |MartinGamnitzer| 71
+Total logins: 1951

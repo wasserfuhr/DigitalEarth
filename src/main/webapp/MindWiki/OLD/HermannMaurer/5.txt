@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Hermann_Maurer_%28Informatiker%29] [LangReiter:Hermann+Maurer]
+* JahrGang: 1941
+* BirthDay: 04-26
+* DbLp: http://dblp.uni-trier.de/rec/pid/m/HermannAMaurer
+* WohnSitz: StadtGraz
+* PageNumber: 8
+* PagePath: LarryPage TerryWinograd NorbertStreitz WendyHall JimHandler WolfgangWahlster ArminBCremers OttoMayer HermannMaurer

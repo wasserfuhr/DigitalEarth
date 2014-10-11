@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* InterWiki: [WikiPedia:Walter_Pyramid]
+* BoundingBox: 100

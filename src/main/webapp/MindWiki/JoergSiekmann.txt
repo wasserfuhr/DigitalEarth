@@ -1,0 +1,15 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Jörg_Siekmann]
+* BornIn: 1941
+* BirthDay: 08-05
+* ChildOf: HeleneSiekmann JohannesSiekmann
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/JorgHSiekmann
+* ViAf: http://viaf.org/viaf/7464703
+* HomePage: http://www-ags.dfki.uni-sb.de/
+* MindSkill: ArTelligence
+* PageNumber: 5
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann
+
+1984: "officials of the GI ... threatened to ExPel him from the German computer science society, if 
+he would continue to announce publicly that there was no DiFer'ence in principle 
+between HuMan and [machine thinking|http://www-ags.dfki.uni-sb.de/docs/portrait_siekmann.pdf]"

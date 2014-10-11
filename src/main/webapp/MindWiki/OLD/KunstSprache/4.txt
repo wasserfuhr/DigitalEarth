@@ -1,0 +1,5 @@
+Die EmerGier'ende KunstSprache des MindWiki verbindet den SourceCode und die SprachWelt'en der WeltSprache zu einem PostReal'en SemanticWeb-KunstWerk.
+
+Bausteine:
+* AdJective
+* MindVerb

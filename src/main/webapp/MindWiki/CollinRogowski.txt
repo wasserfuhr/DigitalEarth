@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/08/380
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann ClausRainerRollinger CollinRogowski
+|[XingLe:Collin_Rogowski]
+|[FaceBook:1531415303]

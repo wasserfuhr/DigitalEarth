@@ -1,0 +1,11 @@
+* IsA: PerSon
+* InterWiki: [WebSeitz:EstherDyson] [DeWikiPedia:Esther_Dyson]
+* ChildOf: FreemanDyson
+* BornIn: 1951
+* BirthDay: 07-14
+* DbLp: http://dblp.uni-trier.de/rec/pid/68/3403
+* ChildOf: FreemanDyson
+* MindSkill: VentureCapital
+* PageNumber: 11
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi AlexAiken RalfTreinen NachumDershowitz YuriGurevich BertrandMeyer GuySteele EstherDyson
+|[TwittEr:edyson]

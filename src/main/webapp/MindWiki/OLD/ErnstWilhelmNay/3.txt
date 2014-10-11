@@ -1,0 +1,6 @@
+* Maler eines MindPoster's.
+* JahrGang: 1902
+* LebensEnde: 1968
+
+||AusLand
+|[DeWikiPedia:Ernst_Wilhelm_Nay]

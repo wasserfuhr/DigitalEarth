@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* BreitenGrad: 51
+* LaengenGrad: 11

@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* PartOf: SlUb
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/567056316

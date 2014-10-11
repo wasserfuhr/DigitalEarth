@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Joachim_Treusch]
+* BirthDay: 10-02
+* ViAf: http://viaf.org/viaf/72340820

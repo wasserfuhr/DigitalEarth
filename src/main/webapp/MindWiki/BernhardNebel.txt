@@ -1,0 +1,3 @@
+* MindTags: ProFessor
+* HomePage: http://www.informatik.uni-freiburg.de/~nebel/
+* MindSkill: ArTelligence

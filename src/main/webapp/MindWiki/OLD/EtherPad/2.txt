@@ -1,0 +1,6 @@
+* HomePage: http://etherpad.com/
+
+* CorneliaHeinz
+* MartinLindner
+* RainerWasserfuhr
+* RalfLippold

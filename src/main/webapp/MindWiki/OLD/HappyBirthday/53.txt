@@ -1,0 +1,190 @@
+saying happy BirthDay to:
+||MM||DD||
+|12|30|SabeerBhatia
+|12|27|JoachimNiemeier
+|12|23|HelmutSchmidt
+|12|20|StefanDecker
+|12|20|DavidBohm
+|12|19|NoelleNeumann,ChristianHeller
+|12|18|ReinerHartenstein
+|12|17|JamesWindsor
+|12|16|BeetHoven
+|12|16|ArthurCClarke
+|12|15|OscarNiemeyer,KlausZumwinkel,FreemanDyson
+|12|09|JohnMalkovich,GunterDueck, MarcoRibke, IjGood
+|12|08|BenGoertzel
+|12|07|NoamChomsky
+|11|30|JacquesBarzun,HansMoravec
+|11|29|JohnTempleton,GeorgeGilder
+|11|24|SelmerBringsjord
+|11|19|PeterDrucker
+|11|19|EricSchoop
+|11|16|WarrenMcCulloch
+|11|13|HeinzVonFoerster,EvaZeisel
+|11|12|RolandBarthes
+|11|10|ShaneLegg
+|11|09|ErnstMoritzGeyger
+|11|08|PeterWeiss
+|11|06|RobertMusil
+|11|05|TildaSwinton
+|11|02|LeonidLevin
+|11|01|RainerHunold,MitchKapor
+|10|28|WolfgangBibel
+|10|26|HillaryClinton
+|10|25|LawrenceKohlberg
+|10|17|JuergenWeber
+|10|15|HubertDreyfus,FriedrichNietzsche,FereidounEsfandiary
+|10|14|CraigVenter
+|10|07|VladimirPutin
+|10|06|LeCorbusier
+|10|06|GeorgeWestinghouse
+|10|06|DavidBrin
+|10|05|DenisDiderot
+|10|03|AlvinToffler
+|09|28|DietrichDoerner,Nneu
+|09|26|YS
+|09|17|JanezJansa
+|09|11|BeckenBauer
+|09|06|ElwynBerlekamp
+|09|04|HeikoHilker
+|08|29|RobertRubin
+|08|28|DanielBruessler
+|08|27|GeorgWilhelmFriedrichHegel
+|08|25|ErichHonecker
+|08|17|LarryEllison
+|08|13|WernerOtto,FidelCastro
+|08|12|GeorgeSoros
+|08|09|UlrichHemel,MarvinMinsky
+|08|05|JoergSiekmann
+|08|04|BarackObama
+|08|02|SethLloyd
+|07|29|FrankAppel
+|07|27|AugustWilhelmScheer
+|07|26|StanleyKubrick
+|07|25|ShiTao
+|07|23|UlfGrenander
+|07|22|AndreyBoreyko
+|07|19|HowardSchultz
+|07|18|MiriamMeckel
+|07|15|VernonMountcastle
+|07|11|JuergenZoellner,AndersSandberg
+|07|10|JuergenMimkes
+|07|09|MarcAndreessen
+|07|08|UlrichWilhelm
+|07|07|UM, GustavMahler
+|07|01|GottfriedWilhelmLeibniz,CS
+|06|26|PeterSloterdijk
+|06|26|MikhailKhodorkovsky
+|06|24|RobertReich
+|06|21|PierreOmidyar
+|06|18|JuergenHabermas,GertPostel
+|06|14|PascalHorst
+|06|13|JohNash,ErichRibbeck, ChristoJavacheff, JeanneClaude, BanKiMoon, UllaSchmidt, GrigoriPerelman, JohannesGrenzfurthner
+|06|12|DavidRockefeller, GuenterBehnisch, GeorgeHWBush, EvaPflug, AnneFrank, KlausSteilmann, ChickCorea, WaltherUmstaetter, AlexanderWendt
+|06|08|TimBl
+|06|06|DieterRombach
+|06|05|NovaSpivack
+|06|03|LawrenceLessig
+|06|02|MarcelReichRanicki, KalliFeldkamp, KlausMichaelKuehne, LasseHallstroem, HildegardKrekel
+|06|01|MarilynMonroe,JeffHawkins
+|05|28|MikeDiFelice
+|05|28|FrankDrake, RudyGiuliani, JohnFogerty, FrankSchaetzing, DickHardt, KylieMinogue, ChiarettoCalo, DamianRhodes, EnricoCremonesi, EricFish, HakanHemlin, IvanGotti, JfQuintin, JustinKirk, MikeDiFelice, NataschaAntoniazzo, RainerWasserfuhr, RichardDreise, WernerAmon, BorisPalmer, ErikBenson, MartinLabuschin, ThomasSchwenke, KjellFischer
+|05|27|CorneliusVanderbilt, MaxBrod, ChristopherLee, HenryKissinger, KaiPflaume, JamieOliver, AnitaBlond,MichaelWilson
+|05|26|WardCunningham
+|05|26|NguyenNgocTho, EvaSzorenyi, HorstTappert, ManfredKanther, WardCunningham, DorisDoerrie, LennyKravitz
+|05|24|GeorgeLakoff
+|05|21|AlbrechtDuerer, HansBerger, HenriRousseau, GuenterBlobel, HeinzHolliger, ErnstMesserschmid, ReneeSoutendijk
+|05|20|AntonZeilinger
+|05|19|GoSeigen
+|05|19|EdwardDeBono
+|05|16|KarlLehmann
+|05|15|RobertKowalski
+|05|12|JosephBeuys
+|05|11|HildegardHammBruecher, EugeneDynkin, CarlaBley, RobertJarvik, ThomasMiddelhoff, HelmaOrosz, GunillaCarlsson, LaetitiaCasta
+|05|07|FranzLudwigGehe
+|05|06|OrsonWelles, AndreWeil, RinKaiho, WaltherZimmerli, HeinzEggert, TonyBlair, GeorgeClooney, ThayeDorje
+|05|05|KarlMarx, AndorLilienthal, EddiArent, BarbaraSalesch, DieterZetsche, DagmarWoehrl, BrookeAshley
+|04|30|ClaudeShannon
+|04|29|CelesteHolm, WalterThirring, ZubinMehta, HermannScheer, JerrySeinfeld, GeorgFunke, AndreAgassi, UmaThurman
+|04|28|SaddamHussein
+|04|28|KurtGoedel
+|04|28|DonatasBanionis, HarperLee, TerryPratchett,JayLeno
+|04|27|MarthaKresse, GianCarloRota, ValeriyPolyakov, HeikkiWesterinen, FrankAbagnale, ChristophAchenbach, VivianeReding
+|04|27|MarthaKresse
+|04|27|GianCarloRota
+|04|26|MartinVarsavsky
+|04|26|MartinVarsavsky
+|04|25|PeterSchulz, NikolaiKardashev, WolfgangZapf, MarkusLuepertz, BjoernUlvaeus, EricDrexler, JohnNunn, RainerSchuettler
+|04|25|NikolaiKardashev
+|04|23|MaxPlanck
+|04|22|RitaLeviMontalcini
+|04|22|ImmanuelKant
+|04|21|MaxWeber
+|04|20|AubreyDeGrey
+|04|19|ShaiAgassi
+|04|16|JosephRatzinger
+|04|15|RichardVonWeizsaecker, NevilleMarriner, ClaudiaCardinale, MatthiasWissmann, KerstinWalther, SamanthaFox.
+|04|10|StanislawTillich
+|04|08|EdmundHusserl
+|04|07|GerhardSchroeder
+|04|06|JamesWatson
+|04|04|BelaAnda
+|04|03|MargretWintermantel
+|04|02|SergeGainsbourg,KarlSiegbertRehberg
+|04|01|AbrahamMaslow
+|03|29|WolfgangUhlmann
+|03|27|KarlMannheim
+|03|26|PaulErdos, PierreBoulez, RichardDawkins, LarryEllison, JeanRemyVonMatt, JuttaSpeidel, VerenaButalikakis, OliverHirschbiegel, MahsunKirmiziguel, LarryPage, ChristinaSurer,ChristinaSurer,ViktorFrankl
+|03|25|AdolfHennecke, ReimerLuest, KarlheinzSchreiber, AntanasMockus, WolfMaahn, 
+|03|25|AdolfHennecke
+|03|23|ViktorKorchnoi
+|03|21|SybilleKraemer
+|03|20|VeraLynn, JuergenWarnke, BrianMulroney, ErwinNeher, FranzJosefRadermacher, WilliamHurt, SimonBusuttil, JanineKunze
+|03|18|EricWeisstein
+|03|14|HansOlafHenkel,AlbertEinstein
+|03|10|NickBostrom
+|03|07|AlWaleed
+|03|05|ReneObermann
+|03|03|LokiSchmidt
+|03|02|MikhailGorbachev
+|02|29|JamesMitchell, PaulRutherford, MicheleMorgan, DimitriosArhondonis, TonyRobbins, NaokoIijima,GeneHGolub
+|02|28|SvetlanaAlliluyeva, FrankGehry, ErikaPluhar, DinoZoff, SeppMaier, JanCeulemans, GiselaSchwarz, AndrewTridgell, CharlesAmoah 
+|02|27|EgidiusBraun, AlfredHrdlicka, ElizabethTaylor, GidonKremer, RainhardFendrich, BarbaraDare, RheaHarder, ChelseaClinton
+|02|26|AnatoliFiliptschenko, FatsDomino, OdoMarquard, HelenClark, ErnstAugustPrinzVonHannover, MichelHouellebecq
+|02|25|KarlHaager, HansApel, FranzXaverKroetz, ErwinStaudt, NestorKirchner, NickLeeson, MichelFriedman, AlexanderSiedschlag
+|02|24|TerryWinograd
+|02|23|GeorgMilbradt
+|02|22|AliaSabur
+|02|20|SoerenStamer
+|02|19|AzrielRosenfeld
+|02|18|HenryAdams
+|02|17|ThomasJWatson
+|02|14|JosephSmarr
+|02|12|KurzWeil
+|02|10|VernorVinge
+|02|09|AxelOckenfels
+|02|08|JosephSchumpeter
+|02|08|G
+|02|07|AlbanNikolaiHerbst
+|02|04|ZigaTurk
+|02|03|LeonSchlumpf
+|02|02|WolfgangWahlster,RalphMerkle,BarryDiller
+|02|01|FrankTipler
+|01|30|DougEngelbart
+|01|27|MoZart
+|01|26|KlausLandfried
+|01|23|WalterPitts
+|01|22|HeikeRibke
+|01|22|ChristophSchoenborn
+|01|21|HassoPlattner
+|01|20|ManfredVonArdenne
+|01|20|EdwardFeigenbaum
+|01|17|JuergenSchmidhuber
+|01|15|RalphHerforth
+|01|12|WernerWasserfuhr
+|01|09|RobertPutnam
+|01|08|ManuelaAmann
+|01|05|UmbertoEco,GertSmolka
+|01|03|GordonMoore
+|01|02|IsaacAsimov
+|01|01|HeinzZemanek

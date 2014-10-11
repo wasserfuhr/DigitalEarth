@@ -1,0 +1,8 @@
+* HerKunft: Virtual International Authority File
+* HomePage: http://www.d-nb.de/wir/projekte/viaf_info.htm
+
+ToDo: SameAs:
+* JacquesHerbrand: http://viaf.org/viaf/61912155 http://viaf.org/viaf/24739214
+* MarkusWasserfuhr: http://viaf.org/viaf/40492973 http://viaf.org/viaf/49022351
+* OliverGassner: http://viaf.org/viaf/28143094 http://viaf.org/viaf/28173695
+* ZigaTurk: http://viaf.org/viaf/80976012 http://viaf.org/viaf/16913270

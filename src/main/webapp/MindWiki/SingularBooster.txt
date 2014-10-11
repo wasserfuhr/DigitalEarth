@@ -1,0 +1,23 @@
+btw: nutzt jemand von euch nicht nur FireFox sondern dort auch das "shortcut"-feature:
+
+Also
+# lege BookMark an zB http://mindbroker.de/wiki/RecentChanges
+# ersetze "RecentChanges" durch "%s" also http://mindbroker.de/wiki/%s
+# lege einen  BookMark-shortcut an zB "m"
+# gib fortan in der FireFox adresszeile "m KeyWord" an, also zB "m ZainJaffer"
+# lande dann automatisch auf http://mindbroker.de/wiki/ZainJaffer
+
+it changed my life, praktisch zb auch bei
+
+d = http://delicious.com/tag/
+dr = http://delicious.com/rainer/
+t = http://twitter.com/
+tf = http://twitter.com/search/users?q=
+w = http://de.wikipedia.org/wiki/
+we = http://en.wikipedia.org/wiki/
+wt = http://de.wiktionary.org/wiki/
+wte = http://en.wiktionary.org/wiki/
+x0 = https://www.xing.com/app/search?op=search&first_name=&myc=1 [1]
+EtcPp
+
+[#1] sucht nur vornamen aller direkten XingLe-ConTact's

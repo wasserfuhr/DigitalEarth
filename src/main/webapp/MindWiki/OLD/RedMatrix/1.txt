@@ -1,0 +1,3 @@
+* IsA: MindHorse
+* JahrGang: 2005
+* BirthDay: 01-27

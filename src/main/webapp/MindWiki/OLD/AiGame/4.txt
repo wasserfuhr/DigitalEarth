@@ -1,0 +1,16 @@
+The goal of the AiGame is to create a friendly artificial intelligence (for short: ArTelligence)
+which supports Ray KurzWeil to win LongBetOne until 2029.
+
+Inspired by the ReSearch of BenGoertzel, his company NovaMente and the AgiriWiki:AGISim:
+* Create a virtual multiuser world which is inhabited by real people and intelligent agents.
+* Create an economical system with it's own currency, banking system (learning from SecondLife), TradeRegister with virtual enterprises and trading of goods and services.
+
+* Our virtual world: NooPolis
+* Our currency: KayGroschen
+* Our bank: PieschenBank
+
+Questions:
+* How to build AI?:
+All this will be modeled with SemanticWeb technologies, OpenSource software, open APIs and open content.
+The activities of humans and intelligent agents will governed by a virtual e-Democracy with its own ConStitution.
+The players are CitiZens of a selforganizing SocialNetwork.

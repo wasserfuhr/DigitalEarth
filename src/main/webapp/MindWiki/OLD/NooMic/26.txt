@@ -1,0 +1,16 @@
+(str 
+   "<html>
+     <head><title>NooPolis - Building Utopia from the sources</title></head>
+     <body>
+      <h1>NooSphere</h1>
+      <p>NooPolis is like WikiPedia, but additionally you can edit the source code
+        of our MindWiki WebApp. To do so, you have to gain the VerTrauen of existing
+        <a href='http://mindbroker.de/wiki/CitiZens'>CitiZens</a>.
+      </p>
+     <form><textarea name='text'></textarea><input type='submit' value='NooMic'></form>"
+   (str (.getParameter request "text") )
+   "<br/>"
+   "Memory: " (.totalMemory (Runtime/getRuntime))
+   "<body>
+   </html>"
+)

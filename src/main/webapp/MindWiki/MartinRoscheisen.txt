@@ -1,0 +1,5 @@
+* IsA: UnternehmensGruender
+* DbLp: http://dblp.uni-trier.de/rec/pid/r/MartinRoscheisen
+* HomePage: http://www.rmartinr.com/
+* PageNumber: 2
+* PagePath: LarryPage TerryWinograd MartinRoscheisen

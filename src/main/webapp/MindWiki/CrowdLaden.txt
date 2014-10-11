@@ -1,0 +1,16 @@
+* MindTags: ReView
+
+Inspiriert durch KarlFisch: http://thefischbowl.blogspot.com/2008/07/it-is-what-we-make-of-it.html:
+
+Idee für einen vollständig CrowdWisdom-basierten Laden, zB in der MarktHalle:
+Zunächst einmal ist der CrowdLaden ein Ort, an dem
+Menschen zusammenkommen können, um gemeinsam zu überlegen:
+* was können wir anbieten?
+* was brauchen wir?
+Der CrowdLaden könnte sowas wie ein Meta-Laden werden: Ein Laden,
+der exemplarisch zeigen könnte, wie Tauschbeziehungen und ganze
+Wertschöpfungsketten angesichts von InterNet und SocialNetwork's 
+neu gestaltet werden könnten.
+Kunden und Lieferanten könnten zB zu einer [CommunityWiki:IntentionalCommunity] ausgebaut werden.
+
+Die gesamte BarKasse und das MindErp des CrowdLaden natürlich TransParent und WikiBasiert.

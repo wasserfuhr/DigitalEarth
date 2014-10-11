@@ -1,0 +1,4 @@
+* IsA: MindHorse
+* ChildOf: RedRansom NaomiWildman
+* BornIn: 2005
+* BirthDay: 01-27

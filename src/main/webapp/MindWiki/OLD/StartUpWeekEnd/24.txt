@@ -1,0 +1,29 @@
+CemBasman: http://startupweekend.wordpress.com/     Pitch: maximal 3 Minuten, ohne Hilfsmittel, stehend
+
+Hallo, mein Name ist Rainer Wasserfuhr. Ich stelle Ihnen das Projekt NooPolis vor:
+
+NooPolis wird eine neue Art von SocialNetwork. NooPolis ist das SocialNetwork von übermorgen. Es ist eine virtuelle Republik mit BuergerBeteiligung und eigener Ökonomie. Die drei wichtigsten Werte von NooPolis sind 1. Transparenz, 2. Vertrauen und 3. Freiheit. 
+
+1. Transparenz entsteht durch die ausschließliche Verwendung von OpenSource-Software. Der Quelltext kann auf jeder Seite eingesehen werden. Auch die Administration der Server ist transparent. 
+
+2. Vertrauen entsteht durch ein WebOfTrust. Die Identität aller User wird durch ein Netz von gegenseitigen Vertrauensbezeugungen verifiziert und gesichert. So entsteht eine wirklich vertrauenswürdige Community.
+
+3. Freiheit heißt SelbstOrganisation. Die User selbst definieren die Regeln, nach denen die Republik funktioniert. Im Vordergrund steht hier ein dynamischer Prozess, nicht ein statischer Vertrag. NooPolis basiert auf einer im Wiki editierbaren VerFassung, die die Bürger selbst schreiben und verändern. Zur Zeit lautet der erste Satz der Verfassung: Alle Bürger haben Freiheit. 
+
+Das wirklich Neue an dieser Republik wird sein, dass sie über eine eigene virtuelle Ökonomie verfügt, über eigene Unternehmen und eine eigene Währung namens KayGroschen. 
+
+Die Idee dahinter: auf dem Hoheitsgebiet von NooPolis werden Unternehmen gegründet, die auf einem Arbeitsmarkt ihre Produkte und Dienstleistungen anbieten, welche von den Bürgern nachgefragt werden. Die Bezahlung erfolgt in KayGroschen. Zusätzlich können die Unternehmen Aktien ausgeben, welche auf einer virtuellen Börse gehandelt werden. 
+
+Um diese Grundfunktionalitäten gruppieren sich weitere Webapplikationen, die die notwendige Infrastruktur der Republik zur Verfügung stellen: Inbox für Mailing, Blog für Information und Diskussion, Vote für Umfragen usw.  
+ 
+Der aktuelle Stand des Projektes: Wir sind 16 Bürger, davon 3 aktive Softwareentwickler und eine Communitymanagerin.
+
+
+
+
+
+
+
+
+
+

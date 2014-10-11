@@ -1,0 +1,4 @@
+* IsA: MindThing
+* LocatedIn: DoppelRoom
+* OwnedBy: RainerWasserfuhr
+* BoundingBox: 2

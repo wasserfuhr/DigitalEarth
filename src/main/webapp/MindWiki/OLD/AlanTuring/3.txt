@@ -1,0 +1,7 @@
+* Wissenschaftler
+* JahrGang: 1912
+* LebensEnde: 1954
+
+||AusLand
+|[DeWikiPedia:Alan_Turing]
+|[WikiPedia:Alan_Turing]

@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* MindBlog: http://scottaaronson.com/blog/
+* MindSkill: QuantPuter

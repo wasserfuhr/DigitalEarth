@@ -1,0 +1,23 @@
+Der nominale Wechselkurs gibt an, in welchem Verhältnis KayGroschen gegen Euro getauscht werden können. 
+
+Dieser Wechselkurs ist flexibel und wird durch Angebot und Nachfrage bestimmt. 
+
+
+
+
+
+Der AnfangsKurs wird mit der Gründung von Noopolis festgelegt auf 
+
+
+
+1 KayGroschen entspricht 0,05 EuroCent.
+
+
+
+
+
+Hier werden auch alle TauschGeschaefte verzeichnet:
+
+||ZeitStempel||Wer zahlt||an wen||wieviel||in Waehrung
+|200708171700|MaxMustermann|PieschenBank|20,00|EUR
+|200708171710|PieschenBank|MaxMustermann|400|KayGroschen

@@ -1,0 +1,23 @@
+später als WebApp unter http://vote.mindbroker.de
+
+!KabiNettWahl
+
+!SportPortal?
+||Voter          ||Vote
+|RainerWasserfuhr|ja
+|YvonneSchubert  |nein
+
+!WichtigeBrowser: Nur FireFox?
+||Voter          ||Vote
+|RainerWasserfuhr|ja
+|DimitriUwarov   |nein
+
+!MindCal oder MindCalendar?
+||Voter          ||Vote
+|RainerWasserfuhr|cal
+|YvonneSchubert  |cal
+
+!AlexWipperfuerth
+Wieviele Aktien hat AlexWipperfuerth als Geschenk verdient, damit er echt MindBroker wird?
+||Voter          ||Vote
+|RainerWasserfuhr|10

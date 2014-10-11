@@ -1,0 +1,5 @@
+||              ||MonoPoly      ||NooPolis
+|Initial ammount|$1500          |dynamic: BegruessungsGeld
+|Invented by    |ElizabethMagie |RainerWasserfuhr&MitWirkende
+|               |Bank           |PieschenBank
+|               |Schloßallee    |GeheStrasse21

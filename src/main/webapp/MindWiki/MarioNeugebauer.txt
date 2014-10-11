@@ -1,0 +1,8 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/34/5095
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd NorbertStreitz RalfSteinmetz MaxMuehlhaeuser AlexanderSchill BerhardWolf MarioNeugebauer
+* HasTalked: RainerWasserfuhr RalfLippold
+|[XingLe:Mario_Neugebauer]
+
+UbiGrate

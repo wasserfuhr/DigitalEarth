@@ -1,0 +1,2 @@
+||UnterNehmen||RechtsForm||
+|MindBroker|VolksEigenerBetrieb

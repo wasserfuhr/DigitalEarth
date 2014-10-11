@@ -1,0 +1,7 @@
+* MindTags: MindPeople
+* InterWiki:[DeWikiPedia:Robert_Musil], [OpenCyc:RobertMusil]
+* BirthPlace: KlagenFurt
+* JahrGang: 1880
+* BirthDay: 11-06
+* LebensEnde: 1942
+* MindSkill: RealRoman

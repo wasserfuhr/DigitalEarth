@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Klagenfurt]
+* BreitenGrad: 46.621
+* LaengenGrad: 14.309
+* BoundingBox: 4600
+* SlimNess: 0.8
+* GraDient: 90

@@ -1,0 +1,12 @@
+*name - name
+*Manschafts Logo - teamImage
+*Sportarten - sports
+*Location - location
+*kapitän - teamCaptain
+*Mitglieder - members
+*Altersgruppen - teamAges
+
+
+
+
+

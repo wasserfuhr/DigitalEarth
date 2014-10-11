@@ -1,0 +1,17 @@
+Alle BuergerInnen von NooPolis haben eine Glaeserne InBox:
+Auf der WikiHomePage aller BuergerInnen im MindWiki (zB »RainerWasserfuhr«) einfach am Ende eine AnFrage hinterlassen.
+Nachdem der BuergerInnen ihre InBox gecheckt haben, sollten sie die MindProps »LastInBoxCheck« entsprechend setzen, zB:
+
+MindWiki-PowerUser können ihre InBox auf eine separate WikiPage auslagern, zb RalfLippoldInBox
+{{{
+* LastInBoxCheck: 20100131
+}}}
+
+Wenn der Empfänger seine InBox gelesen hat, sollte er sie nicht löschen (LoeschenIstSuende), sondern die
+Antworten auf Seiten im MindWiki ReFactor'en, die zum Thema passen.
+
+Für Seiten ohne passendes Thema gibt es QuickCapture.
+
+Für Seiten ohne passenden Seitennamen die CamelWueste.
+
+Für Statusmeldungen gibt es MeNow.

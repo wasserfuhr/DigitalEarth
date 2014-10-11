@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Paul_Kirchhof]
+* BornIn: 1943
+* BirthDay: 02-21

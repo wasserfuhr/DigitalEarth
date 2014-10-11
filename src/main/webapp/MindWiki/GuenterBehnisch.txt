@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Günter_Behnisch]
+* BirthPlace: LockWitz 
+* BirthDay: 06-12
+* BornIn: 1922
+* DiedIn: 2010

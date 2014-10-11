@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Stephan_A._Jansen]
+* BornIn: 1971
+* BirthDay: 06-12

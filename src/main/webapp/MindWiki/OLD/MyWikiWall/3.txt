@@ -1,0 +1,3 @@
+Each CitiZen of NooPolis can define his 4x4 WikiWall.
+
+Copy it from templates like RalfLippoldWikiWall or RainerWasserfuhrWikiWall.

@@ -1,0 +1,6 @@
+* RdfProperty: http://purl.org/vocab/relationship/spouseOf
+* InterWiki: [WikiPedia:Prenuptial_agreement]
+
+Falls BuergerInnen mit anderen BuergerInnen einen EheVertrag abgeschlossen haben, können sie dies als MindProps auf ihrer Profilseite im MindWiki angeben.
+
+Selbstverständlich sind auch WikiBasiert'e oder FlickEr-[Heiratsäntrage|http://www.flickr.com/photos/rainerw/404133523/] zulässig ;)

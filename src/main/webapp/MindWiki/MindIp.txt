@@ -1,0 +1,7 @@
+||Wer            ||Wann        ||IP          ||Wo
+|RainerWasserfuhr|20070813:1617|212.23.126.12|ReichsTag
+|RainerWasserfuhr|20070813:1546|212.23.126.1 |UnterDenLinden1
+|RainerWasserfuhr|20070813:1434|212.23.126.12|eplus umts
+|RainerWasserfuhr|20070813:1100|212.23.126.8 |eplus umts
+|RainerWasserfuhr|20070305:1400|89.51.208.141|Striesen
+|BitchChecker    |ImmerWieder  |127.0.0.1    |

@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Bertrand_Meyer]
+* BirthDay: 11-21
+* DbLp: http://dblp.uni-trier.de/rec/pid/m/BertrandMeyer
+* HomePage: http://se.ethz.ch/~meyer/
+* PageNumber: 13
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge BarneyPell MichaelGenesereth JayTenenbaum AlanKay DanIngalls RobertHirschfeld GuySteele BertrandMeyer

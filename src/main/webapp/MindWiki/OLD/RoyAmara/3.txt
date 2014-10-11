@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* JahrGang: 1925
+* LebensEnde: 2007
+* MindQuote: We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.
+* HasTalked: DougEngelbart
+* MindSkill: ForeSight

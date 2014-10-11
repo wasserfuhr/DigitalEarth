@@ -1,0 +1,51 @@
+* WorldLanguages: deutsch: NooPolisFaqDe
+
+!About
+* What is the key benefit of NooPolis? Why should I JoinNow?
+** You can an exciting project from the start and earn many KayGroschen. 
+* What are the basic ideas?
+** Social and economic power of CitiZens is based on skills, responsibility, trust and transparency (OpenPower)
+* Who had the idea?
+** RainerWasserfuhr with valuable feedback from other CitiZens.
+* How did the idea for NooPolis emerge?
+** The idea originated [here|http://www.flickr.com/photos/rainerw/308191869/]
+* How many people are you?
+** see CitiZens and their CommitMent
+* How will you make money?
+** By all citizens inside a BankAccount to receive KayGroschen and we share the exchange rate of KayGroschen in the BankAccount, compared with the EUR or USD.
+* When did NooPolis start?
+** NooPolis started in the summer of 2007 and steadily expanded since.
+* I don't understand some wiki entries. What is it actually?
+** If you do not understand some page in the MindWiki: Ask RainerWasserfuhr or other CitiZens.
+* What is origin of the name NooPolis?
+** The name has its roots in the ancient greek [Polis|http://en.wikipedia.org/wiki/Polis] and the NooSphere of TeilhardDeChardin.
+* Why does NooPolis have an EndOfLife?
+** Because we still do not know whether and to what extent a VirtualEconomy complies with the laws in Germany and EurOpa. Until then NooPolis is a game and StartUpSim simulation with a time limit.
+* Can the end of life of NooPolis change?
+** At any time, if the CitiZens and their ConStitution wish: ItsaWiki! ;)
+
+!Politics
+* Is NooPolis a democracy?
+
+!Currency
+* Why does NooPolis have a virtual currency?
+** Because KayGroschen game with a lot more imagination of MitWirkende'n promotes.
+* What can I do with KayGroschen?
+** buy services in the MindShop
+** create a StartUp
+** trade shares on the MindFloor
+* Do I have to balance my BankAccount on my taxable? How?
+
+!Economy
+* How is the VirtualEconomy compatible to the real economy?
+** Through exchange of EUR in KayGroschen and maybe soon vice versa.
+* How can NooPolis a project with the participation of Siemens & Co?
+** Once Siemens & Co have founded an office in NooPolis
+
+!Other
+* Can I use in my existing OpenId to log in to  NooPolis?
+** Not yet. JoinNow and help us with the implementation!
+* Can I get a notification when I have new mail in my InBox?
+** For now, possibly later. As an interim solution: Join the MindChat.
+* How safe is my data with you?
+** Our software is open source. On each page, there is ViewSource. Do you have suggestions for improvement? JoinNowand help us in the implementation!

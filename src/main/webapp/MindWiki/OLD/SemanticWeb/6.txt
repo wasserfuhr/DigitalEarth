@@ -1,0 +1,15 @@
+* InterWiki: [FloWiki:Semantic_Web], [WebSeitz:SemanticWeb]
+
+MindBroker is strongly dedicated to SemanticWeb technologies. We want to help to build the GiantGlobalGraph!
+
+The first steps:
+
+CitiZens who have defined MindTrust on their ProfilePage can export it as FoAf.
+
+Example: [http://id.mindbroker.de/foaf?RainerWasserfuhr]
+
+View with FoafExplorer: [http://xml.mfd-consult.dk/foaf/explorer/?foaf=http://id.mindbroker.de/foaf?RainerWasserfuhr]
+
+Soon SemanticWeb will help us to build powerful MashUp's and truly open and decentralized SocialNetwork's and even a SemanticEconomy!
+
+SemanticCube: Based on trusted semantic StateMent's and rules, new StateMent's can be InFer'ed with a certain ConFidence. The strategy for expanding InFer'ed StateMent's is based on a HappiNess function.

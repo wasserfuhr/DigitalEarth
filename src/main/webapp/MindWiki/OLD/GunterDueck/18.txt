@@ -1,0 +1,37 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Gunter_Dueck] [WikiWikiWeb:GunterDueck]
+* JahrGang: 1951
+* BirthDay: 12-09
+* ViAf: http://viaf.org/viaf/32180521
+* DbLp: http://dblp.uni-trier.de/rec/pid/21/1219
+* WohnSitz: WaldHilsBach
+* CurrentProjects: BluePedia
+* MindBlog: http://www.wissenslogs.de/wblogs/blog/wild-dueck-blog
+* PageNumber: 
+* PagePath:
+||AusLand
+|[FaceBook:500047984]
+|[XingLe:Gunter_Dueck]
+|[WorldWideWeb:omnisophie.com]
+|[TwittEr:wilddueck]
+
+schreibt Vampirromane. DueckWiki.
+
+HotTopics über die RainerWasserfuhr mit GunterDueck bei einem ElbSpaziergang oder MindEis plaudern würde: 
+* BluePedia, SingularFernUni, AcCelerate, LongBetOne, RainerTest, TheExperiment, DigitalTwin, DharmendraModha, BlueBrain, GlaeserneBank, SippenHaft
+
+ToDo:
+# [http://dblp.uni-trier.de/db/indices/a-tree/d/Dueck:Gunter.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/a/Ahlswede:Rudolf.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/k/Khachatrian:Levon_H=.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/b/Bey:Christian.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/l/Leck:Uwe.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/h/Hartmann:Sven.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/l/Link:Sebastian.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/s/Schewe:Klaus=Dieter.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/t/Thalheim:Bernhard.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/j/Jantke:Klaus_P=.html]
+# WolfgangBibel
+# JoergSiekmann
+
+ 

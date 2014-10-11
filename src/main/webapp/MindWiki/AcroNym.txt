@@ -1,0 +1,12 @@
+* TwoLetterAcronym
+* ThreeLetterAcronym
+* FourLetterAcronym
+* FiveLetterAcronym
+* SixLetterAcronym
+* SevenLetterAcronym
+
+RainerWasserfuhr pflegt ein computerlinguistisch spannendes sample mit jetzt 183 FourLetterAcronym 's.
+
+Fast immer wenn ihm ein bedeutungstragendes FourLetterAcronym über den weg läuft, editiere er die seite; seit beginn Januar 2009 bis November 2009 insgesamt 146 mal. - von theoretisch 26^4 = 456.976 verfügbaren FourLetterAcronym's.
+
+Man könnte jetzt die AcroNym-SinnAtom'e auf ihren WordNet-, ConceptNet- oder WikiPedia-WortStamm expandieren.

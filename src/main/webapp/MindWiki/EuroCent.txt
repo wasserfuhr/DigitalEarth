@@ -1,0 +1,1 @@
+SubCurrency 100 EuroCent = 1 EuRo

@@ -1,0 +1,6 @@
+Unser Budget: 500 EUR:
+* finde eine SL-Parzelle, auf der man das WirkZentrum im Massstab 1:1 nachbauen kann.
+* baue den Grundriss von [hier|http://websvn.mindbroker.de/fileContent.jsp?url=de.mindbroker.home%2Ftrunk%2Fsrc%2Fmain%2Fwebapp%2Fflat.gif] nehmen und als Wohnung  
+* baue im Massstab 1:500 im Stil von [Madurodam|http://nl.wikipedia.org/wiki/Madurodam] SecondDresden.
+
+[{Image src='http://websvn.mindbroker.de/fileData.jsp?url=de.mindbroker.home%2Ftrunk%2Fsrc%2Fmain%2Fwebapp%2Fflat.gif&crev=819'}]

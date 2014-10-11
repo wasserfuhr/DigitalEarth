@@ -1,0 +1,23 @@
+||%||OrderedByShares:
+|100|RainerWasserfuhr
+|100|YvonneSchubert
+|100|JeWe
+| 95|EvLu
+| 95|PiKa
+| 80|AlGe
+| 30|SeMi
+| 30|BoHo
+| 20|SvBa
+| 20|PeZa
+| 20|InPl
+| 20|ChSc
+| 20|FaMe
+| 20|GuGl
+| 20|SaHo
+| 20|GePr
+| 20|GePr
+| 20|AnSt
+| 20|AlSu
+
+
+Verhindert: RaSc, HeEg

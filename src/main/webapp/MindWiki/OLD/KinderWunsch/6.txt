@@ -1,0 +1,7 @@
+||Vater          ||Mutter          ||Sohn     ||Tochter
+|RainerWasserfuhr|NoName           |Alexander |Mari
+|MarcoRibke      |HeikeRibke       |NoName    |Leoni
+|NoName          |ChristineSchlinck|Leo       |Hannah
+|NoName          |YvonneSchubert   |0         |0
+
+Weitere schöne VorName'N: Verenice

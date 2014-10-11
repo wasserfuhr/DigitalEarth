@@ -1,0 +1,54 @@
+* IsA: ProJect
+* InterWiki: [LangReiter:semanticmind]
+
+Idea: SubMit a MindPaper to IsWc 2010:
+
+!DcTitle: SemanticMind - A SemanticWeb based personal LifeWiki on the long road towards WholeBrainEmulation ;)
+
+The SemanticMind will be a SemanticWeb based Model of the personal KnowLedge of RainerWasserfuhr.
+
+It consists of concrete entities like places, books, ideas, PerSon's or general ConCept's like »NeuralCorrelatesOfConsciousness«.
+
+It is created from a public LifeWiki started end of 2006 that grew to a PageCount of over 10.000 WikiPage's UnTil january 2010.
+
+This MindPaper describes how the data is created, maintained, embedded into LinkedData and possible applications for the TimeToCome.
+
+!A SemanticWiki
+
+The ConTent is created and maintained by a slightly modified JspWiki.
+Each ReSource is first created as a WikiPage.
+The PageIndex of all WikiPage's is the base for all DeFin'ed ReSource's.
+Each WikiPage can be hooked into an OntoLogy via MindProps.
+40% of the WikiPage's are sorted into a lightweight OntoLogy with a "SubClassOf"-depth of 1 to 5 levels.
+
+!The data
+The RdF will soon be available as
+* MindN3
+* MindRdf
+
+The RdF itself is generated as NotationThree via CloJure code inside the MindWiki: RdfClj
+
+!LinkedData
+One of the InterWiki-links to WikiPedia and LifeWiki's WikiWikiWeb of WardCunningham or CommunityWiki.
+Since 2009 many PerSon's working as ReSearch'ers in ComputerScience also obtained DeepLink's to DbLp.
+
+The raw ConTent of the MindWiki is also available for DownLoad as MindZip.
+
+!From a PersonalWiki to a GroupWiki
+We opened up the MindWiki for additional users by invitation. The MindWiki has a strict RealName policy
+to ensure a high data quality and a UniqueNameAssumption.
+This means that each for ReSource of the PageIndex we can issue a OwL-DifferentFrom assurance.
+
+!From a GroupWiki to an EnterpriseWiki
+In March 2009 RainerWasserfuhr teamed up with RalfLippold to apply SemanticWiki technology
+for a new StartUp called LockSchuppenAg.
+
+The LockSchuppen is an AmbItio'us ProJect to renovate a former RoundHouse in the CityOfDresden 
+and create a ThinkAndDoTank about new ways of CoWorking and CoLiving 
+towards TheSingularity. The entire StartUp phase of LockSchuppenAg was managed
+by the MindWiki, including the ConTract of the ShareHolder's and the LockSchuppenBusinessPlan.
+
+!From an EnterpriseWiki to a OpenSocialNetwork
+ToDo
+
+ToDo: More Chapters: TransparentMan UnitedSemanticNations WorldDominance

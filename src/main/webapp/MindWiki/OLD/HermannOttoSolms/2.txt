@@ -1,0 +1,10 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Hermann_Otto_Solms]
+* JahrGang: 1940
+* BirthDay: 11-24
+* ViAf: http://viaf.org/viaf/67534999
+* ParteiWiki: FdpWiki
+|[TwittEr:solms]
+|[FaceBook:100000001835339]
+
+ViafBug: http://viaf.org/viaf/24250876

@@ -1,0 +1,21 @@
+see PageNumber
+
+* AlanKay.txt:* PagePath: ... MichaelGenesereth JayTenenbaum AlanKay
+* AlvinToffler.txt:* PagePath: ... EstherDyson AlvinToffler
+* AmirPnueli.txt:* PagePath: ... TomHenzinger ZoharManna AmirPnueli
+* AndrewTanenbaum.txt:* PagePath: LarryPage ... AndrewTanenbaum
+* BrittaSchinzel.txt:* PagePath: ... MichaelRichter BrittaSchinzel
+* DavidGilbert.txt:* PagePath: LarryPage ... DavidGilbert
+* DieterSpath.txt:* PagePath: ... JoachimNiemeier HansJoergBullinger DieterSpath
+* FredBrooks.txt:* PagePath: LarryPage ... FredBrooks
+* HansJoergBullinger.txt:* PagePath: ... DieterSpath
+* HeinerMuellerMerbach.txt:* PagePath: ... PeterLoos HeinerMuellerMerbach
+* HenriCasanova.txt:* PagePath: ... ArndtBode HenriCasanova
+* HolgerWache.txt:* PagePath: ... AndreasAbecker HolgerWache
+* HpNii.txt:* PagePath: ... EdwardFeigenbaum
+* IsabelJohn.txt:* PagePath: ... NorbertKuhn IsabelJohn
+* KatarzynaStapor.txt:* PagePath: ... HorstBunke HeinrichNiemann RadimChrastek KatarzynaStapor
+* KlausPJantke.txt:* PagePath: ... WolfgangBibel KlausPJantke
+* RandyPausch.txt:* PagePath: LarryPage ... RandyPausch
+* RudolfAhlswede.txt:* PagePath: LarryPage ... RudolfAhlswede
+* SigridSchubert.txt:* PagePath: ... KurtMehlhorn VolkerClaus SigridSchubert

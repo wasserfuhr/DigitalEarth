@@ -1,0 +1,5 @@
+* InterWiki: [WikiWikiWeb:ModelViewController]
+
+* Model: MindBase - define your own appropriate tables...
+* View: CloJure "/viewname"
+* Controller: CloJure ... "/do/viewname"

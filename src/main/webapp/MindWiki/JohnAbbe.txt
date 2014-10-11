@@ -1,0 +1,3 @@
+* IsA: SingularityMind WikiMind
+* InterWiki: [WikiWikiWeb:JohnAbbe]
+* HomePage: http://ourpla.net/

@@ -1,0 +1,19 @@
+* MindTags: SingularityMind, UnternehmensGruender
+* WohnSitz: NeuStadt
+* TimeZone: CEST
+* SprachWelt: de, en-2, fr-1, es-1
+* MindBrowser: SafariBrowser
+* MindSkill: SystemDynamics, EinfachMachen, LeanThink, MoeglichkeitsRaum, AbsTra, UltimateFrisbee, GlaesernesUnternehmen, GuteGespraeche, GesagtGetan
+* MindFaves: PeterSenge, EdwardsDeming, SystemDynamics, LeanThink, DanielGoleman, JayForrester, DennisMeadows, DanaMeadows, SustainabilityInstitute, BMW, Innovation, EdgarSchein, John D. Sterman, OverBurden, FireFighting, OrganizationalCulture, Industrial Heritage, UrbanSplash, TeamAcademy, TeamLeaRningExperience, StadtDresden, LeaderShip, ManageMent, TheoryU, Facilitation, TippingPoint, SoL, network, KnowledgeWork, sharing, ImProve outside-the-box, ShigeoShingo, JimWomack, HtwDresden, SystemsThinking, Macintosh, EmotionalIntelligence, ProcessConsulting, OttoScharmer, SlUb, GeniusHellerau, MitSloan, MitWorld, TwittEr, TheSingularity, RayKurzweil, RichardFlorida
+* HasTalked: RobCross, JayForrester, DennisMeadows, PeterSenge, MarigoRaftopoulos, HelmaOrosz, DirkHilbert, YvonneSchubert, HansJuergenCrede, ReinerZieschank, PeterClaussen, EvaMariaStange, HeidiGallinat
+* HasSeen: NorbertReithofer, HelmutKohl, SvenEchtermeyer
+* DrankBeerWith: RainerWasserfuhr
+* MindBlog: http://www.leanthinkers.blogspot.com/
+||AusLand
+|[TwittEr:RalfLippold]
+|[XingLe:Ralf_Lippold]
+|[FaceBook:1210500545]
+|[LinkedIn:ralflippold]
+
+HotTopics für nächste GuteGespraeche
+* BeuteSchema, LydiaGv, VerbThing, AussenPattern, InnenPattern, MarketCap, ReDo, WebFeed, LeistungsKonto, WirkSatz, SchaetzQual, LoewenJagd, MindFloor, VerTrag, DresdenFutureGroup, PeerAcademy, GettingThingsDone, TheBerg, NooPolis, VerFassung, RayGroschen, HausHalt, IdeenPool, HandelsRegister, StartUpSaxony, StartUpSim, FutureMap, OpenFab, DigitalTwin, BrainCopy, FansOfFuturesax, SingularFutureSax, ShockLevel, SemanticWeb, SippenHaft, DistanzSpiel, WortSchatz, OpenEverything, LeanBachelor, SocialBackup, LivingSystem, ReCur, AcceleratingReturns, SemperGuerilla

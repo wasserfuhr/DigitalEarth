@@ -1,0 +1,18 @@
+Ein VotingWidget.
+
+!Beispiel-Vote:
+!!Wann soll der MindBrokerSalon stattfinden?
+
+||Voter          ||Vote
+|RainerWasserfuhr|200708
+
+
+!WichtigeBrowser: Nur FireFox?
+||Voter          ||Vote
+|RainerWasserfuhr|ja
+|DimitriUwarov   |nein
+
+!AlexWipperfuerth
+Wieviele Aktien hat AlexWipperfuerth als Geschenk verdient, damit er echt MindBroker wird?
+||Voter          ||Vote
+|RainerWasserfuhr|10

@@ -1,0 +1,3 @@
+* MindTags: UnternehmensGruender
+* WohnSitz: StadtDresden
+* HomePage: http://www.softeyes.net/

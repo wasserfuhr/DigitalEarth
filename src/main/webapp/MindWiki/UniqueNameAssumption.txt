@@ -1,0 +1,6 @@
+* InterWiki: [WikiPedia:Unique_name_assumption]
+
+The MindWiki has a weak UniqueNameAssumption:
+As long as a WikiPage is not a ReDirect, it tries to assure that different WikiPage's represent a different NamedEntity.
+
+DifferentFrom

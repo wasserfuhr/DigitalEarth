@@ -1,0 +1,4 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/44/4879
+* PageNumber: 4
+* PagePath: LarryPage TerryWinograd AllenNewell MilindTambe RobertDoorenbos

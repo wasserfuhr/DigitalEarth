@@ -1,0 +1,4 @@
+* MindTags: FutureCard
+* CardOwner: RainerWasserfuhr
+* UnTil: 2047
+* PreVents: LunarSteigenberger

@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* JahrGang: 1947
+* BirthDay: 03-17
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/AchimBachem
+* HomePage: http://www.fz-juelich.de/portal/ueber_uns/organe/vorstand/bachem
+* PageNumber: 17
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann WolfgangBibel KlausPJantke BernhardThalheim KlausDieterSchewe SebastianLink SvenHartmann UweLeck ChristianBey RudolfAhlswede PeterLErdos WinfriedHochstaettler AchimBachem
+

@@ -1,0 +1,11 @@
+* IsA: EventSeries
+
+!2010-06-16
+* XingEvent: https://www.xing.com/events/sommerfest-b2b-sachsen-puro-beach-515111
+* MindPlace: PuroBeach
+
+!2010-03-30
+* XingEvent: https://www.xing.com/events/b2b-sachsen-treffen-2010-dresden-476687
+* MindPlace: CongressCenterDresden
+
+AndraGross BerndSaupe BobHooda HolgerSchulze KorneliaSimon MarkusHartlieb RainerWasserfuhr RalfLippold StefanMeissner ThomasWiedemann

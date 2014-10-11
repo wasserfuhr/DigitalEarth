@@ -1,0 +1,15 @@
+per MindId und TwittEr!
+
+Der Bürger mit MindId=1, also RainerWasserfuhr fängt an
+und TwittEr't:
+
+__@yvonneschubert NooPolis-VolksZaehlung: Meine MindId: 1__
+
+Danach TwittEr't Bürgerin mit MindId=2 etc:
+
+__@daniele: NooPolis-VolksZaehlung: MindId=2__, danke @rainer
+
+__@yvonneschubert: NooPolis-VolksZaehlung: MindId=3__
+
+Falls BuergerInnen nicht binnen 24h ihre MindId TwittEr'n,
+können BuergerInnen mit der nächstgrösseren MindId übernehmen.

@@ -1,0 +1,4 @@
+* IsA: MindThing
+* InterWiki: [DeWikiPedia:Mond] [OpenCyc:MoonOfEarth]
+* BoundingBox: 3474200
+* SatelliteOf: PlanetErde

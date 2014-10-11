@@ -1,0 +1,4 @@
+* IsA: PerSon
+* JahrGang: 1956
+* BirthDay: 09-30
+* DbLp: http://dblp.uni-trier.de/rec/pid/53/926

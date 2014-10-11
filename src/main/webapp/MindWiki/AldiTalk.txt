@@ -1,0 +1,10 @@
+* HomePage: http://www.medionmobile.de/
+
+578724457
+
+SpeedTest WestinBellevue
+(Kopiert am 22.09.10 00:38)
+Download aus Deutschland : 113 Kbit/Sek
+Upload : 18 kbit/Sek
+Verbindung : 0 Verb/Min
+Ping Test Deutschland : 2147483647 ms

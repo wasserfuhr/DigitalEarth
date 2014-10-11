@@ -1,0 +1,8 @@
+* MindTags: MindPlace
+* InterWiki [DeWikiPedia:Burj_Dubai]
+* BreitenGrad: 25.19713
+* LaengenGrad: 55.27411
+* BoundingBox: 50
+* NormalNull: 600
+
+MindBet: Könnte MindBroker dort bis 20101231 ein Büro haben? 768m über NormalNull mindestens?

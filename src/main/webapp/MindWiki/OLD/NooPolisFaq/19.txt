@@ -1,0 +1,47 @@
+!About
+* Was ist der zentrale Nutzen von NooPolis? Warum soll ich mich anmelden?
+* Wer hatte die Idee und wieviele Leute seid ihr?
+** siehe CommitMent 
+* Wie wollt ihr Geld verdienen?
+* Seid ihr nicht bloß ein StudiVz-Klon?
+* Wann ist Start?
+** NooPolis startete im Sommer 2007 und wird seitdem ständig ausgebaut.
+* Gründet ihr eine Aktiengesellschaft? 
+** Die Gründung einer AhGe hatten wir 2006 geprüft, dann aber wegen der unbefriedigenden gesetzlichen Spielräume verworfen. 
+* Was ist ein Volkseigener Betrieb?
+* Betreibt ihr ein Glücksspiel?
+* Ich verstehe einige Wikieinträge nicht. Worum geht es eigentlich?
+** wenn Du etwas nicht verstehst: Frage RainerWasserfuhr oder andere MitWirkende.
+
+!Politik
+* Ist NooPolis eine Demokratie?
+* Wenn immer der das größte Stimmrecht hat, der das größte Guthaben hat, gibt es doch gar keine echte Buergerbeteiligung?
+* Egal wie die Regeln gestrickt sind: Durch die Anteilsmehrheit von RainerWasserfuhr wäre er zur Zeit
+ der alleinige Bestimmer. Warum sollten sich freie Menschen in ein solch unvorteilhaftes Vertragsverhältnis begeben?
+* Haben die PrimusInterPares mehr Rechte als die anderen?
+** Ja, weil sie sich in besonderem Masse für NooPolis und das Wohl der BuergerInnen engagieren.
+
+
+!Währung
+* Warum muss es in NooPolis überhaupt eine virtuelle Währung geben?
+* Was kann ich mit KayGroschen machen?
+* Muss ich mein Guthaben auf meinem BuergerKonto versteuern? Wie?
+* Wenn einer viel Geld einbringt und ein anderer keines, profitiert derjenige, der nichts tut, überproportional. Es müsste jedoch der am meisten profitieren, der am meisten tut?
+
+!Wirtschaft
+* Wie ist die VirtuelleOekonomie an die reale Wirtschaft anschlussfähig?
+* Wie kann in NooPolis ein Projekt mit Beteiligung von Siemens stattfinden?
+** Erst wenn Siemens eine AusLands-Niederlassung in NooPolis gründet.
+* Ist die Eintragung im NooPolis-HandelsRegister dieselbe wie im echten HR?
+** Nein. NooPolis ist eine virtuelle Republik mit eigener VerFassung. Wenn Du eine MindId hast, kannst Du die VerFassung aber editieren.
+* Muss eine IchAg auch ins HandelsRegister?
+* Brauche ich da eine Gewerbeanmeldung?
+
+!Sonstiges
+* Warum kann ich in NooPolis meine bereits vorhandene OpenId nicht verwenden?
+* Kann ich mich mit der NooPolis-ID auf allen OpenId-fähigen Seiten einloggen?
+** derzeit noch nicht, aber jede MindId soll OpenId-fähig werden. Wir arbeiten dran.
+* Kann ich eine Benachrichtigung bekommen, wenn ich neue Mail in meiner InBox habe?
+** vorerst nicht, später eventuell. Als Zwischenlösung: Lass Dich von BuergerInnen in den MindChat einladen.
+* Wie sicher sind meine Daten bei euch?
+** 

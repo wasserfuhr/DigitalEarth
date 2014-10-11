@@ -1,0 +1,4 @@
+* IsA: EnterPrise
+* InterWiki: [DeWikiPedia:ExxonMobil]
+* IsIn: US30231G1022
+* MindOne: RexTillerson

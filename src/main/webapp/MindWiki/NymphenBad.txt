@@ -1,0 +1,8 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.053825
+* LaengenGrad: 13.73378
+* BoundingBox: 40
+* GraDient: -25
+* SlimNess: 0.8
+
+SemantischesBarock

@@ -1,0 +1,15 @@
+Die PieschenBank hat im HausHalt von NooPolis für die LockSchuppenAg ein Startkapital von 1.000.000 KayGroschen bereitgestellt.
+[Engl.] PieschenBank has put into its HausHalt of NooPolis 1.000.000 KayGroschen as StartKapital.
+
+4.000 sind schon verpulvert worden.
+
+[Engl.] 4.000 have been already been used.
+
+
+How to spend the remaining 996.000 KayGroschen?:
+
+Ideas:
+* ArchiTekt's for creating the digital LockSchuppen3D-model
+* A ModellBauer for creating a physical LockSchuppen3D model
+* SystemDynamics-Modellierung of LockSchuppen
+* SchmierGeld

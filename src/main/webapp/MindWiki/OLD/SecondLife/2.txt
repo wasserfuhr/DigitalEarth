@@ -1,0 +1,10 @@
+||                  ||SecondLife        ||NooPolis
+|Währung            |Lindendollar       |KayGroschen
+|Geldmengenpolitik  |??                 |konstant
+|UserParticipation  |3D-Designs, etc    |code WebApps für UnserGrid
+|WebOfTrust         |?                  |MindTrust
+|VerFassung         |-                  |ja, VerFassung
+|BuergerBeteiligung |-                  |UrWahl, MindVote
+
+Tools:
+* http://sourceforge.net/projects/primdotblender: Blender2SL

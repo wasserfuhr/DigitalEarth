@@ -1,0 +1,6 @@
+für die MindCity:
+* Ein gut ausgebautes Netz von Strassenbahnen, Bussen und BuergerTaxi's
+* kein starrer FahrPlan mehr
+* Wenn BuergerInnen andere BuergerInnen treffen wollen, clicken sie auf ihr MindPhone und sehen, zu welcher Strasse sie sich zum Einstieg begeben müssen und wie weit das VerkehrsMittel noch entfernt ist.
+
+DvbAg, BerlinerVerkehrsbetriebe, VerkehrsbetriebeKarlsruhe, BaRt

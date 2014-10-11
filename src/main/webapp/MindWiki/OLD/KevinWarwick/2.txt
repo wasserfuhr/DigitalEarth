@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Kevin_Warwick]
+* BornIn: 1954
+* BirthDay: 02-09
+* MindSkill: CybOrg

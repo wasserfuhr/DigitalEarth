@@ -1,0 +1,37 @@
+"ImmerWieder" ist das wikibasierte Wiedervorlageprinzip des AgWiki:
+
+WikiSpec:
+||ImmerWieder      ||OrderedByShares||last   ||do      ||it
+|Tag    |RainerWasserfuhr|20070903|lese     |daily MindFeeds
+|3 Tage |RainerWasserfuhr|20070903|giesse   |MindGreen
+|Woche  |RainerWasserfuhr|20070903|reviewe  |DoIt
+|Woche  |RainerWasserfuhr|20070903|reviewe  |WasWyrd
+|Woche  |RainerWasserfuhr|20070826|lese     |weekly MindFeeds
+|Monat  |RainerWasserfuhr|20070903|mache    |SocialBackup
+|Monat  |RainerWasserfuhr|20070903|reviewe  |ImmerWieder
+|Monat  |RainerWasserfuhr|20070808|duenge   |MindGreen
+|Monat  |RainerWasserfuhr|20070712|besuche  |FriseurGehestr
+|Monat  |RainerWasserfuhr|        |downloade|KontoAuszuege 
+|Jahr   |RainerWasserfuhr|20070413|mache    |JahresAbschluss
+|-| | | |
+|Woche  |DanielPoodratchi|        |lese     |weekly MindFeeds
+|Monat  |DanielPoodratchi|20070518|reviewe  |UnserBudget
+|Monat  |DanielPoodratchi|        |reviewe  |CommitMent
+|Monat  |DanielPoodratchi|        |mache    |SocialBackup
+|-| | | |
+|Woche  |AndreasWeigel   |        |reviewe  |UnserBudget
+|-| | | |
+|Tag    |YvonneSchubert  |20070829|reviewe  |WasWyrd
+|Tag    |YvonneSchubert  |20070829|les      |Skype-Chats
+|Woche  |YvonneSchubert  |20070820|aufgehe  |YvonneDieSonne
+|Woche  |YvonneSchubert  |20070827|lese     |MindFeeds
+|Woche  |YvonneSchubert  |20070827|lese     |heise-Newsticker
+|Woche  |YvonneSchubert  |20070825|sortiere |Belegstapel
+|Woche  |YvonneSchubert  |20070823|kaufe    |ChocoRoellchen
+|Woche  |YvonneSchubert  |20070829|mache    |SocialBackup
+|Monat  |YvonneSchubert  |20070827|checke   |FaceBook
+|Monat  |YvonneSchubert  |20070829|lese     |Xing-Termine
+|Monat  |YvonneSchubert  |20070809|mache    |UstVA
+
+
+TagUndNacht: husch!

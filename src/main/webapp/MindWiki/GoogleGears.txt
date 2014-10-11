@@ -1,0 +1,4 @@
+* MindTags: ReView
+* InterWiki: [DeWikiPedia:Gears], [LangReiter:Google+Gears], [WebSeitz:GoogleGears]
+
+for NewMind, with RealTime SocialBackup?

@@ -1,0 +1,8 @@
+A ComPression of the  MindWiki-content as JspWiki-Textfiles: http://mindbroker.de/mind.zip
+
+The admin of the SocialGrid creates it RePeat'edly:
+{{{
+zip -rq apache-tomcat-6.0.14/webapps/ROOT/mind.zip wiki wiki-files
+md5sum apache-tomcat-6.0.14/webapps/ROOT/mind.zip
+ls -l apache-tomcat-6.0.14/webapps/ROOT/mind.zip 
+}}}

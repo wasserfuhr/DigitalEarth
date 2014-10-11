@@ -1,0 +1,53 @@
+* InterWiki: [AgiriWiki:AGIRI_Events] [DdWiki:Stadtwiki:Veranstaltungen] [DeWikiPedia:Juli_2010]
+ [OpenCog:Current_events] [PlomWiki:Terminkalender]
+
+The WikiBased calendar of TheNooSphere.
+
+(MindEvent's in the WikiLender have a "When" and an optional "UnTil". Things which only have an "UnTil" can be found as DeadLine)
+
+||When          ||UnTil||Status||MindPlace    ||What                    ||MindPeople
+|2010-10-19     |     |        |StadtDresden  |SemiconEuropa            |EtAl
+|2010-10-22:2000|     |        |StadtDresden  |PieschenArtMuseum        |RaWa EtAl
+|2010-10-23     |     |        |LosAngeles    |LoebnerPrize             |HughLoebner EtAl
+|2010-10-31     |     |        |StadtDresden  |HalloWeen             |HolgerJohn EtAl
+|2010-12-07     |     |        |CongressCenterDresden|ItGipfel|AngelaMerkel? EtAl
+|2011-02-24     |     |        |StadtDresden  |WorldCultureForum        |EtAl
+|2011-02-25     |     |        |StadtDresden  |WorldCultureForum        |EtAl
+|2011-02-26     |     |        |StadtDresden  |WorldCultureForum        |EtAl
+|2011-03-03:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|2012-02-16:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|2012-12-21     |     |        |PlanetErde    |13.0.0.0.0               |
+|2012-06-23     |     |        |PlanetErde    |BirthDay                 |AlanTuring
+|2012-06-23     |     |        |LockSchuppen  |LockSchuppenOpening      |HeOr?
+|2013           |     |        |DeutschLand   |BundestagsWahl2013       |
+|2014-10-24     |     |        |GalerieHorschik|OpenArt-BeSuch          |RainerWasserfuhr JeMand?
+|2026-11-13     |     |        |PlanetErde    |DoomsDay                 |HeinzVonFoerster EtAl
+|2036-12-17:1930|     |        |UniVerse      |End of HundertMalHundert |RainerWasserfuhr
+|2081-09-03     |     |        |DeutschLand   |SonnenFinsternis         |
+
+everything else is on the FutureMap
+
+!WasWar:
+
+||When          ||UnTil||      ||MindPlace    ||What                    ||MindPeople
+|2010-10-17     |     |        |ScheuneDresden|DatenSpuren              |RaWa EtAl
+|2010-10-16     |     |        |ScheuneDresden|DatenSpuren              |RaWa EtAl
+|2010-10-15:2000|     |        |PensionMorgenstern|PieschenArtMuseum        |RaWa EtAl
+|2010-10-08:2000|     |        |PensionMorgenstern|PieschenArtMuseum        |RaWa EtAl
+|2010-10-02:2100|     |        |PensionMorgenstern|Party                    |EtAl
+|2010-09-22:2030|     |        |BergGarten    |UmZug                    |RaWa
+|2010-09-14:1400|     |CANCELED|SlUb          |Meeting                  |JiRu RaWa
+|2010-09-02:2000|     |        |HausDerPresse |UndSonstSo               |RaLi EtAl
+|2010-08-29:1730|     |        |HechtBuehne   |BauchTanz                |RoHu RaWa EtAl
+|2010-08-29     |     |        |HechtViertel  |HechtFest                |RaWa EtAl
+|2010-08-28     |     |        |HechtViertel  |HechtFest                |RaWa HoJo EtAl
+|2010-08-27     |     |        |HechtViertel  |HechtFest                |EtAl
+|2010-08-23     |     |CANCELED|StadtDresden  |TanzKurs                 |EtAl
+|2010-08-22     |     |        |StadtDresden  |StadtFest                |PeLeh EtAl
+|2010-08-21     |     |        |StadtDresden  |StadtFest                |PeLeh EtAl
+|2010-08-20     |     |        |StadtDresden  |StadtFest                |PeLeh EtAl
+|2010-08-14     |     |CANCELED|CoOrpheum     |SingularSummitEurope     |RaWa EtAl
+|2010-08-05     |     |        |CoOrpheum     |TagDerWahrheit 2         |MaFa CoWo? EtAl
+|2010-08-03:1900|     |        |SchuetzenPlatz|FaceBook-Event           |EtAl
+
+Earlier Events: WasWar.

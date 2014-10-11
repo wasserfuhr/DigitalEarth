@@ -1,0 +1,17 @@
+!!!mind-broker-wiki: wiki-node
+
+Welcome. 
+
+!Einstiegspunkte
+''starting points''
+* [Startseite|http://mindbroker.de/]
+* [recent changes|http://mindbroker.de/wiki/RecentChanges]
+
+!wiki-nodes benachbarter wikis
+''wiki-nodes of neighboring wikis''
+
+!das mind-broker-wiki in wiki-Zentren
+''the mind-broker-wiki in wiki-centers''
+
+!Kommunikation in Echtzeit
+''real-time communication''

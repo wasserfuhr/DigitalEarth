@@ -1,0 +1,8 @@
+A LifePattern for your LebensEntwurf:
+
+RePeat'edly try to describe your life for the different points in your life when you are
+* 20 years old
+* 40 years old
+* 60 years old
+
+DistanzSpiel-StuetzPunkt

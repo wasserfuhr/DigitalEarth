@@ -1,0 +1,4 @@
+* IsA: PerSon
+* WebLog: http://unqualified-reservations.blogspot.com/
+* MindSkill: PredictionMarket
+* HasTalked: RobinHanson

@@ -1,0 +1,1 @@
+IchSuche: die optimalen Umlaufbahnen von 2 Satelliten, die in 5000km über NormalNull gleichzeitig in 24h einmal die Erde umkreisen und dabei möglichst viele dicht bevölkerte Gebiete überfliegen sollen.

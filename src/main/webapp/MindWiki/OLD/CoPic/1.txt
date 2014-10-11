@@ -1,0 +1,4 @@
+* MindTags: ReView
+
+Idea for a game: select a random person from MindPeople:
+find the shortest FoAf co-[depiction|http://xmlns.com/foaf/spec/#term_depiction ] path from you to the person.

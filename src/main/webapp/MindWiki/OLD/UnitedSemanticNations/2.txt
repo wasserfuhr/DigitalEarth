@@ -1,0 +1,5 @@
+UnitedNations 2.0 based on the SocialGraph?
+
+How could an EmergentDemocracy based on the SocialGraph look like?
+
+First Usecase: SemanticVoting.

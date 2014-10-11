@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Connewitz]
+* MindCount: 15000
+* BoundingBox: 2500

@@ -1,0 +1,4 @@
+* IsA: MindRoom
+* PartOf: LockOffice
+
+The LockAgora in the LockOffice is well suited to hold a WorkShop for up to 16 PerSon's.

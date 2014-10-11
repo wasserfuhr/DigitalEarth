@@ -1,0 +1,4 @@
+* IsA: MindCity
+* EtymoLogia: een plaats waar boeren hun koeien door een doorwaadbare plek in een rivier dreven
+* EtymoLogiaSource: http://nl.wikipedia.org/wiki/Coevorden#Ontstaan
+* InterWiki: [DeWikiPedia:Coevorden]

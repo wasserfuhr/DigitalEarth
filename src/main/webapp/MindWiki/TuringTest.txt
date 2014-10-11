@@ -1,0 +1,8 @@
+* InterWiki: [BiblioNetz:w00001] [DeWikiPedia:Turing-Test] [ScholarPedia:Turing_test] [WikiWikiWeb:TuringTest]
+* NamedAfter: AlanTuring
+* MindQuote: "HuMan's - God's attempt to pass the [TuringTest|http://ourpla.net/cgi/pikie?TuringTest]."
+
+An idea for a contest similar to the [Rules|http://loebner.net/Prizef/2007_Contest/Rules.html] of the LoebnerPrize, BUT
+* The Contestants programs have access the DelIcioUs user name of the Judge
+* Judges must have at least 5000 DelIcioUs BookMark's, with
+* 3000 BookMark's from more than 1 year ago.

@@ -1,0 +1,33 @@
+Satzung:
+* Die Gesellschafter bilden eine Gesellschaft bürgerlichen Rechts (BGB 705).
+* Gesellschafter der MindBrokerAg führen ein Konto mit KayGroschen.
+* Änderungen bei KayGroschen werden im MindFloor protokolliert.
+* Leistungen werden gemäss WirkSatz als KayGroschen addiert.
+* Die BuchHaltung merkt sich jede EinNahme und AusGabe.
+* Einnahmen aus dem MindBrokerShop fliessen entsprechend der Anteile an die Gesellschafter.
+* Die Ausschüttung erfolgt jährlich durch Zahlung an ein Bankkonto des Gesellschafters.
+* Jeder Gesellschafter versteuert seine Einnahmen im Rahmen seiner jährlichen Einkommensteuererklärung.
+* Jeder Gesellschafter kann den VerTrag ändern.
+* Vertragsänderungen gelten als von allen Gesellschaftern angenommen, wenn kein anderer Gesellschafter der Änderung binnen 14 Tagen durch editieren widerspricht.
+* Bei Meinungsverschiedenheiten entscheidet die Mehrheit der KayGroschen.
+* Der Gesellschaftsvertrag besteht aus der Satzung und sonstigen Regeln
+* Änderungen der Satzung erfordern die Zustimmung aller Gesellschafter mit mehr als 1000 KayGroschen.
+* Die Urversion des Vertrags wird das SocialBackup des AgWiki 20070717 mit SHA-CheckSum xxxxx.
+* Die UrGesellschafter unterzeichnen einen Ausdruck dieser Wikiseite mit ihrem Schweiss und Blut.
+* Dies wird das letzte und einzige Dokument der Gesellschaft auf Papier sein.
+
+Sonstige Regeln:
+* noch keine
+
+
+UrGesellschafter: RainerWasserfuhr, YvonneSchubert.
+
+Unterzeichner: RainerWasserfuhr
+
+Philosophie des Vertrags
+* KayGroschen sollen widerspiegeln, in wieweit Gesellschafter 
+** Arbeitsleistung
+** Kapital (Einlagen und Entnahmen)
+eingebracht haben.
+* Der VerTrag soll so einfach wie möglich sein
+* Wenn allgemeine gesetzliche Vorgaben existieren, sollten sie nicht im VerTrag wiederholt werden

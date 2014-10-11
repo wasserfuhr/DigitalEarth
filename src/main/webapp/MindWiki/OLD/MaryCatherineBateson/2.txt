@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Mary_Catherine_Bateson]
+* BornIn: 1939
+* BirthDay: 12-08
+* ChildOf: MargaretMead GregoryBateson

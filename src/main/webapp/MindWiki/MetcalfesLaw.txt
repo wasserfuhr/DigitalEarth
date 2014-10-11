@@ -1,0 +1,2 @@
+* InterWiki: [WikiWikiWeb:MetcalfesLaw]
+* NamedAfter: BobMetcalfe

@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/35/2457
+* PageNumber: 8
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker RudiStuder JuergenAngele JonCurtis StefanoBertolo
+* MindSkill: OpenCyc
+|[TwittEr:sclopit]

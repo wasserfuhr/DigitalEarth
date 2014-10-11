@@ -1,0 +1,11 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Erde]
+* BreitenGrad: 0
+* LaengenGrad: 0
+* BoundingBox: 12956274 
+* NormalNull: -6378137
+* MindCount: 6650000000
+
+♁.
+
+in UhTopia.

@@ -1,0 +1,8 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Manfred_Broy]
+* JahrGang: 1949
+* BirthDay: 08-10
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/ManfredBroy
+* HomePage: http://www4.in.tum.de/~broy/
+* PageNumber: 5
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy

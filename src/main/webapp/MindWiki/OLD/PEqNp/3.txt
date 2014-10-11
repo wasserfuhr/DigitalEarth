@@ -1,0 +1,3 @@
+* MindTags: PredictionMarket, FutureCard
+* InterWiki: [DeWikiPedia:P-NP-Problem]
+* DcTitle: P=NP

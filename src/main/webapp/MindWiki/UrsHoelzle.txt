@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* InterWiki: [WikiPedia:Urs_Hoelzle]
+* JahrGang: 1964
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/UrsHolzle

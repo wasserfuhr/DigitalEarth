@@ -1,0 +1,6 @@
+||InHaber          ||MindCar  ||Shared *)
+|RainerWasserfuhr  |DD-RW 285 |x
+|ChristineSchlinck |SÜW-ZW 768|
+
+* *) BuergerInnen können den MindKey beim Inhaber abholen und das MindCar nutzen.
+Kosten pro km: 100KayGroschen.

@@ -1,0 +1,14 @@
+the MindId of TwittEr, lowest: JackDorsey: TwitId=12
+
+||TwitId||Nick  ||MindPeople
+|   12|[TwittEr:jack]     |JackDorsey
+|   13|[TwittEr:biz]      |BizStone
+|   20|[TwittEr:ev]       |EvanWilliams
+|  509|[TwittEr:jerrymichalski]|JerryMichalski
+|  841|[TwittEr:colinschlueter]|ColinSchlueter
+|  885|[TwittEr:Ross]     |RossMayfield
+| 4602|[TwittEr:planspark]|TimBonnemann
+|11584|[TwittEr:rainer]   |RainerWasserfuhr
+|11593|[TwittEr:daniele]  |DanielPoodratchi
+|12220|[TwittEr:cervus]   |BastiHirsch
+|13348|[TwittEr:Scoblizer]|RobertScoble

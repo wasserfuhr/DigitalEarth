@@ -1,0 +1,3 @@
+* RdfProperty: http://purl.org/vocab/relationship/parentOf
+
+MindProps für Eltern-Kind-Beziehungen.

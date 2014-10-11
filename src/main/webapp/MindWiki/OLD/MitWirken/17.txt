@@ -1,0 +1,31 @@
+Was kannst Du denn bei MindBroker und NooPolis jetzt machen?
+
+Erster Schritt: gehe zu http://id.mindbroker.de/ und logge Dich mit Deinem WikiName (z. B. RainerWasserfuhr) und Deinem Passwort ein.
+
+Nach dem Login kommst Du auf http://id.mindbroker.de/home 
+
+Dort kannst Du folgendes machen:
+* editiere deine WikiHomePage:
+** Deine MindProps (WohnSitz,JahrGang,BirthDay, TraumZeitAlter, etc)
+** Deine SocialNetwork's
+** Deine MindFaves (seiten im MindWiki die Dir gefallen)
+* Bei Fragen zu NooPolis: die NooPolisFaqDe
+* bearbeite das MindWiki, zB
+** die VerFassung
+** den HausHalt
+* nimm teil an MitMachSache'n:
+** gestalte die FutureMap
+** organisiere MindVote's
+** mache CrowdWisdom-Spiele
+** handle Deine ErWart'ungen auf PredictionMarket's
+* lade weitere BuergerInnen ein
+* überweise KayGroschen
+* biete eigene Produkte und Dienstleistungen im MindShop an
+* schreibe von Dir gesuchte Produkte oder Dienstleistungen auf dem MarketPlace aus
+* mache SocialBackup
+* gründe ein StartUp
+* entwickle mit am SourceCode
+* ändere das Passwort
+* finde oder werde WikiPate für andere BuergerInnen
+
+Kannst Du etwas kaputtmachen? Nein, denn wir haben SocialBackup und alles kann editiert werden.

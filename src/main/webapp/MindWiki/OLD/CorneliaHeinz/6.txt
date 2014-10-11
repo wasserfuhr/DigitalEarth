@@ -1,0 +1,14 @@
+* InvitedBy: RalfLippold
+* WohnSitz: StadtDresden
+
+* JahrGang: 1969
+* BirthDay: 05-28
+MamaZwoNull: ch
+* PapaZwoNull: WernerWasserfuhr
+BirthPlace: StJosefKrankenhaus
+
+
+||AusLand
+|[XingLe:Cornelia_Heinz]
+|[TwittEr:staerkenfinden]
+|[SkyPe:corneliaheinz]

@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:San_Diego], [WikiWikiWeb:SanDiego]
+* MindCount: 1200000

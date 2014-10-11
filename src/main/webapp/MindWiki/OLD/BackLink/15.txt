@@ -1,0 +1,58 @@
+* InterWiki: [WikiWikiWeb:BackLink]
+
+!RePort:
+|4169|MindTags
+|2922|InterWiki
+|1770|MindPeople
+|1268|HomePage
+|1136|BirthDay
+| 969|JahrGang
+| 840|MindPlace
+| 787|RainerWasserfuhr
+| 585|ProFessor
+| 322|NooPolis
+| 286|LebensEnde
+| 236|StadtDresden
+| 219|ChristineSchlinck
+| 209|MindWiki
+| 189|MindBroker
+| 186|KayGroschen
+| 172|RalfLippold
+| 166|YvonneSchubert
+| 159|LockSchuppen
+| 149|ArTelligence
+| 132|RayKurzweil
+| 127|ZuKunft
+| 121|XingLe
+| 113|VerFassung
+| 109|PlanetErde
+| 108|FutureCard
+| 108|PieschenBank
+| 105|EuRo
+|  98|CamelCase
+|  98|HeikeRibke
+|  93|InterNet
+|  90|SemanticWeb
+|  85|PieschenTv
+|  82|DigitalTwin
+|  75|MartinRoell
+|  73|WirkZentrum
+|  67|GunterDueck
+|  67|HotTopics
+|  65|DanielPoodratchi
+|  63|DoIt
+|  59|ViAf
+|  54|SiggiBecker
+|  50|WikiLender
+|  47|PeterThiel
+|  41|BarackObama
+|  40|JanBoehme
+|  39|MooresLaw
+|  38|HeidiGallinat
+|  38|ZigaTurk
+|  32|TeilhardDeChardin
+|  30|SingularityUniversity
+|  26|SystemDynamics
+|  26|EliezerYudkowsky
+|  23|AngelaMerkel
+|  22|RoswithaHunold

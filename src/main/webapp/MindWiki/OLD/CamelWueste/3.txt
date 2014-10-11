@@ -1,0 +1,10 @@
+Die CamelWueste ist ein SammelOrt für unklares oder strittiges CamelCase. 
+
+Beispiele:
+* DresDen oder DreSden? 
+* Hebedas
+
+!SchlankeFrauAusLandau, FettWette, DickeKinder
+Diagramm mit der Historie Deines Gewichts... wird bis 2040 
+vollständig für das Intervall [19770701;20401231] bekannt sein
+und einen Fehler von maximal 3% haben.

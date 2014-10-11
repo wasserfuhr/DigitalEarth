@@ -1,0 +1,1 @@
+Idee: MindMe so aufbohren, dass zB "@y" automatisch auf die WikiPage YvonneSchubert auflöst.

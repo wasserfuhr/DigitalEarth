@@ -1,0 +1,10 @@
+* IsA: PerSon
+* InterWiki: [WebSeitz:EstherDyson] [DeWikiPedia:Esther_Dyson]
+* JahrGang: 1951
+* BirthDay: 07-14
+* DbLp: http://dblp.uni-trier.de/rec/pid/68/3403
+* ChildOf: FreemanDyson
+* MindSkill: VentureCapital
+* PageNumber: 13
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge BarneyPell MichaelGenesereth JayTenenbaum AlanKay DanIngalls RobertHirschfeld GuySteele EstherDyson
+|[TwittEr:edyson]

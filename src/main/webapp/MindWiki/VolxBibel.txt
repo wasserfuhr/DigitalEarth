@@ -1,0 +1,4 @@
+* IsA: MindBook
+* IsBn: 978-3629011039
+
+MartinDreyer TheBible CrowdWisdom

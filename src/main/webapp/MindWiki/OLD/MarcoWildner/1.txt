@@ -1,0 +1,3 @@
+* IsA: UnternehmensGruender
+* HomePage: http://www.marcowildner.de/
+|[XingLe:Marco_Wildner]

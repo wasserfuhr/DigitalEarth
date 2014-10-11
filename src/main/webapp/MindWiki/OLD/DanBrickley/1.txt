@@ -1,0 +1,2 @@
+* MindTags: MindPeople
+* FoAf: http://danbri.org/foaf.rdf

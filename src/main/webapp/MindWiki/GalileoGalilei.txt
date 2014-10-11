@@ -1,0 +1,5 @@
+* MindTags: ProFessor
+* MindQuote: "Und sie bewegt sich doch!"
+* JahrGang: 1564
+* BirthDay: 02-15
+* LebensEnde: 1642

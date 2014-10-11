@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Luc_Ferrari]
+* BornIn: 1929
+* BirthDay: 02-05
+* ViAf: http://viaf.org/viaf/59269454

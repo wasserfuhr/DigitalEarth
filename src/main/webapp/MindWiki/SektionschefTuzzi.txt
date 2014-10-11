@@ -1,0 +1,5 @@
+* IsA: PerSona
+
+HasKissed: CamelWueste:Diotima
+
+MannOhneEigenschaften

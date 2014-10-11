@@ -1,0 +1,7 @@
+* MindTags: MindPeople
+* JahrGang: 1907
+* BirthDay: 10-07
+* BirthPlace: Grueterich
+* MamaZwoNull: ElisabethBuechel
+* PapaZwoNull: BernhardBuechel2
+* LebensEnde: 1947

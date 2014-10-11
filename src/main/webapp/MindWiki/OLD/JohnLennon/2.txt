@@ -1,0 +1,4 @@
+* MindTags: MindPeople, MindMusic
+* InterWiki: [OpenCyc:JohnLennon]
+* JahrGang: 1940
+* LebensEnde: 1980

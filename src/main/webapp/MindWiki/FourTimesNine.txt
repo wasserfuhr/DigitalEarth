@@ -1,0 +1,3 @@
+Sag niemals nie.
+
+Auf der FutureCard darf als "UnTil" maximal das Jahr 9999 angegeben werden.

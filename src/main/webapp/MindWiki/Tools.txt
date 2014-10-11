@@ -1,0 +1,15 @@
+folgende Tools werden  bei der Entwicklung eingestzt:
+
+*Maven
+**http://de.wikipedia.org/wiki/Apache_Maven
+**http://maven.apache.org/
+*Eclipse
+**http://www.eclipse.org/
+**[http://de.wikipedia.org/wiki/Eclipse_%28IDE%29]
+*Subversion
+**http://de.wikipedia.org/wiki/Svn
+**http://www.polarion.org/index.php?page=overview&project=subversive
+*Hamachi
+**http://systemout.twoday.net/stories/3006737/
+**http://de.wikipedia.org/wiki/Hamachi
+**http://hamachi.cc/

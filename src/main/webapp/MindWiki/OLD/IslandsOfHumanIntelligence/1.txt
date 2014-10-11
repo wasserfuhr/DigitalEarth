@@ -1,0 +1,12 @@
+DoIt: Ein Grafik wie bei IslandsOfAutomation, über die wachsende Abbildung menschlicher
+kognitiver Fähigkeiten auf Silizium:
+
+* Basic arithmetics
+* Spell checking
+* Chess
+* Text translation
+* Speech recognition
+* Image recognition
+* Go
+* ...
+* General ArTelligence

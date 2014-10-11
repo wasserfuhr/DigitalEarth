@@ -1,0 +1,6 @@
+Die MindCity in DeutschLand mit der höchsten Zahl an StadtWiki-Seiten pro Einwohner.
+
+Die MindCity auf PlanetErde mit der höchsten Zahl an StadtWiki-Seiten überhaupt.
+
+* BreitenGrad: 49.014
+* LaengenGrad: 8.4043

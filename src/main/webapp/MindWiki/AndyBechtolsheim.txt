@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Andreas_von_Bechtolsheim]
+* BornIn: 1955
+* BirthDay: 09-30
+* DbLp: http://dblp.uni-trier.de/rec/pid/53/926
+* PageNumber: 12
+* PagePath: LarryPage HectorGarciaMolina GerhardWeikum TobiasNipkow ManfredBroy ArndtBode HenriCasanova UweSchwiegelshohn PhilipSYu ChinFuChen RajniNigam JenniferSmith AndyBechtolsheim

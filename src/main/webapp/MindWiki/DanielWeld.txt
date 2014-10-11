@@ -1,0 +1,4 @@
+* MindTags: ProFessor
+* InterWiki: [OpenCyc:DanielWeld-ComputerScientist]
+* HomePage: http://www.cs.washington.edu/homes/weld/
+* MindSkill: ArTelligence

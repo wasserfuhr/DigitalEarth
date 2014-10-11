@@ -1,0 +1,7 @@
+* MindTags: MindEvent
+* MindPlace: CafeNeustadt
+* WikiLender: 20090409:1700
+* GastGeber: RalfLippold
+* TeilNehmer: CorneliaHeinz RainerWasserfuhr
+* LeiderVerhindert: MichaelDaenel YvonneSchubert
+* HotTopics: OttoScharmer LockSchuppen SingularityIsNear NooPolis PanoMeter

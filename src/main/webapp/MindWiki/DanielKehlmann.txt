@@ -1,0 +1,4 @@
+* IsA: PerSon
+* BirthDay: 01-13
+* InterWiki: [DeWikiPedia:Daniel_Kehlmann]
+* ViAf: http://viaf.org/viaf/59299428

@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Anders_Hejlsberg]
+* DbLp: http://dblp.uni-trier.de/rec/pid/48/2908
+* PagePath: LarryPage ... GuySteele AndersHejlsberg

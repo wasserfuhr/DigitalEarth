@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/89/1626
+* PageNumber: 17
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge NickJennings AdrianPetcu BoiFaltings AkshatKumar ShaneLegg MarcusHutter JuergenSchmidhuber HorstBunke HeinrichNiemann RadimChrastek KatarzynaStapor KarolKozak
+|[XingLe:Karol_Kozak]

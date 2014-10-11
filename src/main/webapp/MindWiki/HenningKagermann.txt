@@ -1,0 +1,7 @@
+* IsA: ProFessor UnternehmensGruender
+* InterWiki: [DeWikiPedia:Henning_Kagermann]
+* BirthDay: 07-12
+* DbLp: http://dblp.uni-trier.de/rec/pid/08/1693
+* PageNumber: InFinite
+
+SapAg

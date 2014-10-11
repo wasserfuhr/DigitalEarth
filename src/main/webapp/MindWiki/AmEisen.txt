@@ -1,0 +1,3 @@
+* IsA: PerSon
+* HomePage: http://www.anja-maria-eisen.de/
+* HasTalked: RainerWasserfuhr

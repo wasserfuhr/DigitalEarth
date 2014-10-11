@@ -1,0 +1,9 @@
+Die ersten 50 WunderKind'er, die von BuergerInnen von NooPolis geboren werden, erhalten ein KinderGeld von je 10.000 KayGroschen.
+
+Beziehungsberechtigt sind WunderKind'er, deren Mutter oder Vater zum Zeitpunkt der GeBurt zu den BuergerInnen von NooPolis gehörte.
+
+Die Mutter oder bzw. der Vater verwaltet das KinderGeld kommissarisch bis zum 6. Lebensjahr.
+
+Bisherige WunderKind'er:
+||GeBurt   ||WunderKind||Mutter
+|20081011  |JfSchlinck |ChristineSchlinck

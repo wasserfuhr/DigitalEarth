@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/f/JoanFeigenbaum
+* HomePage: http://cs-www.cs.yale.edu/homes/jf/
+* PageNumber: 4
+* PagePath: LarryPage SergeyBrin MonikaHenzinger DavidEppstein JoanFeigenbaum

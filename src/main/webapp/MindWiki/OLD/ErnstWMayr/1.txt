@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/m/EWMayr
+* HomePage: http://www14.informatik.tu-muenchen.de/personen/mayr.html
+* PageNumber: 5
+* PagePath: LarryPage SergeyBrin MonikaHenzinger KurtMehlhorn FriedhelmMeyerAufDerHeide ErnstWMayr

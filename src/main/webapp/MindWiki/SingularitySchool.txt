@@ -1,0 +1,5 @@
+* HomePage: http://yudkowsky.net/singularity/schools
+
+* AcceleratingChange: RayKurzweil, AlvinToffler(?), JohnSmart
+* EventHorizon: VernorVinge
+* IntelligenceExplosion: IjGood, EliezerYudkowsky

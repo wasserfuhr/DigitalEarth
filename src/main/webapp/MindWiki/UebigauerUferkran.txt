@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* OpenStreetMap: http://openstreetmap.org/browse/node/30330411
+* BoundingBox: 10

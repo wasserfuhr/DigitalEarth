@@ -1,0 +1,67 @@
+etwa 100 zeichen reichen, um einen shift zu bewirken.
+
+In which year did you have ErstKontakt with a DisRupt'ive idea or technology?:
+
+2008:
+* MemRistor
+* SynBio
+* SeaSteading
+* SemanticEconomy
+* BetterPlace
+* AppEngine
+* SpaceCast
+
+2007:
+* general ArTelligence
+* WikiDrivenDevelopment
+
+2006:
+* EcZwo
+* RepRap
+* DWaveSystems
+
+2005:
+* GoogleEarth
+* MapReduce
+
+2004:
+* FlickEr
+
+2003:
+* AcceleratingChange
+* DelIcioUs
+* SkyPe
+* TheSingularity
+* WikiPedia
+* XingLe
+
+2002:
+* WikiWikiWeb
+
+2000:
+* SemanticWeb
+
+1996:
+* XML
+
+1995:
+* Java
+
+1994:
+* WorldWideWeb
+
+1986:
+* LuxorChess
+* AtariSt
+
+1984:
+* CommodoreSixtyFour
+
+1979:
+* ExPo'nentialfunktion
+
+1974:
+* AlphaBet
+
+1973:
+* Lego

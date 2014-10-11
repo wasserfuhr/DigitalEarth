@@ -1,0 +1,5 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/33/4636
+* HomePage: http://www.cs.cornell.edu/~snavely/
+* PageNumber: 12
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcDermott RichardFikes TomGruber JayTenenbaum AlanKay AndreasRaab OliverDeussen SingBingKang RichardSzeliski NoahSnavely

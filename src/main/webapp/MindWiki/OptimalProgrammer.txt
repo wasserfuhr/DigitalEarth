@@ -1,0 +1,5 @@
+* MindTags: ReView
+
+inspired by JuergenSchmidhuber.
+
+UrObjekt: JavaClass

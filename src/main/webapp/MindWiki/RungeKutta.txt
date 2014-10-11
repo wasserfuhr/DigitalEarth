@@ -1,0 +1,2 @@
+* InterWiki: [DeWikiPedia:Runge-Kutta-Verfahren]
+* NamedAfter: CarlRunge MartinWilhelmKutta

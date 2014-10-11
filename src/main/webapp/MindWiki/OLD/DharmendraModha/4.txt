@@ -1,0 +1,9 @@
+* IsA: SingularityMind
+* InterWiki: [DeWikiPedia:Dharmendra_Modha]
+* HomePage: http://www.almaden.ibm.com/cs/people/dmodha/
+* MindBlog: http://www.modha.org/
+* MindSkill: MiNd
+* PageNumber: 14
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi MichaelStonebraker JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy ArndtBode HenriCasanova JackDongarra HorstSimon DharmendraModha
+
+EiBiEm

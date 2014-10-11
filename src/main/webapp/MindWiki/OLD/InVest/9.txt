@@ -1,0 +1,12 @@
+Investments in Unternehmen von NooPolis erfolgen in diesen Stufen:
+* Investoren kaufen KayGroschen im MindShop (später evtl auch per WechselKurs-Auktion der PieschenBank)
+* Mit KayGroschen können auf dem MindFloor MindShare's an jedem Unternehmen aus dem HandelsRegister erworben werden. 
+* Mit Hilfe des InVest's findet UnserAdVocat heraus, ob und in wieweit KayGroschen auch rückkonvertierbar in EuRo sein könnten.
+
+Einen klassischen BusinessPlan wird es für NooPolis aber eher nicht geben.
+Herkömmliche instituionelle Risikokapitalgeber werden hier also eher nicht fündig, ebensowenig UnsereBank.
+Eher aber echte UnterNehmer und risikobereite SingularityMind's, die EinfachMachen wollen.
+
+||EnterPrise||Investor       ||InVest
+|MindBroker |RainerWasserfuhr|>80%
+|EdelBild   |RainerWasserfuhr|>1%

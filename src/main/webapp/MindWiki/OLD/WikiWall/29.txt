@@ -1,0 +1,26 @@
+* SloGan: 256 important ConCept's, PerSon's, ProJect's and EnterPrise's of the TwentyFirstCentury
+|[TwittEr:WikiWall]
+
+At our LockOffice we have a WikiWall where we BrainStorm, visualize and manage the HotTopics ConNect'ed with the LockSchuppen, be it PerSon's, LifePattern, ProJect's, EnterPrise's or DisRupt'ive technologies.
+
+http://www.flickr.com/photos/ralflippold/4373546925/:
+
+[{Image src='http://farm3.static.flickr.com/2695/4373546925_ba5ff5b944.jpg'}]
+|| ||a||b||c||d||e||f||g||h||i||j||k||l||m||n||o||p
+||1|KaosPilot |OpenEverything |WalterRiester |EdgarSchein |PaulFLevy |JeffBoyer  |PamelaPaquinHall |JohnSterman |WaveCash |FrankSchirrmacher |BeatZentrale |InternetManifest |PerKristiansen |SwarmIntelligence |SeaNation |ObenVorn
+||2|DoOcracy |MartineRothblatt |WirtschaftsFoerderung |DirkSpannaus |CraigVenter |AlfredHanner |LockOfficeBerlin |EricVonHippel |PhilipRosedale |ArturFriedrich |MooresLaw |MartinRoell |MarcusBuckingham |JamesParsons  |SpiEssEr |FutureCard
+||3|OpenCog |JeffClavier |RobinHanson |EmotivEpoc |UlrichDeppendorf |NanoAssembler |OpenStreetMap |WoZu |AntjeLippold |PlanetErde |PeterPlan  |KaiZen |HolgerDemnitz |FutureLab2056 |EdRugero |MartinFiedler
+||4|ViAf |UmairHaque |DresdenChess |DigitalTwin |CarTwoGo |RichardFlorida |ThinkAndDoTank |WikiWallAd |OntoLogy |JanHinrichs  |GaryHamel |CarloRatti |BauchTanz |SocialMedia |FrankSchaetzing |LisaPirwitz
+||5|ChristianHeller |RobbieSchingler |CoWorking |ArBeit |DonGreer |BeerGame |GottfriedWilhelmLeibniz |WissensStadt |MichaelBean |RachelReagan |MartinAha  |KlausLandfried |NiklasLuhmann |TimBonnemann |GoogleInc |PageRank
+||6|JeffHawkins |BlueBrain |DirkHilbert |RfId |MartinGaedke |GunterDueck |SingularityUniversity |PageNumber |LifeExtension |MoonShots |JuanitaBrown |ArtKleiner |UlrichSoeder |RalphSonntag |XingLe |LockTeam
+||7|PredictionMarket |DaveSnowden |FaceBook |DresdenExists |HolgerHelas |MalcolmGladwell |FrankSchoenefeld |JohannesLohmeyer |AmySmith |VanCouver |TheSingularity |WikiPedia |OttoScharmer |BirgitSpannerUlmer |InterNet |TippingPoint
+||8|PeterGloor |MarcoDziallas |FutureFactory |AnneWillSingularity |EchoLogic |SmarterCities |OpenCoffeeClubDresden|JimWomack|__LockSchuppen__ |JensBemme |LarsHinrichs |PresencingStatus |OpenSource |SiggiBecker |PeterEberle |EquipMent
+||9|YadegarAsisi |MicroNation |LongBetOne |PostPrivacy |SteveJurvetson |AlexanderFriedland |RainerWasserfuhr |KuechenRadio |ZuKunft |MitMediaLab |TelePresence |HomeExchange |HistVv |OlegPavlow |ZigaTurk |DanielPink
+||10|RepRap |SingularAcademy |DavidOrban |BastiHirsch |MitCoLab |MarkGraban |ArtificialIntelligence |RayInDresden |SlUb |AgileSaxony |StadtDresden |FrankHaring |PaulHolmstrom |CamelCase |MarcLombardi |AudioTagging
+||11|TonZijlstra |GoogleWave |PeterThiel |TransparentMan |BertramDressel |NasaCoLab |ThomasGerhardt |HenryMarkram |RobCross |UiRr |RalfLippold |MySpace |TwitterBachelor |OliverGassner |NooPolis |AldoCroci
+||12|SemanticMind |PeterVoss |StadtWiki |LauraBlack |NooSphere |AlexanderGoetze |StartUpWeekEnd |SoerenRogoll |ReflectionGroup |SemanticWeb |PiHaus |MindWiki |TimBl |QrCode |ScottMonty |PieschenBank
+||13|OpenEducation |QiMonda |WpiEdu |PeterKaminski |SaftTante |JohannesPartanen |WilhelmZoergiebel |SecondLife |PeterTeichmann |JoergSiekmann |BillHarris |LinusTorvalds |AndrewParker |GoogleBuzz |HeinzEggert |PeterStawowy
+||14|MichaelSchroeder |PeterKruse |RaimarScherer |FourSquare |SystemDynamics |MuhammadYunus |CharlesVanDerHaegen |AmartyaSen |ClueTrain |PeterSenge |SingularLeuchtTurm |PieschenMedia |KaiRopers |BerndNaumann |JayForrester |HeikoKrebs
+||15|AltMensaFb |TouchTable |HierarchyOfNeeds |OpenDvb |TeilhardDeChardin |SpuerschtWieIDenk |BusinessEnglishBachelor |RayKurzweil |ShadowBoard |MobileCamp |ChristophAnders |PeterClaussen |MariaBoeckmann |SupPorter |IntEl |MatthiasHorx
+||16|EliezerYudkowsky |NachHaltig |WolfgangWahlster |ItRs |YvonneSchubert |JensKrzywinski |SystemsTheory |GoogleAi |DougLenat |JeanPolMartin |KayGroschen |SocialMedia4Founders |DirkRiehle |SparQl |StefanoBertolo |SabineFriedel
+WikiWallHowTo

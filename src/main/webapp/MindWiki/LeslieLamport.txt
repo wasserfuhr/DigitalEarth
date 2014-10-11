@@ -1,0 +1,8 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Leslie_Lamport]
+* JahrGang: 1941
+* BirthDay: 02-07
+* DbLp: http://dblp.uni-trier.de/rec/pid/l/LeslieLamport
+* ViAf: http://viaf.org/viaf/44417132
+* PageNumber: 4
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport

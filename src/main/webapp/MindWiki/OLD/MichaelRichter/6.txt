@@ -1,0 +1,10 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Michael_M._Richter]
+* JahrGang: 1938
+* BirthDay: 06-21
+* DbLp: http://dblp.uni-trier.de/rec/pid/m/MichaelMRichter
+* HomePage: http://freenet-homepage.de/mmrichter/
+* MindSkill: ArTelligence
+* PageNumber: 8
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach JuergenAvenhaus MichaelRichter
+|[XingLe:Michael_Richter8]

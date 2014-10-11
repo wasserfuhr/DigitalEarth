@@ -1,0 +1,13 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.072028
+* LaengenGrad: 13.747995
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/267952414
+* SlimNess: 0.4
+* GraDient: 110
+* BoundingBox: 35
+
+TotalRecall: 
+* 20081223:2015: RainerWasserfuhr, JeMand: XingMas2008, TwentyFortySixty
+* MethuselahFoundation, PeterThiel, KurzWeil, OpenStreetMap, TwittEr, FriendFeed, SemanticWeb, TwiNe, NooPolis, LebensErwartung, LongBetOne, BioMind, NewMind, GoogleMind, NanoBot, UpLoad, FaceBook, SeaSteading, XingLe, FriendsForSale, DresdenDrohne, VorratsDaten, BlogLines.
+* MethuselahFoundation, PeterThiel, SeaSteading, ThomasMetzinger, FriendsForSale, DataMap, PolarRose, UsElection08, LawrenceKohlberg, GezPetz, DelIcioUs, WechselKurs, GeldWaesche, BlogLines, PredictionMarket, BarCampDresden, BerlinBeben, TwittEr, MindPeople, MindProps, TheorizingFromData, CopenHagen, FilmnaechteAlbertbruecke.
+

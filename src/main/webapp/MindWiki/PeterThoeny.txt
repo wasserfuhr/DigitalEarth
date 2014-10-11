@@ -1,0 +1,12 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/60/5196
+* PageNumber: 10
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy GregorEngels ErnstErichDoberkat HeinzZuellighoven DirkRiehle PeterThoeny
+|[FaceBook:563198949]
+|[TwittEr:peterthoeny]
+
+Founder of http://www.twiki.org 
+
+Vordenker für FirmenWiki's.
+
+http://twiki.org/cgi-bin/view/Main/PeterThoeny

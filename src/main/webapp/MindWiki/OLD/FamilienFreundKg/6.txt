@@ -1,0 +1,14 @@
+[{Image src='http://farm4.static.flickr.com/3120/buddyicons/24107014@N08.jpg?1203798855#24107014@N08'
+}]
+* MindTags: EnterPrise                                
+* HomePage: http://www.familienfreund.de/
+* HomePage: http://www.familienfreunde.de/
+* HomePage: http://www.familienfreundin.de/
+* HomePage: http://www.familienfreundchen.de/
+* HeadQuarters: StadtLeipzig
+* RechtsForm: KommanditGesellschaft
+* VertretungsBerechtigt: Jana Schlegel, Thomas Kujawa
+* HandelsRegister: StadtDresden, HRA 14991
+* RegisterGericht: AmtsGericht LeipZig
+* MindOne: JanaSchlegel
+* MindTwo: ThomasKujawa

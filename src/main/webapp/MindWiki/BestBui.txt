@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/360208031
+* PartOf: LouisenStrasse

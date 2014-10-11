@@ -1,0 +1,4 @@
+* IsA: PerSon
+* BornIn: 1858
+* BirthDay: 01-31
+* ChildOf: JohannAdolfWasserfuhr2

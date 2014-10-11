@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Max_Strauß]
+* ChildOf: FranzJosefStrauss
+* BornIn: 1959
+* BirthDay: 05-24
+|[FaceBook:1158931865]

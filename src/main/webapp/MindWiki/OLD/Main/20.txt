@@ -1,0 +1,19 @@
+RainerWasserfuhr und viele MitWirkende wollen 2007 die MindBrokerAg gründen.
+
+Dies ist unser inoffizielles AgWiki, welches spätestens 12/2007 auf http://ag.mindbroker.de gelauncht wird.
+
+Aktuelle Projekte:
+* UnserGrid (LIVE!)
+* IntraBroker (LIVE!)
+* GeoMindBroker (LIVE!)
+* WikiTchen
+* MindBrokerCore
+* DoThings
+* MindBrokerShop
+* SportPortal
+* SemanticMind
+
+WICHTIG: Die ProjektRegeln.
+
+!Was bisher geschah:
+[{RecentChangesPlugin since=30}]

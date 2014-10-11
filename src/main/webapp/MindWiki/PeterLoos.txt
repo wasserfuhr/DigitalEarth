@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/l/PeterLoos
+* HomePage: http://www.uni-saarland.de/campus/fakultaeten/professuren/rechts-und-wirtschaftswissenschaft/betriebswirtschaftslehre/professuren-fr-13-betriebswirtschaftslehre/prof-dr-peter-loos/team/prof-peter-loos.html

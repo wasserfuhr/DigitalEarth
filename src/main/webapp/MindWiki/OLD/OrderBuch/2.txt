@@ -1,0 +1,10 @@
+See also: BidAsk
+
+Example:
+||ShareHolder     ||Geld-Stück||Kurs||Brief-Stück
+|RainerWasserfuhr |           |5.50|10
+|RainerWasserfuhr |           |5.30|2
+|RainerWasserfuhr |           |5.30|2
+|RainerWasserfuhr |       3|5.05
+|RainerWasserfuhr |      30|4.95
+|RainerWasserfuhr |     300|3.00

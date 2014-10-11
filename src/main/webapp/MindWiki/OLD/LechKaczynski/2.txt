@@ -1,0 +1,6 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Lech_Kaczyński]
+* ChildOf: RajmundKaczynski
+* BornIn: 1949
+* BirthDay: 06-18
+* DiedIn: 2010

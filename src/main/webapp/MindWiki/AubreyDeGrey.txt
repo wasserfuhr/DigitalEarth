@@ -1,0 +1,12 @@
+* IsA: SingularityMind
+* InterWiki: [DeWikiPedia:Aubrey_de_Grey] [PlomWiki:AubreyDeGrey]
+* BornIn: 1963
+* BirthDay: 04-20
+* DbLp: http://dblp.uni-trier.de/rec/pid/16/100
+* HomeStead: CamBridge
+* MindSkill: LebensErwartung ImMortal
+* PageNumber: 9
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman JohnHopcroft RobertEndreTarjan ThomasLengauer ShoshanaWodak JacquesVanHelden DavidGilbert AubreyDeGrey
+* HasTalked: ChristianHeller
+|[FaceBook:709735014]
+|[TwittEr:aubreydegrey]

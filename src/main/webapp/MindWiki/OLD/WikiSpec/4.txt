@@ -1,0 +1,15 @@
+MindBroker praktiziert WikiDrivenDevelopment.
+Viele Ideen zu WebApps von MindBroker haben zuerst eine Seite im MindWiki.
+Strukturierte Daten werden als Wiki-Tabelle angelegt.
+
+Sobald eine WikiTable häufiger genutzt wird, wird auf deren Basis der erste Entwurf für ein DomainModel erzeugt.
+Mit dem DomainModel wird eine WebApp programmiert, mit der die Verwaltung der Tabelle und weiterer Daten
+nutzerfreundlicher wird.
+
+Schritt für Schritt werden dadurch Routineabläufe im MindWiki vereinfacht und der MindFlow beschleunigt.
+
+Beispiele (Page/Klasse im DomainModel):
+* DoIt: Item
+* MindFloor: ShareOrder
+* WechselKurs: CurrencyAuction
+* WasWyrd: Date

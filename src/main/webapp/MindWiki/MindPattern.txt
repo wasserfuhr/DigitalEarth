@@ -1,0 +1,3 @@
+DomainModel for NewMind. ConVerg. NeuroSemanticWeb
+
+LifePattern

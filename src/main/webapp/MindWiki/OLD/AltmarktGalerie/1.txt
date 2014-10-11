@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.04886
+* LaengenGrad: 13.735564
+* BoundingBox: 212
+* SlimNess: 0.4
+* GraDient: 0
+* HomePage: http://www.altmarkt-galerie-dresden.de/

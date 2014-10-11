@@ -1,0 +1,5 @@
+If you could WireTap a conversation of two MindPeople: Which two?
+
+||Spy||Tapped
+|RainerWasserfuhr|PeterThiel,MarkZuckerberg
+|RainerWasserfuhr|BillGates,KurzWeil

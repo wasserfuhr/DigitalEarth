@@ -1,0 +1,10 @@
+* MindTags: MindPlace
+* BoundingBox: 10
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.06827&lon=13.753278&zoom=18
+
+HEUTE: MindEis + evtl. kleine Partie NooPoly
+
+MitWirkende:
+* MartinRoell
+* RainerWasserfuhr
+* __DU__?

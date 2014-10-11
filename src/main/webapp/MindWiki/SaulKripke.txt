@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Saul_Aaron_Kripke]
+* BornIn: 1940
+* BirthDay: 11-13
+* EnsId: http://www.okkam.org/ens/ida30e8b2c-3333-493e-8b9c-26a439a22611
+* DbLp: http://dblp.uni-trier.de/rec/pid/80/3448
+* MindSkill: MoegLich BeDeut

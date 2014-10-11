@@ -1,0 +1,4 @@
+Die MindBroker mit MindId und damit BuergerInnen von NooPolis: http://id.mindbroker.de/.
+
+||Bürger          ||Trustee 1       ||Trustee 2        
+|RicardaDHerbrand |pending: VerFassung|RainerWasserfuhr|

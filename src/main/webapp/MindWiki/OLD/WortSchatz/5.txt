@@ -1,0 +1,25 @@
+HeikeRibke wünschte sich ein Deutsch-Englisch-"Vokabelblatt" für alle Vokabeln, die sie zB bei http://dict.leo.org/ nachschlug.
+
+RainerWasserfuhr könnte eine WebApp draus machen.
+
+Das WunderKind erweitert seinen WortSchatz Tag um Tag.
+
+Konzepte im Denk- und WortSchatz, im ungefährer Reihenfolge ihres Erlernens:
+* Laut
+* Person
+* Gegenstand
+* Essen
+* Tier
+* Wort
+* Zahl
+* Buchstabe
+* Fluß
+* Stadt
+* Land
+* Geld
+* Regel
+* Buch
+* Gedicht
+* Formel
+* Programm
+* EigenMuster

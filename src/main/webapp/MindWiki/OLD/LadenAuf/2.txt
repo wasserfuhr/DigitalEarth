@@ -1,0 +1,5 @@
+* MindTags: ReView
+
+Wo ist wann welcher Laden auf?
+
+Als ProJect: Mit ein paar SemanticWeb + MindPhone-Zutaten.

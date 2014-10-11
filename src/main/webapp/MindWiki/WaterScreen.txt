@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.051655
+* LaengenGrad: 13.732404
+* BoundingBox: 5
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/344884574
+* PartOf: PostPlatz

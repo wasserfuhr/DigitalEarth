@@ -1,0 +1,5 @@
+||on     ||PerSon         ||ShookHandsWith
+|20090925|RainerWasserfuhr|JuergenKohn
+|20090925|RainerWasserfuhr|ChristianFischer
+|20090901|HelmaOrosz      |RainerWasserfuhr
+|20090604|BarackObama     |HelmaOrosz

@@ -1,0 +1,26 @@
+;LogIn
+;{{{
+
+((defn login []
+  (handle "login"
+   (fn []
+     (if
+       (and
+         (.startsWith (.getPathInfo request) "/login")
+         ;;TODO a lazy first security check
+         (.equals "id.mindbroker.de" (.getRemoteHost request)))
+
+         ;TODO:
+   (de.mindbroker.tools.Hash/getHash
+     (str (get (re-find #"<span id=\"publicKey\">([a-zA-Z0-9]+)</span>"
+       (fetch-url 
+        (str "http://id.mindbroker.de/id?wikiName=" (.getParameter request "wikiName") ) ) 1) "#" (.getParameter request "password") ))         
+ 
+      (do
+       (.setAttribute (.getSession request) "WikiName" (.getParameter request "WikiName"))
+       (.sendRedirect response (.getParameter request "pathInfo"))
+       )
+      ))
+   "")))
+
+;}}}

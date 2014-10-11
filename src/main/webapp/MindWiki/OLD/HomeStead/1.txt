@@ -1,0 +1,3 @@
+ * RdfProperty: http://xmlns.com/foaf/0.1/based_near
+
+MindPeople, die auf ihrer WikiHomePage eine HomeStead angeben, könnten bald auf der MindMap dargestellt werden.

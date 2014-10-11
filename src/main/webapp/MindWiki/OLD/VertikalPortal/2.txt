@@ -1,0 +1,8 @@
+* MindArmy
+* MindBar
+* MindHealth
+* MindHotel
+* MindParty
+* MindSchool
+* SportPortal
+* UnserNachbar

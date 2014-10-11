@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/76/6068
+* HomePage: http://www.mpiwg-berlin.mpg.de/en/staff/members/nowacki
+* HasTalked: RainerWasserfuhr

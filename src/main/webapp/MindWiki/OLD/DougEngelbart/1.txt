@@ -1,0 +1,4 @@
+* InterWiki: [DeWikiPedia:Douglas_C._Engelbart],[WebSeitz:DouglasEngelbart]
+* MindQuote: “In 20 or 30 years, you'll be able to hold in your hand as much computing knowledge as exists now in the whole city, or even the whole world.”
+* JahrGang: 1925
+* MindFaves: BootStrap

@@ -1,0 +1,9 @@
+Seit 20071101 wird als Login für den Svn-Server der CamelCase-Name im MindWiki verwendet.
+
+Vorher existierten folgende Nutzer mit CommitMent:
+
+||MindBroker      ||SvnUser
+|RainerWasserfuhr |rainer   |  
+|DanielPoodratchi |daniel   |  
+|AndreasWeigel    |andreasw |
+|TimBonnemann     |tim      |     

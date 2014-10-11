@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Karl_Marx], [OpenCyc:KarlMarx]
+* MindQuote: "Greatest SciFi author of all times" - DavidBrin
+* JahrGang: 1818
+* BirthDay: 05-05
+* LebensEnde: 1883

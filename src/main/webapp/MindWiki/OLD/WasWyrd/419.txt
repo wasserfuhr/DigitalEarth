@@ -1,0 +1,55 @@
+Unsere Termine:
+
+(Termine haben ein "von" und ein "bis". Dinge die nur ein "bis" haben sind MindLine)
+
+||Wann        ||Bis ||       ||Wo           ||Was                     ||Wer (OrderedByShares)
+|20080121     |     |        |StadtMuenchen |DLD                      |HeikoHebig,HubertBurda?
+|20080121:2000|     |        |CineMaxX      |Premiere DasWaisenhaus   |RainerWasserfuhr?
+|20080122     |     |        |StadtMuenchen |DLD                      |HeikoHebig,HubertBurda?
+|20080126     |     |        |FeuerBach     |FeuerMind                |HeikeRibke,MarcoRibke,PeSt, u.a. 
+|20080131:1111|     |        |StadtKoeln    |Höhepunkt der Säsong     |RainerWasserfuhr
+|200801xx     |     |        |WirkZentrum   |SingularCamp             |RainerWasserfuhr,YvonneSchubert
+|200801xx     |     |        |StadtDresden  |MindSalon                |RainerWasserfuhr
+|20080202     |     |        |KlagenFurt    |BarCamp                  |RainerWasserfuhr?,UteMoritz
+|20080203     |     |        |KlagenFurt    |BarCamp                  |RainerWasserfuhr?,UteMoritz
+|20080206     |     |        |StadtGenf     |lift                     |RainerWasserfuhr?
+|20080207     |     |        |StadtGenf     |lift                     |RainerWasserfuhr?
+|20080208     |     |        |StadtGenf     |lift                     |RainerWasserfuhr?
+|20080208     |     |        |StadtJena     |BarCamp                  |RainerWasserfuhr?
+|20080209     |     |        |FlowerPowerJena|RussischSalsa-Kurs      |RainerWasserfuhr?,RicardaDHerbrand?
+|20080209     |     |        |StadtJena     |BarCamp                  |RainerWasserfuhr?
+|20080210     |     |        |StadtJena     |BarCamp                  |RainerWasserfuhr?
+|20080223     |     |        |HannOver      |BarCamp                  |RainerWasserfuhr?
+|20080224     |     |        |HannOver      |BarCamp                  |RainerWasserfuhr?
+|200803       |     |        |StadtBerlin   |WG-Besichtigung          |RainerWasserfuhr,RicardaDHerbrand
+|20080309     |     |        |HannOver      |EnterpriseTwoOpen        |RainerWasserfuhr?
+|20080313     |     |        |LeipZig       |WeinNamen                |RainerWasserfuhr,RicardaDHerbrand?,OliverGassner?
+|20080402     |     |        |StadtBerlin   |re:publica               |RainerWasserfuhr?,MarkusBeckedahl
+|20080403     |     |        |StadtBerlin   |re:publica               |RainerWasserfuhr?,MarkusBeckedahl
+|20080404     |     |        |StadtBerlin   |re:publica               |RainerWasserfuhr?,MarkusBeckedahl
+|20080515     |     |        |MuseumPrototyp|next08                   |?
+|20080601     |     |        |ZeppelinUniversity|BarCamp              |MartinKoser?
+|20080923     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080924     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080925     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080925     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080926     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080926     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080927     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|200901       |     |        |Washington    |InAuguration             |BarackObama?,HillaryClinton?
+
+!Was War:
+||Wann        ||Bis ||       ||Wo           ||Was                     ||Wer
+|20080120     |     |        |StadtMuenchen |DLD                      |HeikoHebig,HubertBurda?
+|20080120:1100|     |        |MesseDresden  |WirschaftsStammtisch     |
+|20080118:2000|     |        |SemperOper    |SemperOpernBall          |UdoJuergens
+|20080118:1930|     |        |AuraRaum      |PhilosophischerKlub      |JensWegerle
+|20080112:2000|     |        |DreiKoenigsKirche|RidiculousMan          |RainerWasserfuhr
+|20080112     |     |        |GrueterichEins|Feier                    |WernerWasserfuhr,AgnesWasserfuhr
+|20080108:1800|     |        |WirkZentrum   |WikiBoysZwo              |8 MindBroker
+|20080108:1500|     |CANCELED|WirkZentrum   |ReineMachFee             |RainerWasserfuhr,IngridaPlunksnyte
+|20080106:1900|     |        |Gobby         |geheimprojekt 2          |RainerWasserfuhr,MattisManzel
+|20080104:1930|     |        |AuraRaum      |PhilosophischerKlub      |RainerWasserfuhr,YvonneSchubert,JensWegerle,
+|20080101     |     |        |DeutschLand   |Feiertag                 |
+
+Noch ältere Sachen sind WasWar.

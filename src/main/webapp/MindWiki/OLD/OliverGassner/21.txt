@@ -1,0 +1,25 @@
+* WohnSitz: VaihingenEnz
+* SprachWelt: de, en-2
+* MindTrust: YvonneSchubert,DanielPoodratchi,RicardaDHerbrand,AndreasWeigel,UteMoritz,RainerWasserfuhr,TinaPickhardt,TimBonnemann,ChristineSchlinck, AndreasDittes,HeikeRibke, VivianPein,CemBasman,VolkerGraubaum,OliverBerger
+* MindBlog: http://blog.oliver-gassner.de/
+* FoAf: http://www.oliver-gassner.de/foaf.rdf
+||AusLand
+|[WorldWideWeb:oliver-gassner.de]
+|[FoAf:oliver-gassner.de]
+|[XingLe:Oliver_Gassner]
+|[TwittEr:oliverg]
+|[SkyPe:olivergassner]
+|[FaceBook:592801230]
+|[DelIcioUs:oliverG]
+|[SecondLife:Oliver_Gassner]
+|[DoppLr:OliverG]
+|[BlogLines:OliverG]
+|[ClaimId:oliverg]
+|[SevenLoad:OliverG]
+|[WerKenntWen:ulwxb3id]
+|[SeesMic:oliverg]
+|[AmazonDeProfil:3QZI8Y8GSKK6F]
+
+* SecondLife unused: Oliver Gasser (sic!)
+* http://carpe.com
+* http://literaturwelt.de

@@ -1,0 +1,20 @@
+* MindTags: GedankenSpiel, MitMachSache
+* InterWiki: [WikiWikiWeb:RussianRoulette]
+
+Angenommen WarrenBuffett, BillGates oder TheoAlbrecht würden __eine Milliarde__ EuRo für Deine Teilnahme am RussianRoulette bieten.
+Statt einer SmithAndWessonOne mit 6 Trommelbohrungen würde
+eine hochmoderne SmithAndWesson2019 verwendet, die einen ZuFall'sgenerator eingebaut hat.
+Der würde nur bei durchschnittlich jedem n-ten Versuch feuern.
+Wie gross müsste das n sein, damit Du teilnehmen würdest?
+
+Der ZuFall'sgenerator der Trommel wird durch die JavaVm gesteuert, die in die SmithAndWesson2019 
+eingebettet ist, erfolgt also über java.util.Random.
+
+Hilfsrechnung:
+Wenn der Roulettespieler einen 40 km entfernten Arbeitsplatz hat, 
+zu dem er 200x pro Jahr hinfährt, um 60.000 EUR zu verdienen, legt
+er im Jahr 16.000 km zurück. Bei 30 Jahren Berufstätigkeit
+etwa 500.000 km für 1.800.000 Mio EUR.
+Pro 1 Milliarde gefahrene Kilometer starben in DeutschLand 2005 etwa 3 Menschen.
+Das in Kauf genommene Sterberisiko durch Fahrten zum Arbeitsplatz beträgt auf das gesamte Arbeitsleben bezogen also 0,05%.
+Für n=2.000 ist das Sterberisiko beim RussianRoulette also genau so hoch wie bei den lebenslangen Fahrten zum Arbeitsplatz.

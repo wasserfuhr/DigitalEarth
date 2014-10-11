@@ -1,0 +1,11 @@
+* InterWiki: [DeWikiPedia:Notation_3_(Informatik)]
+
+amazing KunstSprache:
+{{{
+@keywords a, is, of, this.
+@prefix : <#>.
+me a Person.
+Jo a Person; is sister of me.
+Jo father Alan; mother Flo.
+Alan father Zak; brother Ed, Julian.
+}}} [*|http://www.w3.org/2000/10/swap/doc/Shortcuts.html]

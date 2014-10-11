@@ -1,0 +1,4 @@
+* IsA: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Jochen_Kienbaum]
+* BirthDay: 12-08
+* ViAf: http://viaf.org/viaf/30152039

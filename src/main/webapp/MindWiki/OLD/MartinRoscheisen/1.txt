@@ -1,0 +1,4 @@
+* IsA: UnternehmensGruender
+* HomePage: http://www.rmartinr.com/
+* PageNumber: 2
+* PagePath: LarryPage TerryWinograd MartinRoscheisen

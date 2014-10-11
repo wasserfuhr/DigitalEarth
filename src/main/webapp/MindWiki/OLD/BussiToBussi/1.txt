@@ -1,0 +1,3 @@
+* IsA: MindEvent
+* XingEvent: https://www.xing.com/events/b2b-sachsen-treffen-2010-dresden-476687
+* MindPlace: CongressCenterDresden

@@ -1,0 +1,3 @@
+* MindTags: ProFessor
+* InterWiki: [WikiPedia:John_Sterman]
+* HomePage: http://jsterman.scripts.mit.edu/

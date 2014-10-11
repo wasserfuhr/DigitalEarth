@@ -1,0 +1,11 @@
+* MindTags: MindPlace
+* BreitenGrad: 
+* LaengenGrad: 
+* BoundingBox: 0
+* NormalNull: 115
+
+PunktEins ist definiert als der Mittelpunkt des CCD-Sensors mit der Richtung in
+die DieKamera gehalten wurde als DerAugenblick geschah.
+
+Die genauen Koordinaten von PunktEins sind fehlerbehaftet
+* DerAugenblick kann falsch datiert sein

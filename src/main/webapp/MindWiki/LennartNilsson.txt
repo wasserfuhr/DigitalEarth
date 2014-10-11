@@ -1,0 +1,3 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Lennart_Nilsson]
+* BirthDay: 08-22

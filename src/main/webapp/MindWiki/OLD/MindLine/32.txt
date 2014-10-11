@@ -1,0 +1,26 @@
+Die VebMind soll eine riesengrosse SpielWiese werden, auf es nur ganz selten eine DeadLine geben soll. Zur Zeit gibt es folgende Deadlines:
+
+||am          ||Ziel
+|20070815     |MindBrokerKg Jahresabschluss 2006
+|20071231     |ServiceLevel
+|20071231     |MindShip
+|20080101     |Redundantes Monitoring für UnserGrid
+|20080731     |MindBrokerAg
+|20081231     |Finde PortFolioManager für WarrenBuffett
+|20090302     |SecondLips
+|20100303     |DelIq
+|20151231     |Baubeginn MindTower
+|20200401     |Opening GruenesWunder
+|20201231     |Opening MindTower
+|20401231     |Opening LunarSteigenberger
+|2042         |LebensErwartung von RainerWasserfuhr
+|2065         |LebensErwartung von YvonneSchubert
+
+Alte MindLine's:
+||am          ||Ziel
+|20070413:1200|MindBrokerKg Jahresabschluss 2005 an Finanzamt
+|20070406     |DoIt alpha
+|20070405     |MindBrokerKg Übergabe Steuerunterlagen an ChristineSchlinck
+|20070331     |SecondSalsa
+|20070324     |WikiTchen
+|20070315     |Projektantrag an RaimerScherer schicken

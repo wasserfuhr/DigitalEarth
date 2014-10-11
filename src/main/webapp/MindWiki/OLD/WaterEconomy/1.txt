@@ -1,0 +1,9 @@
+PlanetEarth: 71 % water surface
+
+1.386.000.000 Kubikkilometer (qkm)
+* 48.000.000 qkm Fresh water
+* 23.400.000 qkm Ground water
+
+State of matter:
+* 98,233% liquid 
+* 1,766% solid (ice)

@@ -1,0 +1,5 @@
+* IsA: UnternehmensGruender
+* InterWiki: [WikiPedia:Jeffrey_Epstein]
+* JahrGang: 1953
+* BirthDay: 01-20
+* MindSkill: VerMoegen

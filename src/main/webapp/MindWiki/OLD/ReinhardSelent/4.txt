@@ -1,0 +1,9 @@
+* JahrGang: 1970
+* BirthDay: 03-16
+* SprachWelt: de
+* WohnSitz: EilenBurg
+* TimeZone: CET
+* MindBrowser: FireFox
+* InvitedBy: ThomasKujawa
+||AusLand
+|[XingLe:Reinhard_Selent]

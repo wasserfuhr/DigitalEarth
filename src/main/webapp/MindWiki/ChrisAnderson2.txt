@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Chris_Anderson_(TED)]
+* JahrGang: 1957
+* DifferentFrom: ChrisAnderson 
+|[TwittEr:TEDchris]

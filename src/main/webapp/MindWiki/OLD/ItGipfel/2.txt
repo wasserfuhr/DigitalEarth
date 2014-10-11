@@ -1,0 +1,5 @@
+* IsA: EventSeries
+* HashTag: itgipfel
+
+* 3. CongressCenterDresden http://www.bmwi.de/BMWi/Navigation/Technologie-und-Innovation/Informationsgesellschaft/it-gipfel,did=347534.html
+* 2. StuttGart

@@ -1,0 +1,9 @@
+Bald: Eine WebApp, die automatisch das Wiki editiert, wenn bestimmte EreignisFenster-Trigger im PerformancePanorama feuern.
+
+DoIt für den MindBot:
+* lege VorName und NachName an
+* editiere BuergerInnen
+* überweise BegruessungsGeld
+* editiere # Nutzer bei SocialNetwork
+
+Wer wagt 2010 den TuringTest mit dem MindBot?

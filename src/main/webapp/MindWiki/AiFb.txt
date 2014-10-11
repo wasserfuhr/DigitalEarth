@@ -1,0 +1,5 @@
+* EtymoLogia: Institut für Angewandte Informatik und Formale Beschreibungsverfahren
+* HomePage: http://www.aifb.kit.edu/
+* MindOne: HartmutSchmeck
+
+AndreasOberweis DetlefSeese WolffriedStucky RudiStuder StefanTai

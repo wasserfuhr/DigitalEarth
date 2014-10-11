@@ -1,0 +1,14 @@
+* EtymoLogia: < de (“‘off’”) + precari (“‘to pray’”)
+* EtymoLogiaSource: http://en.wiktionary.org/wiki/deprecate#Etymology
+
+||Old       ||New
+|HerKunft   |EtymoLogia
+|JahrGang   |BornIn
+|LebensEnde |DiedIn
+|WohnSitz   |HomeStead
+|MindTags   |IsA [1]
+|MamaZwoNull|ChildOf
+|PapaZwoNull|ChildOf
+[#1] as long as the NamedEntity is correcly hooked into the OntoLogy
+
+CommaIsDead

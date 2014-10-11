@@ -1,0 +1,3 @@
+* IsA: SuperMarket
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/430671142
+* PartOf: AlaunStrasse

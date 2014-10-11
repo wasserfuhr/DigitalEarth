@@ -1,0 +1,4 @@
+* MindTags: ProFessor
+* InterWiki: [WikiPedia:Michael_Nielsen_(quantum_information_theorist)]
+* BirthDay: 01-04
+* MindSkill: QuantPuter

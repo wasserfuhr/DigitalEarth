@@ -1,0 +1,8 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0694
+* LaengenGrad: 13.6988
+* BoundingBox: 30
+* SlimNess: 0.7
+* GraDient: 30
+* MindCount: 0
+* HomePage: http://www.schloss-uebigau.de/

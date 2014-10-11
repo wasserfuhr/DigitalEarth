@@ -1,0 +1,5 @@
+* IsA: LandMark
+* InterWiki: [DeWikiPedia:Sydney_Opera_House]
+* BreitenGrad: -33.8569
+* LaengenGrad: 151.2152
+* BoundingBox: 50

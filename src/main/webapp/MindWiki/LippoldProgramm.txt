@@ -1,0 +1,9 @@
+{{{
+public class RaLi {
+  public void RaLi () {
+    while ( fn(x) ) {
+      // ToDo: ReDo
+    }
+  }   
+}
+}}}

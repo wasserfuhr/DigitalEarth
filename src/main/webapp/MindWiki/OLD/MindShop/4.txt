@@ -1,0 +1,16 @@
+Zur Zeit im Angebot im MindShop:
+
+||Name||EUR||Einheit
+|CallRainer|3|1min
+|MindBanner|100|Monat August 2007 im AgWiki
+|MindBanner|200|Monat September 2007 im AgWiki
+|MindBanner|400|Monat Oktober 2007 im AgWiki
+|MindBanner|400|ExPo: Monat November 2007 im AgWiki
+|YvonneSchubert|60|1h
+|DanielPoodratchi|30|1h
+|AndreasWeigel   |20|1h
+
+Leider sind alle genannten Produkte derzeit nur in beschränktem Umfange verfügbar.
+Immer gilt: Nur per VorKasse und zzgl der Mwst. in DeutschLand.
+
+Bald als WebApp für http://shop.mindbroker.de

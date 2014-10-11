@@ -1,0 +1,5 @@
+* InterWiki: [WikiPedia:Arturo_Toscanini]
+* JahrGang: 1867
+* BirthDay: 03-25
+* LebensEnde: 1957
+* MindSkill: ConDuct

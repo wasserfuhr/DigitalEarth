@@ -1,0 +1,7 @@
+* InspiredBy: PhotoSynth
+
+ConNect 3D points across 2D pictures and calculate an entire WorldModel.
+
+||Point||X||Y||Object
+|DsCf1649|1103|533|EastMainWindowTop|
+|DsCf1649|1207|506|EastMainWindowTop|

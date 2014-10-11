@@ -1,0 +1,21 @@
+PieschenBank has raised seed capital of 1.000.000 KayGroschen from the GovernmentBudget of NooPolis.
+
+''Die PieschenBank hat im HausHalt von NooPolis für die LockSchuppenAg ein Startkapital von 1.000.000 KayGroschen bereitgestellt.''
+
+Expected ReVenue:
+* LockSchuppenOpening
+** Maximum ReVenue: 1048560 (16 seat columns with 65535 KaGr each, =16*(1+2+4+8+...+16384+32768) KaGr)
+
+How to spend the remaining KayGroschen:
+
+Important positions:
+* 250 000 KaGr: LockNewCitizens (50x5000 KayGroschen)
+* 16 384 KaGr: for LockSchuppen3D model
+* 1 048 576 KaGr: renovation
+
+Ideas:
+* Honorare für HoerBuch-Vorleser
+* ArchiTekt's for creating the digital LockSchuppen3D-model
+* A ModellBauer for creating a physical LockSchuppen3D model
+* SystemDynamics-Modelling of LockSchuppen
+* SchmierGeld

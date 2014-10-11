@@ -1,0 +1,6 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Manuela_Schwesig]
+* BornIn: 1974
+* BirthDay: 05-23
+* HomePage: http://www.manuela-schwesig.de/
+* ParteiWiki: SpdWiki

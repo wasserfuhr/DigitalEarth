@@ -1,0 +1,9 @@
+* MindLine: 2020
+
+Anstelle eines BusinessPlan's: Ein utopisches Szenario für NooPolis 2020:
+* 1 Mio aktive BuergerInnen, die sich mindestens einmal pro Woche einloggen
+* das SocialGrid ist so weit ausgebaut dass es alle gängigen Funktionen eines SocialNetwork bietet
+* 10.000 aktive BuergerInnen, die ein LifeWiki pflegen und per InterWiki vernetzen
+* 100 gläserne UnterNehmen, deren Shares auf dem MindFloor gehandelt werden können
+* Die UnterNehmen bilden eine RealTime-SemanticEconomy
+* 500 BuergerInnen die durch MitWirken an UnterNehmen ihr BasicIncome sichern können

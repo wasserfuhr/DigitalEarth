@@ -1,0 +1,9 @@
+MindBau ist ein VirtuellesUnternehmen zur Konzeption und Förderung AvantGarde'istischer Bauprojekte in NooPolis:
+* MindTower
+* MindTowerZwo
+* LifeCell
+* GruenesWunder
+* PieschenPalast
+* TransRapid
+* MindHome für das WirkZentrum
+

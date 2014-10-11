@@ -1,0 +1,5 @@
+* IsA: DaxUnternehmen
+* InterWiki: [DeWikiPedia:Deutsche_Post_AG]
+* IsIn: DE0005552004
+* HeadQuarters: PostTower
+* MindOne: FrankAppel

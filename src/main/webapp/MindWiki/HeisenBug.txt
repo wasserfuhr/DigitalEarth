@@ -1,0 +1,2 @@
+* NamedAfter: WernerHeisenberg
+* InterWiki: [WikiWikiWeb:HeisenBug]

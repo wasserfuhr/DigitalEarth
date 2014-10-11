@@ -1,0 +1,3 @@
+* RdfProperty: http://vocab.org/bio/0.1/#Birth
+
+http://id.mindbroker.de/lifeline

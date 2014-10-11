@@ -1,0 +1,6 @@
+* HerKunft: "von altgriechisch σχίζειν schizein „abspalten“ und φρήν phrēn „Zwerchfell, Seele“"
+
+GedankenSpiel für UpLoad-Szenarien: Anfangs besteht der DigitalTwin nur aus einem
+statischen AbBild. Aber mehr und mehr soll er beginnen, selbständig zu InFer'ieren.
+Er könnte dank MindEyes gleichen WahrNehm'ungen ausgesetzt werden. Er wird unentwegt trainiert und
+verbessert, so dass sich sein Verhalten immer mehr an sein VorBild annähert.

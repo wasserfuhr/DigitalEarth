@@ -1,0 +1,4 @@
+* IsA: CoWorkingSpace
+* PartOf: TheHub
+* HomePage: http://www.hubhelsinki.fi/
+|[TwittEr:hubhelsinki]

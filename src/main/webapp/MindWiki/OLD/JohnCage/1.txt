@@ -1,0 +1,5 @@
+* IsA: ComPoser
+* InterWiki: [WikiPedia:John_Cage]
+* BornIn: 1912
+* BirthDay: 09-05
+* DiedIn: 1992

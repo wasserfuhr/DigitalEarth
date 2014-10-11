@@ -1,0 +1,8 @@
+* MindTags: EnterPrise
+* HerKunft: "__Int__egrated __el__ectronics"
+* InterWiki: [OpenCyc:IntelCorporation], [WebSeitz:InTel], [WikiPedia:Intel_Corporation], [WikiWikiWeb:IntelCorporation]
+* MindQuote: "The future of the companry is ... to push the technology ever closer to TheSingularity" - JustinRattner
+* MindOne: PaulOtellini
+* IsIn: US4581401001
+
+Founders: GordonMoore, RobertNoyce

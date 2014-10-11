@@ -1,0 +1,37 @@
+Der MindShop ist die zentrale Verkaufsplattform für die virtuellen UnterNehmen in NooPolis.
+
+BuergerInnen von NooPolis können Produkte und Services im MindShop erwerben. Dein BankKonto muss entsprechend mit KayGroschen gefüllt sein. (JoinNow) 
+
+Für begrenzte Zeit kannst Du KayGroschen bei der PieschenBank erwerben:
+
+Die kleinste Einheit, in der Du KayGroschen erwerben kannst sind 1.000 Stück, also 1 KiloKayGroschen.
+
+||Produkt         ||EuRo|| ||noch verfügbar
+|KiloKayGroschen|    20| 1000 KayGroschen|40x1000
+|KiloKayGroschen|    25| 1000 KayGroschen|40x1000
+|KiloKayGroschen|    55| 1000 KayGroschen|450x1000
+
+Der Preis beinhaltet 19% MwSt.
+
+* KontoNr: Auf Anfrage (KonTakt)
+* Verwendungszweck: x KiloKayGroschen für das MitWirken an NooPolis
+
+Alle Zahlungseingänge werden hier im MindWiki protokolliert und treuhänderisch vom
+CabiNet für die PieschenBank verwaltet. Mitglieder des KabiNett können die Kontoauszüge auf Anfrage
+jederzeit einsehen. Bald wird es ein eigenes VolksKonto für die PieschenBank geben.
+
+!Zur Zeit im Angebot im MindShop:
+
+||Produkt          ||KayGroschen|| ||Service     ||noch verfügbar
+|SingularBachelor  |    2.000| |             |3
+|OpenConsult       | ab 1.000| |             |
+|TheMatrix auf HdDvd|     VHB| |             |1
+|StartUpSim        |VHB 99.999| |            |2
+|MindBanner        |    2.000| |1 Monat      |1
+|NacktSichtBrille  |   10.000| |             |3
+|EheRinge          |    1.000| |             |
+|LiebesRinge       |      100| |             |
+|MethusalemKompott |    1.000| |             |1
+|RockTheTram       |      189| |2 Tickets    |17
+
+Getätigte Käufe im MindShop werden als UmSatz protokolliert.

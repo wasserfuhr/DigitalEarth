@@ -1,0 +1,46 @@
+Welcher MindBroker mit CommitMent macht was?
+
+Wichtigste Items zuerst:
+||OrderedByShares||h||Project    || %||do         ||it
+|RainerWasserfuhr| 5|MindVote    |  0|code        |Alpha
+|RainerWasserfuhr| 3|InBox       |  0|code        |API
+|RainerWasserfuhr| 3|InBox       |  0|code        |InBox-Matrix
+|RainerWasserfuhr| 2|PieschenBank|  0|code        |User-Sync
+|RainerWasserfuhr| 3|MindChat    |  0|code        |Alpha
+|RainerWasserfuhr| 3|PieschenBank| 60|code        |WechselKurs-Auktionen
+|RainerWasserfuhr| 1|MindId      |  0|code        |automatisches Backup
+|RainerWasserfuhr| 4|UnserGrid   |  0|code        |automatisches Backup
+|RainerWasserfuhr| 1|PieschenBank|  0|code        |automatisches Backup
+|RainerWasserfuhr| 1|MindId      |  0|fixe        |Login redirect aus AgWiki heraus
+|RainerWasserfuhr| 1|MindFee     |  0|code        |automatisches Build
+|RainerWasserfuhr| 4|MindId      |  0|code        |MindTrust
+|RainerWasserfuhr| 1|MindId      |  0|code        |Funktion für online/offline Status der user
+|RainerWasserfuhr| 1|UnserGrid   | 50|code        |MicroFormat-Status
+|RainerWasserfuhr|  |            |  0|ändere      |Adresse im Web.de-Mail-Footer
+|RainerWasserfuhr|  |            |  0|entscheide  |Dich für eine neue Putzfrau
+|DanielPoodratchi| 3|MindBroker  |  0|confe       |Andreas
+|DanielPoodratchi| 3|MindBlog    |  0|code        |Comments
+|DanielPoodratchi| 3|MindBlog    |  0|code        |RSS-Feed
+|DanielPoodratchi| 4|InBox       |  0|code        |Messages senden
+|DanielPoodratchi| 4|InBox       |  0|code        |YAML
+|DanielPoodratchi| 2|AgWiki      |  0|code        |MindCss für AgWiki
+|YvonneSchubert  |  |            |  0|kaufe       |Tabs Prospekthüllen Ordner Locher Kaffee Kleber Schere
+|YvonneSchubert  |  |Umzug       |  0|ändere      |Vertrag Telekom
+|YvonneSchubert  |  |Umzug       |  0|ändere      |Adresse Eplus
+|YvonneSchubert  |  |MindBlog    |  0|koordiniere |Kommentarfkt. RSS Usability
+|YvonneSchubert  |  |MindBrokerKg| 50|koordiniere |Steuererklärung mindbroker 2006
+|YvonneSchubert  |  |IchAg       | 80|koordiniere |EinkommenSteuer RainerWasserfuhr 2006
+|YvonneSchubert  |20|NooPolis    |  0|organisiere |SingularCamp nach StartUpWeekEnd
+|YvonneSchubert  | 3|VebMind     |  0|konzipiere  |DueckWiki
+|YvonneSchubert  |10|MindBrokerKg|  0|organisiere |BdCs
+|YvonneSchubert  |  |Cashflow    |  0|ändere      |am 20071120 Betrag Dauerauftrag Gewerbesteuer
+|JuergenKohn     |99|SportWiki   |  0|vermarkte   | 
+|JuergenKohn     | 1|SportPortal |  0|installiere |Eclipse
+|JuergenKohn     | 2|SportPortal |  0|reviewe     |OtherLand
+|JuergenKohn     | 4|SportPortal |  0|reviewe     |VerTrag
+|NoName          | 6|MindId      |  0|code        |message: "Du bist nicht eingeloggt" && "Auf diese Seite hast du nur Zugriff, wenn du eingeloggt bist"
+|NoName          | 3|MindId      |  0|code        |Anzeige von Freunden, die gerade online sind
+|NoName          | 4|MindId      |  0|code        |Passwort vergessen
+
+
+Später wird diese WikiSpec als WebApp automatisiert: DoItProject.

@@ -1,0 +1,20 @@
+* InterWiki: [DeWikiPedia:Monopoly]
+
+||              ||MonoPoly      ||NooPolis
+|Invented by    |ElizabethMagie |RainerWasserfuhr+MitWirkende
+|Player         |2-8            |unlimited: JoinNow
+|               |physical       |WikiBased
+|Board          |TotesHolz      |TwentyFirstCentury
+|Places         |40             |100
+|               |Schloßallee    |GeheStrasse21
+|               |Bank           |PieschenBank
+|Money          |UsDollar/EuRo...|KayGroschen
+|Initial amount |$1500...       |dynamic: BegruessungsGeld
+|Rules          |static         |dynamic: ConStitution
+|Goal           |VerMoegen      |dynamic: WoZu
+|Moving         |round robin    |concurrently
+|Move direction |dice           |click CamelCase links
+
+however: NooPolis was __not__ named after MonoPoly: see NooPolisFaq.
+
+see also: [CommunityWiki:MassivelyMultiplayerOnlineTextEditingGame]

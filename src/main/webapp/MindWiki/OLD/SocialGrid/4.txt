@@ -1,0 +1,6 @@
+The SocialGrid is system of Java based OpenSource WebApp's developed by MindBroker for the republic of NooPolis:
+* MindWiki (based on JspWiki)
+* MindId
+* PieschenBank
+
+Currently hosted on EcZwo. Admin with root privileges: RainerWasserfuhr.

@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* ErdosNumber: 1
+* DbLp: http://dblp.uni-trier.de/rec/pid/74/4890
+* HomePage: http://www.math.psu.edu/wli/

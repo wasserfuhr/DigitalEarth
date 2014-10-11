@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* JahrGang: 1972
+* BirthDay: 05-14
+* LebensEnde: 2006
+* HomePage: [http://web.media.mit.edu/~push/]

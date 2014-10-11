@@ -1,0 +1,26 @@
+* IsA: EventSeries
+* InterWiki: [DeWikiPedia:Macy-Konferenzen]
+* MindOne: WarrenMcCulloch
+
+RedBlueGame:
+
+Core Group:
+* GregoryBateson
+* Julian Bigelow
+* HeinzVonFoerster
+* Lawrence K. Frank
+* Ralph W. Gerard
+* MollyHarrower
+* LawrenceKubie
+* PaulLazarsfeld
+* KurtLewin
+* MargaretMead
+* JohnVonNeumann
+* WalterPitts
+* ArturoRosenblueth
+* Leonard J. Savage
+* NorbertWiener
+
+Guests:
+* ClaudeShannon
+* MaxDelbrueck

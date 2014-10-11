@@ -1,0 +1,25 @@
+We have created some SkypeChat's:
+||public||Name  ||MitWirkende
+|x|AfricaChat   |RaWa
+|-|BayChat      |RaWa RaLi TiBo BaHi
+|x|BildungsChat |
+|x|CoWorkChat   |
+|-|CoWorkingChat|
+|-|FriendsOfKrishnaChat|
+|x|FamilienChat |RaWa RaLi ThKu AnSc
+|x|FutureChat   |
+|x|IntelliChat  |
+|-|KabiNettChat |
+|-|LockChat     |
+|-|MindChat     |
+|-|NooChat      |
+|-|PlomChat     |RaWa RaLi ChHe
+|x|SeedChat     |
+|-|StepChat     |
+|-|SunChat      |RaWa RaLi YvSc JuAn
+|-|VorStandsChat|
+|-|WonneChat    |RaWa RaLi YvSc
+
+Also the weekly ConsultationHour with the CabiNet might be held via SkyPe.
+
+For TheFuture we consider to switch from ClosedSource SkyPe to OpenSource InstantMessaging alternatives like XmPp or GoogleWave.

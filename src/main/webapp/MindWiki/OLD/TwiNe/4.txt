@@ -1,0 +1,18 @@
+* InterWiki: [LangReiter:Twine]
+* HomePage: http://www.twine.com/
+
+The TwiNe DomainModel:
+* User
+* Connection
+* Twine
+* Tag
+* Type
+** Person
+** Organisation
+** Place
+** Book
+** Bookmark
+** Note
+** ...
+
+poorly linked to WikiPedia.

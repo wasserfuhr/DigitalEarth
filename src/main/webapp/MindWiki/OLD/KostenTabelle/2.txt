@@ -1,0 +1,5 @@
+||on        ||EuRo||CoGuest
+|2010-05-03:2145|2|AlexanderGoetze
+|2010-05-03:2145|2|HolgerHelas
+|2010-05-03:2131|2|AlexanderFriedland
+|2010-05-03:2130|2|RainerWasserfuhr

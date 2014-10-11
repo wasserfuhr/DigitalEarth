@@ -1,0 +1,15 @@
+TwittEr goes SemanticWeb:
+
+http://schema.menow.org/
+
+WikiTable:
+||No             ||MindPeople    ||MindVerb||
+|20080910:1915CEST|RainerWasserfuhr|feeling|like being morphed into a new lifeform
+|20080910:1344CEST|RainerWasserfuhr|hungry| temporärer hinweis: http://twitter.com/tineroyal/statuses/916325294
+|20080909:1723CEST|RainerWasserfuhr|talking|mit ChristineSchlinck on Festnetz
+|20080908:1545CEST|RainerWasserfuhr|walking|across the AlbertPlatz and feeling like "Autos schossen aus schmalen, tiefen Strassen in die Seichtigkeit heller Plätze"
+|20080908:1224CEST|RainerWasserfuhr|being|at DresdenZwinger
+|20080908:0822CEST|RainerWasserfuhr|happy|about a tweet from JaneMcGonigal
+|20080907:1624CEST|RainerWasserfuhr|     |very excited about DasExperiment
+|20080907:1110CEST|RainerWasserfuhr|     |mitten im normalen leben, fühle mich irgendwie wie auf dem OberSalzberg
+|20080220:1732CET |RainerWasserfuhr|eating|MaggiFlaedleSuppe

@@ -1,0 +1,20 @@
+WarrenBuffet sucht einen Nachfolger für sein VerMoegen.
+
+Wen würde RainerWasserfuhr fragen, wenn er den besten Portfoliomanager der Welt finden müsste?
+
+
+(neueste zuerst)
+
+||am||MindBroker||fragt
+|ImmerWieder|RainerWasserfuhr|alle MindBroker
+|20070402:1516|RicardaDHerbrand|AlbanNikolaiHerbst
+|20070402:1514|RainerWasserfuhr|RicardaDHerbrand
+|20070402:1457|RainerWasserfuhr|alle MindBroker
+|20070402:1449|RainerWasserfuhr|LarsHinrichs
+|20070402:1449|RainerWasserfuhr|MichaelGreve
+|20070402:14|RainerWasserfuhr|GeorgeSoros
+|20070402|YvonneSchubert|AlbanNikolaiHerbst
+|20070402|RainerWasserfuhr|YvonneSchubert
+|20070x|RainerWasserfuhr|SteveJurvetson
+
+oder: Vorschlag: Lieber ein TwinMind.

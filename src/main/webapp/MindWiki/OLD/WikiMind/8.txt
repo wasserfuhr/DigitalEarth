@@ -1,0 +1,13 @@
+People with a WikiMind:
+
+||MiNd              ||Neurons||Software||OpenStats
+|BillSeitz          |     1k?| zwiki   |
+|ChristianLangreiter|        |vanilla  |
+|JerryMichalski     |     80k|TheBrain |
+|JoiIto             |     517|SocialText|
+|LionKimbro         |        |         |
+|MattisManzel       |        |         |
+|PhilJones          |        |UseModWiki|
+|RainerWasserfuhr   |      1k|JspWiki  |soon
+
+Angst vor WikiShock? EinfachMachen: Only if you DoIt, you will enjoy it.

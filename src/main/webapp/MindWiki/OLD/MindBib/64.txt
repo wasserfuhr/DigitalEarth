@@ -1,0 +1,71 @@
+||Date   ||Type        ||Authors                         ||Title
+|200805  |article      |DanielaWasserfuhr, Cetin SM, Yang J, Freitag P, Frede S, Jakob H, Massoudy P.|Protection of the right ventricle from ischemia and reperfusion by preceding hypoxia
+|2008    |book         |MichaelMaier                     |Die ersten Tage der Zukunft
+|2008    |article      |PeterThiel                       |OptimisticThoughtExperiment
+|2007    |book         |AubreyDeGrey                     |Ending Aging
+|2007    |inProceedings|JoergLonthoff ErichOrtner Seeanner Wolf|Mobile Hunters - Reloaded (Poster)
+|2006    |book         |DonTapscott AnthonyWilliams     |WikiNomics
+|2005    |book         |RayKurzweil                      |SingularityIsNear
+|2005    |book         |MarkusWasserfuhr                 |In Geduld reifen : ein interdisziplinärer Beitrag zur Bestimmung der Aktualität der Anthropologie des Irenäus von Lyon    
+|2005    |inProceedings|RalfHeese SvenHerschel FelixNaumann ArminRoth|Self-Extending Peer Data Management
+|2005    |book         |RayKurzweil                      |SingularityIsNear
+|2005    |book         |VladislavCapek DanielPSheehan|Challenges to The Second Law of Thermodynamics
+|2005    |article      |SCetin DanielaWasserfuhr JYang JForkel PMassoudy RSchulz GHeusch HJakob|Hypoxic preconditioning after short term hypoxia with intermittent normoxia
+|2004    |book         |JeffHawkins SandraBlakesle e     |On Intelligence
+|2004    |book         |FrankSchirrmacher                |MethusalemKomplott
+|2004    |book         |EricEvans                        |Domain-Driven Design
+|2004    |inProceedings|Heinemann ErichOrtner Sternhuber |Sprachbasierte Wissensrekonstruktion am Beispiel des Einkommensteuergesetzes.
+|2003    |inProceedings|AlexanderWendt                   |WorldStateIsInevitable
+|200006  |inProceedings|RainerWasserfuhr RaimarScherer   |Distributed Management of Co-operative Design Processes
+|2001    |book         |StefanMueller MartinKornmeier    |Streitfall Globalisierung
+|199909  |talk         |RainerWasserfuhr YvonneSchubert  |aware-net.de: Dynamic terminological spaces for personal and cooperative knowledge management
+|199908  |inProceedings|RainerWasserfuhr RaimarScherer   |Towards Role Based Management of Cooperative Design Processes
+|1999    |book         |VolkerHelas GudrunPeltz          |Jugendstilarchitektur in Dresden.
+|1999    |thesis       |GuidoStepken                     |Lösung von Strömungsproblemen in großen Höhen mittels Schachalgorithmen
+|199805  |inProceedings|RaimarScherer RudolfJuli WolfgangReinecke RainerWasserfuhr|Towards a Concurrent Engineering Environment in the Building Contstruction Industry. Proceedings of the XIIIth FIP Congress 8-10-May 1998
+|199709  |inProceedings|RaimarScherer,RainerWasserfuhr,PeterKatranuschkov, DirkHamann,RobertAmor,MattiHannus,ZigaTurk|A Concurrent Engineering IT Environment for the Building Construction Industry
+|199810  |inProceedings|RainerWasserfuhr|Shared Process Models for Distributed Co-operative Engineering
+|199809  |inProceedings|RainerWasserfuhr|Integrierte IT-Environments für die kooperative Planung im Bauprozeß
+|1998    |technicalReport|HenryMarcSparacello, MauroMangini, RobertAmor, MikeClift|ToCee: WP-B:Construction Process: Verification I
+|1998    |book         |MarkusHofmann, JuergenKaack, NorbertKaiser, ClaudiaLandmann|Kundenorientierung – Ertragsreserven für turbulente Märkte
+|199706  |inProceedings|ZigaTurk,RainerWasserfuhr, PeterKatranuschkov,RobertAmor, MattiHannus,RaimarScherer|Conceptual Modelling of a Concurrent Engineering Environment
+|199702  |inProceedings|RainerWasserfuhr,RaimarScherer|Information Management in the Concurrent Design Process
+|1995    |book         |StuartRussell,PeterNorvig|Artificial Intelligence: A Modern Approach
+|1995    |article      |FINK T., ByronProtopsaltis, PeterKatranuschkov, RaimarScherer|Die Produktmodellierungsmethode für die durchgängige Bearbeitung Architekturplanung - Tragwerksplanung - Detaillierung
+|1994    |book         |JensNebendahl |Derivative Konzernfinanzierungsrechnungen im multinationalen Konzern
+|1993    |article      |SamuelHuntington       |The ClashOfCivilizations?
+|1992    |article      |Terhorst,GregorKampwerth,Niehuis,Benninghoven|Sputtered neutrals mass spectrometry of organic molecules using multiphoton postionization
+|1992    |article      |NiklasLuhmann          |Kommunikation mit Zettelkästen: Ein Erfahrungsbericht
+|1992    |book         |FrancisFukuyama        |The End of History and the Last Man
+|1991    |article      |GerhardBarth, ThomasChristaller, ArminCremers, BerndNeumann, FranzJosefRadermacher, BerndRadig, MichaelRichter, JoergSiekmann, WernerVonSeelen|Künstliche Intelligenz - Perspektiven einer wissenschaftlichen Disziplin und Realisierungsmöglichkeiten. 
+|1991    |book         |TomStonier             |Information und die innere Struktur des Universums
+|1987    |book         |JamesCarse             |Finite and Infinite Games
+|1986    |book         |AngelaMerkel           |Untersuchung des Mechanismus von Zerfallsreaktionen mit einfachem Bindungsbruch und Berechnung ihrer Geschwindigkeitskonstanten auf der Grundlage quantenchemischer und statistischer Methoden
+|1986    |article      |ThomasLandauer         |How much do people remember? Some estimates of the quantity of learned information in long-term memory.
+|1985    |book         |BruceSterling          |Schismatrix
+|1981    |book         |RolandBarthes          |Le grain de la voix
+|1978    |book         |M. Scott Peck          |The Road Less Traveled
+|1976    |book         |JulianJaynes           |The Origin of Consciousness in the Breakdown of the Bicameral Mind
+|1975    |book         |JohnHolland            |Adaptation in Natural and Artificial Systems
+|1974    |inProceedings|RobertKowalski         |Predicate Logic as Programming Language
+|1973    |article      |MarkGranovetter        |The Strength of Weak Ties
+|1972    |book         |TerryWinograd          |Understanding Natural Language
+|1972    |book         |Donella H. Meadows,DennisMeadows|Limits to Growth
+|1969    |book         |KonradZuse             |RechnenderRaum
+|1963    |article      |IjGood                 |Speculations Concerning the First Ultraintelligent Machine
+|1962    |book         |RachelCarson           |The Silent Spring
+|1962    |book         |ThomasKuhn             |The Structure of Scientific Revolutions
+|1961    |book         |MichelFoucault         |FolieEtDeraison
+|1959    |book         |PeterStrawson          |Individuals
+|1953    |article      |TeilhardDeChardin      |On looking at the CycloTron
+|1950    |article      |AlanTuring             |ComputingMachineryAndIntelligence
+|1948    |article      |ClaudeShannon          |A Mathematical Theory of Communication
+|1943    |article      |WarrenMcCulloch, WalterPitts|A Logical Calculus of the Ideas Immanent in Nervous Activity 
+|1937    |article      |AlanTuring             |On Computable Numbers, with an Application to the Entscheidungsproblem
+|1882    |book         |FriedrichNietzsche     |Die fröhliche Wissenschaft
+|1776    |book         |AdamSmith              |WealthOfNations
+|1714    |book         |GottfriedWilhelmLeibniz|Monadologie
+|1641    |book         |Descartes              |Meditationes de prima philosophia
+|1637    |book         |Descartes              |Discours de la méthode
+|1517    |poster       |MartinLuther           |95 Thesen
+|1497    |book         |SebastianBrant         |NarrenSchyff

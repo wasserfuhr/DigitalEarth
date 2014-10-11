@@ -1,0 +1,3 @@
+* InterWiki: [AgiriWiki:Statement]
+
+the central SocialObject of the SemanticWeb.

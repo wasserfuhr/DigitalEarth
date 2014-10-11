@@ -1,0 +1,24 @@
+* DcAuthor: ShaneLegg
+
+http://www.vetta.org/documents/Machine_Super_Intelligence.pdf
+
+mentions:
+* AlanTuring
+* AndreyKolmogorov
+* AndreyMarkov
+* BenGoertzel
+* JakobBernoulli
+* JohnMcCarthy
+* JuergenSchmidhuber
+* LeonidLevin
+* MarcusHutter
+* MarvinMinsky
+* MrEpicurus
+* PeiWang
+* PeterVoss
+* RayKurzweil
+* RaySolomonoff
+* SelmerBringsjord
+* ThomasBayes
+* TonyCSmith
+* WilliamOfOccam

@@ -1,0 +1,7 @@
+Wer WerdeMindBroker als Nächstes?
+
+Nächste ID: 14.
+
+||MindBroker     ||NextId
+|RainerWasserfuhr|JanaDiesner
+|RainerWasserfuhr|SoerenStamer

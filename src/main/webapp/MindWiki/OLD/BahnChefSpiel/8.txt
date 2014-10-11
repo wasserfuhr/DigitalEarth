@@ -1,0 +1,21 @@
+BahnChef:
+* EliasMorgenstern
+
+Spieler:
+* HeidiMorgenstern
+* RainerWasserfuhr
+
+!BahnBank
+* EliasMorgenstern: 7 912 510 BahnTaler
+* HeidiMorgenstern: 1.040 BahnTaler
+* RainerWasserfuhr: 1.000 BahnTaler
+
+!BahnNetz
+* StadtDresden StadtLeipzig
+* StadtBerlin HamBurg
+* StadtLeipzig FrankFurt
+* FrankFurt KarlsRuhe
+
+BahnSteig
+* 1x StadtMuenchen -> HamBurg
+* 2x StadtBerlin -> FrankFurt

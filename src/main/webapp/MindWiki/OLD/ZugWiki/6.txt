@@ -1,0 +1,7 @@
+* SloGan: Meet your Sitznachbar!
+
+ein WikiBasiert'es SocialNetwork für die DeutscheBahn:
+
+||Datum  ||Zug  ||From      ||To          ||Wagon||Platz||MiNd||TwittEr
+|20090330|IC 79652|StadtDresden  |StadtLeipzig|wo Platz|offen|RalfLippold|RalfLippold
+|20080428|IC2391|DarmStadt  |StadtMuenchen|10|56|VolkerWeber|http://twitter.com/vowe/statuses/798608358

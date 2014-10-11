@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* HomePage: http://www.altemeister.net/de/
+* NearBy: TheaterPlatz

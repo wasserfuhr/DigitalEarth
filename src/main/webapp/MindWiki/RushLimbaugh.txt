@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Rush_Limbaugh]
+* JahrGang: 1951
+* BirthDay: 01-12

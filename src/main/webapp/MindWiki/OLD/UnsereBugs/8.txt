@@ -1,0 +1,7 @@
+||Project||Actor||Status||Bug
+|SportPortal|rainer| |Beim Verschicken von Nachrichten oder speichern von Profildaten werde keine Umlaute übernommen
+|SportPortal|daniel| |Bei dem Versuch große Nachrichten (ca. 200 Zeichen) zu verschicken -> 500 "could not insert: [de.mindbroker.spot.ejb.Message]"
+|SportPortal|daniel| |das gleiche bei dem Versuch einen langen "Über Mich" Text zu speichern
+|SportPortal|daniel| |Wenn in das Feld "Geburtsdatum" Buchstaben eingegben werden -> 500 "For input string: "ewf" "
+|SportPortal|daniel| |Bilder werden zum Teil nicht richtig verkleinert
+|SourceCode |rainer| |websvn geht nicht

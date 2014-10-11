@@ -1,0 +1,68 @@
+* MindTags: RdfClass
+* RdfClass: http://xmlns.com/foaf/0.1/#Person
+
+Alle derzeitigen Menschen im PageIndex 
+
+Aktuelle MindPeople:
+
+[{INSERT ReferringPagesPlugin}]
+
+Weitere interessante MindPeople (sortiert nach Vorname):
+* AlvarFreude
+* AndyWarhol
+* ArnoSchmidt
+* BillGates
+* BjoernOgnibeni
+* CarlGustavJung
+* ColinSchlueter
+* DanielGoleman
+* DirkBaecker
+* DirkOlbertz
+* ErikBenson
+* EkkehardBoesche
+* EugenDrewermann
+* FernandoPessoa
+* FrankWestphal
+* FranzPatzig
+* FriedrichSchiller
+* HaikoHebig
+* HannahAhrend
+* HeikoHebig
+* HermannHesse
+* HpLovecraft
+* HugoEMartin
+* JacquesDerrida
+* JeffBezos
+* JensUweSauer
+* JohannesKleske
+* JohannWolfgangVonGoethe
+* LudwigWittgenstein
+* Martin HeiDegger
+* MartinRecke
+* MichaelWagner
+* MichaelaSchaffrath
+* MichelSerres
+* NicoleSimon
+* OliverThylmann
+* OliverUeberholz
+* OriBrafman
+* PeterEmilBecker
+* PeterEngels
+* PeterFuchs
+* PetraSteiner
+* ReidHoffman
+* RicardaHuch
+* RossMayfield
+* SaschaLobo
+* SergeyBrin
+* StefanKellner
+* StefanWolpers
+* StephanHeller
+* TadWilliams
+* TonZijlstra
+* VincentJaehrig
+* WladimirKaminer
+* Wolfgang Amadeus MoZart
+* WolfgangSchaeuble
+
+DoIt: WebApp für das NachBarn'schaft der MindPeople, später http://people.mindbroker.de

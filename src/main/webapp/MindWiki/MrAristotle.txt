@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Aristoteles] [WikiWikiWeb:MrAristotle]
+* BornIn: -383
+* DiedIn: -321
+* HasTalked: MrPlato AlexanderTheGreat

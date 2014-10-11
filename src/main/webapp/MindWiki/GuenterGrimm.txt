@@ -1,0 +1,4 @@
+* IsA: PerSon
+* AcademicDegree: Dr
+* HomePage: http://www.bb-freie-berufe.de/
+* HasTalked: RainerWasserfuhr YvonneSchubert ConstanceWolter

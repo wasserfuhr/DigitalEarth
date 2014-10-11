@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:FM-2030]
+* BornIn: 1930
+* BirthDay: 10-15
+* ViAf: http://viaf.org/viaf/54611393

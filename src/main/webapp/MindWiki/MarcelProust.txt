@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Marcel_Proust]
+* BornIn: 1871
+* BirthDay: 07-10
+* ViAf: http://viaf.org/viaf/32001793

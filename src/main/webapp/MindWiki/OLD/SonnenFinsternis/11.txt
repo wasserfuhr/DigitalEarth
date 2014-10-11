@@ -1,0 +1,14 @@
+* MindTags: EventSeries
+
+!MitMachSache: Wo warst Du bei der [DeWikiPedia:Sonnenfinsternis_vom_11._August_1999]???
+
+||PerSon           ||MindPlace
+|RainerWasserfuhr  |KarlsRuhe
+|YvonneSchubert    |KarlsRuhe
+|LaHe              |KarlsRuhe
+|ChristineSchlinck |BadGleisweiler  |[*|http://twitter.com/tineroyal/status/1189752875]
+|UteMoritz         |StadtGraz       |[*|http://twitter.com/Ute/status/1189760825]
+|TimBruysten       |MoenchenGladbach|[*|http://twitter.com/timbruysten/status/1189784420]
+|ThomasGriesbaum   |                |[*|http://twitter.com/tencate/status/1190144992]
+|HeikeRibke        |BreitenStein    |[*|http://twitter.com/HeileRibke/status/1195227985]
+|ThomasKujawa      |SeeBeNisch      |[*|http://twitter.com/kujawa0708/status/1197230549]

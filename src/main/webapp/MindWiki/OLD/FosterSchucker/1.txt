@@ -1,0 +1,3 @@
+* MindTags: WikiMind
+* HomePage: http://www.schucker.org/
+* MindSkill: JspWiki

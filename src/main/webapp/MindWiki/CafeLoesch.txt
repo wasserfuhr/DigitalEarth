@@ -1,0 +1,10 @@
+* MindTags: MindPlace
+* HomePage: http://www.cafe-loesch.de/
+* BreitenGrad: 51.047957
+* LaengenGrad: 13.801275
+* BoundingBox: 23
+* GraDient: 120
+* SlimNess: 0.8
+
+TotalRecall von HeidiSchlumpf und RainerWasserfuhr:
+TwittEr, UpLoad, WindelWelt, JoeTsien, WunderKind.

@@ -1,0 +1,9 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0707
+* LaengenGrad: 13.7504
+* BoundingBox: 12
+* GraDient: 20
+* http://www.cafe-europa-dresden.de/
+
+MeMo:
+* RainerWasserfuhr, ChristineSchlinck EtAl: FootMassage

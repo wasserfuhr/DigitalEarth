@@ -1,0 +1,44 @@
+SupPorter of LockSchuppenAg:
+* AlexandraGrandpierre??[1]
+* AndreasPoldrack?
+* ChristianHeller?
+* ChristineSchlinck
+* ChristophHinderfeld?
+* DirkHengst?
+* JensBemme
+* JensKorte
+* JoergKeller?
+* HolgerBertling?
+* HolgerHelas
+* KarthikNatarajan
+* KlausNicolai
+* MagdalenaBoettger
+* MarcoDziallas!
+* MarcusBertelsmeier??
+* MarkusBracklow?
+* MarkusStamm??
+* MichaelDaenel
+* NorbertLabrenz?
+* NorbertRost?
+* OliverGassner
+* PeterHerbst?
+* PeterStawowy?
+* RainerSchulz??
+* RainerWasserfuhr!
+* RalfLippold!!
+* ReneRueggebrecht
+* SiggiSchwarz?
+* SimonKoeppl
+* SoerenRogoll!
+* TinoJentsch
+* UlrichSoeder
+* WilliSchroll
+* WinfriedLueg?
+* YvonneSchubert???
+
+[#1]State of support:
+* !! evangelist
+* ! passionist
+* ? once in while
+* ?? doubtful
+* ??? knows about project

@@ -1,0 +1,12 @@
+CrowdWisdom: Was wäre ein noch nicht börsennotierte Unternehmen wert, wenn es heute verkauft würde?
+
+Geschätzte Deal-Volumes:
+||Deal||Schätzung||von
+|EdelBild  | $50k|RainerWasserfuhr
+|SecondLife|$200m|YvonneSchubert
+|SecondLife|$300m|M.
+|SecondLife|$400m|RainerWasserfuhr
+|FaceBook  |  $9b|RainerWasserfuhr
+|MySpace   | $20b|RainerWasserfuhr
+
+DoIt: Eine WebApp, um auf zukünftige Übernahmedeals zu wetten.

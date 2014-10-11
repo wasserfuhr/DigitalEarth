@@ -1,0 +1,5 @@
+* IsA: PerSon
+* BornIn: 1873
+* BirthDay: 11-07
+* ChildOf: ChristianBoxberg
+* DiedIn: 1959

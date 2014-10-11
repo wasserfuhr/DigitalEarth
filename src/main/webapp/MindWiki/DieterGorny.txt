@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Dieter_Gorny]
+* BirthDay: 08-26
+* MindSkill: MindMusic

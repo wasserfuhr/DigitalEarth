@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/OttoSpaniol
+* HomePage: http://www-i4.informatik.rwth-aachen.de/content/staff/homes/spaniol.html
+* PageNumber: 8
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker AndreasDengel StefanAgne HansHagen OttoSpaniol

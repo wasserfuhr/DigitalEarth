@@ -1,0 +1,6 @@
+* IsA: ProFessor NobelPrizeLaureate
+* InterWiki: [DeWikiPedia:Reinhard_Selten]
+* JahrGang: 1930
+* BirthDay: 10-05
+* DbLp: http://dblp.uni-trier.de/rec/pid/97/1695
+* HasTalked: JohnNash

@@ -1,0 +1,14 @@
+* MindTags: MindPeople
+* MamaZwoNull: ChristineSchlinck
+* JahrGang: 2008
+* GraDient: 180
+* BoundingBox: 0.47
+* WikiPate: RainerWasserfuhr
+* MindSkill: DrehenUndTreten, SchluckAuf, DeziPetaFlops
+* InBody: {"20081010:1200", 4.2}
+
+* BirthDay: 10-1?
+||AusLand
+|[TwittEr:?]
+
+bald: MindQuote: "bruähhwahaauäääää!"

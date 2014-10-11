@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* WohnSitz: SteinerStrasse19
+* BirthDay: 04-02
+* JahrGang: 1948

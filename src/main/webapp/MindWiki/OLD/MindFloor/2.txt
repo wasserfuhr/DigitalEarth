@@ -1,0 +1,32 @@
+!Letzte Transaktionen
+||am    ||Stück||Kurs||von||an||Kommentar
+|20070420:1030|   10|0|RainerWasserfuhr |JensWegerle      |Geschenk
+|20070419     |   10|0|RainerWasserfuhr |DimitriUwarov    |Geschenk
+|20070417     |    1|0|RicardaDHerbrand |TimBonnemann     |wünscht sich Tim mal live bei einem Webmontag in Jena ;)
+|20070416     |   11|0|ChristineSchlinck|RainerWasserfuhr |Geschenk für ApoPhaenie
+|20070414     |   65|0|RainerWasserfuhr |TimBonnemann     |Geschenk für langmonatige Verdienste als Mister WebMontag ;)
+|20070414     |   20|0|DanielPoodratchi |TimBonnemann     |Geschenk
+|20070414     |    5|0|AndreasWeigel    |TimBonnemann     |Geschenk
+|20070414     |    5|0|OliverGassner    |TimBonnemann     |Geschenk
+|20070414     |    3|0|YvonneSchubert   |TimBonnemann     |Geschenk
+|20070414     |    1|0|ChristineSchlinck|TimBonnemann     |Geschenk
+|20070401     |   10|0|RainerWasserfuhr |ChristineSchlinck|Englischkurs
+|20070401     |   10|0|RainerWasserfuhr |RicardaDHerbrand |Einführung in MindTueftel
+|200703xx     |1.000|0|RainerWasserfuhr |AndreasWeigel    |Schnellboot-Hacking am SportPortal
+|200702xx     |1.500|0|RainerWasserfuhr |YvonneSchubert   |Erfindung des SecondFloor
+|20070208     |    1|0|RainerWasserfuhr |AndreasWeigel    |FirstTrade
+|200702xx     |    2|0|RainerWasserfuhr |ChristineSchlinck|Geschenk für SuendenMund
+|200702xx     |2.500|0|RainerWasserfuhr |OliverGassner    |Geschenk für Gewinn des D-Quest
+|20061231     |1.500|0|RainerWasserfuhr |AndreasWeigel    |Schnellboot-Hacking am SportPortal
+|20061231     |9.500|0|RainerWasserfuhr |DanielPoodratchi |Schnellboot-Hacking am SportPortal
+
+!Offene Bids/Asks:
+* bid: der Kurs, zu dem ein Marktteilnehmer A bereit ist, ein Wertpapier zu kaufen
+* ask: der Kurs, zu dem ein Marktteilnehmer A bereit ist, ein Wertpapier zu verkaufen
+||MindBroker||type||#||price/share||Currency
+|RainerWasserfuhr|bid|200|  1|KayGroschen
+|RainerWasserfuhr|bid|100|  2|KayGroschen
+|RainerWasserfuhr|ask|20 | 20|KayGroschen
+|RainerWasserfuhr|ask|20 | 20|KayGroschen
+|RainerWasserfuhr|ask|10 |500|KayGroschen
+|RainerWasserfuhr|ask|1|1.000.000.000.000|KayGroschen

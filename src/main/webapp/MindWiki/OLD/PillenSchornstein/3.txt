@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.064273
+* LaengenGrad: 13.73300
+* BoundingBox: 6
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.064252&lon=13.733661&zoom=18&layers=B000FTTT ToDo
+
+das lange hohe Ding in grüngekringelt.

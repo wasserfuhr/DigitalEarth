@@ -1,0 +1,3 @@
+* MindTags: ProFessor
+* HomePage: [http://www.mp.uni-tuebingen.de/mp/index.php?id=62]
+* MindSkill: BrainComputerInterface

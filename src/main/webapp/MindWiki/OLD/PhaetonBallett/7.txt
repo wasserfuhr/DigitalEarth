@@ -1,0 +1,8 @@
+* MindTags: FutureCard
+* PreDict: At least 8 driverless VwPhaeton will regularly drive in the public road traffic of the CityOfDresden  
+* PreDictDe: Mindestens 8 fahrerlose VwPhaeton fahren regelmässig im öffentlichen Strassenverkehr der StadtDresden  
+* UnTil: 2030
+* CardOwner: PeterMichel
+* CardHolder: RainerWasserfuhr
+* PieschenTv: http://seesmic.com/video/uVUUaQOIy2
+* FutureNumber: 3

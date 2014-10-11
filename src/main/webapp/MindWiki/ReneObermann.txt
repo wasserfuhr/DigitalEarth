@@ -1,0 +1,6 @@
+* IsA: PerSon
+* ViAf: http://viaf.org/viaf/89957415
+* InterWiki: [DeWikiPedia:René_Obermann]
+* BornIn: 1963
+* BirthDay: 03-05
+* HomePage: http://www.telekom.com/dtag/cms/content/dt/de/13298

@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Chicago_Spire]
+* BreitenGrad: 41.88981
+* LaengenGrad: -87.6147
+* BoundingBox: 40

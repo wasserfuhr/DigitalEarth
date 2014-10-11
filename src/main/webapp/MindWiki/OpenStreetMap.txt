@@ -1,0 +1,7 @@
+* IsA: ProJect
+* InterWiki: [DeWikiPedia:OpenStreetMap] [LangReiter:OpenStreetMap]
+* HomePage: http://www.openstreetmap.org/
+* MindOne: SteveCoast
+|[TwittEr:openstreetmap]
+
+LangeWeile? please check http://tagstat.hypercube.telascience.org/tags.php?limit=50&dir=ASC and help to fix bugs.

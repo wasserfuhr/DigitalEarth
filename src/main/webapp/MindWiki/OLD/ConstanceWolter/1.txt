@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* HomePage: http://www.wohnung-ueber-dresden.de/
+* HasTalked: RainerWasserfuhr RalfLippold SvenReichardt

@@ -1,0 +1,7 @@
+* IsA: MindEvent
+* HashTag: FabCamp
+* TeilNehmer: MoritzAvenarius EtAl
+* MindPlace: WilhelmWagenfeldHaus
+* HomePage: http://fablabcamp.mixxt.de/
+
+HotTopics: NeilGershenfeld

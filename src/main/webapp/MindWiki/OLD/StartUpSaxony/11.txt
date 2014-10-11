@@ -1,0 +1,27 @@
+* MindTags: MindEvent
+* InspiredBy: StartUpWeekEnd
+* TraumGast: JfSchlinck
+
+KickOff für das StartUpYear: Potentielle UnternehmensGruender treffen sich für 1 oder 2 Tage in der StadtDresden,
+füllen den IdeenPool mit ganz vielen GedankenSpiel'en und GeschaeftsIdee'n und legen EinFach los mit einer StartUpSim'ulation.
+
+Alle BuergerInnen der MicroNation NooPolis wählen OnLine und OffLine das beste StartUp und entscheiden, wer das PreisGeld von 500.000 KayGroschen erhält.
+
+||ComPare      ||StartUpSaxony       ||FutureSax
+|Preisgeld     |500.000 KayGroschen  |68.000 EuRo
+|JurorInnen    |alle BuergerInnen    |GeHeim
+|DeadLine      |keine, 24x7          |2-3x/Jahr
+|Zielgruppe    |PlanetErde           |FreistaatSachsen
+|BoersenGang   |SoFort, mit Eintrag im HandelsRegister|selten
+|VentureCapital|Micro-InVest's       |selten
+|              |GlaesernesUnternehmen|GeHeim
+|BuchHaltung   |OpenBook             |GeHeim
+|Ideenfindung  |IdeenPool            |GeHeim
+|RechtsForm    |UnLimited            |AhGe, GmBh etc
+
+Interessenten:
+* RainerWasserfuhr
+* RobertGranich
+* JoergKeller?
+* YvonneSchubert?
+* RalfLippold?

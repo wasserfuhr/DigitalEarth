@@ -1,0 +1,4 @@
+* IsA: PerSon
+* HomePage: http://www.alexanderseidel.com/
+* ChildOf: KarinSeidel GerdSeidel
+* MindSkill: HairCut

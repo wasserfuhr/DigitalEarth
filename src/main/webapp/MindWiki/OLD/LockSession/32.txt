@@ -1,0 +1,156 @@
+To add a LockSession please copy next paragraph/Um eine LockSession hinzuzufügen bitte den nachfolgenden Paragraphen kopieren:
+* yyyy-MM-dd: NextGuest
+** MindPlace:
+** HotTopics:
+** LockOfficer:
+** PresencingStatus
+**** good: 
+**** tricky: 
+**** learned: 
+**** NextAction: 
+**** NextGuest: 
+
+Bisherige BeSuch'er/ Recent visitors at the LockOffice:
+* 2010-02-22:1200 MartinGaedke
+** MindPlace: LockOffice
+** LockOfficer: RalfLippold RainerWasserfuhr?
+** HotTopics: EntityNameSystem PresencingStatus JoinNow ThreeTags FutureObsessed FutureLab2056 OpenVentureCapital LockSchuppen SemanticMind WikiWall SingularityUniversity BlueBrain NeuroSemanticWeb OpenInnovation LinkedDataMap OpenSocialNetwork ViAf OpenEconomy NooPolis
+* 2010-02-19:1700 MartinGaedke
+** MindPlace: LockOffice
+** LockOfficer: RalfLippold RainerWasserfuhr
+** HotTopics: LockSession PageNumber MonikaHenzinger WikiWall MindWiki StudiEntrepreneur TiimiAkatemia WorldCafe SingularityUniversityPresentation TuChemnitz WebEngineering WwWc SantaClara JoesPizzaservice SiliconValley AnneWillSingularity GoogleBuzz MindSet PeterDrucker Covey GettingThingsDone WikiNomics DogFood TwittEr MartinBoehringer AndreasHeil LifeBacklog SylterRunde ViertGewalt LongTail InternetManifest SwarmIntelligence PeterGloor UbiMic TheHub WikiProf
+* 2010-02-18:1700 CorneliusPollmer
+** MindPlace: LockOffice
+** LockOfficer: MarcoDziallas RalfLippold RainerWasserfuhr
+** HotTopics: ZukuenftigeArbeitswelten TwittEr MatthiasHorx HorstWOpaschowski FutureSax SlUb OpenCoffeeClubDresden DresdenWiFi WikiWall JensBemme VanCouver WikiPedia WalterRiester VolksWirtschaft HomeExchange WolfgangDonsbach SebastianDeisler UliHoeness CouchSurfing NachHaltig FlorianGerster JoergBerger FaceBook OpenSocialNetwork DataExplosion PeterSenge TippingPoint ElevatorPitch ConSpir EhssanDariani GoogleWave ABeautifulMind JoergNoennig BostonMa SiliconValley PeterTuri
+* 2010-02-19:1100 SabineFriedel
+** LockOfficer: MarcoDziallas RainerWasserfuhr RalfLippold
+** PresencingStatus
+*** RainerWasserfuhr
+**** good: SabineFriedel erstmals in RealLife
+**** tricky: kein FruehStueck
+**** learned: FeuerWehr-Leute können beruhigt die SpdPartei wählen
+**** NextAction: tweete den CmuEdu-Link an SabineFriedel
+**** NextGuest: Dame von WirtschaftsFoerderung
+*** MarcoDziallas
+**** good: Denken der Politik zu erfahren (Bereichsbezogen)
+**** tricky: Erfahrung der Politik nutzen komplizierte Sachverhalte runterzubrechen
+**** learned: auch die Feuerwehr kann oder könnte vom Web 2.0 bzw. Coworking profitieren
+**** NextAction: Anfrage Quimonda (frei werdenden Space umwandeln in Arbeitsort der Zukunft)
+* 2010-02-18:1330 RoswithaHunold HeidiGallinat
+** MindPlace: LockOffice
+** LockOfficer: MarcoDziallas RalfLippold RainerWasserfuhr
+** HotTopics: ZukuenftigeArbeitswelten HochZeit RoeschenHof VolkerBraun
+* 2010-01-13: OliverGassner EtAl
+** MindPlace: LockOffice
+** HotTopics: EtherPad MarissaMayer OpenEmm CafeWorld GetItDone GoogleWave
+** LockOfficer: RalfLippold RainerWasserfuhr
+** PresencingStatus
+*** RainerWasserfuhr
+**** good: nice MindPeople, good WorkZwoNull WorkShop
+**** tricky: no CamelCase intro by OliverGassner ;)
+**** learned: OpenEmm
+**** NextAction: ReView LockAction's
+**** NextGuest: AndreasSchanzenbach
+* 2010-01-05: SoerenRogoll
+** MindPlace: LockOffice
+** HotTopics: SocialMedia LockSchuppen EricSchlufter LockOnline
+** LockOfficer: RalfLippold
+** PresencingStatus
+*** RalfLippold
+**** good: Gespräch mit EricSchlufter, Präsentation zu SocialMedia Soeren
+**** tricky: Arbeit (um Kunden zu gewinnen, die Geld zahlen für Leistung)
+**** learned: SoerenRogoll hat ein Händchen für Präsentation
+**** NextAction: Gedanken zu SocialMedia Schulung zu Papier bringen
+**** NextGuest: EricSchlufter
+*** SoerenRogoll
+**** good: Dokumentation LockOnline in GoogleWave
+**** tricky: LockOnline ins Web bringen
+**** NextAction: fertigstellen SocialMedia Präsentation
+**** NextGuest: Versuchskaninchen für SocialMedia Präsentation
+* 2010-01-03: MarcoDziallas 
+** MindPlace: CafeCombo
+** LockOfficer: RalfLippold
+** HotTopics: CoWorking LockSchuppen StadtDresden DeutschBahn
+** PresencingStatus
+*** RalfLippold
+**** good: BautznerStrasse82 CafeCombo CoWorking
+**** tricky: Action in Realität umsetzen
+**** learned: in andere soziale Netze kommt man auf privater Ebene wahrscheinlicher hinein
+**** NextAction/NextGuest: Termin und Besuch im LockOffice mit IBM vereinbaren (SmarterCities)
+*** MarcoDziallas
+**** good: technikfrei
+**** tricky: an Entscheidungsträger rankommen, Grenzen (eigenen Denkens) überschreiten
+**** learned: Forum nötig, um Zielgruppe zu beteiligen, simplere Botschaften (ausbrechen aus Alltagsstress/-alltag)
+**** NextAction/NextGuest: Vertreter von Gewerbehof GmbH in das LockOffice einladen
+* 2010-01-02: SusanneStanicki RoswithaHunold SaschaHaarseim
+** LockOfficer: RalfLippold RainerWasserfuhr
+** HotTopics: BauchTanz PageRank SocialMedia WebLog WikiWall BusinessModel SeedMatch HochZeit EheVertrag AgrarHemd NooPolis  WikiWallAd LockCoupon LernenDurchLehren PeerAcademy ReVenue  PoKern LockShare
+** PresencingStatus
+*** RoswithaHunold
+**** good: MindBroker, MindWiki
+**** tricky: kein schwarzer Tee, noch kein konkretes Projekt, Waschbecken zu klein
+**** learned: Benutzung MindWiki, CousCous
+**** NextAction: MindWiki, AspasiasBauch, GoogleAnalytics
+**** NextGuest: -
+** PresencingStatus
+*** RalfLippold
+**** good: MindWiki changes by RoswithaHunold, Gespräch mit SaschaHaarseim
+**** tricky: negative Energie (DownLoading), Zeit kurz halten und Fokus auf Gesprächsziel, NextAction aus Gespräch mit SaschaHaarseim
+**** learned: geduldig sein, aufmerksam zuhören, keine konfrontativen Fragen zu Anfang der helfenden Beziehung stellen (besser: HumbleInquiry)
+**** NextGuest/NextAction: OttoScharmer
+*** RainerWasserfuhr
+**** good: conversations, my WikiWall presentation, RoswithaHunold riding on a fold of 40 CamelCase's through the LockDesert ;)
+**** tricky: tired too early
+**** learned: PoKern
+**** NextGuest/NextAction: RaikFischer
+* 2010-01-01: RalfLippold RainerWasserfuhr MarcusBertelsmeier
+** HotTopics: KlausLandfried SemProc TurkNumber
+** PresencingStatus
+*** RalfLippold
+**** good: Besuch MarcusBertelsmeier, LockSession zu LockCoupon-Ablauf
+**** tricky: Fokusierung, Workflow zu Papier bringen
+**** learned: kürzere Lern-/Actioneinheiten (LockSessions), Fokusierung
+**** NextAction: nach Hause fahren
+**** NextGuest: -
+*** RainerWasserfuhr
+**** good:
+***** documented LockSession ProCess
+***** PieschenTv
+***** good: MarcusBertelsmeier für QrCode
+**** tricky: Hunger, not goaldirected
+**** NextGuest: KlausLandfried PeterKruse RoswithaHunold
+* 2009-12-31: WinfriedLueg RalfLippold RainerWasserfuhr
+** HotTopics: FirefoxShortcut YvonneSchubert MindBrokerKg SportPortal NooPolis MrPlato NooSphere TeilhardDeChardin AldiTalk CarbonCopy
+** PresencingStatus
+* 2009-12-28: JensBemme RalfLippold
+** HotTopics: SlUb StudentenStiftungDresden LockSchuppen 
+** PresencingStatus
+*** JensBemme
+**** good: Pommes
+**** tricky: hier hallt es
+**** learned: SlUb braucht InfoDesk in 01099
+**** Action: Spende an die StudentenStiftungDresden (von RalfLippold)
+**** NextGuest: -
+*** RalfLippold
+**** good: Besuch von JensBemme (überraschend)
+**** tricky: Nix
+**** learned: Louisenstraße 61 ist ein Ort der Innovation, mehrere Bekannte von JensBemme im Hinterhaus (GeniusHellerau)
+**** Action: AchimBonte (SlUb) wegen Idee OPAC-Stele/Rechner in der NeuStadt kontaktieren
+**** NextGuest: -
+* 2009-12-27: DirkSpannaus RainerWasserfuhr RalfLippold
+** HotTopics: SmarterPlanet CoWork TheSingularity SocialMedia GunterDueck MobileCamp 
+** PresencingStatus
+*** RalfLippold
+**** good: GeschaeftsModell Brainstorming, Abendessen mit SoerenRogoll und PeggyJerchel
+**** tricky: umsetzbares Start-GeschaeftsModell/ Action
+**** learned: Menschen Freiraum lassen, Dinge zu ändern!
+**** Action: OpenLetter an GerdProbst (ProbstUndConsorten), Linie4 (WLAN, StadtWiki-Infos zu Haltestellen)
+**** NextGuest: GerdProbst
+* 2009-12-27: DirkSpannaus RainerWasserfuhr RalfLippold
+** HotTopics: SmarterPlanet CoWork TheSingularity SocialMedia GunterDueck MobileCamp KristinaKoehler DirkHilbert QiMonda SingularityUniversity LongBetOne UndSonstSo SmarterCities
+* 2009-12-27: MarcoDziallas DirkHengst AlexanderGoetze RalfLippold
+* 2009-12-25: RalfLippold RainerWasserfuhr
+* 2009-12-24: RalfLippold RainerWasserfuhr
+* 2009-12-22: WinfriedLueg RalfLippold RainerWasserfuhr
+* before: HenryBecker MarcoDziallas KatrinKahle AlexanderGoetze MandyHelas AlexanderFriedland SoerenRogoll

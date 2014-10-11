@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/65/6778
+* HomePage: http://www.loa-cnr.it/guarino.html
+* PageNumber: 7
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker RudiStuder YorkSure NicolaGuarino
+* HasTalked: RainerWasserfuhr

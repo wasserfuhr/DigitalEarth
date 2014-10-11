@@ -1,0 +1,551 @@
+* InterWiki: [DeWikiPedia:Virtual_International_Authority_File]
+* HomePage: http://www.d-nb.de/wir/projekte/viaf_info.htm
+
+* http://viaf.org/viaf/15 LouisAntoineDePardaillanDeGondrin
+* http://viaf.org/viaf/27 Cauna, Bernard Augustin ...
+* http://viaf.org/viaf/36 CharlesDeNeufville
+* http://viaf.org/viaf/43 FelixPlatel
+* http://viaf.org/viaf/62 TommasoValguarnera
+* http://viaf.org/viaf/89 Do Van Hoanh
+* http://viaf.org/viaf/91 FelixMoustier
+* http://viaf.org/viaf/109 EnriqueBeck
+* http://viaf.org/viaf/113 De Santis, Angelo
+* http://viaf.org/viaf/121 Flory A.
+* http://viaf.org/viaf/132 Trúc Viên
+* http://viaf.org/viaf/145 Bang Jakob  Peter
+* http://viaf.org/viaf/150 Minard Paul 1858-1941
+* http://viaf.org/viaf/166 Pagi Antoine 1690?-17..
+* http://viaf.org/viaf/178 Sell, Karl, 1845-1914
+* http://viaf.org/viaf/184 Collard Maurice 17..-18..
+* http://viaf.org/viaf/197 Deve?ria A.
+* http://viaf.org/viaf/204 Kofler, Leo, 1837-1908
+* http://viaf.org/viaf/215 Raphae?l 18..-18..
+* http://viaf.org/viaf/227 Bode Wilhelm Julius Ludwig 1799-1854
+* http://viaf.org/viaf/236 Candlot, E. (Edouard), b. 1858
+* http://viaf.org/viaf/243 Canet, Louis
+* http://viaf.org/viaf/262 Dubail Rene? 18..-18..
+* http://viaf.org/viaf/270 Jouanny Charles
+* http://viaf.org/viaf/289 Mace? Gilles 1586-1637
+* http://viaf.org/viaf/291 Mayer Simon 1820-1887
+* http://viaf.org/viaf/301 Michel Eric 18..-19..
+* http://viaf.org/viaf/317 Mulgan, Alan Edward
+* http://viaf.org/viaf/329 Preux Jules 18..-18..
+* http://viaf.org/viaf/338 Quincieu E.
+* http://viaf.org/viaf/340 Thayer, R. H. (Rufus H.)
+* http://viaf.org/viaf/355 Tollet Tony 1857-1953
+* http://viaf.org/viaf/364 Cuinet, Vital
+* http://viaf.org/viaf/372 Haime Auguste 1790-1877
+* http://viaf.org/viaf/386 Neri, Achille, 1842-1925
+* http://viaf.org/viaf/393 Nguye?n Huu Kim
+* http://viaf.org/viaf/408 Page?zy Jules 18..-19..?
+* http://viaf.org/viaf/412 Piazza, Marco
+* http://viaf.org/viaf/420 Thein Alfred
+* http://viaf.org/viaf/431 Vial Camille 1830-1918
+* http://viaf.org/viaf/449 Andres Angelo 1852-1934
+* http://viaf.org/viaf/465 Barlow, Thomas, Bp. of Lincoln, 1607-1691
+* http://viaf.org/viaf/477 Bosio, Antonio 1576-1629
+* http://viaf.org/viaf/483 Branchet Le?on
+* http://viaf.org/viaf/496 Caffarel Jean 1849-193.
+* http://viaf.org/viaf/505 Cavallin, Samuel Johan, 1849-1893
+* http://viaf.org/viaf/514 Cormeau, Henry, 1866-
+* http://viaf.org/viaf/522 Creuzet Andre? 1798-1881
+* http://viaf.org/viaf/533 Delmas, Gae?tan
+* http://viaf.org/viaf/546 Ge?rard Alfred 1837-1915
+* http://viaf.org/viaf/551 Koeberle? Elsa 1881-1950
+* http://viaf.org/viaf/567 Lindner, Bruno, 1853-1930
+* http://viaf.org/viaf/579 Le?on 06..?-0683
+* http://viaf.org/viaf/580 Martin Xavier 18..-19..
+* http://viaf.org/viaf/598 Me?nard, Claude, 1574-1652
+* http://viaf.org/viaf/607 Niepce Ernest
+* http://viaf.org/viaf/611 Piroux Joseph 1800-1884
+* http://viaf.org/viaf/624 Roturier Le?on 1878-1953
+* http://viaf.org/viaf/630 Scotellari D
+* http://viaf.org/viaf/648 Shafer, Robert, 1889-1956
+* http://viaf.org/viaf/653 Tresham, Henry
+* http://viaf.org/viaf/669 Victor Pierre 1919-....
+* http://viaf.org/viaf/676 Aynard, Raymond, 1866-1915
+* http://viaf.org/viaf/682 Brisson Euge?ne 18..-18..
+* http://viaf.org/viaf/695 Cawthorn, James, 1719-1761
+* http://viaf.org/viaf/703 Chilly Numa de 18..-19..?
+* http://viaf.org/viaf/726 Darde? Franc?ois 1801-1863
+* http://viaf.org/viaf/735 CharlesDarwin2 , 1758-1778
+* http://viaf.org/viaf/742 Deloney, Thomas fl.ca 1543-1600
+* http://viaf.org/viaf/757 Federici, Carlo
+* http://viaf.org/viaf/761 Gorton John  17..-1835
+* http://viaf.org/viaf/774 Herbelin Andre? 1903-1955
+* http://viaf.org/viaf/788 Lamy Louis 18..-19..
+* http://viaf.org/viaf/800 Le?vrier Le?once 1845-1916
+* http://viaf.org/viaf/816 Mallarme? Andre? 1877-1956
+* http://viaf.org/viaf/828 Pe?reymond Antoine
+* http://viaf.org/viaf/837 Ribard, Cle?ment, 19th cent.
+* http://viaf.org/viaf/844 Timon, A?kos
+* http://viaf.org/viaf/859 Vigeant, Arse?ne, 1844-
+* http://viaf.org/viaf/863 Allemand, Louis Hector François 1809-1886
+* http://viaf.org/viaf/871 Ferdas Rene?
+* http://viaf.org/viaf/885 Gautschi Walter 18..-19..
+* http://viaf.org/viaf/892 Giurescu Constantin 1875-1919
+* http://viaf.org/viaf/902 Hardion, Jacques
+* http://viaf.org/viaf/918 La Court Johan de 1622-1660
+* http://viaf.org/viaf/925 Manheimer E?mile 18..-19..
+* http://viaf.org/viaf/939 Mantaigne Andre?
+* http://viaf.org/viaf/941 Marlier Charles 18..-18..
+* http://viaf.org/viaf/956 Narbonne, Pierre
+* http://viaf.org/viaf/973 Nguye??n Sa?ng ?i?nh
+* http://viaf.org/viaf/987 Oltramare Andre? 1822-1896
+* http://viaf.org/viaf/994 Schiff Paul 1891-1947
+* http://viaf.org/viaf/1003 Timolati Andrea 1825-1893
+* http://viaf.org/viaf/1019 Vivenel, Antoine, 1799-1862
+* http://viaf.org/viaf/1026 Aeschimann Jules 1810-1892
+* http://viaf.org/viaf/1035 Bailloud, Maurice Camille 1847-1921
+* http://viaf.org/viaf/1042 Bombourg Jean de 1634-1694
+* http://viaf.org/viaf/1057 Gurdon, Thornhagh, 1663-1733
+* http://viaf.org/viaf/1061 La Rochette R. de
+* http://viaf.org/viaf/1074 Leroux, Jules
+* http://viaf.org/viaf/1088 Martelli, Ugolino, vesc. di Glande?ves, 1519-1592
+* http://viaf.org/viaf/1090 Pie?chaud, Martial
+* http://viaf.org/viaf/1100 Prutz, Hans, 1843-1929
+* http://viaf.org/viaf/1116 Rebie?re, A. (Alphonse), 1842-1901
+* http://viaf.org/viaf/1128 Regaldi, Giuseppe
+* http://viaf.org/viaf/1137 Rogerius, Abraham, m. 1649
+* http://viaf.org/viaf/1144 Rosenberg, Nathan 1865-
+* http://viaf.org/viaf/1159 Souter, Alexander, 1873-1949
+* http://viaf.org/viaf/1163 Veneziani Euge?ne 1864-1933
+* http://viaf.org/viaf/1171 Brue Louis Urbain 1762-1820
+* http://viaf.org/viaf/1185 MagnusCelsius
+* http://viaf.org/viaf/1192 Guillaume Jacques 18..-19..
+* http://viaf.org/viaf/1205 Lauris Georges 1876-1963
+* http://viaf.org/viaf/1214 Lefranc?ois Albert
+* http://viaf.org/viaf/1222 Livon Charles 1850-1917
+* http://viaf.org/viaf/1246 Meissas Alexandre 1795-18..
+* http://viaf.org/viaf/1251 Meyer Paul Martin 1865-1935
+* http://viaf.org/viaf/1267 Me?lot 17..-18..
+* http://viaf.org/viaf/1279 Me?ry Joseph 18..-19..
+* http://viaf.org/viaf/1280 Trombetti, Ascanio, 1544-1590
+* http://viaf.org/viaf/1298 Williams R. H. 1881-....
+* http://viaf.org/viaf/1308 Ananta Aca?rya Prativa?di? Bhayan?kara 1874-19..?
+* http://viaf.org/viaf/1312 Anelli Luigi 1813-1890
+* http://viaf.org/viaf/1320 Bacuez, Louis, S.S., 1820-1892
+* http://viaf.org/viaf/1331 Baumgarten, Hermann
+* http://viaf.org/viaf/1349 Bully Ambroise 1787-18..
+* http://viaf.org/viaf/1354 Be?ringuier, Richard, b. 1854
+* http://viaf.org/viaf/1365 Duban Ch. 1827-18..
+* http://viaf.org/viaf/1377 Foblant Maurice de 1817-1892
+* http://viaf.org/viaf/1383 Gibert Charles 18..-19..
+* http://viaf.org/viaf/1396 Györy, Tibor, 1869-1938
+* http://viaf.org/viaf/1401 Lapoule Jean Louis 1738-1795
+* http://viaf.org/viaf/1417 Le Blond de La Tour Antoine
+* http://viaf.org/viaf/1429 Lelong Georges 19..-....
+* http://viaf.org/viaf/1438 Lome?nie Charles de
+* http://viaf.org/viaf/1440 Manacorda, Giuseppe
+* http://viaf.org/viaf/1455 Turner John Roscoe 1882-1960
+* http://viaf.org/viaf/1464 Watrin, Paul, 1876-1950
+* http://viaf.org/viaf/1472 Bidon de Villemontez, ...
+* http://viaf.org/viaf/1486 Boufflers Adrien de 1532?-1622
+* http://viaf.org/viaf/1493 Carrier E?douard 18..-....
+* http://viaf.org/viaf/1504 Lemonnyer Jules 18..-19..
+* http://viaf.org/viaf/1515 Loiseau, Georges
+* http://viaf.org/viaf/1527 Lombard Claude 1760-1846
+* http://viaf.org/viaf/1536 Mercier-Nizet Marie 1859-1922
+* http://viaf.org/viaf/1543 Meunier Georges 1869-1934
+* http://viaf.org/viaf/1558 Nguye??n Chi? Ti?n
+* http://viaf.org/viaf/1562 Richmond, Charles Wallace, 1868-1932
+* http://viaf.org/viaf/1570 Ryle, Herbert Edward, 1856-1925
+* http://viaf.org/viaf/1589 Ferrier, Jacques Alexandre, 1831-1912
+* http://viaf.org/viaf/1591 Holm Gustav Frederik 1849-1940
+* http://viaf.org/viaf/1602 Keußler, Gerhard ?von? 1874-1949
+* http://viaf.org/viaf/1618 Ponce, Manuel António, 1852 -1905
+* http://viaf.org/viaf/1625 Regelsperger Gustave 1856-1940
+* http://viaf.org/viaf/1639 Ribeiro, Diego, S.I., 1561-1635
+* http://viaf.org/viaf/1641 Tresca, Henri Edouard, 1814-1885
+* http://viaf.org/viaf/1656 Cruveilhier, Louis
+* http://viaf.org/viaf/1660 Eschasse?riaux Camille 1800-1834
+* http://viaf.org/viaf/1673 Gabba, Carlo Francesco, 1835-1920
+* http://viaf.org/viaf/1687 Santovito Vichi , Nella
+* http://viaf.org/viaf/1694 Besson Joseph-Pierre-Auguste 1843-1938
+* http://viaf.org/viaf/1706 Boussot, Pierre Laurent 1768-1835
+* http://viaf.org/viaf/1710 Chigi Flavio 1810-1885
+* http://viaf.org/viaf/1723 Desmarchelier Henri 1855-1927
+* http://viaf.org/viaf/1734 Morris Edward Parmelee 1853-1938
+* http://viaf.org/viaf/1747 Tryambaka Ma?t?e, 19th cent.
+* http://viaf.org/viaf/1752 Tra??n Va?n Chie?u
+* http://viaf.org/viaf/1768 Bleyswijk, Diderik ?van?
+* http://viaf.org/viaf/1775 Bigot-Valentin, abbe?
+* http://viaf.org/viaf/1781 Faure Henri 1825-1891
+* http://viaf.org/viaf/1799 Mehmed S?u?kru? 18..-1910
+* http://viaf.org/viaf/1809 Salazar, Juan Cli?maco ?de? 1744-1815
+* http://viaf.org/viaf/1813 Tiquet Jean E?lie Pierre 1910-2008
+* http://viaf.org/viaf/1821 Castelverd E?mile de 1792-....
+* http://viaf.org/viaf/1832 Duvoisin Ce?sar 1805-1869
+* http://viaf.org/viaf/1845 Johann Georg, principe di Sassonia, n. 1869
+* http://viaf.org/viaf/1850 Jones, Henry, 1721-1770
+* http://viaf.org/viaf/1866 Noury, Ch. (Charles)
+* http://viaf.org/viaf/1878 Parra, Charles
+* http://viaf.org/viaf/1884 Tallemant Franc?ois 1620-1693
+* http://viaf.org/viaf/1897 Wartis, Johann C.
+* http://viaf.org/viaf/1907 Audren de Kerdrel Vincent 1815-1899
+* http://viaf.org/viaf/1911 Baue?r, Marie-Bernard, sac.
+* http://viaf.org/viaf/1924 Fischer, Joseph, S.I., 1858-1944
+* http://viaf.org/viaf/1930 Legoux de Flaix, Alexandre fl.1807
+* http://viaf.org/viaf/1948 Leone, Evasio, b. 1765
+* http://viaf.org/viaf/1953 Lo?scher, Friedrich Hermann, 1860-1944
+* http://viaf.org/viaf/1969 Merget Antoine Euge?ne 1819-1893
+* http://viaf.org/viaf/1976 Touron, Antoine, O.P., 1686-1775
+* http://viaf.org/viaf/1982 Jacquot Pierre-E?mile
+* http://viaf.org/viaf/2005 Soulé François-Pierre
+* http://viaf.org/viaf/2014 AmeedeeCourbet
+* http://viaf.org/viaf/2022 Durival Jean-Baptiste Luton 1725-1810
+* http://viaf.org/viaf/2033 Laborde, Étienne de 1782-1865
+* http://viaf.org/viaf/2046 Moutier Louis-Alexandre 1857-19..
+* http://viaf.org/viaf/2051 Ximenes , Leonardo
+* http://viaf.org/viaf/2067 Bonnefonds Élisabeth de 1825?-18..
+* http://viaf.org/viaf/2079 Bra Charles Marie Joseph
+* http://viaf.org/viaf/2080 Broglio d'Ajano, Saverio, conte, 1749-1834
+* http://viaf.org/viaf/2098 Bobbin, Tim, 1708-1786
+* http://viaf.org/viaf/2108 Des Bancels, Larguier
+* http://viaf.org/viaf/2112 Laurenty Jean
+* http://viaf.org/viaf/2120 Renoir, Edmond
+* http://viaf.org/viaf/2149 Wickham Yves-Louis 1893-1947
+* http://viaf.org/viaf/2154 Berton, Jean Baptiste 1767-1822
+* http://viaf.org/viaf/2165 Fayel-Deslongrais Charles 1830-1904
+* http://viaf.org/viaf/2177 Frederik Danmark, Konge, VII. 1808-1863
+* http://viaf.org/viaf/2183 Guarini Giovanni Battista 1872-1920
+* http://viaf.org/viaf/2196 Krohn, Julius Leopold Fredrik, 1835-1888
+* http://viaf.org/viaf/2203 Grand-Boulogne Alphonse de 1810-1874
+* http://viaf.org/viaf/2219 Hassenforder Victor 1819-1882
+* http://viaf.org/viaf/2226 Legrand Émile 18..-19..
+* http://viaf.org/viaf/2235 Pithon-Curt, Jean Antoine, 1705-1780
+* http://viaf.org/viaf/2242 Van Ortroy, François, S.I., 1854-1917
+* http://viaf.org/viaf/2257 D'Amato, Francesco Maria, S.I., 1585-1664
+* http://viaf.org/viaf/2261 Barral, Pierre, 1742-1826
+* http://viaf.org/viaf/2274 Carteaux, Jean-Baptiste-François 1751-1813
+* http://viaf.org/viaf/2288 Delbet, Jules
+* http://viaf.org/viaf/2290 Duboys-Fresney Étienne 1808-1893
+* http://viaf.org/viaf/2300 Jacquet Constant 1865-1921
+* http://viaf.org/viaf/2316 Mellinet, François A.
+* http://viaf.org/viaf/2328 Schmidt, Josef 1897-
+* http://viaf.org/viaf/2337 Wilks, Joseph
+* http://viaf.org/viaf/2344 Zimin, Aleksandr Aleksandrovich
+* http://viaf.org/viaf/2359 Colin, Nicolas, fl. 15--
+* http://viaf.org/viaf/2363 Cuvier, Rodolphe, n. 1785
+* http://viaf.org/viaf/2385 Marsan, Eugène
+* http://viaf.org/viaf/2392 Patry François Édouard 1833-1909
+* http://viaf.org/viaf/2407 Brockes, Barthold Heinrich
+* http://viaf.org/viaf/2411 Figaniere, Jorge Cesar de
+* http://viaf.org/viaf/2424 Trémeau Emile 1869-1914
+* http://viaf.org/viaf/2430 Bonnet, Frédéric 1835-1923
+* http://viaf.org/viaf/2448 Cousin Camille 1852-1917
+* http://viaf.org/viaf/2453 Hesmivy d'Auribeau, Pierre d' 1756-1843
+* http://viaf.org/viaf/2469 Maillard Gustave ....-....
+* http://viaf.org/viaf/2476 Valentin, F. (François-obert)
+* http://viaf.org/viaf/2482 Budaeus, Wilhelm 1566-1625
+* http://viaf.org/viaf/2495 Kergorlay Jean-Florian-Hervé de 1803-1873
+* http://viaf.org/viaf/2509 Eyraud, Achille
+* http://viaf.org/viaf/2513 Capellen, Robbert L. van der
+* http://viaf.org/viaf/2521 Beaumez Albert-Auguste Bruneau 1759-1836
+* http://viaf.org/viaf/2532 Curières de Castelnau Clément de 1849-1907
+* http://viaf.org/viaf/2545 Debreyne, Pierre Jean Corneille, 1756-1867
+* http://viaf.org/viaf/2550 Lasausse Jean Baptiste 1740-1826
+* http://viaf.org/viaf/2566 Aubry, J.-B. (Jean-Baptiste), 1844-1882
+* http://viaf.org/viaf/2578 Rosenmark, Solange
+* http://viaf.org/viaf/2584 Beauvillier, Paul, duc de, 1648-1714
+* http://viaf.org/viaf/2597 Ayguesvives Auguste d' 1829-1901
+* http://viaf.org/viaf/2606 Remerville Joseph François de 1650-1730
+* http://viaf.org/viaf/2610 Chasseloup-Laubat François de 1754-1833
+* http://viaf.org/viaf/2623 Williams William Leonard 1829-1916
+* http://viaf.org/viaf/2634 Villeneuve Eugène de 1870-19..
+* http://viaf.org/viaf/2647 Beaulieu
+* http://viaf.org/viaf/2652 Rouvier, Frédéric, S.I., 1851-
+* http://viaf.org/viaf/2668 Du Breil de Pontbriand Fernand 1848-1916
+* http://viaf.org/viaf/2675 Caraman, Victor Louis Charles de Riquet, duc de, 1762-1839
+* http://viaf.org/viaf/2681 Jones, Richard, 1855-1923
+* http://viaf.org/viaf/2699 Calvet Jean 19..-....
+* http://viaf.org/viaf/2702 Gabriel-Maria 146.-1532
+* http://viaf.org/viaf/2718 Barante, Claude Antoine Prosper Félix Brugière, baron de, 1851-1925
+* http://viaf.org/viaf/2725 Martin Louis 1815-188. ?
+* http://viaf.org/viaf/2739 Lecourbe, H.
+* http://viaf.org/viaf/2741 Le Blanc François 18..?-18..
+* http://viaf.org/viaf/2756 Dumont Jean 1871-19..
+* http://viaf.org/viaf/2760 Bernard Émile 18..-19..
+* http://viaf.org/viaf/2773 Sioc'han de Kersabiec Marie-Catherine-Siméon-Stylite 1799-1840
+* http://viaf.org/viaf/2787 Vaulgrenant Maurice de 1863-1947
+* http://viaf.org/viaf/2794 Mathieu, Jean-Baptiste 1762-1847
+* http://viaf.org/viaf/2804 Robin Albert 18..-19..
+* http://viaf.org/viaf/2815 Bausset-Roquefort Pierre-François-Gabriel-Raimond-Ferdinand de 1757-1829
+* http://viaf.org/viaf/2827 Saint Albin, Emmanuel de, 1845-
+* http://viaf.org/viaf/2836 Boucher d Argis Albert
+* http://viaf.org/viaf/2843 Leucht, Christian Leonhard, 1645-1716
+* http://viaf.org/viaf/2858 Kâtib Çelebi 1609-1657
+* http://viaf.org/viaf/2862 Ball, John, 1872-1941
+* http://viaf.org/viaf/2870 Dao Van Zu
+* http://viaf.org/viaf/2889 Duby Paul 1922-....
+* http://viaf.org/viaf/2891 Fages Étienne 1880-1914
+* http://viaf.org/viaf/2901 Pueyo Guy 1925?-2008
+* http://viaf.org/viaf/2917 Rehn, Jens, 1918-
+* http://viaf.org/viaf/2929 Berga, Pau, 1866-1948
+* http://viaf.org/viaf/2938 Ghate Vinayak Sakharam
+* http://viaf.org/viaf/2940 Greif Léon 1905?-1999
+* http://viaf.org/viaf/2955 Hall, Thomas Cunning 1858-1936
+* http://viaf.org/viaf/2964 Senet Jack 1893-1967
+* http://viaf.org/viaf/2972 Tran Van Du
+* http://viaf.org/viaf/2986 Voron Paul 1919-....
+* http://viaf.org/viaf/2993 Adeux Albert Pierre 1884-1960
+* http://viaf.org/viaf/3000 André Raoul 19..-....
+* http://viaf.org/viaf/3016 Bhāskarabhaṭṭa
+* http://viaf.org/viaf/3028 Bron Daniel 188.?-1953
+* http://viaf.org/viaf/3037 Büchner Max 18..-19..
+* http://viaf.org/viaf/3044 Charny Jean
+* http://viaf.org/viaf/3059 Curtis, Stanley James
+* http://viaf.org/viaf/3063 Deroy Henri 1900-1979
+* http://viaf.org/viaf/3071 Duplan Paul 18..-19..
+* http://viaf.org/viaf/3085 Fuchs, A. (Alois), b. 1877
+* http://viaf.org/viaf/3092 Kaplan Olga 1914-....
+* http://viaf.org/viaf/3102 Manson Numa 1913?-1993
+* http://viaf.org/viaf/3118 Meyer Raoul 1892-1970
+* http://viaf.org/viaf/3125 Pujo Pierre 1914-....
+* http://viaf.org/viaf/3139 Révoil Paul 1856-1914
+* http://viaf.org/viaf/3141 Shukla P. D. 1914-....
+* http://viaf.org/viaf/3156 Amade Albert 19..-....
+* http://viaf.org/viaf/3160 Arrous Jules 1912?-2000
+* http://viaf.org/viaf/3173 Biette Emile
+* http://viaf.org/viaf/3187 Bonamy André 1880-1943
+* http://viaf.org/viaf/3194 Carrière Charles 1901-19..
+* http://viaf.org/viaf/3207 Castelnau S.
+* http://viaf.org/viaf/3211 Cooper, Bryan, d. 1930
+* http://viaf.org/viaf/3224 Danan Alexis 1890-1979
+* http://viaf.org/viaf/3230 Fieux Joseph 1910-1999
+* http://viaf.org/viaf/3248 Gardot André
+* http://viaf.org/viaf/3253 Hantz, Ernest
+* http://viaf.org/viaf/3269 Isnardy Léon 1884-1961
+* http://viaf.org/viaf/3276 Karyševa Tat'âna
+* http://viaf.org/viaf/3282 Kónya Sándor 1885-1971
+* http://viaf.org/viaf/3295 Richard Alfred 18..-19..
+* http://viaf.org/viaf/3305 Rollet Louis 1915-2001
+* http://viaf.org/viaf/3314 Schatz, Josef, 1871-1950
+* http://viaf.org/viaf/3322 Vignon Henry 1922-....
+* http://viaf.org/viaf/3333 Vélez Rafael 19..-....
+* http://viaf.org/viaf/3346 Zander Fritz 1900-....
+* http://viaf.org/viaf/3351 Le Prévost-Lacathon Aloys
+* http://viaf.org/viaf/3367 Bardel Pierre 1898-19..
+* http://viaf.org/viaf/3379 Barreyre Jean
+* http://viaf.org/viaf/3380 Baudot Jeanne 1877-1957
+* http://viaf.org/viaf/3398 Cahour, Joseph
+* http://viaf.org/viaf/3403 Chantepie Al. 1876-19..
+* http://viaf.org/viaf/3419 Coeur Raymond 1920-....
+* http://viaf.org/viaf/3426 Cuenod Albert
+* http://viaf.org/viaf/3435 Derenne Roger 1913-....
+* http://viaf.org/viaf/3442 Dickins, Bruce
+* http://viaf.org/viaf/3457 Emeryk Hélène
+* http://viaf.org/viaf/3461 Gaudin Lucien 1897-1934
+* http://viaf.org/viaf/3474 Gauger, Martin, 1905-1941
+* http://viaf.org/viaf/3488 Haraszti, Emil, 1885-1958
+* http://viaf.org/viaf/3501 Le Bris, Alain
+* http://viaf.org/viaf/3517 Le Giemble Émile 1887-1971
+* http://viaf.org/viaf/3529 Mayer Maurice 1901-1964
+* http://viaf.org/viaf/3538 Nguyêñ Công An
+* http://viaf.org/viaf/3540 Oliver Pierre
+* http://viaf.org/viaf/3555 Sénéchal Paul 1893-19..
+* http://viaf.org/viaf/3564 Thiriet Julien 1839-1897
+* http://viaf.org/viaf/3572 Warren Robert 1891-1950
+* http://viaf.org/viaf/3586 Andrieux André 1886-1973
+* http://viaf.org/viaf/3593 Andriès Michel 1924-....
+* http://viaf.org/viaf/3604 Bloch Frédéric 19..-....
+* http://viaf.org/viaf/3627 Charton Robert 1909-....
+* http://viaf.org/viaf/3636 Deutsch, Gustav 1891-
+* http://viaf.org/viaf/3643 Fiocconi Roger 1899-19..
+* http://viaf.org/viaf/3658 Fritsch Gérard 19..-...
+* http://viaf.org/viaf/3662 Gorodiche Jean 1903-....
+* http://viaf.org/viaf/3670 Hitzig Sigmund 1912-....
+* http://viaf.org/viaf/3689 Jablonski P. C.
+* http://viaf.org/viaf/3691 Benoist Jacques 1881-1967
+* http://viaf.org/viaf/3708 Januszowski Jan Łazarzowic 1550-1613
+* http://viaf.org/viaf/3712 Karatigin, Vjačeslav G. 1875-1925
+* http://viaf.org/viaf/3720 Lagarde Pierre 1903-....
+* http://viaf.org/viaf/3731 Le Brun Pierre 19..-....
+* http://viaf.org/viaf/3749 Le Tai Rieu
+* http://viaf.org/viaf/3754 Mercier Michel 1915-....
+* http://viaf.org/viaf/3765 Mitrani Arthur 1910-....
+* http://viaf.org/viaf/3777 Mourgue Marcel 1909-....
+* http://viaf.org/viaf/3783 Nguyên Van Tung 18..-19..
+* http://viaf.org/viaf/3796 Rugale Fernand 1911-....
+* http://viaf.org/viaf/3806 Tschoffen Paul 1878-1961
+* http://viaf.org/viaf/3810 Arbelot Georges 1883-1933
+* http://viaf.org/viaf/3823 Asquith, Herbert, 1881-1947
+* http://viaf.org/viaf/3834 Balaman Ulysse-Casimir 1839-1914
+* http://viaf.org/viaf/3847 Bodereau Pierre 19..-....
+* http://viaf.org/viaf/3852 Boselli, Antonio, conte
+* http://viaf.org/viaf/3868 Guichard Xavier 1870-1947
+* http://viaf.org/viaf/3875 Key, Pierre Van Rensselaer
+* http://viaf.org/viaf/3881 Littlewood Rowland Whitelaw 1888-19..
+* http://viaf.org/viaf/3899 Maclean, Charles, fl. 1788-1824
+* http://viaf.org/viaf/3909 Magadoux Gaston 19..-2001
+* http://viaf.org/viaf/3913 Morris, James W. (James Ward), b. 1890
+* http://viaf.org/viaf/3921 Ollive François 1913-....
+* http://viaf.org/viaf/3932 Roussel Jacques 19..-....
+* http://viaf.org/viaf/3950 Alleaume, Ludovic 1859-1941
+* http://viaf.org/viaf/3966 Beauchesne Hervé 1906-....
+* http://viaf.org/viaf/3978 Bois Jean-Joseph 1915-....
+* http://viaf.org/viaf/3984 Bénard Henri 1885-1973
+* http://viaf.org/viaf/3997 Colas-Belcour Jacque 1894-1975
+* http://viaf.org/viaf/4006 Davies, D. J. Ll. (David James Llewelfryn), 1903-
+* http://viaf.org/viaf/4010 Delessert Eugène 18..-19..
+* http://viaf.org/viaf/4023 Fleischmann Paul 18..-19..
+* http://viaf.org/viaf/4034 Fournier Maurice 19..-....
+* http://viaf.org/viaf/4047 Hoàng Hữu Huy
+* http://viaf.org/viaf/4052 Jacobi, Frederick
+* http://viaf.org/viaf/4068 Karunakaran, Kotta P., 1925-
+* http://viaf.org/viaf/4075 Keyhoe Donald E 1897-1988
+* http://viaf.org/viaf/4081 Krumholz Bernard 1906-....
+* http://viaf.org/viaf/4099 Skjerne, Godtfred 1880-
+* http://viaf.org/viaf/4109 Barbiera, Raffaello
+* http://viaf.org/viaf/4113 Blanc Henri 1864-195.
+* http://viaf.org/viaf/4121 Béhar Nissim Jean 1915?-2005
+* http://viaf.org/viaf/4132 Carbonnel Maurice 1902?-1964
+* http://viaf.org/viaf/4145 Castelnau Édouard 18..-19..
+* http://viaf.org/viaf/4150 Denoyelle Maurice 1912-....
+* http://viaf.org/viaf/4166 Dumas G. 18..-19..
+* http://viaf.org/viaf/4178 Jussiaux Philippe 1903-1967
+* http://viaf.org/viaf/4184 Le Gouriadec Loïc 1888-1974
+* http://viaf.org/viaf/4197 Lecomte Henriette 1904-....
+* http://viaf.org/viaf/4204 Leguay Gérard 1932-2004
+* http://viaf.org/viaf/4215 Mariotti, G. (Giovanni), b. 1850
+* http://viaf.org/viaf/4227 Stapleton Dorothy Clare
+* http://viaf.org/viaf/4236 Aalders, W. J. (Willem Jan), 1870-1945
+* http://viaf.org/viaf/4243 Agafonoff Valerian 1863-1955
+* http://viaf.org/viaf/4258 Assandria, Giuseppe, 1840-1926
+* http://viaf.org/viaf/4262 Beauplan, Amédée de, 1790-1853
+* http://viaf.org/viaf/4270 Cateigne Geneviève 19..?-1981
+* http://viaf.org/viaf/4289 Delobel Jean Louis 1905-....
+* http://viaf.org/viaf/4291 Dorotte, Jean-Marie
+* http://viaf.org/viaf/4301 German, Angelin 1915-
+* http://viaf.org/viaf/4317 Kaiser Ernst 1896-19..
+* http://viaf.org/viaf/4329 Kergoat Jean-Louis 1918-....
+* http://viaf.org/viaf/4338 Marquet Pierre 1923-....
+* http://viaf.org/viaf/4340 Peers, Charles Reed 1868-1952
+* http://viaf.org/viaf/4355 Aitken, Robert Grant, 1864-1951
+* http://viaf.org/viaf/4364 Apponyi, Sándor, gróf, 1844-1925
+* http://viaf.org/viaf/4372 Brownlee, William H.
+* http://viaf.org/viaf/4386 Brus-Trevisan Licia 1921-....
+* http://viaf.org/viaf/4393 Kesselring, Albert, 1885-1960
+* http://viaf.org/viaf/4412 Nguyễn Văn Thành 18..-19..
+* http://viaf.org/viaf/4420 Papoutsákīs Giṓrgos
+* http://viaf.org/viaf/4431 André Pierre 1903-1983
+* http://viaf.org/viaf/4449 Ansaldo, Juan António
+* http://viaf.org/viaf/4454 Berthier Germain 1893?-1976
+* http://viaf.org/viaf/4465 Bossert, Gustav 1882-
+* http://viaf.org/viaf/4477 Goarin François-Yves 1911-....
+* http://viaf.org/viaf/4483 Rios Fernando de los 1879-1949
+* http://viaf.org/viaf/4496 Edmond-Blanc François 1908-19..
+* http://viaf.org/viaf/4505 Coustou François-Roch 1877-19..
+* http://viaf.org/viaf/4514 Duron René Paul André 1931-....
+* http://viaf.org/viaf/4522 Lapierre Jean William 1921-2007
+* http://viaf.org/viaf/4533 Leick Jacques Raymond 193.-....
+* http://viaf.org/viaf/4546 Nguyen Xuan Nguyen 19..-....
+* http://viaf.org/viaf/4551 Schneider René-Maxime 1908-....
+* http://viaf.org/viaf/4579 Nguyen Jean Ngoc Thoai
+* http://viaf.org/viaf/4580 Sirot Jean-Marie-Simon 1917-2008
+* http://viaf.org/viaf/4598 Bernanose, Georges-Marie
+* http://viaf.org/viaf/4607 Constantinidès Aristide 1900-1946
+* http://viaf.org/viaf/4611 Keller Gottfried Albert 1917-....
+* http://viaf.org/viaf/4624 Lionnet Joseph-Philippe 1902-....
+* http://viaf.org/viaf/4630 Luzzatto, Guido Lodovico
+* http://viaf.org/viaf/4648 Marcheix Pierre Camille 19..-2006
+* http://viaf.org/viaf/4653 Antona-Traversi, Giannino, 1860-1939
+* http://viaf.org/viaf/4669 Audren de Kerdrel Roger 1841-1929
+* http://viaf.org/viaf/4676 Baden-Powell, Olave St. Clair Soames Baden-Powell,  Baroness
+* http://viaf.org/viaf/4682 Bogler, Theodor, 1897-1968
+* http://viaf.org/viaf/4695 Dutoit, Henri-Edouard 1873-1953
+* http://viaf.org/viaf/4703 Joseph 1717-1777
+* http://viaf.org/viaf/4719 Nicolau, Michael, S.I., 1905-
+* http://viaf.org/viaf/4726 Poraĭ-Koshit︠s︡, I. A. (Ivan Antonovich), b. 1800
+* http://viaf.org/viaf/4735 Dennefeld, L. (Ludwig)
+* http://viaf.org/viaf/4742 Humbert Georges-Louis 1862-1921
+* http://viaf.org/viaf/4757 Pukánszkyné Kádár Jolán 1892-1989
+* http://viaf.org/viaf/4761 Ringenbach Charles L Roger 1928-....
+* http://viaf.org/viaf/4774 Tessier Roger-Alfred-Louis
+* http://viaf.org/viaf/4788 Boulenger Auguste 1868-19..
+* http://viaf.org/viaf/4790 Chaudruc de Crazannes Roger 1869-1962
+* http://viaf.org/viaf/4800 François Pierre 19..-....
+* http://viaf.org/viaf/4816 Jandot Philippe 1918-....
+* http://viaf.org/viaf/4828 Lestra Henri-Barthélemy 1894-19..
+* http://viaf.org/viaf/4837 Lair, G.-H., 1914-
+* http://viaf.org/viaf/4844 Roulland Maurice Henri Marie 1917-....
+* http://viaf.org/viaf/4859 Chauffard, Anatole Marie Emile, 1855-1932
+* http://viaf.org/viaf/4863 Libert Anne-Marie 1914-2004
+* http://viaf.org/viaf/4871 Boutges Pierre Joseph Paul Yves 1927-....
+* http://viaf.org/viaf/4892 Lacroix Pierre 1911-....
+* http://viaf.org/viaf/4902 Faivre Geneviève 1917?-2007
+* http://viaf.org/viaf/4918 Cambon Georges-Marius-Pierre-André 1892-19..
+* http://viaf.org/viaf/4925 Malcor Deydier de Pierrefeu Guillaume 1885-19..
+* http://viaf.org/viaf/4939 Biśvambhara Jyotiṣārṇava
+* http://viaf.org/viaf/4941 Sopper Johny 1919-....
+* http://viaf.org/viaf/4956 Petit Charles 18..-1940
+* http://viaf.org/viaf/4960 Quérangal Des Essarts Jean Augustin Francis 1899-19..
+* http://viaf.org/viaf/4973 Musharrafah, ʻAlī Muṣṭafá
+* http://viaf.org/viaf/4987 Dubois-Violette Marie-Odette 1917?-2004
+* http://viaf.org/viaf/4994 Carlier, Alois fl.1922
+* http://viaf.org/viaf/5007 Fredrik III kejsare av Tyskland, 1831-1888
+* http://viaf.org/viaf/5011 Olivier Louis 1864-1940
+* http://viaf.org/viaf/5024 Broglie, Maurice Jean Madeleine de 1766-1821
+* http://viaf.org/viaf/5030 Roy Marc 19..-....
+* http://viaf.org/viaf/5048 Alis Jean
+* http://viaf.org/viaf/5053 Kardos, Pál, 1900-
+* http://viaf.org/viaf/5069 Kordé Imre 1928-1964
+* http://viaf.org/viaf/5076 Raynal Guy 1937-....
+* http://viaf.org/viaf/5082 Tran Ba loc 19..-....
+* http://viaf.org/viaf/5095 Alonso, José, d. 1855
+* http://viaf.org/viaf/5114 Lewis Peter 1922-....
+* http://viaf.org/viaf/5122 Vue Gabriel 1938-....
+* http://viaf.org/viaf/5133 Bernard Joel 19..-....
+* http://viaf.org/viaf/5146 Bourvon Jean 1932-....
+* http://viaf.org/viaf/5151 Hoang Co Dinh
+* http://viaf.org/viaf/5167 Reiss J. P. F.
+* http://viaf.org/viaf/5179 Simha Claude 1937-2004
+* http://viaf.org/viaf/5180 Dumont Simone 1924-....
+* http://viaf.org/viaf/5198 Lacroix Roger 19..-....
+* http://viaf.org/viaf/5200 Laforgue Jean 1782-1852
+* http://viaf.org/viaf/5216 Nonnez Gérard 1936-....
+* http://viaf.org/viaf/5228 Parancs, János, 1937-
+* http://viaf.org/viaf/5237 Abetti, Giorgio, 1882-
+* http://viaf.org/viaf/5244 Gavelle Robert 1910-1990
+* http://viaf.org/viaf/5259 Labat René 19..-....
+* http://viaf.org/viaf/5263 Laurent Michel 19..-....
+* http://viaf.org/viaf/5271 Lion, Ferdinand
+* http://viaf.org/viaf/5285 Nguyễn Bá Chánh
+* http://viaf.org/viaf/5292 Balimaka Alexis 1926-....
+* http://viaf.org/viaf/5302 Beaudoux Robert 1932-....
+* http://viaf.org/viaf/5318 Catinat Jacques 1910-1979
+* http://viaf.org/viaf/5325 Charignon André 1938-....
+* http://viaf.org/viaf/5339 Delmas François 1913-2002
+* http://viaf.org/viaf/5341 Laskar Williams 1921-....
+* http://viaf.org/viaf/5356 Lugnier Antoine 1883-1966
+* http://viaf.org/viaf/5360 Armand Jean Paul 19..-....
+* http://viaf.org/viaf/5387 Flemming, Barbara 1930-
+* http://viaf.org/viaf/5394 Krebs Albert 1926-....
+* http://viaf.org/viaf/5409 Larget-Hue Elise 1932-....
+* http://viaf.org/viaf/5413 Nguyên Trong Dung
+* http://viaf.org/viaf/5432 Barrère Alain 1937-....
+* http://viaf.org/viaf/5445 Knox, John, 1900-1990
+* http://viaf.org/viaf/5450 Wasilewski, Zigmunt
+* http://viaf.org/viaf/5466 Delisle Jean Pierre 1934-....
+* http://viaf.org/viaf/5478 Gottesmann, Dorottya
+* http://viaf.org/viaf/5484 Moreau Pierre-André
+* http://viaf.org/viaf/5497 Zawadzki, Wacław (1899-1978).
+* http://viaf.org/viaf/5506 Desmazières Bertrand 19..-....
+* http://viaf.org/viaf/5510 Moreau Jean 1935-....
+
+* http://viaf.org/viaf/1000004 KarlEble
+* http://viaf.org/viaf/10000006 LanteaumeDeRomieu
+* http://viaf.org/viaf/20000007 NicolasSendrier
+* http://viaf.org/viaf/29546132 LotharZoegner
+* http://viaf.org/viaf/29546145 NiklasLuhmann
+* http://viaf.org/viaf/29546150 AlexandreCabral
+* http://viaf.org/viaf/39467397 BenGoertzel
+* http://viaf.org/viaf/52481432 JesusChrist
+
+ToDo: SameAs:
+* JacquesHerbrand: http://viaf.org/viaf/61912155 http://viaf.org/viaf/24739214
+* MarkusWasserfuhr: http://viaf.org/viaf/40492973 http://viaf.org/viaf/49022351
+* OliverGassner: http://viaf.org/viaf/28143094 http://viaf.org/viaf/28173695
+* RayKurzweil: http://viaf.org/viaf/62387199 http://viaf.org/viaf/27286496
+* TimBl: http://viaf.org/viaf/79454736 http://viaf.org/viaf/23002995 http://viaf.org/viaf/85312226 http://viaf.org/viaf/87229430
+* ZigaTurk: http://viaf.org/viaf/80976012 http://viaf.org/viaf/16913270

@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Benedikt_XVI.] [OpenCyc:PopeBenedictXVI]
+* DcTitle: Benedictus PP. XVI
+* BornIn: 1927
+* BirthDay: 04-16
+* BirthPlace: MarktlAmInn
+* ViAf: http://viaf.org/viaf/100186514

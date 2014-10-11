@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Nakheel_Tower]
+* BreitenGrad: 24.94280
+* LaengenGrad: 54.94666
+* BoundingBox: 100
+* UnTil: 2020

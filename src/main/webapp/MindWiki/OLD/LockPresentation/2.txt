@@ -1,0 +1,5 @@
+A few already publicially available presentations about the project and its aims:
+
+# [Presentation|http://www.slideshare.net/RalfLippold/lockschuppen-the-story] about LockSchuppen and NooPolis (English, SlideShare)
+# [Presentation|http://docs.google.com/Presentation?id=dctbcwbg_21pgj87fr7] about LockSchuppen and NooPolis (German, GoogleDocuments)
+# [Presentation|http://docs.google.com/Presentation?id=dfn5qrfc_7f9czhtgx] about LockSchuppen and NooPolis (German, GoogleDocuments)

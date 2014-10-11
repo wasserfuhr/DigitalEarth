@@ -1,0 +1,5 @@
+* MindLine: 2020
+
+WyrdMind ist eine futuristische Konzeptstudie für SecondLife &co. Details von WyrdMind 1.0: siehe MessiMatrix.
+
+EinfachMachen: WyrdMind 0.0 = CroQuet SDK-1.0.18

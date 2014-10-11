@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/BrittaSchinzel
+* PagePath: ... MichaelRichter BrittaSchinzel

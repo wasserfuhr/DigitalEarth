@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Mahmud_al-Mabhuh]
+* BirthDay: 02-14
+* DiedIn: 2010

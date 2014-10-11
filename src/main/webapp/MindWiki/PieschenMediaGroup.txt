@@ -1,0 +1,10 @@
+* IsA: EnterPrise
+* MindOne: RainerWasserfuhr
+
+Operator of the different PieschenMedia channels.
+
+The PieschenMediaGroup has 1.000 Shares.
+
+||Shares||ShareHolder
+|800|RainerWasserfuhr
+|200|AlexanderFriedland

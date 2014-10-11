@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Daniel_Glattauer]
+* BirthDay: 05-19
+* ViAf: http://viaf.org/viaf/56865197

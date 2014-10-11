@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:H._P._Lovecraft], [OpenCyc:HPLovecraft-Author]
+* JahrGang: 1890
+* BirthDay: 08-20

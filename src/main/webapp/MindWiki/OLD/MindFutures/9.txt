@@ -1,0 +1,4 @@
+Later: http://futures.mindbroker.de
+
+A social network based on MindId with the sole purpose to answer the question:
+Who is the best SingularityMind on PlanetErde to think about the possible futures of the year 2040?

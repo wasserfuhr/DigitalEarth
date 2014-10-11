@@ -1,0 +1,7 @@
+* IsA: MindCity
+* InterWiki: [DeWikiPedia:Leipzig] [OpenCyc:CityOfLeipzigGermany]
+* BoundingBox: 5000
+* MindCount: 500000
+* MindOne: BurkhardJung
+* VolksVertretung: StadtRatLeipzig
+|[TwittEr:StadtLeipzig]

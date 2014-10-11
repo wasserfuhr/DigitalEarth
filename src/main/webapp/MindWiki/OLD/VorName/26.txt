@@ -1,0 +1,47 @@
+* RdfProperty: http://xmlns.com/foaf/0.1/firstName
+
+Inspired by http://twitter.com/rainer/statuses/517913822
+
+The first names of the XingLe contacts of RainerWasserfuhr:
+* Andreas:21
+* Christian:16
+* Thomas: 16
+* Martin:15
+* Michael:13
+* Frank:11
+* Oliver:11
+* Stefan:11
+* Daniel:8
+* Jörg:8
+* Matthias:8
+* Bernd:7
+* Jan:6
+* Volker:6
+* Wolfgang:6
+* Lars:5
+* Markus:5
+* Peter:5
+* Ralf:5
+* Stephan:5
+* AnJa:4
+* Rainer:4
+* Ulrich:4
+* Uwe:4
+* Gunter:3
+* Karl:3
+* Max:3
+* Nicole:3
+* Robert:3
+* Rolf:3
+* Beate:2
+* Christine:2
+* Heike:2
+* Reiner:2
+* Silke:2
+* Tim:2
+* Eva:1
+* Judith:1
+* Ralph:1
+* Ute:1
+* Yvonne:1
+* Christiane:0

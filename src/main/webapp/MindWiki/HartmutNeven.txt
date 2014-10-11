@@ -1,0 +1,10 @@
+* IsA: UnternehmensGruender
+* InterWiki: [WikiPedia:Hartmut_Neven]
+* BornIn: 1964
+* DbLp: http://dblp.uni-trier.de/rec/pid/60/7025
+* PageNumber: 10
+* PagePath: LarryPage SergeyBrin MonikaHenzinger KurtMehlhorn FriedhelmMeyerAufDerHeide MichaelWand HansPeterSeidel DanielCremers StefanoSoatto AlessandroBissacco HartmutNeven
+* MindSkill: QuantPuter
+|[XingLe:Hartmut_Neven]
+
+GoogleGoggles

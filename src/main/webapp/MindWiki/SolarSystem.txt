@@ -1,0 +1,3 @@
+* IsA: MindThing
+* InterWiki: [DeWikiPedia:Sonnensystem]
+* PartOf: MilkyWay

@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Hector_Garcia-Molina]
+* DbLp: http://dblp.uni-trier.de/rec/pid/g/HGarciaMolina
+* PageNumber: 1
+* PagePath: LarryPage HectorGarciaMolina

@@ -1,0 +1,7 @@
+* EtymoLogia: Plain Old Telephony SyStem
+* InterWiki: [WebSeitz:POTS] [WikiPedia:Plain_old_telephone_service]
+* RdfProperty: http://xmlns.com/foaf/0.1/phone
+
+Almost dead, so almost ready for ShutDown, except for NotRuf.
+
+PoTs WhiteList? PhoneWhitelist?

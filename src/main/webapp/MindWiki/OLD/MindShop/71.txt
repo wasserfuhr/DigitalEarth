@@ -1,0 +1,29 @@
+'' The MindShop is the central Selling Platform for EnterPrise's and CitiZens of NooPolis.''
+Der MindShop ist die zentrale Verkaufsplattform für UnterNehmen und BuergerInnen in NooPolis.
+
+''You can pay with KayGroschen. You can buy KayGroschen at the ForEx. Or: EarnKayGroschen.''
+Bezahlt wird mit KayGroschen. KayGroschen können an der ForEx erworben werden. Oder: EarnKayGroschen.
+
+''Currently availabe:''
+Zur Zeit im Angebot:
+||ProDuct           ||Supplier        ||KayGroschen||Service       ||available 
+||ProDukt           ||AnBieter        ||KayGroschen||Service       ||noch verfügbar 
+|LockSchuppen-BeSuch|LockSchuppenAg   |  PreisTafel|               |
+|BabySpaziergang    |ChristineSchlinck|         500|0,5            |
+|FotoAuftrag        |ChristineSchlinck|    ab 5.000|2-4h           |
+|BauAuftrag         |ChristineSchlinck|       5.000|1h             |
+|DatingFee          |ChristineSchlinck|       5.000|3h             |   
+|RockTheTram        |SvenEchtermeyer  |         189|2 Tickets      |17
+|SingularBachelor   |RainerWasserfuhr |       2.000|               |3
+|OpenConsult        |RainerWasserfuhr |    ab 1.000|               |
+|StartUpSim         |RainerWasserfuhr |      99.999|               |2
+|SnakeOil           |RainerWasserfuhr |      10.000|               |3
+|MindBanner         |MindBroker       |       2.000|1 Monat        |1
+|EheRinge           |MindBroker       |       1.000|               |
+|LiebesRinge        |MindBroker       |         100|               |
+|KnisterRinge       |MindBroker       |          10|               |
+|FamWis01           |FamilienFreund   |       2.500|EineStunde     |10
+|FamWis02           |FamilienFreund   |       2.500|EineStunde     |10
+|MindBannerBlondieDenkt|ThomasKujawa  |         500|EinMonat       |
+
+Getätigte Käufe im MindShop werden als UmSatz protokolliert.

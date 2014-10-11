@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* BreitenGrad: 30.621
+* LaengenGrad: 77.027
+* BoundingBox: 6000
+* SlimNess: 0.3
+* GraDient: 30
+* HomePage: http://www.nanocity.in/

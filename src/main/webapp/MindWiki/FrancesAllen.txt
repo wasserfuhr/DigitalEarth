@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Frances_E._Allen]
+* JahrGang: 1932
+* DbLp: http://dblp.uni-trier.de/rec/pid/a/FEAllen
+
+IbmFellow

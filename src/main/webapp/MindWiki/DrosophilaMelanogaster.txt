@@ -1,0 +1,2 @@
+* InterWiki: [DeWikiPedia:Drosophila_melanogaster]
+* NumberOfNeurons: 100000

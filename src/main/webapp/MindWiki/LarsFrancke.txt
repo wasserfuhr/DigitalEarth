@@ -1,0 +1,5 @@
+* IsA: PerSon
+* MindSkill: OpenStreetMap
+|[XingLe:Lars_Francke]
+
+great ProJect: OsmDoc

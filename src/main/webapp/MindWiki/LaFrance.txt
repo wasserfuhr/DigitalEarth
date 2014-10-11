@@ -1,0 +1,3 @@
+* IsA: NationState
+* InterWiki: [DeWikiPedia:Frankreich]
+* MindOne: NicolasSarkozy

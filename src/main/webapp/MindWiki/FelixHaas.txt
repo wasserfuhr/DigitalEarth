@@ -1,0 +1,4 @@
+* IsA: PerSon
+* HasTalked: TimBonnemann
+|[TwittEr:felixhaas]
+|[XingLe:Felix_Haas]

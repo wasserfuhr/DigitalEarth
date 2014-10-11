@@ -1,0 +1,8 @@
+ein LifePattern von RainerWasserfuhr.
+
+Immer wenn eine seiner TwittEr-tweets ein "L:" gefolgt von einem MindPlace enthält,
+bedeutet dies: RainerWasserfuhr befand sich im Augenblick des Twitterns am angegebenen Ort.
+
+Die Übersicht aller GeoTweet's gibt es auf der TwitMap.
+
+Die GeoTweet's sind ein wichtiges Mosaiksteinchen für den Bau des DigitalTwin von RainerWasserfuhr.

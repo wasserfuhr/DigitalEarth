@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Richard_Sennett]
+* BirthDay: 01-01
+* ViAf: http://viaf.org/viaf/71397706
+* HomePage: http://www2.lse.ac.uk/sociology/whoswho/academic/sennett.aspx
+* MarriedTo: SaskiaSassen

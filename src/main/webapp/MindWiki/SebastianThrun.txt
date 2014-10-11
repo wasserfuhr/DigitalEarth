@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Sebastian_Thrun]
+* JahrGang: 1967
+* BirthDay: 05-14
+* DbLp: http://dblp.uni-trier.de/rec/pid/t/SebastianThrun
+* PageNumber: 7
+* PagePath: LarryPage SergeyBrin MonikaHenzinger KurtMehlhorn FriedhelmMeyerAufDerHeide MichaelWand HansPeterSeidel SebastianThrun
+* MindSkill: PhaetonBallett

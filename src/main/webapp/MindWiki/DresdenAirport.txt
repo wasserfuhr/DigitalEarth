@@ -1,0 +1,5 @@
+* IsA: AirPort
+* InterWiki: [DdWiki:Flughafen] [DeWikiPedia:Flughafen_Dresden]
+* MindOne: MichaelHupe
+* PartOf: StadtDresden
+* FourSquare: http://foursquare.com/mobile/venue/669719

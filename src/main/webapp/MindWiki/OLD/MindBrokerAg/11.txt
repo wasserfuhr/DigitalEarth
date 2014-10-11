@@ -1,0 +1,50 @@
+spot wird später das erste Projekt der MindBrokerAg. ToDo für RainerWasserfuhr: AgWiki installieren.
+Bis dahin können AG-relevante Themen hier zwischengeparkt werden.
+
+Stammkapital mit 50.000 Aktien zu 1 EUR.
+
+!Aktionäre
+||MindBroker||Anteile||%
+|RainerWasserfuhr|32.497|65
+|DanielPoodratchi|9.500|19
+|OliverGassner|2.500|5
+|NN|2.500|5
+|AndreasWeigel|1.501|3
+|YvonneSchubert|1.500|3
+|ChristineSchlinck|2|0.001
+
+NN: Mit RainerWasserfuhr noch in Klärung.
+
+
+Idee von DanielPoodratchi:
+
+!design, art + clothes
+
+Ein Shop für T-Shirts.
+Unter http://del.icio.us/daniele85/art sind eine Reihe von Websiten zum Thema Design getagt.
+Idee -> T-shirts mit Werken von jungen Künstlern zu entwerfen. Es gibt mehr als genug davon!
+Anfangs sollen diese per Mund zu Mund Propaganda unter die Leute gebracht und verkauft werden.
+Falls genügend Interesse besteht könnte ein Online-Shop entworfen werden.
+Langfristig wäre denkbar eine Platform für allgemein junge Künstler und Designer jeglicher Art zu realisieren (Kleider, Möbel...).
+
+Vorteile für die Designer: 
+*Ihre Werke werden publiziert
+*Sie verdienen durch den Verkauf
+
+ToDos:
+*HAP (Händlerabgabepreis) berechnen (= Produkitonskosten pro T-Shirt)
+*Möglichkeiten zum Drucken der T-Shirts finden und vergleichen (Welche Formate brauchen wir, Qualität, Preise...)
+*Startkapital von ca. 500-1000 Euro auftreiben
+*Eine Liste mit interessanten Designern und deren Websiten erstellen
+*Die Designer anschreiben und ihnen die Idee vorstellen, Preise aushandeln
+*Probetshirts drucken lassen und vergleichen
+*Liste mit Interessenten erstellen
+*Verkaufspreis pro T-shirt festlegen
+
+Das ganze könnte evtl. unter dem Dach der Mindbroker KG laufen.
+
+evtl. MitWirkende:
+*AurelienEyoum 
+*LisanneMalessa
+*AndreasWeigel
+*DanielPoodratchi

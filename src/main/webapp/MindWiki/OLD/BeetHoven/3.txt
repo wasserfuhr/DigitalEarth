@@ -1,0 +1,6 @@
+geboren in der StadtBonn, 17701216, also
+* JahrGang: 1770
+* LebensEnde: 1827
+
+||AusLand
+|[DeWikiPedia:Ludwig_van_Beethoven]

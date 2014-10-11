@@ -1,0 +1,31 @@
+;
+;
+;{{{
+
+
+
+
+((defn radio [] 
+  (handle "radio"
+   (fn []
+    (str
+     "<table>"
+     (apply str
+      (map
+       (fn [x]
+         (str 
+           "<h3><a href='/radio/" x "'>" x "</a></h3>"
+           "<img src='" (cache 'TwitterPic :RainerWasserfuhr) "' width='64' height='64'/>"
+           " <object type='application/x-shockwave-flash' width='290' height='24' data='http://radio.intellihaus.de/player.swf'>
+              <param name='FlashVars' value='soundFile=http%3A%2F%2Fradio.intellihaus.de%2F" x ".mp3'/>
+             </object>"))
+       (if (> (.length (.getRequestURI request)) (.length "/radio/"))
+        (let
+         [name (.substring (.getRequestURI request) (.length "/radio/"))]
+         [name])
+        ["JanzFrischAusseFinger" "StadtDresden2056" "MartinRoell" "AnneWillSingularity" "SingularGeplauder" "CloudFee"
+         "LockCloudCamp" "WilliSchroll" "InterShopShop" "GlaeserneWelt" "PeaNuts" "NacktAufAnJa"
+         "TakeTwo" "MindQuestOne"])))
+     "</table>")
+   ) ""))))
+;}}}

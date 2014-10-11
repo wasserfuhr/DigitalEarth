@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* BreitenGrad: 24.94280
+* LaengenGrad: 54.94666
+* BoundingBox: 100
+
+||AusLand
+|[DeWikiPedia:Al_Burj]

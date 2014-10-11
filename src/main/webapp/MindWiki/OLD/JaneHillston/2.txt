@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/JaneHillston
+* ViAf: http://viaf.org/viaf/34745685
+* HomePage: http://homepages.inf.ed.ac.uk/jeh/

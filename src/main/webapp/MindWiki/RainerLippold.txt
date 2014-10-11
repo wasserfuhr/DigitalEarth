@@ -1,0 +1,3 @@
+* IsA: PerSon
+* BornIn: 1954
+* ViAf: http://viaf.org/viaf/12915672

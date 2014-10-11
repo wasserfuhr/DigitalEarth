@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Mario_Jeckle]
+* JahrGang: 1974
+* BirthDay: 08-25
+* LebensEnde: 2004
+* DbLp: http://dblp.uni-trier.de/rec/pid/j/MarioJeckle
+* PageNumber: 10
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi MichaelStonebraker PeterLockemann AndreasHeuer HansUszkoreit StefanMueller MarioJeckle

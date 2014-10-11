@@ -1,0 +1,6 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/34/5898
+* HomePage: http://cic.vtt.fi/hannus/
+* TurkNumber: 1
+* PageNumber: 8
+* PagePath: LarryPage TerryWinograd NorbertStreitz RalfSteinmetz PeterSander CatherineFaronZucker AlainZarli AbdulSamadKazi  MattiHannus

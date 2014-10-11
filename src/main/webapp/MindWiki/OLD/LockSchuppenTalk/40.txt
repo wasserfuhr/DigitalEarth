@@ -1,0 +1,65 @@
+* MindTags: EventSeries
+
+''Meet the ShareHolder's and -SupPorter's of the LockSchuppen'':
+
+Triff die LockSchuppen-ShareHolder und -SupPorter (und solche die es werden wollen):
+
+!LockSchuppenTalk 8
+* WikiLender: 20090520:1900
+* XingEvent: https://www.xing.com/events/344519
+* MindPlace: CafeLloyds
+* HotTopics: PieschenRadio, ElevatorPitch, LockFutureSax, DbServicesImmo, SingularSummitEurope, LockConsult, LockSchuppenAg, CLeanFee, BauKosten, WorkForShares, LockBudget, MonoPoly, NooPolis, MindWiki, CamelCase, VolksNetz, IdeenPool, FaceDollar, VerFassung, HausHalt, ForEx, PresencingStatus, LockAction
+* TeilNehmer: RalfLippold, RainerWasserfuhr, FrankLorenz, JensVoigt, MichaelDaenel, IlonaD
+* MayBe: WilhelmZoergiebel? ArturFriedrich? JensBemme? HolgerHelas? ? UlrikeKloeckner? ReneRueggebrecht? SiggiSchwarz? KlausNicolai? CorneliaHeinz? UlrichSoeder? HeidiGallinat? MatthiasG? NadineJuppe?
+* LeiderVerhindert: ChristineSchlinck, JfSchlinck, YvonneSchubert, MarioKretzschmar, SimonKoeppl, PeterHerbst
+
+!LockSchuppenTalk 7
+* WikiLender: 20090506:1800
+* MindPlace: CafeNeustadt und ab :2000 CafeLloyds
+* TeilNehmer: RalfLippold, ChristineSchlinck, MichaelDaenel, SimonKoeppl, UlrichSoeder, PeterHerbst, RainerWasserfuhr
+* LeiderVerhindert: PeterStawowy, HolgerHelas
+* HotTopics: CamelCase, JohnNash, WarrenBuffett, SteveJurvetson, RayKurzweil, DavidOrban, RobertAumann, BillGates, SiggiBecker, SingularitySummit, SabineFriedel
+
+!LockSchuppenTalk 6
+* WikiLender: 20090504:1900
+* MindPlace: CafeNeustadt
+* TeilNehmer: HolgerHelas, RainerWasserfuhr, RalfLippold, JuergenAnke, NorbertLabrenz
+* LeiderVerhindert: ChristineSchlinck
+* HotTopics: BdCs, SingularityUniversity, DerSingularLeuchtTurm
+
+!LockSchuppenTalk 5
+* WikiLender: 20090504:1000
+* MindPlace: MaximusDresden
+* TeilNehmer: RalfLippold, CorneliaHeinz, RainerWasserfuhr
+
+!LockSchuppenTalk 4
+* WikiLender: 20090501:0930
+* MindPlace: CafeNeustadt
+* TeilNehmer: RalfLippold, PeterHerbst
+* LeiderVerhindert: RainerWasserfuhr
+
+!LockSchuppenTalk 3
+* WikiLender: 20090424:1600
+* MindPlace: CafeNeustadt
+* XingEvent: https://www.xing.com/events/335415
+* HotTopics: RaumPlan, FloorSpace, BusinessPlan, LockFutureSax, NooPolis, VolksNetz
+* TeilNehmer: RalfLippold, RicoLieberwirth, RainerWasserfuhr, KlausNicolai, SimonKoeppl, UlrichSoeder, PeterHerbst
+* LeiderVerhindert: ChristianHeller, CorneliaHeinz, ThomasKujawa, YvonneSchubert, MartinRoell, DirkHilbert, SiggiBecker, SabineFriedel, BertramDressel, MarcusBertelsmeier, ChristineSchlinck, JfSchlinck, ReneRueggebrecht, JuergenKohn, JuergenAnke, PierreKerchner, MichaelHWagner, KatharinaS, LydiaG, MatthiasG
+
+!LockSchuppenTalk 2
+* WikiLender: 20090419:1300
+* MindPlace: CafeNeustadt
+* TeilNehmer: RalfLippold, RainerWasserfuhr, ChristineSchlinck
+* HotTopics: BauKosten
+
+!LockSchuppenTalk 1
+* WikiLender: 20090417:1600
+* MindPlace: CafeNeustadt
+* TeilNehmer: RalfLippold, YvonneSchubert, CorneliaHeinz, TamaraHeinz, ReneRueggebrecht, RainerWasserfuhr
+* LeiderVerhindert: PeterStawowy, ChristineSchlinck, JfSchlinck, JanBoehme
+* HotTopics: LockSchuppen, NooPolis, MindFloor
+http://www.doodle.com/3q3nsknkyrqsp6bp
+
+!LockSchuppenTalk 0 = TheoryUSummit
+
+Reserve-HotTopics: LockSchuppen, StartUpSaxony, RaumPlan, FloorSpace, BusinessPlan, LockFutureSax, IdeenPool, VolksNetz, SingularCamp

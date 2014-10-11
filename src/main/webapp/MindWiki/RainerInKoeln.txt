@@ -1,0 +1,8 @@
+* Suchergebnisse für "köln", meinen Kontakten: 10
+* Suchergebnisse für "koeln", meinen Kontakten: 10
+* Suchergebnisse für "cologne", meinen Kontakten: 1
+* Suchergebnisse für "kölle", meinen Kontakten: 0
+* Suchergebnisse für "colognia", meinen Kontakten: 0
+* Suchergebnisse für "Кёльн", meinen Kontakten: 0
+* Suchergebnisse für "ケルン", meinen Kontakten: 0
+

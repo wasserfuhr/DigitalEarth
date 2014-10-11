@@ -1,0 +1,6 @@
+Wer fliegt wann wo hin und kann MindPostBote werden?
+
+||am       ||von       ||nach    ||Flight  ||wer
+|200810??  |FrankFurt  |NewYork  |LH-???   |JeMand
+
+MindMove

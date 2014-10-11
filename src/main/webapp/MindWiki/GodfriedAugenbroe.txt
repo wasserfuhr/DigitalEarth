@@ -1,0 +1,5 @@
+* IsA: AssociateProfessor
+* HomePage: http://www.coa.gatech.edu/arch/people/faculty/Augenbroe/augenbroe.php
+* DbLp: http://dblp.uni-trier.de/rec/pid/37/5963
+* PageNumber: 10
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker RudiStuder YorkSure MartinHepp AlistairDuke ChimayAnumba GodfriedAugenbroe

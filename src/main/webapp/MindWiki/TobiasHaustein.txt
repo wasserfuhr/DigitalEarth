@@ -1,0 +1,6 @@
+* IsA: UnternehmensGruender
+* HasTalked: RainerWasserfuhr JoergVossbrink
+* DbLp: http://dblp.uni-trier.de/rec/pid/58/1416
+* PageNumber: 9
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker AndreasDengel StefanAgne HansHagen ClaudiaLinnhoffPopien TobiasHaustein
+|[XingLe:Tobias_Haustein]

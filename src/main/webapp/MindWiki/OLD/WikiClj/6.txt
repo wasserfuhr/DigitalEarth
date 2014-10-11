@@ -1,0 +1,8 @@
+;create WikiPage views
+;{{{
+
+((defn wiki [x]
+  (handle "wiki"
+   (fn []
+     (str "HelloWorld" request)))))
+;}}}

@@ -1,0 +1,9 @@
+Viele WebApps der MindBrokerAg haben zuerst eine Seite im AgWiki.
+Sobald eine WikiTable häufiger genutzt wird, wird auf deren Basis der erste Entwurf für ein DomainModel erzeugt.
+
+Schritt für Schritt werden so Routineabläufe im AgWiki vereinfacht und beschleunigt.
+
+Beispiele (Page/Klasse im DomainModel):
+* DoIt: Item
+* BidAsk: ShareOrder
+* WasWyrd: Date

@@ -1,0 +1,24 @@
+ViAf ToDo: SameAs:
+* AlexanderSigel: http://viaf.org/viaf/51027833 http://viaf.org/viaf/85202334
+* DanBoneh: http://viaf.org/viaf/44198240 http://viaf.org/viaf/45248826 
+* FmEsfandiary: http://viaf.org/viaf/54611393 http://viaf.org/viaf/79281971
+* GerhardBarth: http://viaf.org/viaf/66905122
+* HermannOttoSolms: http://viaf.org/viaf/67534999 http://viaf.org/viaf/24250876
+* HillaryClinton: http://viaf.org/viaf/54950123 http://viaf.org/viaf/79410190
+* JacquesHerbrand: http://viaf.org/viaf/61912155 http://viaf.org/viaf/24739214
+* JesusChrist: http://viaf.org/viaf/52481432 http://viaf.org/viaf/91885628
+* JodyWilliams: http://viaf.org/viaf/68644319 http://viaf.org/viaf/100393221
+* KarstenMenzel: http://viaf.org/viaf/5612915 ?
+* LudwigWittgenstein: http://viaf.org/viaf/24609378 http://viaf.org/viaf/101355457
+* MarkusWasserfuhr: http://viaf.org/viaf/40492973 http://viaf.org/viaf/49022351
+* MartinGaedke: http://viaf.org/viaf/79465590 http://viaf.org/viaf/85544524
+* MichaelSchefczyk http://viaf.org/viaf/35154378 http://viaf.org/viaf/101080901
+* OliverGassner: http://viaf.org/viaf/28143094 http://viaf.org/viaf/28173695
+* OttoScharmer: http://viaf.org/viaf/8598266 http://viaf.org/viaf/20346694
+* PaulAllen: http://viaf.org/viaf/18161513 http://viaf.org/viaf/75680235
+* RaimarScherer: http://d-nb.info/gnd/110062957 http://d-nb.info/gnd/110597826
+* RayKurzweil: http://viaf.org/viaf/62387199 http://viaf.org/viaf/27286496
+* StevenSpielberg http://viaf.org/viaf/98230187 wrong JahrGang
+* TimBl: http://viaf.org/viaf/79454736 http://viaf.org/viaf/23002995 http://viaf.org/viaf/85312226 http://viaf.org/viaf/87229430
+* WolfgangVonRegensburg: http://viaf.org/viaf/3263954 http://viaf.org/viaf/49320896
+* ZigaTurk: http://viaf.org/viaf/80976012 http://viaf.org/viaf/16913270

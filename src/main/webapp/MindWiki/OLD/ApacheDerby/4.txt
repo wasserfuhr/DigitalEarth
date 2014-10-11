@@ -1,0 +1,23 @@
+* InterWiki: [WikiPedia:Apache_Derby]
+* HomePage: http://db.apache.org/derby/
+
+!List all tables
+{{{
+(do
+ (Class/forName "org.apache.derby.jdbc.EmbeddedDriver")
+ (let
+  [con (java.sql.DriverManager/getConnection"jdbc:derby:mindbase;create=true")
+  stmt (.createStatement con)]
+ ((defn recurs [rs]
+   (if (.next rs)
+     (str " " (.getString rs "TABLE_NAME") (recurs rs))
+   ))
+  (.getTables (.getMetaData con) nil nil nil (into-array ["TABLE"]))))
+ )
+)
+}}}
+
+!List all PayMent's
+{{{
+  (.executeQuery stmt "select * from payment")))
+}}}

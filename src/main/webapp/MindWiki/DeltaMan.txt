@@ -1,0 +1,5 @@
+||           ||VorHer||NachHer
+|KontoStand  |<0     |>0
+|Humor       |       |
+|Sensibilität|       |
+|

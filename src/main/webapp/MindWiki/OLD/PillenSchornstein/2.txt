@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.064273
+* LaengenGrad: 13.73300
+* BoundingBox: 6
+
+das lange hohe Ding in grüngekringelt.

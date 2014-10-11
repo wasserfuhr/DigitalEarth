@@ -1,0 +1,4 @@
+* IsA: DiStrict
+* InterWiki: [DeWikiPedia:Merbitz_(Dresden)]
+* ConnectsTo: AltLeuteritz
+* PartOf: StadtDresden

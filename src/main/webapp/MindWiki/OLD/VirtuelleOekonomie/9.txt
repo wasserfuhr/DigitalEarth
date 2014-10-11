@@ -1,0 +1,6 @@
+Die VirtuelleOekonomie von NooPolis ist ein virtuelles Wirtschaftssystem, das über den WechselKurs real wirkt. 
+
+Die Grundsätze:
+* Alle Teilnehmer des Wirtschaftssystems haben eine überprüfte und VerTrauen'swürdige Identität (MindId), die über ein dezentrales WebOfTrust entsteht.
+* Die Teilnehmer handeln nach den Regeln der VerFassung einer virtuellen Republik.
+* Alle Transaktionen im Wirtschaftssystem sind TransParent für alle Teilnehmer.

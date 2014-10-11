@@ -1,0 +1,54 @@
+* InspiredBy: TeamAcademy, BildungsBurg
+
+!Due to the heavy work on the MindWiki around recent LockSchuppen projects (e.g. WikiWall, TwitterKurs, LockOffice) we offer translation via __[GoogleTranslate|http://translate.google.com/translate?js=y&prev=_t&hl=de&ie=UTF-8&layout=1&eotf=1&u=http%3A%2F%2Fmindbroker.de%2Fwiki%2FPeerAcademy&sl=de&tl=en]__
+
+Ein Beitrag für das WwWebLern-ProJekt http://wwweblern.pbwiki.com/PeerAcademy :
+
+!Wie können wir das BildungsSystem vom Kopf auf die Fuesse stellen?: PeerToPeer-ErZieh'ung und WeiterBildung als RealLife-Simulation in der MicroNation NooPolis
+
+Um über das WwWebLern-ProJekt hinaus einen dauerhaften Rahmen für neue Lehr- und Lernformen zu finden, wollen RalfLippold und RainerWasserfuhr ein ambitioniertes VorHaben vorschlagen:
+
+Der beste Weg des Lernens ist das Tun.
+
+Anstatt BWL zu pauken bieten Einrichtungen wie das CdTm in der StadtMuenchen oder die TiimiAkatemia in FinLand schon während des Studiums die Möglichkeit an, ein StartUp zu gründen.
+
+Das Lernen in der von RalfLippold und RainerWasserfuhr vorschlagenen PeerAcademy soll dabei noch einen Schritt weitergehen:
+
+Unser Ziel ist die Schaffung einer ganzen MicroNation, in der nicht nur ein, 
+sondern mehrere StartUp's florieren sollen. Und ein ganzes virtuelles 
+Wirtschaftssystem, ähnlich wie in SecondLife, ein WikiBasiert'es Rechtswesen mit VerFassung,
+BuergerBeteiligung und gewählten MinisTer'n im CabiNet. Die KeimZelle für ein WikiBasiert'es VolksNetz,
+das Lernende und Lehrende sowie Kunden und Mitarbeiter verbindet.
+
+Als Ort der physikalischen Begegnung wollen wir von der DbServicesImmo einen ca 1500 qm grossen derzeit leerstehenden 
+LokSchuppen erwerben, und die gesamte Finanzierung mittels CrowdSourcing und SchwarmIntelligenz
+aufziehen und darin die SingularFernUni gründen, um damit Lernen per RealLife ''und'' TelePresence zu ermöglichen.
+
+Als erste Fallstudie haben wir dazu die LockSchuppenAg gegründet.
+
+Erstes Grobkonzept:
+* Kleine Lerneinheiten (so ab 1-2h). Lernen erfolgt zwischen sogenannten "Peers".
+* Bei jedem PeerLearning vermittelt der Lehrer eine Einheit - dies kann OnLine oder OffLine FaceToFace geschehen
+
+Öffentliche Empfehlung: "mein Schüler kennt sich jetzt (ganz wenig - gut - sehr gut - exzellent aus mit Topic)."
+
+Diese Empfehlung wird öffentlich mit ZeitStempel im MindWiki festgehalten.
+Sobald Schüler die MindSkill's erworben haben, kann sie selbst als Lehrer auftreten.
+
+!Beispielkurse:
+
+SingularBachelor:
+* Lehrer: RainerWasserfuhr
+* Schueler: RalfLippold, ChristineSchlinck, (YvonneSchubert?)
+
+LeanBachelor:
+* Lehrer: RalfLippold
+* Schueler: RainerWasserfuhr
+
+Weitere MindSkill's im Angebot:
+* JavaBachelor
+* WikiBachelor
+* InternetBachelor
+* FacebookBachelor
+
+Lernen, Spielen, Quiz.

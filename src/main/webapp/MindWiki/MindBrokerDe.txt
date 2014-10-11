@@ -1,0 +1,17 @@
+* OtherLanguages: english:MindBroker español:MensoMercado
+* SprachWelt: de
+* MindOne: RainerWasserfuhr
+
+!Willkommen bei MindBroker
+
+MindBroker ist ein virtuelles GlaesernesUnternehmen in der digitalen MicroNation NooPolis. Es erforscht, erfindet, baut und lebt neue Konzepte für VirtuelleOekonomie'n und SocialNetwork's der nächsten und übernächsten Generation. Wir entschlüpfen langsam dem StealthMode und geben hier erste Einblicke, wie wir wirken:
+
+* NewsLetterDe
+* WieWirWirken
+* Aktien von MindBroker werden auf dem MindFloor gehandelt
+* WerdeMindBroker und dann MitWirken:
+* ShareHolder
+* wichtigste Projekte:
+** NooPolis, eine Simulation für eine VirtuelleOekonomie und MicroNation
+** LockSchuppen
+* UnsereGeschichte

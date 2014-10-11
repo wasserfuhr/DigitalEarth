@@ -1,0 +1,24 @@
+|20070330:1930|:2359|        |AuraRaum    |Gibt es ein Paradigma des Schönen?|JensWegerle
+|20070329:1530|:1600|        |            |privat                   |YvonneSchubert
+|20070328:2000|:0300|        |PentaCon    |DresdenNetworking        |AnjaEigner, RainerWasserfuhr, ChristineSchlinck
+|20070327:1200|:1600|        |            |Zahn-OP                  |YvonneSchubert
+|20070327:1800|:2100|        |ReichenbachStrasse|Business-English   |YvonneSchubert
+|20070326:1700|:1710|        |WirkZentrum |LaVilletta holt das Geschirr ab|RainerWasserfuhr
+|20070324:1200|:1800|        |BuchmesseLeipzig|Treffen              |OliverGassner, RicardaDHerbrand, AlbanNikolaiHerbst
+|20070324:1730|:0400|        |WirkZentrum |WikiTchen                |16 MindBroker
+|20070323:1230|:1300|        |FriseurGehestr|HairCut                |RainerWasserfuhr
+|20070323:1330|:1400|        |KipsdorferStrasse|Friseur             |YvonneSchubert
+|20070320:1800|:2100|        |ReichenbachStrasse|Business-English   |YvonneSchubert
+|20070317:1100|:1700|        |WirkZentrum, Ikea|Frühstück und Shopping|RainerWasserfuhr,ChristineSchlinck,AndreasWeigel, DanielPoodratchi, YvonneSchubert
+|20070316:1930|:2359|        |AuraRaum    |ZukunftDesInternet       |RainerWasserfuhr,YvonneSchubert,JensWegerle
+|20070313:1800|:2100|        |ReichenbachStrasse|Business-English   |YvonneSchubert
+|20070313:0800|:1000|        |            |privat                   |YvonneSchubert
+|20070310:0800|:1500|        |            |privat                   |YvonneSchubert
+|20070309:1400|:1500|        |DresdenProhlis|Kundentermin           |RainerWasserfuhr
+|20070308:1800|:2200|        |Eppelsdorf  |Lesung AndreasMalessa    |AndreasWeigel, DanielPoodratchi
+|20070308:1800|:2300|        |BurgRanis   |Lesung AlbanNikolaiHerbst|RicardaDHerbrand, AlbanNikolaiHerbst
+|20070307:1600|:2359|        |            |privat                   |YvonneSchubert
+|20070307:1000|:1400|        |MarktHalle  |UnsereSorge'n zu ErdBeben klären|RainerWasserfuhr, RaimarScherer
+|20070306:1700|:2400|        |TechnologieZentrum|Unternehmerstammtisch|RainerWasserfuhr, SeMi, BoHo, YaCa
+|20070306:1100|:1700|        |WirkZentrum |RichardWagnerSinngularIty|RainerWasserfuhr, YvonneSchubert
+|20070214:2000|:2200|        |SemperOper  |Requiem                  |RainerWasserfuhr, ChristineSchlinck

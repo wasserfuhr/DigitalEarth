@@ -1,0 +1,3 @@
+* MindTags: MindPeople 
+* InterWiki: [DeWikiPedia:Kahlil_Gibran], [OpenCyc:KahlilGibran]
+* MindSkill: GeDicht

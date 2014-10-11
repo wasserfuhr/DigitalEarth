@@ -1,0 +1,54 @@
+Welcher MindBroker mit CommitMent macht was?
+
+Wichtigste Items zuerst:
+||OrderedByShares||h||Project    || %||do         ||it
+|RainerWasserfuhr| 3|MindId      | 40|code        |MindTrust
+|RainerWasserfuhr| 5|MindVote    |  0|code        |Alpha
+|RainerWasserfuhr| 3|InBox       |  0|code        |API
+|RainerWasserfuhr| 3|InBox       |  0|code        |InBox-Matrix
+|RainerWasserfuhr| 1|PieschenBank| 50|code        |User-Sync
+|RainerWasserfuhr| 2|UnserGrid   | 50|code        |MicroFormat-Status
+|RainerWasserfuhr| 3|MindChat    |  0|code        |Alpha
+|RainerWasserfuhr| 3|PieschenBank| 60|code        |WechselKurs-Auktionen
+|RainerWasserfuhr| 1|MindId      |  0|code        |automatisches Backup
+|RainerWasserfuhr| 4|UnserGrid   |  0|code        |automatisches Backup
+|RainerWasserfuhr| 1|PieschenBank|  0|code        |automatisches Backup
+|RainerWasserfuhr| 1|MindId      |  0|fixe        |Login redirect aus AgWiki heraus
+|RainerWasserfuhr| 1|MindFee     |  0|code        |automatisches Build
+|RainerWasserfuhr|  |            |  0|ändere      |Adresse im Web.de-Mail-Footer
+|RainerWasserfuhr|  |            |  0|entscheide  |Dich für eine neue Putzfrau
+|RainerWasserfuhr|  |            |  0|kündige     |BSB
+|DanielPoodratchi| 3|MindBroker  |  0|confe       |Andreas
+|DanielPoodratchi| 3|MindBlog    |  0|code        |Comments
+|DanielPoodratchi| 3|MindBlog    |  0|code        |RSS-Feed
+|DanielPoodratchi| 4|InBox       |  0|code        |Messages senden
+|DanielPoodratchi| 4|InBox       |  0|code        |YAML
+|DanielPoodratchi| 2|AgWiki      |  0|code        |MindCss für AgWiki
+|YvonneSchubert  |  |            |  0|kaufe       |Tabs Prospekthüllen Ordner Locher Kaffee Kleber Schere Waschpulver
+|YvonneSchubert  |  |UmZug       |  0|kündige     |Telekom PF 20 00 in 53105 Bonn 
+|YvonneSchubert  |  |UmZug       |  0|erneuere    |Telekom Login Rechnung Online 
+|YvonneSchubert  |  |Domains     |  0|umziehe     |alle Domains auf inwx
+|YvonneSchubert  |  |Domains     |  0|kündige     |BSB
+|YvonneSchubert  |  |Steuer      |  0|speichere   |alle Onlinerechnungen Telekom Büro
+|YvonneSchubert  |  |MindBlog    |  0|teste       |Kommentarfkt. RSS Usability
+|YvonneSchubert  |  |MindBrokerKg| 50|koordiniere |Steuererklärung mindbroker 2006
+|YvonneSchubert  |  |IchAg       | 80|koordiniere |EinkommenSteuer RainerWasserfuhr 2006
+|YvonneSchubert  |20|NooPolis    |  0|organisiere |SingularCamp nach StartUpWeekEnd
+|YvonneSchubert  | 3|VebMind     |  0|konzipiere  |DueckWiki
+|YvonneSchubert  |10|MindBrokerKg|  0|organisiere |BdCs
+|YvonneSchubert  |  |Cashflow    |  0|ändere      |am 20071120 Betrag Dauerauftrag Gewerbesteuer
+|YvonneSchubert  |  |Steuer      |  0|mache       |am 20071120 Download Kontoauszüge Noris und Post
+|YvonneSchubert  |  |Cashflow    |  0|überweise   |von Diba auf Referenzkonto
+|YvonneSchubert  |  |Cashflow    |  0|aktualisiere|cashflow Steuererstattung 28
+|YvonneSchubert  |  |Steuer      |  0|versende    |Steuererklärungen
+|YvonneSchubert  |  |UmZug       |  0|kläre       |Schlüssel mit Schoßau
+|JuergenKohn     |99|SportWiki   |  0|vermarkte   | 
+|JuergenKohn     | 1|SportPortal |  0|installiere |Eclipse
+|JuergenKohn     | 2|SportPortal |  0|reviewe     |OtherLand
+|JuergenKohn     | 4|SportPortal |  0|reviewe     |VerTrag
+|NoName          | 6|MindId      |  0|code        |message: "Du bist nicht eingeloggt" && "Auf diese Seite hast du nur Zugriff, wenn du eingeloggt bist"
+|NoName          | 3|MindId      |  0|code        |Anzeige von Freunden, die gerade online sind
+|NoName          | 4|MindId      |  0|code        |Passwort vergessen
+
+
+Später wird diese WikiSpec als WebApp automatisiert: DoItProject.

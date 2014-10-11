@@ -1,0 +1,62 @@
+Alpha: http://doit.mindbroker.de/
+
+svn://svn.mindbroker.de/opensource/de.mindbroker.doit
+
+Wichtigste Items zuerst:
+||OrderedByShares||h||Project    || %||do       ||it
+|RainerWasserfuhr| 3|PieschenBank|  0|code      |Überweisungen
+|RainerWasserfuhr| 3|PieschenBank|  0|code      |Import von BuergerKonto
+|RainerWasserfuhr| 1|MindFee     |  0|code      |revisionbasiertes Checkout
+|RainerWasserfuhr| 3|UnserGrid   |  0|code      |automatisches BackUp
+|RainerWasserfuhr| 3|MindId      |  0|code      |automatisches BackUp
+|RainerWasserfuhr| 1|MindId      |  0|code      |Funktion für online/offline Status der user
+|RainerWasserfuhr| 1|SportWiki   |  0|installiere|JspWiki
+|RainerWasserfuhr| 1|UnserGrid   | 50|code      |MicroFormat-Status
+|DanielPoodratchi| 1|MindBroker  |  0|reviewe   |VerTrag und CommitMent
+|DanielPoodratchi| 1|DoIt        |  0|joine     |FaceBook und dort die Group MindBroker
+|DanielPoodratchi| 3|PieschenBank|  0|code      |Auktionen für WechselKurs
+|DanielPoodratchi| 4|UnserGrid   |  0|code      |MindCss
+|DanielPoodratchi| 4|AgWiki      |  0|code      |MindCss
+|DanielPoodratchi| 4|MindFloor   |  0|code      |MindCss
+|DanielPoodratchi| 4|MindHome    |  0|code      |MindCss
+|DanielPoodratchi| 4|GeoMindBroker|  0|code      |MindCss
+|DanielPoodratchi|20|MindId      |  0|code      |picUpload
+|DanielPoodratchi| 4|UnserGrid   |  0|code      |RSS Feed
+|DanielPoodratchi| 1|DoIt        |  0|frage     |Rainer zu Problem zu ContextSort (rede mit Daniel darüber)
+|DanielPoodratchi| 1|DoIt        |  0|integriere|MindLine
+|DanielPoodratchi| 4|DoIt        |  0|migriere  |Jedes Item dieser Tabelle als DoIt-Item
+|DanielPoodratchi| 4|DoIt        |  0|integriere|Seitenwechsel
+|DanielPoodratchi| 4|DoIt        |  0|erstelle  |die Seite "Konfiguration" 
+|DanielPoodratchi| 4|DoIt        |  0|integriere|export Funktion für DoIt zu iCal (ics)
+|DanielPoodratchi| 4|DoIt        |  0|integriere|Projects
+|AndreasWeigel   | 4|DoIt        |  0|integriere|bessere DetailAnsicht von den ToDos (schon besprochen)
+|AndreasWeigel   | 2|DoIt        |  0|integriere|DoJo DatePicker
+|AndreasWeigel   | 2|DoIt        |  0|erstelle  |Haken für dropDownMenüs
+|YvonneSchubert  | 3|NooPolis    |  0|tue       |YvonneRuftAn
+|YvonneSchubert  | 3|VebMind     |  0|konzipiere|DueckWiki
+|YvonneSchubert  |10|MindBrokerAg|  0|organisiere|BdCs
+|YvonneSchubert  |20|MindBrokerAg|  0|organisiere|MindSalon
+|YvonneSchubert  | 4|MindBrokerAg|  0|sortiere  |Belege
+|JuergenKohn     |99|SportWiki   |  0|vermarkte |
+|JuergenKohn     | 1|SportPortal |  0|installiere|Eclipse
+|JuergenKohn     | 2|SportPortal |  0|reviewe   |OtherLand
+|JuergenKohn     | 4|SportPortal |  0|reviewe   |VerTrag
+
+Fürs SportPortal:
+*Suche von Usern, Clubs, Teams
+*Anzeige von User, die zuletzt auf meinem Profil waren
+*Profile von Clubs
+*Profile von Teams
+*mehrere Admins von Clubs und Teams
+*Fotoalben für User, Teams und Clubs
+Für MindBrokerId:
+*message: "Du bist nicht eingeloggt" && "Auf diese Seite hast du nur Zugriff, wenn du eingeloggt bist"
+*Anzeige von Freunden, die gerade online sind
+*Passwort vergessen
+*Passwort ändern
+*Feedback geben
+
+Alternativen:
+* http://mein.todooo.com/
+* http://vitalist.com/
+* http://gopingme.com/

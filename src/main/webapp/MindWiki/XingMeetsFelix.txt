@@ -1,0 +1,4 @@
+* IsA: MindEvent
+* XingEvent: https://www.xing.com/events/dresden-xing-meets-felix-schauspielhaus-455714
+* MindPlace: FelixDresden
+* TeilNehmer: RalfLippold JensUweSauer JensOsthues MandyHelas GabrieleKontor EtAl

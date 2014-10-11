@@ -1,0 +1,10 @@
+ist MindBroker.
+
+* VorName: Katharina
+* NachName: Kühnel
+* MindId: 20
+* WohnSitz: StadtDresden
+
+||AusLand
+|[WorldWideWeb:consultrix.de]
+|[XingLe:Katharina_Kuehnel2]

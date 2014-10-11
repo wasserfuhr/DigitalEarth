@@ -1,0 +1,3 @@
+* MindTags: ProFessor
+* HomePage: http://web.fhnw.ch/personenseiten/holger.wache/
+* MindSkill: SemanticWeb

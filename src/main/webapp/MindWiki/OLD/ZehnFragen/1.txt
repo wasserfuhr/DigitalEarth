@@ -1,0 +1,7 @@
+GoTo GuteFragen.
+
+typische LifePattern darin:
+* TheQuestion
+* LebensErwartung
+* TraumPartner
+* WoZu

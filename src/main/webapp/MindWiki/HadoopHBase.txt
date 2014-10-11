@@ -1,0 +1,8 @@
+* MindTags: ProJect
+* InterWiki: [WikiPedia:HBase]
+* HomePage: http://hadoop.apache.org/hbase/
+
+DomainModel:
+Table, Region, Family, Column, Row, Cell
+
+used by PowerSet YaHoo EtAl

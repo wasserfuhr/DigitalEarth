@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Ulrich_Beck]
+* BornIn: 1944
+* BirthDay 05-15

@@ -1,0 +1,44 @@
+* SprachWelt: en
+
+Inspired by http://crnano.typepad.com/crnblog/2008/01/unreal-accelera.html :
+What could be a good measure for technological acceleration?
+
+First Suggestion: The cumulated information processing power of
+* organisms, especially
+* HuMan MiNd's and
+* silicon based systems
+
+First numbers:
+
+!1) Silicon FLOPS:
+~61m PCs in [Q2 2007|http://www.heise.de/newsticker/meldung/92967], so ~240m PCs in 2007, assuming
+10 GFLOPS [each|http://movementarian.com/2006/08/18/flops-mips-watts-and-the-human-brain/]. So
+per year ~2.500.000.000.000.000.000 FLOPS (2.5e exaFlops) are produced, doubling every 24 months.
+So in the 2050 there would be produced:
+
+|2010|        5.000.000.000.000.000.000
+|2020|      160.000.000.000.000.000.000
+|2030|    5.120.000.000.000.000.000.000
+|2040|  163.840.000.000.000.000.000.000
+|2050|5.242.880.000.000.000.000.000.000
+
+So we assume 5 yottaFlops producred in the year 2050 - and chips of the last five years still in use: so in average: 1+2+3+4+5=15 yottaFlops.
+
+Extrapolation of the TOP500: (assuming 90% increase/year)
+||Date||RPeak||FLOPS
+|2007|596 Tera  |-.---.596.400.000.000.000
+|2008|1,132 Peta|-.--1.133.160.000.000.000
+|2010|4,088 Peta|-.--4.090.707.600.000.000
+|2020|2,506 Exa| 2.508.039.932.000.000.000
+
+! 2) Human FLOPS
+||Year||People||Flops
+|2008|6.6b|?
+
+http://movementarian.com/2006/08/18/flops-mips-watts-and-the-human-brain/:
+* HansMoravec:     100.000.000.000.000 flops
+* NickBostrom: 100.000.000.000.000.000 flops
+
+So let's assume an average of 10 PFLOPS per MiNd: The UnitedNations estimates the world population to be ~9b in 2050.
+10.000.000.000.000.000 HuMan flops x 9.000.000.000 MiNd's = 90.000.000.000.000.000.000.000.000 FLOPS = 90 yottaFlops
+

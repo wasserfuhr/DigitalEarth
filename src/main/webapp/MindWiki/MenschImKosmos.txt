@@ -1,0 +1,4 @@
+* MindTags: MindBook
+* InterWiki: [WikiPedia:The_Phenomenon_of_Man]
+* IsBn: 3406455417
+* DcAuthor: TeilhardDeChardin

@@ -1,0 +1,7 @@
+* IsA: SingularityMind
+* DbLp: http://dblp.uni-trier.de/rec/pid/53/1240
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge BarneyPell
+* HomePage: http://www.barneypell.com/
+|[TwittEr:barneyp]
+|[FaceBook:504729105]

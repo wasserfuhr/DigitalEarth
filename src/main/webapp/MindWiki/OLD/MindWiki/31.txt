@@ -1,0 +1,28 @@
+The WiKi of MindBroker: http://mindbroker.de/
+
+All CitiZens of NooPolis an edit the WikiPage's of the MindWiki (JoinNow!).
+
+''Alle BuergerInnen von NooPolis können als angemeldete Nutzer Seiten bearbeiten (JoinNow!).''
+
+The MindWiki IsA semantic NeuralNetwork for:
+* the DigitalTwin, a LongTerm simulation of the MiNd of RainerWasserfuhr,
+* MindBroker as a TransParent EnterPrise,
+* the collective brain of NooPolis as a TransParent'e WikiBased digital MicroNation and 
+* the entire NooSphere.
+
+''Das MindWiki ist ein semantisches NeuralNetwork für:''
+* ''den DigitalTwin, eine langfristig im Aufbau befindliche digitale Simulation des GeHirn's von RainerWasserfuhr,''
+* ''MindBroker als GlaesernUnternehmen,''
+* ''das kollektive GeHirn für NooPolis als TransParent'e WikiBasiert'e digitale MicroNation und''
+* ''die ganze NooSphere.''
+
+Das MindWiki ist ein SemanticWiki und unterstützt strukturierte Daten in Form von
+* MindTags
+* MindProps
+* eine halbformale KunstSprache
+und einem SemanticWeb-Wrapper für jede WikiPage.
+* eine OrdNung aller WikiPage's: OntoLogy.
+
+Unser SocialGrid hostet es. Wie man auf jeder WikiPage unten links erkennt, auf Basis von JspWiki v2.8.2.
+
+RePort's.

@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BreitenGrad: 37.4231
+* LaengenGrad: -122.08521
+* BoundingBox: 300
+* NormalNull: 2718281828
+* MindSlogan: DontBeEvil

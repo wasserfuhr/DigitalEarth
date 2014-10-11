@@ -1,0 +1,15 @@
+* WorldLanguages: deutsch:MindBrokerDe, español:MensoMercado, 中文:XinLingJiaoHuan
+* MindTags: EnterPrise
+* MindOne: RainerWasserfuhr
+* SloGan: ConnectingBeautifulMinds
+
+!Welcome to MindBroker
+
+MindBroker is a virtual TransParent EnterPrise in the digital Republic of NooPolis. We study, dream, invent, create and live new concepts for virtual economies and SocialNetwork's of the next and next but one generation.
+MindBroker is a WikiBased company. Our MindWiki is not for everyone yet, but here are the first glimpses of how we work:
+* HowWeWork
+* NewsLetter
+* Main project:
+** NooSphere: a never-ending, immersive, ubiquitous, WikiBased massively multiplayer online and alternate reality game to describe the evolution of the future
+* OurHistory
+* Our WikiNode connects us to neighbour Wikis.

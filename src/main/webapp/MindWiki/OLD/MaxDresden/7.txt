@@ -1,0 +1,10 @@
+* MindTags: MindPlace
+* HomePage: http://www.max-dresden.de/
+* BoundingBox: 20
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/280111886
+
+TotalRecall:
+* 20081116:1400: RainerWasserfuhr, JeMand: MontagsKreis, AndreasPoldrack, AndreasTest, EnneaGram, DeNic, LydiaGv, TotalRecall, SpiralDynamics, WandelDruck, SimpleMinds, FutureMinds, JesusChristus, ErloeserBank, HasKissed, HasFucked, GlaesernerMensch, PolySexual
+* 20081012:1230: RainerWasserfuhr, JeMand, JeMand: TimBl, SemanticWeb, RaimarScherer, XingLe, CafeTalisman, FutureLaw, DanielMueller, MichaelSchroeder, CxCr4, CraigKriek, DresdenFutureGroup, HiddenChampion, WikiWeiber, HeinzEggert, WikiBoys, PieschenTv, SingularitySummit, RayKurzweil, LoebnerPrize, PredictionMarket, BusinessLuder, SemperOper, LydiaGv, ElbIndianer, SimpleMinds
+* 20080928: ChristineSchlinck, RainerWasserfuhr: PhaetonBallett, SaLoppe, KinderWunsch, WurfLotto
+* 20080914: ChristineSchlinck, RainerWasserfuhr: HeGa, RosenGarten, RaBr, CraigVenter, BergGarten, LouisenStrasse, PunktEins, WeltSprache, KunstSprache, SecondHalfOfTheChessboard, IntuitiveLinear, SchoeneWelten, FutureEiscafe, RfId, AnneWillSingularity, AngelaMerkel, SingularPolitician, BarackObama, BillClinton, OliverGassner, TotalRecall, PetrusMaschine, DatenSchutz, SemperOper, KunstDerFuge

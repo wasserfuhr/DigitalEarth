@@ -1,0 +1,3 @@
+* IsA: WirtsHaus
+* HomePage: http://www.duesenberg-cafe.de/
+* FourSquare: http://foursquare.com/mobile/venue/1539301

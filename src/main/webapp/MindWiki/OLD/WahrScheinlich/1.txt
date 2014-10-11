@@ -1,0 +1,6 @@
+* InterWiki: [DeWikiPedia:Wahrscheinlichkeit]
+
+Vielen Dinge, insbesondere wenn sie die ZuKunft betreffen, kann man
+nicht mit WahrHeit, sondern nur mit WahrScheinlich-keit annehmen.
+
+Ganz besonders kommt es dabei an auf die __ErWartung__.

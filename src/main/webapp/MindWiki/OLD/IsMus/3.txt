@@ -1,0 +1,34 @@
+* InterWiki: [DeWikiPedia:-ismus]
+* MindQuote: "Zu den Sachen selbst!" - EdmundHusserl
+
+In einem LifeWiki ist der IsMus ein AntiPattern, zB:
+* AchtSam'keit → AchtSam
+* AugMent'ation → AugMent
+* ConScious'ness → ConScious
+* ConSpire'acy → ConSpire
+* InVol'ution - InVol
+* Psychologie → PsyChe
+* ReFrame'ing → ReFrame
+* SelfImprove'ment → SelfImprove
+* SprechAktTheorie → SprechAkt
+* TransForm'ation → TransForm
+* TransHuman'ismus → TransHuman
+* WahrScheinlich'heit → WahrScheinlich
+
+AntiPattern:
+* -acy
+* -ation
+* -heit
+* -ing
+* -ism
+* -ismus
+* -keit
+* -logie
+* -logy
+* -ment
+* -ness
+* -ogie
+* -ogy
+* -sein
+* -tum
+* -ung

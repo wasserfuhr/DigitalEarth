@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* JahrGang: 1863
+* BirthDay: 01-16
+* PapaZwoNull: HeinrichJosefSchneider

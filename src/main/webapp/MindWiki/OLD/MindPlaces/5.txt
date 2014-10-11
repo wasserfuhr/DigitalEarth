@@ -1,0 +1,15 @@
+Bald alle Orte mit Angabe von Längen- und Breitengrad auf der MindMap:
+
+* EurOpa
+** DeutschLand
+*** StadtDresden
+**** WirkZentrum
+*** KarlsRuhe
+*** WipperFuerth
+*** HamBurg
+*** StadtBerlin
+*** StuttGart
+**** FeuerBach
+
+* UnitedStates
+** SanJose

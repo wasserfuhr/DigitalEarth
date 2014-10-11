@@ -1,0 +1,87 @@
+* HerKunft: "from Proto-Germanic *wurþiz, Proto-Indo-European *wrti-, a verbal abstract from the root *wert- "to turn" (Latin vertere), related to the Old English verb weorþan, meaning "to grow into, to become"" [WikiPedia:Wyrd]
+
+Our WikiBased calendar:
+
+(Events have a "when" and "until". Things which only have an "until" can be found at MindLine)
+
+||When        ||Until||      ||Where        ||What                    ||Who (OrderedByShares)
+|20080204     |     |        |StadtKoeln    |RosenMontagsZug          |jecke BuergerInnen
+|20080206     |     |        |StadtGenf     |lift                     |RobertScoble
+|20080207     |     |        |StadtDresden  |InfraErotik              |RainerWasserfuhr?,ChristineSchlinck?
+|20080207     |     |        |StadtGenf     |lift                     |BruceSterling
+|20080208     |     |        |StadtGenf     |lift                     |KevinWarwick
+|20080208     |     |        |StadtJena     |BarCamp                  |RainerWasserfuhr?
+|20080209     |     |        |FlowerPowerJena|RussischSalsa-Kurs      |RainerWasserfuhr?,RicardaDHerbrand?
+|20080209     |     |        |StadtJena     |BarCamp                  |RainerWasserfuhr?
+|20080210     |     |        |StadtJena     |BarCamp                  |RainerWasserfuhr?
+|20080215     |     |        |GehAcht       |-                        |RainerWasserfuhr?,ChristineSchlinck?
+|20080216     |     |        |SchauSpielHaus|BilderMann               |RainerWasserfuhr?,ChristineSchlinck?
+|20080217     |     |        |SchauSpielHaus|DresdnerReden            |RainerWasserfuhr?,ChristineSchlinck?,ElkeHeidenreich
+|20080223     |     |        |HannOver      |BarCamp                  |RainerWasserfuhr?
+|20080224     |     |        |HannOver      |BarCamp                  |RainerWasserfuhr?
+|20080224     |     |        |HamBurg       |Landtagswahl             |OleVonBeust,MichaelNaumann 
+|200802xx     |     |        |WirkZentrum   |SingularCamp             |RainerWasserfuhr,YvonneSchubert?
+|200802xx     |     |        |StadtDresden  |MindSalon                |RainerWasserfuhr
+|20080306:1400|     |        |HannoverMesse |Artgerechte Haltung von IT-Professionals|RainerWasserfuhr?GunterDueck
+|20080309     |     |        |HannOver      |EnterpriseTwoOpen        |RainerWasserfuhr?
+|20080313     |     |        |LeipZig       |WeinNamen                |RainerWasserfuhr,RicardaDHerbrand?,OliverGassner?
+|20080314:2000|     |        |ArtaeGalerie  |Anthologie               |RainerWasserfuhr?
+|200803       |     |        |StadtBerlin   |WG-Besichtigung          |RainerWasserfuhr,RicardaDHerbrand
+|20080402     |     |        |KalkScheune   |RePublica                |RainerWasserfuhr?,MarkusBeckedahl
+|20080403     |     |        |KalkScheune   |RePublica                |RainerWasserfuhr?,MarkusBeckedahl
+|20080404     |     |        |KalkScheune   |RePublica                |RainerWasserfuhr?,MarkusBeckedahl
+|20080503     |     |        |KaisersLautern|KammgarnFestival         |JulianWasserfuhr,RomanWasserfuhr,LeoSauermann?
+|20080515     |     |        |MuseumPrototyp|next08                   |SoerenStamer,MatthiasSchrader
+|20080516     |     |        |Lausanne      |GoingSolo                |StephanieBooth
+|20080601     |     |        |ZeppelinUniversity|BarCamp              |RainerWasserfuhr?,MartinKoser?
+|20080601     |     |        |Tenerife      |SemWiki2008              |RainerWasserfuhr?
+|20080825     |     |        |BlackRockDesert|BurningMan              |RainerWasserfuhr?
+|20080923     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080924     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080925     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080925     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080926     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080926     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080927     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080928     |     |        |Bayern        |Landtagswahl             |GuentherBeckstein
+|20081104     |     |        |UnitedStates  |UsElection08             |BarackObama,HillaryClinton
+|200901       |     |        |Washington    |InAuguration             |BarackObama?,HillaryClinton?
+|20090607     |     |        |EurOpa        |Wahlen                   |BuergerInnen,Citizens,CiudaDanos,Citoyens,Državljan
+
+!Was War:
+||When        ||Until||      ||Where        ||What                    ||Who (OrderedByShares)
+|20080203     |     |        |KlagenFurt    |BarCamp                  |GeorgHolzer EtAl
+|20080202     |     |        |KlagenFurt    |BarCamp                  |GeorgHolzer EtAl
+|20080201     |     |        |PentaCon      |MindSalon-Promo          |ChristineSchlinck
+|20080201:2000|     |        |BrechtHaus    |Lesung                   |EvaHorn
+|20080131:1900|     |        |AbakusBusinessCenter|KreativRunde       |
+|20080131:1111|     |        |StadtKoeln    |Höhepunkt der Säsong     |jecke BuergerInnen
+|20080131:0830|     |        |BruehlscherGarten|BusinessBrunch        |
+|20080130:1900|     |        |TaschenBerg   |WupSachsen               |
+|20080130:1300|     |        |WirkZentrum   |ReineMachFee             |RainerWasserfuhr,IngridaPlunksnyte
+|20080129:1900|     |CANCELED|TaschenBerg   |DresdenChess casting     |RainerWasserfuhr
+|20080128:2000|     |        |BailamorClub  |PhilosophischesNachtcafe |RainerWasserfuhr
+|20080128:1900|     |        |DuesselDorf   |WebMontag                |SiggiBecker
+|20080127:1530|     |        |CarolaSchloesschen|MindEyes-Briefing    |RainerWasserfuhr EtAl
+|20080127     |     |        |StilWerk      |WordCamp08               |CemBasman
+|20080126:1900|     |        |YenidzeDresden|SavitriUndSatyavan       |RainerWasserfuhr,DoreenSeidowskiFaust EtAl
+|20080126     |     |        |StilWerk      |WordCamp08               |CemBasman
+|20080126:1900|     |        |FeuerBach     |FeuerMind                |HeikeRibke +12 friends 
+|20080124:2030|     |        |PfalzTreff    |Meeting                  |RainerWasserfuhr EtAl
+|20080123:2000|     |        |LaOsteria     |Meeting                  |RainerWasserfuhr EtAl
+|20080122     |     |        |StadtMuenchen |DLD                      |HeikoHebig,HubertBurda
+|20080121:2000|     |        |CineMaxX      |Premiere DasWaisenhaus   |EtAl
+|20080121     |     |        |StadtMuenchen |DLD                      |HeikoHebig,HubertBurda
+|20080120     |     |        |StadtMuenchen |DLD                      |HeikoHebig,HubertBurda
+|20080120:1100|     |        |MesseDresden  |WirschaftsStammtisch     |EtAl
+|20080118:2000|     |        |SemperOper    |SemperOpernBall          |UdoJuergens
+|20080118:1930|     |        |AuraRaum      |PhilosophischerKlub      |JensWegerle EtAl
+|20080112:2000|     |        |DreiKoenigsKirche|RidiculousMan         |RainerWasserfuhr EtAl
+|20080112     |     |        |GrueterichEins|Feier                    |WernerWasserfuhr,AgnesWasserfuhr
+|20080108:1800|     |        |WirkZentrum   |WikiBoysZwo              |8 MindBroker
+|20080108:1500|     |CANCELED|WirkZentrum   |ReineMachFee             |RainerWasserfuhr,IngridaPlunksnyte
+|20080106:1900|     |        |Gobby         |geheimprojekt 2          |RainerWasserfuhr,MattisManzel
+|20080104:1930|     |        |AuraRaum      |PhilosophischerKlub      |RainerWasserfuhr,YvonneSchubert,JensWegerle,
+|20080101     |     |        |DeutschLand   |Feiertag                 |
+
+Former Events: WasWar.

@@ -1,0 +1,4 @@
+* IsA: MindPlace
+* NamedAfter: JensHeinrichZander HolgerKastenGrauberg
+* HomePage: http://www.zanderkasten.de/
+* PartOf: ZollHof

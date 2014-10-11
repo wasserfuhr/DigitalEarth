@@ -1,0 +1,23 @@
+* InterWiki: [WikiPedia:Domain_model] [WikiWikiWeb:DomainModel]
+
+Most MindBroker WebApp's have a DomainModel based on HibernateAnnotations.
+
+DomainModel of the PieschenBank:
+
+[{Image src='http://docs.google.com/present/drawing?id=dctbcwbg_556fx9s3cqb&revision=dctbcwbg_556fx9s3cqb:16&drawingId=sl_SGwYvNqvDpdJ0Sk4SiEg&rev=141&w=522'}]
+
+[source|http://docs.google.com/present/edit?id=dctbcwbg_556fx9s3cqb], created first with SQuirreL and now with a GoogleDoc.
+
+* BankAccount
+** amount
+** fbId // tricky
+** mindId //
+
+* PayMent
+** amount : double
+** date
+** text
+** sender --> BankAccount
+** receiver --> BankAccount
+** procurer --> BankAccount //must actually be a
+** derbyId // historical IDs from the ApacheDerby import

@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* InterWiki: [WikiPedia:Vint_Cerf], [WikiWikiWeb:VintCerf]
+* BirthDay: 06-23
+* MindSkill: InterNet

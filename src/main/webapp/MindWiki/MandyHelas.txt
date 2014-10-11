@@ -1,0 +1,9 @@
+* IsA: CitiZen
+* InvitedBy: RalfLippold
+* MindId: 42
+* HomeStead: StadtDresden
+* HomePage: http://www.mandyhelas.de/
+* MindSkill: GeSund
+|[XingLe:Mandy_Helas]
+|[TwittEr:mandyhelas]
+|[YouTube:mandyhelas]

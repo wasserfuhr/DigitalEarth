@@ -1,0 +1,4 @@
+RainerWasserfuhr 1995 bei ThomasDeiss und ProFessor KlausMadler: DA.tex: 
+
+\title{Spezifikationstechniken eingebetteter Systeme-\\
+"Ubersicht und Verifikationsprobleme}

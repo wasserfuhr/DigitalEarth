@@ -1,0 +1,3 @@
+* MindTags: MindPeople
+* InterWiki: [WikiWikiWeb:RobertDietze]
+* HasTalked: MartinRoell RainerWasserfuhr

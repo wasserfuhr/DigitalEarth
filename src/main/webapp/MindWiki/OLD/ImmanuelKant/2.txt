@@ -1,0 +1,6 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Immanuel_Kant], [OpenCyc:ImmanuelKant]
+* JahrGang: 1724
+* BirthDay: 04-22
+* LebensEnde: 1804
+* MindSkill: MindEyes, OrdNung

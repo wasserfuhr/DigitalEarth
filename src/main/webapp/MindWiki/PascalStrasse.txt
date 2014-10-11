@@ -1,0 +1,3 @@
+* MindTags: MindPlace
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/4409714
+* NamedAfter: BlaisePascal

@@ -1,0 +1,12 @@
+* HomePage: http://www.virtuellesparlament.de/
+* MindOne: KlausNicolai
+* MitWirkende: SvenDaemmig SebastianDrichelt ThomasDumke SteffenHoenig
+
+BuergerBeteiligung
+
+||ComPare      ||ViPa  ||NooPolis
+|VirtualEconomy|-      |KayGroschen
+|Join          |IhMail |by Invitation
+|              |-      |VerFassung
+|Languages     |LangDe |LangDe LangEn
+|Legislation   |       |WikiBased

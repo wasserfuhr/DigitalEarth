@@ -1,0 +1,11 @@
+* IsA: PerSon
+* JahrGang: 1937
+* BirthDay: 02-02
+* WohnSitz: SanFrancisco
+* HasTalked: MilosForman TomHulce JeffStryker RosaVonPraunheim KarenWitter StephanHeller
+* MindSkill: HairCut
+|[FaceBook:1342190045]
+|[FlickEr:27825147@N08]
+|[YouTube:KarlHeinzTeuber]
+
+http://www.imdb.com/name/nm0856604/

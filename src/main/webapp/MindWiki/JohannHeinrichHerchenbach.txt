@@ -1,0 +1,8 @@
+* MindTags: MindPeople
+* JahrGang: 1687
+* BirthDay: 10-05
+* PapaZwoNull: JohannHeinrichHerchenbach2
+* MamaZwoNull: AnnaBarbaraSchroeder 
+* LebensEnde: 1773
+
+SchneiderMuch: 11609

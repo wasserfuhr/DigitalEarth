@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/MichaelSchroeder
+* HomePage: http://www.biotec.tu-dresden.de/schroeder
+* MindSkill: SemanticWeb BioMind
+* PageNumber: 10
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach MichaelRichter HaroldBoley FrancoisBry MichaelSchroeder

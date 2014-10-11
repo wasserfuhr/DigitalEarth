@@ -1,0 +1,6 @@
+* IsA: PerSon
+* BornIn: 1951
+* ViAf: http://viaf.org/viaf/47666388
+* HomePage: http://www.jamin.de/
+* MindSkill: PeterHandke
+|[XingLe:Peter_Jamin2]

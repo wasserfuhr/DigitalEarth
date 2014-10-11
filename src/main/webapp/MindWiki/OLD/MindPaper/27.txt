@@ -1,0 +1,77 @@
+ReCent'ly studied:
+
+ToDo:
+* http://dblp.uni-trier.de/rec/bibtex/journals/ws/GuoPH05 YuanboGuo ZhengxiangPan JeffHeflin LuBm
+* Survival as a Digital Ghost
+** Eric Steinhart
+** DOI: 10.1007/s11023-007-9068-0
+* MustAllMathematiciansBePlatonists
+** http://www.inf.fu-berlin.de/inst/pubs/tr-b-98-03.abstract.html
+** DcAuthor: MatthiasEichhoff GeraldWeber
+** HotTopics: MrPlato RogerPenrose
+
+2010-06-17: p 41-46: DiscoverYourStrengths
+
+2010-06-16: p 6-41: DiscoverYourStrengths
+
+2010-06-06: p 0-6: DiscoverYourStrengths
+
+2010-02-28
+* http://www.w3.org/TR/owl-semantics/rdfs.html
+** DcAuthor: PeterPatelSchneider PatHayes IanHorrocks
+** HotTopics: WebOntologyLanguage
+2010-02-27
+* InteliGrid Deliverable D31: Ontology Specification, The InteliGrid Consortium, c/o University of Ljubljana, www.InteliGrid.com.
+** AlexanderGehre PeterKatranuschkov JeffreyWix JakobBeetz
+** DownLoad: http://publication.web529.serverdrome.eu/20060412_D31%20Ontology%20Specification_v1.0_TUD_final.pdf
+* -
+** Towards a topological reasoning service for IFC-based building information models in a Semantic Web context. IcCcbe 2006
+** JakobBeetz JosVanLeeuwen BaukeDeVries 
+** DownLoad: http://www.ddss.nl/downloadPublication.php?ID=558
+** HotTopics: 
+
+2010-02-12
+* http://dblp.uni-trier.de/rec/bibtex/books/sp/staabS2004/GuarinoW04
+** DcAuthor: NicolaGuarino ChristopherAWelty 
+** HotTopics: OntoClean OntoLogy KindOf WillardVanOrmanQuine
+
+20100210
+* http://dblp.uni-trier.de/rec/bibtex/conf/miccai/SherbondyDAMW09
+** DcAuthor: DharmendraModha EtAl
+** DownLoad: http://www.modha.org/C2S2/2009/11182009/content/MICCAI_BlueMatter.pdf
+* http://dblp.uni-trier.de/rec/bibtex/journals/informaticaSI/DolencKTKK08
+** DcAuthor: MatevzDolenc RobertKlinc ZigaTurk PeterKatranuschkov KrzysztofKurowski
+** HotTopics: InteliGrid ToCee IstForce IslandsOfAutomation
+
+20100206
+* http://dblp.uni-trier.de/rec/bibtex/conf/semco/BouquetSNM08
+** DcAuthor: PaoloBouquet HeikoStoermer ClaudiaNiederee AntonioMana
+** HotTopics: EntityNameSystem
+** ComMent: not clear how the OntoLogy will be managed nor how. Suggestion: first concentrate on a representation of the authors of entities __as__ entities.
+ 
+20100205
+* http://tw.rpi.edu/wiki/Scalable_Reduction_of_Large_Datasets_to_Interesting_Subsets
+** DcAuthor: JimHendler
+** HotTopics: EnTail
+
+20100202:
+* https://wiki.imise.uni-leipzig.de/Gruppen/OBML/Workshops/2009/
+** DcTitle Linked Data for the Life Sciences
+** DcAuthor: SoerenAuer
+
+20100121:
+* http://dblp.uni-trier.de/rec/bibtex/conf/semweb/GravesAH08
+** DcAuthor: AlvaroGraves SibelAdali JimHendler
+** HotTopics: MindPath RdF
+
+20100116:
+* http://dblp.uni-trier.de/rec/bibtex/conf/agi/GoertzelP08
+** DcAuthor: BenGoertzel
+* http://dblp.uni-trier.de/rec/bibtex/conf/IEEEicci/Goertzel09a
+** DcAuthor: BenGoertzel
+** HotTopics: OpenCog
+
+20100112
+* http://dblp.uni-trier.de/rec/bibtex/conf/semweb/AuerLH09
+** DcAuthor: SoerenAuer JensLehmann SebastianHellmann
+** HotTopics: LinkedGeoData CafeBliebig AltMensa FrauenKirche

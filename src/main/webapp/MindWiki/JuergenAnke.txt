@@ -1,0 +1,12 @@
+* IsA: PerSon
+* MindId: 117
+* InvitedBy: RainerWasserfuhr
+* DbLp: http://dblp.uni-trier.de/rec/pid/34/1197
+* WohnSitz: StadtDresden
+* MindSkill: RfId
+* PageNumber: 11
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach TheoHaerder HartmutWedekind WolfgangLehner GregorHackenbroich JuergenAnke
+|[XingLe:Juergen_Anke]
+|[SkyPe:juergen_anke]
+|[FaceBook:683796158]
+|[TwittEr:juan78]

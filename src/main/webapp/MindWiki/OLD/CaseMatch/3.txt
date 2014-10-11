@@ -1,0 +1,39 @@
+CoIns
+GraDiva
+EurOpa
+AggRo
+LoHaS
+PEqNp
+SeeBenisch
+ColLaboration
+
+{{{
+  public static void main(String[] args) throws IOException {
+	InputStream s = ClassLoader.getSystemResourceAsStream("mind/RaWa.txt");
+	int b;
+	while((b=s.read())>=0) {
+		System.out.write(b);
+	}
+ }
+}}}
+
+{{{
+(fn [request response]
+ (let [noop (.setContentType response "text/html; charset=UTF-8")]
+(str
+"<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv='content-type' content='text/html; charset=utf-8'>"
+  (org.apache.commons.io.IOUtils/toString
+   (.getResourceAsStream (clojure.lang.RT/baseLoader) "mind/RaWa.txt") "UTF-8"))))
+}}}
+
+{{{
+ <!--  for org.apache.commons.io.IOUtils --> 
+ <dependency>
+  <groupId>commons-io</groupId> 
+  <artifactId>commons-io</artifactId> 
+  <version>2.0</version> 
+ </dependency>
+}}}

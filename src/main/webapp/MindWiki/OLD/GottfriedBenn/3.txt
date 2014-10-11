@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Gottfried_Benn]
+* BornIn: 1886
+* BirthDay: 05-02
+* DiedIn: 1956

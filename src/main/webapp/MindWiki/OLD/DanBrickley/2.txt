@@ -1,0 +1,3 @@
+* IsA: PerSon
+* FoAf: http://danbri.org/foaf.rdf
+|[TwittEr:danbri]

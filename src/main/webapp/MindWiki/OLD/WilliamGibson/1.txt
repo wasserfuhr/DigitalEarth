@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* InterWiki: [CommunityWiki:WilliamGibson], [DeWikiPedia:William_Gibson], [MeatballWiki:WilliamGibson], [OpenCyc:WilliamGibson], [WebSeitz:WilliamGibson], [WikiWikiWeb:WilliamGibson]
+* JahrGang: 1948
+* BirthDay: 03-17
+* MindSkill: SciFi

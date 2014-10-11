@@ -1,0 +1,8 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Neustadt], [DeWikiPedia:Ortsamtsbereich_Neustadt_(Dresden)]
+* BreitenGrad: 51.066
+* LaengenGrad: 13.748
+* BoundingBox: 2000
+
+TotalRecall:
+* 20080912: EnErgie, NooPhant, HiltonDresden, DerAugenblick, KloGo, LuxorChess, ReverseGo, TheMatrix, RedBlueGame, PatternRecognition, InFer, DasExperiment, GameOfLife, ComputerGo, LongBetOne, FutureMap, MindCube, LifeNaut, MartineRothblatt, PuffCafe, DigiZen, PiFilm, GoSeigen

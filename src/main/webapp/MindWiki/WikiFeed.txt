@@ -1,0 +1,5 @@
+Dieses Wiki hat einen XML-Feed im RSS-Format: [http://spoooort.de:8088/spotwiki/rss.rdf]
+
+Denn kann mit einem FeedReader und bekommt dann automatisch mit, wenn sich etwas hier geändert hat.
+
+RainerWasserfuhr und DanielPoodratchi nutzen http://bloglines.com als FeedReader. Kostenlos und ziemlich praktisch.

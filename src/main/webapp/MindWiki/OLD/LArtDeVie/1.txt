@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* HomePage: http://www.l-art-de-vie.de/restaurant/
+
+SemanticBrunch: Sonntags __nicht__ wie auf der HomePage angegeben 16:00, sondern nur bis 14:00!

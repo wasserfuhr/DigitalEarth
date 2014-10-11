@@ -1,0 +1,4 @@
+* IsA: PerSon
+* MarriedTo: ManuelaAmann
+* HasTalked: RainerWasserfuhr
+|[XingLe:Gerhard_Amann3]

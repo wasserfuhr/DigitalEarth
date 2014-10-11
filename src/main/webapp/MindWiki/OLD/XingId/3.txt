@@ -1,0 +1,8 @@
+Sowas wie der PrimaryKey. Wenn man bei XingLe eingeloggt ist, findet man den unter [https://www.xing.com/app/invite?op=link]
+
+Bei RainerWasserfuhr steht da:
+* http://www.xing.com/go/invita/752
+
+Also ist XingId=752.
+
+Dürfte sich auch dann nicht ändern, wenn man nach dem KnieFall zum EheVertrag kommt und sich der Nachname vom TraumPartner ändert.

@@ -1,0 +1,6 @@
+* HerKunft: "minus-teros: der Geringere, der Untergebene"
+* IstEin: MindPeople
+* InterWiki: [DeWikiPedia:Minister]
+* RdfClass: http://xmlns.com/foaf/0.1/#Person
+
+via CabiNetElection

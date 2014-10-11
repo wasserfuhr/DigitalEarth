@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* HomePage: http://www.living-gastro.de/
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.050273&lon=13.740581&zoom=18&layers=B000FTT ToDo
+
+TotalRecall:
+* 20090212:2130: RainerWasserfuhr, JeMand, JeMand: ErnemannTurm, WachAuf

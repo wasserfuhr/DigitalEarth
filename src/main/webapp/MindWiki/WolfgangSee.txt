@@ -1,0 +1,3 @@
+* IsA: MindLake
+* NamedAfter: StWolfgang
+* InterWiki: [DeWikiPedia:Wolfgangsee]

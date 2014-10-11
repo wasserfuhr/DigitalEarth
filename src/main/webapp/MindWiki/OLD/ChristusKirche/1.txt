@@ -1,0 +1,5 @@
+* IsA: GottesHaus
+* HomePage: http://www.christuskirche-dresden.de/
+* NamedAfter: JesusChrist
+* MindOne: MatthiasSchmidt
+* NearBy: AnDerChristuskirche

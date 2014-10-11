@@ -1,0 +1,3 @@
+* IsA: PerSon
+* HomePage: http://www.christianekarg.com/
+* MindSkill: MindMusic

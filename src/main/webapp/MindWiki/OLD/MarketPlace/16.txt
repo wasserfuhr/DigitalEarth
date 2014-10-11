@@ -1,0 +1,42 @@
+Dinge die BuergerInnen beim Aufbau von NooPolis und anderen UnterNehmen tun können:
+
+(Willst Du selbst Dienstleistungen anbieten? JoinNow!)
+
+|| ||h[1]||ProJect   ||KayGroschen||do[2]||it[2]
+| | 20|LockSchuppenAg|20000|designe   |erstes LockSchuppen3D-Modell
+| | 20|LockSchuppenAg|20000|baute     |LockSchuppen-Modell aus Pappe oder Gips
+| | 20|LockSchuppenAg|20000|mache     |genauere BauKosten-Schätzung
+| | 20|LockSchuppenAg|20000|mache     |genauere BauProzess-Beschreibung
+| |  4|NooPolis      | 2000|übersetze |VerFassung und andere wichtige WikiPage's im MindWiki in andere WeltSprache'n
+| |  4|MindId        |    0|code      |PassWord revocery
+| |  4|MindId        |    0|design    |a separate FavIcon for WikiPediaUser and DeWikiPediaUser
+| |  4|MindId        |    0|add       |a FavIcon for other InstantMessaging services
+| | 50|MindId        |    0|do        |SecurityAudit for SocialBackup and SocialPassword
+| |  6|MindId        |    0|code      |message: "Du bist nicht eingeloggt",
+| |  4|InBox         |    0|code      |Messages senden
+| |  4|MindWiki      |    0|design    |MindLogo
+| |  4|MindWiki      |    0|design    |FavIvon
+| |  6|MindId        |    0|code      |message: "Auf diese Seite hast du nur Zugriff, wenn du eingeloggt bist"
+| |  3|MindId        |    0|code      |Anzeige von Freunden, die gerade online sind
+| |  4|MindHome      |    0|code      |MindCss
+| |  4|GeoMindBroker |    0|code      |MindCss
+| |  1|DoItProject   |    0|integriere|MindLine
+| |  4|DoItProject   |    0|migriere  |Jedes Item der DoIt-Tabelle als Item
+| |  4|DoItProject   |    0|integriere|Seitenwechsel
+| |  4|DoItProject   |    0|erstelle  |die Seite "Konfiguration"
+| |  4|DoItProject   |    0|integriere|export Funktion für DoIt zu iCal (ics)
+| |  4|DoItProject   |    0|integriere|Projects
+| |  4|DoItProject   |    0|integriere|bessere DetailAnsicht von den ToDos (schon besprochen)
+| |  2|DoItProject   |    0|integriere|DoJo DatePicker
+| |  2|DoItProject   |    0|erstelle  |Haken für dropDownMenüs
+| |  4|UnserGrid     |    0|code      |RSS Feed
+| | 10|MindBroker    |    0|organisiere |BdCs
+| | 90|NooPolis      |    0|organisiere |DresdenChess
+| | 50|NooPolis      |    0|organisiere |MindSalon
+| |0,5|ThomasKujawa  |  500|erkläre   | PoolReinigung (bzw. GegenWert in EuRo)
+| |./.|ThomasKujawa  |    ?|liefere   | EinPoken
+| |  ?|MindWiki      |     |ändere    | unterschiedliches Erscheinungsbild von www.mindbroker.de und mindbroker.de (ThomasKujawa zahlt mind. 200 KayGroschen)
+| |  ?|MindWiki      |     |ändere    | linke (Navigations)spalte auf 234px (ThomasKujawa zahlt mind. 200 KayGroschen)
+| | |FamilienFreund|2000 |ändere | die .htaccess so, das ein bestimmter IP-Range auf eine spezielle Seite umgeleitet wird
+* [#1] estimated hours efforded - for negotiate with the bidder
+* [#2] the VerbThing-LifePattern

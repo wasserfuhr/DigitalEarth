@@ -1,0 +1,13 @@
+Der nominale Wechselkurs gibt an, in welchem Verhältnis KayGroschen gegen Euro getauscht werden können. 
+
+Dieser Wechselkurs ist flexibel und wird durch Angebot und Nachfrage bestimmt. 
+
+
+
+
+
+Der AnfangsKurs wird mit der Gründung von Noopolis festgelegt auf 
+
+
+
+1 KayGroschen entsprechen 0,05 EuroCent.

@@ -1,0 +1,10 @@
+Wenn Du eine neue Seite im MindWiki anlegen willst:
+
+1. Einfach in Deinem LogIn anmelden.
+
+2.
+  http://mindbroker.de/wiki/NeueSeite 
+
+eingeben, wobei Du "NeueSeite" durch den gewünschten neuen CamelCase-Namen ersetzt, und dann auf "Edit page" clicken.
+
+Hintergrund: [WikiWikiWeb:GoodUrl]

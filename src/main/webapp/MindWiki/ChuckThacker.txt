@@ -1,0 +1,9 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Charles_P._Thacker]
+* DbLp: http://dblp.uni-trier.de/rec/pid/58/4470
+* PageNumber: 12
+* PagePath: LarryPage TerryWinograd NorbertStreitz WendyHall JimHendler WolfgangWahlster ArminBCremers MartinBreunig FlorianMatthes LucaCardelli MartinAbadi AndrewBirrell ChuckThacker
+
+PaRc
+
+DbLpBug: http://dblp.uni-trier.de/rec/pid/45/6441

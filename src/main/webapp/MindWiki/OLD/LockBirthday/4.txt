@@ -1,0 +1,12 @@
+* IsA: MindEvent
+
+1. BirthDay of LockSchuppen
+
+BrainStorm: AgrarHemd CadHackDay DresdenChess DresdenInnovationNight FrozenDresden FutureTram GoogleFluse NacktAufAnJa ParteienDigital PuffCafe SingularCamp StartUpSaxony TranscendentMan WikiTableDinner XiNao
+
+||            ||SoRo||RaLi||RaWa
+|CadHackDay   |     |**   |****
+|DresdenChess |     |***  |***
+|GoogleFluse  |     |*****|****
+|OccDd        |**** |*****|***
+|UndSonstSo   |*****|*****|****

@@ -1,0 +1,4 @@
+||Name     ||Ab ||Blöde Popups||CoolURIs||OpenSource
+|finya.de  |200?|ja           |nein     |nein
+|neu.de    |200?|nein         |ja       |nein
+|MindBroker|2009|nein         |ja       |ja

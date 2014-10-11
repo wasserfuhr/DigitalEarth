@@ -1,0 +1,4 @@
+
+TineUrl's by GoogleInc
+
+WaveGadget: http://haru1ban-wave.googlecode.com/svn/trunk/goo_gl/goo_gl.xml

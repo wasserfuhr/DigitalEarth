@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Hans_Werdehausen]
+* BornIn: 1910
+* BirthDay: 02-05
+* ViAf: http://viaf.org/viaf/62455355

@@ -1,0 +1,59 @@
+* InterWiki: [WikiPedia:EtherPad]
+* HomePage: http://etherpad.com/
+
+DisRupt'ive pre-GoogleWave technology by AppJet:
+
+!!NEWS [EtherPad moves to GoogleInc|http://etherpad.com/ep/blog/posts/google-wave-joins-etherpad]
+
+||MindWiki          ||SprachWelt||EtherPad||
+|                   |LangDe|[EtherPad:2010-02-22-LockSession]|
+|WorkZwoNull        |LangDe|[EtherPad:2010-03-04-Work20]    |
+|AgenturFuerArbeit  |LangDe|[EtherPad:AgenturFuerArbeit]    |Anfrage, 1.600 EntrePreneur'e in der StadtDresden zusammenzubringen
+|AnneWillSingularity|LangDe|[EtherPad:AnneWillSingularity]  |
+|                   |LangDe|[EtherPad:Arbeitstaettenrichtlinie-CoWorking]|Eventuelle Anwendung der Arbeitsstaettenrichtlinie auf CoWorking Spaces
+|BirthGivingProcess |LangEn|[EtherPad:BirthGivingProcess]   |process of team consulting as done by TeamAcademy
+|                   |LangDe|[EtherPad:coworking-hackday]    |
+|                   |LangDe|[EtherPad:CoWorkingMeiningenBusinessCase]|
+|                   |LangDe|[EtherPad:coworkingmeiningenkultur]|
+|                   |LangEn|[EtherPad:CoWorkingPlace]       |
+|                   |LangEn|[EtherPad:CoworkVisitingTour]   |in BostonMa, NewYork, PhilAdelphia, CapeCod
+|                   |LangEn|[EtherPad:CoWorkVisitQuestions] |
+|CreoSphere         |LangDe|[EtherPad:Creosphaere-FutureSAX2009]|
+|CreoSphere         |LangDe|[EtherPad:Creosphere-FutureSAX-PhaseII]|
+|DistanzSpiel       |LangDe|[EtherPad:DistanzSpiel]         |
+|                   |LangDe|[EtherPad:DresdenExistsIdeenwettbewerb]|Ideenwettbewerb von DresdenExists
+|DresdenInnovationNight|LangDe|[EtherPad:DresdenInnovationNight]|Treffen von StartUp's zur Vorstellung innovativer Produkte und Konzepte
+|MetRo              |LangDe|[EtherPad:DresdenMetroNetz112009]|CrowdSourced data of DvbAg for MetRo
+|                   |LangDe|[EtherPad:FauxPas]              |
+|                   |LangDe|[EtherPad:FutureSchnaeppchen]   |
+|HelmaWave          |LangEn|[EtherPad:HelmaWave]            |
+|IdentityWars       |LangEn|[EtherPad:IdentityWars]         |
+|                   |LangDe|[EtherPad:jeanxd]               |
+|LandMatrosen       |LangDe|[EtherPad:LandMatrosen]         |
+|LangFr             |LangFr|[EtherPad:LangFr]               |
+|                   |LangEn|[EtherPad:LockDynamics]         |
+|                   |LangEn|[EtherPad:LockProject_100Bikes] |Bringing a new company on the market, CrowdConsulting
+|                   |LangEn|[EtherPad:LockSchuppenBusinessModel|
+|                   |LangDe|[EtherPad:LockSchuppen]         |Erster Briefentwurf für LockSchuppen-Anmietung
+|                   |      |[EtherPad:LockSchuppenFuture]   |Die Zukunft des LockSchuppen's - noch ist die Leinwand leer und weiß, German/ English)
+|                   |LangDe|[EtherPad:LockSchuppenFutureSax2009]|Einreichung LockSchuppen FutureSax 2009, 1. Phase
+|                   |LangEn|[EtherPad:LockSchuppenSurvey]   |adapting a survey of the http://pbworks.coworking.com; English)
+|                   |LangDe|[EtherPad:LockSchuppenTippingPoint]|when will LockSchuppen run on its own?
+|                   |LangDe|[EtherPad:LockSchuppenVisit-20090904]|PresencingStatus / MotorOla nach LockSchuppenVisit
+|                   |LangDe|[EtherPad:LockSz]
+|LockVorgehen       |      |[EtherPad:LockVorgehen]         |Planung künftiger LockSchuppenTalk's
+|                   |      |[EtherPad:NooPolis]             |BusinessPlan des LockSchuppen's
+|TiimiAkatemia      |LangFi|[EtherPad:MaKh8rPVdm]           |
+|CoWorkingTreffen   |LangDe|[EtherPad:nsZqN2ZSMh]           |
+|                   |LangEn|[EtherPad:PrototypingCoWorking] |How do you see CoWorking and benefits/ misfits to your life concept?
+|RkwDresden         |LangDe|[EtherPad:20100308-RkwStadtDresden] |Terminanfrage für 2010-03-15, Kreativwirtschaftsinitiativen
+|SingularPlayboy    |LangDe LangEn|[EtherPad:SingularPlayboy]|
+|SlUb               |LangEn|[EtherPad:SlUb]                 |SingularAcademy
+|SmForFounders      |LangDe|[EtherPad:SmForFounders]        |
+|                   |      |[EtherPad:TED-RayKurzweil-SingularityUniversity]|German-English
+|WasTreibtDenLockSchuppen|LangDe|[EtherPad:WasTreibtDenLockSchuppen]          |
+|                   |LangDe|[EtherPad:WerKenntWen]          |
+|                   |LangEn|[EtherPad:WNBdL0vd6Z]           |LockChallenge in cooperation with TeamAcademy's team CashMir
+|WorkZwoNull        |LangDe|[EtherPad:work20workshop]       |
+|WorkZwoNull        |LangDe|[EtherPad:Work220100224]        |
+|                   |LangDe|[EtherPad:ZuKunft]              |Wie wir uns dem Jahr 2056 annähern

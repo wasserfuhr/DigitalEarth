@@ -1,0 +1,217 @@
+* IsA: WikiEngine
+* HomePage: http://www.jspwiki.org/
+* MindOne: JanneJalkanen
+
+CamelCase:
+{{{
+ [[:upper:]]+[[:lower:]]+[[:upper:]]+[[:alnum:]]*
+}}}
+[*|http://svn.apache.org/repos/asf/incubator/jspwiki/trunk/src/com/ecyrd/jspwiki/parser/JSPWikiMarkupParser.java]
+
+Patches für MindId, bezogen auf JSPWiki v2.4.82: 
+
+!/Logout.jsp:
+{{{
+  session.removeAttribute("wikiName");
+}}}
+
+!/Edit.jsp:
+{{{
+   String user = (String) session.getAttribute("wikiName");//wikiSession.getUserPrincipal().getName();
+    if ( "save".equals( request.getParameter( "action" ) ) &&
+         session.getAttribute("wikiName")  == null ) {
+      return;
+    }
+}}}
+
+!/IdLogin.jsp:
+{{{
+<%
+  session.setAttribute("wikiName",request.getParameter("wikiName"));
+  response.sendRedirect("/wiki/"+request.getParameter("wikiTarget"));
+%>
+}}}
+
+
+!/ViewTemplate.jsp
+{{{
+  <div id="applicationlogo">
+    <a href="/">
+    MindBroker</a><br/>
+    <small style="font-size:60%; font-weight:normal; padding-left:40px;">connecting beautiful minds</small>
+    </a>
+  </div>
+}}}
+{{{
+<%
+String r=request.getPathTranslated();
+String w="MindBroker";
+if ( r!=null && r.lastIndexOf('/') > 0)  {
+  w=r.substring(r.lastIndexOf('/')+1);
+}
+String ret="";
+for (int i=0; i<w.length(); i++) {
+  if ( w.charAt(i) >= 'A' && w.charAt(i) <= 'Z') {
+    ret+=" ";
+  }
+  ret=ret+w.charAt(i);
+}
+%>
+  <title><wiki:Variable var="applicationname" />: <wiki:PageName /> (f&uuml;r JederMann: <%=ret%>)</title>
+}}}
+
+
+
+!/templates/default/PageActions.jsp
+{{{
+    <% if (session.getAttribute("wikiName")!=null ) { %>
+      <span>
+        <a href="http://mindbroker.de/wiki/<%=session.getAttribute("wikiName")%>"><%=session.getAttribute("wikiName")%></a>
+      </span>
+   <% } else { %>
+      <span>
+        <a href="http://id.mindbroker.de/?wikiTarget=<wiki:PageName/>">Log In</a>
+      </span>
+   <% } %>
+}}}
+
+
+deleted: 
+{{{
+
+    <wiki:UserCheck>
+      ...
+    </wiki:UserCheck>
+}}}
+
+!jspwiki.properties
+{{{
+jspwiki.applicationName = MindBroker
+jspwiki.pageProvider = VersioningFileProvider
+jspwiki.usePageCache = true
+jspwiki.fileSystemProvider.pageDir = /home/insider/wiki/
+#jspwiki.workDir =
+jspwiki.attachmentProvider = BasicAttachmentProvider
+jspwiki.basicAttachmentProvider.storageDir = /home/insider/wiki-files/
+#  jspwiki.basicAttachmentProvider.disableCache = .*\.xls|.*\.doc
+#jspwiki.attachment.maxsize=100000
+#jspwiki.attachment.allow=.png .jpg .zip .jar
+#jspwiki.attachment.forbid=.html .htm .php .asp .exe
+jspwiki.diffProvider = TraditionalDiffProvider
+jspwiki.baseURL=http://insider.mindbroker.de/
+jspwiki.referenceStyle=relative
+jspwiki.encoding = UTF-8
+jspwiki.translatorReader.allowHTML = false
+jspwiki.breakTitleWithSpaces = true
+jspwiki.translatorReader.matchEnglishPlurals = false
+jspwiki.translatorReader.camelCaseLinks = true
+jspwiki.templateDir = default
+jspwiki.defaultprefs.template.skinname =PlainVanilla
+jspwiki.defaultprefs.template.dateformat =dd-MMM-yyyy HH:mm
+jspwiki.defaultprefs.template.timezone =GMT+01:00
+jspwiki.defaultprefs.template.orientation =fav-left
+#jspwiki.defaultprefs.template.editor =plain
+jspwiki.frontPage = MindBroker
+jspwiki.translatorReader.useOutlinkImage = true
+jspwiki.lockExpiryTime = 60
+jspwiki.searchProvider = LuceneSearchProvider
+#jspwiki.lucene.analyzer = org.apache.lucene.analysis.standard.StandardAnalyzer
+jspwiki.specialPage.CreateGroup = NewGroup.jsp
+jspwiki.specialPage.FindPage = Search.jsp
+jspwiki.specialPage.Login = Login.jsp
+jspwiki.specialPage.NewGroup = NewGroup.jsp
+jspwiki.specialPage.UserPreferences = UserPreferences.jsp
+jspwiki.plugin.searchPath =
+#jspwiki.filterConfig = /some/path/to/your/filters.xml
+#jspwiki.urlConstructor = DefaultURLConstructor
+jspwiki.urlConstructor = ShortViewURLConstructor
+jspwiki.shortURLConstructor.prefix = wiki/
+#jspwiki.renderingManager.useCache = false
+jspwiki.authorizer = com.ecyrd.jspwiki.auth.authorize.WebContainerAuthorizer
+jspwiki.groupdatabase = com.ecyrd.jspwiki.auth.authorize.XMLGroupDatabase
+#jspwiki.xmlGroupDatabaseFile = /etc/tomcat/groupdatabase.xml
+jspwiki.userdatabase = com.ecyrd.jspwiki.auth.user.XMLUserDatabase
+#jspwiki.xmlUserDatabaseFile = /etc/tomcat/userdatabase.xml
+#jspwiki.userdatabase = com.ecyrd.jspwiki.auth.user.JDBCUserDatabase
+#jspwiki.userdatabase.isSharedWithContainer = false
+jspwiki.aclManager          = com.ecyrd.jspwiki.auth.acl.DefaultAclManager
+jspwiki.interWikiRef.JSPWiki = http://www.jspwiki.org/wiki/%s
+jspwiki.interWikiRef.Edit = Edit.jsp?page=%s
+
+
+#      jspwiki.translatorReader.inlinePattern.1 = *.jpg
+#      jspwiki.translatorReader.inlinePattern.2 = *.png
+#      jspwiki.translatorReader.inlinePattern.3 = http://images.com/*
+jspwiki.rss.generate = true
+#jspwiki.rss.fileName = rss.rdf
+jspwiki.rss.interval = 3600
+jspwiki.rss.channelDescription = MindBroker wiki
+jspwiki.rss.channelLanguage = en-us
+#jspwiki.diffCommand = diff -u %s1 %s2
+#jspwiki.rcsFileProvider.checkinCommand = ci -q -mx -l -t-none %s
+#jspwiki.rcsFileProvider.checkoutCommand = co -l %s
+#jspwiki.rcsFileProvider.checkoutVersionCommand = co -p -r1.%v %s
+#jspwiki.rcsFileProvider.logCommand = rlog -zLT -h %s
+#jspwiki.rcsFileProvider.fullLogCommand = rlog -zLT %s
+jspwiki.userdatabase.datasource=jdbc/UserDatabase
+jspwiki.userdatabase.table=users
+jspwiki.userdatabase.email=email
+jspwiki.userdatabase.fullName=full_name
+jspwiki.userdatabase.loginName=login_name
+jspwiki.userdatabase.password=password
+jspwiki.userdatabase.wikiName=wiki_name
+jspwiki.userdatabase.created=created
+jspwiki.userdatabase.modified=modified
+jspwiki.userdatabase.roleTable=roles
+jspwiki.userdatabase.role=role
+jspwiki.groupdatabase.datasource=jdbc/GroupDatabase
+jspwiki.groupdatabase.table=groups
+jspwiki.groupdatabase.membertable=group_members
+jspwiki.groupdatabase.created=created
+jspwiki.groupdatabase.creator=creator
+jspwiki.groupdatabase.name=name
+jspwiki.groupdatabase.member=member
+jspwiki.groupdatabase.modified=modified
+jspwiki.groupdatabase.modifier=modifier
+#jspwiki.mail.jndiname = mail/Session
+mail.smtp.host = @mail.smtp.host@
+#mail.smtp.port = @mail.smtp.port@
+mail.from = @mail.from@
+#mail.smtp.account = @mail.smtp.account@
+#mail.smtp.password = @mail.smtp.password@
+#mail.smtp.timeout = 5000
+#mail.smtp.connectiontimeout = 5000
+#mail.smtp.starttls.enable = true
+#log4j.appender.mail = org.apache.log4j.net.SMTPAppender
+#log4j.appender.mail.Threshold = WARN
+#log4j.appender.mail.To = root@localhost
+#log4j.appender.mail.From = JSPWiki@localhost
+#log4j.appender.mail.Subject = Problem with JSPWiki!
+#log4j.appender.mail.SMTPHost = mail
+#log4j.appender.mail.layout = org.apache.log4j.PatternLayout
+#log4j.appender.mail.layout.ConversionPattern =%d [%t] %p %c %x - %m%n
+log4j.appender.FileLog = org.apache.log4j.RollingFileAppender
+log4j.appender.FileLog.MaxFileSize    = 10MB
+log4j.appender.FileLog.MaxBackupIndex = 14
+log4j.appender.FileLog.File = /tmp/jspwiki.log
+log4j.appender.FileLog.layout = org.apache.log4j.PatternLayout
+log4j.appender.FileLog.layout.ConversionPattern=%d [%t] %p %c %x - %m%n
+log4j.rootCategory=INFO,FileLog
+#log4j.rootCategory=INFO,FileLog,mail
+#log4j.logger.SecurityLog=INFO, SecurityAppender
+#log4j.appender.SecurityAppender = org.apache.log4j.RollingFileAppender
+#log4j.appender.SecurityAppender.MaxFileSize    = 10MB
+#log4j.appender.SecurityAppender.MaxBackupIndex = 14
+#log4j.appender.SecurityAppender.File = @securitylog@
+#log4j.appender.SecurityAppender.layout = org.apache.log4j.PatternLayout
+#log4j.appender.SecurityAppender.layout.ConversionPattern=%d %p - %m%n
+#log4j.logger.SpamLog=INFO,SpamAppender
+#log4j.appender.SpamAppender = org.apache.log4j.RollingFileAppender
+#log4j.appender.SpamAppender.MaxFileSize = 10MB
+#log4j.appender.SpamAppender.MaxBackupIndex = 14
+#log4j.appender.SpamAppender.File = @spamlog@
+#log4j.appender.SpamAppender.layout = org.apache.log4j.PatternLayout
+#log4j.appender.SpamAppender.layout.ConversionPattern=%d{ISO8601} %m%n
+#jspwiki.approver.workflow.saveWikiPage=Admin
+#jspwiki.approver.workflow.createUserProfile=Admin
+}}}

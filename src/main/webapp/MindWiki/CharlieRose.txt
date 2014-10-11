@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* InterWiki: [WikiPedia:Charlie_Rose]
+* BirthDay: 01-05
+* HasTalked: RayKurzweil

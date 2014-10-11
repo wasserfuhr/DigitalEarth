@@ -1,0 +1,37 @@
+Ein SemanticWiki für Sportler, Sportvereine und -mannschaften.
+
+Später ein eigenes JspWiki unter http://sport.mindbroker.de
+
+GeschaeftsModell:
+* Kooperationen mit
+** Krankenkassen
+** Sportverbänden
+** Sportartikelherstellern
+** Medienunternehmen
+
+* Premium-Dienste
+
+* Werbung
+
+!Zukünftige Startseite:
+* BaWue
+** HoffenHeim
+*** TsgHoffenheim
+* FreistaatSachsen
+** StadtDresden
+*** DynamoDresden
+** SenftenBerg
+* HamBurg
+** SvPoseidon
+* NiederSachsen
+** EintrachtBraunschweig
+* NordrheinWestfalen
+** StadtKoeln
+*** ErsterFcKoeln
+** WipperFeld
+*** DjkWipperfeld
+* Thüringen
+** MindSalsa
+
+Teilprojekte:
+* MindBaggern

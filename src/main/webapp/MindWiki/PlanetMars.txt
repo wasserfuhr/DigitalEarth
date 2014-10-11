@@ -1,0 +1,3 @@
+* IsA: MindThing
+* InterWiki: [DeWikiPedia:Mars_(Planet)] [OpenCyc:PlanetMars]
+* PartOf: SolarSystem

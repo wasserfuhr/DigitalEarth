@@ -1,0 +1,3 @@
+* EtymoLogia: von ἔτυμος (étymos) = wahr und λόγος (lógos) = Wort [*|http://de.wiktionary.org/wiki/Etymologie]
+
+Der CamelCaseGod sagt: Maßgeblich für die CamelCase-Gestaltung des PageName sind nicht Aussprache oder SilbenTrennung, sondern die etymologische Ableitung der Wort-HerKunft des Namens.

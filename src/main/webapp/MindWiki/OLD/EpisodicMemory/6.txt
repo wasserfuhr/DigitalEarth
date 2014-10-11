@@ -1,0 +1,12 @@
+* InterWiki: [AgiriWiki:Episodic_Memory], [WikiPedia:Episodic_memory]
+
+TheExperiment showed: The [AgiriWiki:Memory] has to be very fluent. Of course there is some "absolute" time axis, which is focused around a standard model of time like UnixTime.
+Many sources of time related information have ConText's with TimeZone's and systematic time clock errors, e.g. from time series of devices. [WikiWikiWeb:DaylightSavingTime] will produce a systematic error bias.
+The most important sources for EpisodicMemory:
+* WikiPage's of the MindWiki, including
+** ReVision's from RecentChanges
+** JahrGang and LebensEnde of MindPeople
+** WikiLender and WasWar
+* timestamps from the DataMap (mainly DelIcioUs, TwittEr, FlickEr, FriendFeed, SeesMic, BlogLines, XingLe-InBox)
+* timestamps from WebApp's (BankAccount, MindFloor)
+* WikiPedia (almost only MindEvent's with a precision of one day; exact MindPlace and time must be InFer'ed from ConText)

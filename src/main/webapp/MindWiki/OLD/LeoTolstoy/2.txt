@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* InterWiki: [OpenCyc:LeoTolstoy]
+* BirthDay: 09-09
+* MindQuote: "Everyone thinks of changing the world, but no one thinks of changing himself."

@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Christof_Koch]
+* JahrGang: 1956
+* BirthDay: 11-13
+* MindSkill: ConScious
+* DbLp: http://dblp.uni-trier.de/rec/pid/71/4603
+* PageNumber: 15
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach JuergenAvenhaus KlausMadlener FriedrichOtto NorbertKuhn JoergMueller NickJennings MichaelWooldridge DirkWalther ChristofKoch

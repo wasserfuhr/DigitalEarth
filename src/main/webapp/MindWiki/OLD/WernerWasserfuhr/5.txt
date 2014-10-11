@@ -1,0 +1,5 @@
+* 2. Kunde von MindBroker
+* JahrGang: 1941
+* WohnSitz: GrueterichEins
+* EheRinge: AbWw
+* MindFaves: KonradAdenauer

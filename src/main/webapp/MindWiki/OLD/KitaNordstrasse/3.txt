@@ -1,0 +1,8 @@
+* IsA: KinderTagesStätte
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/31961946
+* HomePage: http://www.kita-nordstrasse.de/
+* PartOf: NerdStrasse
+
+StadtLeipzig
+
+FamilienFreund: http://www.familienfreunde.de/baseportal/FF_Detail_0&Nummer==0616

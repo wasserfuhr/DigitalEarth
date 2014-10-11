@@ -1,0 +1,26 @@
+FutureModel
+
+calculations per Second per UsDollar in 2000: n.
+
+according to http://www.flickr.com/photos/jurvetson/3656849977/: n=10^8?
+
+||FutureModel||[1]
+|1957|10^0
+|2000|10^8
+|2009|1.12*10^9
+|2020|10^11
+|2040|10^16
+|2060|10^27
+|2080|10^40
+|2100|10^60
+*[#1] http://www.kurzweilai.net/articles/images/chart19.jpg
+
+in 1957: 10^0.
+
+Duplication in x years?:
+
+Probe: http://www.winner-dresden.de/index.php/cat/c3010200_Intel-reg--CPUs.html: 
+
+http://www.winner-dresden.de/product_info.php/info/p30399_Intel-reg--Core-2-Duo-E7400-2-8GHz-box.html
+
+100x100 (MFLOPS)	 1.12*10^9

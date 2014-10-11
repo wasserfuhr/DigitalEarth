@@ -1,0 +1,10 @@
+|| ||JobSingle      ||BeuteSchema ||                     ||Kuppler
+|♀|JeMand           |             |                      |RainerWasserfuhr
+| |                 |Gehalt       |ab 3000 EuRo brutto
+| |                 |UnternehmensGrosse|ab 100
+| |                 |Gehalt       |Festanstellung, Beratend, Dozent
+| |                 |WochenStunden|40-60
+| |                 |Reisen       |nicht abgeneigt
+| |                 |Auto         |-
+| |                 |Branchen     |zB Solar
+| |                 |Bereich      |Personal, HR

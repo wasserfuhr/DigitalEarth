@@ -1,0 +1,10 @@
+||Name          ||Seit||Popups||1M||3M||6M||CoolURIs||OpenSource||UserOwned||Trust||Recommendations
+|FriendScout    |200?|?       |30| 60| 96|?        |nein       |nein |?    |?
+|ParShip        |200?|?       | -|150|180|?        |nein       |nein |?    |?
+|NeuDe          |200?|ja      |30| 60| 90|ja       |nein       |nein |teils|nein
+|FinYa          |200?|ja      | 0|  0|  0|nein     |nein       |nein |nein |nein
+|AltCom         |200?|?       |  |   |   |?        |nein       |nein |nein |nein
+|SklavenZentrale|200?|nein    |  |   |   |?        |nein       |nein |ja   |nein
+|DatingWiki     |2009|nein    | 0|  0|  0|ja       |ja         |ja   |ja   |ja
+|AdultFriendFinder
+

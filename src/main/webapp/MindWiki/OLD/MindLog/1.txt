@@ -1,0 +1,5 @@
+Zentrales Objekt in der Systemarchitektur für UnsereProjekte.
+
+Landet wohl bald als de.mindbroker.core.model.Log im DomainModel.
+
+Philosophischer Hintergrund: http://yvonne.intrabroker.com/nodes/node.jsp?id=1049

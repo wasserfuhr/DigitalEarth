@@ -1,0 +1,36 @@
+* IsA: MindCity
+* InterWiki: [DdWiki:Dresden] [DeWikiPedia:Dresden] [OpenCyc:CityOfDresdenGermany] [WikiPedia:Dresden]
+* LaengenGrad: 13.717
+* BreitenGrad: 51.078
+* BoundingBox: 10000
+* MindCount: 450000
+* StadtWiki: DdWiki
+* HomePage: http://www.dresden.de/
+|[FaceBook: 24718518286]
+* MindOne: HelmaOrosz
+* VolksVertretung: StaDdRat
+* TwinTown: CovenTry StPetersburg Breslau Skopje Ostrava BrazzaVille CittaDiFirenze HamBurg RotterDam StrassBourg SalzBurg Columbus HangZhou
+
+[http://www.openaerialmap.org/?zoom=12&lat=51.06583&lon=13.74673&layers=BF]
+
+Bald mal ein PredictionMarket für die Lebensqualität der OrtsTeil-BoundingBox'es?:
+* AltStadt
+* Cotta
+* Gorbitz
+* FriedrichStadt
+* HellerAu
+* Klotzsche
+* LaubeGast
+* Mickten
+* NeuStadt
+* OrtsteilPieschen
+* Prohlis
+* RadeBeul
+* Strehlen
+* Striesen
+* SuedVorstadt
+* TrachenBerge
+* WeisserHirsch
+etcetc
+
+SameAs: [OpenCyc:CityOfDresdenEG]?

@@ -1,0 +1,37 @@
+general Social Network features
+* Suche
+* UserProfile
+* Freunde hinzufügen
+* Wer kennt wen über wen
+* Nachrichten schicken
+* Gruppen
+
+
+
+spot 1.0 features
+* "Eltern Gruppen" - Ein Club (Eltern Gruppe) kann mehrere Mannschaften (Kinds Gruppen) haben
+
+
+future spot features
+
+
+ToBeDiscussed:
+* Wie soll das Akzeptieren von Kontakten gehandhabt werden?
+** "Xing-Modell": Ein Kontakt wird nur für andere User sichtbar, wenn A anfrägt und B zustimmt. 
+** "flickr": A kann Kontakt von B sein, B muss aber nicht von A.
+* "Kontakt" und "Fan" umbenennen?
+* Wie soll die Linkstruktur aussehen nachdem man sich eingeloggt hat? Bisher:
+***Start
+***Meine Seite
+****Bild hochladen
+****Profil ändern
+***Meine Termine
+****Neuer Termin
+***Meine Freunde
+***Postfach
+***Vereine
+****Neuer Verein
+
+**Hier fehlen noch einige Funktionen. Diese sind natürlich nicht zu vergessen.
+**Ziel soll sein, dem User eine möglichst einfache Übersicht über seine Funktionen zu bieten.
+

@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Theodore_Kaczynski]
+* BornIn: 1942
+* BirthDay: 05-22

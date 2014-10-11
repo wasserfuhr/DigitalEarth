@@ -1,0 +1,3 @@
+* IsA: CitiZen
+* InvitedBy: RalfLippold
+* MindId: 147

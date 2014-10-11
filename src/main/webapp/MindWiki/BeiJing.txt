@@ -1,0 +1,2 @@
+* IsA: MindCity
+* InterWiki: [OpenCyc:Beijing-MunicipalityChina] [WikiPedia:Beijing]

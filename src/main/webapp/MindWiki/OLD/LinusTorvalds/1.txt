@@ -1,0 +1,4 @@
+* MindTags: MindPeople
+* JahrGang: 1969
+* BirthDay: 12-28
+* MindBlog: http://torvalds-family.blogspot.com/

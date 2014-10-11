@@ -1,0 +1,10 @@
+* IsA: ProFessor WikiMind
+* InterWiki: [MeatballWiki:BeatDoebeli]
+* HomePage: http://beat.doebe.li/
+* DbLp: http://dblp.uni-trier.de/rec/pid/82/1489
+* ViAf: http://viaf.org/viaf/77467444
+* PageNumber: -1
+|[XingLe:Beat_DoebeliHonegger]
+|[TwittEr:beatdoebeli]
+|[FlickEr:doebeli]
+|[FaceBook:654362797]

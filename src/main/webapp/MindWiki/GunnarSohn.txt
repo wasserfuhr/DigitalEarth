@@ -1,0 +1,4 @@
+* IsA: PerSon
+|[FaceBook:1586960535]
+|[TwittEr:gsohn]
+|[XingLe:Gunnar_Sohn]

@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Wiener_Platz], [DeWikiPedia:Wiener_Platz_(Dresden)]
+* BreitenGrad: 51.04174
+* LaengenGrad: 13.7332
+* BoundingBox: 200

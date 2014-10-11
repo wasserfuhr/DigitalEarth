@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [BiblioNetz:p00009] [BookShelved:DouglasHofstadter] [DeWikiPedia:Douglas_R._Hofstadter] [WebSeitz:DouglasHofstadter] [WikiWikiWeb:DouglasHofstadter]
+* BornIn: 1945
+* BirthDay: 02-15
+* EnsId: http://www.okkam.org/ens/ide0df2521-8f71-4dbf-963c-2a2cdb5beb8b
+* ViAf: http://dblp.uni-trier.de/rec/pid/44/764
+
+KurtGoedel McEscher JohannSebastianBach

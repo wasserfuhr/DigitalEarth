@@ -1,0 +1,16 @@
+* InterWiki: [WebSeitz:StartUp]
+
+Wie kannst Du ein neues UnterNehmen in NooPolis gründen?
+
+WerdeMindBroker und editiere folgende Bausteine im MindWiki:
+* BusinessPlan
+* CommitMent
+* GeschaeftsModell (mit CrowdWisdom-ErWartung an Umsätze, Benutzerzahlen etc.) 
+* HandelsRegister
+* InVest
+* LeistungsKonto 
+* RechtsForm
+* RoadMap
+* ShareHolder
+* VerTrag
+* WirkSatz

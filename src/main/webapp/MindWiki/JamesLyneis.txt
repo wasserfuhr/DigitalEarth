@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* HomePage: http://www.wpi.edu/Academics/Depts/SSPS/People/jml.html
+SystemDynamics

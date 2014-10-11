@@ -1,0 +1,29 @@
+* IsA: CoWorkingSpace
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/573269269
+* OpeningHours: Mo 12:30-15:30; Th 14:00-18:00
+* FourSquare: http://foursquare.com/mobile/venue/474000
+|[TwittEr:LockOffice]
+
+''Das LockOffice ist der erste Interims-CoWorkingSpace der LockSchuppenAg auf der LouisenStrasse in der NeuStadt der StadtDresden (LockOfficeAnfahrt).''
+
+The LockOffice is the first interim CoWorkingSpace of LockSchuppenAg at LouisenStrasse in the NeuStadt of the CityOfDresden.
+
+The LockOffice is THE connecting hub, built as a creative CoWorkingSpace, where EntrePreneur's, DeSign'ers, ProGram'mers, ReSearch'er and other people interested in collaborative ways of working can meet.
+
+We offer Office and community space for EntrePreneur's on hourly, daily and monthly basis.
+
+Our ~25 sqm LockAgora is a facility for WorkShop's and CoLearning (web and IT tools making collaborative work more effective and relaxing).
+
+|ZukunftsRaum |WikiWall
+|[{Image src='http://farm5.static.flickr.com/4042/4389204821_3226e90be9.jpg'}]|[{Image src='http://farm5.static.flickr.com/2695/4373546925_ba5ff5b944.jpg'}]
+|[*|http://www.flickr.com/photos/ralflippold/4389204821/]|[*|http://www.flickr.com/photos/ralflippold/4373546925/]
+
+Check out [TwittEr:LockOffice] and [HallenProjekt|http://www.hallenprojekt.de/lockschuppen] whether we are in and drop in.
+
+FloorPlan:
+|AdvocataDiaboli|ZukunftsRaum
+|LockCorridor   |LockBadrum
+|LockAgora      |LockKitchen
+
+----
+WiFi InterNet SpeedTest at the LockOffice: Download: 2.8 Mbit/s - Upload 1.4 Mbit/s - Ping 59 ms - Connections: 1628

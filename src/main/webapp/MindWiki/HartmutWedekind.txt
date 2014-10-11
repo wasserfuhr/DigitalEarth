@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/w/HWedekind
+* HomePage: http://www6.informatik.uni-erlangen.de/people/wedekind/
+* PageNumber: 5
+* PagePath: LarryPage TerryWinograd NorbertStreitz RalfSteinmetz ErichOrtner HartmutWedekind

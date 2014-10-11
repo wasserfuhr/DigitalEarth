@@ -1,0 +1,13 @@
+MindFarm
+
+InspiredBy: http://www.agrarboden.de/objektsuche_erg.php?IDObj=5294
+
+BodenPunkte: 65
+
+NiederSchlag: 850 mm
+
+80 ha = 2800000 EuRo
+
+1 qm = 3,50 EuRo
+
+NordrheinWestfalen

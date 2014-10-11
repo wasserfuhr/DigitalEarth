@@ -1,0 +1,7 @@
+* IsA: PerSon
+* MindQuote: "there are far more smart people outside any one organization than inside"
+* InterWiki: [DeWikiPedia:Bill_Joy]
+* JahrGang: 1954
+* BirthDay: 11-08
+* DbLp: http://dblp.uni-trier.de/rec/pid/93/4978
+* MindSkill: MooresLaw ZuKunft

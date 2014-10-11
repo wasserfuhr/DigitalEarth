@@ -1,0 +1,5 @@
+||Name           ||Nutzer||Werbung||Userfoto||API||Newsfeed||StickyNess
+|FaceBook        |    30m|x     |x          |+++  |+++|+++
+|LinkedIn        |    13m|-     |-          |+    |  -|  -
+|PeopleAggregator|    <1m|x     |x          |-    |  -|  +
+|XingLe          |     2m|-     |x          |not yet|  -|  +

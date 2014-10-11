@@ -1,0 +1,8 @@
+;
+;
+;{{{
+
+
+(clojure.xml/parse (fetch-url "http://feeds.seesmic.com/user.rainer.atom"))
+
+;}}}

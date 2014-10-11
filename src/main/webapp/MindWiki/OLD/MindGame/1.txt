@@ -1,0 +1,4 @@
+* JumboWoerterSpiel
+* MasterMind
+* MindTueftel
+* WereWolf

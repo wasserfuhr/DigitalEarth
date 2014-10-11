@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Jacques_Herbrand]
+* JahrGang: 1908
+* BirthDay: 02-12
+* LebensEnde: 1931

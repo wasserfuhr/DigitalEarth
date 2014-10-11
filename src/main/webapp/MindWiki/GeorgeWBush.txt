@@ -1,0 +1,7 @@
+* IsA: PotUs
+* InterWiki: [DeWikiPedia:George_W._Bush] [OpenCyc:GeorgeWBush] [WebSeitz:GeorgeWBush]
+* ChildOf: BarbaraBush GeorgeHWBush
+* BornIn: 1946
+* BirthDay: 07-06
+* EnsId: http://www.okkam.org/ens/idf8f8be5c-ea89-419e-aeda-cb5dd2586448
+* MindSkill: SegWay

@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* InterWiki: [OpenCyc:GoldenGateBridge], [DeWikiPedia:Golden_Gate_Bridge]
+* BreitenGrad: 37.817597
+* LaengenGrad: -122.4783
+* BoundingBox: 50000
+* GraDient: 2737
+* SlimNess: 0.1

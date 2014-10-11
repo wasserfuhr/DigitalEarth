@@ -1,0 +1,9 @@
+* IsA: UnternehmensGruender
+* InterWiki: [DeWikiPedia:Adolf_Merckle]
+* BornIn: 1934
+* BirthDay: 03-18
+* BirthPlace: StadtDresden
+* DiedIn: 2009
+* MindSkill: VerMoegen
+
+RatioPharm

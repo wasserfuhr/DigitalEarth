@@ -1,0 +1,3 @@
+* MindTags: MindGene
+* HerKunft: "leucine-rich repeat kinase"
+* InterWiki: [WikiPedia:LRRK2]

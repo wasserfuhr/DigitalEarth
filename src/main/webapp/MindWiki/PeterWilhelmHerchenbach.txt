@@ -1,0 +1,5 @@
+* IsA: PerSon
+* BirthPlace: NeunKirchen
+* BornIn: 1864
+* BirthDay: 11-07
+* ChildOf: HeinrichHerchenbach

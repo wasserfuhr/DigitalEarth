@@ -1,0 +1,9 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.05227
+* LaengenGrad: 13.80894
+* BoundingBox: 65
+* GraDient: 135
+* SlimNess: 0.8
+* HomePage: http://www.schillergarten.de/
+
+TotalRecall 20080810: MindShift, PieschenerRevolution

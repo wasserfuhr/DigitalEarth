@@ -1,0 +1,5 @@
+* HerKunft: lat. de-legare, aus legatus, "mit GeSetz'licher VollMacht Be-AufTrag'ter, Gesandter", von lat. "lex" (legis) "GeSetz, BeStimm'ung"
+
+SocialObject for LiquidDemocarcy
+
+Idee für VerTrag: Jeder ShareHolder kann auf seiner WikiHomePage einen DeLegate für seinen MindVote festlegen. Der DeLegate kann bei Abstimmungen mit den Stimmanteilen des ShareHolder abstimmen.

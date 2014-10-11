@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* JahrGang: 1951
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/RudiStuder
+* HomePage: http://www.aifb.uni-karlsruhe.de/Staff/Personen/viewPerson?id_db=57
+* PageNumber: 5
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker RudiStuder

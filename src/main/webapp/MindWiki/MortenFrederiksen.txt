@@ -1,0 +1,2 @@
+* MindTags: MindPeople
+* FoAf: http://www.wasab.dk/morten/foaf.rdf

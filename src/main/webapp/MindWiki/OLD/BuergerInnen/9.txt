@@ -1,0 +1,17 @@
+||Bürger          ||Trustee 1      ||Trustee 2    ||Trustee 3...
+|RainerWasserfuhr |YvonneSchubert  |
+|YvonneSchubert   |RainerWasserfuhr|DanielPoodratchi
+|DanielPoodratchi |RainerWasserfuhr|YvonneSchubert
+|RicardaDHerbrand |pending: VerFassung|RainerWasserfuhr
+|AndreasWeigel    |RainerWasserfuhr|YvonneSchubert
+|UteMoritz        |RainerWasserfuhr|
+|NicoHagenburger  |RainerWasserfuhr|
+|TinaPickhardt    |RainerWasserfuhr|
+|TimBonnemann     |RainerWasserfuhr|
+|ChristineSchlinck|RainerWasserfuhr|YvonneSchubert
+|OliverGassner    |RainerWasserfuhr|
+|IngridaPlunksnyte|RainerWasserfuhr|YvonneSchubert
+|PierreKerchner   |RainerWasserfuhr|
+
+
+Diese WikiSpec inclusive MindTrust in Kürze automatisch auf http://id.mindbroker.de/.

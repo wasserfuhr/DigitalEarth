@@ -1,0 +1,12 @@
+SportPortal:
+* Name - name
+* Manschafts Logo - teamImage
+* Sportarten - sports
+* Location - location
+* Kapitän - teamCaptain
+* Mitglieder - members
+* Altersgruppen - teamAges
+
+
+
+

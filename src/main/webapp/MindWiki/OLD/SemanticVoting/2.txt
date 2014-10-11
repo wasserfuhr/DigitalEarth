@@ -1,0 +1,6 @@
+* HerKunft: "Voting is a method for a group such as a meeting or an electorate to make a decision or express an opinion" - [WikiPedia:Voting]
+
+A SemanticWeb vocabulary for votings within the SocialGraph:
+* Each voting has a unique URL
+* eligible to vote are CitiZens of the UnitedSemanticNations who are reachable inside the SocialGraph via "foaf:knows" from a voting committee seed list.
+* the CitiZens vote by publishing an RDF resource which expresses their voting as an RDF statement.

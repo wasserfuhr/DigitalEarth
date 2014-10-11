@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Edsger_W._Dijkstra] [WikiWikiWeb:EwDijkstra]
+* BirthDay: 05-11
+* DbLp: http://dblp.uni-trier.de/rec/pid/d/WEDijkstra

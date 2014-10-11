@@ -1,0 +1,5 @@
+* IsA: PerSon
+* MindBlog: http://thingsifinished.blogspot.com/
+* DbLp: http://dblp.uni-trier.de/rec/pid/62/1914
+* PageNumber: 9
+* PagePath: LarryPage SergeyBrin MonikaHenzinger KurtMehlhorn FriedhelmMeyerAufDerHeide UlrichRueckert UlfWitkowski ThomasBraeunl RyoheiNakatsu JesseSchell

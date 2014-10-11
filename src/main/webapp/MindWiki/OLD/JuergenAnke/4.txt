@@ -1,0 +1,7 @@
+* MindTags: UnternehmensGruender
+* WohnSitz: StadtDresden
+* MindSkill: RfId
+||AusLand
+|[XingLe:Juergen_Anke]
+|[SkyPe:juergen_anke]
+|[FaceBook:683796158]

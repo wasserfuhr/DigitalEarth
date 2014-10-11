@@ -1,0 +1,15 @@
+* MindTags: ProFessor
+* InterWiki: [DeWikiPedia:Theo_Härder]
+* JahrGang: 1945
+* BirthDay: 08-28
+* MindSkill: DataBase
+* TurkNumber: 7
+
+TurkPath:
+# ZigaTurk
+# [http://dblp.uni-trier.de/db/indices/a-tree/s/Smith:John.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/s/Streitz:Norbert_A=.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/p/Prante:Thorsten.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/s/Steinmetz:Ralf.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/o/Ortner:Erich.html]
+# [http://dblp.uni-trier.de/db/indices/a-tree/h/H=auml=rder:Theo.html]

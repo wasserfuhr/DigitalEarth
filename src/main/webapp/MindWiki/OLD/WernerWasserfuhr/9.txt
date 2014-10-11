@@ -1,0 +1,13 @@
+* 2. Kunde von MindBroker
+* JahrGang: 1941
+* WohnSitz: GrueterichEins
+* EheRinge: AbWw
+* MindFaves: KonradAdenauer
+* MindTags: FliesenLeger
+* MindPate: RainerWasserfuhr
+* XingId: 8540657
+* XingPate: RainerWasserfuhr
+
+||AusLand
+|[XingLe:Werner_Wasserfuhr]
+|[TwittEr:wernerw]

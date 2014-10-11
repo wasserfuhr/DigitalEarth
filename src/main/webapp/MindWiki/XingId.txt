@@ -1,0 +1,10 @@
+EarlyAdopter BenchMark: the PrimaryKey of XingLe users, e.g LarsHinrichs: 35
+
+Wenn man bei XingLe eingeloggt ist, findet man den unter [https://www.xing.com/app/invite?op=link]
+
+Bei RainerWasserfuhr steht da:
+* http://www.xing.com/go/invita/752
+
+Also ist XingId=752.
+
+Dürfte sich auch dann nicht ändern, wenn es zum EheVertrag kommt und sich der NachName in den des TraumPartner's ändert.

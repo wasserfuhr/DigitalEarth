@@ -1,0 +1,38 @@
+* IsA: EnterPrise
+* MindOne: RalfLippold
+* WikiAngel: RainerWasserfuhr
+
+The LockSchuppenAg is a TransParent VirtualEnterprise to plan, build and operate the LockSchuppen and the LockOffice.
+
+''Die LockSchuppenAg ist ein TransParent'es VirtuellesUnternehmen zur Planung, zum Bau und zum Betrieb des LockSchuppen's und des LockOffice.''
+
+The LockSchuppenAg has 1.000.000 Shares.
+
+''Die LockSchuppenAg hat 1.000.000 Shares.''
+
+Die LockSchuppenAg gibt pro Monat insgesamt 100 LockCoupon's an ShareHolder aus, proportional zu den jeweiligs am Monatsbegin aktuellen Anteilen (Stichzeitpunkt: 00:00h UniversalCoordinatedTime). Falls ein ShareHolder weniger als 1% LockShare's hat, werden die Bruchteile davon so lange in den Folgemonaten kumuliert, bis die Kumulation mindestens 1% ergibt: LockCouponEmission.
+
+Jeder ShareHolder muss mindest einmal pro KalenderMonat im OrderBook ein Gebot für AnKauf und VerKauf von 1000 LockShare's abgeben. Falls kein Verkaufsangebot angegeben wird, beträgt der Preis für den VerKauf automatisch 1 EuroCent.
+
+[{Image src='http://bank.mindbroker.de/googlePie?stock=12'}]
+
+||Shares||ShareHolder
+|571.000|RalfLippold
+|272.800|RainerWasserfuhr
+|100.000|OliverGassner
+| 21.000|MarkusStamm
+| 10.000|SoerenRogoll
+|  7.000|ChristianHeller
+|  6.000|PeterHerbst
+|  5.200|ChristineSchlinck
+|  2.000|CorneliaHeinz
+|  2.000|RicoLieberwirth
+|  1.000|JanKreuter
+|  1.000|JoelKaczmarek
+|  1.000|NorbertRost
+
+Shares are publicly traded in the __OrderBook__.
+
+''Shares werden öffentlich im __OrderBuch__ gehandelt''
+
+Successful orders and other transfers of LockShare's are documented on the MindFloor.

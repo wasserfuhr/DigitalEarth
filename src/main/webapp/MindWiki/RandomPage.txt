@@ -1,0 +1,1 @@
+MindApi: [http://id.mindbroker.de/api/wiki/?randomPage]

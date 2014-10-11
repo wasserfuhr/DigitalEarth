@@ -1,0 +1,13 @@
+* MindTags: MindThing
+
+The key for opening the LockSchuppen.
+
+WasSchaetztDu: Wann wird RalfLippold KeyOne in der Hand halten und die Pforten zum LockContactOffice öffnen?
+
+||UnTil||PreDict'or     ||ProBab'ility
+|200909|RalfLippold     |0%
+|200909|RainerWasserfuhr|0%
+|200910|RalfLippold     |80%
+|200910|RainerWasserfuhr|30%
+|200911|RalfLippold     |50%
+|200911|RainerWasserfuhr|40%

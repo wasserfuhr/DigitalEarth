@@ -1,0 +1,32 @@
+;
+;
+;{{{
+
+
+((defn bank [] 
+  (handle "bank"
+   (fn []
+(do
+ (Class/forName "org.apache.derby.jdbc.EmbeddedDriver")
+ (let
+  [con (java.sql.DriverManager/getConnection"jdbc:derby:base;create=true" "SYSDBA" "masterkey")
+  stmt (.createStatement con)]
+ (str
+  "<table>
+    <tr><th>On</th><th>To</th><th>From</th><th>Procurer</th><th> </th><th>KayGroschen</th></tr>"
+  ((defn recurs [rs]
+   (if (.next rs)
+     (str "<tr><td>"
+      (.getDate rs "date") "</td><td>"
+      (.getInt rs "receiver_id") "</td><td>"
+      (.getInt rs "procurer_id") "</td><td>"
+      (.getInt rs "sender_id") "</td><td>"
+      (.getString rs "text") "</td><td>"
+      (.getDouble rs "amount") "</td></tr>" 
+    (recurs rs))
+   ))
+  (.executeQuery stmt "select * from payment order by id desc"))
+  "<table>")
+ )
+))""))))
+;}}}

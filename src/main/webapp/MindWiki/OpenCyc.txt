@@ -1,0 +1,2 @@
+* HomePage: http://www.opencyc.org/
+* MindOne: DougLenat

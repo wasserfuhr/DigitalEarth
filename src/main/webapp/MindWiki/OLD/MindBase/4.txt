@@ -1,0 +1,22 @@
+The MindBase will be a HadoopHBase based database operated on our SocialGrid.
+
+CitiZens will be able to submit MapReduce jobs to the MindBase in order to create new and exciting MashUp's from the DataMap of NooPolis.
+
+how to organise the basic table structure? Some ideas:
+* with a very fundamental time series data model (a long as a key class, derived from java.util.Date.getTime() )
+* a randomly generated key class, each representing an address of a neuron in a neuro-semantic-network. Basic idea is to approximate neuron activities with highly parallelized MapReduce jobs.
+
+What will be the central UseCase's?:
+* MindWiki: ReVision's, BackLink's, MindProps, MindTags
+* MindId: InVite
+* PieschenBank: PayMent's
+* WikiLender
+* Generic WikiTable
+
+Later:
+* MindFeeds: FeedItem
+* WortSchatz
+
+As a foundation: An EpisodicMemory with time axis.
+
+The WebApp's will subscribe to DiFer'ent views of the MindBase.

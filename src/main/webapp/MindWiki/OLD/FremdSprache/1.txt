@@ -1,0 +1,11 @@
+||MindWiki ||en         ||de        ||zh    ||ja
+|ZuKunft   |Future      |Zukunft    |未来    |
+|          |History     |Geschichte |歷史
+|MindPeople|Human       |Mensch     |人      |
+|          |Life        |Leben      |生命
+|          |Love        |Liebe      |愛
+|MiNd      |Mind        |Geist      |心靈
+|GegenWart |Present     |Gegenwart  |今天
+|          |Space       |Raum       |空间
+|          |Time        |Zeit       |時間
+|          |World       |Welt       |世界

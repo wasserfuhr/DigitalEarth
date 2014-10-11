@@ -1,0 +1,8 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:James_N._Gray] [WikiWikiWeb:JimGray]
+* BirthDay: 01-12
+* DbLp: http://dblp.uni-trier.de/rec/pid/g/JimGray
+* PageNumber: 3
+* PagePath: LarryPage SergeyBrin JeffreyUllman JimGray
+
+MicroSoft

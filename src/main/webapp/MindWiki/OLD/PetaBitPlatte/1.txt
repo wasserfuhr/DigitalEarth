@@ -1,0 +1,3 @@
+* MindTags: FutureCard
+* PreDict: ein festplattenartiges Gerät mit 1.125.899.906.842.624 bit (~140 Terabyte) Speicherkapazität kostet weniger als 1.000 EuRo
+* FutureNumber: 2050

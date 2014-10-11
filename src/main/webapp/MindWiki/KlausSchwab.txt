@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Klaus_Schwab]
+* BornIn: 1938
+* BirthDay: 03-30

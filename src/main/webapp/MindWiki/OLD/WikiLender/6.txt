@@ -1,0 +1,57 @@
+(Events in the WikiLender have a "when" and an optional "until". Things which only have an "until" can be found at MindLine)
+||When        ||Until||      ||Where        ||What                    ||Who (OrderedByShares)
+|20080418:1300|     |        |TzDresden     |Consideo                 |RainerWasserfuhr?, FrancGrimm
+|20080418:1930|     |        |LingnerSchloss|KlubDerIntelligenz       |RainerWasserfuhr?; JensWegerle
+|20080424     |     |        |DuesselDorf   |WebMontag: WoZu 2.0      |TimBruysten
+|20080426     |     |        |HebbelAmUfer  |UtopiaStockExchange      |RainerWasserfuhr?
+|20080428:2030|     |        |BailamorClub  |PhilosophischesNachtcafe |
+|20080503     |     |        |KaisersLautern|KammgarnFestival         |JulianWasserfuhr,RomanWasserfuhr,LeoSauermann?
+|20080508:1830|     |        |TuDresden     |GruenderFoyer            |RainerWasserfuhr?, MichaelBrehm
+|20080515     |     |        |MuseumPrototyp|next08                   |SoerenStamer,MatthiasSchrader
+|20080516     |     |        |Lausanne      |GoingSolo                |StephanieBooth
+|20080517     |     |        |HamBurg       |StartUpWeekEnd           |RainerWasserfuhr?, CemBasman
+|20080518     |     |        |HamBurg       |StartUpWeekEnd           |RainerWasserfuhr?, CemBasman
+|20080524:1800|     |        |StadtDresden  |WikiPedia meeting        |
+|20080524     |     |        |WipperFuerth  |MindAbiAchtAcht          |RainerWasserfuhr?
+|20080526     |     |        |LukasKirche   |Konzert                  |RainerWasserfuhr?,MarianneRosenberg
+|20080531     |     |        |ZeppelinUniversity|BarCamp              |RainerWasserfuhr?,MartinKoser?
+|20080601     |     |        |ZeppelinUniversity|BarCamp              |RainerWasserfuhr?,MartinKoser?
+|20080601     |     |        |Tenerife      |SemWiki2008              |RainerWasserfuhr?
+|20080605     |     |        |CongressCenterDresden|Zukunftsforum            |RainerWasserfuhr?,DonTapscott,WolfgangWahlster
+|20080607     |     |        |StadtDresden  |WikiSym-plaudern         |RainerWasserfuhr EtAl
+|20080613     |     |        |NeuStadt      |BunteRepublik            |RainerWasserfuhr?
+|20080626     |     |        |CopenHagen    |ReBoot                   |RainerWasserfuhr?
+|20080627     |     |        |CopenHagen    |ReBoot                   |RainerWasserfuhr?
+|20080627     |     |        |StadtDresden  |ElbHangFest              |RainerWasserfuhr?
+|20080628     |     |        |StadtDresden  |ElbHangFest              |RainerWasserfuhr?
+|20080629     |     |        |StadtDresden  |ElbHangFest              |RainerWasserfuhr?
+|20080717     |     |        |Alexandria    |Wikimania                |RainerWasserfuhr?, JimboWales?
+|20080718     |     |        |Alexandria    |Wikimania                |RainerWasserfuhr?, JimboWales?
+|20080825     |     |        |BlackRockDesert|BurningMan              |RainerWasserfuhr?
+|20080908     |     |        |Porto         |WikiSym                  |DirkRiehle
+|20080909     |     |        |Porto         |WikiSym                  |DirkRiehle
+|20080910     |     |        |Porto         |WikiSym                  |DirkRiehle
+|20080923     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080924     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080925     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080925     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080926     |     |        |KaisersLautern|KiNullAcht               |RainerWasserfuhr?,LeoSauermann?
+|20080926     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080927     |     |        |LouisVille    |IdeaFestival             |KrisKimel?
+|20080928     |     |        |Bayern        |Landtagswahl             |GuentherBeckstein
+|20081001     |     |        |StadtDresden  |GeNeMe                   |RainerWasserfuhr?
+|20081002     |     |        |StadtDresden  |GeNeMe                   |RainerWasserfuhr?
+|20081012     |     |        |ReadingUniversity|LoebnerPrize          |HughLoebner,KevinWarwick
+|20081018     |     |        |SanJose       |SingularitySummit        |RainerWasserfuhr?
+|20081104     |     |        |UnitedStates  |UsElection08             |BarackObama,HillaryClinton
+|200901       |     |        |Washington    |InAuguration             |BarackObama?,HillaryClinton?
+|20090607     |     |        |EurOpa        |Wahlen                   |BuergerInnen,CitiZens,CiudaDanos,CitoYens,Državljan
+
+!Was War:
+||When        ||Until||      ||Where        ||What                    ||Who (OrderedByShares)
+|20080414:2030|     |        |BailamorClub  |PhilosophischesNachtcafe |
+|20080404     |     |        |KalkScheune   |RePublica                |MarkusBeckedahl
+|20080403     |     |        |KalkScheune   |RePublica                |MarkusBeckedahl,ChristianHeller
+|20080402     |     |        |KalkScheune   |RePublica                |MarkusBeckedahl
+|20080401:2000|     |        |KathedralForum|"Wer ist Gott?"          |KarlLehmann
+Former Events: WasWar.

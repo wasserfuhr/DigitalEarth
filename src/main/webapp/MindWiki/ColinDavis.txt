@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Colin_Davis]
+* BirthDay: 09-25
+* MindSkill: ConDuct

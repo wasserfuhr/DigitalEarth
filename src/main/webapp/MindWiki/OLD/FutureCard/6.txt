@@ -1,0 +1,11 @@
+Grundidee einer FutureCard: "Für diese ZuKunft stehen BuergerInnen mit ihrem guten Namen."
+
+Unterschiedlichen Szenarien für die ZuKunft ein Gesicht geben.
+Die ErWartung an ZuKunft besser fassen und verstehen können.
+
+BuergerInnen können FutureCard's verschenken, tauschen und später handeln.
+Jede FutureCard ist ein Unikat. Jede FutureCard hat einen CardOwner.
+
+Immer mehr diskutieren und erkennen wir die kausalen Abhängigkeiten zwischen FutureCard's.
+
+Nach und nach bauen wir eine riesige FutureMap.

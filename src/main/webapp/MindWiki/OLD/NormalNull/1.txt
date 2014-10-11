@@ -1,0 +1,1 @@
+Höhe eines MindPlace in Meter bezogen auf [DeWikiPedia:Normalnull]

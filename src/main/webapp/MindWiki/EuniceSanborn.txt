@@ -1,0 +1,4 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Eunice_Sanborn]
+* BirthDay: 07-20
+* BornIn: 1896

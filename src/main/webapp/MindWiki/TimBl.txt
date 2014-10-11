@@ -1,0 +1,19 @@
+* IsA: ProFessor
+* InterWiki: [LangReiter:Tim+Berners-Lee] [OpenCyc:SirTimBernersLee] [WikiPedia:Tim_Berners-Lee] [WikiWikiWeb:TimBernersLee]
+* EnsId: http://www.okkam.org/ens/id8cdc0bb9-9a10-40cd-b98d-66efac61a82f
+* SwDf: http://data.semanticweb.org/person/tim-berners-lee
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/TimBernersLee
+* HomePage: http://www.w3.org/People/Berners-Lee/
+* NachName: Berners-Lee
+* JahrGang: 1955
+* BirthDay: 06-08
+* MindKodex: LexTim
+* MindSkill: WorldWideWeb
+* PageNumber: 5
+* PagePath: LarryPage SergeyBrin MonikaHenzinger DavidEppstein JoanFeigenbaum TimBl
+* TimBlNumber: 0
+* TimBlPath: TimBl
+|[TwittEr:timberners_lee]
+|[FaceBook:512908782]
+
+GoogleSearch #3 for "tim", GoogleSearch #1 for "sir tim"

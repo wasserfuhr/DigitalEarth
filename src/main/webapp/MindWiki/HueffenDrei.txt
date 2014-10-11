@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.08126&lon=7.28708&zoom=15&layers=B000FTTT ToDo
+* NearBy: WipperFeld

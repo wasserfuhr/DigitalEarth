@@ -1,0 +1,8 @@
+RainerWasserfuhr garantiert, dass es sich mit bei jedem seiner FaceBook-Kontakte am 15.10.2007 01:45 MESZ um echte und eindeutige Personen im Sinne einer MindId (WerdeMindBroker) handelte. 
+
+Ausnahmen: 
+* Mit einer einzigen Ausnahme sind auch alle PerSon'en mit RealName geführt.
+* einen VolkerGraubaum gibt es doppelt.
+
+Diese Garantie kann für die weitere ZuKunft allerdings nur unter Einschränkung gegeben werden, da FaceBook weder nicht über eine hinreichend TransParent'e OpenInfrastructure noch über SocialPassword's verfügt.
+Ganz zu schweigen von unzureichender HttPs-Verschlüsselung oder der BeTeiliGung durch MicroSoft.

@@ -1,0 +1,3 @@
+* IsA: PerSon
+* HasTalked: RainerWasserfuhr
+|[FaceBook:1327669511]

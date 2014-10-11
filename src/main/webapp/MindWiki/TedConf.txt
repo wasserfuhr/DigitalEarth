@@ -1,0 +1,3 @@
+* IsA: EventSeries
+* InterWiki: [DeWikiPedia:TED_(Konferenz)]
+* MindOne: ChrisAnderson2

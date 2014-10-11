@@ -1,0 +1,3 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Jonathan_Meese]
+* BirthDay: 01-23

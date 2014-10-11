@@ -1,0 +1,3 @@
+* EtymoLogia: TaiWan SemiConduct'or Manufacturing Company
+* IsA: EnterPrise
+* InterWiki: [DeWikiPedia:TSMC]

@@ -1,0 +1,9 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Nicholas_Negroponte]
+* BirthDay: 12-01
+* JahrGang: 1943
+* DbLp: http://dblp.uni-trier.de/rec/pid/n/NicholasNegroponte
+* MindFaves: OlPc
+* HasTalked: MartinVarsavsky
+
+ViafBug: http://viaf.org/viaf/79071601 http://viaf.org/viaf/68971385

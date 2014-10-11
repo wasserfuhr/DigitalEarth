@@ -1,0 +1,36 @@
+Consists of FutureCard's.
+
+Each FutureCard has
+* a page in the MindWiki
+* a CardOwner
+* an "UnTil"-value defined by the CardOwner
+
+||Card                 ||Year||Ownder
+|FurchtloseZehntausend |2010|HeikeRibke
+|ComputerGo            |2019|MartinRoell
+|LongBetOne            |2030|MartinRoell
+
+More cards:
+* FurchtloseTausend
+* MindTowerZwo
+* GoogleSpaceTower
+* PieschenTower
+* ElbOper
+* SleepLess
+* FurchtloseMillion
+* NacktSichtBrille
+* MindTower
+* GoogleLife
+* GlaesernesUnternehmen
+* GlaeserneBank
+* WeltSprache
+* GoogleMind
+* GoogleMindPro
+* CraigKriek
+* LunarSteigenberger
+* ImMortal
+* GlaesernerMensch
+* UpLoad
+* TheSingularity
+* HiltonCentauri
+* MgmGrandOrion

@@ -1,0 +1,7 @@
+||Bürger         ||Trustee 1      ||Trustee 2
+|RainerWasserfuhr|YvonneSchubert  |
+|YvonneSchubert  |RainerWasserfuhr|
+|AndreasWeigel   |RainerWasserfuhr|YvonneSchubert
+|UteMoritz       |RainerWasserfuhr|YvonneSchubert
+
+Diese WikiSpec in Kürze automatisch auf http://id.mindbroker.de/.

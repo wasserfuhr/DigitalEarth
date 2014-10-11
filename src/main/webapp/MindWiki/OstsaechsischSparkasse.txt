@@ -1,0 +1,6 @@
+* IsA: EnterPrise
+* InterWiki: [DeWikiPedia:Ostsächsische_Sparkasse_Dresden]
+* MindOne: JoachimHoof
+* HomePage: https://banking.ostsaechsische-sparkasse-dresden.de/cgi/anfang.cgi
+
+StadtDresden

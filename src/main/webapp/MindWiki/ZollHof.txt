@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* HomePage: http://www.zollhof-dresden.de/
+* PartOf: LeipzigerStrasse

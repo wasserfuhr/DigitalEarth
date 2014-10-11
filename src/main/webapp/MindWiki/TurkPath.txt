@@ -1,0 +1,15 @@
+The TurkNumber is currently calculated via DbLp.
+
+TurkPath:
+# JuergenAvenhaus
+# DieterRombach
+# ManfredBroy
+# LeslieLamport
+# BarbaraLiskov
+# JeffreyUllman
+# MichaelStonebraker
+# MosheYVardi
+# TomHenzinger
+# MonikaHenzinger
+# SergeyBrin
+# LarryPage

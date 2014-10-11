@@ -1,0 +1,4 @@
+RainerWasserfuhr RePeat'edly ReFactor's the MindWiki for
+* PageSize
+and probably soon for pages with most Back-ReFer'ences.
+The idea behind this is to keep the MindWiki as close as possible to a neuronal MetaPhor, where each neuron and synapse only has limited connections to its neighbours.

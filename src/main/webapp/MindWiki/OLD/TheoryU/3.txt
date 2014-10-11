@@ -1,0 +1,3 @@
+First WikiPage with NewCamelCase.
+
+Developed by OttoScharmer

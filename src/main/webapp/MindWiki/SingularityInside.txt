@@ -1,0 +1,13 @@
+* IsA: MindEvent
+* TimeLine: 2008-08-21:08:55 PDT
+* MitWirkende: JustinRattner JanRabaey TanLe
+* DcTitle: "Crossing the Chasm between HuMan's and Machines"
+* MindPlace: MosconeWest
+
+keynote during IntEl Developer Forum
+
+http://intelstudios.edgesuite.net/fall_idf/jr/f.htm
+
+explicitly mentioning RayKurzweil and TheSingularity.
+
+BrainComputerInterface NanoAssembler WirelessPower

@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BoundingBox: 80
+* HomePage: http://www.sky-gastro.de/
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/22999208
+
+[DeWikiPedia:Kugelhaus]

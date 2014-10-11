@@ -1,0 +1,3 @@
+* IsA: MindTree
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/611990527
+* NearBy: GrueterichEins

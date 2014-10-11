@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Charles_Simonyi]
+* BirthDay: 09-10
+* WorkFor: MicroSoft
+* MarriedTo: LisaPersdotter

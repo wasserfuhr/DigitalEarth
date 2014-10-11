@@ -1,0 +1,4 @@
+* IsA: MindHotel
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/560862818
+* HomePage: http://www.gasthof-weissig.de/
+* MindOne: BerndJannasch

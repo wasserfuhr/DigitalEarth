@@ -1,0 +1,7 @@
+* IsA: PerSon
+* DbLp: http://dblp.uni-trier.de/rec/pid/18/1671
+* HomePage: http://richard.cyganiak.de/
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker StefanDecker RichardCyganiak
+* MindSkill: SemanticWeb
+|[FaceBook:555777583]

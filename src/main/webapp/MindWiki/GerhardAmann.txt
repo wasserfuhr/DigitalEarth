@@ -1,0 +1,5 @@
+* IsA: PerSon
+* MarriedTo: ManuelaAmann
+* HomeStead: WinterThur
+* HasTalked: RainerWasserfuhr
+|[XingLe:Gerhard_Amann3]

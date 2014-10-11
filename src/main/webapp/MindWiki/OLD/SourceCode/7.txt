@@ -1,0 +1,17 @@
+Alle Sourcecodes werden mit [SVN|http://de.wikipedia.org/wiki/Subversion_%28Software%29] verwaltet:
+* svn://svn.mindbroker.de/opensource/
+Per Webbrowser kann man sich den SourceCode unter 
+*  http://websvn.mindbroker.de/
+anschauen. Darunter UnsereProjekte. Alles PureJava. Jedes Projekt wird in ReverseDomain-Notation im SVN abgelegt.
+Pro Projekt gibt es den üblichen [SVN-Konventionen|http://svnbook.red-bean.com/en/1.1/ch05s04.html] entsprechend die Ordner "trunk", "tags" und "branches", wobei derzeit keine Projekte branches benötigen.
+
+Schritte für Entwickler:
+* installiere ein JDK ab 1.5
+* installiere Eclipse 3.3
+* installiere Maven 2.0.7
+* installiere [Subversive|http://www.polarion.org/index.php?page=overview&project=subversive]
+* füge svn://svn.mindbroker.de/opensource/ als repository-Location hinzu.
+* checke ein Projekt aus
+* folge den Anweisungen in pom.xml
+
+Die Logins für SVN stehen unter MitWirkende.

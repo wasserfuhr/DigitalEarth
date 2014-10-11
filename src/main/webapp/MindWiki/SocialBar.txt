@@ -1,0 +1,5 @@
+* IsA: EventSeries
+* HomePage: http://socialbar.de/
+|[TwittEr:socialbar]
+
+AndreasPoldrack EtAl

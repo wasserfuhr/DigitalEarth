@@ -1,0 +1,3 @@
+* InterWiki: [DeWikiPedia:Closed_world_assumption] [WikiWikiWeb:ClosedWorldAssumption]
+
+ClosedWorld

@@ -1,0 +1,4 @@
+* IsA: MindEvent
+* XingEvent: https://www.xing.com/events/workshop-real-world-integration-produktion-logistik-385879
+
+UbiGrate

@@ -1,0 +1,3 @@
+* IsA: UnternehmensGruender
+* HasTalked: RainerWasserfuhr RalfLippold
+|[XingLe:Henrik_Liebscher]

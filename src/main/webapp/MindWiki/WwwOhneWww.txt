@@ -1,0 +1,1 @@
+WorldWideWeb without "www." - good for DelIcioUs SemanticWeb and TinyUrl-DeepLink's e.g. via TwittEr.

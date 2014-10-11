@@ -1,0 +1,6 @@
+* NamedAfter: WernerHeisenberg
+
+Interessant: eine Verteilungsfunktion HeisenBergisch(x,y,z,t,p) die für jedes (x,y,z,t) und jede PerSon p die
+WahrSchein'lichkeit angibt, dass p sich dort befindet.
+
+Klar ist, dass HeisenBergisch immer berechenbarer wird.

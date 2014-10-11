@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* InterWiki: [WikiPedia:Havana]
+* BreitenGrad: 23.097
+* LaengenGrad: -82.361
+* BoundingBox: 15000
+* MindCount: 2000000

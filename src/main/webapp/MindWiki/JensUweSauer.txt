@@ -1,0 +1,5 @@
+* IsA: PerSon
+* HasTalked: RalfLippold RainerWasserfuhr ChristineSchlinck KatharinaScheerer
+|[XingLe:JensUwe_Sauer]
+|[TwittEr:juwes]
+|[FaceBook:1413583321]

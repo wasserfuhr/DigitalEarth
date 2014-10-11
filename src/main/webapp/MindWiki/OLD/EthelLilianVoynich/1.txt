@@ -1,0 +1,4 @@
+* IsA: PerSon
+* MarriedTo: WinfriedVoynich
+
+GeorgeBoole

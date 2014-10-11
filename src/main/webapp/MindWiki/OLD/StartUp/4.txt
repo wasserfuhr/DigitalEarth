@@ -1,0 +1,12 @@
+DoIt: Beschreibe, wie man Unternehmen in NooPolis gründen kann.
+
+Bausteine:
+* BusinessPlan
+* CommitMent
+* GeschaeftsModell (mit CrowdWisdom-ErWartung an Umsätze, Benutzerzahlen etc.) 
+* HandelsRegister
+* InVest
+* RechtsForm
+* RoadMap
+* ShareHolder
+* VerTrag

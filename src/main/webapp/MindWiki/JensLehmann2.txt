@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Jens_Lehmann]
+* BornIn: 1969
+* BirthDay: 11-10
+* MindSkill: MindSoccer

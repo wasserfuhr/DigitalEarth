@@ -1,0 +1,7 @@
+* MindTags: MindPeople
+* JahrGang: 1792
+* BirthDay: 03-11
+* BirthPlace: EiScheid
+* PapaZwoNull: HeinrichWilhelmHerchenbach
+* EheVertrag: MariaChristinaFelder
+* LebensEnde: 1859

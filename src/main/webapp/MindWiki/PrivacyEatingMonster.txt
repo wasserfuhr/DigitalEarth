@@ -1,0 +1,6 @@
+PostPrivacy
+
+feeded with the DataMap.
+
+AcceleratingReturns:
+* CalculationsPerSecondPerDollar

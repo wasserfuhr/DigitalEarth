@@ -1,0 +1,39 @@
+The WikiWall below also can be seen at LockOffice for visitors. The intention is to find, visualize and manage the HotTopics (be it PerSon's, EnterPrise's, technologies, ProJect's or ideas) ConNect'ed with the LockSchuppen.
+
+http://www.flickr.com/photos/ralflippold/4222770387/:
+
+(the following WikiTable is generated via [a|http://spreadsheets.google.com/pub?key=tJsnUrFH9ZjsYZ9nhgzu96g] GoogleDoc:
+| | | | | | | | |JohnSterman | | | | | | | | | | |
+| | | | | | | |JeffBoyer  | | | | | | | | | | | |
+| | | | | | |PaulFLevy  | | | | | | | | | | | | |
+| | | | | |EdgarSchein | | | | | | | | | | | |SpuerschtWieIDenk | |
+| | | | |WalterRiester | | | |ScottMonty  | | | | | |PerKristiansen | |SeaNation | |LisaPirwitz |
+| | | | | |DirkSpannaus | |AlfredHanner | |EricVonHippel | |ArturFriedrich | |MartinRoell | |JamesParsons  | |FutureCard | |
+| | | | | | |UlrichDeppendorf | |DigitalTwin | |AntjeLippold | |PeterPlan  | |HolgerDemnitz | |FrankSchoenefeld | |MartinFiedler |
+| | | | | | | |RichardFlorida | |__WikiWallAd__ | |JanHinrichs  | |GottfriedWilhelmLeibniz | |SocialMedia | |WilhelmZoergiebel | |
+| | | | | | |DonGreer | |CarloRatti | |MichaelBean | |MartinAha  | |NiklasLuhmann | |PamelaPaquinHall | |PieschenBank |
+| | | | | |RfId | |GunterDueck | | | | | |ArtKleiner | |RalphSonntag | |LockTeam | |
+| | | | | | | | |EdRugero | |LockSchuppen | |TheSingularity | |OttoScharmer | |InterNet | |PeterStawowy |
+| | | | | | | |SmarterCities | |JimWomack | |JensBemme | |PresencingStatus | |SiggiBecker | |EquipMent | |
+| | | | | | | | |RachelReagan | |ZuKunft | |TelePresence | |OpenCoffeeClubDresden | |PeterEberle | |JohannesPartanen |
+| | | | | | | |MarkGraban | |RayInDresden | |SystemDynamics | |BusinessEnglishBachelor | |CamelCase | |AudioTagging | |
+| | | | | | |BertramDressel | |ThomasGerhardt | |RobCross | |RalfLippold | |TwitterKurs | |NooPolis | | |
+| | | | | |LauraBlack | |AlexanderGoetze | |RainerWasserfuhr | |SemanticWeb | |MindWiki | |CharlesVanDerHaegen | | | |
+| | | | | | | | | | |PeterTeichmann | | | |AndrewParker | |HeinzEggert | | |
+| | | | | | | | | | | |PeterSenge | |PieschenMedia | | | | | |
+| | | | | | | | | | | | |ChristophAnders | |MariaBoeckmann | |WikiWall | | |
+| | | | | | | | | | | | | |PeterClaussen | |SupPorter | | | |
+| | | | | | | | | | | | | | |KaiRopers | |JayForrester | | |
+
+!Process for updating data:
+* Go to [GoogleDoc|http://spreadsheets.google.com/pub?key=tJsnUrFH9ZjsYZ9nhgzu96g]
+* change data in the matrix
+* copy first column
+* go back to WikiWall
+* and paste the copied data over present data
+
+
+http://www.flickr.com/photos/ralflippold/4179002538/ :
+|Sponsoren|Internetseite             |TwitterKurs               |SocialMedia Kurs
+|                    |SocialMedia             |UnternehmensNarr|Erfahrung
+|                    |Org v. Schulungen |CommunityBuilding |GruenderHilfe|KreativeLoesungen|CustomerChallenge

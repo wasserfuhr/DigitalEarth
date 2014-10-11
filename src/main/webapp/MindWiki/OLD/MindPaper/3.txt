@@ -1,0 +1,8 @@
+Recent'ly studied:
+
+20100116:
+* http://dblp.uni-trier.de/rec/bibtex/conf/agi/GoertzelP08 BenGoertzel
+* http://www.pubzone.org/dblp/conf/IEEEicci/Goertzel09a BenGoertzel OpenCog
+
+20100112
+* http://dblp.uni-trier.de/rec/bibtex/conf/semweb/AuerLH09 SoerenAuer LinkedGeoData

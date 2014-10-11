@@ -1,0 +1,11 @@
+* KindOf: MindPlace
+
+||OsmTag   ||uses
+|restaurant|103,308
+|pub       |48,682
+|fast_food |36,785
+|cafe      |29,573
+|bar       |6,671
+|biergarten|2,941
+|nightclub |2,583
+http://tagstat.hypercube.telascience.org/tagdetails.php?tag=amenity

@@ -1,0 +1,92 @@
+* MindTags: MindPlace
+* InterWiki: [DdWiki:Neustadt], [DeWikiPedia:Ortsamtsbereich_Neustadt_(Dresden)]
+* BreitenGrad: 51.066
+* LaengenGrad: 13.748
+* BoundingBox: 2000
+* MindCount: 40000
+
+Kleines Experiment: Wieviel Items aus dem WortSchatz von RainerWasserfuhr befinden sich in der 
+rund 4.000.000 qm grossen BoundingBox der NeuStadt?:
+
+* AlaunPark
+* AlaunStrasse
+* AlbertPlatz
+* AlCaponeDresden
+* BabosDueruem
+* BabyWaltz
+* BailamorClub
+* BarParadox
+* BautzenerStrasse
+* BischofsWeg
+* BlueNote
+* Blumenau
+* CafeEuropa
+* CafeKontinental
+* CafeOle
+* CarteBlanche
+* CataPult
+* ClaudiasFriseursalon (gone?)
+* CommerzbankNeustadt
+* DeutscheBankNeustadt
+* DresdenFactoring
+* DevilsKitchen
+* DownTown
+* Duerum
+* ElPerroBorracho
+* FoerstereiStrasse
+* FranksBar
+* FressBude
+* Gaia
+* GoerlitzerStrasse
+* HauptPost
+* Hebedas
+* Hundertwasserfuhrhaus (never built)
+* JordanStrasse
+* KamenzerStrasse
+* KatharinenStrasse
+* KatysGarage
+* KoenigsbrueckerStrasse
+* GonnSumm
+* Kunsthof
+* LaVieEnRose (gone)
+* (Big?) Lebowski
+* LouisenStrasse
+* Lloyds
+* LutherKirche
+* LutherPlatz
+* MaxDresden
+* McXery
+* MondPalast
+* Metronom
+* NudelTurm
+* OezNemrut
+* OostEinde
+* Orpheum
+* OstPol
+* AspPanama
+* PiesnitzStrasse
+* PfundsMolkerei
+* Projekttheater
+* Queens
+* RasKolNiKoff
+* RothenburgerStrasse
+* SchauBurg
+* ScheuneDresden
+* SchwalbenNest
+* SeidenStrasse
+* Spar
+* SparKasse
+* Suppen...
+* Thalia
+* TirNaNog
+* Tokyo
+
+damn, vergessen:
+* Der edle Videoverleih auf der Koenigsbruecker
+
+Resumee: In einem stark urban besiedelten Gebiet dürfte etwa pro 60000 qm ein Wort im SpatialModel des MindCube von RainerWasserfuhr zu finden sein.
+
+Nachtrag von ChristineSchlinck:
+* PlanWirtschaft
+* LoftHouse
+* ShowBar

@@ -1,0 +1,7 @@
+* IsA: PerSon
+* InterWiki: [WikiWikiWeb:BruceSchneier]
+* BirthDay: 01-15
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/BruceSchneier
+* HomePage: http://www.schneier.com/
+* PageNumber: 7
+* PagePath: LarryPage SergeyBrin MonikaHenzinger TomHenzinger MosheYVardi AlexAiken DavidWagner BruceSchneier

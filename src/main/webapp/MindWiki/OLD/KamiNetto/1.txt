@@ -1,0 +1,3 @@
+* IsA: SuperMarket
+* HomePage: http://www.mueslihaus.de/
+* NamedAfter: KamenzerStrasse

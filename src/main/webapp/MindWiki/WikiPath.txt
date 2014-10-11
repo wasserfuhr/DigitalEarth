@@ -1,0 +1,9 @@
+Die Startseite des MindWiki ist die Seite MindBroker.
+
+Ein WikiPath ist eine Folge von *unterschiedlichen* Wikiseiten, durch die eine Wikiseite über einen oder mehrere Clicks im MindWiki von der Startseite aus erreichbar ist.
+
+Die RecentChanges und der PageIndex dürfen im WikiPath nicht vorkommen.
+
+Jede Seite im PageIndex hat null, einen oder mehrere WikiPath's.
+
+Für die algorithmische Ermittlung des WikiPath sind MindSkill's in der Graphentheorie und Komplexitätstheorie von Vorteil.

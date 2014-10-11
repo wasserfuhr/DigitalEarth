@@ -1,0 +1,3 @@
+http://db.cs.berkeley.edu/claremont/
+
+2008: RakeshAgrawal AnastasiaAilamaki PhilipABernstein EricABrewer MichaelJCarey SurajitChaudhuri AnHaiDoan DanielaFlorescu MichaelJFranklin HectorGarciaMolina JohannesGehrke LeGruenwald LauraMHaas AlonYHalevy JosephMHellerstein YannisEIoannidis HankFKorth DonaldKossmann SamuelMadden RogerMagoulas BengChinOoi TimOReilly RaghuRamakrishnan SunitaSarawagi MichaelStonebraker AlexanderSSzalay GerhardWeikum

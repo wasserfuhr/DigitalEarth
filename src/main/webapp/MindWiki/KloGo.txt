@@ -1,0 +1,2 @@
+ein Go-Spiel, bei dem ein Spieler von Zeit zur Zeit verschwindet
+und der Gegner derweil einen Stein bewegen darf.

@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Ray_Solomonoff]
+* BornIn: 1926
+* BirthDay: 07-25 
+* DbLp: http://dblp.uni-trier.de/rec/pid/00/4634
+* HomePage: http://world.std.com/~rjs/
+* DiedIn: 2009
+* PageNumber: InFinite

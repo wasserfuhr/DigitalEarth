@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* InterWiki: [DeWikiPedia:Alte_Mensa_Dresden]
+* OpenStreetMap: http://www.openstreetmap.org/browse/way/27743320

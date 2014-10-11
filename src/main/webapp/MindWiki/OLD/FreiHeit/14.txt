@@ -1,0 +1,15 @@
+Alle BuergerInnen von NooPolis haben die Freiheit, 
+* jede Seite im AgWiki zu editieren, und damit auch
+** VerFassung
+** HausHalt
+* weitere Bürger einzuladen
+* UnsereProjekte zu nutzen
+
+Weitere Freiheiten:
+* Root-Passworte für UnserGrid: RainerWasserfuhr, DanielPoodratchi.
+* MindSql: RainerWasserfuhr, DanielPoodratchi, YvonneSchubert.
+* außerdem: Commit-Rechte für den SourceCode: AndreasStuhlmueller, AndreasWeigel
+
+Die FreiHeit von BuergerInnen kann nur eingeschränkt werden durch ein Urteil des MindCourt.
+
+Derzeit bestehen keine Freiheitseinschränkungen.

@@ -1,0 +1,5 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Roland_Barthes], [OpenCyc:RolandBarthes-Semiotician]
+* JahrGang: 1915
+* BirthDay: 11-12
+* LebensEnde: 1980

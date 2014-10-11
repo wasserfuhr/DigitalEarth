@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/d/EEDoberkat
+* HomePage: http://ls10-www.cs.uni-dortmund.de/index.php?id=33

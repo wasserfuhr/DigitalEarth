@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Harry_Rowohlt]
+* ChildOf: ErnstRowohlt
+* BirthDay: 03-27
+
+LindenStrasse

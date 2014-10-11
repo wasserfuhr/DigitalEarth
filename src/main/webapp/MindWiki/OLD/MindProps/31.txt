@@ -1,0 +1,293 @@
+Auf jeder WikiPage im MindWiki kann man EigenSchaft'en definieren nach dem Muster:
+
+{{{
+* PropName: Wert
+}}}
+
+MindProps sind so etwas wie SemanticWiki light.
+MindProps können per MindApi von anderen WebApp's einfach ausgelesen und weiterverarbeitet werden.
+
+Eigenschaften, die auf Seiten angegeben werden können:
+
+Auf allen Seiten:
+* InterWiki
+* MindQuote
+* MindTags
+* SprachWelt
+
+MindBook:
+* IsBn
+
+MindPeople:
+* AusLand
+* BirthDay
+* IchBiete
+* IchSuche
+* InBody
+* JahrGang
+* EheRinge
+* EheVertrag
+* JahrGang
+* KnisterRinge
+* LebensEnde
+* LebensErwartung
+* LiebesRinge
+* MindBrowser
+* MindFaves
+* MindFollow
+* MindMac
+* MindSkill
+* MindTrust
+* ShockLevel
+* TraumGruppe
+* TraumJahrGang
+* TurkNumber
+* WohnSitz
+* XingId
+* SteuerNummer
+
+MindPlace:
+* BreitenGrad
+* LaengenGrad
+* BoundingBox
+* NormalNull
+* GraDient
+* SlimNess
+
+UnterNehmen:
+* HeadQuarters
+* IsIn
+* MindOne
+* SteuerNummer
+
+!RePort: The most frequently used MindProps:
+|4136|842|MindTags
+|2879|484|InterWiki
+|1251|149|HomePage
+|1098|170|BirthDay
+|931|349|JahrGang
+|623|111|MindSkill
+|379|8|MindOne
+|292|165|BoundingBox
+|291|70|HerKunft
+|264|0|OpenStreetMap
+|250|83|LebensEnde
+|236|164|BreitenGrad
+|235|164|LaengenGrad
+|219|50|MindQuote
+|152|53|WohnSitz
+|106|20|MindFaves
+|101|1|HasTalked
+|81|46|MindCount
+|80|6|MindBlog
+|80|6|PapaZwoNull
+|78|0|NamedAfter
+|62|0|ParteiWiki
+|60|0|UnTil
+|58|0|PreDict
+|57|27|SlimNess
+|55|27|GraDient
+|53|0|ViAf
+|51|0|DcAuthor
+|49|0|InvitedBy
+|41|0|InspiredBy
+|39|27|SprachWelt
+|37|0|CardOwner
+|35|39|MindLine
+|35|5|MamaZwoNull
+|35|0|PieschenTv
+|33|10|SloGan
+|31|8|EheVertrag
+|31|3|MitWirkende
+|31|1|MindPlace
+|28|6|CurrentProjects
+|26|6|IsIn
+|25|0|BirthPlace
+|23|0|PartOf
+|22|21|RdfProperty
+|21|3|XingEvent
+|19|18|FoAf
+|19|3|PastProjects
+|18|2|HasKissed
+|17|14|DcTitle
+|14|7|HeadQuarters
+|13|11|WorldLanguages
+|13|7|IstEin
+|13|4|XingId
+|12|0|HashTag
+|12|0|WaveAddress
+|11|8|MindTrust
+|11|0|PreDictDe
+|10|2|MindBrowser
+|10|0|WikiLender
+|9|12|VorName
+|9|8|NormalNull
+|9|1|UsElection08
+|9|0|CardHolder
+|9|0|FoundedBy
+|9|0|TrustLevel
+|8|8|RdfClass
+|8|6|LebensErwartung
+|8|2|TimeLine
+|8|0|MmSi
+|7|8|WeltSprache
+|7|0|FutureNumber
+|7|0|HasVisited
+|7|0|SchneiderMuch
+|6|11|NachName
+|6|5|MindMac
+|6|3|IsBn
+|6|1|InVest
+|6|1|TimeZone
+|6|0|HotTopics
+|6|0|OwnedBy
+|6|0|PreLockAction
+|6|0|WebLog
+|5|3|MindRole
+|5|1|HasSeen
+|5|0|EnErgie
+|5|0|EselsBruecke
+|5|0|LandingPage
+|4|4|DeScription
+|4|2|IchBiete
+|4|2|TurkNumber
+|4|1|WaterHandICap
+|4|0|AircraftRegistration
+|4|0|DrankBeerWith
+|4|0|PageNumber
+|3|3|HandelsRegister
+|3|3|ShockLevel
+|3|3|UstId
+|3|2|EyeColor
+|3|2|TraumGast
+|3|2|TraumZeitAlter
+|3|2|UnternehmensGruender
+|3|1|EuropeanArticleNumber
+|3|0|BikeCount
+|3|0|CalculationsPerSecond
+|3|0|CarCount
+|3|0|ConTainer
+|3|0|DeFine
+|3|0|DependsOn
+|3|0|ElectroCarCount
+|3|0|FutureCaptain
+|3|0|GastGeber
+|3|0|HasTouched
+|3|0|LocatedIn
+|3|0|MindId
+|3|0|NearBy
+|3|0|OtherLanguages
+|3|0|PlanesCount
+|3|0|UnitOwner
+|3|0|VereinsRegister
+|3|0|VolksVertretung
+|3|0|WortSchatz
+|2|3|FoafKnows
+|2|2|BoardCenter
+|2|2|BoundingBoxCaptain
+|2|2|FortunePerMind
+|2|2|IchSuche
+|2|2|InBody
+|2|2|LiebesRinge
+|2|2|MindKodex
+|2|2|RechtsForm
+|2|1|HochZeit
+|2|1|MindFollow
+|2|1|WikiPate
+|2|1|WoZu
+|2|0|ForSaleFor
+|2|0|HaeufigsteWoerter
+|2|0|HebbianLink
+|2|0|KasimirNummer
+|2|0|LastInBoxCheck
+|2|0|ManTra
+|2|0|MindColor
+|2|0|ObamaNumber
+|2|0|RoellNumber
+|2|0|ShareHolder
+|2|0|TeilNehmer
+|2|0|WikiAngel
+|2|0|XingGroup
+|1|3|InBox
+|1|2|FeedReader
+|1|2|JederMann
+|1|1|BoardSize
+|1|1|DueckGefaerbt
+|1|1|EinSchreiben
+|1|1|FinishedAt
+|1|1|FormerlyKnownAs
+|1|1|HumanHeight
+|1|1|LexBill
+|1|1|MiNd
+|1|1|MindPet
+|1|1|MovedTo
+|1|1|OpenId
+|1|1|PoTs
+|1|1|SerienNummer
+|1|1|StartedAt
+|1|1|VertretungsBerechtigt
+|1|0|AtomicNumber
+|1|0|AutoBiografie
+|1|0|AvaTar
+|1|0|BaconNumber
+|1|0|BlutDruck
+|1|0|BrainStorm
+|1|0|CallSign
+|1|0|CoAuthoredWith
+|1|0|CoinedBy
+|1|0|DeadLine
+|1|0|DidYouMean
+|1|0|DigitalTwin
+|1|0|EuropaWahl09
+|1|0|FullNess
+|1|0|GeSund
+|1|0|HalteStelle
+|1|0|HappiNess
+|1|0|HappyBirthday
+|1|0|HomeMage
+|1|0|IchLese
+|1|0|IntelLigence
+|1|0|InVentory
+|1|0|KindEinsNull
+|1|0|KnowLedge
+|1|0|LeiderVerhindert
+|1|0|LifeExpectancy
+|1|0|LightYears
+|1|0|MagaZine
+|1|0|MeinTraum
+|1|0|MeinWerk
+|1|0|MentalModel
+|1|0|MindInteressen
+|1|0|MindLinks
+|1|0|MindTwo
+|1|0|MuSic
+|1|0|NnDb
+|1|0|NumberOfNeurons
+|1|0|PreVents
+|1|0|RufName
+|1|0|SachsenWahl09
+|1|0|SatelliteOf
+|1|0|SchiedsRichter
+|1|0|StadiumWiki
+|1|0|StadtWiki
+|1|0|StudienRichtung
+|1|0|TagCloud
+|1|0|TestosteroneLevel
+|1|0|ThirstiNess
+|1|0|ThreeTags
+|1|0|TotalRecall
+|1|0|TranslatedFrom
+|1|0|TranslatedInto
+|1|0|TwitId
+|1|0|TwittEr
+|1|0|TwittiPedia
+|1|0|VorStand
+|1|0|WorkFields
+|1|0|WorkPlaces
+|0|2|DcCreator
+|0|2|EheRinge
+|0|2|MindPate
+|0|2|XingPate
+|0|1|EheZeuge
+|0|1|ProjectLead
+|0|1|PropName

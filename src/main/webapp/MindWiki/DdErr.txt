@@ -1,0 +1,17 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Deutsche_Demokratische_Republik]
+* BreitenGrad: 52
+* LaengenGrad: 10
+* BoundingBox: 400000
+
+ehemals ein Land im Osten von DeutschLand.
+
+bald als MindMe?: http://ddr.mindbroker.de/
+
+PageIndex:
+* AdolfHennecke
+* DimitroffBruecke
+* HeiligenDamm
+* KuchenLoch
+* MuttiHeft
+* VerdienstBienchen

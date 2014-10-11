@@ -1,0 +1,6 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Le_Corbusier]
+* JahrGang: 1887
+* BirthDay: 10-06
+* LebensEnde: 1965
+* MindSkill: MindBau

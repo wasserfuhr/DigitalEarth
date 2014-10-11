@@ -1,0 +1,3 @@
+Wenn jemand vorhat, grössere Änderungen am Code vorzunehmen, bitte vorher hier eintragen.
+
+Wenn fertig, dann natürlich wieder löschen ;).

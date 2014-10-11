@@ -1,0 +1,1 @@
+Fast jede WebApp hat ein DomainModel auf Basis von Hibernate Annotions.

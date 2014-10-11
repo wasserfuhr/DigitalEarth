@@ -1,0 +1,4 @@
+* IsA: MinisTer
+* InterWiki: [DeWikiPedia:Brigitte_Zypries]
+* BirthDay: 11-16
+* DbLp: http://dblp.uni-trier.de/db/indices/a-tree/z/Zypries:Brigitte.html

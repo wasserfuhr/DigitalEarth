@@ -1,0 +1,8 @@
+* MindTags: MindPeople
+* InterWiki: [LangReiter:Werner+Vogels], [WebSeitz:WernerVogels], [WikiPedia:Werner_Vogels], [WikiWikiWeb:WernerVogels]
+* MindFaves: WorkingBackwards
+* HomePage: http://www.allthingsdistributed.com/
+||AusLand
+|[TwittEr:Werner]
+|[XingLe:Werner_Vogels]
+|[FlickEr:wernervogels]

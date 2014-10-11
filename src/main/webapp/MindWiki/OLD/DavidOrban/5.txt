@@ -1,0 +1,11 @@
+* MindTags: SingularityMind
+* InterWiki: [WikiPedia:David_Orban]
+* JahrGang: 1965
+* HomePage: http://www.davidorban.com/
+* HasTalked: AlGore JohnNash VernorVinge RobertAumann TimOReilly
+* MindSkill: InternetOfThings
+* WaveAddress: david.orban@googlewave.com
+||AusLand
+|[TwittEr:davidorban]
+|[FaceBook:692897055]
+|[XingLe:David_Orban]

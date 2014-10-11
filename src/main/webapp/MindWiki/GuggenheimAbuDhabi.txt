@@ -1,0 +1,5 @@
+* IsA: MindPlace
+* InterWiki: [WikiPedia:Guggenheim_Abu_Dhabi]
+* PartOf: AbuDhabi
+
+FrankGehry

@@ -1,0 +1,28 @@
+http://www.spectrum.ieee.org/singularity
+
+Authors:
+* RobinHanson
+* GlennZorpette
+* SallyAdee
+* ChristofKoch and GiulioTononi
+* AlfredNordmann
+* RichardJones
+* RodneyBrooks
+* VernorVinge
+
+Who's Who In The Singularity:
+* KurzWeil
+* HansMoravec
+* NickBostrom
+* VernorVinge
+* ElizierYudkowsky
+* ChristofKoch
+* KevinKelly
+* BillJoy
+* MarvinMinsky
+* DanielDennett
+* RodneyBrooks
+* JaronLanier
+* JohnHolland
+* JohnSearle
+* RogerPenrose

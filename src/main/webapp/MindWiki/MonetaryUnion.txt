@@ -1,0 +1,6 @@
+* InterWiki: [WikiPedia:Monetary_union]
+
+|EuRo       |EurOpa
+|UsDollar   |UnitedStates
+|KayGroschen|NooPolis
+|EnErgie    |UniVerse

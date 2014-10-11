@@ -1,0 +1,15 @@
+"AlleAugen" ist eine Idee für ein WikiBasiert'es Bürge- und Beglaubigungsprinzip in NooPolis, mit dem besonders relevante WikiPage's einem ReView unterliegen und dennoch ganz ohne UnserNotar auskommen.
+
+Grundsätzlich kann jede Seite von allen BuergerInnen editiert werden.
+
+Falls
+* BuergerInnen die Gültigkeit einer Seitenbearbeitung anzweifeln (z. B. bei Sicherheitslücken, Geschäftsunfähigkeit des Editierenden etc.) und 
+* der ursprünglich Editierende AbWesend ist oder bei seinem LebensEnde,
+kann er eine Beglaubigung von BuergerInnen einfordern:
+
+AchtAugen: (Also 4 BuergerInnen)
+* LastWill
+
+SechsAugen: (Also 3 BuergerInnen)
+* VerFassung
+* VerTrag

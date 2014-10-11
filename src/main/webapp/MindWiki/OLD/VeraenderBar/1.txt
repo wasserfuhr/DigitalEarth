@@ -1,0 +1,4 @@
+* IsA: MindPlace
+* HomePage: http://www.veraenderbar.net/
+* PartOf: GoerlitzerStrasse
+* MindOne: AnjaLange

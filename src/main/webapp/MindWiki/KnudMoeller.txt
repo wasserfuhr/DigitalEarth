@@ -1,0 +1,7 @@
+* IsA: PerSon
+* SwDf: http://data.semanticweb.org/person/knud-moeller
+* DbLp: http://dblp.uni-trier.de/rec/pid/88/7568
+* HomePage: http://kantenwerk.org/
+* PageNumber: 6
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker StefanDecker KnudMoeller
+|[FaceBook:577111891]

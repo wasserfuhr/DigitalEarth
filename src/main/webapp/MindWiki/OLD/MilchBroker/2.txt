@@ -1,0 +1,4 @@
+Hier kann Milch gekauft und verkauft werden.
+
+||BuergerInnen   ||Art   ||Liter||KayGroschen/l||
+|RainerWasserfuhr|   Kauf|3     |100

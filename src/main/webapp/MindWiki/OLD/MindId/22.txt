@@ -1,0 +1,53 @@
+A unique ID for each and every mind on planet earth!: http://id.mindbroker.de/
+
+Ist das zentrale Login für jede WebApp, die UnserGrid hostet.
+
+Jeder MindBroker kann mit einer einmaligen Registrierung und einem einmaligen Login eine Vielzahl verschiedener sogenannter "Zones" nutzen.
+
+MindIds 1-5: Alphatester; siehe MitWirkende.
+
+Kandidaten:
+* 6*: UteMoritz
+* 7*: NicoHagenburger
+* 8*: ChristineSchlinck
+* 9*: OliverGassner
+* 10* KatharinaKuehnel
+* 11* JuergenKohn
+* TiPi
+* 10* SebastianMitter (20 EUR)
+* EvLu
+* * PierreKerchner
+* DirkRiehle
+* TimBonnemann
+* http://mindbroker.de/Search.jsp?query=UnternehmensGruender
+* StHeller
+* StephanSchmidt
+* MatthiasJugel
+* GunterDueck
+* StephanMosel
+* AndreasStuhlmueller
+* CemBasman
+* BeatDoebeli
+* HelmutLeitner
+* HagenStanek
+* JoiIto
+* LawrenceLessig
+* InPl
+* ManuelaAmann
+* JosefBuechel
+* JaDi
+* PierreKerchner
+* JensWegerle
+* JaRe
+
+ *): Von der Person selbst angefragt.
+
+Vanity-MindId: Runde Zahlen und Schnapszahlen werden nachher bei ebay versteigert.
+
+Erste WebApps mit MindId:
+* DoIt
+* MindFloor
+* MindMe
+* SportWiki
+
+Später: OpenId für jeden User einer MindBroker-WebApp.

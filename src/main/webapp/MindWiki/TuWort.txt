@@ -1,0 +1,20 @@
+ein MindVerb als MindSkill, das unter den HaeufigsteWoerter MoegLich'st weit oben steht, zB:
+
+RoswithaHunold:
+* forschen
+* schreiben
+* tanzen
+* lehren
+* UnterRicht'en
+
+RainerWasserfuhr:
+* fragen
+* vorhersehen
+* VerSteh'en
+
+RalfLippold
+* ConNect
+* do
+
+SaschaLafer:
+* kochen

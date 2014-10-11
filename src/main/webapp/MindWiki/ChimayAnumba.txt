@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/95/145
+* HomePage: http://www.engr.psu.edu/AE/faculty/anumba/
+* HasTalked: RainerWasserfuhr
+* PageNumber: 9
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AndreasAbecker RudiStuder YorkSure MartinHepp AlistairDuke ChimayAnumba
+
+PsuEdu

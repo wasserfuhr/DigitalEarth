@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/p/MPiattini
+* HomePage: http://alarcos.inf-cr.uclm.es/per/mpiattini/
+* PageNumber: 6
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ArndtBode HeinrichMayr MarioPiattini

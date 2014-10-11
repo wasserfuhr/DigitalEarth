@@ -1,0 +1,38 @@
+Curriculum of the SingularAcadamy
+
+!1-9 DigitalNative
+* AlphaBet
+* TastaTur
+* LapTop
+* WiFi
+* InterNet
+* HtTp
+* HtMl
+* WiKi
+* MindPhone
+
+!10-19 SemanticWeb
+* RdF
+* FoAf
+* SparQl
+* MulgaraRLog
+* ...
+
+!20-29 HirnForschung
+* EmotivEpoc
+* BrainComputerInterface
+* EpisodicMemory
+* ...
+
+!30-39 InternetOfThings
+* RfId
+* QrCode
+* ...
+
+!...
+
+!90-99 ArtificialGeneralIntelligence
+* TuringTest
+* LongBetOne
+* OpenCog
+* TakeOff

@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Dieter_Rombach]
+* BirthDay: 06-06
+* DbLp: http://dblp.uni-trier.de/rec/pid/r/HDRombach
+* PageNumber: 6
+* PagePath: LarryPage HectorGarciaMolina JeffreyUllman BarbaraLiskov LeslieLamport ManfredBroy DieterRombach

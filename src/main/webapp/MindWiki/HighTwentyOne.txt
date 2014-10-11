@@ -1,0 +1,3 @@
+* IsA: MindBuilding
+* OwnedBy: GagfAh
+* PartOf: HochschulStrasse

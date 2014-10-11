@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/s/RSun
+* HomePage: http://www.cogsci.rpi.edu/~rsun/
+* PageNumber: 
+* PagePath: LarryPage ... RonSun

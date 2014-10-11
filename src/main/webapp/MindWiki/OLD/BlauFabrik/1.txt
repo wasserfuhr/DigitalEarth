@@ -1,0 +1,3 @@
+* IsA: MindPlace
+* HomePage: http://www.blauefabrik.de/
+* MindOne: GuenterHeinz

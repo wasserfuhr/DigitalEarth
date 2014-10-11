@@ -1,0 +1,6 @@
+* IsA: PerSon
+* InterWiki: [WikiPedia:Oliver_Selfridge]
+* BirthDay: 05-10
+* DbLp: http://dblp.uni-trier.de/rec/pid/51/2748
+* PageNumber: 5
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy MarvinMinsky OliverSelfridge

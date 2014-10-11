@@ -1,0 +1,7 @@
+* MindTags: MindPlace
+* InterWiki: [DeWikiPedia:Luisenhof_(Dresden)]
+* BreitenGrad: 51.05820
+* LaengenGrad: 13.81834
+* BoundingBox: 40
+* MindCount: 20
+* HomePage: http://www.luisenhof.org/

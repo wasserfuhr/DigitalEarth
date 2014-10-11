@@ -1,0 +1,23 @@
+* InterWiki: [DeWikiPedia:Digital_Bibliography_%26_Library_Project]
+* HomePage: http://dblp.uni-trier.de/
+* MindOne: MichaelLey
+
+ToDo: move as MindProps to their WikiPage:
+
+LarryPage:
+* DbLp: http://dblp.uni-trier.de/rec/pid/p/LawrencePage
+
+RaimarScherer:
+* DbLp: http://dblp.uni-trier.de/rec/pid/91/2959
+
+TimBl:
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/TimBernersLee
+
+WardCunningham:
+* DbLp: http://dblp.uni-trier.de/rec/pid/09/5151
+
+WolfgangBibel:
+* DbLp: http://dblp.uni-trier.de/rec/pid/b/WBibel
+
+ZigaTurk:
+* DbLp: http://dblp.uni-trier.de/rec/pid/15/960

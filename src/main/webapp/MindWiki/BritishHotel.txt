@@ -1,0 +1,4 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.050604
+* LaengenGrad: 13.741907
+* BoundingBox: 40

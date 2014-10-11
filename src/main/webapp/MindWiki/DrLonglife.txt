@@ -1,0 +1,23 @@
+* HomePage: http://www.sueddeutsche.de/app/gesundheit/drlonglife/
+
+ Sie haben noch
+26,5 Jahre
+zu leben und werden voraussichtlich
+67,1 Jahre
+alt.
+
+Der Teil der Allgemeinbevölkerung, der jetzt so alt ist wie Sie, hat eine restliche Lebenserwartung von 36,2 Jahren.
+
+Dieser Wert korrigiert sich in Ihrem besonderen Fall durch die im folgenden beschriebenen Risiken:
+
+Sie gewinnen oder verlieren durch die folgenden Faktoren
+* Rauchen: 	-5,5 Jahre
+* Gewicht: 	+1,5 Jahre
+* Familienstand: 	-3,1 Jahre
+* Alkohol: 	+0,9 Jahre
+* Blutdruck: 	0,0 Jahre
+* Sport: 	-3,5 Jahre
+* Diabetes: 	+0,7 Jahre
+* Arbeitslosigkeit: 	+0,2 Jahre
+* Ernährung: 	-0,2 Jahre
+* Schlafmittel: 	0,0 Jahre 

@@ -1,0 +1,8 @@
+* IsA: MindPlace
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/568285499
+* HomePage: http://www.veraenderbar.net/
+* PartOf: GoerlitzerStrasse
+* MindOne: AnjaLange
+
+
+DifferentFrom: http://piratepad.net/VeraenderBar

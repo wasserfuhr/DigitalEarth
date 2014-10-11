@@ -1,0 +1,7 @@
+* MindTags: MindPeople
+* InterWiki: [DeWikiPedia:Charles_Stross], [OpenCyc:CharlieStross-Author], [WebSeitz:CharlieStross]
+* JahrGang: 1964
+* BirthDay: 10-18
+* HomePage: http://www.antipope.org/charlie/
+
+MustRead: AccelerAndo

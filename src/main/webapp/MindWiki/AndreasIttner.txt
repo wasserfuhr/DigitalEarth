@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* MindSkill: DataMining
+* DbLp: http://dblp.uni-trier.de/rec/pid/47/5121
+* PageNumber: 8
+* PagePath: LarryPage TerryWinograd AllenNewell JohnMcCarthy AaronSloman JoergSiekmann PeterRaulefs WernerDilger AndreasIttner
+|[XingLe:AndreasIttner]

@@ -1,0 +1,8 @@
+* IsA: PerSon
+* HomePage: http://staff.science.uva.nl/~juckelma/
+* DbLp: http://dblp.uni-trier.de/rec/pid/90/3363
+* PageNumber: 9
+* PagePath: LarryPage TerryWinograd AllenNewell RobertDoorenbos MilindTambe MikeWooldridge StefanBussmann KurtSundermeyer JeromeLang JoelUckelman
+* ErdosNumber: 4
+* MindSkill: NoMic
+|[FaceBook:100000394985081]

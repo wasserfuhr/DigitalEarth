@@ -1,0 +1,2 @@
+* IsA: UnternehmensGruender
+* DbLp: http://dblp.uni-trier.de/rec/pid/58/1749

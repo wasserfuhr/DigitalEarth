@@ -1,0 +1,10 @@
+* UnitOwner: RalfLippold
+* MindCount:  - number of real people living inside the unit.
+* WaterHandICap - percentage of water surface of the unit.
+* EnErgie - average EnErgie produced on the unit (in Watt).
+* CalculationsPerSecond - average sum of calculations of all PCs and LapTop's (according to LinPack)
+* CarCount - in total numbers
+* ElectroCar's - in total numbers
+* BikeCount - in total numbers
+* PlaneCount - in total numbers (on average located inside)
+* ConTainer - sum of 20ft and 40ft containers in TwentyFootEquivalentUnit's

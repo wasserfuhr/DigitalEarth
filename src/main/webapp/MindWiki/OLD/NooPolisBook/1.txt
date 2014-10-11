@@ -1,0 +1,19 @@
+the current working version of this WikiPage is at http://etherpad.com/NooPolisBook)
+
+!!NooPolis
+
+A BluePrint for a global digital society.
+
+!Summary
+NooPolis is an experimental wiki-based MicroNation that wants to create a new currency system based on transparency and a WebOfTrust among it's participants.
+
+In addition to the currency system, NooPolis wants to create an entire political and economic system with elections, legislation, government and GovernmentBudget. Citizens can create startups, that work with OpenBooks.
+
+!Introduction
+NooPolis was started by RainerWasserfuhr in 2007 as a ThoughtExperiment.
+The initial concept of NooPolis is heavily inspired by NoMic, a game invented by PeterSuber to study "The Paradox of Self-Amendment" (so his book title) in legal systems like constitutions. NooPolis started with a wiki that was by invitation only (building up an initial WebOfTrust). After invitation a wiki user obtains the status of a "Citizen" and can change the Constitution. However each change in the Wiki is versioned together with the RealName of the Citizen. A currency system was established as an incentive for CitiZens. For the RainerWasserfuhr obtained 10% of the initial MoneySupply.
+
+
+
+Wiki: http://mindbroker.de/wiki/NooPolisBook
+

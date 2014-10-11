@@ -1,0 +1,5 @@
+* MindTags: FutureCardIdea
+
+In [this article|http://www.heise.de/newsticker/Wissenschaftler-manipulieren-Erinnerungen-im-Maeusegehirn--/meldung/117967], JoeTsien is mentioned, who already had a WikiPage in the MindWiki.
+
+* PreDict: when will it be possible to subscribe to a WebFeed notifying you whenever somebody listed in your LifeWiki is mentioned in a posting from heise.de?

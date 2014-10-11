@@ -1,0 +1,10 @@
+Jeder Bürger von NooPolis hat die Freiheit, 
+* jede Seite im PolisWiki zu editieren
+* weitere Bürger einzuladen
+
+Weitere Freiheiten:
+* Root-Passworte für UnserGrid: RainerWasserfuhr, DanielPoodratchi.
+* außerdem: Commit-Rechte für den SourceCode: AndreasWeigel
+
+Die Freiheit eines Bürgers kann eingeschränkt werden durch das MindTribunal.
+Derzeit bestehen keine Freiheitseinschränkungen.

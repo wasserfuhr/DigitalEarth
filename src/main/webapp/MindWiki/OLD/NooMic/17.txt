@@ -1,0 +1,3 @@
+; do some basic forms:
+
+(str "<form><textarea name='text'></textarea><input type='submit' value='NooMic'></form>" (if (.getParameter request "text") (.getParameter request "text") "noparam") "<br/>" (Runtime/totalMemory) )

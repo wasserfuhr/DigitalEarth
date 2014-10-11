@@ -1,0 +1,8 @@
+* IsA: SingularityMind
+* InterWiki: [WebSeitz:RobinHanson] [WikiPedia:Robin_Hanson]
+* JahrGang: 1959
+* BirthDay: 08-28
+* DbLp: http://dblp.uni-trier.de/rec/pid/65/5761
+* MindSkill: PredictionMarket UpLoad
+|[TwittEr:robinhanson]
+|[FaceBook:15616116]

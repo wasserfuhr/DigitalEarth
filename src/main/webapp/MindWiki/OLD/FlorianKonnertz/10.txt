@@ -1,0 +1,21 @@
+* MindTags: UnternehmensGruender 
+||AusLand
+|[XingLe:Florian_Konnertz]
+|[FaceBook:662612035]
+|[WorldWideWeb:florian-konnertz.de]
+|[TwittEr:groovehunter]
+
+http://florian-konnertz.de/wiki/OpenSpirit
+
+----
+
+kleine notiz
+
+connecting minds... assoziiert bei mir meine herangehensweise über die jahre mittels der schnittstelle (bzw protokoll) von PersonalWiki/LifeWiki zu PublicWiki. 
+Dafür NotWendig sind zB settings welche seiten des personal wiki (=erweiterung des eigenen minds) in welche seiten des public wiki (oder andere websites) weitergeleitet (-gepostet) werden ( also channels quasi) und umgekehrt - mögliche technologie (derzeit) RDF uä., abonnement von wikisites, erweitertes InterWiki.
+
+generelles ziel langfristig: semantische repräsentation von begriffsrelationen. Technologien: Ontologien und weitere t. der wissensrepräsentation
+
+frohes neues MindBroker's!!
+
+florian

@@ -1,0 +1,11 @@
+* IsA: WikiMind
+* InterWiki: [ThoughtStorms:BillSeitz] [WebSeitz:BillSeitz]
+* HomeStead: NewYork
+* MindFaves: HlMencken
+* MindSkill: CamelCase
+* LexBill: If "502 Bad Gateway" Then ReLoad
+* HasSeen: NealStephenson
+|[WorldWideWeb:webseitz.fluxent.com]
+|[DelIcioUs:seitz]
+|[TwittEr:BillSeitz]
+|[FaceBook:608431239]

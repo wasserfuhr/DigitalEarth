@@ -1,0 +1,4 @@
+Aktion der PieschenBank zur Besiedlung der Serversümpfe von UnserGrid in NooPolis:
+
+* Die ersten 1000 Männer und Frauen erhalten ein BegruessungsGeld von je 1000 KayGroschen.
+* Die ersten 100 Kinder, die von Bürgern von NooPolis gezeugt werden, erhalten ein KinderGeld von je 1000 KayGroschen. Die Eltern verwalten das KinderGeld kommissarisch bis zum 6. Lebensjahr.

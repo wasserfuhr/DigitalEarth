@@ -1,0 +1,12 @@
+* MindTags: MindEvent
+* MindPlace: CoselPalais
+* TimeLine: 20081015
+
+Veranstalter: FutureSax
+
+
+Teilnehmer:
+* UlrichSack
+* KerstinTrautmann
+* SoerenSchuster
+EtAl

@@ -1,0 +1,5 @@
+GiulioTononi:
+
+ Φ(x1) = min P ei(x1; P)/νP
+
+ ei(x1; P) = – Σ(i=1;k) Σ p(μ0 ^(i)|x1) logp(μ0 (i)|μ1 (i)) – H(X0|x1)

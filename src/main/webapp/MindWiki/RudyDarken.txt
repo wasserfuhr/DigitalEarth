@@ -1,0 +1,3 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/95/6331
+* HomePage: http://www.movesinstitute.org/~darken/

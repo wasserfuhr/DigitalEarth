@@ -1,0 +1,26 @@
+* MindLine: 2020
+
+A ForeSight scenario from MindBroker ReSearch:
+
+A TransparentSociety with a SemanticWeb based SupplyChain connecting customers and suppliers.
+
+Example WikiSpec:
+
+||year||Customer          ||bugdet  ||supplier  ||product
+|2008|PierreKerchner      |10000 KayGroschen|RainerWasserfuhr|100 MindBroker shares.
+|2008|RainerWasserfuhr      |1000 KayGroschen|PieschenBank|100 BarackObama shares for the UsElection08 PredictionMarket.
+|2008|happy first OpenConsult-customer|10000 EuRo|RainerWasserfuhr|OpenConsult
+|2008|RainerWasserfuhr    | 1000 EuRo|MindPlus  |food errands
+|2008|RainerWasserfuhr    | 1000 EuRo|ARAL      |gas
+|2008|RainerWasserfuhr    | 1000 EuRo|MlpAg     |LebensVersicherung
+|2008|RainerWasserfuhr    | 1000 EuRo|MindWings |MindMove
+|2008|RainerWasserfuhr    | 6000 EuRo|MindHome  |rental
+|2008|RainerWasserfuhr    |  500 EuRo|AppleInc  |MindPhone
+|2009|RainerWasserfuhr    | 1200 EuRo|MlpAg     |LebensVersicherung
+|2009|RainerWasserfuhr    | 2000 EuRo|AppleInc  |MindMac
+|2012|RainerWasserfuhr    | 2000 EuRo|AppleInc  |MindMac
+
+Soon you could be able to export the above table to RDF and ask SPARQL based queries 
+like:
+{{{how much do friends living in CityOfDresden pay in average for their rent?
+}}}

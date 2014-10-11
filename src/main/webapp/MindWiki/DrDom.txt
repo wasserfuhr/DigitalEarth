@@ -1,0 +1,8 @@
+* IsA: GottesHaus
+* InterWiki: [DeWikiPedia:Kölner_Dom]
+* BreitenGrad: 50.941111
+* LaengenGrad: 6.956667
+* BoundingBox: 100
+
+[{Image src='http://farm1.static.flickr.com/182/431661520_924ab7747c.jpg'}]
+http://www.flickr.com/photos/rainerw/431661520/

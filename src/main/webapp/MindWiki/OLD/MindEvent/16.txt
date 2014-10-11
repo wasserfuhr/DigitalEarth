@@ -1,0 +1,18 @@
+||Wann   ||Was           ||#Teilnehmer
+|20070324|WikiTchen      |16
+|20070420|MindPicNic     |8
+|20070731|FreudenBerg    |5
+|20070804|MindPenne      |5
+|20071017|WikiWeiber     |8
+|20071019|TalWiki        |2
+|20071024|WikiBoys       |
+|20071101|WikiWeiberZwo  |
+|20071102|SingularCamp   |
+|200711??|SchwabenMind
+|200711??|WowerMind
+|200711??|MindCuisine
+|20070   |BusinessDueruem
+|20070   |CandleWebDinner
+|20070   |MindSalon
+|20070   |BdCs
+|20080   |SingularCampZwo

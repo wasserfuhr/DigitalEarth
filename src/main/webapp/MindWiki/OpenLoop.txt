@@ -1,0 +1,6 @@
+when GettingThingsDone:
+* files on your desktop
+* mess in your office box
+* items marked "Keep New" at BlogLines
+* drafts folder in your mail account
+* TODO and FIXME comments in your SourceCode

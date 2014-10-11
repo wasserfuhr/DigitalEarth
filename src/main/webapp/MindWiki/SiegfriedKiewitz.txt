@@ -1,0 +1,3 @@
+* IsA: PerSon
+* BornIn: 1937
+* HasTalked: RainerWasserfuhr TheoAdam

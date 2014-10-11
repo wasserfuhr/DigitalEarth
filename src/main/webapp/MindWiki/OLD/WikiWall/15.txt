@@ -1,0 +1,41 @@
+http://www.flickr.com/photos/ralflippold/4211829656 :
+
+(the following WikiTable is generated via [a|http://spreadsheets.google.com/pub?key=tJsnUrFH9ZjsYZ9nhgzu96g] GoogleDoc
+
+!Process for updating data:
+
+* Go to [GoogleDoc|http://spreadsheets.google.com/pub?key=tJsnUrFH9ZjsYZ9nhgzu96g]
+* change data in the matrix
+* copy first column
+* go back to WikiWall
+* and paste the copied data over present data
+
+| | | | | | | | |JohnSterman | | | | | | | | | | |
+| | | | | | | |JeffBoyer  | | | | | | | | | | | |
+| | | | | | |PaulFLevy  | | | | | | | | | | | | |
+| | | | | |EdgarSchein | | | | | | | | | | | | | |
+| | | | | | | | |ScottMonty  | | | | | | | |SeaNation | | |
+| | | | | |DirkSpannaus | |AlfredHanner | |EricVonHippel | | | |MartinRoell | |JamesParsons  | |FutureCard | |LisaPirwitz
+| | | | | | |UlrichDeppendorf | |DigitalTwin | |AntjeLippold | |PeterPlan  | |HolgerDemnitz | |FrankSchoenfeld | |MartinFiedler |
+| | | | | | | | | | | |JanHinrichs  | |RainerWasserfuhr | |SocialMedia | |WilhelmZoergiebel | |
+| | | | | | | | |CarloRatti | |MichaelBean | |MartinAha  | |SpuerschtWieIDenk | |PamelaPaquinHall | |PieschenBank |
+| | | | | | | |GunterDueck | | | | | |ArtKleiner | |RalphSonntag | |LockTeam | |
+| | | | | | | | | | |LockSchuppen | |TheSingularity | |OttoScharmer | |InterNet | | |
+| | | | | | | | | |JimWomack | | | |PresencingStatus | |VilleKeranen | |EquipMent | |
+| | | | | | | | |RachelReagan | | | | | |OpenCoffeeClubDresden | |PeterEberle | | |
+| | | | | | | |MarkGraban | |RayInDresden | |SystemDynamics | |BusinessEnglishBachelor | |CamelCase | |AudioTagging | |
+| | | | | | | | |ThomasGerhadrt | | | | | |TwitterKurs | |NooPolis | | |
+| | | | | | | | | | | |SemanticWeb | |MindWiki | |CharlesVanDerHaegen | | | |
+| | | | | | | | | | |PeterTeichmann | | | | | | | | |
+| | | | | | | | | | | |PeterSenge | |PieschenMedia | | | | | |
+| | | | | | | | | | | | |ChristophAnders | | | | | | |
+| | | | | | | | | | | | | |PeterClaussen | |SupPorter | | | |
+| | | | | | | | | | | | | | |KaiRopers | | | | |
+| | | | | | | | | | | | | | | |MariaBoeckmann | | | |
+| | | | | | | | | | | | | | | | |JayForrester | | |
+| | | | | | | | | | | | | | | |WikiWall | | | |
+
+http://www.flickr.com/photos/ralflippold/4179002538/ :
+|Sponsoren|Internetseite             |TwitterKurs               |SocialMedia Kurs
+|                    |SocialMedia             |UnternehmensNarr|Erfahrung
+|                    |Org v. Schulungen |CommunityBuilding |GruenderHilfe|KreativeLoesungen|CustomerChallenge

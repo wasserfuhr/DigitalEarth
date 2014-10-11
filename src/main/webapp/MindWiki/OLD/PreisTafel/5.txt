@@ -1,0 +1,14 @@
+Eintrittspreise für einen ZuKunft'tag im LockSchuppen:
+||Alter von||bis||LockTaler[1]
+|128|255|4
+| 63|127|8
+| 32| 63|16
+| 16| 31|8
+|  8| 15|4
+|  4|  7|2
+|  2|  3|1
+|  0|  1|0
+
+[#1] Es gilt folgender WechselKurs
+* 1 LockTaler = 10 KayGroschen für BuergerInnen von NooPolis
+* 1 LockTaler = 1 EuRo sonst

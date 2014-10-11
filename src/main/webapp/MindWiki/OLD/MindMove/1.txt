@@ -1,0 +1,4 @@
+||Mind||Wann||Bis||Wo||Nach||GeFaehrt||Was||kmh
+|RainerWasserfuhr|20070307:1036|:1045|WirkZentrum|WirkZentrum|Füsse|Einmal um den Blog|
+|DanielPoodratchi|20070307 | |STR|DRS||800
+|AndreasWeigel|20070307 | |STR|DRS||800

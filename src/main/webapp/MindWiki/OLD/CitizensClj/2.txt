@@ -1,0 +1,41 @@
+;
+;{{{
+
+((defn citizens []
+  (handle "citizens"
+   (fn []
+      (str
+       	  "<table>"
+ 	  (apply str 
+	   (map
+	     (fn [x]
+	       (str
+	         "<tr>"
+	         (apply str (map 
+	           (fn [y]
+	             (str "<td>"
+	              (if (and (< y 8) (= x 0))
+	               (let
+	                [person
+	                  (get ["RainerWasserfuhr" "YvonneSchubert" "DanielPoodratchi" "RicardaDHerbrand"
+	                            "ChristineSchlinck" "HeidiGallinat" "RalfLippold" "SimonKoeppl"
+	                            "UteMoritz"
+       	                ] (- 7 y))]
+	                 (str
+	                  "<a href='http://mindbroker.de/wiki/" person "'><img src='" 
+	                    (cache nil (keyword person) ) "' width='46' height='46'/></a>" 
+	                  "<a href='http://mindbroker.de/wiki/" person "'><img src='" 
+	                    (cache nil (keyword person) ) "' width='16' height='16'/></a>" 
+	                    )
+	               )
+	              )
+	             "</td>")) 
+	           (range 8)))
+                 "</tr>")) 
+	     (range 8)))
+	  "</table>"
+      ))
+   ""))
+   )
+
+;}}}

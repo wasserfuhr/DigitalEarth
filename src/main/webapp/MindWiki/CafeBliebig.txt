@@ -1,0 +1,5 @@
+* IsA: MindPlace
+* OpenStreetMap: http://www.openstreetmap.org/browse/node/264695865
+
+MeMo:
+* 20080528: RainerWasserfuhr JeMand JeMand: IndustryFoundationClasses BuildingModel SemanticWeb NeuStadt XingBus NooPolis LebensErwartung LongBetOne BioMind GoogleMind MattiHannus IslandsOfAutomation IslandsOfHumanIntelligence FaceBook XingLe ShaneLegg FoAf DresdenChess MindTower SkyPe

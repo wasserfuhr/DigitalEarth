@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Heiner_Müller-Merbach]
+* BirthDay: 06-28
+* ViAf: http://viaf.org/viaf/71889782
+* PagePath: ... PeterLoos HeinerMuellerMerbach

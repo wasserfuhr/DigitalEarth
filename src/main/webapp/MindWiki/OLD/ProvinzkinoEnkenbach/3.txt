@@ -1,0 +1,5 @@
+* MindTags: MindPlace
+* BreitenGrad: 49.48974
+* LaengenGrad: 7.898731
+* BoundingBox: 30
+* http://www.film-kunst-kino.de/19/

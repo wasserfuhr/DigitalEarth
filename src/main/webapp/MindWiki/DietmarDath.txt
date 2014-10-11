@@ -1,0 +1,5 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Dietmar_Dath]
+* BornIn: 1970
+* BirthDay: 04-03
+* MindFaves: EzraPound

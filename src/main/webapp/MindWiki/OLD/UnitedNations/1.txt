@@ -1,0 +1,10 @@
+* InterWiki: [WikiPedia:United_Nations]
+
+|| ||UnitedNations||NooPolis
+|CitiZens|6.650.000.000|33
+|Currency|-            |KayGroschen
+|Election|-            |UrWahl
+|Government|  |KabiNett
+|MindOne |Ban Ki-moon|RainerWasserfuhr
+|Charter |UnitedNationsCharter|ConStitution
+|BoundingBox|PlanetErde|UhTopia

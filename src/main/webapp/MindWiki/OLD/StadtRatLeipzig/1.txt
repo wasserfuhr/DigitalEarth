@@ -1,0 +1,109 @@
+StadtLeipzig
+
+Wahlkreis 0
+
+Der Wahlkreis 0 umfasst die Ortsteile Zentrum, Zentrum-Ost, Zentrum-Südost, Zentrum-Süd, Zentrum-West, Zentrum-Nordwest, Zentrum-Nord, Marienbrunn.
+
+||Partei || Abgeordneter ||
+|SPD| HeikoOßwald AnjaPohl
+|DIE LINKE| SiegfriedSchlegel InesHantschick
+|CDU| DrSabineHeymann DieterDeißler
+|GRÜNE| KatharinaKrefft AnnetteKörner
+|FDP| SvenMorlok
+
+Wahlkreis 1
+
+Der Wahlkreis 1 umfasst die Ortsteile Schönefeld-Abtnaundorf, Schönefeld-Ost, Thekla, Plaußig-Portitz, Neustadt-Neuschönefeld, Volkmarsdorf, Heiterblick.
+
+||Partei || Abgeordneter ||
+|SPD | IngridGlöckner
+|DIE LINKE| SteffenWehmann
+|CDU | AnsbertMaciejewski TorstenBonew
+|NPD | RudiGerhardt
+
+Wahlkreis 2
+
+Der Wahlkreis 2 umfasst die Ortsteile Anger-Crottendorf, Sellerhausen-Stünz, Paunsdorf, Mölkau, Engelsdorf, Baalsdorf, Althen-Kleinpösna.
+
+||Partei || Abgeordneter ||
+|SPD | DrAnkeKästner
+|DIE LINKE | CarolaLange
+|CDU | RonaldPohle JensLehmann
+|NPD | KlausUfer
+
+Wahlkreis 3
+
+Der Wahlkreis 3 umfasst die Ortsteile Reudnitz-Thonberg, Stötteritz, Probstheida, Meusdorf, Liebertwolkwitz, Holzhausen.
+
+||Partei || Abgeordneter ||
+|SPD | GunterMüller HeikeBöhm
+|DIE LINKE | MargittaHollick
+|CDU | UrsulaGrimm StefanBillig
+|GRÜNE | WolframLeuze
+|FDP | DrMichaelBurgkhardt
+
+Wahlkreis 4
+
+Der Wahlkreis 4 umfasst die Ortsteile Südvorstadt, Connewitz, Lößnig, Dölitz-Dösen.
+
+||Partei || Abgeordneter ||
+|SPD | AxelDyck ChristopherZenker
+|DIE LINKE | MarcoGötze JulianeNagel
+|CDU | KarstenAlbrecht
+|GRÜNE | NormanVolger RolandQuester MalteReupert
+|FDP | ReikHesselbarth
+
+Wahlkreis 5
+
+Der Wahlkreis 5 umfasst die Ortsteile Schleußig, Plagwitz, Kleinzschocher, Großzschocher, Knautkleeberg-Knauthain, Hartmannsdorf-Knautnaundorf, Grünau-Siedlung.
+
+||Partei || Abgeordneter ||
+|SPD | UteKöhler-Siegel MathiasWeber
+|DIE LINKE | ReinerEngelmann MandyGehrt
+|CDU | ThomasZeitler DrKonradKretschmar
+|GRÜNE | IngoSasama MichaelSchmidt
+|FDP | RenéHobusch
+|FORUM | MarionZiegler
+
+Wahlkreis 6
+
+Der Wahlkreis 6 umfasst die Ortsteile Schönau, Grünau-Ost, Grünau-Mitte, Lausen-Grünau, Grünau-Nord.
+
+||Partei || Abgeordneter ||
+|SPD | HeikoBär
+|DIE LINKE | DrIlseLauter SörenPellmann
+|CDU | DietmarKern
+
+Wahlkreis 7
+
+Der Wahlkreis 7 umfasst die Ortsteile Miltitz, Lindenau, Altlindenau, Neulindenau, Leutzsch, Böhlitz-Ehrenberg, Burghausen-Rückmarsdorf.
+
+||Partei || Abgeordneter ||
+|SPD | ChristianSchulze
+|DIE LINKE | Naomi-PiaWitte
+|CDU | KarinTeubner
+|FDP | RenéWiesner
+|WVL | BertSander
+
+Wahlkreis 8
+
+Der Wahlkreis 8 umfasst die Ortsteile Möckern, Wahren, Lützschena-Stahmeln, Lindenthal, Gohlis-Süd, Gohlis-Nord.
+
+||Partei || Abgeordneter ||
+|SPD | GerhardPötzsch AndreasGeisler
+|DIE LINKE | SkadiJennicke BirgittMai
+|CDU | Wolf-DietrichRost Claus-UweRothkegel
+|GRÜNE | MichaelWeichert
+|FDP | IsabelSiebert
+|WVL | ArnoldWinter
+
+Wahlkreis 9
+
+Der Wahlkreis 9 umfasst die Ortsteile Mockau-Süd, Mockau-Nord, Gohlis-Mitte, Eutritzsch, Seehausen, Wiederitzsch.
+
+||Partei || Abgeordneter ||
+|SPD | ClausMüller
+|DIE LINKE | WilliamGrosser JensHerrmann
+|CDU | KonradRiedel GerdHeinrich
+|GRÜNE | GiselaKallenbach
+|FDP | KnutKeding

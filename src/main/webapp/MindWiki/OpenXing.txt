@@ -1,0 +1,5 @@
+kleines GedankenSpiel über eine GeschlosseneAnstalt: lösche alle ConTact's, die ihre ConTact's verbergen.
+
+bzw öffne eine XingGroup, in die nur XingLe's dürfen, die nur freigegebene Kontakte gemäss XingPolicy haben.
+
+Think FoAf. Think NooSphere.

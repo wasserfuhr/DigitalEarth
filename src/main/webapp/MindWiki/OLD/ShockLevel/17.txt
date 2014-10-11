@@ -1,0 +1,19 @@
+* InterWiki: [WikiPedia:Future_Shock]
+* MindQuote: "There are somewhere between 20 and 100 SL4ers [out there|http://www.acceleratingfuture.com/michael/works/shocklevelanalysis.htm]" - MichaelAnissimov
+* MindQuote: "Dich wundert nicht des Sturmes Wucht, du hast ihn wachsen sehn;" - RainerMariaRilke
+* RdfProperty: http://id.mindbroker.de/schema#shockLevel
+
+BeBold: CitiZens of NooPolis should guess their ShockLevel.
+First read http://www.acceleratingfuture.com/michael/works/shocklevelanalysis.htm and then
+add your estimated ShockLevel as MindProps on your WikiPage by a value r ∈ ℝ with -2 <= r <=4.
+
+||SL||MindCount   ||known Concepts
+| 4|        20-100|TerraMind,JupiterBrain,PanOrama,RauSing,AnLicht
+| 3| 1,000-100,000|GlaesernerMensch,TransHuman,UpLoad,PostReal,GlobusCassus,SynBio,PolyBody,FixPunkt,ImMortal
+| 2|    >1,000,000|SemanticWeb,TuringMaschine,CybOrg,WunderKind,ArTelligence,NooSphere,EinHorn,KunstSprache
+| 1|   >10,000,000|EgoGoogling,SecondLife,TwittEr,DelIcioUs,DresdenDrohne
+| 0|>2,000,000,000|TastaTur,PoTs,InterNet,GoogleSearch,Mail,MySpace,IntuitiveLinear
+|-1|~3,500,000,000|JederMann,AlphaBet,UrWahl
+|-2|  <500,000,000|ObDach,HuMan,KinderWunsch
+
+DelSl

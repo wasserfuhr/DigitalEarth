@@ -1,0 +1,46 @@
+;
+;
+;{{{
+
+((defn futuremap [] 
+       (handle "futuremap"
+        (fn []
+       	 (str
+       	  "<h3>Das <a href='http://mindbroker.de/wiki/TwentyFirstCentury'>TwentyFirstCentury</a>: 
+       	   ein <a href='http://mindbroker.de/wiki/MoeglichkeitsRaum'>MoeglichkeitsRaum</a>:</h3>"
+       	  "<table>"
+ 	  (apply str 
+	   (map
+	     (fn [x]
+	       (str
+	         "<tr>"
+	         (apply str (map 
+	           (fn [y]
+	             (str "<td valign='top' style='width:100px; height:100px;'>20" x y
+	               (if (and (= x 3) (= y 0))
+	                 (str
+	                  "<br/>"
+	                  "<a href='http://mindbroker.de/wiki/RalfLippold'><img src='" (cache nil :RalfLippold) "' width='32' height='32'/></a>"
+	                  "<a href='http://mindbroker.de/wiki/PhaetonBallett'><img src='http://www.volkswagen.de/etc/medialib/vwcms/virtualmaster/de/Models/Phaeton/content.Par.0183.Image.jpg/D10710_2008_180x110.jpg' width='90' height='55'/>PhaetonBallett</a>")
+	               )
+	               (if (and (= x 1) (= y 9))
+	                 (str
+	                  "<br/>"
+	                  "<a href='http://mindbroker.de/wiki/HeidiGallinat'><img src='http://radio.intellihaus.de/schlumpf.jpg' width='32' height='32'/></a>"
+	                  "<a href='http://mindbroker.de/wiki/ZwingeRasimo'><img src='http://www.rob.cs.tu-bs.de/content/04-teaching/01-courses/00-seminar/00-Laufen_Mensch_vs_Roboter/asimo_evolution.jpg' width='110' height='64'/>ZwingeRasimo</a>")
+	               )
+	               (if (and (= x 4) (= y 0))
+	                 (str
+	                  "<br/>"
+	                  "<a href='http://mindbroker.de/wiki/LunarSteigenberger'><img src='http://apod.nasa.gov/apod/image/0709/saguaroMoon_seip800.jpg' width='110' height='64'/></a><br/>"
+	                  "<a href='http://mindbroker.de/wiki/RainerWasserfuhr'><img src='" (cache nil :RainerWasserfuhr) "' width='32' height='32'/></a>"
+	                  "<a href='http://mindbroker.de/wiki/LunarSteigenberger'>Lunar Steigenberger</a>")
+	               )
+
+	             "</td>")) 
+	           (range 10)))
+                 "</tr>")) 
+	     (range 10)))
+	  "</table>") ) "" )
+   )))
+;}}}

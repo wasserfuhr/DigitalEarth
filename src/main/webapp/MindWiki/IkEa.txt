@@ -1,0 +1,4 @@
+* EtymoLogia: "IngvarKamprad, des elterlichen Bauernhofs __E__lmtaryd und des dem Hof nächstgelegenen Ortes __A__gunnaryd"
+* IsA: EnterPrise
+* InterWiki: [DeWikiPedia:IKEA]
+* MindOne: IngvarKamprad

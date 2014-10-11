@@ -1,0 +1,13 @@
+The FailWhaleNumber is a little DegreesOfSeparation game similar to the ErdosNumber, BaconNumber or TurkNumber:
+
+Find TwittEr-MineOne, CEO JackDorsey among the first 100 followers
+
+* 441: http://twitter.com/jack
+* 689: http://twitter.com/ev
+* 234: http://twitter.com/Ross
+* 28: http://twitter.com/martinvars
+* 91: http://twitter.com/LarsHinrichs
+* 130: http://twitter.com/ognibeni
+* 170: http://twitter.com/martinroell
+* 22: http://twitter.com/tobias_kroha
+* 164: http://twitter.com/rainer

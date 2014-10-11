@@ -1,0 +1,6 @@
+Ein vierdimensionales GoSpiel.
+
+Später für http://go.mindbroker.de
+
+||x||y||z||t||Farbe||Spieler
+|0|0|0|0|blue|RainerWasserfuhr

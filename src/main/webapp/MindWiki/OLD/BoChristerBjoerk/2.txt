@@ -1,0 +1,4 @@
+* IsA: ProFessor
+* JahrGang: 1952
+* HomePage: http://www.itcon.org/misc/bjork.htm
+* TurkNumber: 1

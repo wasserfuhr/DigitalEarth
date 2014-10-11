@@ -1,0 +1,9 @@
+* InterWiki: [WikiPedia:Domain_model] [WikiWikiWeb:DomainModel]
+
+Most MindBroker WebApp's have a DomainModel based on HibernateAnnotions.
+
+Example: DomainModel of the PieschenBank, including MindFloor:
+
+[{Image src='http://docs.google.com/present/drawing?id=dctbcwbg_556fx9s3cqb&revision=dctbcwbg_556fx9s3cqb:16&drawingId=sl_SGwYvNqvDpdJ0Sk4SiEg&rev=141&w=522'}]
+
+[source|http://docs.google.com/present/edit?id=dctbcwbg_556fx9s3cqb], created first with SQuirreL and now with a GoogleDoc.

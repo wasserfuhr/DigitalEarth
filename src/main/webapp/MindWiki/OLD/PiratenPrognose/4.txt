@@ -1,0 +1,27 @@
+(Hier könnte auch Deine ProGnose stehen: JoinNow)
+
+!Deine Prognose für das Ergebnis der PiratenPartei bei der BundestagsWahl09:
+||%  ||Vorhersager
+|11,0?|KatharinaKuehnel
+|7,8 |StefanHummert
+|7,0?|JuergenKohn
+|6,0 |AlexandraWalter
+|5,0 |KarstenPeters
+|4,7 |MatthiasJugel
+|3,6 |ChristineSchlinck
+|3,0 |ReinhardSchinka
+|2,56|RainerWasserfuhr
+|2,0 |TimoHeuer
+|1,5 |HeikeRibke
+|1,5 |JensOsthues
+|1,5 |OliverGassner
+|1,5 |PeterClose
+|1,5 |SebastianMitter
+|0,2 |HaraldBorutta
+|0,2 |RainerMuenz
+|0,1 |MarcusSteyer
+
+!Deine Prognose für das Ergebnis bei der SachsenWahl09:
+||%  ||Vorhersager
+|2,56|RainerWasserfuhr
+|1,5 |JensOsthues

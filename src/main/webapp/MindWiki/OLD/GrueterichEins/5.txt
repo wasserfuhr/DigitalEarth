@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.096603
+* LaengenGrad: 7.341150
+* BoundingBox: 20
+* MindCount: 4
+* OpenStreetMap: http://www.openstreetmap.org/?lat=51.1081&lon=7.3621&zoom=14&layers=B000FTTT

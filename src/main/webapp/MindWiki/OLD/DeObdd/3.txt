@@ -1,0 +1,5 @@
+* IsA: MindThing
+* MindTags: Heissluftballon
+* AircraftRegistration: D-OBDD
+
+WilhelmineReichard

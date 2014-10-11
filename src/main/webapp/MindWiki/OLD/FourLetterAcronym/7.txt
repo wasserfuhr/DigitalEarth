@@ -1,0 +1,21 @@
+* AcAb
+* AcDc
+* ApMl
+* BdCs
+* BdSm
+* CoOp
+* DpWn: DeutschePost
+* EoTi
+* EtAl
+* EuLa
+* FoAf
+* GaOp
+* GoCe
+* HtTp
+* InSw
+* OoAd
+* OlAp
+* PoTs
+* RiAa
+* SmTp: IhMail
+* SxSw

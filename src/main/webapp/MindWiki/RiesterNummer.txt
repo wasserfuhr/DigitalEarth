@@ -1,0 +1,25 @@
+* NamedAfter: WalterRiester
+
+The RiesterNummer is similar to the ErdosNumber, but dedicated the famous MinisTer for ArBeit WalterRiester.
+
+It is defined by people who at least once in their life PhonedWith WalterRiester and the TransitiveClosure of the PhonedWith-relation.
+
+!RiesterNummer=0
+* MartinRoell
+
+!RiesterNummer=1
+* ChristineSchlinck
+* GerhardSchroeder
+* RudolfScharping
+* FranzMuentefering
+
+!RiesterNummer=2
+* RainerWasserfuhr
+* RalfLippold
+
+!ProBab'ly RiesterNummer=3, 4 or 5
+* AlexanderGrahamBell???
+* ReneObermann???
+* PhilippReis??
+* CarlFriedrichGauss????
+* ThomasAWatson ???

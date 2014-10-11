@@ -1,0 +1,36 @@
+;
+;{{{
+
+((defn index []
+  (handle ""
+   (fn []
+     (if (.equals "/" (.getPathInfo request))
+      (str
+          "<h3><a href='http://mindbroker.de/wiki/BuergerInnen'>BuergerInnen</a></h3>"
+       	  "<table>"
+ 	  (apply str 
+	   (map
+	     (fn [x]
+	       (str
+	         "<tr>"
+	         (apply str (map 
+	           (fn [y]
+	             (str "<td valign='top' style='width:60px; height:60px;'>"
+	              (if (and (< x 4) (= y 0))
+	               (let [person
+	                      (get ["RainerWasserfuhr" "YvonneSchubert" "DanielPoodratchi" "RicardaDHerbrand"] x)]
+	                 (str
+	                  "<a href='http://mindbroker.de/wiki/" person "'><img src='" 
+	                    (cache nil (keyword person) ) "' width='32' height='32'/></a>" )
+	               )
+	              )
+	             "</td>")) 
+	           (range 10)))
+                 "</tr>")) 
+	     (range 10)))
+	  "</table>"
+      )
+      ))
+   "")))
+
+;}}}

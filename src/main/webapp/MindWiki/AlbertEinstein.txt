@@ -1,0 +1,6 @@
+* IsA: ProFessor NobelPrizeLaureate
+* InterWiki: [DeWikiPedia:Albert_Einstein] [OpenCyc:AlbertEinstein]
+* BornIn: 1879
+* BirthDay: 03-14
+* DiedIn: 1955
+* MindQuote: "Gott würfelt nicht."

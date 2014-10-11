@@ -1,0 +1,8 @@
+* IsA: PerSon
+* InterWiki: [DeWikiPedia:Leonardo_da_Vinci] [OpenCyc:LeonardoDaVinci-TheArtist]
+* ChildOf: PieroDaVinci
+* BornIn: 1452
+* BirthDay: 04-15
+* DiedIn: 1519
+* EnsId: http://www.okkam.org/ens/id5ee33c00-02f3-4252-828e-1604836f843c
+* ViAf: http://viaf.org/viaf/24604287

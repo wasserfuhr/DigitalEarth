@@ -1,0 +1,46 @@
+%%( padding-left: 600px; font-size:90%)
+* integritas
+* perfectio
+* consonantia
+* commensuratio
+* convenientia
+* claritas
+%%
+
+Die VerFassung von NooPolis:
+
+* Alle BuergerInnen haben FreiHeit.
+* Alle BuergerInnen haben genau eine MindId und damit ein Login.
+* RainerWasserfuhr kann weitere BuergerInnen einladen.
+* Bei Registrierung muss der bürgerliche Vor- und Zuname und das Geschlecht angegeben werden.
+* Mit Erwerb der MindId wird der Bürgerstatus erworben und die VerFassung anerkannt.
+
+
+* Alle Bürger sind eingewoben in ein WebOfTrust. Neben der reinen Identifikation können sie damit graduell Vertrauen aussprechen.
+* Eine spätere Namensänderung bedarf der Verifikation durch mindestens zwei Trustees.
+
+* NooPolis ist eine VirtuelleOekonomie. 
+* Die Währung von NooPolis sind KayGroschen. 
+* Die PieschenBank hütet sie und legt den jeweils aktuellen WechselKurs fest.
+* Die Geldmenge beträgt 10.000.000 KayGroschen.
+* Die Einnahmen und Ausgaben von NooPolis werden von den Bürgern im Rahmen des HausHalt'es selbst geregelt. 
+* NooPolis finanziert sich durch SteuerEinnahmen.
+
+* NooPolis hat einen ArbeitsMarkt, auf dem Bürger und UnterNehmen Leistungen nachfragen können.
+* NooPolis hat einen MindShop, auf dem Bürger und UnterNehmen Leistungen anbieten können.
+* Arbeitsleistungen werden in KayGroschen bezahlt.
+
+* NooPolis ist eine Republik mit dem LeaderShip-Modell des PrimusInterPares.
+* Gründer sind RainerWasserfuhr und YvonneSchubert.
+* Alle Regeln der VerFassung sind veränderbar.
+* Keine Regeländerung gilt rückwirkend.
+* Änderungen der VerFassung erfordern die Zustimmung aller Bürger, deren Besitz mindestens 1000 KayGroschen beträgt.
+* Regeländerungen gelten als von allen Bürger angenommen, wenn kein Bürger der Änderung binnen Veto-Frist durch Editieren im Wiki widerspricht.
+* Die Veto-Frist beträgt 3 Tage. Falls ein Bürger länger AbWesend ist, kann er die Frist während der Abwesenheit auf 14 Tage erhöhen.
+* Bei Meinungsverschiedenheiten kommt es zu einem MindVote unter allen Bürgern. Es entscheidet dabei die einfache Mehrheit der KayGroschen.
+* Jeder Bürger nimmt einmal pro Monat an der UrWahl teil.
+* Nimmt ein Bürger 3x nacheinander nicht an der UrWahl teil, erlischt seine StaatsBuergerschaft und sein Vermögen geht an die PieschenBank.
+* Auf dem HoheitsGebiet tätige Unternehmen tragen sich im HandelsRegister ein.
+* Der MindShare jedes Unternehmens kann auf dem MindFloor gehandelt werden.
+* MindBroker ist ein VolksEigenerBetrieb auf dem HoheitsGebiet von NooPolis.
+* MindBroker ist der E-Government-ServiceProvider von NooPolis und Hüter der MindIds.

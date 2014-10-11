@@ -1,0 +1,3 @@
+Modulare Container zum Wohnen und Arbeiten.
+
+Prototyp: LifeCellOne.

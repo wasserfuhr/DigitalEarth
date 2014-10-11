@@ -1,0 +1,9 @@
+* MindTags: MindPeople
+* WohnSitz: StadtDresden
+* MindSkill: RfId
+* InvitedBy: RainerWasserfuhr
+||AusLand
+|[XingLe:Juergen_Anke]
+|[SkyPe:juergen_anke]
+|[FaceBook:683796158]
+|[TwittEr:juan78]

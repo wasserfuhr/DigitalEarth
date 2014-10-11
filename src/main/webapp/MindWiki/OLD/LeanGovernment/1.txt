@@ -1,0 +1,9 @@
+NooPolis:
+* change laws and even the ConStitution by editing a WikiPage
+* no BadBank's
+* only one Bank with free RealTime banking for all CitiZens: PieschenBank
+* no monetary policy, but constant MoneySupply
+* the WikiName of CitiZens as universal identity and PassPort
+* no political parties (yet): each CitiZen can participate in each MindVote
+* no parliament but direct election of MinisTer's at CabinetElection
+* no army. WeltFrieden. Only EditWar's.

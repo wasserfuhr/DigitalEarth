@@ -1,0 +1,49 @@
+RainerWasserfuhr gives an introduction to how fast and easy it is for us do develop software for NooPolis.
+Those interested can join via [SkyPe:wasserfuhr].
+
+!ConTent
+
+Inspired by the famous RubyOnRails-ScreenCast "Creating a weblog in 15 minutes" (http://www.rubyonrails.org/screencasts)
+we will code a tiny Clojure based WebApp and roll it out (precursor: http://barcampberlin.pbworks.com/JavaOnMavenRails).
+
+Roadmap:
+# install JDK 
+# install ApacheMaven
+# install MulgaraServer
+
+Detailled steps:
+* install Java JDK >= 1.5: http://download.java.net/jdk6/binaries/ , rund 50-60 MB. Mac User können den Schritt überspringen, da Java schon vorinstalliert ist.
+* install ApacheMaven >=2.0.8, http://maven.apache.org/download.html , ZIP auspacken, die MAVEN/bin in den PATH aufnehmen, test Installation with:
+
+{{{
+ mvn -version
+}}}
+. 
+
+Den SourceCode in Eclipse einbinden:
+{{{
+  svn://svn.mindbroker.de/opensource/
+}}}
+
+Ein Projekt auschecken:
+{{{
+  svn://svn.mindbroker.de/opensource/de.mindbroker.de/trunk
+}}}
+
+Lokal Testen mit
+{{{
+ mvn jetty:run
+}}}
+
+und unter 
+
+ http://127.0.0.1:8080/
+
+sollte die erste Applikation laufen.
+
+
+Weitere Schritte:
+* schreibe HTMLUnit-Test  
+* coden JSPs 
+* deploye auf UnserGrid
+* generiere Projekt-Site

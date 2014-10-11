@@ -1,0 +1,3 @@
+* MindQuote: "Data and why it's good" PeterNorvig
+
+The more data the better. Think UpLoad.

@@ -1,0 +1,7 @@
+analog zu [WikiPedia:Test-driven_development] oder [WikiPedia:Model-driven_development]
+betreibt MindBroker WikiDrivenDesign.
+
+* Das erste Prototyp ist ein Wiki.
+* Die ersten Nutzer werden zuerst als ProfilSeite angelegt.
+* Strukturierte Daten werden als MindProps im Wiki abgelegt.
+* Per MindApi werden um das Wiki herum weitere Module entwickelt

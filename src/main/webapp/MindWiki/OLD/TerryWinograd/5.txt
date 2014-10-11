@@ -1,0 +1,7 @@
+* IsA: ProFessor
+* InterWiki: [LangReiter:Terry+Winograd] [WikiPedia:Terry_Winograd]
+* JahrGang: 1946
+* BirthDay: 02-24
+* DbLp: http://dblp.uni-trier.de/rec/pid/w/TerryWinograd
+* PageNumber: 1
+* PagePath: LarryPage TerryWinograd

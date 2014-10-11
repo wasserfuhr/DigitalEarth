@@ -1,0 +1,81 @@
+Das Wiki von MindBroker: http://mindbroker.de/
+
+UnserGrid hostet es. Wie man unten links erkennt, auf Basis von JSPWiki v2.4.82. 
+
+VerdienstBienchen für das chice MindCss an DanielPoodratchi. 
+
+Patches für MindId, bezogen auf JSPWiki v2.4.82: 
+
+!/Logout.jsp:
+{{{
+  session.removeAttribute("wikiName");
+}}}
+
+!/Edit.jsp:
+{{{
+   String user = (String) session.getAttribute("wikiName");//wikiSession.getUserPrincipal().getName();
+    if ( "save".equals( request.getParameter( "action" ) ) &&
+         session.getAttribute("wikiName")  == null ) {
+      return;
+    }
+}}}
+
+!/IdLogin.jsp:
+{{{
+<%
+  session.setAttribute("wikiName",request.getParameter("wikiName"));
+  response.sendRedirect("/wiki/"+request.getParameter("wikiTarget"));
+%>
+}}}
+
+
+!/ViewTemplate.jsp
+{{{
+  <div id="applicationlogo">
+    <a href="/">
+    MindBroker</a><br/>
+    <small style="font-size:60%; font-weight:normal; padding-left:40px;">connecting beautiful minds</small>
+    </a>
+  </div>
+}}}
+{{{
+<%
+String r=request.getPathTranslated();
+String w="MindBroker";
+if ( r!=null && r.lastIndexOf('/') > 0)  {
+  w=r.substring(r.lastIndexOf('/')+1);
+}
+String ret="";
+for (int i=0; i<w.length(); i++) {
+  if ( w.charAt(i) >= 'A' && w.charAt(i) <= 'Z') {
+    ret+=" ";
+  }
+  ret=ret+w.charAt(i);
+}
+%>
+  <title><wiki:Variable var="applicationname" />: <wiki:PageName /> (f&uuml;r JederMann: <%=ret%>)</title>
+}}}
+
+
+
+!/templates/default/PageActions.jsp
+{{{
+    <% if (session.getAttribute("wikiName")!=null ) { %>
+      <span>
+        <a href="http://mindbroker.de/wiki/<%=session.getAttribute("wikiName")%>"><%=session.getAttribute("wikiName")%></a>
+      </span>
+   <% } else { %>
+      <span>
+        <a href="http://id.mindbroker.de/?wikiTarget=<wiki:PageName/>">Log In</a>
+      </span>
+   <% } %>
+}}}
+
+
+deleted: 
+{{{
+
+    <wiki:UserCheck>
+      ...
+    </wiki:UserCheck>
+}}}

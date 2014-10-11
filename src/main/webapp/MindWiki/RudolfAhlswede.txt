@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/a/RudolfAhlswede
+* HomePage: http://www.math.uni-bielefeld.de/ahlswede/homepage/
+* PageNumber: 
+* PagePath: LarryPage ... RudolfAhlswede

@@ -1,0 +1,8 @@
+* IsA: ProFessor
+* InterWiki: [DeWikiPedia:Ludwig_Wittgenstein] [OpenCyc:LudwigWittgenstein]
+* BornIn: 1889
+* BirthDay: 04-26
+* ViAf: http://viaf.org/viaf/24609378
+* DiedIn: 1951
+* HasTalked: AdolfHitler
+* MindSkill: AusSage SprachSpiel WahrHeit WorldModel

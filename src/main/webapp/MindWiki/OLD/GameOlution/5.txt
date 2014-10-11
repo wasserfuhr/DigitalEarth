@@ -1,0 +1,37 @@
+Text von MatthiasHorx: http://www.horx.com/Gameolution/Gameolution.pdf
+
+!!ExZerpt:
+!Fehler im Text:
+* "Daniel Dennet" statt DanielDenett
+* "Hermann Kahn" statt HermanKahn
+* "Second World" statt SecondLife
+* "380-Grad-Beurteilungssystem" (kann allerhöchstens als Kreativ-TyPo durchgehen)
+
+!Erwähnte Personen:
+* AngelaMerkel
+* AngelaRoehmelt
+* ByronReeves
+* DanielDennett
+* GerhardHueter
+* GiordanoBruno
+* HermanKahn
+* JohnConway
+* JohnSeelyBrown
+* JohnVonNeumann
+* JulieZeh
+* MargaretWertheim
+* MrPlato
+* NorbertBolz
+* OscarMorgenstern
+* StanleyKubrick
+* TomChatfield
+* WillWright
+
+!Erwähnte Konzepte:
+* AvaTar
+* MindSkill
+* SecondLife
+* SpaceOdyssey
+* TheSpore
+* WarCraft
+* WirkenStattArbeiten

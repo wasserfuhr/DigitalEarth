@@ -1,0 +1,155 @@
+* InterWiki: [AgiriWiki:AGIRI_Events] [DdWiki:Stadtwiki:Veranstaltungen] [DeWikiPedia:September_2009]
+ [OpenCog:Current_events]
+
+The WikiBased calendar of NooPolis.
+
+(MindEvent's in the WikiLender have a "When" and an optional "UnTil". Things which only have an "UnTil" can be found as DeadLine)
+||When        ||UnTil||      ||MindPlace    ||What                    ||MindPeople
+|20090927     |     |        |DeutschLand   |BundestagsWahl09         |
+|20090927:1800|     |        |StadtDresden  |WahlParty                |
+|20090930     |     |        |StadtDresden  |Lesung                   |StephenBlaubach EtAl
+|20091001     |     |        |StadtDresden  |UndSonstSo               |EtAl
+|20091002     |     |        |StadtDresden  |PonyhofSuppenParty       |ChristineSchlinck EtAl
+|20091003     |     |        |NewYork       |SingularitySummit        |RayKurzweil EtAl
+|20091004     |     |        |NewYork       |SingularitySummit        |RayKurzweil EtAl
+|20091004:0830|     |        |HelsInki      |McPc                     |EtAl
+|20091005     |     |        |StadtDresden  |SocialBar                |AndreasPoldrack EtAl
+|20091019     |     |        |StadtDresden  |VorTrag                  |AndreasPoldrack YvonneSchubert EtAl
+|20091025     |     |        |OrlandoFl     |WikiSym                  |DirkRiehle? EtAl
+|20091031     |     |        |StadtDresden  |RockTheTram              |SvenEchtermeyer EtAl
+|20091031     |     |        |StadtDresden  |HopeGala                 |ViolaKlein EtAl
+|20091107:2007|     |        |StadtDresden  |ProhibitionsParty        |
+|20091111:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|20091126:1930|     |        |StadtDresden  |VorTrag                  |WernerTikiKuestenmacher
+|20100211:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|20100305     |     |        |Lugano        |AgiConf                  |BenGoertzel? EtAl
+|20100610     |     |        |CongressCenterDresden|ZukunftsForum     |ThomasKoeplin EtAl
+|20101023     |     |        |LosAngeles    |LoebnerPrize             |HughLoebner EtAl
+|20110303:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|20120216:1111|     |        |AlterMarkt    |AlAaf                    |JeMand EtAl
+|20121221     |     |        |PlanetErde    |13.0.0.0.0               |
+|20261113     |     |        |PlanetErde    |DoomsDay                 |HeinzVonFoerster EtAl
+|20361217:1930|     |        |UniVerse      |End of HundertMalHundert |RainerWasserfuhr
+|20810903     |     |        |DeutschLand   |SonnenFinsternis         |
+
+everything else is on the FutureMap
+
+!WasWar:
+
+||When        ||UnTil||      ||MindPlace    ||What                    ||MindPeople
+|20090926     |     |        |ArnsDorf      |                         |KirstinWalther EtAl
+|20090926     |     |CANCELED|StadtDresden  |BirthDay-DiaLog          |RainerWasserfuhr JeMand
+|20090926:1100|     |        |SchlossPlatz  |YeaaHh                   |FrankWalterSteinmeier MartinDulig EtAl
+|20090926:0900|     |        |CafeNeustadt  |AtomsAndBits             |RalfLippold HolgerHelas
+|20090925:2100|     |        |BautznerTor   |DieParteiSachsen         |HolgerJohn OlafSchubert EtAl
+|20090925     |     |CANCELED|StadtDresden  |DiaLog                   |RainerWasserfuhr HannasSchwester
+|20090925:1230|     |        |TzDresden     |Meeting                  |RainerWasserfuhr JuergenKohn EtAl
+|20090924     |     |        |StadtDresden  |FutureSax                |KerstinTrautmann RalfLippold RainerWasserfuhr EtAl
+|20090923:1930|     |        |StadtDresden  |ElbTaler                 |
+|20090923:1900|     |        |WasaPlatz     |ProtoWerb                |JoergKeller RainerWasserfuhr EtAl
+|20090923:1130|     |        |HausDerPresse |OpenCoffeeClubDresden    |RalfLippold RainerWasserfuhr EtAl
+|20090822:1800|     |        |TzDresden     |VorTrag                  |KatharinaKuehnel EtAl
+|20090922:0900|:1900|        |StadtBerlin   |ReBootD                  |MartinLindner EtAl
+|20090921:1930|     |        |VereinshausJohannstadt|MontagsKreis     |AndreasPoldrack BerndCzorny YvonneSchubert EtAl
+|20090920     |     |        |TerrasseAmBischofsplatz|DiaLog          |RainerWasserfuhr JeMand
+|20090920     |     |        |TafelBlick    |DiaLog                   |RainerWasserfuhr JeMand
+|20090920     |     |        |CityBeach     |DiaLog                   |RainerWasserfuhr JeMand
+|20090920     |     |        |StadtDresden  |Knusper-DiaLog           |RainerWasserfuhr JeMand
+|20090919:2230|     |        |CityBeach     |Knusper-DiaLog           |RainerWasserfuhr JeMand JeMand
+|20090919:1600|     |        |DresdenHbf    |ExpeditionZukunft        |RainerWasserfuhr RalfLippold EtAl
+|20090919     |     |        |KalkScheune   |GlobalFutureCamp         |MoritzAvenarius EtAl
+|20090918:2030|     |        |LingnerTerrassen|DiaLog                 |RainerWasserfuhr JeMand
+|20090918     |     |        |DresdenHbf    |ExpeditionZukunft        |EtAl
+|20090917:1900|     |        |WechselBad    |                         |GuenterGrass InesVogel SabineFriedel
+|20090917     |     |        |DresdenHbf    |ExpeditionZukunft        |EtAl
+|20090916     |     |        |CafeNeustadt  |OpenCoffeeClubDresden    |RalfLippold EtAl
+|20090913     |     |        |LArtDeVie     |DiaLog                   |RainerWasserfuhr JeMand
+|20090912     |     |        |StadtDresden  |                         |CharlesStross
+|20090911     |     |        |StadtDresden  |                         |CharlesStross
+|20090910     |     |        |StadtDresden  |                         |CharlesStross
+|20090909:1130|     |        |HausDerPresse |OpenCoffeeClubDresden    |RalfLippold AlexandraGrandpierre EtAl
+|20090908:2100|     |        |SaLoppe       |Party                    |RainerWasserfuhr EtAl
+|20090907     |     |        |StadtDresden  |VorTrag                  |AndreasPoldrack EtAl
+|20090906     |     |        |BrightonCentre|LoebnerPrize             |HughLoebner EtAl
+|20090904:1445|     |        |LockSchuppen  |LockSchuppenVisit        |RainerWasserfuhr RalfLippold EtAl
+|20090903:1900|     |        |VaPianoDd1    |DiaLog                   |RainerWasserfuhr JeMand
+|20090902:2000|     |CANCELED|NeuStadt      |DiaLog                   |RainerWasserfuhr JeMand
+|20090902:1200|     |        |NeuStadt      |OpenCoffeeClubDresden    |RalfLippold AlexandraGrandpierre EtAl
+|20090901:1300|     |        |FritzReuterStrasse|DiaLog               |RainerWasserfuhr JeMand
+|20090901     |     |        |FreiBerg      |IndustrialHeritage       |
+|20090831:1900|     |        |WaldSchloesschen|AgileSaxony            |RainerWasserfuhr RalfLippold JensKorte EtAl
+|20090831     |     |        |FreiBerg      |IndustrialHeritage       |
+|20090830     |     |        |HechtViertel  |HechtFest                |
+|20090830     |     |        |FreiBerg      |IndustrialHeritage       |
+|20090829     |     |        |HechtViertel  |HechtFest                |
+|20090829:1800|     |        |StadtDresden  |Treffen                  |RalfLippold, JeMand
+|20090829:1300|     |        |StadtDresden  |VernetzungsTreffen       |AndreasPoldrack EtAl
+|20090828     |     |        |HechtViertel  |HechtFest                |
+|20090830     |     |        |FreistaatSachsen|SachsenWahl09          |BuergerInnen
+|20090827:0830|:1300|        |FutureFactory |                         |RalfLippold
+|20090826:1700|     |        |HellerAu      |BrandEinsNeuland         |JensBemme, RainerWasserfuhr EtAl
+|20090826:1400|:1600|CANCELED|LockSchuppen  |BeSuch                   |JeMand, RalfLippold?, RainerWasserfuhr? EtAl
+|20090826:0730|:0930|        |CafeNeustadt  |OpenCoffeeClubDresden    |RalfLippold EtAl
+|20090825:1730|     |        |HygieneMuseum |[VorTrag|http://www.netzwerk-canaletto.de/veranstaltungen-und-projekte/termine/cal/event/20090825/list-1%7Cevent-25-22-tx_cal_phpicalendar%7Clocation-25-6-tx_cal_location/tx_cal_phpicalendar//Umdenken_Gegenlenken_dass_grosse_Forum_der_Betriebs_und_Personalraete_in_Dresden/]|EvaMariaStange EtAl
+|20090825:1930|     |        |NewTownBar    |TweetUpDd                |RainerWasserfuhr EtAl
+|20090825:1200|     |        |StadtDresden  |Treffen, TheoryU         |RalfLippold, JeMand
+|20090822:1500|     |        |AlaunPark     |PiratenPartei            |RainerWasserfuhr, MircoDaSilva EtAl
+|20090822:1400|     |        |TzDresden     |ProtoWerb                |JoergKeller, ChristianFischer
+|20090821:2000|     |        |MesseDresden  |[OstraLe|http://www.ostrale-zentrum.de/ostrale09_geruechte.html], [SecretWarsGermany|http://secretwarsgermany.de/SecretwarsBlog.htm]            |RalfLippold
+|20090820:1900|     |        |StadtteilHaus |PiratenPartei            |
+|20090819:1800|     |        |ZeitenStroemung|Sommermarketing         |
+|20090819:1730|     |        |StadtDresden  |DdWiki                   |RalfLippold
+|20090819:1430|     |        |StadtDresden  |InterView                |RalfLippold, JeMand
+|20090817:1100|     |        |LockSchuppen  |BeSuch                   |
+|20090817:1930|     |        |VereinshausJohannstadt|MontagsRunde     |JanKreuter, RainerWasserfuhr, AndreasPoldrack, RalfLippold, EtAl
+|20090816     |     |        |StadtDresden  |StadtFest                |
+|20090815     |     |        |StadtDresden  |StadtFest                |
+|20090814     |     |        |StadtDresden  |StadtFest                |
+|20090814     |     |        |FutureFactory |Besuchertag              |CarstenPuschke?
+|20090814:1830|     |CANCELED|StadtDresden  |GriebenSchmalz           |RainerWasserfuhr, JoergKeller EtAl
+|20090814:1900|     |        |StadtDresden  |PiratenPartei            |
+|20090810:1340|     |        |PuroBeach     |                         |RainerWasserfuhr, ChristineSchlinck EtAl
+|20090811:1600|     |CANCELED|StadtDresden  |InterView                |RalfLippold, CelineBerger, RainerWasserfuhr?
+|20090811:2100|     |        |SaLoppe       |Party                    |
+|20090809:0900|     |        |StadtDresden  |Knusper-DiaLog           |RainerWasserfuhr, JeMand
+|20090808:2200|     |        |KoenigsUfer   |Party                    |RainerWasserfuhr, ChristineSchlinck EtAl
+|20090808:2000|     |        |KoenigsUfer   |Konzert                  |RolandKaiser EtAl
+|20090808:1000|     |        |BetQuarters   |GriebenSchmalz           |RainerWasserfuhr, JoergKeller EtAl
+|20090808     |     |        |StadtDresden  |SingularTalk             |ChristianHeller?, RainerWasserfuhr?
+|20090807:2030|     |        |StadtDresden  |Delphin-DiaLog           |RainerWasserfuhr, JeMand
+|20090807     |     |        |KoenigsUfer   |Konzert                  |HelgeSchneider EtAl
+|20090806     |     |        |StadtDresden  |XingLe                   |DirkGruhn
+|20090805:2100|     |        |StadtDresden  |DiaLog                   |RainerWasserfuhr, JeMand
+|20090804:1400|     |        |NeuStadt      |                         |RainerWasserfuhr, ChristineSchlinck, JfSchlinck
+|20090804:2100|     |        |StadtDresden  |Party                    |
+|20090803     |     |CANCELED|StadtDresden  |Reben-DiaLog             |RainerWasserfuhr, JeMand
+|20090802     |     |CANCELED|StadtDresden  |BirthDay-DiaLog          |RainerWasserfuhr, JeMand
+|20090801     |     |        |StadtDresden  |KnusperFlocke-DiaLog     |RainerWasserfuhr, JeMand
+|20090801:1100|     |        |BetQuarters   |GriebenSchmalz           |RainerWasserfuhr, JoergKeller EtAl
+|20090801:0100|     |        |AyersRockDresden|BabaYaga               |RainerWasserfuhr, ReinerWeiss, MarcusBertelsmeier
+|20090731:2100|     |        |StadtDresden  |Party                    |
+|20090731:1900|     |        |BalkonEuropas |FlashMob                 |RainerWasserfuhr, JuergenAnke EtAl
+|20090731:1900|     |        |StadtteilHaus |PiratenPartei            |EtAl
+|20090729:1900|     |        |VaPianoDd1    |XingLe                   |JensUweSauer, RainerWasserfuhr, HeidiGallinat EtAl
+|20090728     |     |        |TuDresden     |GruenderTreff            |
+|20090728     |     |        |RasKolNiKoff  |BirthDay-DiaLog          |RainerWasserfuhr, JeMand
+|20090727:1930|     |        |StadtDresden  |DiaLog                   |RainerWasserfuhr, JeMand
+|20090725:2200|     |        |JapanischesPalais|Party                 |ChristineSchlinck?
+|20090725:2100|     |        |SaLoppe       |Party                    |RainerWasserfuhr?, JeMand
+|20090725:1000|     |        |NeuStadt      |PiratenPartei            |ChristianDahley, JeMand
+|20090723:2000|     |CANCELED|SkyDresden    |GurkenSorbet             |RainerWasserfuhr, JeMand
+|20090722     |     |        |ShangHai      |SonnenFinsternis         |
+|20090721     |     |        |BallhausWatzke|Essen                    |RainerWasserfuhr, ChristineSchlinck, JfSchlinck
+|20090720:2230|     |        |SaLoppe       |Party                    |RainerWasserfuhr, ChristineSchlinck EtAl
+|20090718     |     |        |StadtDresden  |SchloesserNacht          |
+|20090718:1800|     |        |KaffeeRosengarten|BeSuch                |RainerWasserfuhr, ChristineSchlinck, JfSchlinck
+|20090715:2030|     |        |NeuStadt      |DiaLog                   |RainerWasserfuhr, JeMand
+|20090714:2100|     |        |SaLoppe       |Party                    |RainerWasserfuhr, ChristineSchlinck EtAl
+|20090710:1100|     |        |LockSchuppen  |BeSuch                   |RalfLippold, RainerWasserfuhr, JensKorte EtAl
+|20090709:2200|     |        |StadtDresden  |DiaLog                   |RainerWasserfuhr, JeMand
+|20090708:1930|     |        |WirkZentrum   |JobWiki-DiaLog           |RainerWasserfuhr, JeMand
+|20090703     |     |        |BmwWerkLeipzig|Besuch                   |RalfLippold, JuergenAnke
+|20090702     |     |        |CafeLloyds    |SingularTalk             |RainerWasserfuhr, RalfLippold, AlexandraGrandpierre
+|20090701     |     |        |BergGarten    |BirthDay-Party           |RainerWasserfuhr, ChristineSchlinck EtAl
+
+Former Events: WasWar.

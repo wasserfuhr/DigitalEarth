@@ -1,0 +1,6 @@
+* MindTags: MindPlace
+* BreitenGrad: 51.0711
+* LaengenGrad: 13.7514
+* BoundingBox: 20
+* http://www.bailamor.de/
+

@@ -1,0 +1,3 @@
+* IsA: PerSon
+* HasTalked: RainerWasserfuhr YvonneSchubert
+|[XingLe:Olaf_Siegel]

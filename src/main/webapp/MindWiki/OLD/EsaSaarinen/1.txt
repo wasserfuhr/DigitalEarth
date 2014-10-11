@@ -1,0 +1,6 @@
+* IsA: ProFessor
+* InterWiki: [WikiPedia:Esa_Saarinen]
+* BornIn: 1953
+* BirthDay: 07-27
+
+visited TiimiAkatemia

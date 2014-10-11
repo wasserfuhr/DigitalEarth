@@ -1,0 +1,8 @@
+* IsA: UnternehmensGruender 
+* BornIn: 1977
+* HomePage: http://www.lukaszgadowski.com/
+* MindSkill: VentureCapital
+* InVest: StudiVz
+|[FaceBook:610460504]
+|[TwittEr:lak]
+|[XingLe:Lukasz_Gadowski]

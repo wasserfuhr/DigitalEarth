@@ -1,0 +1,5 @@
+* IsA: ProFessor
+* DbLp: http://dblp.uni-trier.de/rec/pid/h/AHeuer
+* HomePage: http://dbis.informatik.uni-rostock.de/Mitarbeiter/heuer
+* PageNumber: 6
+* PagePath: LarryPage HectorGarciaMolina ErhardRahm MarioJeckle StefanMueller HansUszkoreit AndreasHeuer
