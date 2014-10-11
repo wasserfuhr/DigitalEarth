@@ -46,16 +46,16 @@ com.itextpdf.text.pdf.PdfWriter
   }
  }
  public void page(Document doc, String title, int wikiLevel) throws Exception {
-  String s="/home/rawa/";
+  String s="/home/rawa/GitHoster/";
   switch (wikiLevel) {
    case 1:
-    s+="tmp/mind/"+title+".txt";
+    s+="GitHub/wasserfuhr/DigitalEarth/src/main/webapp/MindWiki/"+title+".txt";
     break;
    case 3:
-    s+="tmp/btn/wiki/"+title+".wiki";
+    s+="GitHub/wasserfuhr/DigitalEarth/src/main/webapp/BtnWiki/"+title+".wiki";
     break;
    case 4:
-    s+="GitHoster/GoogleProjectHosting/ungit.wiki/"+title+".wiki";
+    s+="GoogleProjectHosting/ungit.wiki/"+title+".wiki";
     break;
   }
  String content=new String(Files.readAllBytes(Paths.get(s)));
