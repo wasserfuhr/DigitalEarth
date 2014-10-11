@@ -101,6 +101,9 @@ com.itextpdf.text.pdf.PdfWriter
 // Image.getInstance("/home/rawa/StauneBild.jpg");
  img.scaleToFit(550,800);
  doc.add(img);
+ img = Image.getInstance("/home/rawa/InnerTitel.png");
+ img.scaleToFit(600,1580);
+ doc.add(img);
  Chapter ch=new Chapter(new Paragraph("ShockLevel1"),0);
  doc.add(ch);
 
@@ -116,18 +119,18 @@ com.itextpdf.text.pdf.PdfWriter
  page(doc,"SchickSaal",3);
  page(doc,"HeldenSage",3);
  page(doc,"InnBankSe",4);
+ page(doc,"FliederChen",4);
  page(doc,"BeuteSchema",1);
+ page(doc,"BeKenntnisseEinesAutors",4);
  page(doc,"GruenderPaar",3);
  page(doc,"SiSanien",1);
- page(doc,"TrueLove",1);
  page(doc,"EinSchlag",1);
  page(doc,"BeatriceBaranov",1);
- page(doc,"EinSchlag",1);
-
 
  doc.add(new Chapter(new Paragraph("ShockLevel"),2));
  //too long!!:
  //page(doc,"LuxorChess",1);
+ page(doc,"TrueLove",1);
 
  doc.add(new Chapter(new Paragraph("ShockLevel"),3));
  page(doc,"IscIi",4);
@@ -136,7 +139,7 @@ com.itextpdf.text.pdf.PdfWriter
  page(doc,"AnLicht",1);
 
  //
- doc.add(new Chapter(new Paragraph("BackPage"),4));
+ doc.add(new Chapter(new Paragraph("BackPage"),5));
  page(doc,"LiteraturPapst",3);
  img = Image.getInstance("/home/rawa/DerAugenblick.jpg");
  img = Image.getInstance("/home/rawa/NooGrey.png");
