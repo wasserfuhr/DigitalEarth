@@ -4,6 +4,7 @@ java.io.OutputStream,
 java.nio.file.Files,
 java.nio.file.Paths,
 java.security.MessageDigest,
+java.util.Hashtable,
 java.util.regex.Matcher,
 java.util.regex.Pattern,
 com.itextpdf.text.BaseColor,
@@ -24,6 +25,7 @@ com.itextpdf.text.pdf.PdfPageEventHelper,
 com.itextpdf.text.pdf.PdfContentByte,
 com.itextpdf.text.pdf.PdfWriter
 "%><%! // http://blog.abelsky.com/2014/01/22/adding-page-number-to-itext-generated-pdf/
+
  public class PageStamper extends PdfPageEventHelper {
   @Override
   public void onEndPage(PdfWriter writer, Document document) {
@@ -73,6 +75,7 @@ com.itextpdf.text.pdf.PdfWriter
  Matcher m = Pattern.compile("[A-Z]+[a-z]+[A-Z]+[a-z]+[a-zA-Z0-9]*").matcher(c);
  int last=0;
  while (m.find()) {
+// pi.add(1,1);
   p.add(new Phrase(
    c.substring(last,m.start())));  
   Chunk pc=new Chunk(
@@ -92,6 +95,7 @@ com.itextpdf.text.pdf.PdfWriter
 %>
 <% // http://itextpdf.com/examples/iia.php?id=173
  response.setContentType("application/pdf");
+ Hashtable pi=new Hashtable();
  Document doc = new Document();
  ByteArrayOutputStream baos = new ByteArrayOutputStream();
  final PdfWriter writer = PdfWriter.getInstance(doc, baos);
@@ -107,35 +111,41 @@ com.itextpdf.text.pdf.PdfWriter
  Chapter ch=new Chapter(new Paragraph("ShockLevel1"),0);
  doc.add(ch);
 
- page(doc,"TextForm",3);
- page(doc,"DankSagung",3);
- //OUT:
- //page(doct,"FansOfIso8601",3);
- page(doc,"KlappenText",1);
- 
  doc.add(new Chapter(new Paragraph("ShockLevel"),1));
- page(doc,"SchnuefffChen",3);
+ page(doc,"RoMa",1);
  page(doc,"EndMontage",1);
+ page(doc,"SchnuefffChen",3);
  page(doc,"SchickSaal",3);
  page(doc,"HeldenSage",3);
+ page(doc,"TrueMan",1);
+ page(doc,"TrueWoman",1);
+ page(doc,"HauptStrasse",1);
  page(doc,"InnBankSe",4);
  page(doc,"FliederChen",4);
  page(doc,"BeuteSchema",1);
+ page(doc,"HildeIndex",4);
+ page(doc,"RainersChristentum",1);
  page(doc,"BeKenntnisseEinesAutors",4);
  page(doc,"GruenderPaar",3);
  page(doc,"SiSanien",1);
- page(doc,"EinSchlag",1);
+ page(doc,"PieschenBank543",4);
  page(doc,"BeatriceBaranov",1);
 
  doc.add(new Chapter(new Paragraph("ShockLevel"),2));
  //too long!!:
  //page(doc,"LuxorChess",1);
  page(doc,"TrueLove",1);
+ page(doc,"TextForm",3);
+ page(doc,"DankSagung",3);
+ //OUT:
+ //page(doct,"FansOfIso8601",3);
+ page(doc,"KlappenText",1);
 
  doc.add(new Chapter(new Paragraph("ShockLevel"),3));
  page(doc,"IscIi",4);
 
  doc.add(new Chapter(new Paragraph("ShockLevel"),4));
+ page(doc,"AtemZuege",1);
  page(doc,"AnLicht",1);
 
  //
