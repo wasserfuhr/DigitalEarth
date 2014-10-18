@@ -7,6 +7,7 @@ java.security.MessageDigest,
 java.util.Hashtable,
 java.util.regex.Matcher,
 java.util.regex.Pattern,
+java.util.Vector,
 com.itextpdf.text.BaseColor,
 com.itextpdf.text.Chapter,
 com.itextpdf.text.Chunk,
@@ -47,55 +48,71 @@ com.itextpdf.text.pdf.PdfWriter
    } catch (Exception e) {}
   }
  }
- public void page(Document doc, String title, int wikiLevel) throws Exception {
-  String s="/home/rawa/GitHoster/";
-  switch (wikiLevel) {
-   case 1:
-    s+="GitHub/wasserfuhr/DigitalEarth/src/main/webapp/MindWiki/"+title+".txt";
-    break;
-   case 3:
-    s+="GitHub/wasserfuhr/DigitalEarth/src/main/webapp/BtnWiki/"+title+".wiki";
-    break;
-   case 4:
-    s+="GoogleProjectHosting/ungit.wiki/"+title+".wiki";
-    break;
+ public class PageHelper {
+  public PdfWriter writer;
+  public Document doc;
+  public Hashtable pi=new Hashtable();
+ 
+  public void addChapter(String title, int wikiLevel) throws Exception {
+   String s="/home/rawa/GitHoster/";
+   switch (wikiLevel) {
+    case 1:
+     s+="GitHub/wasserfuhr/DigitalEarth/src/main/webapp/MindWiki/"+title+".txt";
+     break;
+    case 3:
+     s+="GitHub/wasserfuhr/DigitalEarth/src/main/webapp/BtnWiki/"+title+".wiki";
+     break;
+    case 4:
+     s+="GoogleProjectHosting/ungit.wiki/"+title+".wiki";
+     break;
+   }
+   String content=new String(Files.readAllBytes(Paths.get(s)));
+   String c=content+" ";
+   doc.add(new Paragraph(title,
+    new Font(FontFamily.COURIER,18,Font.BOLD)));
+   MessageDigest hash=MessageDigest.getInstance("SHA-256");
+   hash.update(content.getBytes());
+   String h="#"+javax.xml.bind.DatatypeConverter.printHexBinary(hash.digest());
+   doc.add(new Paragraph(h.toLowerCase(),
+    new Font(FontFamily.COURIER,6)));
+   Paragraph p=new Paragraph("",
+    new Font(FontFamily.TIMES_ROMAN, 13));
+   p.setAlignment(Element.ALIGN_JUSTIFIED);
+   Matcher m = Pattern.compile("[A-Z]+[a-z]+[A-Z]+[a-z]+[a-zA-Z0-9]*").matcher(c);
+   int last=0;
+   while (m.find()) {
+    p.add(new Phrase(
+     c.substring(last,m.start())));  
+    String cc=c.substring(m.start(),m.end());
+    Chunk pc=new Chunk( cc, new Font(FontFamily.COURIER));
+    int pn=writer.getCurrentPageNumber();    
+    Vector v;
+    if (pi.containsKey(cc)) {
+     v=(Vector)pi.get(cc);
+    } else {
+     v=new Vector();
+     pi.put(cc,v);
+    }
+    v.add(pn);
+    //pc.setCharacterSpacing(-0.5f);
+    Phrase pp=new Phrase();
+    pp.add(pc);
+    p.add(pp);
+    last=m.end();
+    if ("'".equals(c.substring(last,last+1))) last++;
+   }
+   p.add(new Phrase(c.substring(last)));
+   p.setSpacingAfter(10);
+   doc.add(p);
   }
- String content=new String(Files.readAllBytes(Paths.get(s)));
- String c=content+" ";
- doc.add(new Paragraph(title,
-   new Font(FontFamily.COURIER,18,Font.BOLD)));
- MessageDigest hash=MessageDigest.getInstance("SHA-256");
- hash.update(content.getBytes());
- String h="#"+javax.xml.bind.DatatypeConverter.printHexBinary(hash.digest());
- doc.add(new Paragraph(h.toLowerCase(),
-   new Font(FontFamily.COURIER,6)));
- Paragraph p=new Paragraph("",
-  new Font(FontFamily.TIMES_ROMAN, 13));
- p.setAlignment(Element.ALIGN_JUSTIFIED);
- Matcher m = Pattern.compile("[A-Z]+[a-z]+[A-Z]+[a-z]+[a-zA-Z0-9]*").matcher(c);
- int last=0;
- while (m.find()) {
-// pi.add(1,1);
-  p.add(new Phrase(
-   c.substring(last,m.start())));  
-  Chunk pc=new Chunk(
-   c.substring(m.start(),m.end()),
-   new Font(FontFamily.COURIER));
-//  pc.setCharacterSpacing(-0.5f);
-  Phrase pp=new Phrase();
-  pp.add(pc);
-  p.add(pp);
-  last=m.end();
-  if ("'".equals(c.substring(last,last+1))) last++;
  }
- p.add(new Phrase(c.substring(last)));
- p.setSpacingAfter(10);
- doc.add(p);
-}
+//
+%>
+
 %>
 <% // http://itextpdf.com/examples/iia.php?id=173
  response.setContentType("application/pdf");
- Hashtable pi=new Hashtable();
+
  Document doc = new Document();
  ByteArrayOutputStream baos = new ByteArrayOutputStream();
  final PdfWriter writer = PdfWriter.getInstance(doc, baos);
@@ -110,47 +127,50 @@ com.itextpdf.text.pdf.PdfWriter
  doc.add(img);
  Chapter ch=new Chapter(new Paragraph("ShockLevel1"),0);
  doc.add(ch);
-
  doc.add(new Chapter(new Paragraph("ShockLevel"),1));
- page(doc,"RoMa",1);
- page(doc,"EndMontage",1);
- page(doc,"SchnuefffChen",3);
- page(doc,"SchickSaal",3);
- page(doc,"HeldenSage",3);
- page(doc,"TrueMan",1);
- page(doc,"TrueWoman",1);
- page(doc,"HauptStrasse",1);
- page(doc,"InnBankSe",4);
- page(doc,"FliederChen",4);
- page(doc,"BeuteSchema",1);
- page(doc,"HildeIndex",4);
- page(doc,"RainersChristentum",1);
- page(doc,"BeKenntnisseEinesAutors",4);
- page(doc,"GruenderPaar",3);
- page(doc,"SiSanien",1);
- page(doc,"PieschenBank543",4);
- page(doc,"BeatriceBaranov",1);
+ PageHelper ph=new PageHelper();
+ ph.doc=doc;
+ ph.writer=writer;
+ ph.addChapter("RoMa",1);
+ ph.addChapter("EndMontage",1);
+ ph.addChapter("SchnuefffChen",3);
+ ph.addChapter("SchickSaal",3);
+ ph.addChapter("HeldenSage",3);
+ ph.addChapter("TrueMan",1);
+ ph.addChapter("TrueWoman",1);
+ ph.addChapter("HauptStrasse",1);
+ ph.addChapter("InnBankSe",4);
+ ph.addChapter("FliederChen",4);
+ ph.addChapter("BeuteSchema",1);
+ ph.addChapter("HildeIndex",4);
+ ph.addChapter("RainersChristentum",1);
+ ph.addChapter("BeKenntnisseEinesAutors",4);
+ ph.addChapter("GruenderPaar",3);
+ ph.addChapter("SiSanien",1);
+ ph.addChapter("PieschenBank543",4);
+ ph.addChapter("BeatriceBaranov",1);
 
  doc.add(new Chapter(new Paragraph("ShockLevel"),2));
  //too long!!:
- //page(doc,"LuxorChess",1);
- page(doc,"TrueLove",1);
- page(doc,"TextForm",3);
- page(doc,"DankSagung",3);
+ //ph.addChapter(doc,"LuxorChess",1);
+ ph.addChapter("TrueLove",1);
+ ph.addChapter("TextForm",3);
+ ph.addChapter("DankSagung",3);
  //OUT:
- //page(doct,"FansOfIso8601",3);
- page(doc,"KlappenText",1);
+ //ph.addChapter(doct,"FansOfIso8601",3);
+ ph.addChapter("KlappenText",1);
 
  doc.add(new Chapter(new Paragraph("ShockLevel"),3));
- page(doc,"IscIi",4);
+ ph.addChapter("IscIi",4);
 
  doc.add(new Chapter(new Paragraph("ShockLevel"),4));
- page(doc,"AtemZuege",1);
- page(doc,"AnLicht",1);
+ ph.addChapter("AtemZuege",1);
+ ph.addChapter("AnLicht",1);
 
  //
  doc.add(new Chapter(new Paragraph("BackPage"),5));
- page(doc,"LiteraturPapst",3);
+ ph.addChapter("LiteraturPapst",3);
+
  img = Image.getInstance("/home/rawa/DerAugenblick.jpg");
  img = Image.getInstance("/home/rawa/NooGrey.png");
  img.scaleToFit(320, 240);
