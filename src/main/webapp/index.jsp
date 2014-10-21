@@ -26,6 +26,7 @@
   <title>DigitalPlanet</title>
   <link rel="canonical" href="http://planet.sl4.eu/"/>
   <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+  <script src="https://cdn.rawgit.com/google/closure-library/master/closure/goog/base.js"></script>
   <script>
 
  function osmLoaded() {
@@ -99,9 +100,9 @@
           -->
          </map>
         </div>
-        <button onclick="zoomLevel++;draw()"
+        <button onclick="zoomLevel++;draw()" title="zoom in"
          style="left:5px;top:15px;z-index:18">+</button>
-        <button onclick="zoomLevel--;draw()"
+        <button onclick="zoomLevel--;draw()" title="zoom out"
          style="left:5px;top:45px;z-index:18">-</button>
 <!--      <button onclick="cursorPos[2]+=Math.pow(2,23-zoomLevel);draw()"
        style="left:55px;top:10px">&#8593;</button>
@@ -302,7 +303,6 @@
   </table>
   <!-- former https://closure-library.googlecode.com/svn/trunk/closure/goog/base.js , see
    http://stackoverflow.com/questions/2218368/why-isnt-googles-closure-library-hosted-on-their-cdn : -->
-  <script src="https://cdn.rawgit.com/google/closure-library/master/closure/goog/base.js"></script>
   <!--script src="https://dresdenlabs.appspot.com/cubes.js"></script-->
   <!--script src="https://bigtablenomic.googlecode.com/svn/trunk/cubes.js"></script-->
   <!--script src="https://bigtablenomic.googlecode.com/files/cubes.js"></script-->

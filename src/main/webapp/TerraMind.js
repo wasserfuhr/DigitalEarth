@@ -1,11 +1,5 @@
-/*
-VoWe
-WipperFeld
-Prohi
-*/
 // var ocTree=cubes;
 // var root=UrCube;
- goog.require('goog.async.Delay');
  goog.require('goog.net.XhrIo');
  goog.require('goog.structs.Map');
  goog.require('goog.Uri.QueryData');
@@ -153,9 +147,9 @@ Prohi
     //zoomLevel++;
     meterPerPixel-=5000;
    } else {
-    cursorPos[0]=4016256;
-    cursorPos[1]=0;
-    cursorPos[2]=4938304;
+    cursorPos[0]=animTarget[0];//4016256;
+    cursorPos[1]=animTarget[1];//0;
+    cursorPos[2]=animTarget[2];//4938304;
     cursorLevel=8;
     zoomLevel=8;
     currNode=225048;
@@ -164,8 +158,9 @@ Prohi
    }
   }
   draw();
-  var delay = new goog.async.Delay(animate, delay);
-  delay.start();
+//  var delay = new goog.async.Delay(animate, delay);
+  //delay.start();
+  setTimeout(animate,delay);
  }
 
  var landmarks={
@@ -182,11 +177,10 @@ Prohi
   alert(s);
  }
 
- function hot(hot) {
+ function hot(hotV) {
   // in 3 steps: zoomOut, rotate, zoomIn.
-  var alt=currEcef()[2];
   animStage=0;
-  animTarget=hot;
+  animTarget=hotV;
   animate();
   return false;
  }
@@ -848,6 +842,8 @@ Prohi
 
  //https://gist.github.com/klucar/1536194
  function llaToEcef(lat,lon,alt) {
+  lat = lat * Math.PI/180;
+  lon = (lon-SingularMeridian) * Math.PI/180;
   var N = a / Math.sqrt(1 - esq * Math.pow(Math.sin(lat),2));
   var x = (N+alt) * Math.cos(lat) * Math.cos(lon);
   var y = (N+alt) * Math.cos(lat) * Math.sin(lon);
@@ -1191,6 +1187,13 @@ Prohi
   }
  }
 
+ function geoSuccess(pos) {
+  var alt=pos.coords.altitude;
+  hot(llaToEcef(pos.coords.latitude, pos.coords.longitude,alt?alt:0));
+ }
+
+ function geoError() {
+ }
 
  function init() {
   if (null==ctx) {
@@ -1203,6 +1206,9 @@ Prohi
    pane.addEventListener('click',click,false);
    document.onkeydown=keyHandler;
    draw();
+  }
+  if (navigator.geolocation) {
+   navigator.geolocation.getCurrentPosition(geoSuccess, geoError);
   }
  }
 

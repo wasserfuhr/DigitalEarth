@@ -106,9 +106,6 @@ com.itextpdf.text.pdf.PdfWriter
    doc.add(p);
   }
  }
-//
-%>
-
 %>
 <% // http://itextpdf.com/examples/iia.php?id=173
  response.setContentType("application/pdf");
