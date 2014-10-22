@@ -4,7 +4,9 @@ java.io.OutputStream,
 java.nio.file.Files,
 java.nio.file.Paths,
 java.security.MessageDigest,
-java.util.Hashtable,
+java.util.Iterator,
+/*java.util.LinkedHashMap,*/
+java.util.TreeMap,
 java.util.regex.Matcher,
 java.util.regex.Pattern,
 java.util.Vector,
@@ -51,7 +53,8 @@ com.itextpdf.text.pdf.PdfWriter
  public class PageHelper {
   public PdfWriter writer;
   public Document doc;
-  public Hashtable pi=new Hashtable();
+  public TreeMap<String,Vector<Integer>> pi=new TreeMap<String,Vector<Integer>>();
+//  public LinkedHashMap<String,Vector> pi=new LinkedHashMap<String,Vector>();
  
   public void addChapter(String title, int wikiLevel) throws Exception {
    String s="/home/rawa/GitHoster/";
@@ -67,7 +70,15 @@ com.itextpdf.text.pdf.PdfWriter
      break;
    }
    String content=new String(Files.readAllBytes(Paths.get(s)));
-   String c=content+" ";
+   String c=content.replaceAll("\r\n"," ")+" ";
+   Vector<Integer> vt;
+   if (pi.containsKey(title)) {
+    vt=pi.get(title);
+   } else {
+    vt=new Vector<Integer>();
+    pi.put(title,vt);
+   }
+   vt.add(writer.getCurrentPageNumber());
    doc.add(new Paragraph(title,
     new Font(FontFamily.COURIER,18,Font.BOLD)));
    MessageDigest hash=MessageDigest.getInstance("SHA-256");
@@ -85,12 +96,12 @@ com.itextpdf.text.pdf.PdfWriter
      c.substring(last,m.start())));  
     String cc=c.substring(m.start(),m.end());
     Chunk pc=new Chunk( cc, new Font(FontFamily.COURIER));
-    int pn=writer.getCurrentPageNumber();    
-    Vector v;
+    int pn=writer.getCurrentPageNumber();
+    Vector<Integer> v;
     if (pi.containsKey(cc)) {
-     v=(Vector)pi.get(cc);
+     v=pi.get(cc);
     } else {
-     v=new Vector();
+     v=new Vector<Integer>();
      pi.put(cc,v);
     }
     v.add(pn);
@@ -128,14 +139,14 @@ com.itextpdf.text.pdf.PdfWriter
  PageHelper ph=new PageHelper();
  ph.doc=doc;
  ph.writer=writer;
- ph.addChapter("RoMa",1);
  ph.addChapter("EndMontage",1);
+ ph.addChapter("RoMa",1);
  ph.addChapter("SchnuefffChen",3);
  ph.addChapter("SchickSaal",3);
  ph.addChapter("HeldenSage",3);
  ph.addChapter("TrueMan",1);
- ph.addChapter("TrueWoman",1);
- ph.addChapter("HauptStrasse",1);
+ //ph.addChapter("TrueWoman",1);
+ //ph.addChapter("HauptStrasse",1);
  ph.addChapter("InnBankSe",4);
  ph.addChapter("FliederChen",4);
  ph.addChapter("BeuteSchema",1);
@@ -164,8 +175,31 @@ com.itextpdf.text.pdf.PdfWriter
  ph.addChapter("AtemZuege",1);
  ph.addChapter("AnLicht",1);
 
+ doc.add(new Chapter(new Paragraph("DuKommstDrinVorOderUm"),5));
+
+ Paragraph p=new Paragraph("",
+   new Font(FontFamily.COURIER,8));
+ p.setAlignment(Element.ALIGN_JUSTIFIED);
+
+// PdfPTable table = new PdfPTable(new float[] { 1, 1 });
+ //table.setWidthPercentage(100f);
+ Iterator<String> enumKey = ph.pi.keySet().iterator();
+ while(enumKey.hasNext()) {
+  String key = enumKey.next();
+  Vector<Integer> val = ph.pi.get(key);
+  String s=key+" ... ";
+  int last=0;
+  for (int i:val) {
+   if (i>last) {
+    s+= i+" ";
+   }
+   last=i;
+  }
+  p.add(new Phrase(s));
+ }
+ doc.add(p);
  //
- doc.add(new Chapter(new Paragraph("BackPage"),5));
+ doc.add(new Chapter(new Paragraph("BackPage"),6));
  ph.addChapter("LiteraturPapst",3);
 
  img = Image.getInstance("/home/rawa/DerAugenblick.jpg");

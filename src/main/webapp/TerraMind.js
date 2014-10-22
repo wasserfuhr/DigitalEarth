@@ -4,6 +4,10 @@
  goog.require('goog.structs.Map');
  goog.require('goog.Uri.QueryData');
 
+ function warn(s) {
+  alert(s);
+ }
+
  //prevent older browsers like FireFox 3.6.13 from complaining
  function log(msg) {
   try {
@@ -40,7 +44,6 @@
  var childNames=['c000','c001','c010','c011','c100','c101','c110','c111'];
  //const
  var pane=document.getElementById('pane');
- //const
  //const
  var ctx;
  var xBox,yBox,zBox;
@@ -120,7 +123,7 @@
   draw();
  }
 
- var animStage;
+ var animStage; // 0...2
  var animTarget;
 
  function animate() {
@@ -158,8 +161,6 @@
    }
   }
   draw();
-//  var delay = new goog.async.Delay(animate, delay);
-  //delay.start();
   setTimeout(animate,delay);
  }
 
@@ -172,10 +173,6 @@
   'StatueOfLiberty':{lat: 40.68917, lon:-74.04444, alt: 20},
   'TourEiffel'     :{lat: 48.85822, lon:  2.29450, alt: 30}
  };//ToDo: AyersRock FluegelAuto GranPiramide KreuzKirche SecretCity
-
- function warn(s) {
-  alert(s);
- }
 
  function hot(hotV) {
   // in 3 steps: zoomOut, rotate, zoomIn.
@@ -834,13 +831,13 @@
   drawInfo();
  }
 
+ //https://gist.github.com/klucar/1536194
  //const
  var a = 6378137;
  //const
  var e = 8.1819190842622e-2;
  var esq = Math.pow(e,2);
 
- //https://gist.github.com/klucar/1536194
  function llaToEcef(lat,lon,alt) {
   lat = lat * Math.PI/180;
   lon = (lon-SingularMeridian) * Math.PI/180;
@@ -1047,7 +1044,6 @@
   drawCoordinates();
  }
 
-
  //ToDo
 
  // based on http://sl4.eu/wiki/SimplifiedLandPolygons plus PyShp:
@@ -1080,7 +1076,6 @@
  for(var i=0;i<shape.length;i++) {
   ret+=mercatorToWgs(shape[i][0],shape[i][1])+"\n";
  }
- //alert(ret);
 
  function posX(deg) {
   return Math.sin(deg*Math.PI/180.0);   
@@ -1179,7 +1174,7 @@
  // currently unused:
  //
  function click(event) {
- //http://stackoverflow.com/questions/9880279/how-do-i-add-a-simple-onclick-event-handler-to-a-canvas-element
+  //http://stackoverflow.com/questions/9880279/how-do-i-add-a-simple-onclick-event-handler-to-a-canvas-element
   var x = event.pageX - pane.offsetLeft;
   var y = event.pageY - pane.offsetTop;
   if (x>0 && y>0) {
@@ -1192,12 +1187,9 @@
   hot(llaToEcef(pos.coords.latitude, pos.coords.longitude,alt?alt:0));
  }
 
- function geoError() {
- }
-
  function init() {
   if (null==ctx) {
- //     alert("ie");
+   //alert("ie");
    document.getElementById('browser').style.display='block';
   } else {
    findOrphanes();
@@ -1207,8 +1199,9 @@
    document.onkeydown=keyHandler;
    draw();
   }
+  //http://html5demos.com/geo
   if (navigator.geolocation) {
-   navigator.geolocation.getCurrentPosition(geoSuccess, geoError);
+   navigator.geolocation.getCurrentPosition(geoSuccess);
   }
  }
 

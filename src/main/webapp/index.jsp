@@ -12,6 +12,9 @@
 %>
 <%
  response.setContentType("text/html; charset=UTF-8");
+ Cookie cookie = new Cookie ("SemperCookie","...");
+ cookie.setMaxAge(30*24*60*60);
+ // response.addCookie(cookie);
  System.err.print("");
  System.out.println( ping(
   "HelloPlanet from "+
@@ -33,12 +36,10 @@
   document.getElementById('spinner').style.zIndex=-1;
  }
   </script>
-
   <style>
 #landmarks a {
  color: black;
 }
-
 .matColor {
  padding:3pt;
  padding-left:10pt;
