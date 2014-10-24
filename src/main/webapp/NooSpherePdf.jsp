@@ -1,5 +1,8 @@
 <%@ page pageEncoding="UTF-8"%><%@page import="
+java.io.BufferedReader,
 java.io.ByteArrayOutputStream,
+java.io.File,
+java.io.InputStreamReader,
 java.io.LineNumberReader,
 java.io.OutputStream,
 java.io.StringReader,
@@ -113,8 +116,9 @@ com.itextpdf.text.pdf.PdfWriter
     if (line.contains("* PieschenTv: ")) line=lnr.readLine();
     if (line.contains("* InspiredBy: ")) line=lnr.readLine();
     if (line.contains("* NamedAfter: ")) line=lnr.readLine();
-    if (line.contains("* PreDict: ")) line=lnr.readLine();
-    if (line.contains("* PreDictDe: ")) line=lnr.readLine();
+    if (line.contains("* PreDict: ")) line=lnr.readLine(); //SeaNation
+    if (line.contains("* PreDictDe: ")) line=lnr.readLine(); 
+    if (line.contains("* SloGan: ")) line=lnr.readLine(); //VerFassung
     line+=" ";
     int fontSize=10;
     if (line.startsWith("!")) {
@@ -246,21 +250,25 @@ com.itextpdf.text.pdf.PdfWriter
  doc.add(pv);
  pv=new Paragraph("\n\n\n\n\n\nEditionPieschen",
    new Font(FontFamily.HELVETICA,20,Font.BOLD));
- pv.setSpacingBefore(200);
+ pv.setSpacingBefore(190);
  pv.setAlignment(Element.ALIGN_CENTER);
  doc.add(pv);
- String creator=new String(Files.readAllBytes(Paths.get(
-  "/home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/"+request.getServletPath())));
+ String sDir="/home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/";
+ String creator=new String(Files.readAllBytes(Paths.get(sDir+"src/main/webapp/"+request.getServletPath())));
  MessageDigest hash=MessageDigest.getInstance("SHA-256");
  hash.update(creator.getBytes());
  Date now=new Date();
- String h="CreatedBy "+request.getServletPath()+
+ Process ps = Runtime.getRuntime().exec("git log -1",null,new File(sDir));
+ ps.waitFor();
+ String commit = new BufferedReader(new InputStreamReader(ps.getInputStream())).readLine();
+ String h="TapeOut545, "+commit+
+  "\nCreatedBy "+request.getServletPath()+
   " (#"+javax.xml.bind.DatatypeConverter.printHexBinary(hash.digest()).toLowerCase()+") "+
   "\nfrom "+request.getRemoteHost()+" "+
-  "on "+new SimpleDateFormat("yyyy-MM-dd:HHmmss").format(now)+" ("+now.getTime()+").";
-
+  "on "+new SimpleDateFormat("yyyy-MM-dd:HHmmss ZZ").format(now)+
+  " ("+now.getTime()+", st"+ String.format("%08x",now.getTime()/1000)+").";
  pv=new Paragraph(h,
-   new Font(FontFamily.COURIER,6));
+   new Font(FontFamily.COURIER,7));
  pv.setSpacingBefore(20);
  pv.setAlignment(Element.ALIGN_CENTER);
  doc.add(new Paragraph(""));
@@ -300,6 +308,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.addChapter("GrossHausVision",4);
  ph.addChapter("WindelWelt",1);
 // ph.addChapter("
+ ph.addChapter("VerFassung",1);
  ph.addChapter("SingularPresseMitteilung",3);
  ph.addChapter("NachNeuenMeeren",1);
  ph.addChapter("SeaNation",1);
