@@ -6,6 +6,7 @@ java.io.StringReader,
 java.nio.file.Files,
 java.nio.file.Paths,
 java.security.MessageDigest,
+java.text.SimpleDateFormat,
 java.util.Date,
 java.util.Iterator,
 java.util.TreeMap,
@@ -23,6 +24,7 @@ com.itextpdf.text.Font.FontFamily,
 com.itextpdf.text.Image,
 com.itextpdf.text.Paragraph,
 com.itextpdf.text.Rectangle,
+com.itextpdf.text.PageSize,
 com.itextpdf.text.Paragraph,
 com.itextpdf.text.Phrase,
 com.itextpdf.text.pdf.BaseFont,
@@ -105,11 +107,14 @@ com.itextpdf.text.pdf.PdfWriter
    while ( (line=lnr.readLine())!=null) {
     Font f=new Font(FontFamily.TIMES_ROMAN,13);
     if (line.contains("* IsA: ")) line=lnr.readLine();
+    if (line.contains("* MindTag: ")) line=lnr.readLine();
     if (line.contains("* MindTags: ")) line=lnr.readLine();
     if (line.contains("* InterWiki: ")) line=lnr.readLine();
     if (line.contains("* PieschenTv: ")) line=lnr.readLine();
     if (line.contains("* InspiredBy: ")) line=lnr.readLine();
     if (line.contains("* NamedAfter: ")) line=lnr.readLine();
+    if (line.contains("* PreDict: ")) line=lnr.readLine();
+    if (line.contains("* PreDictDe: ")) line=lnr.readLine();
     line+=" ";
     int fontSize=10;
     if (line.startsWith("!")) {
@@ -146,6 +151,7 @@ com.itextpdf.text.pdf.PdfWriter
      line="";
      pAdd=new Paragraph(line,
        new Font(FontFamily.TIMES_ROMAN,13));
+     pAdd.setAlignment(Element.ALIGN_JUSTIFIED);
     }
     Matcher m = Pattern.compile("[A-Z]+[a-z]+[A-Z]+[a-z]+[a-zA-Z0-9]*").matcher(line);
     int last=0;
@@ -175,6 +181,14 @@ com.itextpdf.text.pdf.PdfWriter
    doc.add(pAdd);
   }
  }
+ public void sl(Document doc, int sl) throws Exception {
+  doc.newPage();
+  Paragraph pt = new Paragraph("\n\nShockLevel "+sl,
+  new Font(FontFamily.TIMES_ROMAN,32,Font.BOLD));
+  pt.setAlignment(Element.ALIGN_CENTER);
+  doc.add(pt);
+  doc.newPage();
+ }
 %>
 <% // http://itextpdf.com/examples/iia.php?id=173
  response.setContentType("application/pdf");
@@ -184,12 +198,57 @@ com.itextpdf.text.pdf.PdfWriter
  final PdfWriter writer = PdfWriter.getInstance(doc, baos);
  writer.setPageEvent(new PageStamper());
  doc.open();
- Image img = Image.getInstance("/home/rawa/NooSphereCoverR2Ld16571.png");
- img.scaleToFit(550,800);
+ Paragraph pt = new Paragraph("RainerWasserfuhr EtAlii", 
+  new Font(FontFamily.HELVETICA,22,Font.BOLD,new BaseColor(192,192,192)));
+ pt.setSpacingBefore(-20);
+ pt.setSpacingAfter(260);
+ doc.add(pt);
+ pt = new Paragraph("»NooSphere«", 
+  new Font(FontFamily.HELVETICA,64, Font.BOLD ,new BaseColor(255,0, 0)));
+ pt.setAlignment(Element.ALIGN_CENTER);
+ pt.setSpacingAfter(60);
+ doc.add(pt);
+ pt = new Paragraph("Wie @tineroyal ihren\nTraumMann fand und wir fast alle \nUnSterblich werden",
+  new Font(FontFamily.HELVETICA,24, Font.NORMAL,new BaseColor(255,255,255)));
+ pt.setAlignment(Element.ALIGN_RIGHT);
+ pt.setLeading(0,1.1f);
+ pt.setIndentationRight(45f);
+ pt.setSpacingAfter(109);
+ doc.add(pt);
+ pt = new Paragraph("\n\nEditionPieschen",
+  new Font(FontFamily.HELVETICA,22, Font.BOLD,new BaseColor(0,0,0)));
+ pt.setSpacingBefore(0);
+ doc.add(pt);
+ Image img = Image.getInstance(
+   //"/home/rawa/NooSphereCoverR2Ld16571.png");
+   "/home/rawa/TittelBild1704x2272.png");
+ img.scaleToFit(480*1.187f,640*1.187f);
+ img.setAbsolutePosition(
+  (PageSize.A4.getWidth() - img.getScaledWidth()) / 2,
+  (PageSize.A4.getHeight() - img.getScaledHeight()) / 2);
  doc.add(img);
- img = Image.getInstance("/home/rawa/InnerTitel.png");
- img.scaleToFit(550,800);
- doc.add(img);
+ doc.newPage();
+ Font gf=new Font(FontFamily.TIMES_ROMAN,24,Font.BOLDITALIC, new BaseColor(127, 127, 127));
+ Paragraph pv=new Paragraph("\n\n\nRainerWasserfuhr EtAlii",gf);
+ pv.setSpacingAfter(20);
+ pv.setAlignment(Element.ALIGN_CENTER);
+ doc.add(pv);
+ pv=new Paragraph("»NooSphere«",
+  new Font(FontFamily.TIMES_ROMAN,32,Font.BOLD));
+ pv.setAlignment(Element.ALIGN_CENTER);
+ pv.setSpacingAfter(20);
+ doc.add(pv);
+ pv=new Paragraph("WendeChronik",gf);
+ pv.setAlignment(Element.ALIGN_CENTER);
+ doc.add(pv);
+ pv=new Paragraph("ZukunftsRoman",gf);
+ pv.setAlignment(Element.ALIGN_CENTER);
+ doc.add(pv);
+ pv=new Paragraph("\n\n\n\n\n\nEditionPieschen",
+   new Font(FontFamily.HELVETICA,20,Font.BOLD));
+ pv.setSpacingBefore(200);
+ pv.setAlignment(Element.ALIGN_CENTER);
+ doc.add(pv);
  String creator=new String(Files.readAllBytes(Paths.get(
   "/home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/"+request.getServletPath())));
  MessageDigest hash=MessageDigest.getInstance("SHA-256");
@@ -197,15 +256,19 @@ com.itextpdf.text.pdf.PdfWriter
  Date now=new Date();
  String h="CreatedBy "+request.getServletPath()+
   " (#"+javax.xml.bind.DatatypeConverter.printHexBinary(hash.digest()).toLowerCase()+") "+
-  "on "+now +" ("+now.getTime()+")";
- Paragraph pv=new Paragraph(h,
+  "\nfrom "+request.getRemoteHost()+" "+
+  "on "+new SimpleDateFormat("yyyy-MM-dd:HHmmss").format(now)+" ("+now.getTime()+").";
+
+ pv=new Paragraph(h,
    new Font(FontFamily.COURIER,6));
  pv.setSpacingBefore(20);
  pv.setAlignment(Element.ALIGN_CENTER);
  doc.add(new Paragraph(""));
  doc.add(pv);
 
- doc.add(new Chapter(new Paragraph("ShockLevel"),1));
+ //
+ sl(doc,1);
+
  PageHelper ph=new PageHelper();
  ph.doc=doc;
  ph.writer=writer;
@@ -213,6 +276,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.addChapter("RoMa",1);
  //ph.addChapter("TextForm",3);
  ph.addChapter("SchnuefffChen",3);
+ ph.addChapter("DesSturmesWucht",1);
  ph.addChapter("AnFang",1);
  ph.addChapter("TraumPaare",3);
  ph.addChapter("InnBankSe",4);
@@ -228,6 +292,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.addChapter("BeuteSchema",1);
  ph.addChapter("AtariSt",1);
  ph.addChapter("SiSanien",1);
+ ph.addChapter("UbiComp",1);
  ph.addChapter("UniKl",1);
  ph.addChapter("GlasKugel",1);
  ph.addChapter("DistanzSpiel",1);
@@ -235,16 +300,21 @@ com.itextpdf.text.pdf.PdfWriter
  ph.addChapter("GrossHausVision",4);
  ph.addChapter("WindelWelt",1);
 // ph.addChapter("
+ ph.addChapter("SingularPresseMitteilung",3);
+ ph.addChapter("NachNeuenMeeren",1);
+ ph.addChapter("SeaNation",1);
+ ph.addChapter("DasNetz",1);
+ ph.addChapter("RayInDresden",1);
  ph.addChapter("MooresLaw",1);
  ph.addChapter("RainersChristentum",1);
- ph.addChapter("UbiComp",1);
  //ph.addChapter("BeKenntnisseEinesAutors",4);
  //ph.addChapter("GruenderPaar",3);
  ph.addChapter("PieschenBank543",4);
  ph.addChapter("BeatriceBaranov",1);
 
  //
- doc.add(new Chapter(new Paragraph("ShockLevel"),2));
+ sl(doc,2);
+
  ph.addChapter("TrueLove",1);
  //ph.addChapter("DankSagung",3);
  //ph.addChapter("HildeIndex",4);
@@ -254,14 +324,17 @@ com.itextpdf.text.pdf.PdfWriter
  //ph.addChapter(doc,"LuxorChess",1);
 
  //
- doc.add(new Chapter(new Paragraph("ShockLevel"),3));
+ sl(doc,3);
+
  ph.addChapter("IscIi",4);
  ph.addChapter("SecondHalfOfTheChessboard",1);
 
  //
- doc.add(new Chapter(new Paragraph("ShockLevel"),4));
- ph.addChapter("AtemZuege",1);
+ sl(doc,4);
+
  ph.addChapter("AnLicht",1);
+ ph.addChapter("AtemZuege",1);
+ ph.addChapter("AusGang",3);
 
  doc.add(new Chapter(new Paragraph("DuKommstDrinVorOderUm"),5));
 
@@ -287,7 +360,7 @@ com.itextpdf.text.pdf.PdfWriter
  }
  doc.add(p);
  //
- doc.add(new Chapter(new Paragraph("BackPage"),6));
+ doc.newPage();//add(new Chapter(new Paragraph("BackPage"),6));
  ph.addChapter("LiteraturPapst",3);
 
 //Image.getInstance("/home/rawa/StauneBild.jpg");
