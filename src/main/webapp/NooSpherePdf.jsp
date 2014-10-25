@@ -119,6 +119,7 @@ com.itextpdf.text.pdf.PdfWriter
     if (line.contains("* PreDict: ")) line=lnr.readLine(); //SeaNation
     if (line.contains("* PreDictDe: ")) line=lnr.readLine(); 
     if (line.contains("* SloGan: ")) line=lnr.readLine(); //VerFassung
+    if (line.startsWith("http://sl4.eu/wiki/")) line=lnr.readLine(); //FansOfIso8601
     line+=" ";
     int fontSize=10;
     if (line.startsWith("!")) {
@@ -282,7 +283,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.writer=writer;
  ph.addChapter("EndMontage",1);
  ph.addChapter("RoMa",1);
- //ph.addChapter("TextForm",3);
+ ph.addChapter("RealRoman",1);
  ph.addChapter("SchnuefffChen",3);
  ph.addChapter("DesSturmesWucht",1);
  ph.addChapter("AnFang",1);
@@ -290,53 +291,68 @@ com.itextpdf.text.pdf.PdfWriter
  ph.addChapter("InnBankSe",4);
  ph.addChapter("HeldenSage",3);
  ph.addChapter("SchickSaal",3);
+ ph.addChapter("RealFilm",1);
  ph.addChapter("GeBurt",1);
-
  ph.addChapter("GenSeidenFaden",1);
- //ph.addChapter("TrueWoman",1);
- //ph.addChapter("HauptStrasse",1);
  ph.addChapter("FliederChen",4);
  ph.addChapter("CommodoreSixtyFour",1);
  ph.addChapter("BeuteSchema",1);
  ph.addChapter("AtariSt",1);
  ph.addChapter("SiSanien",1);
+ ph.addChapter("FansOfIso8601",3);
  ph.addChapter("UbiComp",1);
  ph.addChapter("UniKl",1);
  ph.addChapter("GlasKugel",1);
- ph.addChapter("DistanzSpiel",1);
  ph.addChapter("TrueMan",1);
  ph.addChapter("GrossHausVision",4);
  ph.addChapter("WindelWelt",1);
-// ph.addChapter("
  ph.addChapter("VerFassung",1);
  ph.addChapter("SingularPresseMitteilung",3);
  ph.addChapter("NachNeuenMeeren",1);
  ph.addChapter("SeaNation",1);
  ph.addChapter("DasNetz",1);
+ ph.addChapter("XiNao",1);
  ph.addChapter("RayInDresden",1);
  ph.addChapter("MooresLaw",1);
  ph.addChapter("RainersChristentum",1);
  //ph.addChapter("BeKenntnisseEinesAutors",4);
- //ph.addChapter("GruenderPaar",3);
  ph.addChapter("PieschenBank543",4);
  ph.addChapter("BeatriceBaranov",1);
 
  //
  sl(doc,2);
 
- ph.addChapter("TrueLove",1);
+ ph.addChapter("DeutschIsDead",4);
+ ph.addChapter("ZuKunft",1);
+ ph.addChapter("TheSingularity",1);
+ ph.addChapter("LebensEntwurf",1);
+ ph.addChapter("BeautifulMind",1);
  //ph.addChapter("DankSagung",3);
  //ph.addChapter("HildeIndex",4);
- //ph.addChapter(doct,"FansOfIso8601",3);
- //ph.addChapter("KlappenText",1);
- //too long!!:
- //ph.addChapter(doc,"LuxorChess",1);
+ ph.addChapter("NooPolisFaqDe",1);
+ ph.addChapter("EigenRisk",1);
+ ph.addChapter("DistanzSpiel",1);
+ ph.addChapter("MindBroker",1);
+ ph.addChapter("MindId",1);
+ ph.addChapter("TrueLove",1);
+ ph.addChapter("SingularVirus",1);
+ ph.addChapter("SingularAcademy",1);
+ //ph.addChapter("GruenderPaar",3);
+ //ph.addChapter("TextForm",3);
+ //ph.addChapter("TrueWoman",1);
+ //ph.addChapter("HauptStrasse",1);
 
  //
  sl(doc,3);
 
+ ph.addChapter("ConScious",1);
+ ph.addChapter("CarTraum",1);
+ ph.addChapter("SocialGraph",1);
+ ph.addChapter("IntelligenceExplosion",1);
  ph.addChapter("IscIi",4);
  ph.addChapter("SecondHalfOfTheChessboard",1);
+ //too long!!:
+ //ph.addChapter(doc,"LuxorChess",1);
 
  //
  sl(doc,4);
@@ -351,7 +367,7 @@ com.itextpdf.text.pdf.PdfWriter
   new Font(FontFamily.COURIER,8));
  p.setAlignment(Element.ALIGN_JUSTIFIED);
 
-// PdfPTable table = new PdfPTable(new float[] { 1, 1 });
+ //PdfPTable table = new PdfPTable(new float[] { 1, 1 });
  //table.setWidthPercentage(100f);
  Iterator<String> enumKey = ph.pi.keySet().iterator();
  while(enumKey.hasNext()) {
@@ -370,13 +386,14 @@ com.itextpdf.text.pdf.PdfWriter
  doc.add(p);
  //
  doc.newPage();//add(new Chapter(new Paragraph("BackPage"),6));
+ ph.addChapter("KlappenText",1);
  ph.addChapter("LiteraturPapst",3);
 
-//Image.getInstance("/home/rawa/StauneBild.jpg");
+ //Image.getInstance("/home/rawa/StauneBild.jpg");
  img = Image.getInstance("/home/rawa/DerAugenblick.jpg");
  img = Image.getInstance("/home/rawa/NooGrey.png");
  img.scaleToFit(320, 240);
-// doc.add(img);
+ //doc.add(img);
  doc.close();
  response.setContentLength(baos.size());
  response.setHeader("Content-Disposition", "inline; filename=\"NooSphere.pdf\"");
