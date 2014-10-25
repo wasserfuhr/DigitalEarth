@@ -62,6 +62,7 @@ com.itextpdf.text.pdf.PdfWriter
   public PdfWriter writer;
   public Document doc;
   public TreeMap<String,Vector<Integer>> pi=new TreeMap<String,Vector<Integer>>();
+  public TreeMap<String,Vector<Integer>> ti=new TreeMap<String,Vector<Integer>>();
  
   public void addChapter(String title, int wikiLevel) throws Exception {
    String s="/home/rawa/GitHoster/";
@@ -92,6 +93,7 @@ com.itextpdf.text.pdf.PdfWriter
     vt=new Vector<Integer>();
     pi.put(title,vt);
    }
+   ti.put(title,vt);
    vt.add(writer.getCurrentPageNumber());
 
    doc.add(new Paragraph(title,
@@ -197,6 +199,7 @@ com.itextpdf.text.pdf.PdfWriter
 %>
 <% // http://itextpdf.com/examples/iia.php?id=173
  response.setContentType("application/pdf");
+ response.setHeader("Content-Disposition", "inline; filename=\"NooSphere.pdf\"");
 
  Document doc = new Document();
  ByteArrayOutputStream baos = new ByteArrayOutputStream();
@@ -221,12 +224,10 @@ com.itextpdf.text.pdf.PdfWriter
  pt.setSpacingAfter(109);
  doc.add(pt);
  pt = new Paragraph("\n\nEditionPieschen",
-  new Font(FontFamily.HELVETICA,22, Font.BOLD,new BaseColor(0,0,0)));
+  new Font(FontFamily.HELVETICA,22, Font.BOLD));
  pt.setSpacingBefore(0);
  doc.add(pt);
- Image img = Image.getInstance(
-   //"/home/rawa/NooSphereCoverR2Ld16571.png");
-   "/home/rawa/TittelBild1704x2272.png");
+ Image img = Image.getInstance("/home/rawa/TittelBild1704x2272.png");
  img.scaleToFit(480*1.187f,640*1.187f);
  img.setAbsolutePosition(
   (PageSize.A4.getWidth() - img.getScaledWidth()) / 2,
@@ -272,15 +273,13 @@ com.itextpdf.text.pdf.PdfWriter
    new Font(FontFamily.COURIER,7));
  pv.setSpacingBefore(20);
  pv.setAlignment(Element.ALIGN_CENTER);
- doc.add(new Paragraph(""));
  doc.add(pv);
-
- //
- sl(doc,1);
 
  PageHelper ph=new PageHelper();
  ph.doc=doc;
  ph.writer=writer;
+ //
+ sl(doc,1);
  ph.addChapter("EndMontage",1);
  ph.addChapter("RoMa",1);
  ph.addChapter("RealRoman",1);
@@ -292,6 +291,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.addChapter("HeldenSage",3);
  ph.addChapter("SchickSaal",3);
  ph.addChapter("RealFilm",1);
+ ph.addChapter("ZukunftsRomanGlossar",1);
  ph.addChapter("GeBurt",1);
  ph.addChapter("GenSeidenFaden",1);
  ph.addChapter("FliederChen",4);
@@ -311,24 +311,27 @@ com.itextpdf.text.pdf.PdfWriter
  ph.addChapter("NachNeuenMeeren",1);
  ph.addChapter("SeaNation",1);
  ph.addChapter("DasNetz",1);
+ ph.addChapter("PeterPlan",1);
  ph.addChapter("XiNao",1);
  ph.addChapter("RayInDresden",1);
  ph.addChapter("MooresLaw",1);
  ph.addChapter("RainersChristentum",1);
- //ph.addChapter("BeKenntnisseEinesAutors",4);
  ph.addChapter("PieschenBank543",4);
  ph.addChapter("BeatriceBaranov",1);
+ ph.addChapter("EinSchlag",1);
+ ph.addChapter("MannOhneGeheimnisse",3);
+ ph.addChapter("AktEins",3);
+ ph.addChapter("MorgenDanach",3);
+ //ph.addChapter("BeKenntnisseEinesAutors",4);
 
  //
  sl(doc,2);
-
  ph.addChapter("DeutschIsDead",4);
  ph.addChapter("ZuKunft",1);
+ ph.addChapter("TheOne",1);
  ph.addChapter("TheSingularity",1);
  ph.addChapter("LebensEntwurf",1);
  ph.addChapter("BeautifulMind",1);
- //ph.addChapter("DankSagung",3);
- //ph.addChapter("HildeIndex",4);
  ph.addChapter("NooPolisFaqDe",1);
  ph.addChapter("EigenRisk",1);
  ph.addChapter("DistanzSpiel",1);
@@ -337,6 +340,12 @@ com.itextpdf.text.pdf.PdfWriter
  ph.addChapter("TrueLove",1);
  ph.addChapter("SingularVirus",1);
  ph.addChapter("SingularAcademy",1);
+ ph.addChapter("BegruessungsGeld",1);
+ ph.addChapter("TheNooSphere",1);
+ ph.addChapter("KhaldoonsDream",3);
+ ph.addChapter("GeFab",3);
+ //ph.addChapter("DankSagung",3);
+ //ph.addChapter("HildeIndex",4);
  //ph.addChapter("GruenderPaar",3);
  //ph.addChapter("TextForm",3);
  //ph.addChapter("TrueWoman",1);
@@ -344,7 +353,7 @@ com.itextpdf.text.pdf.PdfWriter
 
  //
  sl(doc,3);
-
+ ph.addChapter("CamelCase",1);
  ph.addChapter("ConScious",1);
  ph.addChapter("CarTraum",1);
  ph.addChapter("SocialGraph",1);
@@ -356,7 +365,6 @@ com.itextpdf.text.pdf.PdfWriter
 
  //
  sl(doc,4);
-
  ph.addChapter("AnLicht",1);
  ph.addChapter("AtemZuege",1);
  ph.addChapter("AusGang",3);
@@ -378,6 +386,9 @@ com.itextpdf.text.pdf.PdfWriter
   for (int i:val) {
    if (i>last) {
     s+=" "+i;
+    if (ph.ti.containsKey(key) && ph.ti.get(key).get(0)==i) {
+     s+="*";
+    }
    }
    last=i;
   }
@@ -396,7 +407,6 @@ com.itextpdf.text.pdf.PdfWriter
  //doc.add(img);
  doc.close();
  response.setContentLength(baos.size());
- response.setHeader("Content-Disposition", "inline; filename=\"NooSphere.pdf\"");
  OutputStream os = response.getOutputStream();
  baos.writeTo(os);
  os.flush();

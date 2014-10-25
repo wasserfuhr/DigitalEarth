@@ -10,8 +10,14 @@
    acc (.readByte rf)]
   (if (and (== (byte 10) a) (== (byte 7) acc))
    (let [
-     boot (.readLong rf)
-     head (.readLong rf)
+     t (.readByte rf)]
+    (if (== 1 t)
+     (let [n 1]
+      1)
+     ;CuRe:
+     (let [
+       boot (.readLong rf)
+       head (.readLong rf)
      x (byte-array 32)]
     (.seek rf boot)
     ;(.read rf x)
