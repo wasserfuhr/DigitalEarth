@@ -1,4 +1,4 @@
-<%@ page pageEncoding="UTF-8"%><%@page import="
+6~<%@ page pageEncoding="UTF-8"%><%@page import="
 java.io.BufferedReader,
 java.io.ByteArrayOutputStream,
 java.io.File,
@@ -64,7 +64,7 @@ com.itextpdf.text.pdf.PdfWriter
   public TreeMap<String,Vector<Integer>> pi=new TreeMap<String,Vector<Integer>>();
   public TreeMap<String,Vector<Integer>> ti=new TreeMap<String,Vector<Integer>>();
  
-  public void addChapter(String title, int wikiLevel) throws Exception {
+  public void add(String title, int wikiLevel) throws Exception {
    String s="/home/rawa/GitHoster/";
    switch (wikiLevel) {
     case 1:
@@ -93,13 +93,16 @@ com.itextpdf.text.pdf.PdfWriter
     vt=new Vector<Integer>();
     pi.put(title,vt);
    }
-   ti.put(title,vt);
    vt.add(writer.getCurrentPageNumber());
+   Vector<Integer> tt=new Vector<Integer>();
+   ti.put(title,tt);
+   tt.add(writer.getCurrentPageNumber());
 
-   doc.add(new Paragraph(title,
-    new Font(FontFamily.COURIER,18,Font.BOLD)));
+   Paragraph pt=new Paragraph(title,new Font(FontFamily.COURIER,18,Font.BOLD));
+   pt.setSpacingAfter(2);
+   doc.add(pt);
    String h="#"+javax.xml.bind.DatatypeConverter.printHexBinary(hash.digest());
-   doc.add(new Paragraph(h.toLowerCase(),
+   doc.add(new Paragraph(h.toLowerCase()+" - wl"+wikiLevel,
     new Font(FontFamily.COURIER,6)));
 
    Paragraph p=new Paragraph("",
@@ -198,8 +201,10 @@ com.itextpdf.text.pdf.PdfWriter
  }
 %>
 <% // http://itextpdf.com/examples/iia.php?id=173
+ String tapeOut="545";
+ short rc=3;
  response.setContentType("application/pdf");
- response.setHeader("Content-Disposition", "inline; filename=\"NooSphere.pdf\"");
+ response.setHeader("Content-Disposition", "inline; filename=\"TapeOut"+tapeOut+"Rc"+rc+".pdf\"");
 
  Document doc = new Document();
  ByteArrayOutputStream baos = new ByteArrayOutputStream();
@@ -263,7 +268,7 @@ com.itextpdf.text.pdf.PdfWriter
  Process ps = Runtime.getRuntime().exec("git log -1",null,new File(sDir));
  ps.waitFor();
  String commit = new BufferedReader(new InputStreamReader(ps.getInputStream())).readLine();
- String h="TapeOut545, "+commit+
+ String h="TapeOut"+tapeOut+", "+commit+
   "\nCreatedBy "+request.getServletPath()+
   " (#"+javax.xml.bind.DatatypeConverter.printHexBinary(hash.digest()).toLowerCase()+") "+
   "\nfrom "+request.getRemoteHost()+" "+
@@ -280,94 +285,110 @@ com.itextpdf.text.pdf.PdfWriter
  ph.writer=writer;
  //
  sl(doc,1);
- ph.addChapter("EndMontage",1);
- ph.addChapter("RoMa",1);
- ph.addChapter("RealRoman",1);
- ph.addChapter("SchnuefffChen",3);
- ph.addChapter("DesSturmesWucht",1);
- ph.addChapter("AnFang",1);
- ph.addChapter("TraumPaare",3);
- ph.addChapter("InnBankSe",4);
- ph.addChapter("HeldenSage",3);
- ph.addChapter("SchickSaal",3);
- ph.addChapter("RealFilm",1);
- ph.addChapter("ZukunftsRomanGlossar",1);
- ph.addChapter("GeBurt",1);
- ph.addChapter("GenSeidenFaden",1);
- ph.addChapter("FliederChen",4);
- ph.addChapter("CommodoreSixtyFour",1);
- ph.addChapter("BeuteSchema",1);
- ph.addChapter("AtariSt",1);
- ph.addChapter("SiSanien",1);
- ph.addChapter("FansOfIso8601",3);
- ph.addChapter("UbiComp",1);
- ph.addChapter("UniKl",1);
- ph.addChapter("GlasKugel",1);
- ph.addChapter("TrueMan",1);
- ph.addChapter("GrossHausVision",4);
- ph.addChapter("WindelWelt",1);
- ph.addChapter("VerFassung",1);
- ph.addChapter("SingularPresseMitteilung",3);
- ph.addChapter("NachNeuenMeeren",1);
- ph.addChapter("SeaNation",1);
- ph.addChapter("DasNetz",1);
- ph.addChapter("PeterPlan",1);
- ph.addChapter("XiNao",1);
- ph.addChapter("RayInDresden",1);
- ph.addChapter("MooresLaw",1);
- ph.addChapter("RainersChristentum",1);
- ph.addChapter("PieschenBank543",4);
- ph.addChapter("BeatriceBaranov",1);
- ph.addChapter("EinSchlag",1);
- ph.addChapter("MannOhneGeheimnisse",3);
- ph.addChapter("AktEins",3);
- ph.addChapter("MorgenDanach",3);
- //ph.addChapter("BeKenntnisseEinesAutors",4);
+ ph.add("EndMontage",1);
+ ph.add("RoMa",1);
+ ph.add("RealRoman",1);
+ ph.add("SchnuefffChen",3);
+ ph.add("DesSturmesWucht",1);
+ ph.add("MusTer",1);
+ ph.add("SeeLe",1);
+ ph.add("AnFang",1);
+ ph.add("AriadneFaden",1);
+ ph.add("TraumPaare",3);
+ ph.add("InnBankSe",4);
+ ph.add("HeldenSage",3);
+ ph.add("SchickSaal",3);
+ ph.add("RealFilm",1);
+ ph.add("ZukunftsRomanGlossar",1);
+ ph.add("GeBurt",1);
+ ph.add("GenSeidenFaden",1);
+ ph.add("FliederChen",4);
+ ph.add("CommodoreSixtyFour",1);
+ ph.add("BeuteSchema",1);
+ ph.add("AtariSt",1);
+ ph.add("TalDerAhnungslosen",1);
+ ph.add("SiSanien",1);
+ ph.add("FansOfIso8601",3);
+ ph.add("UbiComp",1);
+ ph.add("UniKl",1);
+ ph.add("GlasKugel",1);
+ ph.add("IceCream2019",1);
+ ph.add("TrueMan",1);
+ ph.add("GrossHausVision",4);
+ ph.add("WindelWelt",1);
+ ph.add("HampelMann",3);
+ ph.add("VerFassung",1);
+ ph.add("SingularPresseMitteilung",3);
+ ph.add("NachNeuenMeeren",1);
+ ph.add("SeaNation",1);
+ ph.add("ElbSpaziergang",1);
+ ph.add("DasNetz",1);
+ ph.add("PeterPlan",1);
+ ph.add("XiNao",1);
+ ph.add("RayInDresden",1);
+ ph.add("MooresLaw",1);
+ ph.add("RainersChristentum",1);
+ ph.add("PieschenBank543",4);
+ ph.add("AkteNooPolis",1);
+ ph.add("BeatriceBaranov",1);
+ ph.add("EinSchlag",1);
+ ph.add("ParallelUniversum",3);
+ ph.add("MannOhneGeheimnisse",3);
+ ph.add("AktEins",3);
+ ph.add("MorgenDanach",3);
+ //ph.add("BeKenntnisseEinesAutors",4);
 
  //
  sl(doc,2);
- ph.addChapter("DeutschIsDead",4);
- ph.addChapter("ZuKunft",1);
- ph.addChapter("TheOne",1);
- ph.addChapter("TheSingularity",1);
- ph.addChapter("LebensEntwurf",1);
- ph.addChapter("BeautifulMind",1);
- ph.addChapter("NooPolisFaqDe",1);
- ph.addChapter("EigenRisk",1);
- ph.addChapter("DistanzSpiel",1);
- ph.addChapter("MindBroker",1);
- ph.addChapter("MindId",1);
- ph.addChapter("TrueLove",1);
- ph.addChapter("SingularVirus",1);
- ph.addChapter("SingularAcademy",1);
- ph.addChapter("BegruessungsGeld",1);
- ph.addChapter("TheNooSphere",1);
- ph.addChapter("KhaldoonsDream",3);
- ph.addChapter("GeFab",3);
- //ph.addChapter("DankSagung",3);
- //ph.addChapter("HildeIndex",4);
- //ph.addChapter("GruenderPaar",3);
- //ph.addChapter("TextForm",3);
- //ph.addChapter("TrueWoman",1);
- //ph.addChapter("HauptStrasse",1);
+ ph.add("DeutschIsDead",4);
+ ph.add("WandelDruck",1);
+ ph.add("ZuKunft",1);
+ ph.add("TheOne",1);
+ ph.add("TheSingularity",1);
+ ph.add("LebensEntwurf",1);
+ ph.add("BeautifulMind",1);
+ ph.add("NooPolisFaqDe",1);
+ ph.add("EigenRisk",1);
+ ph.add("DistanzSpiel",1);
+ ph.add("MindBroker",1);
+ ph.add("MindId",1);
+ ph.add("MindMark",3);
+ ph.add("TrueLove",1);
+ ph.add("SingularVirus",1);
+ ph.add("SingularAcademy",1);
+ ph.add("TakeOff",1);
+ ph.add("HaeufigsteWoerter",1);
+ ph.add("BegruessungsGeld",1);
+ ph.add("TheNooSphere",1);
+ ph.add("KhaldoonsDream",3);
+ ph.add("GeFab",3);
+ //ph.add("DankSagung",3);
+ //ph.add("HildeIndex",4);
+ //ph.add("GruenderPaar",3);
+ //ph.add("TextForm",3);
+ //ph.add("TrueWoman",1);
+ //ph.add("HauptStrasse",1);
+ ph.add("PraterBrater",3);
 
  //
  sl(doc,3);
- ph.addChapter("CamelCase",1);
- ph.addChapter("ConScious",1);
- ph.addChapter("CarTraum",1);
- ph.addChapter("SocialGraph",1);
- ph.addChapter("IntelligenceExplosion",1);
- ph.addChapter("IscIi",4);
- ph.addChapter("SecondHalfOfTheChessboard",1);
+ ph.add("CamelCase",1);
+ ph.add("ConScious",1);
+ ph.add("CarTraum",1);
+ ph.add("NewMind",1);
+ ph.add("IntelligenceExplosion",1);
+ ph.add("IscIi",4);
+ ph.add("PostSingular",1);
+ ph.add("SecondHalfOfTheChessboard",1);
+ ph.add("SocialGraph",1);
  //too long!!:
- //ph.addChapter(doc,"LuxorChess",1);
+ //ph.add(doc,"LuxorChess",1);
 
  //
  sl(doc,4);
- ph.addChapter("AnLicht",1);
- ph.addChapter("AtemZuege",1);
- ph.addChapter("AusGang",3);
+ ph.add("AnLicht",1);
+ ph.add("AtemZuege",1);
+ ph.add("AusGang",3);
 
  doc.add(new Chapter(new Paragraph("DuKommstDrinVorOderUm"),5));
 
@@ -395,10 +416,25 @@ com.itextpdf.text.pdf.PdfWriter
   p.add(new Phrase(s+". "));
  }
  doc.add(p);
+
+ pt=new Paragraph("PageIndex",new Font(FontFamily.COURIER,18,Font.BOLD));
+ pt.setSpacingAfter(2);
+ doc.add(pt);
+ p=new Paragraph("",
+  new Font(FontFamily.COURIER,9));
+ p.setAlignment(Element.ALIGN_JUSTIFIED);
+ enumKey = ph.ti.keySet().iterator();
+ while(enumKey.hasNext()) {
+  String key = enumKey.next();
+  Vector<Integer> val = ph.ti.get(key);
+  String s=key+"... "+val.get(0);
+  p.add(new Phrase(s+". "));
+ }
+ doc.add(p);
  //
  doc.newPage();//add(new Chapter(new Paragraph("BackPage"),6));
- ph.addChapter("KlappenText",1);
- ph.addChapter("LiteraturPapst",3);
+ ph.add("KlappenText",1);
+ ph.add("LiteraturPapst",3);
 
  //Image.getInstance("/home/rawa/StauneBild.jpg");
  img = Image.getInstance("/home/rawa/DerAugenblick.jpg");
