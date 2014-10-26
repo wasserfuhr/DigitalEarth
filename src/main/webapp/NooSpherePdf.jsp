@@ -103,7 +103,7 @@ com.itextpdf.text.pdf.PdfWriter
    doc.add(pt);
    String h="#"+javax.xml.bind.DatatypeConverter.printHexBinary(hash.digest());
    doc.add(new Paragraph(h.toLowerCase()+" - wl"+wikiLevel,
-    new Font(FontFamily.COURIER,6)));
+    new Font(FontFamily.COURIER,7)));
 
    Paragraph p=new Paragraph("",
     new Font(FontFamily.TIMES_ROMAN, 9));
@@ -202,7 +202,7 @@ com.itextpdf.text.pdf.PdfWriter
 %>
 <% // http://itextpdf.com/examples/iia.php?id=173
  String tapeOut="545";
- short rc=3;
+ short rc=4;
  response.setContentType("application/pdf");
  response.setHeader("Content-Disposition", "inline; filename=\"TapeOut"+tapeOut+"Rc"+rc+".pdf\"");
 
@@ -257,7 +257,7 @@ com.itextpdf.text.pdf.PdfWriter
  doc.add(pv);
  pv=new Paragraph("\n\n\n\n\n\nEditionPieschen",
    new Font(FontFamily.HELVETICA,20,Font.BOLD));
- pv.setSpacingBefore(190);
+ pv.setSpacingBefore(180);
  pv.setAlignment(Element.ALIGN_CENTER);
  doc.add(pv);
  String sDir="/home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/";
@@ -268,17 +268,19 @@ com.itextpdf.text.pdf.PdfWriter
  Process ps = Runtime.getRuntime().exec("git log -1",null,new File(sDir));
  ps.waitFor();
  String commit = new BufferedReader(new InputStreamReader(ps.getInputStream())).readLine();
- String h="TapeOut"+tapeOut+", "+commit+
+ String h="TapeOut"+tapeOut+", ~RelCan "+rc+", "+commit+
   "\nCreatedBy "+request.getServletPath()+
   " (#"+javax.xml.bind.DatatypeConverter.printHexBinary(hash.digest()).toLowerCase()+") "+
   "\nfrom "+request.getRemoteHost()+" "+
   "on "+new SimpleDateFormat("yyyy-MM-dd:HHmmss ZZ").format(now)+
   " ("+now.getTime()+", st"+ String.format("%08x",now.getTime()/1000)+").";
- pv=new Paragraph(h,
-   new Font(FontFamily.COURIER,7));
+ pv=new Paragraph(h,new Font(FontFamily.COURIER,8));
  pv.setSpacingBefore(20);
  pv.setAlignment(Element.ALIGN_CENTER);
  doc.add(pv);
+
+ doc.newPage();
+ doc.newPage();
 
  PageHelper ph=new PageHelper();
  ph.doc=doc;
@@ -312,12 +314,15 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("UbiComp",1);
  ph.add("UniKl",1);
  ph.add("GlasKugel",1);
+ ph.add("KurbelWelle",1);
+ ph.add("DieMacht",1);
  ph.add("IceCream2019",1);
  ph.add("TrueMan",1);
  ph.add("GrossHausVision",4);
  ph.add("WindelWelt",1);
  ph.add("HampelMann",3);
  ph.add("VerFassung",1);
+ ph.add("VilfredoPareto",1);
  ph.add("SingularPresseMitteilung",3);
  ph.add("NachNeuenMeeren",1);
  ph.add("SeaNation",1);
@@ -340,55 +345,57 @@ com.itextpdf.text.pdf.PdfWriter
 
  //
  sl(doc,2);
- ph.add("DeutschIsDead",4);
- ph.add("WandelDruck",1);
- ph.add("ZuKunft",1);
- ph.add("TheOne",1);
- ph.add("TheSingularity",1);
- ph.add("LebensEntwurf",1);
+ ph.add("AlbertPlatz",1);
  ph.add("BeautifulMind",1);
- ph.add("NooPolisFaqDe",1);
- ph.add("EigenRisk",1);
+ ph.add("BegruessungsGeld",1);
+ ph.add("DankSagung",3);
+ ph.add("DeutschIsDead",4);
  ph.add("DistanzSpiel",1);
+ ph.add("EigenRisk",1);
+ ph.add("GeFab",3);
+ ph.add("HaeufigsteWoerter",1);
+ ph.add("KhaldoonsDream",3);
+ ph.add("LebensEntwurf",1);
  ph.add("MindBroker",1);
+ ph.add("MindEyes",1);
  ph.add("MindId",1);
  ph.add("MindMark",3);
- ph.add("TrueLove",1);
+ ph.add("NooPolisFaqDe",1);
+ ph.add("PraterBrater",3);
  ph.add("SingularVirus",1);
  ph.add("SingularAcademy",1);
  ph.add("TakeOff",1);
- ph.add("HaeufigsteWoerter",1);
- ph.add("BegruessungsGeld",1);
  ph.add("TheNooSphere",1);
- ph.add("KhaldoonsDream",3);
- ph.add("GeFab",3);
- //ph.add("DankSagung",3);
+ ph.add("TheOne",1);
+ ph.add("TheSingularity",1);
+ ph.add("TrueLove",1);
+ ph.add("WandelDruck",1);
+ ph.add("ZuKunft",1);
  //ph.add("HildeIndex",4);
  //ph.add("GruenderPaar",3);
  //ph.add("TextForm",3);
  //ph.add("TrueWoman",1);
- //ph.add("HauptStrasse",1);
- ph.add("PraterBrater",3);
 
  //
  sl(doc,3);
  ph.add("CamelCase",1);
- ph.add("ConScious",1);
  ph.add("CarTraum",1);
- ph.add("NewMind",1);
+ ph.add("ConScious",1);
+ ph.add("HauptStrasse",1);
  ph.add("IntelligenceExplosion",1);
  ph.add("IscIi",4);
+ ph.add("NewMind",1);
  ph.add("PostSingular",1);
  ph.add("SecondHalfOfTheChessboard",1);
  ph.add("SocialGraph",1);
- //too long!!:
- //ph.add(doc,"LuxorChess",1);
 
  //
  sl(doc,4);
  ph.add("AnLicht",1);
  ph.add("AtemZuege",1);
  ph.add("AusGang",3);
+ //too long!!:
+ //ph.add(doc,"LuxorChess",1);
 
  doc.add(new Chapter(new Paragraph("DuKommstDrinVorOderUm"),5));
 
@@ -402,7 +409,7 @@ com.itextpdf.text.pdf.PdfWriter
  while(enumKey.hasNext()) {
   String key = enumKey.next();
   Vector<Integer> val = ph.pi.get(key);
-  String s=key+"...";
+  String s=key;
   int last=0;
   for (int i:val) {
    if (i>last) {
@@ -431,14 +438,13 @@ com.itextpdf.text.pdf.PdfWriter
   p.add(new Phrase(s+". "));
  }
  doc.add(p);
- //
- doc.newPage();//add(new Chapter(new Paragraph("BackPage"),6));
+ doc.newPage();
  ph.add("KlappenText",1);
  ph.add("LiteraturPapst",3);
 
- //Image.getInstance("/home/rawa/StauneBild.jpg");
- img = Image.getInstance("/home/rawa/DerAugenblick.jpg");
- img = Image.getInstance("/home/rawa/NooGrey.png");
+ img=Image.getInstance("/home/rawa/StauneBild.jpg");
+ img=Image.getInstance("/home/rawa/DerAugenblick.jpg");
+ img=Image.getInstance("/home/rawa/NooGrey.png");
  img.scaleToFit(320, 240);
  //doc.add(img);
  doc.close();
