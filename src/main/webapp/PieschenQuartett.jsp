@@ -1,4 +1,4 @@
-6~<%@ page pageEncoding="UTF-8"%><%@page import="
+B6~<%@ page pageEncoding="UTF-8"%><%@page import="
 java.io.BufferedReader,
 java.io.ByteArrayOutputStream,
 java.io.File,
@@ -49,8 +49,12 @@ com.itextpdf.text.pdf.PdfWriter
  ByteArrayOutputStream baos = new ByteArrayOutputStream();
  final PdfWriter writer = PdfWriter.getInstance(doc, baos);
  doc.open();
+ doc.add(new Paragraph("PieschenQuartett"));
  //PdfPTable table = new PdfPTable(new float[] { 1, 1 });
  PdfPTable table = new PdfPTable(2);
+ PdfPCell cell = new PdfPCell(new Phrase("RaWa"));
+ cell.setColspan(2);
+ table.addCell(cell);
  PdfPCell cell1 = new PdfPCell(new Phrase("KayGroschen"));
  PdfPCell cell2 = new PdfPCell(new Phrase(">100000"));
  table.addCell(cell1);
