@@ -285,6 +285,7 @@ com.itextpdf.text.pdf.PdfWriter
  PageHelper ph=new PageHelper();
  ph.doc=doc;
  ph.writer=writer;
+
  //
  sl(doc,1);
  ph.add("EndMontage",1);
@@ -298,9 +299,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("AriadneFaden",1);
  ph.add("TraumPaare",3);
  ph.add("InnBankSe",4);
- ph.add("HeldenSage",3);
  ph.add("SchickSaal",3);
- ph.add("RealFilm",1);
  ph.add("ZukunftsRomanGlossar",1);
  ph.add("GeBurt",1);
  ph.add("GenSeidenFaden",1);
@@ -309,6 +308,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("BeuteSchema",1);
  ph.add("AtariSt",1);
  ph.add("TalDerAhnungslosen",1);
+ ph.add("MenschMaschinenMensch",3);
  ph.add("SiSanien",1);
  ph.add("FansOfIso8601",3);
  ph.add("UbiComp",1);
@@ -341,29 +341,38 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("MannOhneGeheimnisse",3);
  ph.add("AktEins",3);
  ph.add("MorgenDanach",3);
- //ph.add("BeKenntnisseEinesAutors",4);
 
  //
  sl(doc,2);
  ph.add("AlbertPlatz",1);
  ph.add("BeautifulMind",1);
  ph.add("BegruessungsGeld",1);
+ ph.add("BlueBrain",1);
+ ph.add("BeKenntnisseEinesAutors",4);
  ph.add("DankSagung",3);
+ ph.add("DasIchErinnertSich",3);
  ph.add("DeutschIsDead",4);
  ph.add("DistanzSpiel",1);
  ph.add("EigenRisk",1);
  ph.add("GeFab",3);
  ph.add("HaeufigsteWoerter",1);
+ ph.add("HeldenSage",3);
+ ph.add("KasimirNummer",3);
  ph.add("KhaldoonsDream",3);
  ph.add("LebensEntwurf",1);
+ ph.add("LockFutureSax",1);
  ph.add("MindBroker",1);
  ph.add("MindEyes",1);
  ph.add("MindId",1);
  ph.add("MindMark",3);
  ph.add("NooPolisFaqDe",1);
  ph.add("PraterBrater",3);
- ph.add("SingularVirus",1);
+ ph.add("PieschenRevolution",3);
+ ph.add("RealFilm",1);
+ ph.add("ReverseStrip",1);
  ph.add("SingularAcademy",1);
+ ph.add("SingularVirus",1);
+ ph.add("SuperComp",1);
  ph.add("TakeOff",1);
  ph.add("TheNooSphere",1);
  ph.add("TheOne",1);
@@ -371,31 +380,33 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("TrueLove",1);
  ph.add("WandelDruck",1);
  ph.add("ZuKunft",1);
- //ph.add("HildeIndex",4);
- //ph.add("GruenderPaar",3);
- //ph.add("TextForm",3);
- //ph.add("TrueWoman",1);
 
  //
  sl(doc,3);
  ph.add("CamelCase",1);
  ph.add("CarTraum",1);
  ph.add("ConScious",1);
+ ph.add("DezentralKomitee",1);
+ ph.add("EinHorn",1);
+ ph.add("GruenderPaar",3);
  ph.add("HauptStrasse",1);
+ ph.add("HildeIndex",4);
  ph.add("IntelligenceExplosion",1);
  ph.add("IscIi",4);
+ ph.add("LuxorChess",1);
  ph.add("NewMind",1);
  ph.add("PostSingular",1);
  ph.add("SecondHalfOfTheChessboard",1);
+ ph.add("ShockLevel",1);
  ph.add("SocialGraph",1);
+ ph.add("TextForm",3);
+ ph.add("TrueWoman",1);
 
  //
  sl(doc,4);
  ph.add("AnLicht",1);
  ph.add("AtemZuege",1);
  ph.add("AusGang",3);
- //too long!!:
- //ph.add(doc,"LuxorChess",1);
 
  doc.add(new Chapter(new Paragraph("DuKommstDrinVorOderUm"),5));
 
