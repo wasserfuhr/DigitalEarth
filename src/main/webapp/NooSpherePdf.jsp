@@ -268,12 +268,13 @@ com.itextpdf.text.pdf.PdfWriter
  Process ps = Runtime.getRuntime().exec("git log -1",null,new File(sDir));
  ps.waitFor();
  String commit = new BufferedReader(new InputStreamReader(ps.getInputStream())).readLine();
- String h="TapeOut"+tapeOut+", ~RelCan "+rc+", "+commit+
-  "\nCreatedBy "+request.getServletPath()+
-  " (#"+javax.xml.bind.DatatypeConverter.printHexBinary(hash.digest()).toLowerCase()+") "+
+ String h=
+  "CreatedBy planet.sl4.eu"+request.getServletPath()+
+  " (#"+javax.xml.bind.DatatypeConverter.printHexBinary(hash.digest()).toLowerCase()+")"+
   "\nfrom "+request.getRemoteHost()+" "+
   "on "+new SimpleDateFormat("yyyy-MM-dd:HHmmss ZZ").format(now)+
-  " ("+now.getTime()+", st"+ String.format("%08x",now.getTime()/1000)+").";
+  " ("+now.getTime()+", st"+ String.format("%08x",now.getTime()/1000)+")."+
+  "\nTapeOut"+tapeOut+", ~RelCan "+rc+", "+commit;
  pv=new Paragraph(h,new Font(FontFamily.COURIER,8));
  pv.setSpacingBefore(20);
  pv.setAlignment(Element.ALIGN_CENTER);
@@ -324,7 +325,6 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("GlasKugel",1);
  ph.add("DieMacht",1);
  ph.add("TrueMan",1);
- ph.add("ZeitSprung",1);
  ph.add("GrossHausVision",4);
  ph.add("WindelWelt",1);
  ph.add("HampelMann",3);
@@ -348,6 +348,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("MannOhneGeheimnisse",3);
  ph.add("AktEins",3);
  ph.add("MorgenDanach",3);
+ ph.add("TransparentMan",1);
 
  //
  sl(doc,2);
@@ -377,6 +378,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("PieschenBank543",4);
  ph.add("PieschenArtGroup",1);
  ph.add("PieschenRevolution",3);
+ ph.add("RawashiNakamoto",3);
  ph.add("RealFilm",1);
  ph.add("ReverseStrip",1);
  ph.add("SingularAcademy",1);
@@ -395,8 +397,10 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("CamelCase",1);
  ph.add("CarTraum",1);
  ph.add("ConScious",1);
+ ph.add("ConVerg",1);
  ph.add("DezentralKomitee",1);
  ph.add("EinHorn",1);
+ ph.add("GeistMaschine",3);
  ph.add("GruenderPaar",3);
  ph.add("HauptStrasse",1);
  ph.add("HildeIndex",4);
