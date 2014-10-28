@@ -1,4 +1,4 @@
-6~<%@ page pageEncoding="UTF-8"%><%@page import="
+6~6~<%@ page pageEncoding="UTF-8"%><%@page import="
 java.io.BufferedReader,
 java.io.ByteArrayOutputStream,
 java.io.File,
@@ -257,7 +257,7 @@ com.itextpdf.text.pdf.PdfWriter
  doc.add(pv);
  pv=new Paragraph("\n\n\n\n\n\nEditionPieschen",
    new Font(FontFamily.HELVETICA,20,Font.BOLD));
- pv.setSpacingBefore(180);
+ pv.setSpacingBefore(160);
  pv.setAlignment(Element.ALIGN_CENTER);
  doc.add(pv);
  String sDir="/home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/";
@@ -267,14 +267,24 @@ com.itextpdf.text.pdf.PdfWriter
  Date now=new Date();
  Process ps = Runtime.getRuntime().exec("git log -1",null,new File(sDir));
  ps.waitFor();
+ Cookie[] cookies = request.getCookies();
+ String sc="";
+ if( cookies != null) {
+  for (int i = 0; i < cookies.length; i++){
+   if ("SemperCookie".equals( cookies[i].getName())) {
+    sc=cookies[i].getValue();
+   }
+  }
+ }
  String commit = new BufferedReader(new InputStreamReader(ps.getInputStream())).readLine();
  String h=
   "CreatedBy planet.sl4.eu"+request.getServletPath()+
   " (#"+javax.xml.bind.DatatypeConverter.printHexBinary(hash.digest()).toLowerCase()+")"+
   "\nfrom "+request.getRemoteHost()+" "+
   "on "+new SimpleDateFormat("yyyy-MM-dd:HHmmss ZZ").format(now)+
-  " ("+now.getTime()+", st"+ String.format("%08x",now.getTime()/1000)+")."+
-  "\nTapeOut"+tapeOut+", ~RelCan "+rc+", "+commit;
+  " ("+now.getTime()+", st"+ String.format("%08x",now.getTime()/1000)+")"+
+  "\nTapeOut"+tapeOut+", ~RelCan "+rc+", "+commit+
+  "\nSemperCookieHash: #"+("1".equals(sc)?"063bd77036b211daede5108a33b3c19b6fc26db09f1a4906fd86749f3883e78e":"???");
  pv=new Paragraph(h,new Font(FontFamily.COURIER,8));
  pv.setSpacingBefore(20);
  pv.setAlignment(Element.ALIGN_CENTER);
@@ -329,6 +339,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("WindelWelt",1);
  ph.add("HampelMann",3);
  ph.add("NoMic",1);
+ ph.add("FactOrFiction",3);
  ph.add("TakeOff",1);
  ph.add("VerFassung",1);
  ph.add("VilfredoPareto",1);
@@ -398,6 +409,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("CarTraum",1);
  ph.add("ConScious",1);
  ph.add("ConVerg",1);
+ ph.add("DealFutures",1);
  ph.add("DezentralKomitee",1);
  ph.add("EinHorn",1);
  ph.add("GeistMaschine",3);
