@@ -202,7 +202,7 @@ com.itextpdf.text.pdf.PdfWriter
 %>
 <% // http://itextpdf.com/examples/iia.php?id=173
  String tapeOut="545";
- short rc=4;
+ short rc=5;
  response.setContentType("application/pdf");
  response.setHeader("Content-Disposition", "inline; filename=\"TapeOut"+tapeOut+"Rc"+rc+".pdf\"");
 
@@ -306,34 +306,41 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("FliederChen",4);
  ph.add("CommodoreSixtyFour",1);
  ph.add("BeuteSchema",1);
+ ph.add("IceCream2019",1);
  ph.add("AtariSt",1);
- ph.add("TalDerAhnungslosen",1);
- ph.add("MenschMaschinenMensch",3);
+ ph.add("UniKl",1);
+ ph.add("MenschMaschinenMensch",1);
+ ph.add("MooresLaw",1);
  ph.add("SiSanien",1);
+ ph.add("TalDerAhnungslosen",1);
  ph.add("FansOfIso8601",3);
  ph.add("UbiComp",1);
- ph.add("UniKl",1);
- ph.add("GlasKugel",1);
  ph.add("KurbelWelle",1);
+ ph.add("UnsereGeschichte",1);
+ ph.add("SeaNation",1);
+ ph.add("ZeitSprung",1);
+ ph.add("MindTower",1);
+ ph.add("AlbertPlatz",1);
+ ph.add("GlasKugel",1);
  ph.add("DieMacht",1);
- ph.add("IceCream2019",1);
  ph.add("TrueMan",1);
+ ph.add("ZeitSprung",1);
  ph.add("GrossHausVision",4);
  ph.add("WindelWelt",1);
  ph.add("HampelMann",3);
+ ph.add("NoMic",1);
+ ph.add("TakeOff",1);
  ph.add("VerFassung",1);
  ph.add("VilfredoPareto",1);
  ph.add("SingularPresseMitteilung",3);
  ph.add("NachNeuenMeeren",1);
- ph.add("SeaNation",1);
  ph.add("ElbSpaziergang",1);
  ph.add("DasNetz",1);
  ph.add("PeterPlan",1);
  ph.add("XiNao",1);
  ph.add("RayInDresden",1);
- ph.add("MooresLaw",1);
+ ph.add("PostSingular",1);
  ph.add("RainersChristentum",1);
- ph.add("PieschenBank543",4);
  ph.add("AkteNooPolis",1);
  ph.add("BeatriceBaranov",1);
  ph.add("EinSchlag",1);
@@ -344,7 +351,6 @@ com.itextpdf.text.pdf.PdfWriter
 
  //
  sl(doc,2);
- ph.add("AlbertPlatz",1);
  ph.add("BeautifulMind",1);
  ph.add("BegruessungsGeld",1);
  ph.add("BlueBrain",1);
@@ -365,15 +371,18 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("MindEyes",1);
  ph.add("MindId",1);
  ph.add("MindMark",3);
+ ph.add("MindNotFoundException",3);
  ph.add("NooPolisFaqDe",1);
  ph.add("PraterBrater",3);
+ ph.add("PieschenBank543",4);
+ ph.add("PieschenArtGroup",1);
  ph.add("PieschenRevolution",3);
  ph.add("RealFilm",1);
  ph.add("ReverseStrip",1);
  ph.add("SingularAcademy",1);
  ph.add("SingularVirus",1);
  ph.add("SuperComp",1);
- ph.add("TakeOff",1);
+ ph.add("SystemKunst",1);
  ph.add("TheNooSphere",1);
  ph.add("TheOne",1);
  ph.add("TheSingularity",1);
@@ -394,8 +403,8 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("IntelligenceExplosion",1);
  ph.add("IscIi",4);
  ph.add("LuxorChess",1);
+ ph.add("MeatBrain",1);
  ph.add("NewMind",1);
- ph.add("PostSingular",1);
  ph.add("SecondHalfOfTheChessboard",1);
  ph.add("ShockLevel",1);
  ph.add("SocialGraph",1);
