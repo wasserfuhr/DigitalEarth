@@ -51,4 +51,4 @@ javax.imageio.ImageIO"%>
   }
  }
 </script>
-<code>sl++</code></html>
+<a href="http://sl4.eu/sl4"><code>sl++</code></a></html>
