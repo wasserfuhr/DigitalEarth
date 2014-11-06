@@ -202,7 +202,7 @@ com.itextpdf.text.pdf.PdfWriter
 %>
 <% // http://itextpdf.com/examples/iia.php?id=173
  String tapeOut="546";
- short rc=1;
+ short rc=2;
  response.setContentType("application/pdf");
  response.setHeader("Content-Disposition", "inline; filename=\"TapeOut"+tapeOut+"Rc"+rc+".pdf\"");
 
@@ -221,7 +221,9 @@ com.itextpdf.text.pdf.PdfWriter
  pt.setAlignment(Element.ALIGN_CENTER);
  pt.setSpacingAfter(60);
  doc.add(pt);
- pt = new Paragraph("Wie @tineroyal ihren\nTraumMann fand und wir fast alle \nUnSterblich werden",
+ pt = new Paragraph("Wie @tineroyal ihren\n"+
+  "TraumMann fand und wir fast alle \n"+
+  "UnSterblich werden",
   new Font(FontFamily.HELVETICA,24, Font.NORMAL,new BaseColor(255,255,255)));
  pt.setAlignment(Element.ALIGN_RIGHT);
  pt.setLeading(0,1.1f);
@@ -310,6 +312,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("DesSturmesWucht",1);
  ph.add("MusTer",1);
  ph.add("SeeLe",1);
+ ph.add("SoFort",1);
  ph.add("AnFang",1);
  ph.add("AriadneFaden",1);
  ph.add("TraumPaare",3);
@@ -366,6 +369,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("MorgenDanach",3);
  ph.add("TransparentMan",1);
  ph.add("DeutschIsDead",4);
+ ph.add("VerLies",1);
 
  //
  sl(doc,2);
@@ -385,6 +389,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("HeldenSage",3);
  ph.add("KasimirNummer",3);
  ph.add("KhaldoonsDream",3);
+ ph.add("KopfWelt",1);
  ph.add("LebensEntwurf",1);
  ph.add("LockFutureSex",4);
  ph.add("MindBroker",1);
@@ -393,9 +398,11 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("MindMark",3);
  ph.add("MindNotFoundException",3);
  ph.add("NooPolisFaqDe",1);
+ ph.add("ObenVorn",1);
  ph.add("PieschenBank543",4);
  ph.add("PieschenArtGroup",1);
  ph.add("PieschenRevolution",3);
+ ph.add("PostReal",1);
  ph.add("PraterBrater",3);
  ph.add("RawashiNakamoto",3);
  ph.add("RealFilm",1);
@@ -437,6 +444,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("SocialGraph",1);
  ph.add("TextForm",3);
  ph.add("TrueWoman",1);
+ ph.add("WikiWeiber",1);
 
  //
  sl(doc,4);
