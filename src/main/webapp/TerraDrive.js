@@ -62,6 +62,9 @@ var terraDrive = {
   MediaType:"zip",
   FileSize:804056958,
   DcTitle:"ZuFu"},
+ "82b93e5763022cceedf0a99b5760c2c8088a706b":{
+  m:"TittelBild",
+  FileName:"DSCN7595.JPG"},
  "9bf345b2d0d7e42c547e6aaa25376c545fd00e65":{
   MediaType:"zip",
   FileSize:4517811,

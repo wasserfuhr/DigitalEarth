@@ -1,4 +1,4 @@
-6~6~<%@ page pageEncoding="UTF-8"%><%@page import="
+<%@ page pageEncoding="UTF-8"%><%@page import="
 java.io.BufferedReader,
 java.io.ByteArrayOutputStream,
 java.io.File,
@@ -201,8 +201,8 @@ com.itextpdf.text.pdf.PdfWriter
  }
 %>
 <% // http://itextpdf.com/examples/iia.php?id=173
- String tapeOut="545";
- short rc=5;
+ String tapeOut="546";
+ short rc=1;
  response.setContentType("application/pdf");
  response.setHeader("Content-Disposition", "inline; filename=\"TapeOut"+tapeOut+"Rc"+rc+".pdf\"");
 
@@ -232,7 +232,8 @@ com.itextpdf.text.pdf.PdfWriter
   new Font(FontFamily.HELVETICA,22, Font.BOLD));
  pt.setSpacingBefore(0);
  doc.add(pt);
- Image img = Image.getInstance("/home/rawa/TittelBild1704x2272.png");
+ // Image img = Image.getInstance("/home/rawa/TittelBild1704x2272.png");
+ Image img = Image.getInstance("/home/rawa/c.png");
  img.scaleToFit(480*1.187f,640*1.187f);
  img.setAbsolutePosition(
   (PageSize.A4.getWidth() - img.getScaledWidth()) / 2,
@@ -249,6 +250,9 @@ com.itextpdf.text.pdf.PdfWriter
  pv.setAlignment(Element.ALIGN_CENTER);
  pv.setSpacingAfter(20);
  doc.add(pv);
+ pv=new Paragraph("StaatsSpiel",gf);
+ pv.setAlignment(Element.ALIGN_CENTER);
+ doc.add(pv);
  pv=new Paragraph("WendeChronik",gf);
  pv.setAlignment(Element.ALIGN_CENTER);
  doc.add(pv);
@@ -257,7 +261,7 @@ com.itextpdf.text.pdf.PdfWriter
  doc.add(pv);
  pv=new Paragraph("\n\n\n\n\n\nEditionPieschen",
    new Font(FontFamily.HELVETICA,20,Font.BOLD));
- pv.setSpacingBefore(160);
+ pv.setSpacingBefore(140);
  pv.setAlignment(Element.ALIGN_CENTER);
  doc.add(pv);
  String sDir="/home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/";
@@ -318,6 +322,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("CommodoreSixtyFour",1);
  ph.add("BeuteSchema",1);
  ph.add("IceCream2019",1);
+ ph.add("MeinPlaton",1);
  ph.add("AtariSt",1);
  ph.add("UniKl",1);
  ph.add("MenschMaschinenMensch",1);
@@ -360,19 +365,22 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("AktEins",3);
  ph.add("MorgenDanach",3);
  ph.add("TransparentMan",1);
+ ph.add("DeutschIsDead",4);
 
  //
  sl(doc,2);
  ph.add("BeautifulMind",1);
  ph.add("BegruessungsGeld",1);
- ph.add("BlueBrain",1);
  ph.add("BeKenntnisseEinesAutors",4);
+ ph.add("BlueBrain",1);
  ph.add("DankSagung",3);
  ph.add("DasIchErinnertSich",3);
- ph.add("DeutschIsDead",4);
  ph.add("DistanzSpiel",1);
+ ph.add("EigenMuster",1);
  ph.add("EigenRisk",1);
  ph.add("GeFab",3);
+ ph.add("GoogleAi",1);
+ ph.add("GoogleWiki",3);
  ph.add("HaeufigsteWoerter",1);
  ph.add("HeldenSage",3);
  ph.add("KasimirNummer",3);
@@ -385,10 +393,10 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("MindMark",3);
  ph.add("MindNotFoundException",3);
  ph.add("NooPolisFaqDe",1);
- ph.add("PraterBrater",3);
  ph.add("PieschenBank543",4);
  ph.add("PieschenArtGroup",1);
  ph.add("PieschenRevolution",3);
+ ph.add("PraterBrater",3);
  ph.add("RawashiNakamoto",3);
  ph.add("RealFilm",1);
  ph.add("ReverseStrip",1);
@@ -399,8 +407,10 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("TheNooSphere",1);
  ph.add("TheOne",1);
  ph.add("TheSingularity",1);
+ ph.add("TransSimian",1);
  ph.add("TrueLove",1);
  ph.add("WandelDruck",1);
+ ph.add("WortSchatz",1);
  ph.add("ZuKunft",1);
 
  //
@@ -422,6 +432,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("MeatBrain",1);
  ph.add("NewMind",1);
  ph.add("SecondHalfOfTheChessboard",1);
+ ph.add("SemanticSixSigma",3);
  ph.add("ShockLevel",1);
  ph.add("SocialGraph",1);
  ph.add("TextForm",3);

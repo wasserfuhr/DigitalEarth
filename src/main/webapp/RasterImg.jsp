@@ -4,12 +4,25 @@ java.awt.image.BufferedImage,
 java.awt.Color,
 javax.imageio.ImageIO"%>
 <html>
- <h1 style="color:red">»NooSphere«</h1>
- <canvas height="256" id="c" style="border:1px solid #aaa;" width="192"></canvas>
+ <head>
+  <meta http-equiv="refresh" content="4; URL=http://sl4.eu/buy">
+ </head>
+ <body>
+ <div style="text-align:center">
+ </div>
+  <h2 style="position:absolute;z-index:2;color:#aaa;top:10px;font-family:helvetica;left:20px;font-size:12pt">RainerWasserfuhr EtAlii</h2>
+  <h1 style="position:absolute;z-index:2;color:red;top:220px;font-family:helvetica;left:60px;font-size:32pt">»NooSphere«</h1>
+  <h3 style="position:absolute;z-index:2;text-align:right;color:#fff;top:320px;font-family:helvetica;left:98px;font-weight:normal;font-size:12pt">
+   Wie @tineroyal ihren<br/>
+   TraumMann fand und wir fast alle<br/>
+   UnSterblich werden</h3>
+  <h2 style="position:absolute;z-index:2;color:#000;top:470px;font-family:helvetica;left:20px;font-size:12pt">EditionPieschen</h2>
+  <canvas height="512" id="c" style="position:absolute;z-index:1;top:20px;" width="386"></canvas>
 <script>
  var c=[
 <%
- BufferedImage img=ImageIO.read(new File("/home/rawa/DSCN7595.JPG"));
+ BufferedImage img=ImageIO.read(new File(
+  "/home/rawa/TerraDrive/82b93e5763022cceedf0a99b5760c2c8088a706b.jpg"));
  int t[][]=new int[48][64];
  int ct[][]=new int[48][64];
  for (int i=0; i<img.getWidth(); i++) {
@@ -29,7 +42,7 @@ javax.imageio.ImageIO"%>
  }
 %>];
  ctx=document.getElementById('c').getContext('2d');
- var b=4;
+ var b=8;
  for(var i=0;i<64;i++) {
   for(var j=0;j<48;j++) {
    var cc=c[i].charAt(j);;
