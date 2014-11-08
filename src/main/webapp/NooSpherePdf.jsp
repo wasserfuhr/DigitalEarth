@@ -252,7 +252,8 @@ com.itextpdf.text.pdf.PdfWriter
  pv.setAlignment(Element.ALIGN_CENTER);
  pv.setSpacingAfter(20);
  doc.add(pv);
- pv=new Paragraph("StaatsSpiel",gf);
+ gf=new Font(FontFamily.TIMES_ROMAN,20,Font.BOLDITALIC, new BaseColor(127, 127, 127));
+ pv=new Paragraph("UnStaatsSpiel",gf);
  pv.setAlignment(Element.ALIGN_CENTER);
  doc.add(pv);
  pv=new Paragraph("WendeChronik",gf);
