@@ -201,6 +201,7 @@ com.itextpdf.text.pdf.PdfWriter
  }
 %>
 <% // http://itextpdf.com/examples/iia.php?id=173
+ short rel=4;
  String tapeOut="546";
  short rc=2;
  response.setContentType("application/pdf");
@@ -290,7 +291,7 @@ com.itextpdf.text.pdf.PdfWriter
   "\nfrom "+request.getRemoteHost()+" "+
   "on "+new SimpleDateFormat("yyyy-MM-dd:HHmmss ZZ").format(now)+
   " ("+now.getTime()+", st"+ String.format("%08x",now.getTime()/1000)+")"+
-  "\nTapeOut"+tapeOut+", ~RelCan "+rc+", "+commit+
+  "\nAufLage"+rel+", TapeOut"+tapeOut+", ~RelCan "+rc+", "+commit+
   "\nSemperCookieHash: #"+("1".equals(sc)?"063bd77036b211daede5108a33b3c19b6fc26db09f1a4906fd86749f3883e78e":"???");
  pv=new Paragraph(h,new Font(FontFamily.COURIER,8));
  pv.setSpacingBefore(20);
@@ -307,10 +308,10 @@ com.itextpdf.text.pdf.PdfWriter
  //
  sl(doc,1);
  ph.add("EndMontage",1);
+ ph.add("DesSturmesWucht",1);
  ph.add("RoMa",1);
  ph.add("RealRoman",1);
  ph.add("SchnuefffChen",3);
- ph.add("DesSturmesWucht",1);
  ph.add("MusTer",1);
  ph.add("SeeLe",1);
  ph.add("SoFort",1);
@@ -333,15 +334,16 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("MooresLaw",1);
  ph.add("SiSanien",1);
  ph.add("TalDerAhnungslosen",1);
+ ph.add("ThaliaCamp",4);
  ph.add("FansOfIso8601",3);
  ph.add("UbiComp",1);
  ph.add("KurbelWelle",1);
  ph.add("UnsereGeschichte",1);
- ph.add("SeaNation",1);
  ph.add("ZeitSprung",1);
  ph.add("MindTower",1);
  ph.add("AlbertPlatz",1);
  ph.add("GlasKugel",1);
+ ph.add("SeaNation",1);
  ph.add("DieMacht",1);
  ph.add("TrueMan",1);
  ph.add("GrossHausVision",4);
@@ -418,6 +420,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("TransSimian",1);
  ph.add("TrueLove",1);
  ph.add("WandelDruck",1);
+ ph.add("WindelWeltFragmente",1);
  ph.add("WortSchatz",1);
  ph.add("ZuKunft",1);
 
@@ -442,6 +445,8 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("SecondHalfOfTheChessboard",1);
  ph.add("SemanticSixSigma",3);
  ph.add("ShockLevel",1);
+ ph.add("NooPolisBook",1);
+ ph.add("SingularityReport",1);
  ph.add("SocialGraph",1);
  ph.add("TextForm",3);
  ph.add("TrueWoman",1);
