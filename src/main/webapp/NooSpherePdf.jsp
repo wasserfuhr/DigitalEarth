@@ -203,7 +203,7 @@ com.itextpdf.text.pdf.PdfWriter
 <% // http://itextpdf.com/examples/iia.php?id=173
  short rel=5;
  String tapeOut="547";
- short rc=1;
+ short rc=2;
  response.setContentType("application/pdf");
  response.setHeader("Content-Disposition", "inline; filename=\"TapeOut"+tapeOut+"Rc"+rc+".pdf\"");
 
@@ -344,6 +344,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("ZeitSprung",1);
  ph.add("MindTower",1);
  ph.add("AlbertPlatz",1);
+ ph.add("TwentyFirstCentury",1);
  ph.add("GlasKugel",1);
  ph.add("VladimirLenin",1);
  ph.add("PieschenRevolution",1);
