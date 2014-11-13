@@ -201,9 +201,9 @@ com.itextpdf.text.pdf.PdfWriter
  }
 %>
 <% // http://itextpdf.com/examples/iia.php?id=173
- short rel=4;
- String tapeOut="546";
- short rc=2;
+ short rel=5;
+ String tapeOut="547";
+ short rc=1;
  response.setContentType("application/pdf");
  response.setHeader("Content-Disposition", "inline; filename=\"TapeOut"+tapeOut+"Rc"+rc+".pdf\"");
 
@@ -322,6 +322,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("SchickSaal",3);
  ph.add("ZukunftsRomanGlossar",1);
  ph.add("GeBurt",1);
+ ph.add("DeepBlue",1);
  ph.add("GenSeidenFaden",1);
  ph.add("FliederChen",4);
  ph.add("CommodoreSixtyFour",1);
@@ -330,6 +331,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("MeinPlaton",1);
  ph.add("AtariSt",1);
  ph.add("UniKl",1);
+ ph.add("AlanTuring",1);
  ph.add("MenschMaschinenMensch",1);
  ph.add("MooresLaw",1);
  ph.add("SiSanien",1);
@@ -343,6 +345,8 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("MindTower",1);
  ph.add("AlbertPlatz",1);
  ph.add("GlasKugel",1);
+ ph.add("VladimirLenin",1);
+ ph.add("PieschenRevolution",1);
  ph.add("SeaNation",1);
  ph.add("DieMacht",1);
  ph.add("TrueMan",1);
@@ -352,6 +356,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("NoMic",1);
  ph.add("FactOrFiction",3);
  ph.add("TakeOff",1);
+ ph.add("HaUndEm",1);
  ph.add("VerFassung",1);
  ph.add("VilfredoPareto",1);
  ph.add("SingularPresseMitteilung",3);
@@ -400,11 +405,11 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("MindId",1);
  ph.add("MindMark",3);
  ph.add("MindNotFoundException",3);
+ ph.add("MorgenMantel",4);
  ph.add("NooPolisFaqDe",1);
  ph.add("ObenVorn",1);
  ph.add("PieschenBank543",4);
  ph.add("PieschenArtGroup",1);
- ph.add("PieschenRevolution",3);
  ph.add("PostReal",1);
  ph.add("PraterBrater",3);
  ph.add("RawashiNakamoto",3);
@@ -433,6 +438,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("DealFutures",1);
  ph.add("DezentralKomitee",1);
  ph.add("EinHorn",1);
+ ph.add("FixPunkt",1);
  ph.add("GeistMaschine",3);
  ph.add("GruenderPaar",3);
  ph.add("HauptStrasse",1);
@@ -442,6 +448,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("LuxorChess",1);
  ph.add("MeatBrain",1);
  ph.add("NewMind",1);
+ ph.add("PreSingularityAbundanceMilestones",1);
  ph.add("SecondHalfOfTheChessboard",1);
  ph.add("SemanticSixSigma",3);
  ph.add("ShockLevel",1);
@@ -495,7 +502,7 @@ com.itextpdf.text.pdf.PdfWriter
  while(enumKey.hasNext()) {
   String key = enumKey.next();
   Vector<Integer> val = ph.ti.get(key);
-  String s=key+"... "+val.get(0);
+  String s=key+" "+val.get(0);
   p.add(new Phrase(s+". "));
  }
  doc.add(p);
