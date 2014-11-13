@@ -215,19 +215,18 @@ com.itextpdf.text.pdf.PdfWriter
  Paragraph pt = new Paragraph("RainerWasserfuhr EtAlii", 
   new Font(FontFamily.HELVETICA,22,Font.BOLD,new BaseColor(192,192,192)));
  pt.setSpacingBefore(-20);
- pt.setSpacingAfter(140);
+ pt.setSpacingAfter(200);
  doc.add(pt);
- pt = new Paragraph("DoKummstDrinVorOderUm",
+ pt = new Paragraph("DuKommstDrinVorOderUm:",
   new Font(FontFamily.HELVETICA,24, Font.NORMAL,new BaseColor(255,255,255)));
  pt.setAlignment(Element.ALIGN_LEFT);
  pt.setLeading(0,1.1f);
- pt.setIndentationRight(45f);
  pt.setSpacingAfter(10);
  doc.add(pt);
  pt = new Paragraph("»NooSphere«", 
   new Font(FontFamily.HELVETICA,64, Font.BOLD ,new BaseColor(255,0, 0)));
  pt.setAlignment(Element.ALIGN_CENTER);
- pt.setSpacingAfter(60);
+ pt.setSpacingAfter(100);
  doc.add(pt);
  pt = new Paragraph("Wie @tineroyal ihren\n"+
   "TraumMann fand und wir fast alle \n"+
@@ -235,8 +234,8 @@ com.itextpdf.text.pdf.PdfWriter
   new Font(FontFamily.HELVETICA,24, Font.NORMAL,new BaseColor(255,255,255)));
  pt.setAlignment(Element.ALIGN_RIGHT);
  pt.setLeading(0,1.1f);
- pt.setIndentationRight(45f);
- pt.setSpacingAfter(109);
+ pt.setIndentationRight(16f);
+ pt.setSpacingAfter(80);
  doc.add(pt);
  pt = new Paragraph("\n\nEditionPieschen",
   new Font(FontFamily.HELVETICA,22, Font.BOLD));
