@@ -215,7 +215,14 @@ com.itextpdf.text.pdf.PdfWriter
  Paragraph pt = new Paragraph("RainerWasserfuhr EtAlii", 
   new Font(FontFamily.HELVETICA,22,Font.BOLD,new BaseColor(192,192,192)));
  pt.setSpacingBefore(-20);
- pt.setSpacingAfter(260);
+ pt.setSpacingAfter(140);
+ doc.add(pt);
+ pt = new Paragraph("DoKummstDrinVorOderUm",
+  new Font(FontFamily.HELVETICA,24, Font.NORMAL,new BaseColor(255,255,255)));
+ pt.setAlignment(Element.ALIGN_LEFT);
+ pt.setLeading(0,1.1f);
+ pt.setIndentationRight(45f);
+ pt.setSpacingAfter(10);
  doc.add(pt);
  pt = new Paragraph("»NooSphere«", 
   new Font(FontFamily.HELVETICA,64, Font.BOLD ,new BaseColor(255,0, 0)));
@@ -341,10 +348,10 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("UbiComp",1);
  ph.add("KurbelWelle",1);
  ph.add("UnsereGeschichte",1);
+ ph.add("TwentyFirstCentury",1);
  ph.add("ZeitSprung",1);
  ph.add("MindTower",1);
  ph.add("AlbertPlatz",1);
- ph.add("TwentyFirstCentury",1);
  ph.add("GlasKugel",1);
  ph.add("VladimirLenin",1);
  ph.add("PieschenRevolution",1);
