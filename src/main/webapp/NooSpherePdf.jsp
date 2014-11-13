@@ -215,13 +215,13 @@ com.itextpdf.text.pdf.PdfWriter
  Paragraph pt = new Paragraph("RainerWasserfuhr EtAlii", 
   new Font(FontFamily.HELVETICA,22,Font.BOLD,new BaseColor(192,192,192)));
  pt.setSpacingBefore(-20);
- pt.setSpacingAfter(200);
+ pt.setSpacingAfter(160);
  doc.add(pt);
  pt = new Paragraph("DuKommstDrinVorOderUm:",
   new Font(FontFamily.HELVETICA,24, Font.NORMAL,new BaseColor(255,255,255)));
  pt.setAlignment(Element.ALIGN_LEFT);
  pt.setLeading(0,1.1f);
- pt.setSpacingAfter(10);
+ pt.setSpacingAfter(60);
  doc.add(pt);
  pt = new Paragraph("»NooSphere«", 
   new Font(FontFamily.HELVETICA,64, Font.BOLD ,new BaseColor(255,0, 0)));
@@ -234,8 +234,8 @@ com.itextpdf.text.pdf.PdfWriter
   new Font(FontFamily.HELVETICA,24, Font.NORMAL,new BaseColor(255,255,255)));
  pt.setAlignment(Element.ALIGN_RIGHT);
  pt.setLeading(0,1.1f);
- pt.setIndentationRight(16f);
- pt.setSpacingAfter(80);
+ pt.setIndentationRight(8f);
+ pt.setSpacingAfter(82);
  doc.add(pt);
  pt = new Paragraph("\n\nEditionPieschen",
   new Font(FontFamily.HELVETICA,22, Font.BOLD));
@@ -316,6 +316,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("EndMontage",1);
  ph.add("DesSturmesWucht",1);
  ph.add("RoMa",1);
+ ph.add("AlexanderGrothendieck",1);
  ph.add("RealRoman",1);
  ph.add("SchnuefffChen",3);
  ph.add("MusTer",1);
@@ -327,8 +328,8 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("InnBankSe",4);
  ph.add("SchickSaal",3);
  ph.add("ZukunftsRomanGlossar",1);
- ph.add("GeBurt",1);
  ph.add("DeepBlue",1);
+ ph.add("GeBurt",1);
  ph.add("GenSeidenFaden",1);
  ph.add("FliederChen",4);
  ph.add("CommodoreSixtyFour",1);
@@ -357,15 +358,19 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("SeaNation",1);
  ph.add("DieMacht",1);
  ph.add("TrueMan",1);
+ ph.add("RayKurzweil",1);
  ph.add("GrossHausVision",4);
  ph.add("WindelWelt",1);
  ph.add("HampelMann",3);
  ph.add("NoMic",1);
  ph.add("FactOrFiction",3);
+ ph.add("DougEngelbart",1);
  ph.add("TakeOff",1);
  ph.add("HaUndEm",1);
  ph.add("VerFassung",1);
  ph.add("VilfredoPareto",1);
+ ph.add("BankRaub",1);
+ ph.add("PieschenBank543",4);
  ph.add("SingularPresseMitteilung",3);
  ph.add("NachNeuenMeeren",1);
  ph.add("ElbSpaziergang",1);
@@ -380,6 +385,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("EinSchlag",1);
  ph.add("ParallelUniversum",3);
  ph.add("MannOhneGeheimnisse",3);
+ ph.add("BlueMan",1);
  ph.add("AktEins",3);
  ph.add("MorgenDanach",3);
  ph.add("TransparentMan",1);
@@ -395,6 +401,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("DankSagung",3);
  ph.add("DasIchErinnertSich",3);
  ph.add("DistanzSpiel",1);
+ ph.add("EheRinge",1);
  ph.add("EigenMuster",1);
  ph.add("EigenRisk",1);
  ph.add("GeFab",3);
@@ -402,8 +409,11 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("GoogleWiki",3);
  ph.add("HaeufigsteWoerter",1);
  ph.add("HeldenSage",3);
+ ph.add("HildeTreu",4);
+ ph.add("IchBinHeuteAmFlughafen",1);
  ph.add("KasimirNummer",3);
  ph.add("KhaldoonsDream",3);
+ ph.add("KommUnion",1);
  ph.add("KopfWelt",1);
  ph.add("LebensEntwurf",1);
  ph.add("LockFutureSex",4);
@@ -415,13 +425,14 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("MorgenMantel",4);
  ph.add("NooPolisFaqDe",1);
  ph.add("ObenVorn",1);
- ph.add("PieschenBank543",4);
  ph.add("PieschenArtGroup",1);
  ph.add("PostReal",1);
  ph.add("PraterBrater",3);
+ ph.add("ProvinzTrauma",1);
  ph.add("RawashiNakamoto",3);
  ph.add("RealFilm",1);
  ph.add("ReverseStrip",1);
+ ph.add("SchneeVersicherung",1);
  ph.add("SingularAcademy",1);
  ph.add("SingularVirus",1);
  ph.add("SuperComp",1);
@@ -438,6 +449,8 @@ com.itextpdf.text.pdf.PdfWriter
 
  //
  sl(doc,3);
+ ph.add("AiWinter",1);
+ ph.add("BabyAi",1);
  ph.add("CamelCase",1);
  ph.add("CarTraum",1);
  ph.add("ConScious",1);
@@ -454,6 +467,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("IscIi",4);
  ph.add("LuxorChess",1);
  ph.add("MeatBrain",1);
+ ph.add("MoebelWasserfuhr",1);
  ph.add("NewMind",1);
  ph.add("PreSingularityAbundanceMilestones",1);
  ph.add("SecondHalfOfTheChessboard",1);
