@@ -1,4 +1,17 @@
 <%
+ Cookie[] cookies = request.getCookies();
+ String sc="";
+ if( cookies != null) {
+  for (int i = 0; i < cookies.length; i++){
+   if ("JSESSIONID".equals( cookies[i].getName())) {
+    sc=cookies[i].getValue();
+    System.out.println(">"+sc+"<");
+
+   }
+  }
+ }
+ //1m7sujie9k02zlhklbw9iv3bl //DiebesGott Browser
+ //10drtvez4kne815b4f5vse0kdu //TinesHp RaWa GoogleChrome
  String l=request.getParameter("log");
  if(null!=l) {
   String ls[]=l.split("\n");
@@ -10,6 +23,7 @@
  } else {%>
 <html>
  <head>
+  <title>WelCome RaWa! (<%=sc%>)</title>
   <meta name="viewport" content="width=240"/>
 
 <script src="https://cdn.rawgit.com/google/closure-library/master/closure/goog/base.js"></script><script>
