@@ -13,7 +13,17 @@ clojure.lang.RT"%><%
  String sep=System.getProperty("file.separator");
  RandomAccessFile raf=new RandomAccessFile(home+sep+"NoSh.base","rws");
  File lock=new File(home+sep+"NoSh.lock");
+ String h=new String(Files.readAllBytes(Paths.get(home+sep+"GitHoster/GitHub/wasserfuhr/DigitalEarth/bootRaf.clj")));
+ // String h=new String(Files.readAllBytes(Paths.get(home+sep+"SemperBase.hilde")));
+ RandomAccessFile raf=new RandomAccessFile(home+sep+"SemperBase.base","rws");
+ //eval CloJure:
+ RT.loadResourceScript("hiccup/core.clj");
+ PushbackReader pr = new PushbackReader(new StringReader(h));
+ Object rootHandlerExpr=LispReader.read( pr, true, null, false);
+ IFn rootHandlerFn=(IFn) Compiler.eval( rootHandlerExpr);
+%><%=rootHandlerFn.invoke(request,response,raf)%><%
  while(!lock.createNewFile()) {}
+ raf.writeByte(2);
  raf.writeLong(0L);
  lock.delete();
 %>
