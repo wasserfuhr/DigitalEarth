@@ -201,9 +201,9 @@ com.itextpdf.text.pdf.PdfWriter
  }
 %>
 <% // http://itextpdf.com/examples/iia.php?id=173
- short rel=5;
- String tapeOut="547";
- short rc=2;
+ short rel=6;
+ String tapeOut="548";
+ short rc=1;
  response.setContentType("application/pdf");
  response.setHeader("Content-Disposition", "inline; filename=\"TapeOut"+tapeOut+"Rc"+rc+".pdf\"");
 
@@ -339,7 +339,6 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("AtariSt",1);
  ph.add("UniKl",1);
  ph.add("AlanTuring",1);
- ph.add("MenschMaschinenMensch",1);
  ph.add("MooresLaw",1);
  ph.add("SiSanien",1);
  ph.add("TalDerAhnungslosen",1);
@@ -417,6 +416,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("KopfWelt",1);
  ph.add("LebensEntwurf",1);
  ph.add("LockFutureSex",4);
+ ph.add("MenschMaschinenMensch",1);
  ph.add("MindBroker",1);
  ph.add("MindEyes",1);
  ph.add("MindId",1);

@@ -23,7 +23,7 @@
  } else {%>
 <html>
  <head>
-  <title>WelCome RaWa! (<%=sc%>)</title>
+  <title>Hi RaWa! (<%=sc%>)</title>
   <meta name="viewport" content="width=240"/>
 
 <script src="https://cdn.rawgit.com/google/closure-library/master/closure/goog/base.js"></script><script>

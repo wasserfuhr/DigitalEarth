@@ -4,7 +4,7 @@
  </head>
  <body>
   <h1>ElectricOcean</h1>
-  <p>use the cursor to navigat, SPACE for metal and "b" for bridges.</p>
+  <p>use the cursor to navigate, SPACE for metal, "b" for bridges and "g" for gates.</p>
   <canvas height="320" id="c" style="border:1px solid #aaa;" width="240"></canvas>
 <script>
  var x=5;
@@ -100,6 +100,11 @@
      ctx.arc(i*b+b/2,j*b+3*b/2,b*0.8,5*Math.PI/4,7*Math.PI/4);
      ctx.stroke();
     }
+    if (4==g[i][j]) {
+     ctx.strokeStyle='#000';
+     ctx.strokeRect(i*b+b/2,j*b,1,b);
+     ctx.strokeRect(i*b,j*b+b/2,b/2,0);
+    }
     ctx.fillStyle='#f00';
     //ctx.fillText(ch[i][j].toString(16),i*20+8,j*20+12);
    }
@@ -126,6 +131,7 @@
     g[x][y]=3;
   }
   if (event.keyCode==71) { //gate
+    g[x][y]=4;
   }
   if (event.keyCode==32) { //SPACE
    if(1==g[x][y]) {
