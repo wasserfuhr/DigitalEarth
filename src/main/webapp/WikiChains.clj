@@ -41,14 +41,18 @@ a {
        [:form {:method "post"}
         [:table
          [:tr
-          [:td {:style "vertical-align:top"} "tag:" [:input {:name "tag"}] [:input {:type "submit"}]]]
+          [:td {:style "vertical-align:top" :rowspan 2}
+           [:h3 "RecentChanges"]
+           [:ul
+            [:li "FriPa"]
+            [:li "UnParty"]
+            [:li "WikiChains"]]]
+          [:td {:style "vertical-align:top"} "PageName:" [:input {:name "tag" :value "FriPa"}] [:input {:type "submit"}]]]
          [:tr
-          [:td {:style "vertical-align:top"} "script:" [:textarea {:name "script"}]]]]]
-
+          [:td {:style "vertical-align:top"} "PageContent:" [:textarea {:name "script"}]]]]]
      [:br]
-     "beat: " [:span#beat (formatHash (hash "HashBeat"))]
-
- [:script "
+     [:small "ChainHead: " [:span#beat (formatHash (hash "HashBeat"))]]
+     [:script "
 var sessionHash ='" (formatHash (hash "HashBeat")) "';
 var sessionPrefix='" cookie "';
 var remoteHost='" (.getRemoteHost rq) "';
