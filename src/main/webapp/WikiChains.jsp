@@ -1,8 +1,25 @@
 <%@ page pageEncoding="UTF-8"%><%@page import="
-java.security.MessageDigest"%>
+java.io.PushbackReader,
+java.io.StringReader,
+java.nio.file.Files,
+java.nio.file.Paths,
+java.security.MessageDigest,
+clojure.lang.Compiler,
+clojure.lang.IFn,
+clojure.lang.LispReader,
+clojure.lang.RT"%><%
+ //eval CloJure:
+ String home=System.getProperty("user.home");
+ RT.loadResourceScript("hiccup/core.clj");
+ String c=new String(Files.readAllBytes(Paths.get(home+"/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/WikiChains.clj")));
+ PushbackReader pr = new PushbackReader(new StringReader(c));
+ Object rootHandlerExpr=LispReader.read( pr, true, null, false);
+ IFn rootHandlerFn=(IFn) Compiler.eval( rootHandlerExpr);
+%><%=rootHandlerFn.invoke(request,response)%>
+--
 <html>
  <head>
-  <title>SemperBase</title>
+  <title>WikiChains « SemperBase</title>
   <script src="http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/sha256.js"></script>
   <script src="https://rawgit.com/dfahlander/Dexie.js/master/dist/latest/Dexie.min.js"></script>
  </head>
@@ -27,6 +44,7 @@ String h="#"+javax.xml.bind.DatatypeConverter.printHexBinary(hash.digest());
  <span id="count">?</span> items.
  <input>
  <textarea></textarea>
+%>
  <br/>
  beat: <span id="beat">?</span>.
 <script>
@@ -81,6 +99,5 @@ window.onload = function() {
   note.innerHTML += '<li>Object store created.</li>';
  };
 };</script>
-chain:
-</body>
+ </body>
 </html>
