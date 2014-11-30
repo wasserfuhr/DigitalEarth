@@ -18,8 +18,7 @@
    [:html
     [:head
      [:title "WikiChains « SemperBase"]
-     [:meta {:http-equiv "Content-type"
-           :content "text/html; charset=utf-8"}]
+     [:meta {:http-equiv "Content-type" :content "text/html; charset=utf-8"}]
      [:style {:type "text/css"} "
 body {
  background: #000;
@@ -37,31 +36,35 @@ a {
      [:p "chains of WikiPage's."]
      [:div#note]
      [:span#count "?"] " items."
-       [:h2 "ScriptEditor:"]
-       [:form {:method "post"}
-        [:table
-         [:tr
-          [:td {:style "vertical-align:top" :rowspan 2}
-           [:h3 "RecentChanges"]
-           [:ul
-            [:li "FriPa"]
-            [:li "UnParty"]
-            [:li "WikiChains"]]]
-          [:td {:style "vertical-align:top"} "PageName:" [:input {:name "tag" :value "FriPa"}] [:input {:type "submit"}]]]
-         [:tr
-          [:td {:style "vertical-align:top"} "PageContent:" [:textarea {:name "script"}]]]]]
+     [:form {:method "post"}
+      [:table
+       [:tr
+        [:td {:style "vertical-align:top; padding-right:20px" :rowspan 2}
+         "RecentChanges:"
+         [:ul
+          [:li "FriPa"]
+          [:li "UnParty"]
+          [:li "WikiChains"]]]
+        [:td {:style "vertical-align:top"}
+         "PageName:"]
+        [:td {:style "vertical-align:top"}
+         [:input {:name "tag" :value "FriPa"}] [:input {:type "submit" :value "save"}]]]
+       [:tr
+        [:td {:style "vertical-align:top"} "PageContent:"]
+        [:td {:style "vertical-align:top"}
+         [:textarea {:name "script"}]]]]]
      [:br]
      [:small "ChainHead: " [:span#beat (formatHash (hash "HashBeat"))]]
      [:script "
 var sessionHash ='" (formatHash (hash "HashBeat")) "';
-var sessionPrefix='" cookie "';
+var sessionPrefix='" (.substring cookie 0 8) "';
 var remoteHost='" (.getRemoteHost rq) "';
 
 document.getElementById('beat').innerHTML=CryptoJS.SHA256('HashBeat');
 
-var db = new Dexie('MyDatabase1');
+var db = new Dexie('MyDb1');
 // Define a schema
-db.version(1)
+db.version(30)
 .stores({data:'hash,parent,size'
 });
 
