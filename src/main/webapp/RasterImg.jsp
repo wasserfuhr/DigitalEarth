@@ -5,7 +5,8 @@ java.awt.Color,
 javax.imageio.ImageIO"%>
 <html>
  <head>
-  <meta http-equiv="refresh" content="4; URL=http://sl4.eu/buy">
+  <meta name="viewport" content="width=device-width"/>
+  <meta http-equiv="refresh" content="4; URL=http://sl4.eu/buy"/>
  </head>
  <body>
  <div style="text-align:center">

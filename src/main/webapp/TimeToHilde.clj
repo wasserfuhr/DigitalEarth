@@ -19,8 +19,8 @@ body {
 a {
  color: #0f0;
 }"]]
-   [:body]
-    [:canvas#c {:width 320 :height 140}]
+   [:body {:style "text-align:center"}
+    [:canvas#c {:width 320 :height 80}]
     [:br]
     [:span#st]
     [:script "
@@ -44,10 +44,12 @@ var pins=[
 
 var ctx=document.getElementById('c').getContext('2d');
 
-var p=4;
+var p=3;
 var l=20;
 
 function hori(x,y) {
+ x+=2*p;
+ y+=2*p;
  ctx.beginPath();
  ctx.moveTo(x-p,y);
  ctx.lineTo(x,y-p);
@@ -60,6 +62,8 @@ function hori(x,y) {
 }
 
 function vert(x,y) {
+ x+=2*p;
+ y+=2*p;
  ctx.beginPath();
  ctx.moveTo(x,y-p);
  ctx.lineTo(x+p,y);
@@ -75,13 +79,13 @@ function digit(v,x) {
  //https://en.wikipedia.org/wiki/Seven-segment_display#Displaying_letters
  var h=pins[v];
  var c=0;
- if ('1'==h.substring(c++,c)) hori(10+x,10+l);
- if ('1'==h.substring(c++,c)) vert(10+x+l,10+l);
- if ('1'==h.substring(c++,c)) vert(10+x+l,10+l+2*p);
- if ('1'==h.substring(c++,c)) hori(10+x,10+2*l);
- if ('1'==h.substring(c++,c)) vert(10+x,10+l+2*p);
- if ('1'==h.substring(c++,c)) vert(10+x,10+2*l+2*p);
- if ('1'==h.substring(c++,c)) hori(10+x,10+l);
+ if ('1'==h.substring(c++,c)) hori(x,0);
+ if ('1'==h.substring(c++,c)) vert(x+l,0);
+ if ('1'==h.substring(c++,c)) vert(x+l,l+2*p);
+ if ('1'==h.substring(c++,c)) hori(x,2*l+2*p);
+ if ('1'==h.substring(c++,c)) vert(x,l+2*p);
+ if ('1'==h.substring(c++,c)) vert(x,0);
+ if ('1'==h.substring(c++,c)) hori(x,l+p);
 }
 
 function tick() {
@@ -92,14 +96,13 @@ function tick() {
  var t0=Math.floor(now.getTime()/1000);
  var t16=t0.toString(16);
  document.getElementById('st').innerHTML='st'+t16;
- var vs='';
+ var t00=(5*(1<<28)+4*(1<<24)+8*(1<<20)+11*(1<<16)+6*(1<<12))-t0; //st548b6
  for (var i=0; i<8; i++) {
-  var v=(t0>>(4*(8-i)))&15;
-  vs+=v;
+  var v=(t00>>(4*(7-i)))&15;
   digit(v,i*l*2);
  }
- //console.log(vs);
+ //console.log(t00);
 }
 
 setInterval(tick,1000);
-"]])))
+"]]]))))
