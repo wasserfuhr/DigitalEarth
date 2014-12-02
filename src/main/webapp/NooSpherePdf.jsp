@@ -207,6 +207,21 @@ com.itextpdf.text.pdf.PdfWriter
  response.setContentType("application/pdf");
  response.setHeader("Content-Disposition", "inline; filename=\"TapeOut"+tapeOut+"Rc"+rc+".pdf\"");
 
+   Cookie[] cookies = request.getCookies();
+   String sc="";
+   if( cookies != null) {
+    for (int i = 0; i < cookies.length; i++){
+     if ("JSESSIONID".equals( cookies[i].getName())) {
+      sc=cookies[i].getValue();
+      System.out.println(">"+sc+"<");
+     }
+    }
+   }
+   Cookie sec=new Cookie("SemperCookie",sc);
+   sec.setMaxAge(Integer.MAX_VALUE);
+   response.addCookie(sec);
+
+
  Document doc = new Document();
  ByteArrayOutputStream baos = new ByteArrayOutputStream();
  final PdfWriter writer = PdfWriter.getInstance(doc, baos);
@@ -281,15 +296,7 @@ com.itextpdf.text.pdf.PdfWriter
  Date now=new Date();
  Process ps = Runtime.getRuntime().exec("git log -1",null,new File(sDir));
  ps.waitFor();
- Cookie[] cookies = request.getCookies();
- String sc="";
- if( cookies != null) {
-  for (int i = 0; i < cookies.length; i++){
-   if ("SemperCookie".equals( cookies[i].getName())) {
-    sc=cookies[i].getValue();
-   }
-  }
- }
+
  String commit = new BufferedReader(new InputStreamReader(ps.getInputStream())).readLine();
  String h=
   "CreatedBy planet.sl4.eu"+request.getServletPath()+
@@ -298,7 +305,9 @@ com.itextpdf.text.pdf.PdfWriter
   "on "+new SimpleDateFormat("yyyy-MM-dd:HHmmss ZZ").format(now)+
   " ("+now.getTime()+", st"+ String.format("%08x",now.getTime()/1000)+")"+
   "\nAufLage"+rel+", TapeOut"+tapeOut+", ~RelCan "+rc+", "+commit+
-  "\nSemperCookieHash: #"+("1".equals(sc)?"063bd77036b211daede5108a33b3c19b6fc26db09f1a4906fd86749f3883e78e":"???");
+  "\nSemperCookieHash: #"+
+   "8566f4524ba8f866589bedd2507d2160416d56ce7db3c3a3feb9654b0315cbdc");
+  //("1".equals(sc)?"063bd77036b211daede5108a33b3c19b6fc26db09f1a4906fd86749f3883e78e":"???");
  pv=new Paragraph(h,new Font(FontFamily.COURIER,8));
  pv.setSpacingBefore(20);
  pv.setAlignment(Element.ALIGN_CENTER);
