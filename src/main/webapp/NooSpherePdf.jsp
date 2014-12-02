@@ -203,7 +203,7 @@ com.itextpdf.text.pdf.PdfWriter
 <% // http://itextpdf.com/examples/iia.php?id=173
  short rel=6;
  String tapeOut="548";
- short rc=1;
+ short rc=2;
  response.setContentType("application/pdf");
  response.setHeader("Content-Disposition", "inline; filename=\"TapeOut"+tapeOut+"Rc"+rc+".pdf\"");
 
@@ -323,6 +323,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("SeeLe",1);
  ph.add("SoFort",1);
  ph.add("AnFang",1);
+ //ph.add("VorWort547",4);
  ph.add("AriadneFaden",1);
  ph.add("TraumPaare",3);
  ph.add("InnBankSe",4);
@@ -360,6 +361,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("RayKurzweil",1);
  ph.add("GrossHausVision",4);
  ph.add("WindelWelt",1);
+ ph.add("TafelDrama",4);
  ph.add("HampelMann",3);
  ph.add("NoMic",1);
  ph.add("FactOrFiction",3);
