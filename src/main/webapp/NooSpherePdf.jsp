@@ -306,7 +306,7 @@ com.itextpdf.text.pdf.PdfWriter
   " ("+now.getTime()+", st"+ String.format("%08x",now.getTime()/1000)+")"+
   "\nAufLage"+rel+", TapeOut"+tapeOut+", ~RelCan "+rc+", "+commit+
   "\nSemperCookieHash: #"+
-   "8566f4524ba8f866589bedd2507d2160416d56ce7db3c3a3feb9654b0315cbdc");
+   "8566f4524ba8f866589bedd2507d2160416d56ce7db3c3a3feb9654b0315cbdc";
   //("1".equals(sc)?"063bd77036b211daede5108a33b3c19b6fc26db09f1a4906fd86749f3883e78e":"???");
  pv=new Paragraph(h,new Font(FontFamily.COURIER,8));
  pv.setSpacingBefore(20);
