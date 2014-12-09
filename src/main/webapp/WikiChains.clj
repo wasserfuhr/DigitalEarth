@@ -14,12 +14,16 @@
      (apply str
       (map #(format "%02x" (bit-and % 0xff))
        hash)))]
-  (hiccup.core/html "<!DOCTYPE html>"
-   [:html
-    [:head
-     [:title "WikiChains « SemperBase"]
-     [:meta {:http-equiv "Content-type" :content "text/html; charset=utf-8"}]
-     [:style {:type "text/css"} "
+  (if s
+   (let [
+     now (.getTime (java.util.Date.))]
+    (str "ToDo: " s))
+   (hiccup.core/html "<!DOCTYPE html>"
+    [:html
+     [:head
+      [:title "WikiChains « SemperBase"]
+      [:meta {:http-equiv "Content-type" :content "text/html; charset=utf-8"}]
+      [:style {:type "text/css"} "
 body {
  background: #000;
  color: #0f0;
@@ -28,44 +32,44 @@ body {
 a {
  color: #0f0;
 }"]
-     [:script {:src "https://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/sha256.js"}]
-     [:script {:src "https://rawgit.com/dfahlander/Dexie.js/master/dist/latest/Dexie.min.js"}]]
-    [:body
-     [:h1 "WikiChains"]
-     [:h2 "(experimental)"]
-     [:p "chains of WikiPage's."]
-     [:div#note]
-     [:span#count "?"] " items."
-     [:form {:method "post"}
-      [:table
-       [:tr
-        [:td {:style "vertical-align:top; padding-right:20px" :rowspan 2}
-         "RecentChanges:"
-         [:ul
-          [:li "FriPa"]
-          [:li "UnParty"]
-          [:li "WikiChains"]]]
-        [:td {:style "vertical-align:top"}
-         "PageName:"]
-        [:td {:style "vertical-align:top"}
-         [:input {:name "tag" :value "FriPa"}] [:input {:type "submit" :value "save"}]]]
-       [:tr
-        [:td {:style "vertical-align:top"} "PageContent:"]
-        [:td {:style "vertical-align:top"}
-         [:textarea {:name "script"}]]]]]
-     [:br]
-     [:small "ChainHead: " [:span#beat (formatHash (hash "HashBeat"))]]
-     [:script "
+      [:script {:src "https://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/sha256.js"}]
+      [:script {:src "https://rawgit.com/dfahlander/Dexie.js/master/dist/latest/Dexie.min.js"}]]
+     [:body
+      [:h1 "WikiChains"]
+      [:h2 "(experimental)"]
+      [:p "chains of WikiPage's."]
+      [:div#note]
+      [:span#count "?"] " items."
+      [:form {:method "post"}
+       [:table
+        [:tr
+         [:td {:style "vertical-align:top; padding-right:20px" :rowspan 2}
+          "RecentChanges:"
+          [:ul
+           [:li "FriPa"]
+           [:li "UnParty"]
+           [:li "WikiChains"]]]
+         [:td {:style "vertical-align:top"}
+          "PageName:"]
+         [:td {:style "vertical-align:top"}
+          [:input {:name "tag" :value "FriPa"}] [:input {:type "submit" :value "save"}]]]
+        [:tr
+         [:td {:style "vertical-align:top"} "PageContent:"]
+         [:td {:style "vertical-align:top"}
+          [:textarea {:name "script"}]]]]]
+      [:br]
+      [:small "ChainHead: " [:span#beat (formatHash (hash "HashBeat"))]]
+      [:script "
 var sessionHash ='" (formatHash (hash "HashBeat")) "';
 var sessionPrefix='" (.substring cookie 0 8) "';
 var remoteHost='" (.getRemoteHost rq) "';
 
 document.getElementById('beat').innerHTML=CryptoJS.SHA256('HashBeat');
 
-var db = new Dexie('MyDb1');
+var db = new Dexie('SemperBase');
 // Define a schema
-db.version(30)
-.stores({data:'hash,parent,size'
+db.version(1)
+.stores({data:'hash,p0,p1,p2,p3,tag,script,size'
 });
 
 db.open()
@@ -81,4 +85,4 @@ db.data
 
 db.data.count(function(ct){
  document.getElementById('count').innerHTML=ct;});"]
-]])))
+]]))))

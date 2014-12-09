@@ -8,7 +8,7 @@
   (hiccup.core/html "<!DOCTYPE html>"
    [:html
     [:head
-     [:title "TimeToHilde « SemperBase"]
+     [:title "HildeKommt « SemperBase"]
      [:meta {:http-equiv "Content-type" :content "text/html; charset=utf-8"}]
      [:style {:type "text/css"} "
 body {
@@ -22,7 +22,7 @@ a {
    [:body {:style "text-align:center"}
     [:canvas#c {:width 320 :height 80}]
     [:br]
-    [:span#st]
+    [:a#st {:href "http://time.sl4.eu/"}]
     [:script "
 var pins=[
  '1111110',//0
