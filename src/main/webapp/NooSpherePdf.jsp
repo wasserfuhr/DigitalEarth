@@ -201,9 +201,9 @@ com.itextpdf.text.pdf.PdfWriter
  }
 %>
 <% // http://itextpdf.com/examples/iia.php?id=173
- short rel=6;
- String tapeOut="548";
- short rc=2;
+ short rel=7;
+ String tapeOut="549";
+ short rc=1;
  response.setContentType("application/pdf");
  response.setHeader("Content-Disposition", "inline; filename=\"TapeOut"+tapeOut+"Rc"+rc+".pdf\"");
 
@@ -348,6 +348,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("MeinPlaton",1);
  ph.add("AtariSt",1);
  ph.add("UniKl",1);
+ ph.add("MissBliss",3);
  ph.add("AlanTuring",1);
  ph.add("MooresLaw",1);
  ph.add("SiSanien",1);
