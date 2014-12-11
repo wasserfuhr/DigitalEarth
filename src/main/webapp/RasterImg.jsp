@@ -6,7 +6,24 @@ javax.imageio.ImageIO"%>
 <html>
  <head>
   <meta name="viewport" content="width=device-width"/>
+<%
+ Cookie[] cookies = request.getCookies();
+ String sc="";
+ if( cookies != null) {
+  for (int i = 0; i < cookies.length; i++){
+   if ("SemperCookie".equals( cookies[i].getName())) {
+    sc=cookies[i].getValue();
+    System.out.println(">"+sc+"<");
+   }
+  }
+ }
+ String sl="buy";
+ if (sc.startsWith("1")) { //SemperCookie
+  sl="sl4";%>
+  <meta http-equiv="refresh" content="4; URL=http://sl4.eu/sl4"/>
+<% } else { %>
   <meta http-equiv="refresh" content="4; URL=http://sl4.eu/buy"/>
+<% } %>
  </head>
  <body>
  <div style="text-align:center">
