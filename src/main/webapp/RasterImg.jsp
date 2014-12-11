@@ -13,17 +13,12 @@ javax.imageio.ImageIO"%>
   for (int i = 0; i < cookies.length; i++){
    if ("SemperCookie".equals( cookies[i].getName())) {
     sc=cookies[i].getValue();
-    System.out.println(">"+sc+"<");
+    System.out.println(">SemperCookie: "+sc+"<");
    }
   }
  }
- String sl="buy";
- if (sc.startsWith("1")) { //SemperCookie
-  sl="sl4";%>
-  <meta http-equiv="refresh" content="4; URL=http://sl4.eu/sl4"/>
-<% } else { %>
-  <meta http-equiv="refresh" content="4; URL=http://sl4.eu/buy"/>
-<% } %>
+ String sl=sc.startsWith("1")?"sl4":"buy";%>
+  <meta http-equiv="refresh" content="4; URL=http://sl4.eu/<%=sl%>"/>
  </head>
  <body>
  <div style="text-align:center">
