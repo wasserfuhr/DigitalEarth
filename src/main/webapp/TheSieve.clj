@@ -16,7 +16,7 @@
      [:table {:style "font-family: monospace"}
       (map
        (fn [f]
-        [:tr (map (fn [j] [:td {:style "color:#bbb" :id (str "i" f j)} f j]) 
+        [:tr (map (fn [j] [:td {:style "color:#bbb" :id (str "i" f j)} ]) 
          ;(range 10)
          (rest (.split "0123456789abcdef" "")))])
        ;(range 10)
@@ -37,11 +37,14 @@ document.getElementById('i02').style.color='#f00';
 var off=0;
 var base=16;
 
+function cif(i) {
+}
+
 function draw() {
  for (var i=0;i<base*base;i++) {
   d=document.getElementById('i'+(i<base?'0':'')+i.toString(16));
   d.style.color='#ccc';
-  d.innerHTML=(i+off).toString(16);
+  d.innerHTML=(i+off<base*base?'0':'')+(i+off).toString(16);
  }
 
  curr=2;
@@ -70,7 +73,7 @@ function more() {
 
 for (var i=0;i<gaps.length;i++) {
  curr+=gaps[i];
- d=document.getElementById('i'+(curr<10?'0':'')+curr);
+ d=document.getElementById('i'+(curr<base?'0':'')+curr);
  //if(d)d.innerHTML='*'+curr;
  if(d)d.style.color='#000';//innerHTML='*'+curr;
  s+=String.fromCharCode(gaps[i]);//.charCodeAt(0);
@@ -99,7 +102,7 @@ db.data.count(function(ct){
 document.getElementById('ct').innerHTML=gaps.length+1;
 document.getElementById('max').innerHTML=curr;
 //console.log('>'+s+'<');
-
+draw();
 page=1<<16;
 start=new Date().getTime();
 
