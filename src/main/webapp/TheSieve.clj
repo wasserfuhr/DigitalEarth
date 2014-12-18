@@ -12,13 +12,16 @@
      [:p "A (soon distributed) " [:a {:href "http://c2.com/cgi/wiki?SieveOfEratosthenes"} "SieveOfEratosthenes"]"."]
      [:p "we know the first " [:span#ct] " primes, up to " [:span#max] "."]
      ;[:p [:input {:value 100 :size 8}] "th prime: " [:span#p 541] "."]
-     [:a {:href "#" :onclick "less()"}"less..."]
-     [:table
+     [:a {:href "#" :onclick "less()"} "less..."]
+     [:table {:style "font-family: monospace"}
       (map
        (fn [f]
-        [:tr (map (fn [j] [:td {:style "color:#bbb" :id (str "i" f j)} f j])(range 10))])
-       (range 10))]
-     [:a {:href "#" :onclick "more()"}"more..."]
+        [:tr (map (fn [j] [:td {:style "color:#bbb" :id (str "i" f j)} f j]) 
+         ;(range 10)
+         (rest (.split "0123456789abcdef" "")))])
+       ;(range 10)
+       (rest (.split "0123456789abcdef" "")))]
+     [:a {:href "#" :onclick "more()"} "more..."]
      [:script "
 //https://oeis.org/A001223
 var gaps=[1,2,2,4,2,4,2,4,6,2,6,4,2,4,6,6,2,6,4,2,6,4,6,8,4,2,4,
@@ -29,39 +32,39 @@ var sieve=new Set();
 var curr=2;
 //GoogleChrome copes with numbers up to Math.pow(2,54) (but only 1<<30)
 var s='';
-document.getElementById('i02').style.color='#000';
-//innerHTML='*'+curr;
+document.getElementById('i02').style.color='#f00';
 
 var off=0;
+var base=16;
 
 function draw() {
- for (var i=0;i<100;i++) {
-  d=document.getElementById('i'+(i<10?'0':'')+i);
+ for (var i=0;i<base*base;i++) {
+  d=document.getElementById('i'+(i<base?'0':'')+i.toString(16));
   d.style.color='#ccc';
-  d.innerHTML=i+off;
+  d.innerHTML=(i+off).toString(16);
  }
 
  curr=2;
  for (var i=0;i<gaps.length;i++) {
   curr+=gaps[i];
   j=curr-off;
-  d=document.getElementById('i'+(j<10?'0':'')+j);
+  d=document.getElementById('i'+(j<base?'0':'')+j.toString(16));
   if(d)d.style.color='#000';
  }
  for(i of sieve){
   j=i-off;
-  d=document.getElementById('i'+(j<10?'0':'')+j);
+  d=document.getElementById('i'+(j<base?'0':'')+j.toString(16));
   if(d)d.style.color='#000';
  }
 }
 
 function less() {
- off-=100;
+ off-=base*base;
  draw();
 }
 
 function more() {
- off+=100;
+ off+=base*base;
  draw();
 }
 
@@ -97,7 +100,7 @@ document.getElementById('ct').innerHTML=gaps.length+1;
 document.getElementById('max').innerHTML=curr;
 //console.log('>'+s+'<');
 
-page=1<<14;
+page=1<<16;
 start=new Date().getTime();
 
 for(i=curr;i<curr+page;i+=2) {
@@ -132,9 +135,11 @@ console.log('MaxGap: '+gap+' between '+prev+' and '+i);
  } 
 }
 
+
 console.log('in '+(new Date().getTime()-start)+'msec:');
 console.log(sieve);
 console.log(gap);
 document.getElementById('ct').innerHTML=gaps.length+sieve.size;
 document.getElementById('max').innerHTML=last;
+setInterval(more,1000);
 "]]])))
