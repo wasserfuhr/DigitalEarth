@@ -17,6 +17,7 @@
        (fn [f]
         [:tr (map (fn [j] [:td {:style "color:#bbb" :id (str "i" f j)} f j])(range 10))])
        (range 10))]
+     [:a {:href "#" :onclick "more()"}"more..."]
      [:script "
 //https://oeis.org/A001223
 var gaps=[1,2,2,4,2,4,2,4,6,2,6,4,2,4,6,6,2,6,4,2,6,4,6,8,4,2,4,
@@ -28,6 +29,27 @@ var curr=2;
 var s='';
 document.getElementById('i02').style.color='#000';
 //innerHTML='*'+curr;
+
+var off=0;
+
+function draw() {
+ curr=2;
+ for (var i=0;i<100;i++) {
+  d=document.getElementById('i'+(i<10?'0':'')+i);
+  if(d)d.innerHTML=i+off;
+ }
+
+ for (var i=0;i<gaps.length;i++) {
+  curr+=gaps[i];
+  if(d)d.style.color='#000';
+ }
+}
+
+function more() {
+ off+=20;
+ draw();
+}
+
 for (var i=0;i<gaps.length;i++) {
  curr+=gaps[i];
  d=document.getElementById('i'+(curr<10?'0':'')+curr);
@@ -35,7 +57,7 @@ for (var i=0;i<gaps.length;i++) {
  if(d)d.style.color='#000';//innerHTML='*'+curr;
  s+=String.fromCharCode(gaps[i]);//.charCodeAt(0);
 }
-var db = new Dexie('PrimeBase');
+/*var db = new Dexie('PrimeBase');
 // Define a schema
 db.version(1)
 .stores({data:'nth,gaps,size'
@@ -55,7 +77,7 @@ db.data
 db.data.count(function(ct){
  //document.getElementById('count').innerHTML=ct;
 });
-
+*/
 document.getElementById('ct').innerHTML=gaps.length+1;
 document.getElementById('max').innerHTML=curr;
 //console.log('>'+s+'<');
