@@ -22,6 +22,8 @@
        ;(range 10)
        (rest (.split "0123456789abcdef" "")))]
      [:a {:href "#" :onclick "more()"} "more..."]
+     [:br]
+     [:a {:href "#" :onclick "auto=0"} "pause"]
      [:script "
 //https://oeis.org/A001223
 var gaps=[1,2,2,4,2,4,2,4,6,2,6,4,2,4,6,6,2,6,4,2,6,4,6,8,4,2,4,
@@ -44,15 +46,15 @@ function draw() {
  for (var i=0;i<base*base;i++) {
   d=document.getElementById('i'+(i<base?'0':'')+i.toString(16));
   d.style.color='#ccc';
-  d.innerHTML=(i+off<base*base?'0':'')+(i+off).toString(16);
+  d.innerHTML=(i+off<base?'0':'')+(i+off<base*base?'0':'')+(i+off).toString(16);
  }
 
  curr=2;
  for (var i=0;i<gaps.length;i++) {
-  curr+=gaps[i];
   j=curr-off;
   d=document.getElementById('i'+(j<base?'0':'')+j.toString(16));
   if(d)d.style.color='#000';
+  curr+=gaps[i];
  }
  for(i of sieve){
   j=i-off;
@@ -66,8 +68,9 @@ function less() {
  draw();
 }
 
+var auto=base*base;
 function more() {
- off+=base*base;
+ off+=auto;
  draw();
 }
 
@@ -138,11 +141,10 @@ console.log('MaxGap: '+gap+' between '+prev+' and '+i);
  } 
 }
 
-
 console.log('in '+(new Date().getTime()-start)+'msec:');
 console.log(sieve);
 console.log(gap);
 document.getElementById('ct').innerHTML=gaps.length+sieve.size;
 document.getElementById('max').innerHTML=last;
-setInterval(more,1000);
+setInterval(more,1<<11);
 "]]])))
