@@ -12,6 +12,11 @@
      [:p "A distributed " [:a {:href "http://c2.com/cgi/wiki?SieveOfEratosthenes"} "SieveOfEratosthenes"]"."]
      [:p "we know the first " [:span#ct] " primes, up to " [:span#max] "."]
      [:p [:input {:value 100 :size 8}] "th prime: " [:span#p 541] "."]
+     [:table
+      (map
+       (fn [f]
+        [:tr (map (fn [j] [:td {:style "color:#bbb" :id (str "i" f j)} f j])(range 10))])
+       (range 10))]
      [:script "
 //https://oeis.org/A001223
 var gaps=[1,2,2,4,2,4,2,4,6,2,6,4,2,4,6,6,2,6,4,2,6,4,6,8,4,2,4,
@@ -21,8 +26,13 @@ var gaps=[1,2,2,4,2,4,2,4,6,2,6,4,2,4,6,6,2,6,4,2,6,4,6,8,4,2,4,
 var curr=2;
 //GoogleChrome copes with numbers up to Math.pow(2,54) (but only 1<<30)
 var s='';
+document.getElementById('i02').style.color='#000';
+//innerHTML='*'+curr;
 for (var i=0;i<gaps.length;i++) {
  curr+=gaps[i];
+ d=document.getElementById('i'+(curr<10?'0':'')+curr);
+ //if(d)d.innerHTML='*'+curr;
+ if(d)d.style.color='#000';//innerHTML='*'+curr;
  s+=String.fromCharCode(gaps[i]);//.charCodeAt(0);
 }
 var db = new Dexie('PrimeBase');
@@ -50,23 +60,44 @@ document.getElementById('ct').innerHTML=gaps.length+1;
 document.getElementById('max').innerHTML=curr;
 //console.log('>'+s+'<');
 
+page=1<<14;
+start=new Date().getTime();
 var sieve=new Set();
-for(i=curr;i<curr+65536;i+=2) {
+for(i=curr;i<curr+page;i+=2) {
  sieve.add(i);
 }
 iCurr=2;
+var last=-1;
 for(i=0;i<gaps.length;i++){
  iCurr+=gaps[i];
- for(j=iCurr*2;j<curr+65536;j+=iCurr){
+ last=i;
+ for(j=iCurr*2;j<curr+page;j+=iCurr){
   sieve.delete(j);
-// curr
  }
 }
-for(i in sieve){
- for(j=i*2;j<curr+65536;j+=i){
-//  sieve.delete(curr+j);
-// curr
+for(i of sieve){
+ last=i;
+ for(j=i*2;j<curr+page;j+=i){
+  sieve.delete(j);
  }
 }
+var gap=0;
+var prev=0;
+for(i of sieve){
+ if(prev==0) {
+  prev=i;
+ } else {
+  if(gap<i-prev) {
+   gap=i-prev;  
+console.log('MaxGap: '+gap+' between '+prev+' and '+i);
+  }
+  prev=i;
+ } 
+}
+
+console.log('in '+(new Date().getTime()-start)+'msec:');
 console.log(sieve);
+console.log(gap);
+document.getElementById('ct').innerHTML=gaps.length+sieve.size;
+document.getElementById('max').innerHTML=last;
 "]]])))
