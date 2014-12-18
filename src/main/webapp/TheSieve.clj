@@ -9,9 +9,10 @@
      [:script {:src "https://rawgit.com/dfahlander/Dexie.js/master/dist/latest/Dexie.min.js"}]]
     [:body
      [:h1 "TheSieve"]
-     [:p "A distributed " [:a {:href "http://c2.com/cgi/wiki?SieveOfEratosthenes"} "SieveOfEratosthenes"]"."]
+     [:p "A (soon distributed) " [:a {:href "http://c2.com/cgi/wiki?SieveOfEratosthenes"} "SieveOfEratosthenes"]"."]
      [:p "we know the first " [:span#ct] " primes, up to " [:span#max] "."]
-     [:p [:input {:value 100 :size 8}] "th prime: " [:span#p 541] "."]
+     ;[:p [:input {:value 100 :size 8}] "th prime: " [:span#p 541] "."]
+     [:a {:href "#" :onclick "less()"}"less..."]
      [:table
       (map
        (fn [f]
@@ -24,6 +25,7 @@ var gaps=[1,2,2,4,2,4,2,4,6,2,6,4,2,4,6,6,2,6,4,2,6,4,6,8,4,2,4,
  2,4,14,4,6,2,10,2,6,6,4,6,6,2,10,2,4,2,12,12,4,2,4,6,2,10,6,6,6,
  2,6,4,2,10,14,4,2,4,14,6,10,2,4,6,8,6,6,4,6,8,4,8,10,2,10,2,6,4,
  6,8,4,2,4,12,8,4,8,4,6,12,2,18];
+var sieve=new Set();
 var curr=2;
 //GoogleChrome copes with numbers up to Math.pow(2,54) (but only 1<<30)
 var s='';
@@ -33,20 +35,33 @@ document.getElementById('i02').style.color='#000';
 var off=0;
 
 function draw() {
- curr=2;
  for (var i=0;i<100;i++) {
   d=document.getElementById('i'+(i<10?'0':'')+i);
-  if(d)d.innerHTML=i+off;
+  d.style.color='#ccc';
+  d.innerHTML=i+off;
  }
 
+ curr=2;
  for (var i=0;i<gaps.length;i++) {
   curr+=gaps[i];
+  j=curr-off;
+  d=document.getElementById('i'+(j<10?'0':'')+j);
+  if(d)d.style.color='#000';
+ }
+ for(i of sieve){
+  j=i-off;
+  d=document.getElementById('i'+(j<10?'0':'')+j);
   if(d)d.style.color='#000';
  }
 }
 
+function less() {
+ off-=100;
+ draw();
+}
+
 function more() {
- off+=20;
+ off+=100;
  draw();
 }
 
@@ -84,7 +99,7 @@ document.getElementById('max').innerHTML=curr;
 
 page=1<<14;
 start=new Date().getTime();
-var sieve=new Set();
+
 for(i=curr;i<curr+page;i+=2) {
  sieve.add(i);
 }
