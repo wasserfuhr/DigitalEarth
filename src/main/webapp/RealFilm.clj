@@ -32,8 +32,15 @@ var w=640;
 var h=480;
 function tick() {
  var p=(new Date().getTime()-start)/1000;
- ctx.fillStyle='#000';
- ctx.fillRect(0,0,1024,512);
+ ctx.fillStyle='#111';
+ ctx.fillRect(0,0,w,h);
+ ctx.fillStyle='#0f0';
+ for(i=1;i<5;i++) {
+  ctx.fillRect(i*w/4,0,0.25,h);
+ }
+ for(i=1;i<3;i++) {
+  ctx.fillRect(0,i*h/3,w,0.25);
+ }
  if (p<4) {
   fade=255;
  } else {
@@ -47,16 +54,17 @@ function tick() {
  ctx.textAlign='center';
  ctx.textBaseline='middle';
  ctx.font='bold 64px Courier';
- ctx.fillText(t16,160,120);
+ ctx.fillText(t16,w/2,h/2);
  ctx.fillStyle='#fff';
  if (p>4) {
-  ctx.fillRect(w/4,h/3,(p-4)*w/2,1);
+  ctx.fillRect(w/4,h/6,(p-4)*w/2,1);
   ctx.fillRect(w/4,h/3, 1,(p-4)*w/2);
-  ctx.fillRect(3*w/4-(p-4)*w/2,2*h/3,(p-4)*w/2,1);
+  ctx.fillRect(3*w/4-(p-4)*w/2,5*h/6,(p-4)*w/2,1);
   ctx.fillRect(3*w/4-(p-4)*w/2,2*h/3,1,(p-4)*w/2);
  }
  if (p>8) {
-  ctx.font='bold 128px Serif';
+  ctx.font='bold 256px Serif';
+  ctx.fillStyle='#444';
   ctx.fillText('N',w/2,h/2);
  }
  if (p>16) {
