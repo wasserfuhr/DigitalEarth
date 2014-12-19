@@ -10,7 +10,8 @@
     [:body
      [:h1 "TheSieve"]
      [:p "A (soon distributed) " [:a {:href "http://c2.com/cgi/wiki?SieveOfEratosthenes"} "SieveOfEratosthenes"]"."]
-     [:p "we know the first " [:span#ct] " primes, up to " [:span#max] "."]
+     [:p "we know the first " [:span#ct] " "
+      [:a {:href "https://en.wikipedia.org/wiki/Prime_number"} "primes"] ", up to " [:span#max] "."]
      ;[:p [:input {:value 100 :size 8}] "th prime: " [:span#p 541] "."]
      [:a {:href "#" :onclick "less()"} "less..."]
      [:table {:style "font-family: monospace"}
