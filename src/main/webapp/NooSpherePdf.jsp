@@ -1,4 +1,4 @@
-<%@ page pageEncoding="UTF-8"%><%@page import="
+0;256;0c<%@ page pageEncoding="UTF-8"%><%@page import="
 java.io.BufferedReader,
 java.io.ByteArrayOutputStream,
 java.io.File,
@@ -201,9 +201,9 @@ com.itextpdf.text.pdf.PdfWriter
  }
 %>
 <% // http://itextpdf.com/examples/iia.php?id=173
- short rel=7;
- String tapeOut="549";
- short rc=2;
+ short rel=8;
+ String tapeOut="54a";
+ short rc=1;
  response.setContentType("application/pdf");
  response.setHeader("Content-Disposition", "inline; filename=\"TapeOut"+tapeOut+"Rc"+rc+".pdf\"");
 
@@ -336,6 +336,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("AriadneFaden",1);
  ph.add("TraumPaare",3);
  ph.add("InnBankSe",4);
+ ph.add("LebensKunst",1);
  ph.add("SchickSaal",3);
  ph.add("ZukunftsRomanGlossar",1);
  ph.add("DeepBlue",1);

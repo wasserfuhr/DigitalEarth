@@ -26,10 +26,21 @@ a {
     [:script "
 var ctx=document.getElementById('c').getContext('2d');
 
+var start=new Date().getTime();
+
+var w=320;
+var h=240;
 function tick() {
+ var p=(new Date().getTime()-start)/1000;
  ctx.fillStyle='#000';
  ctx.fillRect(0,0,1024,512);
- ctx.fillStyle='#0f0';
+ if (p<4) {
+  fade=255;
+ } else {
+  fade=(10-p)*255/6;
+ }
+ ctx.fillStyle='rgb(0,'+Math.floor(fade)+',0)';
+ //ctx.fillStyle='rgb(0,155,0)';
  var now=new Date();
  var t0=Math.floor((2038-1970)*365*24*60*60-now.getTime()/1000);
  var t16=t0.toString(16);
@@ -37,9 +48,21 @@ function tick() {
  ctx.textBaseline='middle';
  ctx.font='bold 64px Courier';
  ctx.fillText(t16,160,120);
- // ctx.fillRect(512,0,1,512);
-
+ ctx.fillStyle='#fff';
+ if (p>4) {
+  ctx.fillRect(w/4,h/3,(p-4)*w/2,1);
+  ctx.fillRect(w/4,h/3, 1,(p-4)*w/2);
+  ctx.fillRect(3*w/4-(p-4)*w/2,2*h/3,(p-4)*100,1);
+  ctx.fillRect(3*w/4-(p-4)*w/2,2*h/3,1,(p-4)*100);
+ }
+ if (p>9) {
+  ctx.font='bold 256px Serif';
+  ctx.fillText('N',w/2,h/2);
+ }
+ if (p>12) {
+  ctx.font='bold 32px Serif';
+  ctx.fillText('NooSphere',w/2,h/2);
+ }
 }
-
-setInterval(tick,1000);
+setInterval(tick,100);
 "]]]))))
