@@ -24,12 +24,15 @@ a {
     [:br]
     [:a#st {:href "http://film.sl4.eu/"}]
     [:script "
-var ctx=document.getElementById('c').getContext('2d');
+var c=document.getElementById('c');
+var ctx=c.getContext('2d');
 
 var start=new Date().getTime();
 
-var w=640;
-var h=480;
+var w=640*2;
+var h=480*2;
+c.width=w;
+c.height=h;
 function tick() {
  var p=(new Date().getTime()-start)/1000;
  ctx.fillStyle='#111';
@@ -57,9 +60,9 @@ function tick() {
  ctx.fillText(t16,w/2,h/2);
  ctx.fillStyle='#fff';
  if (p>4) {
-  ctx.fillRect(w/4,h/6,(p-4)*w/2,1);
-  ctx.fillRect(w/4,h/3, 1,(p-4)*w/2);
-  ctx.fillRect(3*w/4-(p-4)*w/2,5*h/6,(p-4)*w/2,1);
+  ctx.fillRect(w/4,h/6,Math.min(w/2,(p-4)/2*w/2),1);
+  ctx.fillRect(w/4,h/6, 1,Math.min(w/2,(p-4)*w/2));
+  ctx.fillRect(3*w/4-(p-4)*w/2,5*h/6,Math.min(w/2,(p-4)*w/2),1);
   ctx.fillRect(3*w/4-(p-4)*w/2,2*h/3,1,(p-4)*w/2);
  }
  if (p>8) {
@@ -67,8 +70,8 @@ function tick() {
   ctx.fillStyle='#444';
   ctx.fillText('N',w/2,h/2);
  }
- if (p>16) {
-  ctx.font='bold 32px Serif';
+ if (p>1) {
+  ctx.font='bold '+p*2+'px Serif';
   ctx.fillStyle='#f00';
   ctx.fillText('»NooSphere«',w/2,h/2);
  }
