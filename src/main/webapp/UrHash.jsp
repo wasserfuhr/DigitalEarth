@@ -1,14 +1,9 @@
 <%@page import="
 java.io.File,
-java.io.PushbackReader,
-java.io.StringReader,
+java.util.Vector,
 com.almworks.sqlite4java.SQLite,
 com.almworks.sqlite4java.SQLiteConnection,
-com.almworks.sqlite4java.SQLiteStatement,
-clojure.lang.Compiler,
-clojure.lang.IFn,
-clojure.lang.LispReader,
-clojure.lang.RT"%><%
+com.almworks.sqlite4java.SQLiteStatement"%><%
 SQLiteConnection db=null;
 try {
  //http://stackoverflow.com/questions/585534/what-is-the-best-way-to-find-the-users-home-directory-in-java
@@ -25,8 +20,17 @@ try {
  db = new SQLiteConnection(new File(home+"/UrBase.sqlite"));
  db.open(true);
  db.exec("PRAGMA foreign_keys = ON");
+ 
  SQLiteStatement st=db.prepare("SELECT id FROM a2 order by createdAt desc");
+ Vector v=new Vector();
  while( st.step()) {
-  %><%=st.columnBlob(0)%><%
+  v.add(st.columnBlob(0));
  }
+ int l=v.size();
+ byte[] c = new byte[32*l];
+ for (int i=0;i<l;i++) {
+  //byte[] b=
+  System.arraycopy((byte[])v.get(i), 0, c, 0, 32);
+ }
+%><%=c.length%><%
 } finally { db.dispose();}%>
