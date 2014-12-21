@@ -19,8 +19,7 @@ try {
  SQLite.setLibraryPath(sLib);
  db = new SQLiteConnection(new File(home+"/UrBase.sqlite"));
  db.open(true);
- db.exec("PRAGMA foreign_keys = ON");
- 
+ db.exec("PRAGMA foreign_keys = ON"); 
  SQLiteStatement st=db.prepare("SELECT id FROM a2 order by createdAt desc");
  Vector v=new Vector();
  while( st.step()) {
@@ -29,8 +28,7 @@ try {
  int l=v.size();
  byte[] c = new byte[32*l];
  for (int i=0;i<l;i++) {
-  //byte[] b=
-  System.arraycopy((byte[])v.get(i), 0, c, 0, 32);
+  System.arraycopy((byte[])v.get(i), 0, c, l*32, 32);
  }
 %><%=c.length%><%
 } finally { db.dispose();}%>
