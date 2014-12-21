@@ -1,4 +1,4 @@
-0;256;0c<%@ page pageEncoding="UTF-8"%><%@page import="
+<%@ page pageEncoding="UTF-8"%><%@page import="
 java.io.BufferedReader,
 java.io.ByteArrayOutputStream,
 java.io.File,
@@ -343,6 +343,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("GeBurt",1);
  ph.add("GenSeidenFaden",1);
  ph.add("FliederChen",4);
+ ph.add("LeckToRat",4);
  ph.add("CommodoreSixtyFour",1);
  ph.add("BeuteSchema",1);
  ph.add("IceCream2019",1);

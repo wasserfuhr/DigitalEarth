@@ -1,6 +1,7 @@
 <%@page import="
 java.io.File,
 java.util.Vector,
+java.security.MessageDigest,
 com.almworks.sqlite4java.SQLite,
 com.almworks.sqlite4java.SQLiteConnection,
 com.almworks.sqlite4java.SQLiteStatement"%><%
@@ -28,7 +29,9 @@ try {
  int l=v.size();
  byte[] c = new byte[32*l];
  for (int i=0;i<l;i++) {
-  System.arraycopy((byte[])v.get(i), 0, c, l*32, 32);
+  System.arraycopy((byte[])v.get(i), 0, c, i*32, 32);
  }
-%><%=c.length%><%
+ MessageDigest hash=MessageDigest.getInstance("SHA-256");
+ hash.update(c); 
+%><%=c.length+"+#"+javax.xml.bind.DatatypeConverter.printHexBinary(hash.digest()).toLowerCase()%><%
 } finally { db.dispose();}%>
