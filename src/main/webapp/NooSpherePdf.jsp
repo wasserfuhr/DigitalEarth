@@ -207,20 +207,19 @@ com.itextpdf.text.pdf.PdfWriter
  response.setContentType("application/pdf");
  response.setHeader("Content-Disposition", "inline; filename=\"TapeOut"+tapeOut+"Rc"+rc+".pdf\"");
 
-   Cookie[] cookies = request.getCookies();
-   String sc="";
-   if( cookies != null) {
-    for (int i = 0; i < cookies.length; i++){
-     if ("JSESSIONID".equals( cookies[i].getName())) {
-      sc=cookies[i].getValue();
-      System.out.println(">"+sc+"<");
-     }
-    }
+ Cookie[] cookies = request.getCookies();
+ String sc="";
+ if( cookies != null) {
+  for (int i = 0; i < cookies.length; i++){
+   if ("JSESSIONID".equals( cookies[i].getName())) {
+    sc=cookies[i].getValue();
+    System.out.println(">"+sc+"<");
    }
-   Cookie sec=new Cookie("SemperCookie",sc);
-   sec.setMaxAge(Integer.MAX_VALUE);
-   response.addCookie(sec);
-
+  }
+ }
+ Cookie sec=new Cookie("SemperCookie",sc);
+ sec.setMaxAge(Integer.MAX_VALUE);
+ response.addCookie(sec);
 
  Document doc = new Document();
  ByteArrayOutputStream baos = new ByteArrayOutputStream();
@@ -344,8 +343,10 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("GenSeidenFaden",1);
  ph.add("FliederChen",4);
  ph.add("LeckToRat",4);
+ ph.add("FaceBook",1);
  ph.add("CommodoreSixtyFour",1);
  ph.add("BeuteSchema",1);
+ ph.add("FansOfIso8601",3);
  ph.add("IceCream2019",1);
  ph.add("MeinPlaton",1);
  ph.add("AtariSt",1);
@@ -356,12 +357,12 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("SiSanien",1);
  ph.add("TalDerAhnungslosen",1);
  ph.add("ThaliaCamp",4);
- ph.add("FansOfIso8601",3);
  ph.add("UbiComp",1);
  ph.add("KurbelWelle",1);
  ph.add("UnsereGeschichte",1);
  ph.add("TraumFirma548",4);
  ph.add("TwentyFirstCentury",1);
+ ph.add("SehnSucht",1);
  ph.add("ZeitSprung",1);
  ph.add("MindTower",1);
  ph.add("AlbertPlatz",1);
@@ -371,6 +372,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("SeaNation",1);
  ph.add("DieMacht",1);
  ph.add("TrueMan",1);
+ ph.add("HautAnHaut",4);
  ph.add("RayKurzweil",1);
  ph.add("GrossHausVision",4);
  ph.add("WindelWelt",1);
