@@ -201,9 +201,9 @@ com.itextpdf.text.pdf.PdfWriter
  }
 %>
 <% // http://itextpdf.com/examples/iia.php?id=173
- short rel=8;
- String tapeOut="54a";
- short rc=2;
+ short rel=9;
+ String tapeOut="54b";
+ short rc=1;
  response.setContentType("application/pdf");
  response.setHeader("Content-Disposition", "inline; filename=\"TapeOut"+tapeOut+"Rc"+rc+".pdf\"");
 
@@ -462,6 +462,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("WandelDruck",1);
  ph.add("WindelWeltFragmente",1);
  ph.add("WortSchatz",1);
+ ph.add("ZeroResistance",1);
  ph.add("ZuKunft",1);
 
  //

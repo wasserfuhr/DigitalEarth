@@ -22,17 +22,17 @@ a {
    [:body {:style "text-align:center"}
     [:canvas#c {:width 640 :height 480}]
     [:br]
-    [:a#st {:href "http://film.sl4.eu/"}]
-    [:input {:value "-" :type "button" :onclick "rota0(-10)"}]
-    [:input {:value "+" :type "button" :onclick "rota0(10)"}]
+    [:a#st {:href "http://time.sl4.eu/"}]
+    [:input {:value "-" :type "button" :onclick "rota0(-15)"}]
+    [:input {:value "+" :type "button" :onclick "rota0(15)"}]
     " "
-    [:input {:value "-" :type "button" :onclick "rota1(-10)"}]
-    [:input {:value "+" :type "button" :onclick "rota1(10)"}]
+    [:input {:value "-" :type "button" :onclick "rota1(-15)"}]
+    [:input {:value "+" :type "button" :onclick "rota1(15)"}]
     [:script "
 var c=document.getElementById('c');
 var ctx=c.getContext('2d');
-var rot0=-70;
-var rot1=-45;
+var rot0=-75;
+var rot1=45;
 
 var start=new Date().getTime();
 
@@ -57,7 +57,8 @@ function tick() {
  ctx.fillStyle='orange';
  ctx.strokeStyle='orange';
  ctx.beginPath();
- ctx.translate(200,200);
+ ctx.translate(320,200);
+ ctx.arc(0,0,12,0,2*Math.PI);
  ctx.rotate(rot0*Math.PI/180);
  ctx.moveTo(0,-12);
  ctx.lineTo(100,-6);
@@ -66,10 +67,11 @@ function tick() {
  ctx.stroke();
  ctx.textBaseline='middle';
  ctx.font='bold 12px Courier';
- ctx.fillText('PiBo',10,0);
+ ctx.fillText('PiBo',16,0);
  ctx.beginPath();
  ctx.translate(100,0);
  ctx.rotate(rot1*Math.PI/180);
+ ctx.arc(0,0,6,0,2*Math.PI);
  ctx.moveTo(0,-6);
  ctx.lineTo(80,-4);
  ctx.lineTo(80,4);
