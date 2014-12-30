@@ -3,8 +3,17 @@
  <body>
   PathInfo: <%=request.getPathInfo()%><br/>
   QueryString: <%=request.getQueryString()%><br/>
+  RemoteAddr: <%=request.getRemoteAddr()%><br/>
+  RemoteHost: <%=request.getRemoteHost()%><br/>
   RequestURI: <%=request.getRequestURI()%><br/>
-  ServletPath: <%=request.getServletPath()%></br>
+  ServletPath: <%=request.getServletPath()%><br/>
+  UserAgent: <%=request.getHeader("User-Agent")%><br/>
+  <br/>
+  Cookies:
+<%Cookie[] cookies = request.getCookies();
+for(Cookie c:cookies){%>
+<br/><%=c.getName()%> <%=c.getMaxAge()%> <%=c.getValue()%>
+<%}%>
 <script>
  var st=<%=new java.util.Date().getTime()%>;
  var stl=new Date().getTime();

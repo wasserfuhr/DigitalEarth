@@ -22,26 +22,24 @@ a {
    [:body {:style "text-align:center"}
     [:canvas#c {:width 640 :height 480}]
     [:br]
-    [:a#st {:href "http://time.sl4.eu/"}]
-    [:input {:value "-" :type "button" :onclick "rota0(-15)"}]
-    [:input {:value "+" :type "button" :onclick "rota0(15)"}]
+    [:input {:value "-" :type "button" :onclick "rota(0,-15)"}]
+    [:input {:value "+" :type "button" :onclick "rota(0,15)"}]
     " "
-    [:input {:value "-" :type "button" :onclick "rota1(-15)"}]
-    [:input {:value "+" :type "button" :onclick "rota1(15)"}]
+    [:input {:value "-" :type "button" :onclick "rota(1,-15)"}]
+    [:input {:value "+" :type "button" :onclick "rota(1,15)"}]
+    " "
+    [:input {:value "-" :type "button" :onclick "rota(2,-15)"}]
+    [:input {:value "+" :type "button" :onclick "rota(2,15)"}]
     [:script "
 var c=document.getElementById('c');
 var ctx=c.getContext('2d');
-var rot0=-75;
-var rot1=45;
+
+var rots=[-75,45,45];
 
 var start=new Date().getTime();
 
-function rota0(b) {
- rot0+=b;
- tick();
-}
-function rota1(b) {
- rot1+=b;
+function rota(i,b) {
+ rots[i]+=b;
  tick();
 }
 
@@ -59,23 +57,32 @@ function tick() {
  ctx.beginPath();
  ctx.translate(320,200);
  ctx.arc(0,0,12,0,2*Math.PI);
- ctx.rotate(rot0*Math.PI/180);
+ ctx.rotate(rots[0]*Math.PI/180);
  ctx.moveTo(0,-12);
  ctx.lineTo(100,-6);
  ctx.lineTo(100,6);
- ctx.lineTo(0,12);//+50*Math.sin(rot1*Math.PI/180),100+50*Math.cos(rot1*Math.PI/180));
+ ctx.lineTo(0,12);
  ctx.stroke();
  ctx.textBaseline='middle';
  ctx.font='bold 12px Courier';
  ctx.fillText('PiBo',16,0);
  ctx.beginPath();
  ctx.translate(100,0);
- ctx.rotate(rot1*Math.PI/180);
+ ctx.rotate(rots[1]*Math.PI/180);
  ctx.arc(0,0,6,0,2*Math.PI);
  ctx.moveTo(0,-6);
  ctx.lineTo(80,-4);
  ctx.lineTo(80,4);
  ctx.lineTo(0,6);
+ ctx.stroke();
+ ctx.beginPath();
+ ctx.translate(80,0);
+ ctx.rotate(rots[2]*Math.PI/180);
+ ctx.arc(0,0,4,0,2*Math.PI);
+ ctx.moveTo(0,-5);
+ ctx.lineTo(60,-3);
+ ctx.lineTo(60,3);
+ ctx.lineTo(0,5);
  ctx.stroke();
 }
 //setInterval(tick,100);

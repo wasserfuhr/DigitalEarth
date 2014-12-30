@@ -152,7 +152,7 @@ com.itextpdf.text.pdf.PdfWriter
      pAdd.setLeading(0,2f);
     }
     if (line.contains("* MindQuote: ")) {
-     line=line.substring(12);
+     line=line.substring(13);
      pAdd=new Paragraph(line,
       new Font(FontFamily.TIMES_ROMAN,11,Font.ITALIC));
      pAdd.setAlignment(Element.ALIGN_JUSTIFIED);
@@ -323,6 +323,9 @@ com.itextpdf.text.pdf.PdfWriter
  sl(doc,1);
  ph.add("EndMontage",1);
  ph.add("DesSturmesWucht",1);
+ ph.add("ReSet",1);
+ ph.add("NurFuerVerRuchte",4);
+ ph.add("LeserInnen",1);
  ph.add("RoMa",1);
  ph.add("AlexanderGrothendieck",1);
  ph.add("RealRoman",1);
@@ -331,7 +334,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("SeeLe",1);
  ph.add("SoFort",1);
  ph.add("AnFang",1);
- //ph.add("VorWort547",4);
+ ph.add("VorWort547",4);
  ph.add("AriadneFaden",1);
  ph.add("TraumPaare",3);
  ph.add("InnBankSe",4);
@@ -343,6 +346,9 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("GenSeidenFaden",1);
  ph.add("FliederChen",4);
  ph.add("LeckToRat",4);
+ ph.add("AugenBlick",1);
+ ph.add("GegenWart",1);
+ ph.add("GoPlay",1);
  ph.add("FaceBook",1);
  ph.add("CommodoreSixtyFour",1);
  ph.add("BeuteSchema",1);
@@ -368,7 +374,9 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("AlbertPlatz",1);
  ph.add("GlasKugel",1);
  ph.add("VladimirLenin",1);
+ ph.add("SmallGroupOfCommittedPeople",3);
  ph.add("PieschenRevolution",1);
+ ph.add("ChangeAgent",3);
  ph.add("SeaNation",1);
  ph.add("DieMacht",1);
  ph.add("TrueMan",1);
