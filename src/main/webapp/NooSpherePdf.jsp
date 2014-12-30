@@ -78,6 +78,7 @@ com.itextpdf.text.pdf.PdfWriter
      break;
    }
    String content=new String(Files.readAllBytes(Paths.get(s)));
+   String st="st"+String.format("%08x",new File(s).lastModified()/1000);
    MessageDigest hash=MessageDigest.getInstance("SHA-256");
    hash.update(content.getBytes());
    String c;//=content.replaceAll("\r\n","\n");
@@ -102,7 +103,7 @@ com.itextpdf.text.pdf.PdfWriter
    pt.setSpacingAfter(2);
    doc.add(pt);
    String h="#"+javax.xml.bind.DatatypeConverter.printHexBinary(hash.digest());
-   doc.add(new Paragraph(h.toLowerCase()+" - wl"+wikiLevel,
+   doc.add(new Paragraph(h.toLowerCase()+" - "+ st+ " - wl"+wikiLevel,
     new Font(FontFamily.COURIER,7)));
 
    Paragraph p=new Paragraph("",
