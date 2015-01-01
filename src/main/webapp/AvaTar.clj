@@ -8,7 +8,7 @@
   (hiccup.core/html "<!DOCTYPE html>"
    [:html
     [:head
-     [:title "RealFilm « NooSphere"]
+     [:title "RaWaTar « NooSphere"]
      [:meta {:http-equiv "Content-type" :content "text/html; charset=utf-8"}]
      [:style {:type "text/css"} "
 body {
@@ -22,8 +22,8 @@ a {
    [:body {:style "text-align:center"}
     [:canvas#c {:width 640 :height 480}]
     [:br]
-    [:input {:value "-" :type "button" :onclick "rota(0,-15)"}]
-    [:input {:value "+" :type "button" :onclick "rota(0,15)"}]
+    [:input {:value "<" :type "button" :onclick "move(-15)"}]
+    [:input {:value ">" :type "button" :onclick "move(15)"}]
     " "
     [:input {:value "-" :type "button" :onclick "rota(1,-15)"}]
     [:input {:value "+" :type "button" :onclick "rota(1,15)"}]

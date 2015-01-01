@@ -34,6 +34,7 @@ var h=480*2;
 c.width=w;
 c.height=h;
 function tick() {
+ ctx.setTransform(1,0,0,1,0,0);
  var p=(new Date().getTime()-start)/1000;
  ctx.fillStyle='#111';
  ctx.fillRect(0,0,w,h);
@@ -66,14 +67,16 @@ function tick() {
   ctx.fillRect(3*w/4-(p-4)*w/2,2*h/3,1,(p-4)*w/2);
  }
  if (p>8) {
-  ctx.font='bold 256px Serif';
+  ctx.font='bold 512px Serif';
   ctx.fillStyle='#444';
   ctx.fillText('N',w/2,h/2);
  }
- if (p>1) {
-  ctx.font='bold '+p*2+'px Serif';
+ if (p<42) {
+  ctx.font='bold 256px Serif';
   ctx.fillStyle='#f00';
-  ctx.fillText('»NooSphere«',w/2,h/2);
+  ctx.translate(w/2,h/2);
+  ctx.scale(Math.min(p/32,0.8),Math.min(p/32,0.8));
+  ctx.fillText('»NooSphere«',0,0);
  }
 }
 setInterval(tick,100);
