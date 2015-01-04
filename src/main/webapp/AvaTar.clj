@@ -24,12 +24,6 @@ a {
     [:br]
     [:input {:value "<" :type "button" :onclick "move(-15)"}]
     [:input {:value ">" :type "button" :onclick "move(15)"}]
-    " "
-    [:input {:value "-" :type "button" :onclick "rota(1,-15)"}]
-    [:input {:value "+" :type "button" :onclick "rota(1,15)"}]
-    " "
-    [:input {:value "-" :type "button" :onclick "rota(2,-15)"}]
-    [:input {:value "+" :type "button" :onclick "rota(2,15)"}]
     [:script "
 var c=document.getElementById('c');
 var ctx=c.getContext('2d');
