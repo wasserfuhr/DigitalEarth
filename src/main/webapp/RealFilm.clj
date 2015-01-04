@@ -33,12 +33,30 @@ c.height=h;
 var start=new Date().getTime();
 var t;//time since start
 
-//extrapolate values
-function extra(points) {
- //points: array of [time,value]
+//interpolate values
+function ip(ps) {
+ //ps: array of [time,value]
+ if(t<ps[0][0]) {
+  return ps[0][1];
+ }
  var i=0;
- //while(i<point.length) {
- 
+ var ret=0;
+ while(i<ps.length-1) {
+  if (t<=ps[i+1][0]) {
+   //https://en.wikipedia.org/wiki/Linear_interpolation
+   var v= ps[i][1]+(ps[i+1][1]-ps[i][1])*(t-ps[i][0])/(ps[i+1][0]-ps[i][0]);
+   if(!v)
+    i=i;
+ret=v;
+break;
+//ToDo: why doesn'this work:
+   // return v;//ps[i][1]+(ps[i+1][1]-ps[i][1])*(t-ps[i][0])/(ps[i+1][0]-ps[i][0]);
+  } else {
+    ret=ps[i][1];
+  }
+  i++;
+ }
+ return ret;
 }
 
 function tick() {
@@ -54,8 +72,8 @@ function tick() {
   ctx.fillRect(0,i*h/3,w,0.25);
  }
  ctx.font='bold 64px serif';
- fade=extra(
-  [[0,0],[4,255]]);
+// fade=ip(
+  //[[0,0],[4,255]]);
  if (t<4) {
   fade=t*255/6;
  } else {
@@ -77,11 +95,15 @@ function tick() {
  if (t>=1 && t<=60) {
   ctx.fillText('- '+Math.floor(t)+' -',w/2,h*5/6);
  }
- if (t>4) {
-  ctx.fillRect(w/4,h/6,Math.min(w/2,(t-4)/2*w/2),1);
-  ctx.fillRect(w/4,h/6, 1,Math.min(w/2,(t-4)*w/2));
-  ctx.fillRect(3*w/4-(t-4)*w/2,5*h/6,Math.min(w/2,(t-4)*w/2),1);
-  ctx.fillRect(3*w/4-(t-4)*w/2,2*h/3,1,(t-4)*w/2);
+ if (t>0) {
+  var xs=[[1,0],[12,w/2]];
+  var ii=ip(xs);
+//console.log(t+': '+ii);
+  ctx.fillRect(w/4,h/6, ip(xs),1);
+  ctx.fillRect(w/4,h/6, 1, ip(xs));
+  var ps=[[1,0],[16,w/2]];
+ //ctx.fillRect(3*w/4-(t*w/2,5*h/6,Math.min(w/2,ip,1);
+ //ctx.fillRect(3*w/4-(t-4)*w/2,2*h/3,1,(t-4)*w/2);
  }
  if (t>8) {
   ctx.font='bold 512px Serif';
@@ -96,8 +118,8 @@ function tick() {
   ctx.fillText('»NooSphere«',0,0);
  }
 }
-setInterval(tick,100);
+setInterval(tick,300);
 "]
 ;GretChen1to60:
-[:iframe {:width 1 :height 1 :src "//www.youtube.com/embed/bDtK8WjxvDI?autoplay=1"}]
+;[:iframe {:width 1 :height 1 :src "//www.youtube.com/embed/bDtK8WjxvDI?autoplay=1"}]
 ]]))))
