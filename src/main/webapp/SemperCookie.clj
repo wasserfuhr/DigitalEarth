@@ -26,7 +26,7 @@ th {
 "]]
    [:body {:style "text-align:center"}
     [:h1 "SemperCookie"]
-    [:p "your current: " sc]
+    [:p "your current: " (.substring sc 0 6) "..."]
     [:p "cook a new one:"]
     [:a#st {:href "http://time.sl4.eu/"}]
     [:form {:method "POST"}
@@ -35,8 +35,23 @@ th {
        [:th "UserAgent:"]
        [:td (.getHeader rq "User-Agent")]]
       [:tr
+       [:th "WebDevice:"]
+       [:td [:input {:name "WebDevice"}]]]
+      [:tr
+       [:th "OsUser:"]
+       [:td [:input {:name "OsUser"}]]]
+      [:tr
        [:th "WidthHeight:"]
        [:td#xy]]
+      [:tr
+       [:th "WebBrowser:"]
+       [:td
+        [:select
+         [:option {:name "AnDroidBrowser"} "AnDroidBrowser"]
+         [:option {:name "FireFox"} "FireFox"]
+         [:option {:name "MsIe"} "MsIe"]
+         [:option {:name "NewBrowser"} "NewBrowser"]
+         ]]]
       [:tr
        [:th "FirstIpAddress:"]
        [:td (.getRemoteHost rq)]]
