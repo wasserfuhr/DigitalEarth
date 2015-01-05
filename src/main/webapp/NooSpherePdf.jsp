@@ -204,7 +204,7 @@ com.itextpdf.text.pdf.PdfWriter
 <% // http://itextpdf.com/examples/iia.php?id=173
  short rel=9;
  String tapeOut="54b";
- short rc=2;
+ short rc=3;
  response.setContentType("application/pdf");
  response.setHeader("Content-Disposition", "inline; filename=\"TapeOut"+tapeOut+"Rc"+rc+".pdf\"");
 
