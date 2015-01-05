@@ -23,5 +23,11 @@ a {
     [:h1 "SemperCookie"]
     [:a#st {:href "http://time.sl4.eu/"}]
     [:form {:method "POST"}
-     "YourSecret: " [:input {:type "password"}]]
+     "FirstIpAddress: " (.getRemoteHost rq)
+     [:br]
+     "UserAgent: " (.getHeader rq "User-Agent")
+     [:br]
+     "GloPeCo: " [:input {:name "GloPeCo"}]
+     [:br]
+     "YourSecret: " [:input {:type "password" :name "secret"}]]
 ]]))))
