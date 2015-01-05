@@ -204,7 +204,7 @@ com.itextpdf.text.pdf.PdfWriter
 <% // http://itextpdf.com/examples/iia.php?id=173
  short rel=9;
  String tapeOut="54b";
- short rc=1;
+ short rc=2;
  response.setContentType("application/pdf");
  response.setHeader("Content-Disposition", "inline; filename=\"TapeOut"+tapeOut+"Rc"+rc+".pdf\"");
 
@@ -365,6 +365,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("TalDerAhnungslosen",1);
  ph.add("ThaliaCamp",4);
  ph.add("UbiComp",1);
+ ph.add("UnTil2015",1);
  ph.add("KurbelWelle",1);
  ph.add("UnsereGeschichte",1);
  ph.add("TraumFirma548",4);

@@ -1,5 +1,6 @@
 (fn [rq rs]
  (let [
+   sc (apply str (map (fn [c] (if (.equals "SemperCookie" (.getName c)) (.getValue c))) (.getCookies rq)))
    formatHash
     (fn [hash]
      (apply str
@@ -18,16 +19,28 @@ body {
 }
 a {
  color: #0f0;
-}"]]
+}
+th {
+ text-align: left;
+}
+"]]
    [:body {:style "text-align:center"}
     [:h1 "SemperCookie"]
+    [:p "your current: " sc]
+    [:p "cook a new one:"]
     [:a#st {:href "http://time.sl4.eu/"}]
     [:form {:method "POST"}
-     "FirstIpAddress: " (.getRemoteHost rq)
-     [:br]
-     "UserAgent: " (.getHeader rq "User-Agent")
-     [:br]
-     "GloPeCo: " [:input {:name "GloPeCo"}]
-     [:br]
-     "YourSecret: " [:input {:type "password" :name "secret"}]]
+     [:table
+      [:tr
+       [:th "UserAgent:"]
+       [:td (.getHeader rq "User-Agent")]]
+      [:tr
+       [:td "FirstIpAddress:"]
+       [:td (.getRemoteHost rq)]]
+      [:tr
+       [:td "GloPeCo:"]
+       [:td [:input {:name "GloPeCo"}]]]
+      [:tr
+       [:td "YourSecret:"]
+       [:td [:input {:type "password" :name "secret"}]]]]]
 ]]))))
