@@ -26,7 +26,7 @@ th {
 "]]
    [:body {:style "text-align:center"}
     [:h1 "SemperCookie"]
-    [:p "your current: " (.substring sc 0 6) "..."]
+    [:p "your current: " (.substring (str sc "       ") 0 6) "..."]
     [:p "cook a new one:"]
     [:a#st {:href "http://time.sl4.eu/"}]
     [:form {:method "POST"}
@@ -47,11 +47,8 @@ th {
        [:th "WebBrowser:"]
        [:td
         [:select
-         [:option {:name "AnDroidBrowser"} "AnDroidBrowser"]
-         [:option {:name "FireFox"} "FireFox"]
-         [:option {:name "MsIe"} "MsIe"]
-         [:option {:name "NewBrowser"} "NewBrowser"]
-         ]]]
+         (map (fn [b] [:option {:name b} b])
+          ["AnDroidBrowser" "FireFox" "MsIe" "NewBrowser"])]]]
       [:tr
        [:th "FirstIpAddress:"]
        [:td (.getRemoteHost rq)]]
