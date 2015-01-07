@@ -36,21 +36,42 @@ var h=180*2;
 c.width=w;
 c.height=h;
 var maxMarsAu=1.7;
-function tick() {
- ctx.fillRect(0,0,w,h);
- ctx.setTransform(1,0,0,1,0,0);
- var p=(new Date().getTime()-start)/1000;
- d=Astronomy.Mars.EclipticCartesianCoordinates(p);
- ctx.arc(w/2+d.x,h/2+d.y,4,0,2*Math.PI);
+
+function drawPlanet(planet,color) {
+ var d=planet.EclipticCartesianCoordinates(p);
+ ctx.beginPath();
+ ctx.fillStyle=color;
+ var b=100;
+ ctx.arc(w/2-d.x*b,h/2+d.y*b,4,0,2*Math.PI);
+ ctx.fill();
  for(i=0;i<255;i++) {
+  var d1=planet.EclipticCartesianCoordinates(p-i);
+  var d2=planet.EclipticCartesianCoordinates(p-i-1);
   ctx.beginPath();
-  ctx.strokeStyle='rgb('+i+','+i+','+i+')';
-  ctx.arc(w/2,h/2,50,i/50,i/50+0.1);
+  var j=255-i;
+  ctx.strokeStyle='rgb('+j+','+j+','+j+')';
+  ctx.moveTo(w/2-d1.x*b,h/2+d1.y*b);
+  ctx.lineTo(w/2-d2.x*b,h/2+d2.y*b);
   ctx.stroke();
  }
- ctx.fillStyle='#111';
- ctx.fillStyle='orange';
 }
-setInterval(tick,1000);
+var p;
+
+function tick() {
+ ctx.fillStyle='#111';
+ ctx.fillRect(0,0,w,h);
+ ctx.setTransform(1,0,0,1,0,0);
+ p=(new Date().getTime()-start)/100;
+ ctx.beginPath();
+ ctx.fillStyle='yellow';
+ ctx.arc(w/2,h/2,8,0,2*Math.PI);
+ ctx.fill();
+ drawPlanet(Astronomy.Mercury,'yellow');
+ drawPlanet(Astronomy.Venus,'green');
+ drawPlanet(Astronomy.Earth,'blue');
+ drawPlanet(Astronomy.Mars,'red');
+}
+
+setInterval(tick,125);
 tick();
 "]]]))))
