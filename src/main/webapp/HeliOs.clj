@@ -8,7 +8,7 @@
   (hiccup.core/html "<!DOCTYPE html>"
    [:html
     [:head
-     [:title "RealFilm « NooSphere"]
+     [:title "HeliOs « NooSphere"]
      [:meta {:http-equiv "Content-type" :content "text/html; charset=utf-8"}]
      [:style {:type "text/css"} "
 body {
@@ -38,27 +38,29 @@ c.height=h;
 var maxMarsAu=1.7;
 
 function drawPlanet(planet,color) {
- var d=planet.EclipticCartesianCoordinates(p);
- ctx.beginPath();
- ctx.fillStyle=color;
  var b=100;
- ctx.arc(w/2-d.x*b,h/2+d.y*b,4,0,2*Math.PI);
- ctx.fill();
  for(i=0;i<255;i++) {
   var d1=planet.EclipticCartesianCoordinates(p-i);
   var d2=planet.EclipticCartesianCoordinates(p-i-1);
   ctx.beginPath();
   var j=255-i;
   ctx.strokeStyle='rgb('+j+','+j+','+j+')';
-  ctx.moveTo(w/2-d1.x*b,h/2+d1.y*b);
-  ctx.lineTo(w/2-d2.x*b,h/2+d2.y*b);
+  ctx.moveTo(w/2+d1.x*b,h/2-d1.y*b);
+  ctx.lineTo(w/2+d2.x*b,h/2-d2.y*b);
   ctx.stroke();
  }
+ var d=planet.EclipticCartesianCoordinates(p);
+ ctx.beginPath();
+ ctx.fillStyle=color;
+ ctx.arc(w/2+d.x*b,h/2-d.y*b,4,0,2*Math.PI);
+ ctx.fill();
+ ctx.textAlign='center';
+ ctx.fillText(planet.Name,w/2+d.x*b,h/2-d.y*b-6);
 }
 var p;
 
 function tick() {
- ctx.fillStyle='#111';
+ ctx.fillStyle='#000';
  ctx.fillRect(0,0,w,h);
  ctx.setTransform(1,0,0,1,0,0);
  p=(new Date().getTime()-start)/100;
@@ -72,6 +74,6 @@ function tick() {
  drawPlanet(Astronomy.Mars,'red');
 }
 
-setInterval(tick,125);
+setInterval(tick,125/4);
 tick();
 "]]]))))
