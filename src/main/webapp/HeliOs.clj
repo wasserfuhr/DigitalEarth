@@ -22,8 +22,7 @@ a {
    [:body {:style "text-align:center"}
     [:canvas#c {:width 640 :height 480}]
     [:br]
-    [:input {:value "-" :type "button" :onclick "rota(2,-15)"}]
-    [:input {:value "+" :type "button" :onclick "rota(2,15)"}]
+    [:input#labels {:type "checkbox"}] "show labels"
     [:script {:src "http://cosinekitty.com/astronomy.js"}]
     [:script "
 var c=document.getElementById('c');
@@ -37,43 +36,57 @@ c.width=w;
 c.height=h;
 var maxMarsAu=1.7;
 
-function drawPlanet(planet,color) {
+function drawPlanet(planet,period,color) {
  var b=100;
  for(i=0;i<255;i++) {
-  var d1=planet.EclipticCartesianCoordinates(p-i);
-  var d2=planet.EclipticCartesianCoordinates(p-i-1);
+  var d1=planet.EclipticCartesianCoordinates(Astronomy.DayValue(new Date(p.getTime()-i*period*120000000)));
+  var d2=planet.EclipticCartesianCoordinates(Astronomy.DayValue(new Date(p.getTime()-(i-1)*period*120000000)));
   ctx.beginPath();
   var j=255-i;
   ctx.strokeStyle='rgb('+j+','+j+','+j+')';
+//  ctx.strokeStyle='#fff';
   ctx.moveTo(w/2+d1.x*b,h/2-d1.y*b);
   ctx.lineTo(w/2+d2.x*b,h/2-d2.y*b);
   ctx.stroke();
  }
- var d=planet.EclipticCartesianCoordinates(p);
+ var d=planet.EclipticCartesianCoordinates(Astronomy.DayValue(p));
  ctx.beginPath();
  ctx.fillStyle=color;
  ctx.arc(w/2+d.x*b,h/2-d.y*b,4,0,2*Math.PI);
  ctx.fill();
- ctx.textAlign='center';
- ctx.fillText(planet.Name,w/2+d.x*b,h/2-d.y*b-6);
+ if (document.getElementById('labels').checked) {
+  ctx.textAlign='center';
+  ctx.font='10px Courier New';
+  ctx.fillText(planet.Name,w/2+d.x*b,h/2-d.y*b-6);
+ }
 }
-var p;
+
+var p=new Date();
+var speed=(1<<24)*4;
+var fps=8;
 
 function tick() {
- ctx.fillStyle='#000';
+ ctx.fillStyle='#111';
  ctx.fillRect(0,0,w,h);
  ctx.setTransform(1,0,0,1,0,0);
- p=(new Date().getTime()-start)/100;
+ p=new Date(p.getTime()+speed);
  ctx.beginPath();
  ctx.fillStyle='yellow';
  ctx.arc(w/2,h/2,8,0,2*Math.PI);
  ctx.fill();
- drawPlanet(Astronomy.Mercury,'yellow');
- drawPlanet(Astronomy.Venus,'green');
- drawPlanet(Astronomy.Earth,'blue');
- drawPlanet(Astronomy.Mars,'red');
+ ctx.lineWidth=0.5;
+ //http://en.wikipedia.org/wiki/Orbital_period#Relation_between_the_sidereal_and_synodic_periods
+ drawPlanet(Astronomy.Mercury,0.240846,'yellow');
+ drawPlanet(Astronomy.Venus,0.615,'green');
+ drawPlanet(Astronomy.Earth,1,'blue');
+ drawPlanet(Astronomy.Mars,1.881,'red');
+ var t16=Math.floor(p.getTime()/1000).toString(16).substring(0,4)+'....';
+ ctx.font='16px Courier New';
+ ctx.textAlign='left';
+ ctx.fillStyle='#0f0';
+ ctx.fillText('st'+t16,20,20);
 }
 
-setInterval(tick,125/4);
+setInterval(tick,1000/fps);
 tick();
 "]]]))))
