@@ -99,6 +99,7 @@ function drawPlanet(planet,period,color) {
 function tick() {
  var now=new Date().getTime();
  t=(now-start)/1000;
+ //pixel per AU
  b=ip([[0,8],[4,8],[10,9],[0x80,160],[0xff,1600]]);
  speed=speed*0.995;
  ctx.setTransform(1,0,0,1,0,0);
@@ -120,18 +121,20 @@ function tick() {
 
  // start geocentric shift
  ctx.setTransform(1,0,0,1,0,0);
- if(t>0x20) {
+ if(t>0x2) {
   var d=Astronomy.Earth.EclipticCartesianCoordinates(Astronomy.DayValue(p));
   var tt=ip([[0x20,0],[0x60,1],[0x2000,1]]);
   ctx.translate(-d.x*b*tt,d.y*b*tt);
+  var dist=Math.log2(w/b)-3;
+  widths=[8,1,2,1,4,1,2,1];
+  for(i=-16;i<16;i++) {
+   ctx.fillRect(i*b*dist*8,0,[i%8]/8,h);
+  }
  }
 
  //1 AU grid:
  ctx.fillStyle='#0f0';
- for(i=0;i<w/b+2;i++) {
-  ctx.fillRect(w/2+i*b,-h,(i%4)/4,3*h);
-  ctx.fillRect(w/2-i*b,-h,(i%4)/4,3*h);
- }
+
  for(i=0;i<h/b+2;i++) {
   ctx.fillRect(-w,h/2+i*b,3*w,0.25);
   ctx.fillRect(-w,h/2-i*b,3*w,0.25);
