@@ -36,6 +36,40 @@ c.width=w;
 c.height=h;
 var maxMarsAu=1.7;
 var b=4;
+var t; //seconds since start
+var p=new Date();
+var speed=(1<<27)*4;
+var fps=8;
+
+function inter(from,to) {
+ return t>=from && t<=to;
+}
+
+//interpolate values
+function ip(ps) {
+ //ps: array of [time,value]
+ if(t<ps[0][0]) {
+  return ps[0][1];
+ }
+ var i=0;
+ var ret=0;
+ while(i<ps.length-1) {
+  if (t<=ps[i+1][0]) {
+   //https://en.wikipedia.org/wiki/Linear_interpolation
+   var v= ps[i][1]+(ps[i+1][1]-ps[i][1])*(t-ps[i][0])/(ps[i+1][0]-ps[i][0]);
+   if(!v)
+    i=i;
+ret=v;
+break;
+//ToDo: why doesn'this work:
+   // return v;//ps[i][1]+(ps[i+1][1]-ps[i][1])*(t-ps[i][0])/(ps[i+1][0]-ps[i][0]);
+  } else {
+    ret=ps[i][1];
+  }
+  i++;
+ }
+ return ret;
+}
 
 function drawPlanet(planet,period,color) {
  for(i=0;i<255;i++) {
@@ -56,36 +90,49 @@ function drawPlanet(planet,period,color) {
  ctx.fill();
  if (document.getElementById('labels').checked) {
   ctx.textAlign='center';
-  ctx.textBaseline='top';
+  ctx.textBaseline='bottom';
   ctx.font='10px Courier New';
-  ctx.fillText(planet.Name,w/2+d.x*b,h/2-d.y*b-2);
+  ctx.fillText(planet.Name,w/2+d.x*b,h/2-d.y*b-3);
  }
-}
-var t; //seconds since start
-var p=new Date();
-var speed=(1<<30)*1;
-var fps=8;
-
-function inter(from,to) {
- return t>=from && t<=to;
 }
 
 function tick() {
  var now=new Date().getTime();
- if (now>start+(1<<12)) {
-  b+=0.05;
- }
+ t=(now-start)/1000;
+ b=ip([[0,4],[4,4],[10,5],[0x80,80],[0xff,1600]]);
+ speed=speed*0.995;
+ ctx.setTransform(1,0,0,1,0,0);
  ctx.fillStyle='#000';
  ctx.fillRect(0,0,w,h);
- ctx.setTransform(1,0,0,1,0,0);
  p=new Date(p.getTime()+speed);
- //1 Au grid:
+ var t16=Math.floor(p.getTime()/1000).toString(16).substring(0,4)+'....';
+ ctx.font='12px Courier New';
+ ctx.textAlign='left';
+ ctx.textBaseline='top';
  ctx.fillStyle='#0f0';
- for(i=0;i<w/b;i++) {
-  ctx.fillRect(w/2+i*b,0,0.25,h);
-  ctx.fillRect(w/2-i*b,0,0.25,h);
+ ctx.fillText('st'+t16,4,2);
+ ctx.textBaseline='bottom';
+ ctx.fillText('t'+((1<<16)+Math.floor(t)).toString(16).substring(1),4,h-2);
+ if ( inter(4,8) || inter(16,20) || inter(28,32)) {
+  ctx.textAlign='center';
+  ctx.fillText('Searching for intelligent life...',w/2,3/4*h);
  }
- for(i=0;i<h/b;i++) {
+
+ // start geocentric shift
+ ctx.setTransform(1,0,0,1,0,0);
+ if(t>0x20) {
+  var d=Astronomy.Earth.EclipticCartesianCoordinates(Astronomy.DayValue(p));
+  var tt=ip([[0x20,0],[0x60,1],[0x2000,1]]);
+  ctx.translate(-d.x*b*tt,d.y*b*tt);
+ }
+
+ //1 AU grid:
+ ctx.fillStyle='#0f0';
+ for(i=0;i<w/b+2;i++) {
+  ctx.fillRect(w/2+i*b,-h,0.25,3*h);
+  ctx.fillRect(w/2-i*b,-h,0.25,3*h);
+ }
+ for(i=0;i<h/b+2;i++) {
   ctx.fillRect(0,h/2+i*b,w,0.25);
   ctx.fillRect(0,h/2-i*b,w,0.25);
  }
@@ -95,7 +142,6 @@ function tick() {
  ctx.arc(w/2,h/2,8,0,2*Math.PI);
  ctx.fill();
 
- ctx.lineWidth=0.25;
  ctx.lineWidth=0.5;
  //http://en.wikipedia.org/wiki/Orbital_period#Relation_between_the_sidereal_and_synodic_periods
  drawPlanet(Astronomy.Mercury,0.240846,'yellow');
@@ -106,19 +152,8 @@ function tick() {
  drawPlanet(Astronomy.Saturn,29.4571,'white');
  drawPlanet(Astronomy.Uranus,84.016846,'white');
  drawPlanet(Astronomy.Neptune,164.8,'white');
- //ToDo:  eccentricity
+ //ToDo: add proper eccentricity
  //drawPlanet(Astronomy.Pluto,247.68,'white');
- var t16=Math.floor(p.getTime()/1000).toString(16).substring(0,4)+'....';
- ctx.font='12px Courier New';
- ctx.textAlign='left';
- ctx.textBaseline='top';
- ctx.fillStyle='#0f0';
- ctx.fillText('st'+t16,4,4);
- t=(now-start)/1000;
- if ( inter(4,8)) {
-  ctx.fillText('Searching for intelligent life...',4,120);
- }
- ctx.fillText('t'+((1<<16)+Math.floor(t)).toString(16).substring(1),4,390);
 }
 
 setInterval(tick,1000/fps);
