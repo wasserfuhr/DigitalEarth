@@ -22,7 +22,7 @@ a {
    [:body {:style "text-align:center"}
     [:canvas#c {:width 640 :height 480}]
     [:br]
-    [:input#labels {:type "checkbox"}] "show labels"
+    [:input#labels {:type "checkbox"}] "show names"
     [:script {:src "http://cosinekitty.com/astronomy.js"}]
     [:script "
 var c=document.getElementById('c');
@@ -30,15 +30,15 @@ var ctx=c.getContext('2d');
 
 var start=new Date().getTime();
 
-var w=400;
-var h=400;
+var w=640;
+var h=640;
 c.width=w;
 c.height=h;
 var maxMarsAu=1.7;
 var b=4;
 var t; //seconds since start
 var p=new Date();
-var speed=(1<<27)*4;
+var speed=(1<<29)*4;
 var fps=8;
 
 function inter(from,to) {
@@ -74,7 +74,7 @@ break;
 function drawPlanet(planet,period,color) {
  for(i=0;i<255;i++) {
   var d1=planet.EclipticCartesianCoordinates(Astronomy.DayValue(new Date(p.getTime()-i*period*120000000)));
-  var d2=planet.EclipticCartesianCoordinates(Astronomy.DayValue(new Date(p.getTime()-(i-1)*period*120000000)));
+  var d2=planet.EclipticCartesianCoordinates(Astronomy.DayValue(new Date(p.getTime()-(i+1)*period*120000000)));
   ctx.beginPath();
   var j=255-i;
   ctx.strokeStyle='rgb('+j+','+j+','+j+')';
@@ -86,7 +86,7 @@ function drawPlanet(planet,period,color) {
  var d=planet.EclipticCartesianCoordinates(Astronomy.DayValue(p));
  ctx.beginPath();
  ctx.fillStyle=color;
- ctx.arc(w/2+d.x*b,h/2-d.y*b,4,0,2*Math.PI);
+ ctx.arc(w/2+d.x*b,h/2-d.y*b,Math.max(2,4/b),0,2*Math.PI);
  ctx.fill();
  if (document.getElementById('labels').checked) {
   ctx.textAlign='center';
@@ -99,7 +99,7 @@ function drawPlanet(planet,period,color) {
 function tick() {
  var now=new Date().getTime();
  t=(now-start)/1000;
- b=ip([[0,4],[4,4],[10,5],[0x80,80],[0xff,1600]]);
+ b=ip([[0,8],[4,8],[10,9],[0x80,160],[0xff,1600]]);
  speed=speed*0.995;
  ctx.setTransform(1,0,0,1,0,0);
  ctx.fillStyle='#000';
@@ -129,17 +129,17 @@ function tick() {
  //1 AU grid:
  ctx.fillStyle='#0f0';
  for(i=0;i<w/b+2;i++) {
-  ctx.fillRect(w/2+i*b,-h,0.25,3*h);
-  ctx.fillRect(w/2-i*b,-h,0.25,3*h);
+  ctx.fillRect(w/2+i*b,-h,(i%4)/4,3*h);
+  ctx.fillRect(w/2-i*b,-h,(i%4)/4,3*h);
  }
  for(i=0;i<h/b+2;i++) {
-  ctx.fillRect(0,h/2+i*b,w,0.25);
-  ctx.fillRect(0,h/2-i*b,w,0.25);
+  ctx.fillRect(-w,h/2+i*b,3*w,0.25);
+  ctx.fillRect(-w,h/2-i*b,3*w,0.25);
  }
  //TheSun:
  ctx.beginPath();
  ctx.fillStyle='yellow';
- ctx.arc(w/2,h/2,8,0,2*Math.PI);
+ ctx.arc(w/2,h/2,Math.max(3,b*0.01),0,2*Math.PI);
  ctx.fill();
 
  ctx.lineWidth=0.5;
