@@ -23,6 +23,10 @@
      [:head
       [:title "BlogChains « SemperBase"]
       [:meta {:http-equiv "Content-type" :content "text/html; charset=utf-8"}]
+      [:script "
+function sync() {
+ alert('ToDo');
+}"]
       [:style {:type "text/css"} "
 body {
  //background: #000;
@@ -36,10 +40,10 @@ a {
       [:script {:src "https://rawgit.com/dfahlander/Dexie.js/master/dist/latest/Dexie.min.js"}]]
      [:body
       [:h1 "BlogChains"]
-      [:h2 "(experimental)"]
-      [:p "The BlockChain meets distributed MicroBlogging."]
+      [:h2 "Experimental: The BlockChain meets distributed MicroBlogging."]
       [:p "Today we often have far more unused storage on our computer and even SmartPhone."]
-      [:p "BlogChains uses this storage to keep the content of you and your friends inside your WebBrowser"]
+      [:p "»BlogChains« uses this storage to keep the content of you and your friends inside your WebBrowser"]
+      [:input {:type "submit" :value "sync" :onclick "sync()" }]
       [:div#note]
       [:span#count "?"] " items."
       [:form {:method "post"}
@@ -54,7 +58,7 @@ a {
          [:td {:style "vertical-align:top"}
           "Title:"]
          [:td {:style "vertical-align:top"}
-          [:input {:name "tag" :value "FriPa"}] [:input {:type "submit" :value "save"}]]]
+          [:input {:name "tag" :value "Your first posting"}] [:input {:type "submit" :value "post"}]]]
         [:tr
          [:td {:style "vertical-align:top"} "Content:"]
          [:td {:style "vertical-align:top"}
