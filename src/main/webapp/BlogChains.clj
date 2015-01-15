@@ -41,8 +41,9 @@ a {
      [:body
       [:h1 "BlogChains"]
       [:h2 "Experimental: The BlockChain meets distributed MicroBlogging."]
-      [:p "We now often have far more storage on our LapTop or SmartPhone than needed"]
-      [:p "»BlogChains« uses this storage to keep the content of you and your friends inside your WebBrowser"]
+      [:p "We now often have far more storage available on our LapTop or SmartPhone than needed to store the *entire* 
+content we and our friends create on FaceBook or TwittEr."]
+      [:p "»BlogChains« uses the storage inside a DataBase of your WebBrowser."]
       [:input {:type "submit" :value "sync" :onclick "sync()" }]
       [:div#note]
       [:span#count "?"] " items."
