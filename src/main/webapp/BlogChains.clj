@@ -41,7 +41,7 @@ a {
      [:body
       [:h1 "BlogChains"]
       [:h2 "Experimental: The BlockChain meets distributed MicroBlogging."]
-      [:p "Today we often have far more unused storage on our computer and even SmartPhone."]
+      [:p "We now often have far more storage on our LapTop or SmartPhone than needed"]
       [:p "»BlogChains« uses this storage to keep the content of you and your friends inside your WebBrowser"]
       [:input {:type "submit" :value "sync" :onclick "sync()" }]
       [:div#note]
