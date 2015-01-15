@@ -21,40 +21,42 @@
    (hiccup.core/html "<!DOCTYPE html>"
     [:html
      [:head
-      [:title "WikiChains « SemperBase"]
+      [:title "BlogChains « SemperBase"]
       [:meta {:http-equiv "Content-type" :content "text/html; charset=utf-8"}]
       [:style {:type "text/css"} "
 body {
- background: #000;
- color: #0f0;
+ //background: #000;
+ //color: #0f0;
  font-family: monospace;
 }
 a {
- color: #0f0;
+ //color: #0f0;
 }"]
       [:script {:src "https://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/sha256.js"}]
       [:script {:src "https://rawgit.com/dfahlander/Dexie.js/master/dist/latest/Dexie.min.js"}]]
      [:body
-      [:h1 "WikiChains"]
+      [:h1 "BlogChains"]
       [:h2 "(experimental)"]
-      [:p "chains of WikiPage's."]
+      [:p "The BlockChain meets distributed MicroBlogging."]
+      [:p "Today we often have far more unused storage on our computer and even SmartPhone."]
+      [:p "BlogChains uses this storage to keep the content of you and your friends inside your WebBrowser"]
       [:div#note]
       [:span#count "?"] " items."
       [:form {:method "post"}
        [:table
         [:tr
          [:td {:style "vertical-align:top; padding-right:20px" :rowspan 2}
-          "RecentChanges:"
+          "RecentPosts:"
           [:ul
            [:li "FriPa"]
            [:li "UnParty"]
            [:li "WikiChains"]]]
          [:td {:style "vertical-align:top"}
-          "PageName:"]
+          "Title:"]
          [:td {:style "vertical-align:top"}
           [:input {:name "tag" :value "FriPa"}] [:input {:type "submit" :value "save"}]]]
         [:tr
-         [:td {:style "vertical-align:top"} "PageContent:"]
+         [:td {:style "vertical-align:top"} "Content:"]
          [:td {:style "vertical-align:top"}
           [:textarea {:name "script"}]]]]]
       [:br]

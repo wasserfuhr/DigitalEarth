@@ -119,19 +119,18 @@ function tick() {
   ctx.fillText('Searching for intelligent life...',w/2,3/4*h);
  }
 
- var dist=Math.log2(w/b);
- var detail=Math.floor(dist);  
- var widths=[8,1,2,1,4,1,2,1];
  // start geocentric shift
  ctx.setTransform(1,0,0,1,0,0);
  if(t>0x2) {
   var d=Astronomy.Earth.EclipticCartesianCoordinates(Astronomy.DayValue(p));
   var tt=ip([[0x20,0],[0x60,1],[0x2000,1]]);
   ctx.translate(-d.x*b*tt,d.y*b*tt);
-
  }
 
  //1 AU grid:
+ var dist=Math.log2(w/b);
+ var detail=Math.floor(dist);  
+ var widths=[8,1,2,1,4,1,2,1];
  ctx.fillStyle='#0f0';
  for(i=-16;i<16;i++) {
   ctx.fillRect(w/2+(1<<detail)/8*b*i,-w,widths[(16+i)%8]/8,3*w);

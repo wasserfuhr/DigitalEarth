@@ -66,6 +66,6 @@ var w = window,
     g = d.getElementsByTagName('body')[0],
     x = w.innerWidth || e.clientWidth || g.clientWidth,
     y = w.innerHeight|| e.clientHeight|| g.clientHeight;
-d.getElementById('xy').innerHTML=x+'x'+y;"]
+d.getElementById('xy').innerHTML=screen.width+'x'+screen.height;"]
 
 ]]))))
