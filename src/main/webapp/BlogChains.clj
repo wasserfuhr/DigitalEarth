@@ -41,12 +41,12 @@ a {
      [:body
       [:h1 "BlogChains"]
       [:h2 "Experimental: The BlockChain meets distributed MicroBlogging."]
-      [:p "We now often have far more storage available on our LapTop or SmartPhone than needed to store the *entire* 
-content we and our friends create on FaceBook or TwittEr."]
-      [:p "»BlogChains« uses the storage inside a DataBase of your WebBrowser."]
-      [:input {:type "submit" :value "sync" :onclick "sync()" }]
-      [:div#note]
+      [:p "We now often have far more storage available on our LapTop or SmartPhone than needed to store the *entire*
+content we and our friends create on FaceBook GooglePlus or TwittEr. »BlogChains« uses a local DataBase
+inside your WebBrowser as part of a globally distributed storage layer for immutable data, secured by a so call »HashChain«."]
+      [:input {:type "submit" :value "sync" :onclick "sync()" }] ": "
       [:span#count "?"] " items."
+      [:div#note]
       [:form {:method "post"}
        [:table
         [:tr
