@@ -23,7 +23,20 @@
      [:head
       [:title "BlogChains « SemperBase"]
       [:meta {:http-equiv "Content-type" :content "text/html; charset=utf-8"}]
+      [:script {:src "https://cdn.rawgit.com/google/closure-library/master/closure/goog/base.js"}]
       [:script "
+goog.require('goog.functions');
+goog.require('goog.net.XhrIo');"]
+      [:script "
+function remoteGet() {
+ goog.net.XhrIo.send('/beat.json', function(e) {
+  var xhr = e.target;
+  var obj = xhr.getResponseJson();
+  document.getElementById('beat').innerHTML=
+   '<a href=\"http://planet.sl4.eu/SemperBase.jsp?raw&hash='+obj+'\">#'+obj+'</a>';
+ });
+}
+
 function sync() {
  alert('ToDo');
 }"]
@@ -91,5 +104,12 @@ db.data
 });
 
 db.data.count(function(ct){
- document.getElementById('count').innerHTML=ct;});"]
+ document.getElementById('count').innerHTML=ct;});
+
+function tick() {
+ remoteGet();
+}
+remoteGet();
+setInterval(tick,16000);
+"]
 ]]))))
