@@ -1,0 +1,1 @@
+(fn [rq rs] (.sendRedirect rs "https://dresdenlabs.appspot.com/beat.json"))
