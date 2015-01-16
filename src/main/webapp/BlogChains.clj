@@ -29,7 +29,7 @@ goog.require('goog.functions');
 goog.require('goog.net.XhrIo');"]
       [:script "
 function remoteGet() {
- goog.net.XhrIo.send('/beat.json', function(e) {
+ goog.net.XhrIo.send('/SemperBaseRaf.jsp', function(e) {
   var xhr = e.target;
   var obj = xhr.getResponseJson();
   document.getElementById('beat').innerHTML=
