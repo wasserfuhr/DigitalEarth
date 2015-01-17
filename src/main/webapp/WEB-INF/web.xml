@@ -12,8 +12,16 @@
   <jsp-file>/SemperBaseRaf.jsp</jsp-file>
   <!--servlet-class>S</servlet-class-->
  </servlet>
+ <servlet>
+  <servlet-name>signedin</servlet-name>
+  <jsp-file>/SignedIn.jsp</jsp-file>
+ </servlet>
  <servlet-mapping>
   <servlet-name>base</servlet-name>
   <url-pattern>base/*</url-pattern>
+ </servlet-mapping>
+ <servlet-mapping>
+  <servlet-name>signedin</servlet-name>
+  <url-pattern>signedin/*</url-pattern>
  </servlet-mapping>
 </web-app>

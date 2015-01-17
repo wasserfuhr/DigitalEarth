@@ -6,6 +6,8 @@
   RemoteAddr: <%=request.getRemoteAddr()%><br/>
   RemoteHost: <%=request.getRemoteHost()%><br/>
   RequestURI: <%=request.getRequestURI()%><br/>
+  Scheme: <%=request.getScheme()%><br/>
+  ServerName: <%=request.getServerName()%><br/>
   ServletPath: <%=request.getServletPath()%><br/>
   UserAgent: <%=request.getHeader("User-Agent")%><br/>
   <br/>

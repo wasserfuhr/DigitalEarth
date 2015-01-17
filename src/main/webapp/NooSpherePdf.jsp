@@ -324,6 +324,7 @@ com.itextpdf.text.pdf.PdfWriter
  sl(doc,1);
  ph.add("EndMontage",1);
  ph.add("DesSturmesWucht",1);
+ ph.add("MiMo",4);
  ph.add("ReSet",1);
  ph.add("NurFuerVerRuchte",4);
  ph.add("LeserInnen",1);

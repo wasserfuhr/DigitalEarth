@@ -1,0 +1,1 @@
+<%response.sendRedirect("/RootHandler.jsp?p=SignedIn&token="+request.getParameter("token"));%>
