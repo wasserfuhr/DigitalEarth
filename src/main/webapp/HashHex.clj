@@ -20,10 +20,13 @@
   (.step st)
   (str "\"" (formatHash
    (.getBytes
-    (str
-     (.columnLong st 1) " "
-     (.columnLong st 2) " "
-     (.columnLong st 3) " "
-     (.columnString st 4) " "
-     (.columnLong st 5) " "
-     (.columnString st 6))))"\""))))
+    (if (.equals "063bd77036b211daede5108a33b3c19b6fc26db09f1a4906fd86749f3883e78e" h)
+     "HashBeat"
+     (str
+      (formatHash (.columnBlob st 0)) " "
+      (.columnLong st 1) " "
+      (.columnLong st 2) " "
+      (.columnLong st 3) " "
+      (.columnString st 4) " "
+      (.columnLong st 5) " "
+      (.columnString st 6)))))"\""))))

@@ -53,6 +53,8 @@ goog.require('goog.net.XhrIo');"]
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(e, s);})();"]
       [:script "
+var unfetched=[];
+
 function remoteGet() {
  goog.net.XhrIo.send('/SemperBaseRaf.jsp', function(e) {
   var xhr = e.target;
@@ -62,14 +64,13 @@ function remoteGet() {
  });
 }
 
-var unfetched;
 function sync() {
- syncing=true;
- document.getElementById('sync').value='Stop sync...';
+ syncing=!syncing;
+ document.getElementById('sync').value=syncing?'Stop sync...':'Sync!';
  goog.net.XhrIo.send('/RootHandler.jsp?p=HashIndex', function(e) {
   var xhr = e.target;
   unfetched = xhr.getResponseJson();
-  document.getElementById('note').innerHTML='fetched '+obj.unfetched;
+  document.getElementById('note').innerHTML='fetched '+unfetched.length;
  });
 
 }"]
@@ -91,7 +92,7 @@ a {
 content we and our friends create on FaceBook GooglePlus or TwittEr. »BlogChains« uses a local DataBase
 inside your WebBrowser as part of a globally distributed storage layer for immutable data, secured by a so call »HashChain«."]
       [:div#janrainEngageEmbed]
-      [:input#sync {:type "submit" :value "sync" :onclick "sync()" }] ": "
+      [:input#sync {:type "submit" :value "Sync!" :onclick "sync()" }] ": "
       [:span#count "?"] " items."
       [:div#note]
       [:form {:method "post"}
@@ -123,7 +124,7 @@ document.getElementById('beat').innerHTML=CryptoJS.SHA256('HashBeat');
 var db = new Dexie('SemperBase');
 // Define a schema
 db.version(1)
-.stores({data:'hash,value'
+.stores({data:'hash,value,bytes,cachedAt'
 //.stores({data:'hash,p0,p1,p2,p3,tag,script,size'
 });
 
@@ -146,16 +147,16 @@ function tick() {
    var xhr = e.target;
    var obj = xhr.getResponseJson();
    var words = CryptoJS.enc.Hex.parse(obj);
-   var hex   = CryptoJS.enc.Hex.stringify(words);
-   if(CryptoJS.SHA256(hex)!=fetch) {
-    console.log('mismatch: '+fetch);
+   //var hex   = CryptoJS.enc.Hex.stringify(words);
+   if(CryptoJS.SHA256(words).toString()!=fetch) {
+    console.log('mismatch: '+fetch+' '+words);
    }
-
    db.data
     .add({
      hash:fetch,
-     size:words.length/2,
-     script:obj});
+     value:words,
+     bytes:words.sigBytes,
+     cachedAt:new Date().getTime()});
   });
  }
 }
