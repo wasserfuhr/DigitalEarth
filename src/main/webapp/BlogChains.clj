@@ -68,11 +68,17 @@ function sync() {
  syncing=!syncing;
  document.getElementById('sync').value=syncing?'Stop sync...':'Sync!';
  goog.net.XhrIo.send('/RootHandler.jsp?p=HashIndex', function(e) {
-  var xhr = e.target;
-  unfetched = xhr.getResponseJson();
-  document.getElementById('note').innerHTML='fetched '+unfetched.length;
+  var fetchCandidates = e.target.getResponseJson();
+  for(var i=0;i<fetchCandidates.length;i++) { 
+   var candidate=fetchCandidates[i];
+   db.data.get(candidate, function(r){
+    if(!r
+     || CryptoJS.SHA256(r.value).toString()!=r.hash) {
+     unfetched.push(candidate);
+    }});
+  }
+  document.getElementById('note').innerHTML='fetching '+unfetched.length;
  });
-
 }"]
       [:style {:type "text/css"} "
 body {
@@ -93,7 +99,8 @@ content we and our friends create on FaceBook GooglePlus or TwittEr. »BlogChain
 inside your WebBrowser as part of a globally distributed storage layer for immutable data, secured by a so call »HashChain«."]
       [:div#janrainEngageEmbed]
       [:input#sync {:type "submit" :value "Sync!" :onclick "sync()" }] ": "
-      [:span#count "?"] " items."
+      [:span#count "?"] " items, "
+      [:span#bytes "0"] " bytes."
       [:div#note]
       [:form {:method "post"}
        [:table
@@ -115,8 +122,12 @@ inside your WebBrowser as part of a globally distributed storage layer for immut
       [:br]
       [:small "ChainHead: " [:span#beat (formatHash (hash "HashBeat"))]]
       [:script "
+var bytes=0;
+var items=0;
+var syncing=false;
 var sessionHash ='" (formatHash (hash "HashBeat")) "';
-var sessionPrefix='" (.substring cookie 0 8) "';
+var sessionPrefix='" ;(.substring cookie 0 8)
+  "';
 var remoteHost='" (.getRemoteHost rq) "';
 
 document.getElementById('beat').innerHTML=CryptoJS.SHA256('HashBeat');
@@ -133,9 +144,18 @@ db.open()
    alert('Uh oh : ' + error);});
 
 db.data.count(function(ct){
+ itemts=ct;
  document.getElementById('count').innerHTML=ct;});
 
-var syncing=false;
+db.data
+ .each(function(v){
+  if(CryptoJS.SHA256(v.value).toString()!=v.hash) {
+   console.log('WRONG HASH: '+v.hash);
+  }
+  bytes+=v.bytes;
+  })
+ .finally(function () {
+  document.getElementById('bytes').innerHTML=bytes;});
 
 function tick() {
  if (Math.floor(new Date().getTime()/1000)%16==0) {
@@ -144,23 +164,26 @@ function tick() {
  if (syncing && unfetched.length>0) {
   fetch=unfetched.pop();
   goog.net.XhrIo.send('/RootHandler.jsp?p=HashHex&hash='+fetch, function(e) {
-   var xhr = e.target;
-   var obj = xhr.getResponseJson();
-   var words = CryptoJS.enc.Hex.parse(obj);
-   //var hex   = CryptoJS.enc.Hex.stringify(words);
-   if(CryptoJS.SHA256(words).toString()!=fetch) {
-    console.log('mismatch: '+fetch+' '+words);
+    var xhr = e.target;
+    var obj = xhr.getResponseJson();
+    var words = CryptoJS.enc.Hex.parse(obj);
+    //var hex   = CryptoJS.enc.Hex.stringify(words);
+    if(CryptoJS.SHA256(words).toString()!=fetch) {
+     console.log('mismatch: '+fetch+' '+words);
+    } else {
+     db.data
+      .add({
+       hash:fetch,
+       value:words,
+       bytes:words.sigBytes,
+       cachedAt:new Date().getTime()});
+    bytes+=words.sigBytes;
+    items++;
+    document.getElementById('count').innerHTML=items;
+    document.getElementById('bytes').innerHTML=bytes;
    }
-   db.data
-    .add({
-     hash:fetch,
-     value:words,
-     bytes:words.sigBytes,
-     cachedAt:new Date().getTime()});
   });
  }
 }
 remoteGet();
-setInterval(tick,1000);
-"]
-]]))))
+setInterval(tick,1000);"]]]))))
