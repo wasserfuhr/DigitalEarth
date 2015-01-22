@@ -159,4 +159,6 @@ function tick() {
 
 setInterval(tick,1000/fps);
 tick();
-"]]]))))
+"]
+  [:br]
+  [:a {:href "https://dresdenlabs.appspot.com/sl4"} "sl++"]]]))))
