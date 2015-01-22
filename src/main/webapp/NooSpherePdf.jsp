@@ -202,8 +202,8 @@ com.itextpdf.text.pdf.PdfWriter
  }
 %>
 <% // http://itextpdf.com/examples/iia.php?id=173
- String rel="a";
- String tapeOut="54c";
+ String rel="b";
+ String tapeOut="54d";
  short rc=1;
  response.setContentType("application/pdf");
  response.setHeader("Content-Disposition", "inline; filename=\"TapeOut"+tapeOut+"Rc"+rc+".pdf\"");
@@ -324,6 +324,7 @@ com.itextpdf.text.pdf.PdfWriter
  sl(doc,1);
  ph.add("EndMontage",1);
  ph.add("DesSturmesWucht",1);
+ ph.add("DieLust",1);
  ph.add("MiMo",4);
  ph.add("ReSet",1);
  ph.add("NurFuerVerRuchte",4);
