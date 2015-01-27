@@ -64,18 +64,21 @@ function remoteGet() {
  });
 }
 
+function getHash(h) {
+   db.data.get(h, function(r){
+    if(!r
+     || CryptoJS.SHA256(r.value).toString()!=r.hash) {
+     unfetched.push(h);
+    }});
+}
+
 function sync() {
  syncing=!syncing;
  document.getElementById('sync').value=syncing?'Stop sync...':'Sync!';
  goog.net.XhrIo.send('/RootHandler.jsp?p=HashIndex', function(e) {
   var fetchCandidates = e.target.getResponseJson();
   for(var i=0;i<fetchCandidates.length;i++) { 
-   var candidate=fetchCandidates[i];
-   db.data.get(candidate, function(r){
-    if(!r
-     || CryptoJS.SHA256(r.value).toString()!=r.hash) {
-     unfetched.push(candidate);
-    }});
+   getHash(fetchCandidates[i]);
   }
   document.getElementById('note').innerHTML='fetching '+unfetched.length;
  });
@@ -162,7 +165,7 @@ function tick() {
  //  remoteGet();
  }
  if (syncing && unfetched.length>0) {
-  fetch=unfetched.pop();
+  var fetch=unfetched.pop();
   goog.net.XhrIo.send('/RootHandler.jsp?p=HashHex&hash='+fetch, function(e) {
     var xhr = e.target;
     var obj = xhr.getResponseJson();
