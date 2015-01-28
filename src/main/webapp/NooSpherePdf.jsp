@@ -325,7 +325,10 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("EndMontage",1);
  ph.add("DesSturmesWucht",1);
  ph.add("DieLust",1);
+ ph.add("BrainChild",1);
  ph.add("MiMo",4);
+ ph.add("RainersLaw",1);
+ ph.add("RainerWasserfuhr",1);
  ph.add("ReSet",1);
  ph.add("NurFuerVerRuchte",4);
  ph.add("LeserInnen",1);
