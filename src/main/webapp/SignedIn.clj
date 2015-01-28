@@ -23,9 +23,9 @@
     json (clojure.data.json/read-str rpxResponse :key-fn keyword)
     p (:profile json)]
    (str sessId " - "
-   (.getTime (java.util.Date)) " - " 
-   {(:identifier p) " - "
-   (:providerName p) " - "
-   (:photo p) " - "
-   (:displayName p) " - "
-))))
+    (.getTime (java.util.Date.)) " - " 
+    (:identifier p) " - "
+    (:providerName p) " - "
+    (:photo p) " - "
+    (:displayName p) " - "
+)))))

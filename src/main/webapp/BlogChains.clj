@@ -96,7 +96,7 @@ a {
       [:script {:src "https://rawgit.com/dfahlander/Dexie.js/master/dist/latest/Dexie.min.js"}]]
      [:body
       [:h1 "BlogChains"]
-      [:h2 "Experimental: The BlockChain meets distributed MicroBlogging."]
+      [:h3 "Experimental: The BlockChain meets distributed MicroBlogging."]
       [:p "We now often have far more storage available on our LapTop or SmartPhone than needed to store the *entire*
 content we and our friends create on FaceBook GooglePlus or TwittEr. »BlogChains« uses a local DataBase
 inside your WebBrowser as part of a globally distributed storage layer for immutable data, secured by a so call »HashChain«."]
@@ -111,8 +111,6 @@ inside your WebBrowser as part of a globally distributed storage layer for immut
          [:td {:style "vertical-align:top; padding-right:20px" :rowspan 2}
           "RecentPosts:"
           [:ul
-           [:li "FriPa"]
-           [:li "UnParty"]
            [:li "WikiChains"]]]
          [:td {:style "vertical-align:top"}
           "Title:"]
