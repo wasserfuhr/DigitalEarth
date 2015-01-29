@@ -345,6 +345,7 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("TraumPaare",3);
  ph.add("InnBankSe",4);
  ph.add("LebensKunst",1);
+ ph.add("MindSummit",1);
  ph.add("SchickSaal",3);
  ph.add("ZukunftsRomanGlossar",1);
  ph.add("DeepBlue",1);

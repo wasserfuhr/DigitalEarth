@@ -97,9 +97,10 @@ a {
      [:body
       [:h1 "BlogChains"]
       [:h3 "Experimental: The BlockChain meets distributed MicroBlogging."]
-      [:p "We now often have far more storage available on our LapTop or SmartPhone than needed to store the *entire*
+      [:p "We now often have far more storage available on our LapTop or SmartPhone than we need to store the *entire*
 content we and our friends create on FaceBook GooglePlus or TwittEr. »BlogChains« uses a local DataBase
-inside your WebBrowser as part of a globally distributed storage layer for immutable data, secured by a so call »HashChain«."]
+inside your WebBrowser as part of a globally distributed storage for immutable data, secured by a so called »"
+[:a {:href "https://en.wikipedia.org/wiki/Hash_chain"} "HashChain"]"«. " [:i "Check it out:"]]
       [:div#janrainEngageEmbed]
       [:input#sync {:type "submit" :value "Sync!" :onclick "sync()" }] ": "
       [:span#count "?"] " items, "
@@ -121,7 +122,8 @@ inside your WebBrowser as part of a globally distributed storage layer for immut
          [:td {:style "vertical-align:top"}
           [:textarea {:name "script"}]]]]]
       [:br]
-      [:small "ChainHead: " [:span#beat (formatHash (hash "HashBeat"))]]
+      [:small "ChainHead: " [:span#beat (formatHash (hash "HashBeat"))]
+       ". " [:a {:href "http://sl4.eu/im"} "ImPrint"]"."]
       [:script "
 var bytes=0;
 var items=0;
@@ -187,4 +189,7 @@ function tick() {
  }
 }
 remoteGet();
-setInterval(tick,1000);"]]]))))
+setInterval(tick,1000);"]
+[:br]
+
+]]))))
