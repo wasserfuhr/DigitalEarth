@@ -23,8 +23,10 @@ a {
    [:body
     "/" [:br]
     [:div {:style "text-align:center"}
+     [:input {:style "font-size:10pt; font-family:monospace"}] [:br]
+     [:input {:style "font-size:10pt; font-family:monospace"}] [:br]
      [:textarea {:style "font-size:10pt; font-family:monospace" :rows 8 :cols 35}
-//23456789abcdef 123456789abcdef
+"//23456789abcdef 123456789abcdef
 
 e=2.17828;
 pi=3.14159;
