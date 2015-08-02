@@ -24,10 +24,9 @@ a {
     "/" [:br]
     [:div {:style "text-align:center"}
      [:textarea {:style "font-size:10pt; font-family:monospace" :rows 8 :cols 35}
-"//your WikiScript here:
 //23456789abcdef 123456789abcdef
 
-e=2.17;
+e=2.17828;
 pi=3.14159;
 d?"]
      [:canvas#c {:width 200 :height 80}]

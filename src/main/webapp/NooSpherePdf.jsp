@@ -256,8 +256,8 @@ com.itextpdf.text.pdf.PdfWriter
   new Font(FontFamily.HELVETICA,22, Font.BOLD));
  pt.setSpacingBefore(0);
  doc.add(pt);
- // Image img = Image.getInstance("/home/rawa/TittelBild1704x2272.png");
- Image img = Image.getInstance("/home/rawa/c.png");
+ Image img = Image.getInstance("/home/rawa/TerraDriveIn/TittelBild1704x2272.png");
+ //Image img = Image.getInstance("/home/rawa/.png");
  img.scaleToFit(480*1.187f,640*1.187f);
  img.setAbsolutePosition(
   (PageSize.A4.getWidth() - img.getScaledWidth()) / 2,
@@ -565,10 +565,10 @@ com.itextpdf.text.pdf.PdfWriter
  ph.add("KlappenText",1);
  ph.add("LiteraturPapst",3);
 
- img=Image.getInstance("/home/rawa/StauneBild.jpg");
- img=Image.getInstance("/home/rawa/DerAugenblick.jpg");
- img=Image.getInstance("/home/rawa/NooGrey.png");
- img.scaleToFit(320, 240);
+// img=Image.getInstance("/home/rawa/StauneBild.jpg");
+// img=Image.getInstance("/home/rawa/DerAugenblick.jpg");
+// img=Image.getInstance("/home/rawa/NooGrey.png");
+ //img.scaleToFit(320, 240);
  //doc.add(img);
  doc.close();
  response.setContentLength(baos.size());
