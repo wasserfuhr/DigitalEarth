@@ -1,5 +1,9 @@
 (fn [rq rs]
  (let [
+   inSize 43
+   v0 " 123456789abcdef"
+   v1 " 123456789a"
+   v (str "0123456789abcdef" v0 v1)
    formatHash
     (fn [hash]
      (apply str
@@ -21,19 +25,24 @@ a {
  color: #0f0;
 }"]]
    [:body
-    "/" [:br]
-    [:div {:style "text-align:center"}
-     [:input {:style "font-size:10pt; font-family:monospace"}] [:br]
-     [:input {:style "font-size:10pt; font-family:monospace"}] [:br]
-     [:textarea {:style "font-size:10pt; font-family:monospace" :rows 8 :cols 35}
-"//23456789abcdef 123456789abcdef
-
-e=2.17828;
-pi=3.14159;
-d?"]
+    "/ - "
+    [:a#st {:href "http://time.sl4.eu/"}]
+    [:br]
+    [:div {:style "text-align:left"}
+     [:input {:style "font-size:11px; font-family:monospace;margin:0;padding:0" :size inSize :value v}] [:br]
+     [:input {:style "font-size:11px; font-family:monospace;margin:0;padding:0" :size inSize :value v}] [:br]
+     [:input {:style "font-size:11px; font-family:monospace;margin:0;padding:0" :size inSize :value v}] [:br]
+     [:input {:style "font-size:11px; font-family:monospace;margin:0;padding:0" :size inSize :value v}] [:br]
+     [:input {:style "font-size:11px; font-family:monospace;margin:0;padding:0" :size inSize :value v}] [:br]
+     [:input {:style "font-size:11px; font-family:monospace;margin:0;padding:0" :size (- inSize 2) :value v}] 
+     [:span#ct "ff"] [:br]
+;"//23456789abcdef 123456789abcdef
+;
+;e=2.17828;
+;pi=3.14159;
+;d?"]
      [:canvas#c {:width 200 :height 80}]
      [:br]
-     [:a#st {:href "http://time.sl4.eu/"}]
     [:script "
 var ctx=document.getElementById('c').getContext('2d');
 
