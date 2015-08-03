@@ -43,6 +43,8 @@ function edit(l) {
  l3.value=sub(bytes,3);
  l4.value=sub(bytes,4);
  l5.value=sub(bytes,5);
+;BoRg:1urw
+;DiGo:1337
  document.getElementById('l'+l).selectionStart=sS;
  document.getElementById('l'+l).selectionEnd=sS;
  document.getElementById('ct').innerHTML=bytes.length.toString(16);
@@ -57,7 +59,7 @@ a {
  color: #0f0;
 }"]]
    [:body
-    [:h1 {:style "font-size:12pt"} [:a {:href "http://sl4.eu/1"} "RaWa"] "@" [:a#st {:href "http://time.sl4.eu/"} "st00000000"]
+    [:h1 {:style "font-size:12pt"} [:a {:href "http://sl4.eu/1"} "RaWa"] ":" (.substring sc 0 4) "@" [:a#st {:href "http://time.sl4.eu/"} "st00000000"]
     ": /"]
     [:div {:style "text-align:left"}
      [:input#l0 {:style style :size (+ inSize 1) :value "WelCome to the NooSphere!" :oninput "edit(0)"}] [:br]
@@ -69,7 +71,7 @@ a {
      [:span#ct "ff"] [:br]
 ;e=2.17828;
 ;pi=3.14159;
-     ;(.substring sc 0 4) ;1urw
+     (.substring sc 0 4) ;1urw
      [:canvas#c {:width 200 :height 80}]
      [:br]
      [:script "
