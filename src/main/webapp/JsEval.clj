@@ -1,5 +1,6 @@
 (fn [rq rs]
  (let [
+   sc (apply str (map (fn [c] (if (.equals "SemperCookie" (.getName c)) (.getValue c))) (.getCookies rq)))
    inSize 43
    style "font-size:11px; font-family:monospace;margin:0;padding:0"
    v0 " 123456789abcdef"
@@ -28,8 +29,6 @@ function sub(b,l) {
 
 function edit(l) {
  s=43;
- sp0='                       ';
- spx=sp0+sp0+sp0+sp0;
  var l0=document.getElementById('l0');
  var l1=document.getElementById('l1');
  var l2=document.getElementById('l2');
@@ -37,8 +36,7 @@ function edit(l) {
  var l4=document.getElementById('l4');
  var l5=document.getElementById('l5');
  var sS=document.getElementById('l'+l).selectionStart;
- var b0=l0.value+l1.value+l2.value+l3.value+l4.value+l5.value;
- var bytes=b0;//+spx;
+ var bytes=l0.value+l1.value+l2.value+l3.value+l4.value+l5.value;
  l0.value=sub(bytes,0);
  l1.value=sub(bytes,1);
  l2.value=sub(bytes,2);
@@ -47,7 +45,7 @@ function edit(l) {
  l5.value=sub(bytes,5);
  document.getElementById('l'+l).selectionStart=sS;
  document.getElementById('l'+l).selectionEnd=sS;
- document.getElementById('ct').innerHTML=b0.length.toString(16);
+ document.getElementById('ct').innerHTML=bytes.length.toString(16);
 }"]
      [:style {:type "text/css"} "
 body {
@@ -59,11 +57,10 @@ a {
  color: #0f0;
 }"]]
    [:body
-    [:a {:href "/1"} "RaWa"] "@" [:a#st {:href "http://time.sl4.eu/"} "st00000000"]
-    ": /"
-    [:br]
+    [:h1 {:style "font-size:12pt"} [:a {:href "http://sl4.eu/1"} "RaWa"] "@" [:a#st {:href "http://time.sl4.eu/"} "st00000000"]
+    ": /"]
     [:div {:style "text-align:left"}
-     [:input#l0 {:style style :size (+ inSize 1) :value "WelCome to the NooSphere" :oninput "edit(0)"}] [:br]
+     [:input#l0 {:style style :size (+ inSize 1) :value "WelCome to the NooSphere!" :oninput "edit(0)"}] [:br]
      [:input#l1 {:style style :size (+ inSize 1) :value vx :oninput "edit(1)"}] [:br]
      [:input#l2 {:style style :size (+ inSize 1) :value vx :oninput "edit(2)"}] [:br]
      [:input#l3 {:style style :size (+ inSize 1) :value vx :oninput "edit(3)"}] [:br]
@@ -72,9 +69,10 @@ a {
      [:span#ct "ff"] [:br]
 ;e=2.17828;
 ;pi=3.14159;
+     ;(.substring sc 0 4) ;1urw
      [:canvas#c {:width 200 :height 80}]
      [:br]
-    [:script "
+     [:script "
 var ctx=document.getElementById('c').getContext('2d');
 
 var p=3;
