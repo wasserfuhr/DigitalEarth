@@ -45,6 +45,7 @@ function edit(l) {
  l5.value=sub(bytes,5);
 ;BoRg:1urw
 ;DiGo:1337
+;TinesHp:?
  document.getElementById('l'+l).selectionStart=sS;
  document.getElementById('l'+l).selectionEnd=sS;
  document.getElementById('ct').innerHTML=bytes.length.toString(16);
