@@ -1,6 +1,5 @@
 <!DOCTYPE html><%!
   public String ping(String s) {
-   //System.out.println("oo");
    String now=""+new java.util.Date().getTime()+"";
    String nowF=now.substring(0,1)+"."+
     now.substring(1,4)+"."+
@@ -26,8 +25,8 @@
 %>
 <html>
  <head>
-  <title>DigitalPlanet</title>
-  <link rel="canonical" href="http://planet.sl4.eu/"/>
+  <title>NooSphere</title>
+  <link rel="canonical" href="http://185.32.124.153//"/>
   <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
   <script src="https://cdn.rawgit.com/google/closure-library/master/closure/goog/base.js"></script>
   <script>
@@ -56,6 +55,7 @@
   </style>
  </head>
  <body style="font-family:Arial;background-color:#aaa">
+  <a href="http://sl4.eu/">OldWorld</a>
   <table>
    <tr>
     <td>
