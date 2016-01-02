@@ -4,6 +4,13 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" 
   version="2.5">
+ <!-- http://stackoverflow.com/questions/138948/how-to-get-utf-8-working-in-java-webapps -->
+ <jsp-config>
+  <jsp-property-group>
+   <url-pattern>*.jsp</url-pattern>
+   <page-encoding>UTF-8</page-encoding>
+  </jsp-property-group>
+ </jsp-config>
  <session-config>
   <session-timeout>999999</session-timeout>
  </session-config>
