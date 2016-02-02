@@ -11,9 +11,10 @@ body {
 }
 h1 {
  margin:1px;
+ font-size:120%
 }
  </style>
- <h1><a href="/" style="font-family:monospace; font-variant:normal">&alpha;</a></h1>
+ <h1><a href="/" style="font-amily:monospace; font-variant:normal">&alpha;</a></h1>
  <span id="i"></span>
  <canvas id="c" height="120" width="240"></canvas>
 <hr/>
@@ -30,14 +31,18 @@ function resize (e) {
  var c=document.getElementById('c');
  c.width=w;
  var ctx=c.getContext('2d');
+ ctx.fillStyle='#0f0';
  for(i=0; i<w; i+=2) {
-  ctx.fillStyle='#0f0';
   ctx.fillRect(i,0,1,64); 
  }  
+ ctx.fillStyle='#f00';
  for(i=0; i<w; i+=4) {
-  ctx.fillStyle='#0f0';
   ctx.fillRect(i+1,16,1,32); 
- }  
+ }
+ ctx.fillStyle='#00f';
+ for(i=0; i<w; i+=4) {
+  ctx.fillRect(i+3,24,1,32); 
+ } 
 }
 
 window.onresize = resize;
