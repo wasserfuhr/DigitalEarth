@@ -8,7 +8,7 @@
   (hiccup.core/html "<!DOCTYPE html>"
    [:html
     [:head
-     [:title "HildeKommt « SemperBase"]
+     [:title "LifeMatrix &laquo; SemperBase"]
      [:meta {:http-equiv "Content-type" :content "text/html; charset=utf-8"}]
      [:style {:type "text/css"} "
 body {
@@ -20,7 +20,7 @@ a {
  color: #0f0;
 }"]]
    [:body {:style "text-align:center"}
-    [:canvas#c {:width 320 :height 88}]
+    [:canvas#c {:width 256 :height 64}]
     [:br]
     [:a#st {:href "http://time.sl4.eu/"}]
     [:br]
@@ -47,12 +47,12 @@ var pins=[
 
 var ctx=document.getElementById('c').getContext('2d');
 
-var p=3;
-var l=20;
+var p=2;
+var l=16;
 
 function hori(x,y) {
- x+=2*p;
- y+=2*p;
+ x+=2*p+8;
+ y+=2*p+8;
  ctx.beginPath();
  ctx.moveTo(x-p,y);
  ctx.lineTo(x,y-p);
@@ -65,8 +65,8 @@ function hori(x,y) {
 }
 
 function vert(x,y) {
- x+=2*p;
- y+=2*p;
+ x+=2*p+8;
+ y+=2*p+8;
  ctx.beginPath();
  ctx.moveTo(x,y-p);
  ctx.lineTo(x+p,y);
@@ -92,9 +92,11 @@ function digit(v,x) {
 }
 
 function bits(v,x) {
- for (i=0;i<4;i++) {
+ for (var i=0;i<4;i++) {
   if (v & (1<<(3-i))) {
-    ctx.fillRect(2+x*40+i*8,82,8,8);
+   ctx.fillRect(x*32+i*8,0,8,8);
+  } else {
+   ctx.strokeRect(x*32+i*8,0,8,8);
   }
  }
 }
@@ -103,15 +105,17 @@ function tick() {
  ctx.fillStyle='#000';
  ctx.fillRect(0,0,1024,512);
  ctx.fillStyle='#0f0';
+ ctx.strokeStyle='#0f0';
  var now=new Date();
  var t0=Math.floor(now.getTime()/1000);
  var t16=t0.toString(16);
  document.getElementById('st').innerHTML='st'+t16;
  var t00=(5*(1<<28)+4*(1<<24)+8*(1<<20)+11*(1<<16)+6*(1<<12))-t0; //st548b6
  for (var i=0; i<8; i++) {
-  var v=(t00>>(4*(7-i)))&15;
-  digit(v,i*l*2);
+  var v=(t0>>(4*(7-i)))&15;
+//  var v=(t00>>(4*(7-i)))&15;
   bits(v,i);
+  digit(v,i*l*2);
  }
  //console.log(t00);
 }
