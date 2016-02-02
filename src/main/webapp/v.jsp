@@ -1,24 +1,42 @@
 <html>
  <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-
-<link href="http://sl4.eu/css" rel="stylesheet" type="text/css" />
+  <link href="http://sl4.eu/css" rel="stylesheet" type="text/css" />
  </head>
-<body><h1>&alpha;</h1>
+<body>
+ <style>
+body {
+ margin:0;
+ padding:0;
+}
+h1 {
+ margin:1px;
+}
+ </style>
+ <h1><a href="/" style="font-family:monospace; font-variant:normal">&alpha;</a></h1>
+ <span id="i"></span>
+ <canvas id="c" height="120" width="240"></canvas>
+<hr/>
+<hr/>
+<hr/>
+<hr/>
+<hr/>
 
-<canvas id="c" height="320" width="240"/>
-
-<span id="i"></span>
 <script>
 function resize (e) {
  var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
  var h = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
  document.getElementById('i').innerHTML=w+'x'+h;
- document.getElementById('c').width=w;
-var ctx=document.getElementById('c').getContext('2d');
+ var c=document.getElementById('c');
+ c.width=w;
+ var ctx=c.getContext('2d');
  for(i=0; i<w; i+=2) {
   ctx.fillStyle='#0f0';
   ctx.fillRect(i,0,1,64); 
+ }  
+ for(i=0; i<w; i+=4) {
+  ctx.fillStyle='#0f0';
+  ctx.fillRect(i+1,16,1,32); 
  }  
 }
 
@@ -26,15 +44,10 @@ window.onresize = resize;
 resize(null);
 </script>
 
-<br/>
-<br/><br/>
-<br/>
-<br/>
+<br/>a
+<br/>b
 <br/>
 <br/>
-<br/>
-<br/>
-<hr>
 <br/>
 <br/>
 <br/>
@@ -47,6 +60,11 @@ resize(null);
 <br/>
 <br/>
 <hr>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<hr/>
 </body>
 </html>
