@@ -10,6 +10,10 @@
   ServerName: <%=request.getServerName()%><br/>
   ServletPath: <%=request.getServletPath()%><br/>
   UserAgent: <%=request.getHeader("User-Agent")%><br/>
+<% //http://stackoverflow.com/questions/12807797/java-get-available-memory : %>
+<%=Runtime.getRuntime().totalMemory()%> total<br/>
+<%=Runtime.getRuntime().freeMemory()%> free<br/>
+<%=Runtime.getRuntime().maxMemory()%> max<br/>
   <br/>
   Cookies:
 <%Cookie[] cookies = request.getCookies();

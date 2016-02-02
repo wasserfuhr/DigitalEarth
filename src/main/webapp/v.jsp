@@ -1,6 +1,6 @@
 <html>
  <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=0.75,  user-scalable=no">
   <link href="http://sl4.eu/css" rel="stylesheet" type="text/css" />
  </head>
 <body>
@@ -18,11 +18,6 @@ h1 {
  <span id="i"></span>
  <canvas id="c" height="120" width="240"></canvas>
 <hr/>
-<hr/>
-<hr/>
-<hr/>
-<hr/>
-
 <script>
 function resize (e) {
  var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
@@ -44,32 +39,8 @@ function resize (e) {
   ctx.fillRect(i+3,24,1,32); 
  } 
 }
-
 window.onresize = resize;
 resize(null);
-</script>
-
-<br/>a
-<br/>b
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<hr/>
-</body>
+  </script>
+ </body>
 </html>
