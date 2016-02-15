@@ -1,4 +1,3 @@
-
 <!DOCTYPE html><html><head><title>Supergenau Kalorien, Vitamine und so... « α</title><meta content="text/html;charset=utf-8" http-equiv="Content-Type" /><meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport" /></head><style>
 body{font-size:90%;margin:0}
 h1{font-size:115%;margin:0;font-family:sans-serif;background:#0f0;colo:#fff}
@@ -70,7 +69,8 @@ var as=[
 '6209 4316268326209 WeissWein',
 '6295 4008535256295 HoneyWheat',
 '6349 4055400006349 DrehPowerRed',
-'6414 4316268016414 WeizenMehl'
+'6414 4316268016414 WeizenMehl',
+'9531 4300175849531 LangKorn-NaturReis'
 ];
 
 //http://stackoverflow.com/questions/280634/endswith-in-javascript

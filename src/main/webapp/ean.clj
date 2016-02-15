@@ -1,1 +1,1 @@
-(fn[rq rs](slurp"http://sl4.eu/raw/17776001"))
+(fn[rq rs](slurp"https://dresdenlabs.appspot.com/raw/17776001"))
