@@ -12,11 +12,10 @@ h1{font-size:115%;margin:0;font-family:sans-serif;background:#0f0;colo:#fff}
 </td><td>
  <input checked="true" name="u" type="radio" value="g">g (Gramm)</input><br /><input name="u" type="radio" value="ml">ml (MilliLiter)</input>
 </td></tr></table>
-<br />und von hinten nach vorne die letzten Ziffern vom BarCode:
-
+<br/>und von hinten nach vorne die letzten Ziffern vom BarCode:
 <div style="text-align:right;font-family:monospace">
 <input id="c" name="c" style="text-align:right;font-family:monospace" value=" "/><br/>
-<table id="p"><tr><td>produkte werden geladen...</tr></td></p></div>
+<table id="p" style="text-align:right"><tr><td>produkte werden geladen...</tr></td></p></div>
 <script src="/RootHandler.jsp?p=ean"></script>
 <script>
 try {
@@ -29,11 +28,13 @@ function endsWith(str, suffix) {
 }
 
 function ps() {
- var s='';
+ var s='<tr>';
  for (i =0;i<as.length;i++) {
   a=as[i].split(' ');
   if(endsWith(a[1],c.value.trim())){
-   s+='<tr><td>'+a[2]+'</td><td>'+a[1]+'</td><td><img width=32 src=\'9531.jpg\'/></td></tr>';
+   s+='<td>'+as[i].substring(a[0].length+a[1].length+2)+'</td>';
+   s+='<td>'+a[1]+'</td>';
+   s+='<td><img width=32 src=\'eanImg/'+a[0]+'.jpg\'/></td></tr>';
   }
  }
  p.innerHTML=s
@@ -74,22 +75,4 @@ c.onkeydown=function() {
 catch(e) {
  alert(e);
 }
-
-
-</script>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<img src="9531.jpg"/>
-.
-</body></html>
+</script></body></html>
