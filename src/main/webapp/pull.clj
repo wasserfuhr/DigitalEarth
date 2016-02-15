@@ -1,5 +1,9 @@
 (fn[rq rs]
-;(str"var as=["
- (apply str
-  ;(map(fn[l](str "'"l"',"))
-   (filter #(.startsWith % "p:")(.split(slurp"https://dresdenlabs.appspot.com/raw/22086002")"\r\n"))))
+ (let[r(.getParameter rq"r")
+   l(if r r"ld42a9")
+   b"https://dresdenlabs.appspot.com/"
+   h(slurp(str b"head?f="l))
+   f(str(.getParameter rq"f")":")]
+  (apply str
+   (map #(str % "\n")
+    (filter #(.startsWith % f)(.split(slurp(str b"raw/"h"?f="f))"\r\n"))))))
