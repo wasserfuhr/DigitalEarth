@@ -1,0 +1,1 @@
+(fn[rq rs](slurp"http://sl4.eu/raw/17776001"))
