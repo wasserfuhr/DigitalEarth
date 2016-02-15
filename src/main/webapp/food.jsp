@@ -1,13 +1,13 @@
 <!DOCTYPE html><html><head><title>Supergenau Kalorien, Vitamine und so... « α</title><meta content="text/html;charset=utf-8" http-equiv="Content-Type" /><meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport" /></head><style>
 body{font-size:90%;margin:0}
+a{border:0;text-decoration:none;
+ }
 h1{font-size:115%;margin:0;font-family:sans-serif;background:#0f0;colo:#fff}
-.input {
-  ---webkit-user-modify: read-write;
-OA}
-</style><body><h1><sup><a href="/">α</a> »</sup>FoodApp: Supergenau Kalorien, Vitamine und so...</h1>
-<!--__Gib einfach Deine EssensMenge ein:
-<br />-->
-
+</style><body>
+<h1>
+<span style="background:#000;margin-right:8px">
+ <a href="/" style="color:#0f0;padding:5px;font-family:serif"> α </a>
+</span>» FoodApp: Supergenau Kalorien, Vitamine und so...</h1>
 <table><tr><td>Deine Portion: <input max="9999" min="1" name="a" size="4" type="number" />
 </td><td>
  <input checked="true" name="u" type="radio" value="g">g (Gramm)</input><br /><input name="u" type="radio" value="ml">ml (MilliLiter)</input>
@@ -16,8 +16,7 @@ OA}
 
 <div style="text-align:right;font-family:monospace">
 <input id="c" name="c" style="text-align:right;font-family:monospace" value=" "/><br/>
-<p id="p">441342346424
-</p></div>
+<table id="p"><tr><td>produkte werden geladen...</tr></td></p></div>
 <script src="/RootHandler.jsp?p=ean"></script>
 <script>
 try {
@@ -34,7 +33,7 @@ function ps() {
  for (i =0;i<as.length;i++) {
   a=as[i].split(' ');
   if(endsWith(a[1],c.value.trim())){
-   s+=a[2]+' '+a[1]+'<br/>';
+   s+='<tr><td>'+a[2]+'</td><td>'+a[1]+'</td><td><img width=32 src=\'9531.jpg\'/></td></tr>';
   }
  }
  p.innerHTML=s
@@ -91,5 +90,6 @@ catch(e) {
 <br/>
 <br/>
 <br/>
+<img src="9531.jpg"/>
 .
 </body></html>
