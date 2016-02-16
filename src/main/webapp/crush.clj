@@ -1,5 +1,7 @@
 (fn[rq rs]
- (hiccup.core/html "<!DOCTYPE html>" [:html
+ (hiccup.core/html "<!DOCTYPE html>" [:html[:head
+  [:link {:rel "stylesheet" :type "text/css" :href "http://sl4.eu/css"}]
+  [:style"#v{font-family:monospace;font-size:200%;text-align:center}"]]
 [:body
  [:table
   [:tr[:td#v]]
@@ -13,7 +15,7 @@ function tick(){
    v+=1<<i;
   }
  }
- document.getElementById('v').innerHTML=v;
+ document.getElementById('v').innerHTML='0123456789abcdef'.substring(v,v+1);
 }
 setInterval(tick,1000);"
 ]]]))
