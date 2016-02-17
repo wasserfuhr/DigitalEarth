@@ -1,1 +1,1 @@
-(fn[rq rs](.substring(slurp"http://loebner.net/Prizef/TuringArticle.html")0x35a 55))
+(fn[rq rs](.substring(slurp"http://127.0.0.1:8080/RootHandler.jsp?p=sh")0x35a))
