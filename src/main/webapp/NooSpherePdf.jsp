@@ -256,7 +256,7 @@ com.itextpdf.text.pdf.PdfWriter
   new Font(FontFamily.HELVETICA,22, Font.BOLD));
  pt.setSpacingBefore(0);
  doc.add(pt);
- Image img = Image.getInstance("/home/rawa/TerraDriveIn/TittelBild1704x2272.png");
+ Image img = Image.getInstance("/home/rawa/DriveIn/TittelBild1704x2272.png");
  //Image img = Image.getInstance("/home/rawa/.png");
  img.scaleToFit(480*1.187f,640*1.187f);
  img.setAbsolutePosition(
