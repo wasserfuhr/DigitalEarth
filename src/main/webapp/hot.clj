@@ -3,7 +3,7 @@
  [:link{:rel"stylesheet":type"text/css":href"http://sl4.eu/css"}]
  [:style"#v{font-family:monospace;font-size:200%;text-align:center}"]]
 [:body
- (map(fn[i][:br[:img {:src(str"/RootHandler.jsp?p=img&h="i):width "25%"}]])
+ (map(fn[i][:br[:img{:src(str"/RootHandler.jsp?p=img&h="i):width"10%"}]])
   (.split
 "0082ac9151c78f2075911cabf6806dbdc46406c025c05d1cee8a970992a82ebf 8303821ae54e0cea12a478b812683365dee16b354d75ca0972a720a036b9effb 
 0ab6ab0adbb907671387065b121e7e91c21f64a19633f4db5947ddb37a04cf43 885c22c26daa2cdafa57e0a6782c92d03b96a17586b1005f6641a1302e503e20
