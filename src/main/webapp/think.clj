@@ -1,5 +1,5 @@
-(fn[rq rs](let[c(.getAttribute rq"c")]
+(fn[rq rs](let[c(.getAttribute rq"c")
+ r(fn[s t](.replace s(str";"t)(str";<a href='/wiki/Ai"(.toUpperCase(subs t 0 1))(subs t 1)"'>"t"</a>")))]
  ((:ht c)[:body
-  (.replace
-   (str"we "(subs((:h c)((:sh c)"ee"))0x35a 0x406)) ";machine" ";<a href='/wiki/AiMachine'>machine</a>")
+ (r (r (str"we "(subs((:h c)((:sh c)"ee"))0x35a 0x406))"machine") "think")
 ])))
