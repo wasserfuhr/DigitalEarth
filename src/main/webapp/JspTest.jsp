@@ -23,7 +23,7 @@ for(Cookie c:cookies){%>
 <script>
  var st=<%=new java.util.Date().getTime()%>;
  var stl=new Date().getTime();
- alert('WARNING: your LocalTime is off to AtomicTime by ca. '+ (st-stl)/1000+'sec!');
+ alert('WARNING: your LocalTime is off to AtomicTime by ca. '+ (stl-st)/1000+'sec!');
 </script>
  </body>
 </html>

@@ -1,12 +1,11 @@
-(fn [rq rs]
- (let [
+(fn[rq rs](do(.setCharacterEncoding rs"UTF-8")(let[
    hash
-    (fn [msg] ; https://gist.github.com/kisom/1698245
-     (let [hash (java.security.MessageDigest/getInstance "SHA-256")]
+    (fn[msg]; https://gist.github.com/kisom/1698245
+     (let[hash(java.security.MessageDigest/getInstance "SHA-256")]
       (. hash update (.getBytes msg))
       (.digest hash)))
-   s (.getParameter rq "script")
-   t (.getParameter rq "tag")
+   s(.getParameter rq "script")
+   t(.getParameter rq "tag")
    ;"SemperCookie"
    cookie (apply str (map (fn [c] (if (.equals "JSESSIONID" (.getName c)) (.getValue c))) (.getCookies rq)))
    formatHash
@@ -144,7 +143,7 @@ db.version(1)
 
 db.open()
  .catch(function(error){
-   alert('Uh oh : ' + error);});
+   alert('Uh oh : '+error);});
 
 db.data.count(function(ct){
  itemts=ct;
@@ -152,28 +151,27 @@ db.data.count(function(ct){
 
 db.data
  .each(function(v){
-  if(CryptoJS.SHA256(v.value).toString()!=v.hash) {
-   console.log('WRONG HASH: '+v.hash);
-  }
+  if(CryptoJS.SHA256(v.value).toString()!=v.hash){
+   console.log('WRONG HASH: '+v.hash);}
   bytes+=v.bytes;
   })
  .finally(function () {
   document.getElementById('bytes').innerHTML=bytes;});
 
-function tick() {
- if (Math.floor(new Date().getTime()/1000)%16==0) {
- //  remoteGet();
+function tick(){
+ if(Math.floor(new Date().getTime()/1000)%16==0){
+  //remoteGet();
  }
- if (syncing && unfetched.length>0) {
+ if(syncing && unfetched.length>0){
   var fetch=unfetched.pop();
-  goog.net.XhrIo.send('/RootHandler.jsp?p=HashHex&hash='+fetch, function(e) {
+  goog.net.XhrIo.send('/RootHandler.jsp?p=HashHex&hash='+fetch, function(e){
     var xhr = e.target;
     var obj = xhr.getResponseJson();
     var words = CryptoJS.enc.Hex.parse(obj);
     //var hex   = CryptoJS.enc.Hex.stringify(words);
-    if(CryptoJS.SHA256(words).toString()!=fetch) {
+    if(CryptoJS.SHA256(words).toString()!=fetch){
      console.log('mismatch: '+fetch+' '+words);
-    } else {
+    }else{
      db.data
       .add({
        hash:fetch,
@@ -185,11 +183,7 @@ function tick() {
     document.getElementById('count').innerHTML=items;
     document.getElementById('bytes').innerHTML=bytes;
    }
-  });
- }
-}
+  });}}
 remoteGet();
 setInterval(tick,1000);"]
-[:br]
-
-]]))))
+[:br]]])))))
