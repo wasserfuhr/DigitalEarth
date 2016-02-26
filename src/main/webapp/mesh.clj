@@ -1,15 +1,9 @@
-(fn [rq rs]
- (let [
-   formatHash
-    (fn [hash]
-     (apply str
-      (map #(format "%02x" (bit-and % 0xff))
-       hash)))]
+(fn[rq rs](let [
+   formatHash ""]
   (hiccup.core/html "<!DOCTYPE html>"
    [:html
     [:head
-     [:title "LifeMatrix &laquo; SemperBase"]
-     [:meta {:http-equiv "Content-type" :content "text/html; charset=utf-8"}]
+     [:title"AlphaMesh"]
      [:style {:type "text/css"} "
 body {
  background: #000;
@@ -20,105 +14,42 @@ a {
  color: #0f0;
 }"]]
    [:body {:style "text-align:center"}
-    [:canvas#c {:width 256 :height 64}]
-    [:br]
-    [:a#st {:href "http://time.sl4.eu/"}]
-    [:br]
-    [:br]
-    [:img {:src "MariaGarden16129.jpg"}]
+    [:canvas#c {:width 256 :height 320}]
     [:script "
-var pins=[
- '1111110',//0
- '0110000',
- '1101101',
- '1111001',
- '0110011',//4
- '1011011',
- '1011111',
- '1110000',
- '1111111',//8
- '1111011',
- '1110111',
- '0011111',
- '1001110',//b
- '0111101',
- '1001111',
- '1000111'];
-
 var ctx=document.getElementById('c').getContext('2d');
+var xs=[];
+var ys=[];
 
-var p=2;
-var l=16;
-
-function hori(x,y) {
- x+=2*p+8;
- y+=2*p+8;
- ctx.beginPath();
- ctx.moveTo(x-p,y);
- ctx.lineTo(x,y-p);
- ctx.lineTo(x+l,y-p);
- ctx.lineTo(x+l+p,y);
- ctx.lineTo(x+l,y+p);
- ctx.lineTo(x,y+p);
- ctx.closePath();
- ctx.fill();
+function dist(i,j){
+ return Math.pow(xs[i]-xs[j],2)+
+ Math.pow(ys[i]-ys[j],2)
 }
 
-function vert(x,y) {
- x+=2*p+8;
- y+=2*p+8;
- ctx.beginPath();
- ctx.moveTo(x,y-p);
- ctx.lineTo(x+p,y);
- ctx.lineTo(x+p,y+l);
- ctx.lineTo(x,y+l+p);
- ctx.lineTo(x-p,y+l);
- ctx.lineTo(x-p,y);
- ctx.closePath();
- ctx.fill();
-}
-
-function digit(v,x) {
- //https://en.wikipedia.org/wiki/Seven-segment_display#Displaying_letters
- var h=pins[v];
- var c=0;
- if ('1'==h.substring(c++,c)) hori(x,0);
- if ('1'==h.substring(c++,c)) vert(x+l,0);
- if ('1'==h.substring(c++,c)) vert(x+l,l+2*p);
- if ('1'==h.substring(c++,c)) hori(x,2*l+2*p);
- if ('1'==h.substring(c++,c)) vert(x,l+2*p);
- if ('1'==h.substring(c++,c)) vert(x,0);
- if ('1'==h.substring(c++,c)) hori(x,l+p);
-}
-
-function bits(v,x) {
- for (var i=0;i<4;i++) {
-  if (v & (1<<(3-i))) {
-   ctx.fillRect(x*32+i*8,0,8,8);
-  } else {
-   ctx.strokeRect(x*32+i*8,0,8,8);
+function draw(){
+ ctx.fillStyle='#000';
+ ctx.fillRect(0,0,1024,512);
+ ctx.strokeStyle='#080';
+ ctx.fillStyle='#fff';
+ Math.random();
+ for(var i=0;i<60;i++){
+  xs[i] =Math.random()*200;
+  ys[i] =Math.random()*300;
+  ctx.fillRect(xs[i],ys[i],2,2);}
+ for(var i=0;i<60;i++){
+  var best=0;
+  for(var j=0;j<60;j++){
+   if(i!=j) {
+    if(dist(i,j)<dist(i,best)){
+     best=j;
+    }
+   }
+   ctx.beginPath();
+   ctx.moveTo(xs[i],ys[i]);
+   ctx.lineTo(xs[best],ys[best]);
+   ctx.stroke();
   }
  }
 }
-
-function tick() {
- ctx.fillStyle='#000';
- ctx.fillRect(0,0,1024,512);
- ctx.fillStyle='#0f0';
- ctx.strokeStyle='#0f0';
- var now=new Date();
- var t0=Math.floor(now.getTime()/1000);
- var t16=t0.toString(16);
- document.getElementById('st').innerHTML='st'+t16;
- var t00=(5*(1<<28)+4*(1<<24)+8*(1<<20)+11*(1<<16)+6*(1<<12))-t0; //st548b6
- for (var i=0; i<8; i++) {
-  var v=(t0>>(4*(7-i)))&15;
-//  var v=(t00>>(4*(7-i)))&15;
-  bits(v,i);
-  digit(v,i*l*2);
- }
- //console.log(t00);
-}
-
-setInterval(tick,1000);
+//setInterval(draw,2000);
+draw();
 "]]]))))
