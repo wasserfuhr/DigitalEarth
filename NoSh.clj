@@ -1,13 +1,13 @@
-(fn [rq rs rf]
- (let [
+(fn[rq rs rf]
+ (let[
    formatHash
-    (fn [hash]
+    (fn[hash]
      (apply str
-      (map #(format "%02x" (bit-and % 0xff))
+      (map #(format "%02x"(bit-and % 0xff))
        hash)))
    ;MagicWord:
-   a (.readByte rf)
-   acc (.readByte rf)]
+   a(.readByte rf)
+   acc(.readByte rf)]
   (if (and (== (byte 10) a) (== (byte 7) acc))
    (let [
      t (.readByte rf)]
