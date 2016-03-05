@@ -1,0 +1,1 @@
+(fn[rq rs](slurp(str"/home/rawa/GitHoster/GoogleProjectHosting/ungit.wiki/"(.getParameter rq"s")".wiki")))
