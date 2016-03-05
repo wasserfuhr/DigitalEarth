@@ -1,8 +1,8 @@
-(fn [rq rs db]
- (let [
+(fn[rq rs db]
+ (let[
    hash
-    (fn [msg] ; https://gist.github.com/kisom/1698245
-     (let [hash (java.security.MessageDigest/getInstance "SHA-256")]
+    (fn[msg];https://gist.github.com/kisom/1698245
+     (let[hash(java.security.MessageDigest/getInstance "SHA-256")]
       (. hash update (.getBytes msg))
       (.digest hash)))
    s (.getParameter rq "script")
