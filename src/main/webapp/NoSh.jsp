@@ -1,24 +1,19 @@
 <%
- Cookie[] cookies = request.getCookies();
+ Cookie[] cookies=request.getCookies();
  String sc="";
- if( cookies != null) {
+ if(cookies!=null) {
   for (int i = 0; i < cookies.length; i++){
-   if ("JSESSIONID".equals( cookies[i].getName())) {
+   if ("JSESSIONID".equals( cookies[i].getName())){
     sc=cookies[i].getValue();
-    System.out.println(">"+sc+"<");
-
-   }
-  }
- }
+    System.out.println(">"+sc+"<");}}}
  //1m7sujie9k02zlhklbw9iv3bl //DiebesGott Browser
  //135sqn1a7lbyet4lztju7x62y //TinesHp RaWa GoogleChrome
  String l=request.getParameter("log");
- if(null!=l) {
+ if(null!=l){
   String ls[]=l.split("\n");
-  System.out.println(">>"+ls.length);
-  for (int i=0; i<ls.length; i++) {
-   System.out.println(">"+ls[i]+"<");
-  }
+  System.out.println(new java.util.Date().getTime()+":");
+  for(int i=0;i<ls.length;i++){
+   System.out.println(">"+ls[i]);}
  %>"ok"<%
  } else {%>
 <html>
