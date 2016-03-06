@@ -10,7 +10,7 @@
  //135sqn1a7lbyet4lztju7x62y //TinesHp RaWa GoogleChrome
  String l=request.getParameter("log");
  if(null!=l){
-  String ls[]=l.split("\n");
+  String ls[]=(l+"\n").split("\n");
   System.out.println(new java.util.Date().getTime()+":");
   for(int i=0;i<ls.length;i++){
    System.out.println(">"+ls[i]);}
