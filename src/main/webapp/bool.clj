@@ -17,6 +17,24 @@ a {
     [:canvas#c {:width 300 :height 400}]
     [:script "
 var ctx=document.getElementById('c').getContext('2d');
+
+//document.getElementById('c').addEventListener('click',function(e){
+document.getElementById('c').addEventListener('touchstart',function(e){
+e.preventDefault();
+alert(e+' '+e.touches[0].clientX+' '+e.touches[0].clientY);
+//x=e.x;//-ctx.offsetLeft;
+//y=e.y;//-ctx.offsetTop;
+//x=event.touches[0].pageX;
+//y=event.touches[0].pageY;
+x=e.touches[0].pageX;
+y=e.touches[0].pageY;
+
+//x=e.clientX-c.offsetLeft;
+//y=e.clientY-c.offsetTop;
+ctx.fillStyle='#fff';
+ctx.fillRect(x-2,y-2,2,2);
+},false);
+
 var xs=[];
 var ys=[];
 var dxs=[];
@@ -70,5 +88,5 @@ function draw(){
  for(var i=0;i<60;i++){
   ctx.fillRect(xs[i],ys[i],2,2);}
 }
-setInterval(draw,100);
+//setInterval(draw,100);
 "]]]))))
