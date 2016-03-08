@@ -15,6 +15,7 @@ clojure.lang.RT"%><%
  String p=home+"/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/"+s+".clj";
  RT.loadResourceScript("hiccup/core.clj");
  RT.loadResourceScript("clojure/data/json.clj");
+ RT.loadResourceScript("clojure/java/shell.clj");
  String f=new String(Files.readAllBytes(Paths.get(i)));
  PushbackReader pr=new PushbackReader(new StringReader(f));
  Object c=LispReader.read(pr,true,null,false);
