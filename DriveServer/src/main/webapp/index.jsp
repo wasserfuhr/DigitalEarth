@@ -1,18 +1,14 @@
 <html>
- <head>
-  <title>DigitalPlanet</title>
+ <head><title>DigitalPlanet</title>
   <link rel="canonical" href="http://earth.sl4.eu/"/>
   <style>
-#landmarks a {
- color: black;
-}
-
-.matColor {
+#landmarks a{
+ color:black;}
+.matColor{
  padding:3pt;
  padding-left:10pt;
- margin-right:4pt;
-}
-#nav button {
+ margin-right:4pt}
+#nav button{
  width:20px;
  height:20px;
  z-index:2;
