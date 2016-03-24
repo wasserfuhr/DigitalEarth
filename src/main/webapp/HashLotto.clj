@@ -1,1 +1,1 @@
-(fn[rq rs](slurp"/home/rawa/BfNew.log"))
+(fn[rq rs](str"<html><pre>"(slurp"/home/rawa/BfNew.log")))
