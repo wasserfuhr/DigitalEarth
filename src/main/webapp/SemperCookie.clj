@@ -1,10 +1,10 @@
-(fn [rq rs]
- (let [
-   sc (apply str (map (fn [c] (if (.equals "SemperCookie" (.getName c)) (.getValue c))) (.getCookies rq)))
+(fn[rq rs]
+ (let[
+   sc(apply str(map(fn[c](if(="SemperCookie"(.getName c))(.getValue c)))(.getCookies rq)))
    formatHash
     (fn [hash]
      (apply str
-      (map #(format "%02x" (bit-and % 0xff))
+      (map #(format"%02x"(bit-and % 0xff))
        hash)))]
   (hiccup.core/html "<!DOCTYPE html>"
    [:html
@@ -12,17 +12,14 @@
      [:title "SemperCookie « NooSphere"]
      [:meta {:http-equiv "Content-type" :content "text/html; charset=utf-8"}]
      [:style {:type "text/css"} "
-body {
+body{
  background: #000;
  color: #0f0;
- font-family: monospace;
-}
-a {
- color: #0f0;
-}
-th {
- text-align: left;
-}
+ font-family:monospace}
+a{
+ color: #0f0}
+th{
+ text-align:left}
 "]]
    [:body {:style "text-align:center"}
     [:h1 "SemperCookie"]
