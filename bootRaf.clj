@@ -1,5 +1,5 @@
 (fn [rq rs rf]
- (let [
+ (let[
    formatHash
     (fn [hash]
      (apply str
@@ -9,15 +9,15 @@
    a (.readByte rf)
    acc (.readByte rf)]
   (if (and (== (byte 10) a) (== (byte 7) acc))
-   (let [
-     t (.readByte rf)]
-    (if (== 1 t)
-     (let [n 1]
+   (let[
+     t(.readByte rf)]
+    (if(== 1 t)
+     (let[n 1]
       1)
      ;CuRe:
-     (let [
-       boot (.readLong rf)
-       head (.readLong rf)
+     (let[
+       boot(.readLong rf)
+       head(.readLong rf)
      x (byte-array 32)]
     (.seek rf boot)
     ;(.read rf x)
