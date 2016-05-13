@@ -1,7 +1,6 @@
 import java.io.File;
 import org.jcodec.api.FrameGrab;
 import org.jcodec.common.model.Picture;
-
 public class Ai{
  public static void main(String[]a) throws Exception{
   File f=new File(System.getProperty("user.home"),"TerraDrive/8d972587a19fc69e328529b283c6243ed5a9845c.mp4");
