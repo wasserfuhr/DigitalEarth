@@ -1,7 +1,7 @@
 (fn [rq rs rf]
  (let[
    formatHash
-    (fn [hash]
+    (fn[hash]
      (apply str
       (map #(format "%02x" (bit-and % 0xff))
        hash)))
