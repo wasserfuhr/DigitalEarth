@@ -35,10 +35,10 @@ com.itextpdf.text.pdf.PdfPageEventHelper,
 com.itextpdf.text.pdf.PdfContentByte,
 com.itextpdf.text.pdf.PdfWriter
 "%><%! // http://blog.abelsky.com/2014/01/22/adding-page-number-to-itext-generated-pdf/
- public class PageStamper extends PdfPageEventHelper {
+ public class PageStamper extends PdfPageEventHelper{
   @Override
-  public void onEndPage(PdfWriter writer, Document document) {
-   try {
+  public void onEndPage(PdfWriter writer, Document document){
+   try{
     final Rectangle pageSize = document.getPageSize();
     final PdfContentByte directContent = writer.getDirectContent();
     directContent.setColorFill(BaseColor.BLACK);
