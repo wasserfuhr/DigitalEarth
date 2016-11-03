@@ -1,4 +1,3 @@
-https://wiki.ungit.googlecode.com/archive/8e07dd7388f7e6758080103c7707b90078601a52.tar.gz
 <%@ page pageEncoding="UTF-8"%><%@page import="
 java.io.BufferedReader,
 java.io.ByteArrayOutputStream,
@@ -36,6 +35,7 @@ com.itextpdf.text.pdf.PdfPageEventHelper,
 com.itextpdf.text.pdf.PdfContentByte,
 com.itextpdf.text.pdf.PdfWriter
 "%><%! // http://blog.abelsky.com/2014/01/22/adding-page-number-to-itext-generated-pdf/
+//https://wiki.ungit.googlecode.com/archive/8e07dd7388f7e6758080103c7707b90078601a52.tar.gz
  public class PageStamper extends PdfPageEventHelper {
   @Override
   public void onEndPage(PdfWriter writer, Document document) {
